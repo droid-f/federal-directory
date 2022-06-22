@@ -1,1 +1,126 @@
-{"id"=>"20041736", "name"=>{"german"=>"D - Direktion / Pool", "french"=>"Direktion / Pool", "italian"=>"Direktion / Pool", "english"=>""}, "nameAbbr"=>{"german"=>"D", "french"=>"D", "italian"=>"D", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5264426", "surname"=>"Hechel", "givenName"=>"Nicole", "email"=>nil, "phone"=>"+41 58 46 09352", "function"=>{"german"=>"Assistentin des Direktors", "french"=>"Assistant(e) du directeur", "italian"=>"Assistente del Direttore", "english"=>"Assistentin des Direktors"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20041736", "label"=>{"german"=>"D", "french"=>"D", "italian"=>"D", "english"=>""}, "name"=>{"german"=>"D - Direktion / Pool", "french"=>"Direktion / Pool", "italian"=>"Direktion / Pool", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041736",
+  "name": {
+    "german": "D - Direktion / Pool",
+    "french": "Direktion / Pool",
+    "italian": "Direktion / Pool",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "D",
+    "french": "D",
+    "italian": "D",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5264426",
+      "surname": "Hechel",
+      "givenName": "Nicole",
+      "email": null,
+      "phone": "+41 58 46 09352",
+      "function": {
+        "german": "Assistentin des Direktors",
+        "french": "Assistant(e) du directeur",
+        "italian": "Assistente del Direttore",
+        "english": "Assistentin des Direktors"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20041736",
+      "label": {
+        "german": "D",
+        "french": "D",
+        "italian": "D",
+        "english": ""
+      },
+      "name": {
+        "german": "D - Direktion / Pool",
+        "french": "Direktion / Pool",
+        "italian": "Direktion / Pool",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

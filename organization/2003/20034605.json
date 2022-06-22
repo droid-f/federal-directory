@@ -1,1 +1,184 @@
-{"id"=>"20034605", "name"=>{"german"=>"HH SET/RK", "french"=>"HH SET/RK", "italian"=>"HH SET/RK", "english"=>"HH SET/RK"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20050727", "name"=>{"german"=>"HH SET Ukraine 2022", "french"=>"HH SET Ukraine 2022", "italian"=>"HH SET Ukraine 2022", "english"=>"HH SET Ukraine 2022"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}, {"id"=>"10000714", "label"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}, "name"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}}, {"id"=>"10001755", "label"=>{"german"=>"Abteilung Europa, Asien und Amerika", "french"=>"Division Europe, Asie et Amérique", "italian"=>"Divisione Europa, Asia e America", "english"=>"Division Europe, Asia and Americas"}, "name"=>{"german"=>"Abteilung Europa, Asien und Amerika", "french"=>"Division Europe, Asie et Amérique", "italian"=>"Divisione Europa, Asia e America", "english"=>"Division Europe, Asia and Americas"}}, {"id"=>"20036365", "label"=>{"german"=>"EAA Dienst Rapid Response", "french"=>"Aide d'urgence", "italian"=>"Aiuti immediati", "english"=>"Rapid Response"}, "name"=>{"german"=>"EAA Dienst Rapid Response", "french"=>"Aide d'urgence", "italian"=>"Aiuti immediati", "english"=>"Rapid Response"}}, {"id"=>"20034604", "label"=>{"german"=>"Rapid Response", "french"=>"Rapid Response", "italian"=>"Rapid Response", "english"=>"Rapid Response"}, "name"=>{"german"=>"Rapid Response", "french"=>"Rapid Response", "italian"=>"Rapid Response", "english"=>"Rapid Response"}}, {"id"=>"20034605", "label"=>{"german"=>"HH SET/RK", "french"=>"HH SET/RK", "italian"=>"HH SET/RK", "english"=>"HH SET/RK"}, "name"=>{"german"=>"HH SET/RK", "french"=>"HH SET/RK", "italian"=>"HH SET/RK", "english"=>"HH SET/RK"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034605",
+  "name": {
+    "german": "HH SET/RK",
+    "french": "HH SET/RK",
+    "italian": "HH SET/RK",
+    "english": "HH SET/RK"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20050727",
+      "name": {
+        "german": "HH SET Ukraine 2022",
+        "french": "HH SET Ukraine 2022",
+        "italian": "HH SET Ukraine 2022",
+        "english": "HH SET Ukraine 2022"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    },
+    {
+      "id": "10000714",
+      "label": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      },
+      "name": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      }
+    },
+    {
+      "id": "10001755",
+      "label": {
+        "german": "Abteilung Europa, Asien und Amerika",
+        "french": "Division Europe, Asie et Amérique",
+        "italian": "Divisione Europa, Asia e America",
+        "english": "Division Europe, Asia and Americas"
+      },
+      "name": {
+        "german": "Abteilung Europa, Asien und Amerika",
+        "french": "Division Europe, Asie et Amérique",
+        "italian": "Divisione Europa, Asia e America",
+        "english": "Division Europe, Asia and Americas"
+      }
+    },
+    {
+      "id": "20036365",
+      "label": {
+        "german": "EAA Dienst Rapid Response",
+        "french": "Aide d'urgence",
+        "italian": "Aiuti immediati",
+        "english": "Rapid Response"
+      },
+      "name": {
+        "german": "EAA Dienst Rapid Response",
+        "french": "Aide d'urgence",
+        "italian": "Aiuti immediati",
+        "english": "Rapid Response"
+      }
+    },
+    {
+      "id": "20034604",
+      "label": {
+        "german": "Rapid Response",
+        "french": "Rapid Response",
+        "italian": "Rapid Response",
+        "english": "Rapid Response"
+      },
+      "name": {
+        "german": "Rapid Response",
+        "french": "Rapid Response",
+        "italian": "Rapid Response",
+        "english": "Rapid Response"
+      }
+    },
+    {
+      "id": "20034605",
+      "label": {
+        "german": "HH SET/RK",
+        "french": "HH SET/RK",
+        "italian": "HH SET/RK",
+        "english": "HH SET/RK"
+      },
+      "name": {
+        "german": "HH SET/RK",
+        "french": "HH SET/RK",
+        "italian": "HH SET/RK",
+        "english": "HH SET/RK"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

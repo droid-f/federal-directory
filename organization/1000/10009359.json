@@ -1,1 +1,155 @@
-{"id"=>"10009359", "name"=>{"german"=>"Bereich Objektsicherheit", "french"=>"Domaine Sécurité des biens immobiliers", "italian"=>"Settore Sicurezza edifici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009355", "label"=>{"german"=>"BSD", "french"=>"SFS", "italian"=>"SFS", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundessicherheitsdienst", "french"=>"Domaine de direction Service fédéral de sécurité", "italian"=>"Ambito direzionale Servizio federale di sicurezza", "english"=>""}}, {"id"=>"10009358", "label"=>{"german"=>"Abteilung Sicherheit Personen und Objekte", "french"=>"Division Sécurité des personnes et des biens immobiliers", "italian"=>"Divisione Sicurezza persone ed edifici", "english"=>""}, "name"=>{"german"=>"Abteilung Sicherheit Personen und Objekte", "french"=>"Division Sécurité des personnes et des biens immobiliers", "italian"=>"Divisione Sicurezza persone ed edifici", "english"=>""}}, {"id"=>"10009359", "label"=>{"german"=>"Bereich Objektsicherheit", "french"=>"Domaine Sécurité des biens immobiliers", "italian"=>"Settore Sicurezza edifici", "english"=>""}, "name"=>{"german"=>"Bereich Objektsicherheit", "french"=>"Domaine Sécurité des biens immobiliers", "italian"=>"Settore Sicurezza edifici", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009359",
+  "name": {
+    "german": "Bereich Objektsicherheit",
+    "french": "Domaine Sécurité des biens immobiliers",
+    "italian": "Settore Sicurezza edifici",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009355",
+      "label": {
+        "german": "BSD",
+        "french": "SFS",
+        "italian": "SFS",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundessicherheitsdienst",
+        "french": "Domaine de direction Service fédéral de sécurité",
+        "italian": "Ambito direzionale Servizio federale di sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009358",
+      "label": {
+        "german": "Abteilung Sicherheit Personen und Objekte",
+        "french": "Division Sécurité des personnes et des biens immobiliers",
+        "italian": "Divisione Sicurezza persone ed edifici",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Sicherheit Personen und Objekte",
+        "french": "Division Sécurité des personnes et des biens immobiliers",
+        "italian": "Divisione Sicurezza persone ed edifici",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009359",
+      "label": {
+        "german": "Bereich Objektsicherheit",
+        "french": "Domaine Sécurité des biens immobiliers",
+        "italian": "Settore Sicurezza edifici",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Objektsicherheit",
+        "french": "Domaine Sécurité des biens immobiliers",
+        "italian": "Settore Sicurezza edifici",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

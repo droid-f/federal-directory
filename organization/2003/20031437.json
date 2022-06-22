@@ -1,1 +1,141 @@
-{"id"=>"20031437", "name"=>{"german"=>"MDPR - Ressourcen Regionalzentrale PAY", "french"=>"Ressources Centre régional Payerne", "italian"=>"Risorse centro regionale Payerne", "english"=>""}, "nameAbbr"=>{"german"=>"MDRP", "french"=>"MDRP", "italian"=>"MDRP", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Chemin de l'Aérologie", "postalCode"=>"1530", "location"=>"Payerne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2398201", "surname"=>"Overney", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 09366", "function"=>{"german"=>"Chef d'équipe", "french"=>"Collaboration Radiosondages/observations", "italian"=>"Coll. Radiosondaggi/osservazioni", "english"=>"Chef d'équipe"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20031386", "label"=>{"german"=>"MD", "french"=>"MD", "italian"=>"MD", "english"=>""}, "name"=>{"german"=>"MD - Messungen und Daten", "french"=>"Mesures et données", "italian"=>"Misure e dati", "english"=>""}}, {"id"=>"20031437", "label"=>{"german"=>"MDRP", "french"=>"MDRP", "italian"=>"MDRP", "english"=>""}, "name"=>{"german"=>"MDPR - Ressourcen Regionalzentrale PAY", "french"=>"Ressources Centre régional Payerne", "italian"=>"Risorse centro regionale Payerne", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031437",
+  "name": {
+    "german": "MDPR - Ressourcen Regionalzentrale PAY",
+    "french": "Ressources Centre régional Payerne",
+    "italian": "Risorse centro regionale Payerne",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "MDRP",
+    "french": "MDRP",
+    "italian": "MDRP",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Chemin de l'Aérologie",
+    "postalCode": "1530",
+    "location": "Payerne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2398201",
+      "surname": "Overney",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 09366",
+      "function": {
+        "german": "Chef d'équipe",
+        "french": "Collaboration Radiosondages/observations",
+        "italian": "Coll. Radiosondaggi/osservazioni",
+        "english": "Chef d'équipe"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20031386",
+      "label": {
+        "german": "MD",
+        "french": "MD",
+        "italian": "MD",
+        "english": ""
+      },
+      "name": {
+        "german": "MD - Messungen und Daten",
+        "french": "Mesures et données",
+        "italian": "Misure e dati",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031437",
+      "label": {
+        "german": "MDRP",
+        "french": "MDRP",
+        "italian": "MDRP",
+        "english": ""
+      },
+      "name": {
+        "german": "MDPR - Ressourcen Regionalzentrale PAY",
+        "french": "Ressources Centre régional Payerne",
+        "italian": "Risorse centro regionale Payerne",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

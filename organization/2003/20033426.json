@@ -1,1 +1,196 @@
-{"id"=>"20033426", "name"=>{"german"=>"Grundlagen", "french"=>"Bases scientifiques", "italian"=>"Basi scientifiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestrasse 6", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7274300", "surname"=>"Bonnet", "givenName"=>"Colin", "email"=>nil, "phone"=>"+41 58 46 38996", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4329951", "surname"=>"Bill", "givenName"=>"Anina Patricia", "email"=>nil, "phone"=>"+41 58 46 32154", "function"=>{"german"=>"Stv. Stabschef/in Abteilung Sicherheit Mitarbeiter/in Abteilungstab Fachspezialist/in", "french"=>"Stv. Stabschefin/MA Abteilungsstab", "italian"=>"Stv. Stabschefin/MA Abteilungsstab", "english"=>"Stv. Stabschefin/MA Abteilungsstab"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8932406", "surname"=>"Hofstetter-Reusser", "givenName"=>"Monika", "email"=>nil, "phone"=>"+41 58 46 08479", "function"=>{"german"=>"Abteilungssekretär/in", "french"=>"Abteilungssekretär/in", "italian"=>"Abteilungssekretär/in", "english"=>"Abteilungssekretär/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0538676", "surname"=>"Rupp", "givenName"=>"Beat", "email"=>nil, "phone"=>"+41 58 46 55660", "function"=>{"german"=>"Fachexperte/in / Wiss. MA", "french"=>"Stv.SC Wiss. MA, Fachverantwortlicher", "italian"=>"Stv.SC Wiss. MA, Fachverantwortlicher", "english"=>"Fachexperte/in / Wiss. MA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6265550", "surname"=>"Ryser", "givenName"=>"Adelheid", "email"=>nil, "phone"=>"+41 58 46 41197", "function"=>{"german"=>"Assistent/in des/der Vizedirektors/in", "french"=>"Assistent/in des/der Vizedirektors/in", "italian"=>"Assistent/in des/der Vizedirektors/in", "english"=>"Assistent/in des/der Vizedirektors/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008753", "label"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}}, {"id"=>"20012766", "label"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>""}, "name"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>""}}, {"id"=>"20033426", "label"=>{"german"=>"Grundlagen", "french"=>"Bases scientifiques", "italian"=>"Basi scientifiche", "english"=>""}, "name"=>{"german"=>"Grundlagen", "french"=>"Bases scientifiques", "italian"=>"Basi scientifiche", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20033426",
+  "name": {
+    "german": "Grundlagen",
+    "french": "Bases scientifiques",
+    "italian": "Basi scientifiche",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestrasse 6",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7274300",
+      "surname": "Bonnet",
+      "givenName": "Colin",
+      "email": null,
+      "phone": "+41 58 46 38996",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4329951",
+      "surname": "Bill",
+      "givenName": "Anina Patricia",
+      "email": null,
+      "phone": "+41 58 46 32154",
+      "function": {
+        "german": "Stv. Stabschef/in Abteilung Sicherheit Mitarbeiter/in Abteilungstab Fachspezialist/in",
+        "french": "Stv. Stabschefin/MA Abteilungsstab",
+        "italian": "Stv. Stabschefin/MA Abteilungsstab",
+        "english": "Stv. Stabschefin/MA Abteilungsstab"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8932406",
+      "surname": "Hofstetter-Reusser",
+      "givenName": "Monika",
+      "email": null,
+      "phone": "+41 58 46 08479",
+      "function": {
+        "german": "Abteilungssekretär/in",
+        "french": "Abteilungssekretär/in",
+        "italian": "Abteilungssekretär/in",
+        "english": "Abteilungssekretär/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0538676",
+      "surname": "Rupp",
+      "givenName": "Beat",
+      "email": null,
+      "phone": "+41 58 46 55660",
+      "function": {
+        "german": "Fachexperte/in / Wiss. MA",
+        "french": "Stv.SC Wiss. MA, Fachverantwortlicher",
+        "italian": "Stv.SC Wiss. MA, Fachverantwortlicher",
+        "english": "Fachexperte/in / Wiss. MA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6265550",
+      "surname": "Ryser",
+      "givenName": "Adelheid",
+      "email": null,
+      "phone": "+41 58 46 41197",
+      "function": {
+        "german": "Assistent/in des/der Vizedirektors/in",
+        "french": "Assistent/in des/der Vizedirektors/in",
+        "italian": "Assistent/in des/der Vizedirektors/in",
+        "english": "Assistent/in des/der Vizedirektors/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "label": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012766",
+      "label": {
+        "german": "Sicherheit",
+        "french": "Sécurité",
+        "italian": "Sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Sicherheit",
+        "french": "Sécurité",
+        "italian": "Sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033426",
+      "label": {
+        "german": "Grundlagen",
+        "french": "Bases scientifiques",
+        "italian": "Basi scientifiche",
+        "english": ""
+      },
+      "name": {
+        "german": "Grundlagen",
+        "french": "Bases scientifiques",
+        "italian": "Basi scientifiche",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

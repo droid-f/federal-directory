@@ -1,1 +1,187 @@
-{"id"=>"20014863", "name"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"finanzdienst@bger.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10005102", "name"=>{"german"=>"Einkauf", "french"=>"Centrale d'achats", "italian"=>"Centrale acquisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005105", "name"=>{"german"=>"Cafeteria Lausanne", "french"=>"Cafétéria Lausanne", "italian"=>"Cafeteria Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015139", "name"=>{"german"=>"Cafeteria Luzern", "french"=>"Cafétéria Lucerne", "italian"=>"Cafeteria Lucerna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6998675", "surname"=>"Joye", "givenName"=>"Pierre-Alain", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Chef Finanzdienst", "french"=>"Chef du service des finances", "italian"=>"Responsabile del servizio delle finanze", "english"=>"Chef Finanzdienst"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7932071", "surname"=>"Baumgartner", "givenName"=>"Vera Andrea", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Chefin Finanzdienst", "french"=>"Suppléante du service des finances", "italian"=>"Supplente dei servizi delle finanze", "english"=>"Stv. Chefin Finanzdienst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005095", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}}, {"id"=>"20014861", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}}, {"id"=>"20014863", "label"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}, "name"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014863",
+  "name": {
+    "german": "Finanzdienst",
+    "french": "Service des finances",
+    "italian": "Servizio delle finanze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "finanzdienst@bger.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10005102",
+      "name": {
+        "german": "Einkauf",
+        "french": "Centrale d'achats",
+        "italian": "Centrale acquisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005105",
+      "name": {
+        "german": "Cafeteria Lausanne",
+        "french": "Cafétéria Lausanne",
+        "italian": "Cafeteria Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015139",
+      "name": {
+        "german": "Cafeteria Luzern",
+        "french": "Cafétéria Lucerne",
+        "italian": "Cafeteria Lucerna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6998675",
+      "surname": "Joye",
+      "givenName": "Pierre-Alain",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Chef Finanzdienst",
+        "french": "Chef du service des finances",
+        "italian": "Responsabile del servizio delle finanze",
+        "english": "Chef Finanzdienst"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7932071",
+      "surname": "Baumgartner",
+      "givenName": "Vera Andrea",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Chefin Finanzdienst",
+        "french": "Suppléante du service des finances",
+        "italian": "Supplente dei servizi delle finanze",
+        "english": "Stv. Chefin Finanzdienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005095",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014861",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014863",
+      "label": {
+        "german": "Finanzdienst",
+        "french": "Service des finances",
+        "italian": "Servizio delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzdienst",
+        "french": "Service des finances",
+        "italian": "Servizio delle finanze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

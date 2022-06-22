@@ -1,1 +1,158 @@
-{"id"=>"10009465", "name"=>{"german"=>"Sektion Richtplanung", "french"=>"Section Planification directrice", "italian"=>"Sezione Pianificazione direttrice", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 66", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9889896", "surname"=>"Guggisberg", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 58 46 24068", "function"=>{"german"=>"Leiterin Sektion Richtplanung", "french"=>"Leiterin Sektion Richtplanung", "italian"=>"Leiterin Sektion Richtplanung", "english"=>"Leiterin Sektion Richtplanung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7465226", "surname"=>"Wittwer", "givenName"=>"Ulrich", "email"=>nil, "phone"=>"+41 58 46 50622", "function"=>{"german"=>"Richtplangruppenleiter/in", "french"=>"Richtplangruppenleiter/in", "italian"=>"Richtplangruppenleiter/in", "english"=>"Richtplangruppenleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10009450", "label"=>{"german"=>"ARE", "french"=>"ARE", "italian"=>"ARE", "english"=>""}, "name"=>{"german"=>"Bundesamt für Raumentwicklung", "french"=>"Office fédéral du développement territorial", "italian"=>"Ufficio federale dello sviluppo territoriale", "english"=>""}}, {"id"=>"10009451", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009465", "label"=>{"german"=>"Sektion Richtplanung", "french"=>"Section Planification directrice", "italian"=>"Sezione Pianificazione direttrice", "english"=>""}, "name"=>{"german"=>"Sektion Richtplanung", "french"=>"Section Planification directrice", "italian"=>"Sezione Pianificazione direttrice", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009465",
+  "name": {
+    "german": "Sektion Richtplanung",
+    "french": "Section Planification directrice",
+    "italian": "Sezione Pianificazione direttrice",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 66",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9889896",
+      "surname": "Guggisberg",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 58 46 24068",
+      "function": {
+        "german": "Leiterin Sektion Richtplanung",
+        "french": "Leiterin Sektion Richtplanung",
+        "italian": "Leiterin Sektion Richtplanung",
+        "english": "Leiterin Sektion Richtplanung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7465226",
+      "surname": "Wittwer",
+      "givenName": "Ulrich",
+      "email": null,
+      "phone": "+41 58 46 50622",
+      "function": {
+        "german": "Richtplangruppenleiter/in",
+        "french": "Richtplangruppenleiter/in",
+        "italian": "Richtplangruppenleiter/in",
+        "english": "Richtplangruppenleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009450",
+      "label": {
+        "german": "ARE",
+        "french": "ARE",
+        "italian": "ARE",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Raumentwicklung",
+        "french": "Office fédéral du développement territorial",
+        "italian": "Ufficio federale dello sviluppo territoriale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009451",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009465",
+      "label": {
+        "german": "Sektion Richtplanung",
+        "french": "Section Planification directrice",
+        "italian": "Sezione Pianificazione direttrice",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Richtplanung",
+        "french": "Section Planification directrice",
+        "italian": "Sezione Pianificazione direttrice",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

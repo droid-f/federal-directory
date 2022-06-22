@@ -1,1 +1,169 @@
-{"id"=>"10003232", "name"=>{"german"=>"Fachbereich Betriebsentwicklung und Bodenrecht", "french"=>"Secteur Bâtiments ruraux et aides aux exploitations", "italian"=>"Settore Edifici agricoli e aiuti per la conduzione aziendale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 165", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4799127", "surname"=>"Würsch", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 48 39727", "function"=>{"german"=>"Fachbereichsleiter/in", "french"=>"Responsable du secteur", "italian"=>"Responsabile del Settore", "english"=>"Fachbereichsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3585037", "surname"=>"Fleury", "givenName"=>"Johnny", "email"=>nil, "phone"=>"+41 58 46 22659", "function"=>{"german"=>"Stv. Fachbereichsleiter/in", "french"=>"Suppl. du responsable du secteur", "italian"=>"sost. responsabile nel Settore", "english"=>"Stv. Fachbereichsleiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003196", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Direktion BLW", "french"=>"Direction OFAG", "italian"=>"Direzione UFAG", "english"=>"Direktion BLW"}}, {"id"=>"10003224", "label"=>{"german"=>"Direktionsbereich Direktzahlungen und Ländliche Entwicklung", "french"=>"Unité de direction Paiements directs et développement rural", "italian"=>"Unità di direzione Pagamenti diretti e sviluppo rurale", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Direktzahlungen und Ländliche Entwicklung", "french"=>"Unité de direction Paiements directs et développement rural", "italian"=>"Unità di direzione Pagamenti diretti e sviluppo rurale", "english"=>""}}, {"id"=>"10003232", "label"=>{"german"=>"Fachbereich Betriebsentwicklung und Bodenrecht", "french"=>"Secteur Bâtiments ruraux et aides aux exploitations", "italian"=>"Settore Edifici agricoli e aiuti per la conduzione aziendale", "english"=>""}, "name"=>{"german"=>"Fachbereich Betriebsentwicklung und Bodenrecht", "french"=>"Secteur Bâtiments ruraux et aides aux exploitations", "italian"=>"Settore Edifici agricoli e aiuti per la conduzione aziendale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003232",
+  "name": {
+    "german": "Fachbereich Betriebsentwicklung und Bodenrecht",
+    "french": "Secteur Bâtiments ruraux et aides aux exploitations",
+    "italian": "Settore Edifici agricoli e aiuti per la conduzione aziendale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 165",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4799127",
+      "surname": "Würsch",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 48 39727",
+      "function": {
+        "german": "Fachbereichsleiter/in",
+        "french": "Responsable du secteur",
+        "italian": "Responsabile del Settore",
+        "english": "Fachbereichsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3585037",
+      "surname": "Fleury",
+      "givenName": "Johnny",
+      "email": null,
+      "phone": "+41 58 46 22659",
+      "function": {
+        "german": "Stv. Fachbereichsleiter/in",
+        "french": "Suppl. du responsable du secteur",
+        "italian": "sost. responsabile nel Settore",
+        "english": "Stv. Fachbereichsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003196",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Direktion BLW",
+        "french": "Direction OFAG",
+        "italian": "Direzione UFAG",
+        "english": "Direktion BLW"
+      }
+    },
+    {
+      "id": "10003224",
+      "label": {
+        "german": "Direktionsbereich Direktzahlungen und Ländliche Entwicklung",
+        "french": "Unité de direction Paiements directs et développement rural",
+        "italian": "Unità di direzione Pagamenti diretti e sviluppo rurale",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Direktzahlungen und Ländliche Entwicklung",
+        "french": "Unité de direction Paiements directs et développement rural",
+        "italian": "Unità di direzione Pagamenti diretti e sviluppo rurale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003232",
+      "label": {
+        "german": "Fachbereich Betriebsentwicklung und Bodenrecht",
+        "french": "Secteur Bâtiments ruraux et aides aux exploitations",
+        "italian": "Settore Edifici agricoli e aiuti per la conduzione aziendale",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Betriebsentwicklung und Bodenrecht",
+        "french": "Secteur Bâtiments ruraux et aides aux exploitations",
+        "italian": "Settore Edifici agricoli e aiuti per la conduzione aziendale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

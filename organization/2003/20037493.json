@@ -1,1 +1,173 @@
-{"id"=>"20037493", "name"=>{"german"=>"Lufttüchtigkeit Flugmaterial Zürich", "french"=>"Navigabilité du matériel aéronautique Zurich", "italian"=>"Navigabilità del materiale aeronautico Zurigo", "english"=>"Lufttüchtigkeit Flugmaterial Zürich"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center (6. Stock) 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6868465", "surname"=>"Del Vecchio", "givenName"=>"Vittorio", "email"=>nil, "phone"=>"+41 58 46 63029", "function"=>{"german"=>"Leiter Lufttüchtigkeit Flugmat. Zürich", "french"=>"Leiter Lufttüchtigkeit Flugmat. Zürich", "italian"=>"Leiter Lufttüchtigkeit Flugmat. Zürich", "english"=>"Leiter Lufttüchtigkeit Flugmat. Zürich"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5272159", "surname"=>"Spitznagel", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 63025", "function"=>{"german"=>"Stv. Leiter STLZ", "french"=>"Stv. Leiter STLZ", "italian"=>"Stv. Leiter STLZ", "english"=>"Stv. Leiter STLZ"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009163", "label"=>{"german"=>"Sicherheit Flugtechnik", "french"=>"Sécurité technique", "italian"=>"Sicurezza tecnica", "english"=>"Sicherheit Flugtechnik"}, "name"=>{"german"=>"Sicherheit Flugtechnik", "french"=>"Sécurité technique", "italian"=>"Sicurezza tecnica", "english"=>"Sicherheit Flugtechnik"}}, {"id"=>"20037493", "label"=>{"german"=>"Lufttüchtigkeit Flugmaterial Zürich", "french"=>"Navigabilité du matériel aéronautique Zurich", "italian"=>"Navigabilità del materiale aeronautico Zurigo", "english"=>"Lufttüchtigkeit Flugmaterial Zürich"}, "name"=>{"german"=>"Lufttüchtigkeit Flugmaterial Zürich", "french"=>"Navigabilité du matériel aéronautique Zurich", "italian"=>"Navigabilità del materiale aeronautico Zurigo", "english"=>"Lufttüchtigkeit Flugmaterial Zürich"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037493",
+  "name": {
+    "german": "Lufttüchtigkeit Flugmaterial Zürich",
+    "french": "Navigabilité du matériel aéronautique Zurich",
+    "italian": "Navigabilità del materiale aeronautico Zurigo",
+    "english": "Lufttüchtigkeit Flugmaterial Zürich"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center (6. Stock) 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6868465",
+      "surname": "Del Vecchio",
+      "givenName": "Vittorio",
+      "email": null,
+      "phone": "+41 58 46 63029",
+      "function": {
+        "german": "Leiter Lufttüchtigkeit Flugmat. Zürich",
+        "french": "Leiter Lufttüchtigkeit Flugmat. Zürich",
+        "italian": "Leiter Lufttüchtigkeit Flugmat. Zürich",
+        "english": "Leiter Lufttüchtigkeit Flugmat. Zürich"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5272159",
+      "surname": "Spitznagel",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 63025",
+      "function": {
+        "german": "Stv. Leiter STLZ",
+        "french": "Stv. Leiter STLZ",
+        "italian": "Stv. Leiter STLZ",
+        "english": "Stv. Leiter STLZ"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009163",
+      "label": {
+        "german": "Sicherheit Flugtechnik",
+        "french": "Sécurité technique",
+        "italian": "Sicurezza tecnica",
+        "english": "Sicherheit Flugtechnik"
+      },
+      "name": {
+        "german": "Sicherheit Flugtechnik",
+        "french": "Sécurité technique",
+        "italian": "Sicurezza tecnica",
+        "english": "Sicherheit Flugtechnik"
+      }
+    },
+    {
+      "id": "20037493",
+      "label": {
+        "german": "Lufttüchtigkeit Flugmaterial Zürich",
+        "french": "Navigabilité du matériel aéronautique Zurich",
+        "italian": "Navigabilità del materiale aeronautico Zurigo",
+        "english": "Lufttüchtigkeit Flugmaterial Zürich"
+      },
+      "name": {
+        "german": "Lufttüchtigkeit Flugmaterial Zürich",
+        "french": "Navigabilité du matériel aéronautique Zurich",
+        "italian": "Navigabilità del materiale aeronautico Zurigo",
+        "english": "Lufttüchtigkeit Flugmaterial Zürich"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

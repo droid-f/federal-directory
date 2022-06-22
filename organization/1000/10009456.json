@@ -1,1 +1,158 @@
-{"id"=>"10009456", "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 66", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1XW6M6L36", "surname"=>"Furger", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 73764", "function"=>{"german"=>"Leiter Kommunikation", "french"=>"Leiter Kommunikation", "italian"=>"Leiter Kommunikation", "english"=>"Leiter Kommunikation"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7675652", "surname"=>"Kistler", "givenName"=>"Lukas", "email"=>nil, "phone"=>"+41 58 46 42597", "function"=>{"german"=>"Stv. L Komm./ Infobeauftr.", "french"=>"Stv. L Komm./ Infobeauftr.", "italian"=>"Stv. L Komm./ Infobeauftr.", "english"=>"Stv. L Komm./ Infobeauftr."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10009450", "label"=>{"german"=>"ARE", "french"=>"ARE", "italian"=>"ARE", "english"=>""}, "name"=>{"german"=>"Bundesamt für Raumentwicklung", "french"=>"Office fédéral du développement territorial", "italian"=>"Ufficio federale dello sviluppo territoriale", "english"=>""}}, {"id"=>"10009451", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009456", "label"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009456",
+  "name": {
+    "german": "Kommunikation",
+    "french": "Communication",
+    "italian": "Comunicazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 66",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1XW6M6L36",
+      "surname": "Furger",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 73764",
+      "function": {
+        "german": "Leiter Kommunikation",
+        "french": "Leiter Kommunikation",
+        "italian": "Leiter Kommunikation",
+        "english": "Leiter Kommunikation"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7675652",
+      "surname": "Kistler",
+      "givenName": "Lukas",
+      "email": null,
+      "phone": "+41 58 46 42597",
+      "function": {
+        "german": "Stv. L Komm./ Infobeauftr.",
+        "french": "Stv. L Komm./ Infobeauftr.",
+        "italian": "Stv. L Komm./ Infobeauftr.",
+        "english": "Stv. L Komm./ Infobeauftr."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009450",
+      "label": {
+        "german": "ARE",
+        "french": "ARE",
+        "italian": "ARE",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Raumentwicklung",
+        "french": "Office fédéral du développement territorial",
+        "italian": "Ufficio federale dello sviluppo territoriale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009451",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009456",
+      "label": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

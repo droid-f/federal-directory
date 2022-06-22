@@ -1,1 +1,256 @@
-{"id"=>"20034938", "name"=>{"german"=>"IT Lernende", "french"=>"IT Lernende", "italian"=>"IT Lernende", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Finkenhubelweg 12", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5056716", "surname"=>"Rink", "givenName"=>"Roger", "email"=>nil, "phone"=>"+41 58 46 05746", "function"=>{"german"=>"Wirtschaftsinformatiker/in SAP AS2 TCIT", "french"=>"Wirtschaftsinformatiker/in SAP AS2 TCIT", "italian"=>"Wirtschaftsinformatiker/in SAP AS2 TCIT", "english"=>"Wirtschaftsinformatiker/in SAP AS2 TCIT"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7980106", "surname"=>"Brägger", "givenName"=>"Yvann", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Lernende/r IT AS2 TCIT", "french"=>"Lernende/r IT AS2 TCIT", "italian"=>"Lernende/r IT AS2 TCIT", "english"=>"Lernende/r IT AS2 TCIT"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3217298", "surname"=>"Koc", "givenName"=>"Jasmin", "email"=>nil, "phone"=>"+41 58 48 36406", "function"=>{"german"=>"Lernende/r IT AS2 TCIT", "french"=>"Lernende/r IT AS2 TCIT", "italian"=>"Lernende/r IT AS2 TCIT", "english"=>"Lernende/r IT AS2 TCIT"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6540577", "surname"=>"Merz", "givenName"=>"Yannick", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Lernende/r IT AS2 TCIT", "french"=>"Lernende/r IT AS2 TCIT", "italian"=>"Lernende/r IT AS2 TCIT", "english"=>"Lernende/r IT AS2 TCIT"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6483169", "surname"=>"Spielmann", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 48 36387", "function"=>{"german"=>"Lernende/r IT AS2 TCIT", "french"=>"Lernende/r IT AS2 TCIT", "italian"=>"Lernende/r IT AS2 TCIT", "english"=>"Lernende/r IT AS2 TCIT"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"10004185", "label"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}, "name"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}}, {"id"=>"20037634", "label"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}}, {"id"=>"20037637", "label"=>{"german"=>"Applikationsservices Auszahlungen und Finanzen", "french"=>"Services d'applications Paiements et Finances", "italian"=>"Servizi applicativi Pagamenti e Finanze", "english"=>""}, "name"=>{"german"=>"Applikationsservices Auszahlungen und Finanzen", "french"=>"Services d'applications Paiements et Finances", "italian"=>"Servizi applicativi Pagamenti e Finanze", "english"=>""}}, {"id"=>"20034938", "label"=>{"german"=>"IT Lernende", "french"=>"IT Lernende", "italian"=>"IT Lernende", "english"=>""}, "name"=>{"german"=>"IT Lernende", "french"=>"IT Lernende", "italian"=>"IT Lernende", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034938",
+  "name": {
+    "german": "IT Lernende",
+    "french": "IT Lernende",
+    "italian": "IT Lernende",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Finkenhubelweg 12",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5056716",
+      "surname": "Rink",
+      "givenName": "Roger",
+      "email": null,
+      "phone": "+41 58 46 05746",
+      "function": {
+        "german": "Wirtschaftsinformatiker/in SAP AS2 TCIT",
+        "french": "Wirtschaftsinformatiker/in SAP AS2 TCIT",
+        "italian": "Wirtschaftsinformatiker/in SAP AS2 TCIT",
+        "english": "Wirtschaftsinformatiker/in SAP AS2 TCIT"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7980106",
+      "surname": "Brägger",
+      "givenName": "Yvann",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Lernende/r IT AS2 TCIT",
+        "french": "Lernende/r IT AS2 TCIT",
+        "italian": "Lernende/r IT AS2 TCIT",
+        "english": "Lernende/r IT AS2 TCIT"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3217298",
+      "surname": "Koc",
+      "givenName": "Jasmin",
+      "email": null,
+      "phone": "+41 58 48 36406",
+      "function": {
+        "german": "Lernende/r IT AS2 TCIT",
+        "french": "Lernende/r IT AS2 TCIT",
+        "italian": "Lernende/r IT AS2 TCIT",
+        "english": "Lernende/r IT AS2 TCIT"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6540577",
+      "surname": "Merz",
+      "givenName": "Yannick",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Lernende/r IT AS2 TCIT",
+        "french": "Lernende/r IT AS2 TCIT",
+        "italian": "Lernende/r IT AS2 TCIT",
+        "english": "Lernende/r IT AS2 TCIT"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6483169",
+      "surname": "Spielmann",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 48 36387",
+      "function": {
+        "german": "Lernende/r IT AS2 TCIT",
+        "french": "Lernende/r IT AS2 TCIT",
+        "italian": "Lernende/r IT AS2 TCIT",
+        "english": "Lernende/r IT AS2 TCIT"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004185",
+      "label": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037634",
+      "label": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037637",
+      "label": {
+        "german": "Applikationsservices Auszahlungen und Finanzen",
+        "french": "Services d'applications Paiements et Finances",
+        "italian": "Servizi applicativi Pagamenti e Finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Applikationsservices Auszahlungen und Finanzen",
+        "french": "Services d'applications Paiements et Finances",
+        "italian": "Servizi applicativi Pagamenti e Finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034938",
+      "label": {
+        "german": "IT Lernende",
+        "french": "IT Lernende",
+        "italian": "IT Lernende",
+        "english": ""
+      },
+      "name": {
+        "german": "IT Lernende",
+        "french": "IT Lernende",
+        "italian": "IT Lernende",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

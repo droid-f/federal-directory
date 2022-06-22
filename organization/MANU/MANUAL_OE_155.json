@@ -1,1 +1,110 @@
-{"id"=>"MANUAL_OE_155", "name"=>{"german"=>"Kanton Tessin", "french"=>"Canton du Tessin", "italian"=>"Cantone Ticino", "english"=>""}, "nameAbbr"=>{"german"=>"TI", "french"=>"TI", "italian"=>"TI", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"MANUAL_OE_2", "label"=>{"german"=>"BV", "french"=>"BV", "italian"=>"BV", "english"=>""}, "name"=>{"german"=>"Bundesversammlung", "french"=>"Assemblée fédérale", "italian"=>"Assemblea federale", "english"=>""}}, {"id"=>"MANUAL_OE_4", "label"=>{"german"=>"SR", "french"=>"SR", "italian"=>"SR", "english"=>""}, "name"=>{"german"=>"Ständerat", "french"=>"Conseil des Etats", "italian"=>"Consiglio degli Stati", "english"=>""}}, {"id"=>"MANUAL_OE_135", "label"=>{"german"=>"Mitglieder", "french"=>"Mitglieder", "italian"=>"Mitglieder", "english"=>""}, "name"=>{"german"=>"Mitglieder", "french"=>"Membres", "italian"=>"Membri", "english"=>""}}, {"id"=>"MANUAL_OE_155", "label"=>{"german"=>"TI", "french"=>"TI", "italian"=>"TI", "english"=>""}, "name"=>{"german"=>"Kanton Tessin", "french"=>"Canton du Tessin", "italian"=>"Cantone Ticino", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "MANUAL_OE_155",
+  "name": {
+    "german": "Kanton Tessin",
+    "french": "Canton du Tessin",
+    "italian": "Cantone Ticino",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "TI",
+    "french": "TI",
+    "italian": "TI",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "MANUAL_OE_2",
+      "label": {
+        "german": "BV",
+        "french": "BV",
+        "italian": "BV",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesversammlung",
+        "french": "Assemblée fédérale",
+        "italian": "Assemblea federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_4",
+      "label": {
+        "german": "SR",
+        "french": "SR",
+        "italian": "SR",
+        "english": ""
+      },
+      "name": {
+        "german": "Ständerat",
+        "french": "Conseil des Etats",
+        "italian": "Consiglio degli Stati",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_135",
+      "label": {
+        "german": "Mitglieder",
+        "french": "Mitglieder",
+        "italian": "Mitglieder",
+        "english": ""
+      },
+      "name": {
+        "german": "Mitglieder",
+        "french": "Membres",
+        "italian": "Membri",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_155",
+      "label": {
+        "german": "TI",
+        "french": "TI",
+        "italian": "TI",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanton Tessin",
+        "french": "Canton du Tessin",
+        "italian": "Cantone Ticino",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,155 @@
-{"id"=>"20048602", "name"=>{"german"=>"Spitzensport", "french"=>"Sport d'élite", "italian"=>"Sport di punta", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Taubenstrasse 16", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008659", "label"=>{"german"=>"BAZG", "french"=>"OFDF", "italian"=>"UDSC", "english"=>"FOCBS"}, "name"=>{"german"=>"Bundesamt für Zoll und Grenzsicherheit", "french"=>"Office fédéral de la douane et de la sécurité des frontières", "italian"=>"Ufficio federale della dogana e della sicurezza dei confini", "english"=>"Federal Office for Customs and Border Security"}}, {"id"=>"10007200", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20046704", "label"=>{"german"=>"Grundlagen", "french"=>"Bases", "italian"=>"Basi", "english"=>""}, "name"=>{"german"=>"Grundlagen", "french"=>"Bases", "italian"=>"Basi", "english"=>""}}, {"id"=>"20046705", "label"=>{"german"=>"Grenzsicherheit", "french"=>"Sécurité de la frontière", "italian"=>"Sicurezza dei confini", "english"=>""}, "name"=>{"german"=>"Grenzsicherheit", "french"=>"Sécurité de la frontière", "italian"=>"Sicurezza dei confini", "english"=>""}}, {"id"=>"20048602", "label"=>{"german"=>"Spitzensport", "french"=>"Sport d'élite", "italian"=>"Sport di punta", "english"=>""}, "name"=>{"german"=>"Spitzensport", "french"=>"Sport d'élite", "italian"=>"Sport di punta", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048602",
+  "name": {
+    "german": "Spitzensport",
+    "french": "Sport d'élite",
+    "italian": "Sport di punta",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Taubenstrasse 16",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008659",
+      "label": {
+        "german": "BAZG",
+        "french": "OFDF",
+        "italian": "UDSC",
+        "english": "FOCBS"
+      },
+      "name": {
+        "german": "Bundesamt für Zoll und Grenzsicherheit",
+        "french": "Office fédéral de la douane et de la sécurité des frontières",
+        "italian": "Ufficio federale della dogana e della sicurezza dei confini",
+        "english": "Federal Office for Customs and Border Security"
+      }
+    },
+    {
+      "id": "10007200",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046704",
+      "label": {
+        "german": "Grundlagen",
+        "french": "Bases",
+        "italian": "Basi",
+        "english": ""
+      },
+      "name": {
+        "german": "Grundlagen",
+        "french": "Bases",
+        "italian": "Basi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046705",
+      "label": {
+        "german": "Grenzsicherheit",
+        "french": "Sécurité de la frontière",
+        "italian": "Sicurezza dei confini",
+        "english": ""
+      },
+      "name": {
+        "german": "Grenzsicherheit",
+        "french": "Sécurité de la frontière",
+        "italian": "Sicurezza dei confini",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048602",
+      "label": {
+        "german": "Spitzensport",
+        "french": "Sport d'élite",
+        "italian": "Sport di punta",
+        "english": ""
+      },
+      "name": {
+        "german": "Spitzensport",
+        "french": "Sport d'élite",
+        "italian": "Sport di punta",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

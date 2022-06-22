@@ -1,1 +1,156 @@
-{"id"=>"20029251", "name"=>{"german"=>"Fachstelle NFB (Neues Führungsmodell Bund)", "french"=>"Nouveau modèle de gestion de l'administration fédérale", "italian"=>"Nuovo modello di gestione dell'Amministrazione federale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4756186", "surname"=>"Haldemann", "givenName"=>"Theo", "email"=>nil, "phone"=>"+41 58 46 32486", "function"=>{"german"=>"Leiter/in Fachstelle NFB", "french"=>"Chef service spécialisé Nouveau modèle de gestion de l'administration fédérale", "italian"=>"Capo servizio specializzato Nuovo modelo di gestione dell'Amministrazione (NMG)", "english"=>"Leiter Fachstelle NFB"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003292", "label"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}, "name"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}}, {"id"=>"20029251", "label"=>{"german"=>"Fachstelle NFB (Neues Führungsmodell Bund)", "french"=>"Nouveau modèle de gestion de l'administration fédérale", "italian"=>"Nuovo modello di gestione dell'Amministrazione federale", "english"=>""}, "name"=>{"german"=>"Fachstelle NFB (Neues Führungsmodell Bund)", "french"=>"Nouveau modèle de gestion de l'administration fédérale", "italian"=>"Nuovo modello di gestione dell'Amministrazione federale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20029251",
+  "name": {
+    "german": "Fachstelle NFB (Neues Führungsmodell Bund)",
+    "french": "Nouveau modèle de gestion de l'administration fédérale",
+    "italian": "Nuovo modello di gestione dell'Amministrazione federale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4756186",
+      "surname": "Haldemann",
+      "givenName": "Theo",
+      "email": null,
+      "phone": "+41 58 46 32486",
+      "function": {
+        "german": "Leiter/in Fachstelle NFB",
+        "french": "Chef service spécialisé Nouveau modèle de gestion de l'administration fédérale",
+        "italian": "Capo servizio specializzato Nuovo modelo di gestione dell'Amministrazione (NMG)",
+        "english": "Leiter Fachstelle NFB"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003292",
+      "label": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20029251",
+      "label": {
+        "german": "Fachstelle NFB (Neues Führungsmodell Bund)",
+        "french": "Nouveau modèle de gestion de l'administration fédérale",
+        "italian": "Nuovo modello di gestione dell'Amministrazione federale",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachstelle NFB (Neues Führungsmodell Bund)",
+        "french": "Nouveau modèle de gestion de l'administration fédérale",
+        "italian": "Nuovo modello di gestione dell'Amministrazione federale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,244 @@
-{"id"=>"10004174", "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10004195", "name"=>{"german"=>"Internationale Arbeitsfragen", "french"=>"Affaires internationales du travail", "italian"=>"Affari internazionali del lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004175", "name"=>{"german"=>"Arbeitsbedingungen", "french"=>"Conditions de travail", "italian"=>"Condizioni di lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004185", "name"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20020076", "name"=>{"german"=>"Personenfreizügigkeit und Arbeitsbeziehungen", "french"=>"Libre circulation des personnes et Relations du travail", "italian"=>"Libera circolazione delle persone e Relazioni di lavoro", "english"=>"Libre circulation des personnes et Relations du travail"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9324846", "surname"=>"Zürcher", "givenName"=>"Boris", "email"=>nil, "phone"=>"+41 58 46 22926", "function"=>{"german"=>"Leiter/in Direktion DA", "french"=>"Leiter/in Direktion DA", "italian"=>"Leiter/in Direktion DA", "english"=>"Leiter/in Direktion DA"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9492240", "surname"=>"Gasser", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 22840", "function"=>{"german"=>"Leiter/in PA/ Stv.Leiter/in Direktion DA", "french"=>"Leiter/in PA/ Stv.Leiter/in Direktion DA", "italian"=>"Leiter/in PA/ Stv.Leiter/in Direktion DA", "english"=>"Leiter/in PA/ Stv.Leiter/in Direktion DA"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6228902", "surname"=>"Flückiger", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 95003", "function"=>{"german"=>"Assistent/in Direktor/in DA", "french"=>"Assistent/in Direktor/in DA", "italian"=>"Assistent/in Direktor/in DA", "english"=>"Assistent/in Direktor/in DA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1280599", "surname"=>"Staub", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 08995", "function"=>{"german"=>"Wiss. Mitarbeiter/in DA", "french"=>"Wiss. Mitarbeiter/in DA", "italian"=>"Wiss. Mitarbeiter/in DA", "english"=>"Wiss. Mitarbeiter/in DA"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004174",
+  "name": {
+    "german": "Direktion für Arbeit",
+    "french": "Direction du travail",
+    "italian": "Direzione del lavoro",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10004195",
+      "name": {
+        "german": "Internationale Arbeitsfragen",
+        "french": "Affaires internationales du travail",
+        "italian": "Affari internazionali del lavoro",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004175",
+      "name": {
+        "german": "Arbeitsbedingungen",
+        "french": "Conditions de travail",
+        "italian": "Condizioni di lavoro",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004185",
+      "name": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020076",
+      "name": {
+        "german": "Personenfreizügigkeit und Arbeitsbeziehungen",
+        "french": "Libre circulation des personnes et Relations du travail",
+        "italian": "Libera circolazione delle persone e Relazioni di lavoro",
+        "english": "Libre circulation des personnes et Relations du travail"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9324846",
+      "surname": "Zürcher",
+      "givenName": "Boris",
+      "email": null,
+      "phone": "+41 58 46 22926",
+      "function": {
+        "german": "Leiter/in Direktion DA",
+        "french": "Leiter/in Direktion DA",
+        "italian": "Leiter/in Direktion DA",
+        "english": "Leiter/in Direktion DA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9492240",
+      "surname": "Gasser",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 22840",
+      "function": {
+        "german": "Leiter/in PA/ Stv.Leiter/in Direktion DA",
+        "french": "Leiter/in PA/ Stv.Leiter/in Direktion DA",
+        "italian": "Leiter/in PA/ Stv.Leiter/in Direktion DA",
+        "english": "Leiter/in PA/ Stv.Leiter/in Direktion DA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6228902",
+      "surname": "Flückiger",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 95003",
+      "function": {
+        "german": "Assistent/in Direktor/in DA",
+        "french": "Assistent/in Direktor/in DA",
+        "italian": "Assistent/in Direktor/in DA",
+        "english": "Assistent/in Direktor/in DA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1280599",
+      "surname": "Staub",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 08995",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in DA",
+        "french": "Wiss. Mitarbeiter/in DA",
+        "italian": "Wiss. Mitarbeiter/in DA",
+        "english": "Wiss. Mitarbeiter/in DA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

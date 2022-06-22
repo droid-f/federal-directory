@@ -1,1 +1,153 @@
-{"id"=>"30000064@10.03", "name"=>{"german"=>"Pharmacovigilance", "french"=>"Pharmacovigilance", "italian"=>"Pharmacovigilance", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallerstrasse 7", "postalCode"=>"3012", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-7782094", "surname"=>"Stammschulte", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 32035", "function"=>{"german"=>"Leiter/in", "french"=>"chef", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"30000028@10.03", "label"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}, "name"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}}, {"id"=>"30000062@10.03", "label"=>{"german"=>"Marktüberwachung", "french"=>"Surveillance du marché", "italian"=>"Marktüberwachung", "english"=>""}, "name"=>{"german"=>"Marktüberwachung", "french"=>"Surveillance du marché", "italian"=>"Marktüberwachung", "english"=>""}}, {"id"=>"30000063@10.03", "label"=>{"german"=>"Arzneimittelsicherheit", "french"=>"Sécurité des médicaments", "italian"=>"Arzneimittelsicherheit", "english"=>""}, "name"=>{"german"=>"Arzneimittelsicherheit", "french"=>"Sécurité des médicaments", "italian"=>"Arzneimittelsicherheit", "english"=>""}}, {"id"=>"30000064@10.03", "label"=>{"german"=>"Pharmacovigilance", "french"=>"Pharmacovigilance", "italian"=>"Pharmacovigilance", "english"=>""}, "name"=>{"german"=>"Pharmacovigilance", "french"=>"Pharmacovigilance", "italian"=>"Pharmacovigilance", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "30000064@10.03",
+  "name": {
+    "german": "Pharmacovigilance",
+    "french": "Pharmacovigilance",
+    "italian": "Pharmacovigilance",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallerstrasse 7",
+    "postalCode": "3012",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-7782094",
+      "surname": "Stammschulte",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 32035",
+      "function": {
+        "german": "Leiter/in",
+        "french": "chef",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000028@10.03",
+      "label": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      },
+      "name": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000062@10.03",
+      "label": {
+        "german": "Marktüberwachung",
+        "french": "Surveillance du marché",
+        "italian": "Marktüberwachung",
+        "english": ""
+      },
+      "name": {
+        "german": "Marktüberwachung",
+        "french": "Surveillance du marché",
+        "italian": "Marktüberwachung",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000063@10.03",
+      "label": {
+        "german": "Arzneimittelsicherheit",
+        "french": "Sécurité des médicaments",
+        "italian": "Arzneimittelsicherheit",
+        "english": ""
+      },
+      "name": {
+        "german": "Arzneimittelsicherheit",
+        "french": "Sécurité des médicaments",
+        "italian": "Arzneimittelsicherheit",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000064@10.03",
+      "label": {
+        "german": "Pharmacovigilance",
+        "french": "Pharmacovigilance",
+        "italian": "Pharmacovigilance",
+        "english": ""
+      },
+      "name": {
+        "german": "Pharmacovigilance",
+        "french": "Pharmacovigilance",
+        "italian": "Pharmacovigilance",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

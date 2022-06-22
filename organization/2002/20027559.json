@@ -1,1 +1,239 @@
-{"id"=>"20027559", "name"=>{"german"=>"Geschäfte und Planung, bundesnahe Unternehmen", "french"=>"Affaires et planification liées à la Confédération", "italian"=>"Affari e pianificazione, Stato maggiore imprese parastatali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20027570", "name"=>{"german"=>"Stab bundesnahe Unternehmen", "french"=>"État-major entreprises liées à la Confédération", "italian"=>"Stato maggiore imprese parastatali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027563", "name"=>{"german"=>"Geschäftsplanung und -koordination", "french"=>"Planification et coordination des affaires", "italian"=>"Pianificazione e coordinamento degli affari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043351", "name"=>{"german"=>"Safety Office", "french"=>"Safety Office", "italian"=>"Safety Office", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2689863", "surname"=>"Hostettler Fischer", "givenName"=>"Stefan", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stellvertretender Generalsekretär", "french"=>"Stellvertretender Generalsekretär", "italian"=>"Stellvertretender Generalsekretär", "english"=>"Stellvertretender Generalsekretär"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7227245", "surname"=>"Hofmann", "givenName"=>"Fritz", "email"=>nil, "phone"=>"+41 58 46 22058", "function"=>{"german"=>"Bundesratschauffeur", "french"=>"Bundesratschauffeur", "italian"=>"Bundesratschauffeur", "english"=>"Bundesratschauffeur"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9051404", "surname"=>"Löffel", "givenName"=>"Annemarie", "email"=>nil, "phone"=>"+41 58 46 23729", "function"=>{"german"=>"Weibelin", "french"=>"Weibelin", "italian"=>"Weibelin", "english"=>"Weibelin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3119322", "surname"=>"Mauron", "givenName"=>"Stéphanie", "email"=>nil, "phone"=>"+41 58 46 22235", "function"=>{"german"=>"Assistentin der Departementschefin", "french"=>"Assistentin der Departementschefin", "italian"=>"Assistentin der Departementschefin", "english"=>"Assistentin der Departementschefin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8822172", "surname"=>"Peter", "givenName"=>"Evelyne", "email"=>nil, "phone"=>"+41 58 46 25521", "function"=>{"german"=>"Assistentin der Departementschefin", "french"=>"Assistentin der Departementschefin", "italian"=>"Assistentin der Departementschefin", "english"=>"Assistentin der Departementschefin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6490530", "surname"=>"Piller", "givenName"=>"Madeleine", "email"=>nil, "phone"=>"+41 58 46 25749", "function"=>{"german"=>"Sekretärin/Sachbearbeiterin", "french"=>"Sekretärin/Sachbearbeiterin", "italian"=>"Sekretärin/Sachbearbeiterin", "english"=>"Sekretärin/Sachbearbeiterin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20027559", "label"=>{"german"=>"Geschäfte und Planung, bundesnahe Unternehmen", "french"=>"Affaires et planification liées à la Confédération", "italian"=>"Affari e pianificazione, Stato maggiore imprese parastatali", "english"=>""}, "name"=>{"german"=>"Geschäfte und Planung, bundesnahe Unternehmen", "french"=>"Affaires et planification liées à la Confédération", "italian"=>"Affari e pianificazione, Stato maggiore imprese parastatali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027559",
+  "name": {
+    "german": "Geschäfte und Planung, bundesnahe Unternehmen",
+    "french": "Affaires et planification liées à la Confédération",
+    "italian": "Affari e pianificazione, Stato maggiore imprese parastatali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20027570",
+      "name": {
+        "german": "Stab bundesnahe Unternehmen",
+        "french": "État-major entreprises liées à la Confédération",
+        "italian": "Stato maggiore imprese parastatali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027563",
+      "name": {
+        "german": "Geschäftsplanung und -koordination",
+        "french": "Planification et coordination des affaires",
+        "italian": "Pianificazione e coordinamento degli affari",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043351",
+      "name": {
+        "german": "Safety Office",
+        "french": "Safety Office",
+        "italian": "Safety Office",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2689863",
+      "surname": "Hostettler Fischer",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stellvertretender Generalsekretär",
+        "french": "Stellvertretender Generalsekretär",
+        "italian": "Stellvertretender Generalsekretär",
+        "english": "Stellvertretender Generalsekretär"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7227245",
+      "surname": "Hofmann",
+      "givenName": "Fritz",
+      "email": null,
+      "phone": "+41 58 46 22058",
+      "function": {
+        "german": "Bundesratschauffeur",
+        "french": "Bundesratschauffeur",
+        "italian": "Bundesratschauffeur",
+        "english": "Bundesratschauffeur"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9051404",
+      "surname": "Löffel",
+      "givenName": "Annemarie",
+      "email": null,
+      "phone": "+41 58 46 23729",
+      "function": {
+        "german": "Weibelin",
+        "french": "Weibelin",
+        "italian": "Weibelin",
+        "english": "Weibelin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3119322",
+      "surname": "Mauron",
+      "givenName": "Stéphanie",
+      "email": null,
+      "phone": "+41 58 46 22235",
+      "function": {
+        "german": "Assistentin der Departementschefin",
+        "french": "Assistentin der Departementschefin",
+        "italian": "Assistentin der Departementschefin",
+        "english": "Assistentin der Departementschefin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8822172",
+      "surname": "Peter",
+      "givenName": "Evelyne",
+      "email": null,
+      "phone": "+41 58 46 25521",
+      "function": {
+        "german": "Assistentin der Departementschefin",
+        "french": "Assistentin der Departementschefin",
+        "italian": "Assistentin der Departementschefin",
+        "english": "Assistentin der Departementschefin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6490530",
+      "surname": "Piller",
+      "givenName": "Madeleine",
+      "email": null,
+      "phone": "+41 58 46 25749",
+      "function": {
+        "german": "Sekretärin/Sachbearbeiterin",
+        "french": "Sekretärin/Sachbearbeiterin",
+        "italian": "Sekretärin/Sachbearbeiterin",
+        "english": "Sekretärin/Sachbearbeiterin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027559",
+      "label": {
+        "german": "Geschäfte und Planung, bundesnahe Unternehmen",
+        "french": "Affaires et planification liées à la Confédération",
+        "italian": "Affari e pianificazione, Stato maggiore imprese parastatali",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäfte und Planung, bundesnahe Unternehmen",
+        "french": "Affaires et planification liées à la Confédération",
+        "italian": "Affari e pianificazione, Stato maggiore imprese parastatali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

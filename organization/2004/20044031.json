@@ -1,1 +1,171 @@
-{"id"=>"20044031", "name"=>{"german"=>"Kommissariat Schutzpersonen und Drohungen Bund", "french"=>"Commissariat Protection des personnes et menaces Confédération", "italian"=>"Commissariato Minacce e protezione persone della Confederazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2515869", "surname"=>"Todt", "givenName"=>"Marc", "email"=>nil, "phone"=>"+41 58 46 24776", "function"=>{"german"=>"Stv AC / Kommissariatsleiter/in", "french"=>"Stv AC / Kommissariatsleiter/in", "italian"=>"Stv AC / Kommissariatsleiter/in", "english"=>"Stv AC / Kommissariatsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009355", "label"=>{"german"=>"BSD", "french"=>"SFS", "italian"=>"SFS", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundessicherheitsdienst", "french"=>"Domaine de direction Service fédéral de sécurité", "italian"=>"Ambito direzionale Servizio federale di sicurezza", "english"=>""}}, {"id"=>"10009358", "label"=>{"german"=>"Abteilung Sicherheit Personen und Objekte", "french"=>"Division Sécurité des personnes et des biens immobiliers", "italian"=>"Divisione Sicurezza persone ed edifici", "english"=>""}, "name"=>{"german"=>"Abteilung Sicherheit Personen und Objekte", "french"=>"Division Sécurité des personnes et des biens immobiliers", "italian"=>"Divisione Sicurezza persone ed edifici", "english"=>""}}, {"id"=>"20044031", "label"=>{"german"=>"Kommissariat Schutzpersonen und Drohungen Bund", "french"=>"Commissariat Protection des personnes et menaces Confédération", "italian"=>"Commissariato Minacce e protezione persone della Confederazione", "english"=>""}, "name"=>{"german"=>"Kommissariat Schutzpersonen und Drohungen Bund", "french"=>"Commissariat Protection des personnes et menaces Confédération", "italian"=>"Commissariato Minacce e protezione persone della Confederazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20044031",
+  "name": {
+    "german": "Kommissariat Schutzpersonen und Drohungen Bund",
+    "french": "Commissariat Protection des personnes et menaces Confédération",
+    "italian": "Commissariato Minacce e protezione persone della Confederazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2515869",
+      "surname": "Todt",
+      "givenName": "Marc",
+      "email": null,
+      "phone": "+41 58 46 24776",
+      "function": {
+        "german": "Stv AC / Kommissariatsleiter/in",
+        "french": "Stv AC / Kommissariatsleiter/in",
+        "italian": "Stv AC / Kommissariatsleiter/in",
+        "english": "Stv AC / Kommissariatsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009355",
+      "label": {
+        "german": "BSD",
+        "french": "SFS",
+        "italian": "SFS",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundessicherheitsdienst",
+        "french": "Domaine de direction Service fédéral de sécurité",
+        "italian": "Ambito direzionale Servizio federale di sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009358",
+      "label": {
+        "german": "Abteilung Sicherheit Personen und Objekte",
+        "french": "Division Sécurité des personnes et des biens immobiliers",
+        "italian": "Divisione Sicurezza persone ed edifici",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Sicherheit Personen und Objekte",
+        "french": "Division Sécurité des personnes et des biens immobiliers",
+        "italian": "Divisione Sicurezza persone ed edifici",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044031",
+      "label": {
+        "german": "Kommissariat Schutzpersonen und Drohungen Bund",
+        "french": "Commissariat Protection des personnes et menaces Confédération",
+        "italian": "Commissariato Minacce e protezione persone della Confederazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissariat Schutzpersonen und Drohungen Bund",
+        "french": "Commissariat Protection des personnes et menaces Confédération",
+        "italian": "Commissariato Minacce e protezione persone della Confederazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

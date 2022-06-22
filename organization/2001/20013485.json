@@ -1,1 +1,185 @@
-{"id"=>"20013485", "name"=>{"german"=>"Fachbereich Schmiede der Armee", "french"=>"Dom spéc Forgerons de l'armée", "italian"=>"Sett spec Fabbri dell'esercito", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Komp Zen Vet D u A Tiere", "street"=>"Kaserne Sand", "postalCode"=>"3000", "location"=>"Bern 22", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015872", "label"=>{"german"=>"LVBLOG", "french"=>"LVBLOG", "italian"=>"LVBLOG", "english"=>""}, "name"=>{"german"=>"Lehrverband Logistik", "french"=>"Formation d'application de la logistique", "italian"=>"FOA della logistica", "english"=>""}}, {"id"=>"20003584", "label"=>{"german"=>"Komp Zen Veterinärdienst u Armeetiere 46", "french"=>"Cen comp S vét et animaux A 46", "italian"=>"CC servizio veterinario e animali Es 46", "english"=>""}, "name"=>{"german"=>"Komp Zen Veterinärdienst u Armeetiere 46", "french"=>"Cen comp S vét et animaux A 46", "italian"=>"CC servizio veterinario e animali Es 46", "english"=>""}}, {"id"=>"20003616", "label"=>{"german"=>"Kompanie 1 Komp Zen Vet D u Armeetiere", "french"=>"Compagnie 1 Cen comp S vét animaux A", "italian"=>"Compagnia 1 CC S vet e anim Es", "english"=>""}, "name"=>{"german"=>"Kompanie 1 Komp Zen Vet D u Armeetiere", "french"=>"Compagnie 1 Cen comp S vét animaux A", "italian"=>"Compagnia 1 CC S vet e anim Es", "english"=>""}}, {"id"=>"20013485", "label"=>{"german"=>"Fachbereich Schmiede der Armee", "french"=>"Dom spéc Forgerons de l'armée", "italian"=>"Sett spec Fabbri dell'esercito", "english"=>""}, "name"=>{"german"=>"Fachbereich Schmiede der Armee", "french"=>"Dom spéc Forgerons de l'armée", "italian"=>"Sett spec Fabbri dell'esercito", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20013485",
+  "name": {
+    "german": "Fachbereich Schmiede der Armee",
+    "french": "Dom spéc Forgerons de l'armée",
+    "italian": "Sett spec Fabbri dell'esercito",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Komp Zen Vet D u A Tiere",
+    "street": "Kaserne Sand",
+    "postalCode": "3000",
+    "location": "Bern 22",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015872",
+      "label": {
+        "german": "LVBLOG",
+        "french": "LVBLOG",
+        "italian": "LVBLOG",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Logistik",
+        "french": "Formation d'application de la logistique",
+        "italian": "FOA della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003584",
+      "label": {
+        "german": "Komp Zen Veterinärdienst u Armeetiere 46",
+        "french": "Cen comp S vét et animaux A 46",
+        "italian": "CC servizio veterinario e animali Es 46",
+        "english": ""
+      },
+      "name": {
+        "german": "Komp Zen Veterinärdienst u Armeetiere 46",
+        "french": "Cen comp S vét et animaux A 46",
+        "italian": "CC servizio veterinario e animali Es 46",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003616",
+      "label": {
+        "german": "Kompanie 1 Komp Zen Vet D u Armeetiere",
+        "french": "Compagnie 1 Cen comp S vét animaux A",
+        "italian": "Compagnia 1 CC S vet e anim Es",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompanie 1 Komp Zen Vet D u Armeetiere",
+        "french": "Compagnie 1 Cen comp S vét animaux A",
+        "italian": "Compagnia 1 CC S vet e anim Es",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013485",
+      "label": {
+        "german": "Fachbereich Schmiede der Armee",
+        "french": "Dom spéc Forgerons de l'armée",
+        "italian": "Sett spec Fabbri dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Schmiede der Armee",
+        "french": "Dom spéc Forgerons de l'armée",
+        "italian": "Sett spec Fabbri dell'esercito",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

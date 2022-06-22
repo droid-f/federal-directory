@@ -1,1 +1,262 @@
-{"id"=>"10009451", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 66", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009453", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009456", "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20032784", "name"=>{"german"=>"Sektion Direktionsgeschäfte", "french"=>"Section Affaires de la direction", "italian"=>"Sezione Affari della direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009465", "name"=>{"german"=>"Sektion Richtplanung", "french"=>"Section Planification directrice", "italian"=>"Sezione Pianificazione direttrice", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20032683", "name"=>{"german"=>"Direktionsbereich 1 (Nachhaltige Entwicklung, Funktionale Räume, Recht)", "french"=>"Unité de direction 1 (Développement durable, espaces fonctionnels, droit)", "italian"=>"Unità di direzione 1 (Sviluppo sostenibile, spazi funzionali, diritto)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20032684", "name"=>{"german"=>"Direktionsbereich 2 (Mobilität, Raum und Infrastruktur)", "french"=>"Unité de direction 2 (Mobilité, territoire et infrastructure)", "italian"=>"Unità di direzione 2 (Mobilità, territorio e infrastrutture)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6176736", "surname"=>"Lezzi Lauper", "givenName"=>"Maria", "email"=>nil, "phone"=>"+41 58 46 24051", "function"=>{"german"=>"Direktorin", "french"=>"Direktorin", "italian"=>"Direktorin", "english"=>"Direktorin"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6096347", "surname"=>"Scheidegger", "givenName"=>"Stephan", "email"=>nil, "phone"=>"+41 58 46 24065", "function"=>{"german"=>"Stv Direktor DB 1", "french"=>"Stv Direktor DB 1", "italian"=>"Stv Direktor DB 1", "english"=>"Stv Direktor DB 1"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0638949", "surname"=>"Seewer", "givenName"=>"Ulrich", "email"=>nil, "phone"=>"+41 58 46 86006", "function"=>{"german"=>"Vizedirektor DB 2", "french"=>"Vizedirektor DB 2", "italian"=>"Vizedirektor DB 2", "english"=>"Vizedirektor DB 2"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1XLN1VMNT", "surname"=>"Hafner", "givenName"=>"Jana", "email"=>nil, "phone"=>"+41 58 46 51793", "function"=>{"german"=>"Direktionsassistentin", "french"=>"Direktionssekretärin", "italian"=>"Direktionssekretärin", "english"=>"Direktionsassistentin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10009450", "label"=>{"german"=>"ARE", "french"=>"ARE", "italian"=>"ARE", "english"=>""}, "name"=>{"german"=>"Bundesamt für Raumentwicklung", "french"=>"Office fédéral du développement territorial", "italian"=>"Ufficio federale dello sviluppo territoriale", "english"=>""}}, {"id"=>"10009451", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009451",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 66",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009453",
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009456",
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032784",
+      "name": {
+        "german": "Sektion Direktionsgeschäfte",
+        "french": "Section Affaires de la direction",
+        "italian": "Sezione Affari della direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009465",
+      "name": {
+        "german": "Sektion Richtplanung",
+        "french": "Section Planification directrice",
+        "italian": "Sezione Pianificazione direttrice",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032683",
+      "name": {
+        "german": "Direktionsbereich 1 (Nachhaltige Entwicklung, Funktionale Räume, Recht)",
+        "french": "Unité de direction 1 (Développement durable, espaces fonctionnels, droit)",
+        "italian": "Unità di direzione 1 (Sviluppo sostenibile, spazi funzionali, diritto)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032684",
+      "name": {
+        "german": "Direktionsbereich 2 (Mobilität, Raum und Infrastruktur)",
+        "french": "Unité de direction 2 (Mobilité, territoire et infrastructure)",
+        "italian": "Unità di direzione 2 (Mobilità, territorio e infrastrutture)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6176736",
+      "surname": "Lezzi Lauper",
+      "givenName": "Maria",
+      "email": null,
+      "phone": "+41 58 46 24051",
+      "function": {
+        "german": "Direktorin",
+        "french": "Direktorin",
+        "italian": "Direktorin",
+        "english": "Direktorin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6096347",
+      "surname": "Scheidegger",
+      "givenName": "Stephan",
+      "email": null,
+      "phone": "+41 58 46 24065",
+      "function": {
+        "german": "Stv Direktor DB 1",
+        "french": "Stv Direktor DB 1",
+        "italian": "Stv Direktor DB 1",
+        "english": "Stv Direktor DB 1"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0638949",
+      "surname": "Seewer",
+      "givenName": "Ulrich",
+      "email": null,
+      "phone": "+41 58 46 86006",
+      "function": {
+        "german": "Vizedirektor DB 2",
+        "french": "Vizedirektor DB 2",
+        "italian": "Vizedirektor DB 2",
+        "english": "Vizedirektor DB 2"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1XLN1VMNT",
+      "surname": "Hafner",
+      "givenName": "Jana",
+      "email": null,
+      "phone": "+41 58 46 51793",
+      "function": {
+        "german": "Direktionsassistentin",
+        "french": "Direktionssekretärin",
+        "italian": "Direktionssekretärin",
+        "english": "Direktionsassistentin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009450",
+      "label": {
+        "german": "ARE",
+        "french": "ARE",
+        "italian": "ARE",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Raumentwicklung",
+        "french": "Office fédéral du développement territorial",
+        "italian": "Ufficio federale dello sviluppo territoriale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009451",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,171 @@
-{"id"=>"10009327", "name"=>{"german"=>"Kommissariat KA 1", "french"=>"Commissariat KA 1", "italian"=>"Commissariato KA 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0840524", "surname"=>"Auderset", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 57005", "function"=>{"german"=>"Stv AC / Kommissariatsleiter/in", "french"=>"Stv AC / Kommissariatsleiter/in", "italian"=>"Stv AC / Kommissariatsleiter/in", "english"=>"Stv AC / Kommissariatsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009328", "label"=>{"german"=>"BKP", "french"=>"PJF", "italian"=>"PGF", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundeskriminalpolizei", "french"=>"Domaine de direction Police judiciaire fédérale", "italian"=>"Ambito direzionale Polizia giudiziaria federale", "english"=>""}}, {"id"=>"20021391", "label"=>{"german"=>"Abteilung Kriminalanalyse", "french"=>"Division Analyse criminelle", "italian"=>"Divisione Analisi criminale", "english"=>""}, "name"=>{"german"=>"Abteilung Kriminalanalyse", "french"=>"Division Analyse criminelle", "italian"=>"Divisione Analisi criminale", "english"=>""}}, {"id"=>"10009327", "label"=>{"german"=>"Kommissariat KA 1", "french"=>"Commissariat KA 1", "italian"=>"Commissariato KA 1", "english"=>""}, "name"=>{"german"=>"Kommissariat KA 1", "french"=>"Commissariat KA 1", "italian"=>"Commissariato KA 1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009327",
+  "name": {
+    "german": "Kommissariat KA 1",
+    "french": "Commissariat KA 1",
+    "italian": "Commissariato KA 1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0840524",
+      "surname": "Auderset",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 57005",
+      "function": {
+        "german": "Stv AC / Kommissariatsleiter/in",
+        "french": "Stv AC / Kommissariatsleiter/in",
+        "italian": "Stv AC / Kommissariatsleiter/in",
+        "english": "Stv AC / Kommissariatsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009328",
+      "label": {
+        "german": "BKP",
+        "french": "PJF",
+        "italian": "PGF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundeskriminalpolizei",
+        "french": "Domaine de direction Police judiciaire fédérale",
+        "italian": "Ambito direzionale Polizia giudiziaria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021391",
+      "label": {
+        "german": "Abteilung Kriminalanalyse",
+        "french": "Division Analyse criminelle",
+        "italian": "Divisione Analisi criminale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Kriminalanalyse",
+        "french": "Division Analyse criminelle",
+        "italian": "Divisione Analisi criminale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009327",
+      "label": {
+        "german": "Kommissariat KA 1",
+        "french": "Commissariat KA 1",
+        "italian": "Commissariato KA 1",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissariat KA 1",
+        "french": "Commissariat KA 1",
+        "italian": "Commissariato KA 1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

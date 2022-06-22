@@ -1,1 +1,139 @@
-{"id"=>"20050793", "name"=>{"german"=>"Personelles Zivilschutz", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e gestione", "english"=>""}, "nameAbbr"=>{"german"=>"ZS/PuS", "french"=>"ZS/PuS", "italian"=>"ZS/PuS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kilchermatt 2", "postalCode"=>"3150", "location"=>"Schwarzenburg", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20050794", "name"=>{"german"=>"Rekrutierungsoffiziere Zivilschutz", "french"=>"Rekrutierungsoffiziere Zivilschutz", "italian"=>"Rekrutierungsoffiziere Zivilschutz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"20050789", "label"=>{"german"=>"AUSB", "french"=>"AUSB", "italian"=>"AUSB", "english"=>""}, "name"=>{"german"=>"Zivilschutz und Ausbildung", "french"=>"Instruction", "italian"=>"Istruzione", "english"=>""}}, {"id"=>"20050793", "label"=>{"german"=>"ZS/PuS", "french"=>"ZS/PuS", "italian"=>"ZS/PuS", "english"=>""}, "name"=>{"german"=>"Personelles Zivilschutz", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e gestione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050793",
+  "name": {
+    "german": "Personelles Zivilschutz",
+    "french": "Planification et pilotage",
+    "italian": "Pianificazione e gestione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ZS/PuS",
+    "french": "ZS/PuS",
+    "italian": "ZS/PuS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kilchermatt 2",
+    "postalCode": "3150",
+    "location": "Schwarzenburg",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20050794",
+      "name": {
+        "german": "Rekrutierungsoffiziere Zivilschutz",
+        "french": "Rekrutierungsoffiziere Zivilschutz",
+        "italian": "Rekrutierungsoffiziere Zivilschutz",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050789",
+      "label": {
+        "german": "AUSB",
+        "french": "AUSB",
+        "italian": "AUSB",
+        "english": ""
+      },
+      "name": {
+        "german": "Zivilschutz und Ausbildung",
+        "french": "Instruction",
+        "italian": "Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050793",
+      "label": {
+        "german": "ZS/PuS",
+        "french": "ZS/PuS",
+        "italian": "ZS/PuS",
+        "english": ""
+      },
+      "name": {
+        "german": "Personelles Zivilschutz",
+        "french": "Planification et pilotage",
+        "italian": "Pianificazione e gestione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

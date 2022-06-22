@@ -1,1 +1,141 @@
-{"id"=>"20034952", "name"=>{"german"=>"Eidg. Medienkommission", "french"=>"Eidg. Medienkommission", "italian"=>"Eidg. Medienkommission", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3284986", "surname"=>"Leonarz", "givenName"=>"Martina", "email"=>nil, "phone"=>"+41 58 46 05755", "function"=>{"german"=>"Sekretariat Medienkommission", "french"=>"Sekretariat Medienkommission", "italian"=>"Sekretariat Medienkommission", "english"=>"Sekretariat Medienkommission"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20034952", "label"=>{"german"=>"Eidg. Medienkommission", "french"=>"Eidg. Medienkommission", "italian"=>"Eidg. Medienkommission", "english"=>""}, "name"=>{"german"=>"Eidg. Medienkommission", "french"=>"Eidg. Medienkommission", "italian"=>"Eidg. Medienkommission", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034952",
+  "name": {
+    "german": "Eidg. Medienkommission",
+    "french": "Eidg. Medienkommission",
+    "italian": "Eidg. Medienkommission",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3284986",
+      "surname": "Leonarz",
+      "givenName": "Martina",
+      "email": null,
+      "phone": "+41 58 46 05755",
+      "function": {
+        "german": "Sekretariat Medienkommission",
+        "french": "Sekretariat Medienkommission",
+        "italian": "Sekretariat Medienkommission",
+        "english": "Sekretariat Medienkommission"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034952",
+      "label": {
+        "german": "Eidg. Medienkommission",
+        "french": "Eidg. Medienkommission",
+        "italian": "Eidg. Medienkommission",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidg. Medienkommission",
+        "french": "Eidg. Medienkommission",
+        "italian": "Eidg. Medienkommission",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

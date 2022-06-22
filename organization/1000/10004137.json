@@ -1,1 +1,171 @@
-{"id"=>"10004137", "name"=>{"german"=>"Önologie", "french"=>"Oenologie", "italian"=>"Enologia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Route de Duillier 50", "postalCode"=>"1260", "location"=>"Nyon 1", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6826836", "surname"=>"Bourdin", "givenName"=>"Gilles", "email"=>nil, "phone"=>"+41 58 48 10047", "function"=>{"german"=>"Forschungsgruppenleiter/in", "french"=>"Chef/fe de groupe", "italian"=>"Forschungsgruppenleiter/in", "english"=>"Forschungsgruppenleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003634", "label"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}, "name"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}}, {"id"=>"10004120", "label"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}, "name"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}}, {"id"=>"20041353", "label"=>{"german"=>"Produktionssysteme Pflanzen", "french"=>"Systèmes de production Plantes", "italian"=>"Sistemi di produzione Vegetali", "english"=>""}, "name"=>{"german"=>"Produktionssysteme Pflanzen", "french"=>"Systèmes de production Plantes", "italian"=>"Sistemi di produzione Vegetali", "english"=>""}}, {"id"=>"10004137", "label"=>{"german"=>"Önologie", "french"=>"Oenologie", "italian"=>"Enologia", "english"=>""}, "name"=>{"german"=>"Önologie", "french"=>"Oenologie", "italian"=>"Enologia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004137",
+  "name": {
+    "german": "Önologie",
+    "french": "Oenologie",
+    "italian": "Enologia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Route de Duillier 50",
+    "postalCode": "1260",
+    "location": "Nyon 1",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6826836",
+      "surname": "Bourdin",
+      "givenName": "Gilles",
+      "email": null,
+      "phone": "+41 58 48 10047",
+      "function": {
+        "german": "Forschungsgruppenleiter/in",
+        "french": "Chef/fe de groupe",
+        "italian": "Forschungsgruppenleiter/in",
+        "english": "Forschungsgruppenleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003634",
+      "label": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004120",
+      "label": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041353",
+      "label": {
+        "german": "Produktionssysteme Pflanzen",
+        "french": "Systèmes de production Plantes",
+        "italian": "Sistemi di produzione Vegetali",
+        "english": ""
+      },
+      "name": {
+        "german": "Produktionssysteme Pflanzen",
+        "french": "Systèmes de production Plantes",
+        "italian": "Sistemi di produzione Vegetali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004137",
+      "label": {
+        "german": "Önologie",
+        "french": "Oenologie",
+        "italian": "Enologia",
+        "english": ""
+      },
+      "name": {
+        "german": "Önologie",
+        "french": "Oenologie",
+        "italian": "Enologia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

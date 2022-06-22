@@ -1,1 +1,214 @@
-{"id"=>"20037554", "name"=>{"german"=>"Strasseninfrastruktur Ost", "french"=>"Infrastructure routière Est", "italian"=>"Infrastruttura stradale Est", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037665", "name"=>{"german"=>"Investitionsplanung / Stab Ost", "french"=>"Planification des investissements / État-major Est", "italian"=>"Pianificazione degli investimenti / Staff direzionale Est", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015341", "name"=>{"german"=>"Fachunterstützung F3", "french"=>"Soutien technique F3", "italian"=>"Sostegno F3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015342", "name"=>{"german"=>"Fachunterstützung F4/F5", "french"=>"Soutien technique F4/F5", "italian"=>"Sostegno F4/F5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015177", "name"=>{"german"=>"Filiale Zofingen", "french"=>"Filiale Zofingue", "italian"=>"Filiale Zofingen", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015178", "name"=>{"german"=>"Filiale Winterthur", "french"=>"Filiale Winterthour", "italian"=>"Filiale Winterthur", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015179", "name"=>{"german"=>"Filiale Bellinzona", "french"=>"Filiale Bellinzone", "italian"=>"Filiale Bellinzona", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008759", "label"=>{"german"=>"ASTRA", "french"=>"OFROU", "italian"=>"USTRA", "english"=>""}, "name"=>{"german"=>"Bundesamt für Strassen", "french"=>"Office fédéral des routes", "italian"=>"Ufficio federale delle strade", "english"=>""}}, {"id"=>"10002509", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20037554", "label"=>{"german"=>"Strasseninfrastruktur Ost", "french"=>"Infrastructure routière Est", "italian"=>"Infrastruttura stradale Est", "english"=>""}, "name"=>{"german"=>"Strasseninfrastruktur Ost", "french"=>"Infrastructure routière Est", "italian"=>"Infrastruttura stradale Est", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037554",
+  "name": {
+    "german": "Strasseninfrastruktur Ost",
+    "french": "Infrastructure routière Est",
+    "italian": "Infrastruttura stradale Est",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037665",
+      "name": {
+        "german": "Investitionsplanung / Stab Ost",
+        "french": "Planification des investissements / État-major Est",
+        "italian": "Pianificazione degli investimenti / Staff direzionale Est",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015341",
+      "name": {
+        "german": "Fachunterstützung F3",
+        "french": "Soutien technique F3",
+        "italian": "Sostegno F3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015342",
+      "name": {
+        "german": "Fachunterstützung F4/F5",
+        "french": "Soutien technique F4/F5",
+        "italian": "Sostegno F4/F5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015177",
+      "name": {
+        "german": "Filiale Zofingen",
+        "french": "Filiale Zofingue",
+        "italian": "Filiale Zofingen",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015178",
+      "name": {
+        "german": "Filiale Winterthur",
+        "french": "Filiale Winterthour",
+        "italian": "Filiale Winterthur",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015179",
+      "name": {
+        "german": "Filiale Bellinzona",
+        "french": "Filiale Bellinzone",
+        "italian": "Filiale Bellinzona",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008759",
+      "label": {
+        "german": "ASTRA",
+        "french": "OFROU",
+        "italian": "USTRA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Strassen",
+        "french": "Office fédéral des routes",
+        "italian": "Ufficio federale delle strade",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002509",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037554",
+      "label": {
+        "german": "Strasseninfrastruktur Ost",
+        "french": "Infrastructure routière Est",
+        "italian": "Infrastruttura stradale Est",
+        "english": ""
+      },
+      "name": {
+        "german": "Strasseninfrastruktur Ost",
+        "french": "Infrastructure routière Est",
+        "italian": "Infrastruttura stradale Est",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

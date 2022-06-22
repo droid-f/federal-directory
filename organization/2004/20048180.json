@@ -1,1 +1,141 @@
-{"id"=>"20048180", "name"=>{"german"=>"Architektur und Interoperabilität", "french"=>"Architecture et interopérabilité", "italian"=>"Architettura e interoperabilità", "english"=>""}, "nameAbbr"=>{"german"=>"AI", "french"=>"AI", "italian"=>"AI", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 91", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5248406", "surname"=>"Spichiger", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 48 02646", "function"=>{"german"=>"Leiter/in, Stv. Leiter/in TI", "french"=>"Leiter/in, Stv. Leiter/in TI", "italian"=>"Leiter/in, Stv. Leiter/in TI", "english"=>"Leiter/in, Stv. Leiter/in TI"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"20048177", "label"=>{"german"=>"DTI", "french"=>"TNI", "italian"=>"TDT", "english"=>""}, "name"=>{"german"=>"Bereich Digitale Transformation und IKT-Lenkung", "french"=>"Secteur Transformation numérique et gouvernance de l’informatique", "italian"=>"Settore Trasformazione digitale e governance delle TIC", "english"=>""}}, {"id"=>"20048178", "label"=>{"german"=>"TI", "french"=>"TI", "italian"=>"TI", "english"=>""}, "name"=>{"german"=>"Transformation und Interoperabilität", "french"=>"Transformation et interopérabilité", "italian"=>"Trasformazione e interoperabilità", "english"=>""}}, {"id"=>"20048180", "label"=>{"german"=>"AI", "french"=>"AI", "italian"=>"AI", "english"=>""}, "name"=>{"german"=>"Architektur und Interoperabilität", "french"=>"Architecture et interopérabilité", "italian"=>"Architettura e interoperabilità", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048180",
+  "name": {
+    "german": "Architektur und Interoperabilität",
+    "french": "Architecture et interopérabilité",
+    "italian": "Architettura e interoperabilità",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "AI",
+    "french": "AI",
+    "italian": "AI",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 91",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5248406",
+      "surname": "Spichiger",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 48 02646",
+      "function": {
+        "german": "Leiter/in, Stv. Leiter/in TI",
+        "french": "Leiter/in, Stv. Leiter/in TI",
+        "italian": "Leiter/in, Stv. Leiter/in TI",
+        "english": "Leiter/in, Stv. Leiter/in TI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048177",
+      "label": {
+        "german": "DTI",
+        "french": "TNI",
+        "italian": "TDT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Digitale Transformation und IKT-Lenkung",
+        "french": "Secteur Transformation numérique et gouvernance de l’informatique",
+        "italian": "Settore Trasformazione digitale e governance delle TIC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048178",
+      "label": {
+        "german": "TI",
+        "french": "TI",
+        "italian": "TI",
+        "english": ""
+      },
+      "name": {
+        "german": "Transformation und Interoperabilität",
+        "french": "Transformation et interopérabilité",
+        "italian": "Trasformazione e interoperabilità",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048180",
+      "label": {
+        "german": "AI",
+        "french": "AI",
+        "italian": "AI",
+        "english": ""
+      },
+      "name": {
+        "german": "Architektur und Interoperabilität",
+        "french": "Architecture et interopérabilité",
+        "italian": "Architettura e interoperabilità",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

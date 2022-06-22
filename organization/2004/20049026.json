@@ -1,1 +1,170 @@
-{"id"=>"20049026", "name"=>{"german"=>"Fachbereich Informationsaustausch international", "french"=>"Domaine Échange d'informations international", "italian"=>"Settore Scambio di informazioni internazionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009366", "label"=>{"german"=>"PSI", "french"=>"SPI", "italian"=>"SPI", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Polizeisysteme & Identifikation", "french"=>"Domaine de direction systèmes de police et identification", "italian"=>"Ambito direzionale sistemi di polizia e identificazione", "english"=>""}}, {"id"=>"10009380", "label"=>{"german"=>"Abteilung Biometrische Identifikation", "french"=>"Division identification biométrique", "italian"=>"Divisione identificazione biometrica", "english"=>""}, "name"=>{"german"=>"Abteilung Biometrische Identifikation", "french"=>"Division identification biométrique", "italian"=>"Divisione identificazione biometrica", "english"=>""}}, {"id"=>"20021406", "label"=>{"german"=>"Bereich Biometrischer Informationsaustausch", "french"=>"Service Échange d'informations biométriques", "italian"=>"Scambio di informazioni biometriche", "english"=>""}, "name"=>{"german"=>"Bereich Biometrischer Informationsaustausch", "french"=>"Service Échange d'informations biométriques", "italian"=>"Scambio di informazioni biometriche", "english"=>""}}, {"id"=>"20049026", "label"=>{"german"=>"Fachbereich Informationsaustausch international", "french"=>"Domaine Échange d'informations international", "italian"=>"Settore Scambio di informazioni internazionale", "english"=>""}, "name"=>{"german"=>"Fachbereich Informationsaustausch international", "french"=>"Domaine Échange d'informations international", "italian"=>"Settore Scambio di informazioni internazionale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049026",
+  "name": {
+    "german": "Fachbereich Informationsaustausch international",
+    "french": "Domaine Échange d'informations international",
+    "italian": "Settore Scambio di informazioni internazionale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009366",
+      "label": {
+        "german": "PSI",
+        "french": "SPI",
+        "italian": "SPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Polizeisysteme & Identifikation",
+        "french": "Domaine de direction systèmes de police et identification",
+        "italian": "Ambito direzionale sistemi di polizia e identificazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009380",
+      "label": {
+        "german": "Abteilung Biometrische Identifikation",
+        "french": "Division identification biométrique",
+        "italian": "Divisione identificazione biometrica",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Biometrische Identifikation",
+        "french": "Division identification biométrique",
+        "italian": "Divisione identificazione biometrica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021406",
+      "label": {
+        "german": "Bereich Biometrischer Informationsaustausch",
+        "french": "Service Échange d'informations biométriques",
+        "italian": "Scambio di informazioni biometriche",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Biometrischer Informationsaustausch",
+        "french": "Service Échange d'informations biométriques",
+        "italian": "Scambio di informazioni biometriche",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049026",
+      "label": {
+        "german": "Fachbereich Informationsaustausch international",
+        "french": "Domaine Échange d'informations international",
+        "italian": "Settore Scambio di informazioni internazionale",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Informationsaustausch international",
+        "french": "Domaine Échange d'informations international",
+        "italian": "Settore Scambio di informazioni internazionale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,126 @@
-{"id"=>"10001286", "name"=>{"german"=>"Centre d'Accueil - Genève Internationale", "french"=>"Centre d'Accueil - Genève Internationale", "italian"=>"Centro di accoglienza Ginevra internazionale", "english"=>"Geneva Welcome Centre"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"La Pastorale, Route de Ferney 106", "postalCode"=>"1211", "location"=>"Genève 20", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3220631", "surname"=>"Bal", "givenName"=>"Salman", "email"=>nil, "phone"=>"+41 58 48 22449", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10001286", "label"=>{"german"=>"Centre d'Accueil - Genève Internationale", "french"=>"Centre d'Accueil - Genève Internationale", "italian"=>"Centro di accoglienza Ginevra internazionale", "english"=>"Geneva Welcome Centre"}, "name"=>{"german"=>"Centre d'Accueil - Genève Internationale", "french"=>"Centre d'Accueil - Genève Internationale", "italian"=>"Centro di accoglienza Ginevra internazionale", "english"=>"Geneva Welcome Centre"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10001286",
+  "name": {
+    "german": "Centre d'Accueil - Genève Internationale",
+    "french": "Centre d'Accueil - Genève Internationale",
+    "italian": "Centro di accoglienza Ginevra internazionale",
+    "english": "Geneva Welcome Centre"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "La Pastorale, Route de Ferney 106",
+    "postalCode": "1211",
+    "location": "Genève 20",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3220631",
+      "surname": "Bal",
+      "givenName": "Salman",
+      "email": null,
+      "phone": "+41 58 48 22449",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10001286",
+      "label": {
+        "german": "Centre d'Accueil - Genève Internationale",
+        "french": "Centre d'Accueil - Genève Internationale",
+        "italian": "Centro di accoglienza Ginevra internazionale",
+        "english": "Geneva Welcome Centre"
+      },
+      "name": {
+        "german": "Centre d'Accueil - Genève Internationale",
+        "french": "Centre d'Accueil - Genève Internationale",
+        "italian": "Centro di accoglienza Ginevra internazionale",
+        "english": "Geneva Welcome Centre"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

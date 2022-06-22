@@ -1,1 +1,141 @@
-{"id"=>"20037462", "name"=>{"german"=>"Redaktion", "french"=>"Rédaction", "italian"=>"Redazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Feldeggweg 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4094447", "surname"=>"Moll", "givenName"=>"Bernard", "email"=>nil, "phone"=>"+41 58 46 23736", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002674", "label"=>{"german"=>"BR", "french"=>"BR", "italian"=>"BR", "english"=>""}, "name"=>{"german"=>"Bereich Bundesrat", "french"=>"Secteur Conseil fédéral", "italian"=>"Settore Consiglio federale", "english"=>""}}, {"id"=>"10002678", "label"=>{"german"=>"KAV", "french"=>"KAV", "italian"=>"KAV", "english"=>""}, "name"=>{"german"=>"Kompetenzzentrum Amtliche Veröffentlichungen", "french"=>"Centre des publications officielles", "italian"=>"Centro delle pubblicazioni ufficiali", "english"=>""}}, {"id"=>"20037462", "label"=>{"german"=>"Redaktion", "french"=>"Rédaction", "italian"=>"Redazione", "english"=>""}, "name"=>{"german"=>"Redaktion", "french"=>"Rédaction", "italian"=>"Redazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037462",
+  "name": {
+    "german": "Redaktion",
+    "french": "Rédaction",
+    "italian": "Redazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Feldeggweg 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4094447",
+      "surname": "Moll",
+      "givenName": "Bernard",
+      "email": null,
+      "phone": "+41 58 46 23736",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002674",
+      "label": {
+        "german": "BR",
+        "french": "BR",
+        "italian": "BR",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Bundesrat",
+        "french": "Secteur Conseil fédéral",
+        "italian": "Settore Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002678",
+      "label": {
+        "german": "KAV",
+        "french": "KAV",
+        "italian": "KAV",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompetenzzentrum Amtliche Veröffentlichungen",
+        "french": "Centre des publications officielles",
+        "italian": "Centro delle pubblicazioni ufficiali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037462",
+      "label": {
+        "german": "Redaktion",
+        "french": "Rédaction",
+        "italian": "Redazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Redaktion",
+        "french": "Rédaction",
+        "italian": "Redazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

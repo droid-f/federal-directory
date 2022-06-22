@@ -1,1 +1,232 @@
-{"id"=>"10003843", "name"=>{"german"=>"Ressourcen EFD", "french"=>"Ressources DFF", "italian"=>"Risorse DFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 118", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20016876", "name"=>{"german"=>"Human Resources EFD", "french"=>"Ressources humaines DFF", "italian"=>"Risorse umane DFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20016878", "name"=>{"german"=>"Finanzen und Controlling EFD", "french"=>"Finances DFF", "italian"=>"Finanze DFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20016827", "name"=>{"german"=>"Informatik und Telekommunikation / Sicherheit EFD", "french"=>"Informatique et télécommunication / Sécurité DFF", "italian"=>"Informatica e telecomunicazione / Sicurezza DFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003846", "name"=>{"german"=>"Organisation, Führungssysteme und Entwicklung", "french"=>"Organisation, systèmes sw gestion et développement", "italian"=>"Organizzazione, sistemi di gestione e sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003847", "name"=>{"german"=>"Sprachdienste EFD", "french"=>"Services linguistiques DFF", "italian"=>"Servizi linguistici DFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9317389", "surname"=>"Häberli", "givenName"=>"Mathias", "email"=>nil, "phone"=>"+41 58 46 87781", "function"=>{"german"=>"Leiter/in Abteilung Ressourcen EFD", "french"=>"Chef/fe de la division Ressources DFF", "italian"=>"Capodivisione Risorse DFF", "english"=>"Leiter/in Abteilung Ressourcen EFD"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6741552", "surname"=>"Rösch", "givenName"=>"Beat", "email"=>nil, "phone"=>"+41 58 46 26026", "function"=>{"german"=>"Leiter Finanzen und Controlling EFD und Stv. Leiter REssourcen EFD", "french"=>"Chef/fe Fin./control., chef/fe suppl. Ressources", "italian"=>"Capo Finanze e controlling e capo sost. Risorse", "english"=>"Leiter FI und CO und Stv. L Ressourcen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008603", "label"=>{"german"=>"GS-EFD", "french"=>"SG-DFF", "italian"=>"SG-DFF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EFD", "french"=>"Secrétariat général DFF", "italian"=>"Segreteria generale DFF", "english"=>""}}, {"id"=>"20041576", "label"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}, "name"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}}, {"id"=>"10003843", "label"=>{"german"=>"Ressourcen EFD", "french"=>"Ressources DFF", "italian"=>"Risorse DFF", "english"=>""}, "name"=>{"german"=>"Ressourcen EFD", "french"=>"Ressources DFF", "italian"=>"Risorse DFF", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003843",
+  "name": {
+    "german": "Ressourcen EFD",
+    "french": "Ressources DFF",
+    "italian": "Risorse DFF",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 118",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20016876",
+      "name": {
+        "german": "Human Resources EFD",
+        "french": "Ressources humaines DFF",
+        "italian": "Risorse umane DFF",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016878",
+      "name": {
+        "german": "Finanzen und Controlling EFD",
+        "french": "Finances DFF",
+        "italian": "Finanze DFF",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016827",
+      "name": {
+        "german": "Informatik und Telekommunikation / Sicherheit EFD",
+        "french": "Informatique et télécommunication / Sécurité DFF",
+        "italian": "Informatica e telecomunicazione / Sicurezza DFF",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003846",
+      "name": {
+        "german": "Organisation, Führungssysteme und Entwicklung",
+        "french": "Organisation, systèmes sw gestion et développement",
+        "italian": "Organizzazione, sistemi di gestione e sviluppo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003847",
+      "name": {
+        "german": "Sprachdienste EFD",
+        "french": "Services linguistiques DFF",
+        "italian": "Servizi linguistici DFF",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9317389",
+      "surname": "Häberli",
+      "givenName": "Mathias",
+      "email": null,
+      "phone": "+41 58 46 87781",
+      "function": {
+        "german": "Leiter/in Abteilung Ressourcen EFD",
+        "french": "Chef/fe de la division Ressources DFF",
+        "italian": "Capodivisione Risorse DFF",
+        "english": "Leiter/in Abteilung Ressourcen EFD"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6741552",
+      "surname": "Rösch",
+      "givenName": "Beat",
+      "email": null,
+      "phone": "+41 58 46 26026",
+      "function": {
+        "german": "Leiter Finanzen und Controlling EFD und Stv. Leiter REssourcen EFD",
+        "french": "Chef/fe Fin./control., chef/fe suppl. Ressources",
+        "italian": "Capo Finanze e controlling e capo sost. Risorse",
+        "english": "Leiter FI und CO und Stv. L Ressourcen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008603",
+      "label": {
+        "german": "GS-EFD",
+        "french": "SG-DFF",
+        "italian": "SG-DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EFD",
+        "french": "Secrétariat général DFF",
+        "italian": "Segreteria generale DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041576",
+      "label": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003843",
+      "label": {
+        "german": "Ressourcen EFD",
+        "french": "Ressources DFF",
+        "italian": "Risorse DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen EFD",
+        "french": "Ressources DFF",
+        "italian": "Risorse DFF",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

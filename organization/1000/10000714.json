@@ -1,1 +1,264 @@
-{"id"=>"10000714", "name"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10001125", "name"=>{"german"=>"Stab Humanitäre Hilfe und SKH", "french"=>"Etat-major Aide humanitaire et CSA", "italian"=>"Stato maggiore Aiuto umanitario e CSA", "english"=>"Staff Humanitarian Aid and SHA"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001126", "name"=>{"german"=>"Abteilung Multilaterales", "french"=>"Division Affaires multilatérales", "italian"=>"Divisione Affari multilaterali", "english"=>"Division Multilateral Affairs"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001128", "name"=>{"german"=>"Abteilung Afrika", "french"=>"Division Afrique", "italian"=>"Divisione Africa", "english"=>"Division Africa"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001755", "name"=>{"german"=>"Abteilung Europa, Asien und Amerika", "french"=>"Division Europe, Asie et Amérique", "italian"=>"Divisione Europa, Asia e America", "english"=>"Division Europe, Asia and Americas"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001127", "name"=>{"german"=>"Abteilung Mittlerer Osten und Nordafrika - Humanitäres", "french"=>"Division Moyen-Orient et Afrique du Nord - Humanitaire", "italian"=>"Divisione Medio Oriente e Africa del Nord - Umanitario", "english"=>"Middle East and North Africa Division - Humanitarian"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001129", "name"=>{"german"=>"Sektion Ressourcen Feld", "french"=>"Section Ressources terrain", "italian"=>"Sezione Risorse terreno", "english"=>"Field Resources Section"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001130", "name"=>{"german"=>"Sektion Ausrüstung und Logistik", "french"=>"Section Equipement et logistique", "italian"=>"Sezione Equipaggiamento e logistica", "english"=>"Equipment and Logistics Section"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6548099", "surname"=>"Bessler", "givenName"=>"Manuel", "email"=>nil, "phone"=>"+41 58 46 23561", "function"=>{"german"=>"Stv. Direktor/in", "french"=>"Stv. Direktor/in", "italian"=>"Stv. Direktor/in", "english"=>"Stv. Direktor/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7748837", "surname"=>"Studer", "givenName"=>"Andrea", "email"=>nil, "phone"=>"+41 58 46 46915", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4946736", "surname"=>"Flückiger", "givenName"=>"Silvio Manuel", "email"=>nil, "phone"=>"+41 58 48 00384", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}, {"id"=>"10000714", "label"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}, "name"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000714",
+  "name": {
+    "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+    "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+    "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+    "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10001125",
+      "name": {
+        "german": "Stab Humanitäre Hilfe und SKH",
+        "french": "Etat-major Aide humanitaire et CSA",
+        "italian": "Stato maggiore Aiuto umanitario e CSA",
+        "english": "Staff Humanitarian Aid and SHA"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001126",
+      "name": {
+        "german": "Abteilung Multilaterales",
+        "french": "Division Affaires multilatérales",
+        "italian": "Divisione Affari multilaterali",
+        "english": "Division Multilateral Affairs"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001128",
+      "name": {
+        "german": "Abteilung Afrika",
+        "french": "Division Afrique",
+        "italian": "Divisione Africa",
+        "english": "Division Africa"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001755",
+      "name": {
+        "german": "Abteilung Europa, Asien und Amerika",
+        "french": "Division Europe, Asie et Amérique",
+        "italian": "Divisione Europa, Asia e America",
+        "english": "Division Europe, Asia and Americas"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001127",
+      "name": {
+        "german": "Abteilung Mittlerer Osten und Nordafrika - Humanitäres",
+        "french": "Division Moyen-Orient et Afrique du Nord - Humanitaire",
+        "italian": "Divisione Medio Oriente e Africa del Nord - Umanitario",
+        "english": "Middle East and North Africa Division - Humanitarian"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001129",
+      "name": {
+        "german": "Sektion Ressourcen Feld",
+        "french": "Section Ressources terrain",
+        "italian": "Sezione Risorse terreno",
+        "english": "Field Resources Section"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001130",
+      "name": {
+        "german": "Sektion Ausrüstung und Logistik",
+        "french": "Section Equipement et logistique",
+        "italian": "Sezione Equipaggiamento e logistica",
+        "english": "Equipment and Logistics Section"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6548099",
+      "surname": "Bessler",
+      "givenName": "Manuel",
+      "email": null,
+      "phone": "+41 58 46 23561",
+      "function": {
+        "german": "Stv. Direktor/in",
+        "french": "Stv. Direktor/in",
+        "italian": "Stv. Direktor/in",
+        "english": "Stv. Direktor/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7748837",
+      "surname": "Studer",
+      "givenName": "Andrea",
+      "email": null,
+      "phone": "+41 58 46 46915",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4946736",
+      "surname": "Flückiger",
+      "givenName": "Silvio Manuel",
+      "email": null,
+      "phone": "+41 58 48 00384",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    },
+    {
+      "id": "10000714",
+      "label": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      },
+      "name": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

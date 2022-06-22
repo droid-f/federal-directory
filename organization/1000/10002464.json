@@ -1,1 +1,169 @@
-{"id"=>"10002464", "name"=>{"german"=>"Eidgenössisches Amt für das Zivilstandswesen", "french"=>"Office fédéral de l'état civil", "italian"=>"Ufficio federale dello stato civile", "english"=>""}, "nameAbbr"=>{"german"=>"EAZW", "french"=>"EAZW", "italian"=>"EAZW", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584624242", "fax"=>"+41584642655", "email"=>"eazw@bj.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9510416", "surname"=>"Rüetschi", "givenName"=>"David", "email"=>nil, "phone"=>"+41 58 46 24418", "function"=>{"german"=>"Vorsteher EAZW", "french"=>"Chef OFEC", "italian"=>"Capo UFSC", "english"=>"Vorsteher EAZW"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3697164", "surname"=>"Zürcher", "givenName"=>"Patrik", "email"=>nil, "phone"=>"+41 58 46 24473", "function"=>{"german"=>"Eidg. Zivilstandsinspektor", "french"=>"Inspecteur fédéral de l'état civil", "italian"=>"Ispettore federale dello stato civile", "english"=>"Eidg. Zivilstandsinspektor"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002456", "label"=>{"german"=>"PRIVAT", "french"=>"PRIVAT", "italian"=>"PRIVAT", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Privatrecht", "french"=>"Domaine de direction Droit privé", "italian"=>"Ambito direzionale Diritto privato", "english"=>""}}, {"id"=>"10002464", "label"=>{"german"=>"EAZW", "french"=>"EAZW", "italian"=>"EAZW", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Amt für das Zivilstandswesen", "french"=>"Office fédéral de l'état civil", "italian"=>"Ufficio federale dello stato civile", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002464",
+  "name": {
+    "german": "Eidgenössisches Amt für das Zivilstandswesen",
+    "french": "Office fédéral de l'état civil",
+    "italian": "Ufficio federale dello stato civile",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "EAZW",
+    "french": "EAZW",
+    "italian": "EAZW",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584624242",
+    "fax": "+41584642655",
+    "email": "eazw@bj.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9510416",
+      "surname": "Rüetschi",
+      "givenName": "David",
+      "email": null,
+      "phone": "+41 58 46 24418",
+      "function": {
+        "german": "Vorsteher EAZW",
+        "french": "Chef OFEC",
+        "italian": "Capo UFSC",
+        "english": "Vorsteher EAZW"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3697164",
+      "surname": "Zürcher",
+      "givenName": "Patrik",
+      "email": null,
+      "phone": "+41 58 46 24473",
+      "function": {
+        "german": "Eidg. Zivilstandsinspektor",
+        "french": "Inspecteur fédéral de l'état civil",
+        "italian": "Ispettore federale dello stato civile",
+        "english": "Eidg. Zivilstandsinspektor"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002456",
+      "label": {
+        "german": "PRIVAT",
+        "french": "PRIVAT",
+        "italian": "PRIVAT",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Privatrecht",
+        "french": "Domaine de direction Droit privé",
+        "italian": "Ambito direzionale Diritto privato",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002464",
+      "label": {
+        "german": "EAZW",
+        "french": "EAZW",
+        "italian": "EAZW",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Amt für das Zivilstandswesen",
+        "french": "Office fédéral de l'état civil",
+        "italian": "Ufficio federale dello stato civile",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

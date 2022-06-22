@@ -1,1 +1,169 @@
-{"id"=>"20030169", "name"=>{"german"=>"Abteilung I Kammer 2", "french"=>"Cour I Chambre 2", "italian"=>"Corte I Camera 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20044376", "name"=>{"german"=>"Abteilung I Kammer 2.1", "french"=>"Cour I Chambre 2.1", "italian"=>"Corte I Camera 2.1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050607", "name"=>{"german"=>"Abteilung I Kammer 2.6", "french"=>"Cour I Chambre 2.5", "italian"=>"Corte I Camera 2.5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044377", "name"=>{"german"=>"Abteilung I Kammer 2.2", "french"=>"Cour I Chambre 2.2", "italian"=>"Corte I Camera 2.2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044378", "name"=>{"german"=>"Abteilung I Kammer 2.3", "french"=>"Cour I Chambre 2.3", "italian"=>"Corte I Camera 2.3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044380", "name"=>{"german"=>"Abteilung I Kammer 2.5", "french"=>"Cour I Chambre 2.5", "italian"=>"Corte I Camera 2.5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014816", "label"=>{"german"=>"Abteilung I - Infrastruktur, Finanzen und Personal", "french"=>"Cour I - infrastructure, finances et personnel", "italian"=>"Corte I - infrastruttura, finanze e personale", "english"=>""}, "name"=>{"german"=>"Abteilung I - Infrastruktur, Finanzen und Personal", "french"=>"Cour I - infrastructure, finances et personnel", "italian"=>"Corte I - infrastruttura, finanze e personale", "english"=>""}}, {"id"=>"20030169", "label"=>{"german"=>"Abteilung I Kammer 2", "french"=>"Cour I Chambre 2", "italian"=>"Corte I Camera 2", "english"=>""}, "name"=>{"german"=>"Abteilung I Kammer 2", "french"=>"Cour I Chambre 2", "italian"=>"Corte I Camera 2", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030169",
+  "name": {
+    "german": "Abteilung I Kammer 2",
+    "french": "Cour I Chambre 2",
+    "italian": "Corte I Camera 2",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20044376",
+      "name": {
+        "german": "Abteilung I Kammer 2.1",
+        "french": "Cour I Chambre 2.1",
+        "italian": "Corte I Camera 2.1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050607",
+      "name": {
+        "german": "Abteilung I Kammer 2.6",
+        "french": "Cour I Chambre 2.5",
+        "italian": "Corte I Camera 2.5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044377",
+      "name": {
+        "german": "Abteilung I Kammer 2.2",
+        "french": "Cour I Chambre 2.2",
+        "italian": "Corte I Camera 2.2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044378",
+      "name": {
+        "german": "Abteilung I Kammer 2.3",
+        "french": "Cour I Chambre 2.3",
+        "italian": "Corte I Camera 2.3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044380",
+      "name": {
+        "german": "Abteilung I Kammer 2.5",
+        "french": "Cour I Chambre 2.5",
+        "italian": "Corte I Camera 2.5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014816",
+      "label": {
+        "german": "Abteilung I - Infrastruktur, Finanzen und Personal",
+        "french": "Cour I - infrastructure, finances et personnel",
+        "italian": "Corte I - infrastruttura, finanze e personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung I - Infrastruktur, Finanzen und Personal",
+        "french": "Cour I - infrastructure, finances et personnel",
+        "italian": "Corte I - infrastruttura, finanze e personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030169",
+      "label": {
+        "german": "Abteilung I Kammer 2",
+        "french": "Cour I Chambre 2",
+        "italian": "Corte I Camera 2",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung I Kammer 2",
+        "french": "Cour I Chambre 2",
+        "italian": "Corte I Camera 2",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

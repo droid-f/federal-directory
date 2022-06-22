@@ -1,1 +1,109 @@
-{"id"=>"20025051", "name"=>{"german"=>"Staatssekretariat für internationale Finanzfragen", "french"=>"Secrétariat d'Etat aux questions financières internationales", "italian"=>"Segreteria di Stato per le questioni finanziarie internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"SIF", "french"=>"SFI", "italian"=>"SFI", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"0041 58 462 62 63", "fax"=>"0041 58 463 24 02", "email"=>"info@sif.admin.ch", "homepage"=>{"german"=>"www.sif.admin.ch", "french"=>"www.sif.admin.ch", "italian"=>"www.sif.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20041505", "name"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"20025051", "label"=>{"german"=>"SIF", "french"=>"SFI", "italian"=>"SFI", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für internationale Finanzfragen", "french"=>"Secrétariat d'Etat aux questions financières internationales", "italian"=>"Segreteria di Stato per le questioni finanziarie internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "20025051",
+  "name": {
+    "german": "Staatssekretariat für internationale Finanzfragen",
+    "french": "Secrétariat d'Etat aux questions financières internationales",
+    "italian": "Segreteria di Stato per le questioni finanziarie internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SIF",
+    "french": "SFI",
+    "italian": "SFI",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "0041 58 462 62 63",
+    "fax": "0041 58 463 24 02",
+    "email": "info@sif.admin.ch",
+    "homepage": {
+      "german": "www.sif.admin.ch",
+      "french": "www.sif.admin.ch",
+      "italian": "www.sif.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20041505",
+      "name": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025051",
+      "label": {
+        "german": "SIF",
+        "french": "SFI",
+        "italian": "SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für internationale Finanzfragen",
+        "french": "Secrétariat d'Etat aux questions financières internationales",
+        "italian": "Segreteria di Stato per le questioni finanziarie internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

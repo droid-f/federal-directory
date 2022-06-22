@@ -1,1 +1,205 @@
-{"id"=>"20046401", "name"=>{"german"=>"Aufenthalt 3", "french"=>"Séjour 3", "italian"=>"Dimora 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8260032", "surname"=>"Gendotti", "givenName"=>"Michèle", "email"=>nil, "phone"=>"+41 58 46 53678", "function"=>{"german"=>"Chef/in Sektion im Job-Sharing", "french"=>"Chef/in Sektion im Job-Sharing", "italian"=>"Chef/in Sektion im Job-Sharing", "english"=>"Chef/in Sektion im Job-Sharing"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9802593", "surname"=>"Hamann", "givenName"=>"Karen Mareike", "email"=>nil, "phone"=>"+41 58 46 58577", "function"=>{"german"=>"Chef/in Sektion im Job-Sharing", "french"=>"Chef/in Sektion im Job-Sharing", "italian"=>"Chef/in Sektion im Job-Sharing", "english"=>"Chef/in Sektion im Job-Sharing"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2974370", "surname"=>"von Arx", "givenName"=>"Jan", "email"=>nil, "phone"=>"+41 58 48 13945", "function"=>{"german"=>"Fachreferent/in Stv. Chef/in Sektion", "french"=>"Fachreferent/in Stv. Chef/in Sektion", "italian"=>"Fachreferent/in Stv. Chef/in Sektion", "english"=>"Fachreferent/in Stv. Chef/in Sektion"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045027", "label"=>{"german"=>"Dublin, Aufenthalt und Resettlement", "french"=>"Dublin, séjour et réinstallation", "italian"=>"Dublino, soggiorno e reinsediamento", "english"=>""}, "name"=>{"german"=>"Dublin, Aufenthalt und Resettlement", "french"=>"Dublin, séjour et réinstallation", "italian"=>"Dublino, soggiorno e reinsediamento", "english"=>""}}, {"id"=>"20046401", "label"=>{"german"=>"Aufenthalt 3", "french"=>"Séjour 3", "italian"=>"Dimora 3", "english"=>""}, "name"=>{"german"=>"Aufenthalt 3", "french"=>"Séjour 3", "italian"=>"Dimora 3", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046401",
+  "name": {
+    "german": "Aufenthalt 3",
+    "french": "Séjour 3",
+    "italian": "Dimora 3",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8260032",
+      "surname": "Gendotti",
+      "givenName": "Michèle",
+      "email": null,
+      "phone": "+41 58 46 53678",
+      "function": {
+        "german": "Chef/in Sektion im Job-Sharing",
+        "french": "Chef/in Sektion im Job-Sharing",
+        "italian": "Chef/in Sektion im Job-Sharing",
+        "english": "Chef/in Sektion im Job-Sharing"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9802593",
+      "surname": "Hamann",
+      "givenName": "Karen Mareike",
+      "email": null,
+      "phone": "+41 58 46 58577",
+      "function": {
+        "german": "Chef/in Sektion im Job-Sharing",
+        "french": "Chef/in Sektion im Job-Sharing",
+        "italian": "Chef/in Sektion im Job-Sharing",
+        "english": "Chef/in Sektion im Job-Sharing"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2974370",
+      "surname": "von Arx",
+      "givenName": "Jan",
+      "email": null,
+      "phone": "+41 58 48 13945",
+      "function": {
+        "german": "Fachreferent/in Stv. Chef/in Sektion",
+        "french": "Fachreferent/in Stv. Chef/in Sektion",
+        "italian": "Fachreferent/in Stv. Chef/in Sektion",
+        "english": "Fachreferent/in Stv. Chef/in Sektion"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045027",
+      "label": {
+        "german": "Dublin, Aufenthalt und Resettlement",
+        "french": "Dublin, séjour et réinstallation",
+        "italian": "Dublino, soggiorno e reinsediamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Dublin, Aufenthalt und Resettlement",
+        "french": "Dublin, séjour et réinstallation",
+        "italian": "Dublino, soggiorno e reinsediamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046401",
+      "label": {
+        "german": "Aufenthalt 3",
+        "french": "Séjour 3",
+        "italian": "Dimora 3",
+        "english": ""
+      },
+      "name": {
+        "german": "Aufenthalt 3",
+        "french": "Séjour 3",
+        "italian": "Dimora 3",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

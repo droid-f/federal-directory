@@ -1,1 +1,187 @@
-{"id"=>"20040058", "name"=>{"german"=>"Geoinformatik", "french"=>"Géoinformatique", "italian"=>"Geoinformatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20040059", "name"=>{"german"=>"Frontend", "french"=>"Frontend", "italian"=>"Frontend", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040060", "name"=>{"german"=>"Backend", "french"=>"Backend", "italian"=>"Backend", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9229765", "surname"=>"Christ", "givenName"=>"Hanspeter", "email"=>nil, "phone"=>"+41 58 46 90383", "function"=>{"german"=>"PzL Geoinformatik", "french"=>"Rp Géoinformatique", "italian"=>"Rp geoinformatica", "english"=>"PzL Geoinformatik"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9126171", "surname"=>"Bucher", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 90262", "function"=>{"german"=>"TPzL Backend/Stv. PzL Geoinformatik", "french"=>"Rpp backend/Rsp. Géoinfor.", "italian"=>"Rpp backend/Rsp. geoinfor.", "english"=>"TPzL Backend/Stv. PzL Geoinformatik"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"20040051", "label"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}, "name"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}}, {"id"=>"20040058", "label"=>{"german"=>"Geoinformatik", "french"=>"Géoinformatique", "italian"=>"Geoinformatica", "english"=>""}, "name"=>{"german"=>"Geoinformatik", "french"=>"Géoinformatique", "italian"=>"Geoinformatica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20040058",
+  "name": {
+    "german": "Geoinformatik",
+    "french": "Géoinformatique",
+    "italian": "Geoinformatica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20040059",
+      "name": {
+        "german": "Frontend",
+        "french": "Frontend",
+        "italian": "Frontend",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040060",
+      "name": {
+        "german": "Backend",
+        "french": "Backend",
+        "italian": "Backend",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9229765",
+      "surname": "Christ",
+      "givenName": "Hanspeter",
+      "email": null,
+      "phone": "+41 58 46 90383",
+      "function": {
+        "german": "PzL Geoinformatik",
+        "french": "Rp Géoinformatique",
+        "italian": "Rp geoinformatica",
+        "english": "PzL Geoinformatik"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9126171",
+      "surname": "Bucher",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 90262",
+      "function": {
+        "german": "TPzL Backend/Stv. PzL Geoinformatik",
+        "french": "Rpp backend/Rsp. Géoinfor.",
+        "italian": "Rpp backend/Rsp. geoinfor.",
+        "english": "TPzL Backend/Stv. PzL Geoinformatik"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040051",
+      "label": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      },
+      "name": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040058",
+      "label": {
+        "german": "Geoinformatik",
+        "french": "Géoinformatique",
+        "italian": "Geoinformatica",
+        "english": ""
+      },
+      "name": {
+        "german": "Geoinformatik",
+        "french": "Géoinformatique",
+        "italian": "Geoinformatica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

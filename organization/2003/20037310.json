@@ -1,1 +1,153 @@
-{"id"=>"20037310", "name"=>{"german"=>"Amtliches Bulletin", "french"=>"Bulletin officiel", "italian"=>"Bollettino ufficiale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5785276", "surname"=>"Perito", "givenName"=>"Daniela", "email"=>nil, "phone"=>"+41 58 32 29218", "function"=>{"german"=>"Leiterin Ressort Amtliches Bulletin", "french"=>"Leiterin Ressort Amtliches Bulletin", "italian"=>"Leiterin Ressort Amtliches Bulletin", "english"=>"Leiterin Ressort Amtliches Bulletin"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1XYTZ130L", "surname"=>"Delbancut", "givenName"=>"Pierre", "email"=>nil, "phone"=>"+41 58 32 29943", "function"=>{"german"=>"Leiter Organisation und Redaktion AB", "french"=>"Leiter Organisation und Redaktion AB", "italian"=>"Leiter Organisation und Redaktion AB", "english"=>"Leiter Organisation und Redaktion AB"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4236408", "surname"=>"Lüthy Leuenberger", "givenName"=>"Beatrice", "email"=>nil, "phone"=>"+41 58 32 29268", "function"=>{"german"=>"Leiterin Org. und Redaktion / Protokoll", "french"=>"Leiterin Org. und Redaktion / Protokoll", "italian"=>"Leiterin Org. und Redaktion / Protokoll", "english"=>"Leiterin Org. und Redaktion / Protokoll"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037304", "label"=>{"german"=>"Information", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "name"=>{"german"=>"Information", "french"=>"Information", "italian"=>"Informazione", "english"=>""}}, {"id"=>"20037310", "label"=>{"german"=>"Amtliches Bulletin", "french"=>"Bulletin officiel", "italian"=>"Bollettino ufficiale", "english"=>""}, "name"=>{"german"=>"Amtliches Bulletin", "french"=>"Bulletin officiel", "italian"=>"Bollettino ufficiale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037310",
+  "name": {
+    "german": "Amtliches Bulletin",
+    "french": "Bulletin officiel",
+    "italian": "Bollettino ufficiale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5785276",
+      "surname": "Perito",
+      "givenName": "Daniela",
+      "email": null,
+      "phone": "+41 58 32 29218",
+      "function": {
+        "german": "Leiterin Ressort Amtliches Bulletin",
+        "french": "Leiterin Ressort Amtliches Bulletin",
+        "italian": "Leiterin Ressort Amtliches Bulletin",
+        "english": "Leiterin Ressort Amtliches Bulletin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1XYTZ130L",
+      "surname": "Delbancut",
+      "givenName": "Pierre",
+      "email": null,
+      "phone": "+41 58 32 29943",
+      "function": {
+        "german": "Leiter Organisation und Redaktion AB",
+        "french": "Leiter Organisation und Redaktion AB",
+        "italian": "Leiter Organisation und Redaktion AB",
+        "english": "Leiter Organisation und Redaktion AB"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4236408",
+      "surname": "Lüthy Leuenberger",
+      "givenName": "Beatrice",
+      "email": null,
+      "phone": "+41 58 32 29268",
+      "function": {
+        "german": "Leiterin Org. und Redaktion / Protokoll",
+        "french": "Leiterin Org. und Redaktion / Protokoll",
+        "italian": "Leiterin Org. und Redaktion / Protokoll",
+        "english": "Leiterin Org. und Redaktion / Protokoll"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037304",
+      "label": {
+        "german": "Information",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Information",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037310",
+      "label": {
+        "german": "Amtliches Bulletin",
+        "french": "Bulletin officiel",
+        "italian": "Bollettino ufficiale",
+        "english": ""
+      },
+      "name": {
+        "german": "Amtliches Bulletin",
+        "french": "Bulletin officiel",
+        "italian": "Bollettino ufficiale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

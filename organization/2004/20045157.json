@@ -1,1 +1,141 @@
-{"id"=>"20045157", "name"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}, "nameAbbr"=>{"german"=>"ZS/BAU", "french"=>"ZS/BAU", "italian"=>"ZS/BAU", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1B", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6393494", "surname"=>"Fasel", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 25280", "function"=>{"german"=>"Chef Fachbereich Bauten", "french"=>"Chef Fachbereich Bauten", "italian"=>"Chef Fachbereich Bauten", "english"=>"Chef Fachbereich Bauten"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"10002923", "label"=>{"german"=>"ZS", "french"=>"ZS", "italian"=>"ZS", "english"=>""}, "name"=>{"german"=>"Zivilschutz", "french"=>"Protection civile", "italian"=>"Protezione civile", "english"=>""}}, {"id"=>"20045157", "label"=>{"german"=>"ZS/BAU", "french"=>"ZS/BAU", "italian"=>"ZS/BAU", "english"=>""}, "name"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045157",
+  "name": {
+    "german": "Bauten",
+    "french": "Constructions",
+    "italian": "Costruzioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ZS/BAU",
+    "french": "ZS/BAU",
+    "italian": "ZS/BAU",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1B",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6393494",
+      "surname": "Fasel",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 25280",
+      "function": {
+        "german": "Chef Fachbereich Bauten",
+        "french": "Chef Fachbereich Bauten",
+        "italian": "Chef Fachbereich Bauten",
+        "english": "Chef Fachbereich Bauten"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002923",
+      "label": {
+        "german": "ZS",
+        "french": "ZS",
+        "italian": "ZS",
+        "english": ""
+      },
+      "name": {
+        "german": "Zivilschutz",
+        "french": "Protection civile",
+        "italian": "Protezione civile",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045157",
+      "label": {
+        "german": "ZS/BAU",
+        "french": "ZS/BAU",
+        "italian": "ZS/BAU",
+        "english": ""
+      },
+      "name": {
+        "german": "Bauten",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

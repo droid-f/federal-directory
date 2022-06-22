@@ -1,1 +1,154 @@
-{"id"=>"10002331", "name"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 4", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2169528", "surname"=>"Alvarez", "givenName"=>"Cipriano", "email"=>nil, "phone"=>"+41 58 48 09130", "function"=>{"german"=>"Leiter/in Bereich Recht", "french"=>"Chef/fe Secteur Droit", "italian"=>"Capo Settore Diritto", "english"=>"Leiter/in Bereich Recht"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7611340", "surname"=>"König", "givenName"=>"Felix", "email"=>nil, "phone"=>"+41 58 48 09131", "function"=>{"german"=>"Jurist/in, stv. Leiter/in Bereich Recht", "french"=>"Juriste, suppléant/e Chef/fe Sect. Droit", "italian"=>"Giurista, supplente Capo Settore Diritto", "english"=>"Jurist/in, stv. Leiter/in Bereich Recht"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008674", "label"=>{"german"=>"BWO", "french"=>"OFL", "italian"=>"UFAB", "english"=>""}, "name"=>{"german"=>"Bundesamt für Wohnungswesen", "french"=>"Office fédéral du logement", "italian"=>"Ufficio federale delle abitazioni", "english"=>""}}, {"id"=>"10002323", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002331", "label"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}, "name"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002331",
+  "name": {
+    "german": "Recht",
+    "french": "Droit",
+    "italian": "Diritto",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 4",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2169528",
+      "surname": "Alvarez",
+      "givenName": "Cipriano",
+      "email": null,
+      "phone": "+41 58 48 09130",
+      "function": {
+        "german": "Leiter/in Bereich Recht",
+        "french": "Chef/fe Secteur Droit",
+        "italian": "Capo Settore Diritto",
+        "english": "Leiter/in Bereich Recht"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7611340",
+      "surname": "König",
+      "givenName": "Felix",
+      "email": null,
+      "phone": "+41 58 48 09131",
+      "function": {
+        "german": "Jurist/in, stv. Leiter/in Bereich Recht",
+        "french": "Juriste, suppléant/e Chef/fe Sect. Droit",
+        "italian": "Giurista, supplente Capo Settore Diritto",
+        "english": "Jurist/in, stv. Leiter/in Bereich Recht"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008674",
+      "label": {
+        "german": "BWO",
+        "french": "OFL",
+        "italian": "UFAB",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Wohnungswesen",
+        "french": "Office fédéral du logement",
+        "italian": "Ufficio federale delle abitazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002323",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002331",
+      "label": {
+        "german": "Recht",
+        "french": "Droit",
+        "italian": "Diritto",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht",
+        "french": "Droit",
+        "italian": "Diritto",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

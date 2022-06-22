@@ -1,1 +1,170 @@
-{"id"=>"10000631", "name"=>{"german"=>"Asien und Pazifik", "french"=>"Division Asie et Pacifique", "italian"=>"Divisione Asia e Pacifico", "english"=>"Asia and Pacific Division"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20027934", "name"=>{"german"=>"Regionalkoordination Südasien", "french"=>"Coordination régionale Asie du Sud", "italian"=>"Coordinamento regionale Asia del Sud", "english"=>"Regional Coordination South Asia"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027933", "name"=>{"german"=>"Regionalkoordination Ostasien", "french"=>"Coordination régionale Asie de l'Est", "italian"=>"Coordinamento regionale Asia dell'Est", "english"=>"Regional Coordination East Asia"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027935", "name"=>{"german"=>"Regionalkoordination Südostasien und Pazifik", "french"=>"Coordination régionale Asie du Sud-Est et Pacifique", "italian"=>"Coordinamento regionale Asia del Sud-Est e Pacifico", "english"=>"Regional Coordination South-East Asia and Pacific"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5658582", "surname"=>"Graf", "givenName"=>"Léonard", "email"=>nil, "phone"=>"+41 58 46 22457", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000631", "label"=>{"german"=>"Asien und Pazifik", "french"=>"Division Asie et Pacifique", "italian"=>"Divisione Asia e Pacifico", "english"=>"Asia and Pacific Division"}, "name"=>{"german"=>"Asien und Pazifik", "french"=>"Division Asie et Pacifique", "italian"=>"Divisione Asia e Pacifico", "english"=>"Asia and Pacific Division"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000631",
+  "name": {
+    "german": "Asien und Pazifik",
+    "french": "Division Asie et Pacifique",
+    "italian": "Divisione Asia e Pacifico",
+    "english": "Asia and Pacific Division"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20027934",
+      "name": {
+        "german": "Regionalkoordination Südasien",
+        "french": "Coordination régionale Asie du Sud",
+        "italian": "Coordinamento regionale Asia del Sud",
+        "english": "Regional Coordination South Asia"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027933",
+      "name": {
+        "german": "Regionalkoordination Ostasien",
+        "french": "Coordination régionale Asie de l'Est",
+        "italian": "Coordinamento regionale Asia dell'Est",
+        "english": "Regional Coordination East Asia"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027935",
+      "name": {
+        "german": "Regionalkoordination Südostasien und Pazifik",
+        "french": "Coordination régionale Asie du Sud-Est et Pacifique",
+        "italian": "Coordinamento regionale Asia del Sud-Est e Pacifico",
+        "english": "Regional Coordination South-East Asia and Pacific"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5658582",
+      "surname": "Graf",
+      "givenName": "Léonard",
+      "email": null,
+      "phone": "+41 58 46 22457",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000631",
+      "label": {
+        "german": "Asien und Pazifik",
+        "french": "Division Asie et Pacifique",
+        "italian": "Divisione Asia e Pacifico",
+        "english": "Asia and Pacific Division"
+      },
+      "name": {
+        "german": "Asien und Pazifik",
+        "french": "Division Asie et Pacifique",
+        "italian": "Divisione Asia e Pacifico",
+        "english": "Asia and Pacific Division"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

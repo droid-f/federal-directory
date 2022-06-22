@@ -1,1 +1,245 @@
-{"id"=>"10009379", "name"=>{"german"=>"Abteilung Meldestelle für Geldwäscherei", "french"=>"Division Bureau de communication en matière de blanchiment d'argent", "italian"=>"Divisione Ufficio di comunicazione in materia di riciclaggio di denaro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584634040", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046657", "name"=>{"german"=>"Bereich Internationales", "french"=>"Domaine Affaires internationales", "italian"=>"Settore Questioni internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041852", "name"=>{"german"=>"Bereich Primäranalyse", "french"=>"Domaine Analyse préliminaire", "italian"=>"Settore Analisi preliminare", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044003", "name"=>{"german"=>"Bereich Operative Analyse Bund", "french"=>"Domaine Analyse opérationnelle Confédération", "italian"=>"Settore Analisi operativa Confederazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039588", "name"=>{"german"=>"Bereich Operative Analyse Kantone", "french"=>"Domaine Analyse opérationnelle Cantons", "italian"=>"Settore Analisi operativa Cantoni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046658", "name"=>{"german"=>"Bereich Datenmanagement und strategische Analyse", "french"=>"Domaine Gestion des données et analyse stratégique", "italian"=>"Settore Gestione dei dati e analisi strategica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039589", "name"=>{"german"=>"Bereich Planung und Policy", "french"=>"Domaine Planification et affaires politiques", "italian"=>"Settore Pianificazione e questioni politiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1XLK0NDSZ", "surname"=>"Brönnimann", "givenName"=>"Anton", "email"=>nil, "phone"=>"+41 58 46 52205", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009269", "label"=>{"german"=>"KPR", "french"=>"PCD", "italian"=>"PCD", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Kriminalprävention und Recht", "french"=>"Domaine de direction Prévention de la criminalité et droit", "italian"=>"Ambito direzionale Prevenzione della criminalità e diritto", "english"=>""}}, {"id"=>"10009379", "label"=>{"german"=>"Abteilung Meldestelle für Geldwäscherei", "french"=>"Division Bureau de communication en matière de blanchiment d'argent", "italian"=>"Divisione Ufficio di comunicazione in materia di riciclaggio di denaro", "english"=>""}, "name"=>{"german"=>"Abteilung Meldestelle für Geldwäscherei", "french"=>"Division Bureau de communication en matière de blanchiment d'argent", "italian"=>"Divisione Ufficio di comunicazione in materia di riciclaggio di denaro", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009379",
+  "name": {
+    "german": "Abteilung Meldestelle für Geldwäscherei",
+    "french": "Division Bureau de communication en matière de blanchiment d'argent",
+    "italian": "Divisione Ufficio di comunicazione in materia di riciclaggio di denaro",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584634040",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046657",
+      "name": {
+        "german": "Bereich Internationales",
+        "french": "Domaine Affaires internationales",
+        "italian": "Settore Questioni internazionali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041852",
+      "name": {
+        "german": "Bereich Primäranalyse",
+        "french": "Domaine Analyse préliminaire",
+        "italian": "Settore Analisi preliminare",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044003",
+      "name": {
+        "german": "Bereich Operative Analyse Bund",
+        "french": "Domaine Analyse opérationnelle Confédération",
+        "italian": "Settore Analisi operativa Confederazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039588",
+      "name": {
+        "german": "Bereich Operative Analyse Kantone",
+        "french": "Domaine Analyse opérationnelle Cantons",
+        "italian": "Settore Analisi operativa Cantoni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046658",
+      "name": {
+        "german": "Bereich Datenmanagement und strategische Analyse",
+        "french": "Domaine Gestion des données et analyse stratégique",
+        "italian": "Settore Gestione dei dati e analisi strategica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039589",
+      "name": {
+        "german": "Bereich Planung und Policy",
+        "french": "Domaine Planification et affaires politiques",
+        "italian": "Settore Pianificazione e questioni politiche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1XLK0NDSZ",
+      "surname": "Brönnimann",
+      "givenName": "Anton",
+      "email": null,
+      "phone": "+41 58 46 52205",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009269",
+      "label": {
+        "german": "KPR",
+        "french": "PCD",
+        "italian": "PCD",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Kriminalprävention und Recht",
+        "french": "Domaine de direction Prévention de la criminalité et droit",
+        "italian": "Ambito direzionale Prevenzione della criminalità e diritto",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009379",
+      "label": {
+        "german": "Abteilung Meldestelle für Geldwäscherei",
+        "french": "Division Bureau de communication en matière de blanchiment d'argent",
+        "italian": "Divisione Ufficio di comunicazione in materia di riciclaggio di denaro",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Meldestelle für Geldwäscherei",
+        "french": "Division Bureau de communication en matière de blanchiment d'argent",
+        "italian": "Divisione Ufficio di comunicazione in materia di riciclaggio di denaro",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

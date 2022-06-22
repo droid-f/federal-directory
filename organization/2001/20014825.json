@@ -1,1 +1,111 @@
-{"id"=>"20014825", "name"=>{"german"=>"Kanzlei Abteilung V", "french"=>"Chancellerie de Cour V", "italian"=>"Cancelleria della Corte V", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2496940", "surname"=>"Otter", "givenName"=>"Regula", "email"=>nil, "phone"=>"+41 58 46 52770", "function"=>{"german"=>"Leiter/in Abteilungskanzlei V", "french"=>"Chef/fe de la chancellerie Cour V", "italian"=>"Capo di cancelleria Corte V", "english"=>"Leiter/in Abteilungskanzlei V"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014820", "label"=>{"german"=>"Abteilung V - Asyl", "french"=>"Cour V - asile", "italian"=>"Corte V - asilo", "english"=>""}, "name"=>{"german"=>"Abteilung V - Asyl", "french"=>"Cour V - asile", "italian"=>"Corte V - asilo", "english"=>""}}, {"id"=>"20014825", "label"=>{"german"=>"Kanzlei Abteilung V", "french"=>"Chancellerie de Cour V", "italian"=>"Cancelleria della Corte V", "english"=>""}, "name"=>{"german"=>"Kanzlei Abteilung V", "french"=>"Chancellerie de Cour V", "italian"=>"Cancelleria della Corte V", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014825",
+  "name": {
+    "german": "Kanzlei Abteilung V",
+    "french": "Chancellerie de Cour V",
+    "italian": "Cancelleria della Corte V",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2496940",
+      "surname": "Otter",
+      "givenName": "Regula",
+      "email": null,
+      "phone": "+41 58 46 52770",
+      "function": {
+        "german": "Leiter/in Abteilungskanzlei V",
+        "french": "Chef/fe de la chancellerie Cour V",
+        "italian": "Capo di cancelleria Corte V",
+        "english": "Leiter/in Abteilungskanzlei V"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014820",
+      "label": {
+        "german": "Abteilung V - Asyl",
+        "french": "Cour V - asile",
+        "italian": "Corte V - asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung V - Asyl",
+        "french": "Cour V - asile",
+        "italian": "Corte V - asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014825",
+      "label": {
+        "german": "Kanzlei Abteilung V",
+        "french": "Chancellerie de Cour V",
+        "italian": "Cancelleria della Corte V",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanzlei Abteilung V",
+        "french": "Chancellerie de Cour V",
+        "italian": "Cancelleria della Corte V",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

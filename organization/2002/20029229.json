@@ -1,1 +1,171 @@
-{"id"=>"20029229", "name"=>{"german"=>"Ausbildungszentrum ZIVI", "french"=>"Centre de formation CIVI", "italian"=>"Centro di formazione CIVI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seestrasse 119", "postalCode"=>"1716", "location"=>"Schwarzsee", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5940051", "surname"=>"Wyssbrod", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 48 07345", "function"=>{"german"=>"Leiter/in Ausbildungszentrum ZIVI", "french"=>"Responsable du Centre de formation CIVI", "italian"=>"Capo del Centro di formazione CIVI", "english"=>"Leiter/in Ausbildungszentrum ZIVI"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008656", "label"=>{"german"=>"ZIVI", "french"=>"CIVI", "italian"=>"CIVI", "english"=>""}, "name"=>{"german"=>"Bundesamt für Zivildienst", "french"=>"Office fédéral du service civil", "italian"=>"Ufficio federale del servizio civile", "english"=>""}}, {"id"=>"20045104", "label"=>{"german"=>"Direktion Zivildienst", "french"=>"Direction CIVI", "italian"=>"Direzione CIVI", "english"=>""}, "name"=>{"german"=>"Direktion Zivildienst", "french"=>"Direction CIVI", "italian"=>"Direzione CIVI", "english"=>""}}, {"id"=>"20005477", "label"=>{"german"=>"Vollzug", "french"=>"Exécution", "italian"=>"Esecuzione", "english"=>""}, "name"=>{"german"=>"Vollzug", "french"=>"Exécution", "italian"=>"Esecuzione", "english"=>""}}, {"id"=>"20035176", "label"=>{"german"=>"Fachbereich Einführung Ausbildung ZIVI", "french"=>"Unité principale Introduction et formation CIVI", "italian"=>"Unità Introduzione e formazione CIVI", "english"=>""}, "name"=>{"german"=>"Fachbereich Einführung Ausbildung ZIVI", "french"=>"Unité principale Introduction et formation CIVI", "italian"=>"Unità Introduzione e formazione CIVI", "english"=>""}}, {"id"=>"20029229", "label"=>{"german"=>"Ausbildungszentrum ZIVI", "french"=>"Centre de formation CIVI", "italian"=>"Centro di formazione CIVI", "english"=>""}, "name"=>{"german"=>"Ausbildungszentrum ZIVI", "french"=>"Centre de formation CIVI", "italian"=>"Centro di formazione CIVI", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20029229",
+  "name": {
+    "german": "Ausbildungszentrum ZIVI",
+    "french": "Centre de formation CIVI",
+    "italian": "Centro di formazione CIVI",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seestrasse 119",
+    "postalCode": "1716",
+    "location": "Schwarzsee",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5940051",
+      "surname": "Wyssbrod",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 48 07345",
+      "function": {
+        "german": "Leiter/in Ausbildungszentrum ZIVI",
+        "french": "Responsable du Centre de formation CIVI",
+        "italian": "Capo del Centro di formazione CIVI",
+        "english": "Leiter/in Ausbildungszentrum ZIVI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008656",
+      "label": {
+        "german": "ZIVI",
+        "french": "CIVI",
+        "italian": "CIVI",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Zivildienst",
+        "french": "Office fédéral du service civil",
+        "italian": "Ufficio federale del servizio civile",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045104",
+      "label": {
+        "german": "Direktion Zivildienst",
+        "french": "Direction CIVI",
+        "italian": "Direzione CIVI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion Zivildienst",
+        "french": "Direction CIVI",
+        "italian": "Direzione CIVI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005477",
+      "label": {
+        "german": "Vollzug",
+        "french": "Exécution",
+        "italian": "Esecuzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Vollzug",
+        "french": "Exécution",
+        "italian": "Esecuzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035176",
+      "label": {
+        "german": "Fachbereich Einführung Ausbildung ZIVI",
+        "french": "Unité principale Introduction et formation CIVI",
+        "italian": "Unità Introduzione e formazione CIVI",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Einführung Ausbildung ZIVI",
+        "french": "Unité principale Introduction et formation CIVI",
+        "italian": "Unità Introduzione e formazione CIVI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20029229",
+      "label": {
+        "german": "Ausbildungszentrum ZIVI",
+        "french": "Centre de formation CIVI",
+        "italian": "Centro di formazione CIVI",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausbildungszentrum ZIVI",
+        "french": "Centre de formation CIVI",
+        "italian": "Centro di formazione CIVI",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

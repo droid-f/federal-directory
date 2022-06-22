@@ -1,1 +1,155 @@
-{"id"=>"20044053", "name"=>{"german"=>"Bereich Geschäfts- und Prozessmanagement", "french"=>"Domaine gestion des affaires et des processus", "italian"=>"Settore gestione degli affari e dei processi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009283", "label"=>{"german"=>"RMS", "french"=>"GRS", "italian"=>"GRS", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Ressourcenmanagement & Strategie", "french"=>"Domaine de direction gestion des ressources et stratégie", "italian"=>"Ambito direzionale gestione delle risorse e strategia", "english"=>""}}, {"id"=>"20016753", "label"=>{"german"=>"Abteilung Unternehmensentwicklung", "french"=>"Division développement de l'entreprise", "italian"=>"Divisione sviluppo aziendale", "english"=>""}, "name"=>{"german"=>"Abteilung Unternehmensentwicklung", "french"=>"Division développement de l'entreprise", "italian"=>"Divisione sviluppo aziendale", "english"=>""}}, {"id"=>"20044053", "label"=>{"german"=>"Bereich Geschäfts- und Prozessmanagement", "french"=>"Domaine gestion des affaires et des processus", "italian"=>"Settore gestione degli affari e dei processi", "english"=>""}, "name"=>{"german"=>"Bereich Geschäfts- und Prozessmanagement", "french"=>"Domaine gestion des affaires et des processus", "italian"=>"Settore gestione degli affari e dei processi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20044053",
+  "name": {
+    "german": "Bereich Geschäfts- und Prozessmanagement",
+    "french": "Domaine gestion des affaires et des processus",
+    "italian": "Settore gestione degli affari e dei processi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009283",
+      "label": {
+        "german": "RMS",
+        "french": "GRS",
+        "italian": "GRS",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Ressourcenmanagement & Strategie",
+        "french": "Domaine de direction gestion des ressources et stratégie",
+        "italian": "Ambito direzionale gestione delle risorse e strategia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016753",
+      "label": {
+        "german": "Abteilung Unternehmensentwicklung",
+        "french": "Division développement de l'entreprise",
+        "italian": "Divisione sviluppo aziendale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Unternehmensentwicklung",
+        "french": "Division développement de l'entreprise",
+        "italian": "Divisione sviluppo aziendale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044053",
+      "label": {
+        "german": "Bereich Geschäfts- und Prozessmanagement",
+        "french": "Domaine gestion des affaires et des processus",
+        "italian": "Settore gestione degli affari e dei processi",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Geschäfts- und Prozessmanagement",
+        "french": "Domaine gestion des affaires et des processus",
+        "italian": "Settore gestione degli affari e dei processi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

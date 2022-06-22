@@ -1,1 +1,187 @@
-{"id"=>"20024801", "name"=>{"german"=>"Abteilung Kommunikation und Kampagnen", "french"=>"Division Communication et campagnes", "italian"=>"Divisione comunicazione e campagne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 4638779", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10004576", "name"=>{"german"=>"Sektion Gesundheitsinformation und Kampagnen", "french"=>"Section Information sanitaire et campagnes", "italian"=>"Sezione Informazione sanitaria e campagne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004553", "name"=>{"german"=>"Sektion Medien und Kommunikation", "french"=>"Section Médias et communication", "italian"=>"Sezione Media e comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5940926", "surname"=>"Lüthy", "givenName"=>"Gregor", "email"=>nil, "phone"=>"+41 58 46 99085", "function"=>{"german"=>"Leiter/in Abt. Komm. und Kampagnen", "french"=>"Leiter/in Abt. Komm. und Kampagnen", "italian"=>"Leiter/in Abt. Komm. und Kampagnen", "english"=>"Leiter/in Abt. Komm. und Kampagnen"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7859504", "surname"=>"Kammer", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 38769", "function"=>{"german"=>"Stv. Abt. und Sektionsleiter/in", "french"=>"Stv. Abt. und Sektionsleiter/in", "italian"=>"Stv. Abt. und Sektionsleiter/in", "english"=>"Stv. Abt. und Sektionsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20024801", "label"=>{"german"=>"Abteilung Kommunikation und Kampagnen", "french"=>"Division Communication et campagnes", "italian"=>"Divisione comunicazione e campagne", "english"=>""}, "name"=>{"german"=>"Abteilung Kommunikation und Kampagnen", "french"=>"Division Communication et campagnes", "italian"=>"Divisione comunicazione e campagne", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20024801",
+  "name": {
+    "german": "Abteilung Kommunikation und Kampagnen",
+    "french": "Division Communication et campagnes",
+    "italian": "Divisione comunicazione e campagne",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 4638779",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10004576",
+      "name": {
+        "german": "Sektion Gesundheitsinformation und Kampagnen",
+        "french": "Section Information sanitaire et campagnes",
+        "italian": "Sezione Informazione sanitaria e campagne",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004553",
+      "name": {
+        "german": "Sektion Medien und Kommunikation",
+        "french": "Section Médias et communication",
+        "italian": "Sezione Media e comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5940926",
+      "surname": "Lüthy",
+      "givenName": "Gregor",
+      "email": null,
+      "phone": "+41 58 46 99085",
+      "function": {
+        "german": "Leiter/in Abt. Komm. und Kampagnen",
+        "french": "Leiter/in Abt. Komm. und Kampagnen",
+        "italian": "Leiter/in Abt. Komm. und Kampagnen",
+        "english": "Leiter/in Abt. Komm. und Kampagnen"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7859504",
+      "surname": "Kammer",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 38769",
+      "function": {
+        "german": "Stv. Abt. und Sektionsleiter/in",
+        "french": "Stv. Abt. und Sektionsleiter/in",
+        "italian": "Stv. Abt. und Sektionsleiter/in",
+        "english": "Stv. Abt. und Sektionsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024801",
+      "label": {
+        "german": "Abteilung Kommunikation und Kampagnen",
+        "french": "Division Communication et campagnes",
+        "italian": "Divisione comunicazione e campagne",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Kommunikation und Kampagnen",
+        "french": "Division Communication et campagnes",
+        "italian": "Divisione comunicazione e campagne",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

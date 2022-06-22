@@ -1,1 +1,242 @@
-{"id"=>"20035778", "name"=>{"german"=>"TC KV Lernende", "french"=>"TC KV Lernende", "italian"=>"TC KV Lernende", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Friedheimweg 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7697604", "surname"=>"Guggisberg", "givenName"=>"Iris", "email"=>nil, "phone"=>"+41 58 46 32922", "function"=>{"german"=>"Spezialist/in Kommunikation GK TCQL", "french"=>"Spezialist/in Kommunikation GK TCQL", "italian"=>"Spezialist/in Kommunikation GK TCQL", "english"=>"Spezialist/in Kommunikation GK TCQL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8451636", "surname"=>"Daniel", "givenName"=>"Hiyab", "email"=>nil, "phone"=>"+41 58 46 18857", "function"=>{"german"=>"Lernende/r KV TCQL", "french"=>"Lernende/r KV TCQL", "italian"=>"Lernende/r KV TCQL", "english"=>"Lernende/r KV TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2089452", "surname"=>"Ibrahim", "givenName"=>"Lario", "email"=>nil, "phone"=>"+41 58 48 39548", "function"=>{"german"=>"Lernende/r KV TCQL", "french"=>"Lernende/r KV TCQL", "italian"=>"Lernende/r KV TCQL", "english"=>"Lernende/r KV TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0620907", "surname"=>"Saradzic", "givenName"=>"Nemanja", "email"=>nil, "phone"=>"+41 58 48 19194", "function"=>{"german"=>"Lernende/r KV TCQL", "french"=>"Lernende/r KV TCQL", "italian"=>"Lernende/r KV TCQL", "english"=>"Lernende/r KV TCQL"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"10004185", "label"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}, "name"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}}, {"id"=>"20037651", "label"=>{"german"=>"Querschnittleistungen", "french"=>"Prestations transversales", "italian"=>"Prestazioni transversali", "english"=>""}, "name"=>{"german"=>"Querschnittleistungen", "french"=>"Prestations transversales", "italian"=>"Prestazioni transversali", "english"=>""}}, {"id"=>"20037653", "label"=>{"german"=>"Geschäftskoordination", "french"=>"Coordination des affaires", "italian"=>"Coordinamento degli affari", "english"=>""}, "name"=>{"german"=>"Geschäftskoordination", "french"=>"Coordination des affaires", "italian"=>"Coordinamento degli affari", "english"=>""}}, {"id"=>"20035778", "label"=>{"german"=>"TC KV Lernende", "french"=>"TC KV Lernende", "italian"=>"TC KV Lernende", "english"=>""}, "name"=>{"german"=>"TC KV Lernende", "french"=>"TC KV Lernende", "italian"=>"TC KV Lernende", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035778",
+  "name": {
+    "german": "TC KV Lernende",
+    "french": "TC KV Lernende",
+    "italian": "TC KV Lernende",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Friedheimweg 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7697604",
+      "surname": "Guggisberg",
+      "givenName": "Iris",
+      "email": null,
+      "phone": "+41 58 46 32922",
+      "function": {
+        "german": "Spezialist/in Kommunikation GK TCQL",
+        "french": "Spezialist/in Kommunikation GK TCQL",
+        "italian": "Spezialist/in Kommunikation GK TCQL",
+        "english": "Spezialist/in Kommunikation GK TCQL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8451636",
+      "surname": "Daniel",
+      "givenName": "Hiyab",
+      "email": null,
+      "phone": "+41 58 46 18857",
+      "function": {
+        "german": "Lernende/r KV TCQL",
+        "french": "Lernende/r KV TCQL",
+        "italian": "Lernende/r KV TCQL",
+        "english": "Lernende/r KV TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2089452",
+      "surname": "Ibrahim",
+      "givenName": "Lario",
+      "email": null,
+      "phone": "+41 58 48 39548",
+      "function": {
+        "german": "Lernende/r KV TCQL",
+        "french": "Lernende/r KV TCQL",
+        "italian": "Lernende/r KV TCQL",
+        "english": "Lernende/r KV TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0620907",
+      "surname": "Saradzic",
+      "givenName": "Nemanja",
+      "email": null,
+      "phone": "+41 58 48 19194",
+      "function": {
+        "german": "Lernende/r KV TCQL",
+        "french": "Lernende/r KV TCQL",
+        "italian": "Lernende/r KV TCQL",
+        "english": "Lernende/r KV TCQL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004185",
+      "label": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037651",
+      "label": {
+        "german": "Querschnittleistungen",
+        "french": "Prestations transversales",
+        "italian": "Prestazioni transversali",
+        "english": ""
+      },
+      "name": {
+        "german": "Querschnittleistungen",
+        "french": "Prestations transversales",
+        "italian": "Prestazioni transversali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037653",
+      "label": {
+        "german": "Geschäftskoordination",
+        "french": "Coordination des affaires",
+        "italian": "Coordinamento degli affari",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftskoordination",
+        "french": "Coordination des affaires",
+        "italian": "Coordinamento degli affari",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035778",
+      "label": {
+        "german": "TC KV Lernende",
+        "french": "TC KV Lernende",
+        "italian": "TC KV Lernende",
+        "english": ""
+      },
+      "name": {
+        "german": "TC KV Lernende",
+        "french": "TC KV Lernende",
+        "italian": "TC KV Lernende",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

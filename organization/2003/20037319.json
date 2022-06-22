@@ -1,1 +1,128 @@
-{"id"=>"20037319", "name"=>{"german"=>"Zentrales Sekretariat", "french"=>"Secrétariat central", "italian"=>"Segreteria centrale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0473802", "surname"=>"Kohler", "givenName"=>"Laetitia", "email"=>nil, "phone"=>"+41 58 32 29731", "function"=>{"german"=>"Leiterin Zentrales Sekretariat", "french"=>"Leiterin Zentrales Sekretariat", "italian"=>"Leiterin Zentrales Sekretariat", "english"=>"Leiterin Zentrales Sekretariat"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5415254", "surname"=>"Brossard", "givenName"=>"Mélanie", "email"=>nil, "phone"=>"+41 58 32 29709", "function"=>{"german"=>"Stv. Leiterin Zentrales Sekretariat", "french"=>"Stv. Leiterin Zentrales Sekretariat", "italian"=>"Stv. Leiterin Zentrales Sekretariat", "english"=>"Stv. Leiterin Zentrales Sekretariat"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037303", "label"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}, "name"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}}, {"id"=>"20037319", "label"=>{"german"=>"Zentrales Sekretariat", "french"=>"Secrétariat central", "italian"=>"Segreteria centrale", "english"=>""}, "name"=>{"german"=>"Zentrales Sekretariat", "french"=>"Secrétariat central", "italian"=>"Segreteria centrale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037319",
+  "name": {
+    "german": "Zentrales Sekretariat",
+    "french": "Secrétariat central",
+    "italian": "Segreteria centrale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0473802",
+      "surname": "Kohler",
+      "givenName": "Laetitia",
+      "email": null,
+      "phone": "+41 58 32 29731",
+      "function": {
+        "german": "Leiterin Zentrales Sekretariat",
+        "french": "Leiterin Zentrales Sekretariat",
+        "italian": "Leiterin Zentrales Sekretariat",
+        "english": "Leiterin Zentrales Sekretariat"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5415254",
+      "surname": "Brossard",
+      "givenName": "Mélanie",
+      "email": null,
+      "phone": "+41 58 32 29709",
+      "function": {
+        "german": "Stv. Leiterin Zentrales Sekretariat",
+        "french": "Stv. Leiterin Zentrales Sekretariat",
+        "italian": "Stv. Leiterin Zentrales Sekretariat",
+        "english": "Stv. Leiterin Zentrales Sekretariat"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037303",
+      "label": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037319",
+      "label": {
+        "german": "Zentrales Sekretariat",
+        "french": "Secrétariat central",
+        "italian": "Segreteria centrale",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrales Sekretariat",
+        "french": "Secrétariat central",
+        "italian": "Segreteria centrale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

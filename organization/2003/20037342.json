@@ -1,1 +1,110 @@
-{"id"=>"20037342", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037315", "label"=>{"german"=>"Human Resources und Finanzen", "french"=>"Ressources humaines et finances", "italian"=>"Risorse umane e finanze", "english"=>""}, "name"=>{"german"=>"Human Resources und Finanzen", "french"=>"Ressources humaines et finances", "italian"=>"Risorse umane e finanze", "english"=>""}}, {"id"=>"20037342", "label"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037342",
+  "name": {
+    "german": "Human Resources",
+    "french": "Ressources humaines",
+    "italian": "Risorse umane",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037315",
+      "label": {
+        "german": "Human Resources und Finanzen",
+        "french": "Ressources humaines et finances",
+        "italian": "Risorse umane e finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources und Finanzen",
+        "french": "Ressources humaines et finances",
+        "italian": "Risorse umane e finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037342",
+      "label": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

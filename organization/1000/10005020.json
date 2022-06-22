@@ -1,1 +1,217 @@
-{"id"=>"10005020", "name"=>{"german"=>"Betriebswirtschaft und Organisation", "french"=>"Economie d'entreprise et organisation", "italian"=>"Economia aziendale e organizazzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestrasse 6", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20015314", "name"=>{"german"=>"Finanzen und Controlling", "french"=>"Finances et controlling", "italian"=>"Finanze e controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20036104", "name"=>{"german"=>"Informatik und GEVER", "french"=>"Informatique et GEVER", "italian"=>"Informatica e GEVER", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015315", "name"=>{"german"=>"Logistik", "french"=>"Logistique", "italian"=>"Logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015313", "name"=>{"german"=>"Personal", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015316", "name"=>{"german"=>"Sprachdienste", "french"=>"Services linguistiques", "italian"=>"Servizi linguistici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4442248", "surname"=>"Stoller-Gerber", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 25828", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5429855", "surname"=>"Nicollerat", "givenName"=>"Athos", "email"=>nil, "phone"=>"+41 58 46 28729", "function"=>{"german"=>"Stv. AC BO / Sektionschef fc", "french"=>"Stv. AC BO / Sektionschef fc", "italian"=>"Stv. AC BO / Sektionschef fc", "english"=>"Stv. AC BO / Sektionschef fc"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008753", "label"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}}, {"id"=>"10005020", "label"=>{"german"=>"Betriebswirtschaft und Organisation", "french"=>"Economie d'entreprise et organisation", "italian"=>"Economia aziendale e organizazzione", "english"=>""}, "name"=>{"german"=>"Betriebswirtschaft und Organisation", "french"=>"Economie d'entreprise et organisation", "italian"=>"Economia aziendale e organizazzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005020",
+  "name": {
+    "german": "Betriebswirtschaft und Organisation",
+    "french": "Economie d'entreprise et organisation",
+    "italian": "Economia aziendale e organizazzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestrasse 6",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20015314",
+      "name": {
+        "german": "Finanzen und Controlling",
+        "french": "Finances et controlling",
+        "italian": "Finanze e controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036104",
+      "name": {
+        "german": "Informatik und GEVER",
+        "french": "Informatique et GEVER",
+        "italian": "Informatica e GEVER",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015315",
+      "name": {
+        "german": "Logistik",
+        "french": "Logistique",
+        "italian": "Logistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015313",
+      "name": {
+        "german": "Personal",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015316",
+      "name": {
+        "german": "Sprachdienste",
+        "french": "Services linguistiques",
+        "italian": "Servizi linguistici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4442248",
+      "surname": "Stoller-Gerber",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 25828",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5429855",
+      "surname": "Nicollerat",
+      "givenName": "Athos",
+      "email": null,
+      "phone": "+41 58 46 28729",
+      "function": {
+        "german": "Stv. AC BO / Sektionschef fc",
+        "french": "Stv. AC BO / Sektionschef fc",
+        "italian": "Stv. AC BO / Sektionschef fc",
+        "english": "Stv. AC BO / Sektionschef fc"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "label": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005020",
+      "label": {
+        "german": "Betriebswirtschaft und Organisation",
+        "french": "Economie d'entreprise et organisation",
+        "italian": "Economia aziendale e organizazzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Betriebswirtschaft und Organisation",
+        "french": "Economie d'entreprise et organisation",
+        "italian": "Economia aziendale e organizazzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

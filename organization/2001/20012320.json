@@ -1,1 +1,156 @@
-{"id"=>"20012320", "name"=>{"german"=>"Baumanagement Zentral", "french"=>"Management de projets de constructions Central", "italian"=>"Gestione delle costruzioni Centrale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Murmattweg 6", "postalCode"=>"6000", "location"=>"Luzern 30", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3461110", "surname"=>"Rutz", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 48 13311", "function"=>{"german"=>"Leiter FB Baumanagement Zentral", "french"=>"Chef du domaine spécialisé Management de projets de constructions central", "italian"=>"Capo SS Gestione delle costruzioni Centrale", "english"=>"Leiter Fachbereich BM Zentral"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004155", "label"=>{"german"=>"ar IMMO", "french"=>"ar IMMO", "italian"=>"ar IMMO", "english"=>""}, "name"=>{"german"=>"armasuisse Immobilien", "french"=>"armasuisse Immobilier", "italian"=>"armasuisse Immobili", "english"=>""}}, {"id"=>"20012316", "label"=>{"german"=>"Baumanagement", "french"=>"Management de projets de construction", "italian"=>"Gestione delle costruzioni", "english"=>""}, "name"=>{"german"=>"Baumanagement", "french"=>"Management de projets de construction", "italian"=>"Gestione delle costruzioni", "english"=>""}}, {"id"=>"20012320", "label"=>{"german"=>"Baumanagement Zentral", "french"=>"Management de projets de constructions Central", "italian"=>"Gestione delle costruzioni Centrale", "english"=>""}, "name"=>{"german"=>"Baumanagement Zentral", "french"=>"Management de projets de constructions Central", "italian"=>"Gestione delle costruzioni Centrale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012320",
+  "name": {
+    "german": "Baumanagement Zentral",
+    "french": "Management de projets de constructions Central",
+    "italian": "Gestione delle costruzioni Centrale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Murmattweg 6",
+    "postalCode": "6000",
+    "location": "Luzern 30",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3461110",
+      "surname": "Rutz",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 48 13311",
+      "function": {
+        "german": "Leiter FB Baumanagement Zentral",
+        "french": "Chef du domaine spécialisé Management de projets de constructions central",
+        "italian": "Capo SS Gestione delle costruzioni Centrale",
+        "english": "Leiter Fachbereich BM Zentral"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004155",
+      "label": {
+        "german": "ar IMMO",
+        "french": "ar IMMO",
+        "italian": "ar IMMO",
+        "english": ""
+      },
+      "name": {
+        "german": "armasuisse Immobilien",
+        "french": "armasuisse Immobilier",
+        "italian": "armasuisse Immobili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012316",
+      "label": {
+        "german": "Baumanagement",
+        "french": "Management de projets de construction",
+        "italian": "Gestione delle costruzioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Baumanagement",
+        "french": "Management de projets de construction",
+        "italian": "Gestione delle costruzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012320",
+      "label": {
+        "german": "Baumanagement Zentral",
+        "french": "Management de projets de constructions Central",
+        "italian": "Gestione delle costruzioni Centrale",
+        "english": ""
+      },
+      "name": {
+        "german": "Baumanagement Zentral",
+        "french": "Management de projets de constructions Central",
+        "italian": "Gestione delle costruzioni Centrale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

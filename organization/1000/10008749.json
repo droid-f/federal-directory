@@ -1,1 +1,79 @@
-{"id"=>"10008749", "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}, "nameAbbr"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 462 45 79", "fax"=>"+41 58 462 45 07", "email"=>"info@ba.admin.ch", "homepage"=>{"german"=>"www.bundesanwaltschaft.ch", "french"=>"www.bundesanwaltschaft.ch", "italian"=>"www.bundesanwaltschaft.ch", "english"=>""}}, "children"=>[{"id"=>"20027483", "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10008749",
+  "name": {
+    "german": "Bundesanwaltschaft",
+    "french": "Ministère public de la Confédération",
+    "italian": "Ministero pubblico della Confederazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BA",
+    "french": "BA",
+    "italian": "BA",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 462 45 79",
+    "fax": "+41 58 462 45 07",
+    "email": "info@ba.admin.ch",
+    "homepage": {
+      "german": "www.bundesanwaltschaft.ch",
+      "french": "www.bundesanwaltschaft.ch",
+      "italian": "www.bundesanwaltschaft.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20027483",
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

@@ -1,1 +1,201 @@
-{"id"=>"20026317", "name"=>{"german"=>"Statistik", "french"=>"Statistique", "italian"=>"Statistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3876698", "surname"=>"Teotino", "givenName"=>"Giovanni", "email"=>nil, "phone"=>"+41 58 48 36460", "function"=>{"german"=>"Chef/in Dienst", "french"=>"Chef/in Dienst", "italian"=>"Chef/in Dienst", "english"=>"Chef/in Dienst"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6379204", "surname"=>"Lindemann", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 59816", "function"=>{"german"=>"stv. Chef/in Dienst", "french"=>"stv. Chef/in Dienst", "italian"=>"stv. Chef/in Dienst", "english"=>"stv. Chef/in Dienst"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-0934852", "surname"=>"Baeriswyl", "givenName"=>"Beat", "email"=>nil, "phone"=>"+41 58 46 59920", "function"=>{"german"=>"Sachbearbeiter/in", "french"=>"Sachbearbeiter/in", "italian"=>"Sachbearbeiter/in", "english"=>"Sachbearbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026307", "label"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}, "name"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}}, {"id"=>"20026313", "label"=>{"german"=>"Finanzen, Amtsplanung, Controlling, Statistik", "french"=>"Finances, planification de l'office, controlling et statistique", "italian"=>"Finanze, pianificazione dell'ufficio, controlling, statistica", "english"=>""}, "name"=>{"german"=>"Finanzen, Amtsplanung, Controlling, Statistik", "french"=>"Finances, planification de l'office, controlling et statistique", "italian"=>"Finanze, pianificazione dell'ufficio, controlling, statistica", "english"=>""}}, {"id"=>"20026317", "label"=>{"german"=>"Statistik", "french"=>"Statistique", "italian"=>"Statistica", "english"=>""}, "name"=>{"german"=>"Statistik", "french"=>"Statistique", "italian"=>"Statistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026317",
+  "name": {
+    "german": "Statistik",
+    "french": "Statistique",
+    "italian": "Statistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3876698",
+      "surname": "Teotino",
+      "givenName": "Giovanni",
+      "email": null,
+      "phone": "+41 58 48 36460",
+      "function": {
+        "german": "Chef/in Dienst",
+        "french": "Chef/in Dienst",
+        "italian": "Chef/in Dienst",
+        "english": "Chef/in Dienst"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6379204",
+      "surname": "Lindemann",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 59816",
+      "function": {
+        "german": "stv. Chef/in Dienst",
+        "french": "stv. Chef/in Dienst",
+        "italian": "stv. Chef/in Dienst",
+        "english": "stv. Chef/in Dienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-0934852",
+      "surname": "Baeriswyl",
+      "givenName": "Beat",
+      "email": null,
+      "phone": "+41 58 46 59920",
+      "function": {
+        "german": "Sachbearbeiter/in",
+        "french": "Sachbearbeiter/in",
+        "italian": "Sachbearbeiter/in",
+        "english": "Sachbearbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026307",
+      "label": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026313",
+      "label": {
+        "german": "Finanzen, Amtsplanung, Controlling, Statistik",
+        "french": "Finances, planification de l'office, controlling et statistique",
+        "italian": "Finanze, pianificazione dell'ufficio, controlling, statistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen, Amtsplanung, Controlling, Statistik",
+        "french": "Finances, planification de l'office, controlling et statistique",
+        "italian": "Finanze, pianificazione dell'ufficio, controlling, statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026317",
+      "label": {
+        "german": "Statistik",
+        "french": "Statistique",
+        "italian": "Statistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Statistik",
+        "french": "Statistique",
+        "italian": "Statistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,304 @@
-{"id"=>"20042327", "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042329", "name"=>{"german"=>"Stv Chef Kommando Operationen", "french"=>"Rempl chef commandement des Opérations", "italian"=>"Sost capo Comando Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"STVOP", "french"=>"STVOP", "italian"=>"STVOP", "english"=>""}}, {"id"=>"20003084", "name"=>{"german"=>"SC Kommando Operationen", "french"=>"CEM commandement des Opérations", "italian"=>"CSM Comando Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"SCOP", "french"=>"SCOP", "italian"=>"SCOP", "english"=>""}}, {"id"=>"20003087", "name"=>{"german"=>"Militärischer Nachrichtendienst", "french"=>"Renseignement militaire", "italian"=>"Servizio informazioni militare", "english"=>""}, "nameAbbr"=>{"german"=>"MNDDPSA", "french"=>"MNDDPSA", "italian"=>"MNDDPSA", "english"=>""}}, {"id"=>"10000056", "name"=>{"german"=>"Heer", "french"=>"Forces terrestres", "italian"=>"Forze terrestri", "english"=>""}, "nameAbbr"=>{"german"=>"HEER", "french"=>"FT", "italian"=>"FT", "english"=>""}}, {"id"=>"20003474", "name"=>{"german"=>"Territorialdivision 1", "french"=>"Division territoriale 1", "italian"=>"Divisione territoriale 1", "english"=>""}, "nameAbbr"=>{"german"=>"TDIV1", "french"=>"TDIV1", "italian"=>"TDIV1", "english"=>""}}, {"id"=>"20003475", "name"=>{"german"=>"Territorialdivision 2", "french"=>"Division territoriale 2", "italian"=>"Divisione territoriale 2", "english"=>""}, "nameAbbr"=>{"german"=>"TDIV2", "french"=>"TDIV2", "italian"=>"TDIV2", "english"=>""}}, {"id"=>"20003476", "name"=>{"german"=>"Territorialdivision 3", "french"=>"Division territoriale 3", "italian"=>"Divisione territoriale 3", "english"=>""}, "nameAbbr"=>{"german"=>"TDIV3", "french"=>"TDIV3", "italian"=>"TDIV3", "english"=>""}}, {"id"=>"20003477", "name"=>{"german"=>"Territorialdivision 4", "french"=>"Division territoriale 4", "italian"=>"Divisione territoriale 4", "english"=>""}, "nameAbbr"=>{"german"=>"TDIV4", "french"=>"TDIV4", "italian"=>"TDIV4", "english"=>""}}, {"id"=>"10000057", "name"=>{"german"=>"Militärpolizei", "french"=>"Police militaire", "italian"=>"Polizia militare", "english"=>""}, "nameAbbr"=>{"german"=>"MP", "french"=>"MP", "italian"=>"MP", "english"=>""}}, {"id"=>"10008929", "name"=>{"german"=>"Luftwaffe", "french"=>"Forces aériennes", "italian"=>"Forze aeree", "english"=>""}, "nameAbbr"=>{"german"=>"LW", "french"=>"LW", "italian"=>"LW", "english"=>""}}, {"id"=>"20003085", "name"=>{"german"=>"Kompetenzzentrum SWISSINT", "french"=>"Centre de compétences SWISSINT", "italian"=>"Centro di competenza SWISSINT", "english"=>""}, "nameAbbr"=>{"german"=>"SWISSINT", "french"=>"SWISSINT", "italian"=>"SWISSINT", "english"=>""}}, {"id"=>"20027389", "name"=>{"german"=>"Kommando Spezialkräfte KSK", "french"=>"Commandement Forces spéciales CFS", "italian"=>"Comando forze speciali CFS", "english"=>""}, "nameAbbr"=>{"german"=>"KSK", "french"=>"KSK", "italian"=>"KSK", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042327",
+  "name": {
+    "german": "Kommando Operationen",
+    "french": "Commandement des Opérations",
+    "italian": "Comando Operazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "OP",
+    "french": "OP",
+    "italian": "OP",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042329",
+      "name": {
+        "german": "Stv Chef Kommando Operationen",
+        "french": "Rempl chef commandement des Opérations",
+        "italian": "Sost capo Comando Operazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "STVOP",
+        "french": "STVOP",
+        "italian": "STVOP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003084",
+      "name": {
+        "german": "SC Kommando Operationen",
+        "french": "CEM commandement des Opérations",
+        "italian": "CSM Comando Operazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SCOP",
+        "french": "SCOP",
+        "italian": "SCOP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003087",
+      "name": {
+        "german": "Militärischer Nachrichtendienst",
+        "french": "Renseignement militaire",
+        "italian": "Servizio informazioni militare",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "MNDDPSA",
+        "french": "MNDDPSA",
+        "italian": "MNDDPSA",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000056",
+      "name": {
+        "german": "Heer",
+        "french": "Forces terrestres",
+        "italian": "Forze terrestri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "HEER",
+        "french": "FT",
+        "italian": "FT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003474",
+      "name": {
+        "german": "Territorialdivision 1",
+        "french": "Division territoriale 1",
+        "italian": "Divisione territoriale 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TDIV1",
+        "french": "TDIV1",
+        "italian": "TDIV1",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003475",
+      "name": {
+        "german": "Territorialdivision 2",
+        "french": "Division territoriale 2",
+        "italian": "Divisione territoriale 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TDIV2",
+        "french": "TDIV2",
+        "italian": "TDIV2",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003476",
+      "name": {
+        "german": "Territorialdivision 3",
+        "french": "Division territoriale 3",
+        "italian": "Divisione territoriale 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TDIV3",
+        "french": "TDIV3",
+        "italian": "TDIV3",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003477",
+      "name": {
+        "german": "Territorialdivision 4",
+        "french": "Division territoriale 4",
+        "italian": "Divisione territoriale 4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TDIV4",
+        "french": "TDIV4",
+        "italian": "TDIV4",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000057",
+      "name": {
+        "german": "Militärpolizei",
+        "french": "Police militaire",
+        "italian": "Polizia militare",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "MP",
+        "french": "MP",
+        "italian": "MP",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008929",
+      "name": {
+        "german": "Luftwaffe",
+        "french": "Forces aériennes",
+        "italian": "Forze aeree",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "LW",
+        "french": "LW",
+        "italian": "LW",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003085",
+      "name": {
+        "german": "Kompetenzzentrum SWISSINT",
+        "french": "Centre de compétences SWISSINT",
+        "italian": "Centro di competenza SWISSINT",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SWISSINT",
+        "french": "SWISSINT",
+        "italian": "SWISSINT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027389",
+      "name": {
+        "german": "Kommando Spezialkräfte KSK",
+        "french": "Commandement Forces spéciales CFS",
+        "italian": "Comando forze speciali CFS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "KSK",
+        "french": "KSK",
+        "italian": "KSK",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

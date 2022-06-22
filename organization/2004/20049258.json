@@ -1,1 +1,185 @@
-{"id"=>"20049258", "name"=>{"german"=>"Testing 1", "french"=>"Testing 1", "italian"=>"Testing 1", "english"=>""}, "nameAbbr"=>{"german"=>"TS1", "french"=>"TS1", "italian"=>"TS1", "english"=>""}, "address"=>{"addressLine2"=>"Campus Meielen", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049253", "name"=>{"german"=>"Externe Testing 1", "french"=>"Externe Testing 1", "italian"=>"Externe Testing 1", "english"=>""}, "nameAbbr"=>{"german"=>"TS1", "french"=>"TS1", "italian"=>"TS1", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7280166", "surname"=>"Lipke", "givenName"=>"Astrid", "email"=>nil, "phone"=>"+41 58 46 73258", "function"=>{"german"=>"Head of Testing 1", "french"=>"Head of Testing 1", "italian"=>"Head of Testing 1", "english"=>"Head of Testing 1"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008669", "label"=>{"german"=>"BIT", "french"=>"OFIT", "italian"=>"UFIT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Informatik und Telekommunikation", "french"=>"Office fédéral de l’informatique et de la télécommunication", "italian"=>"Ufficio federale dell'informatica e della telecomunicazione", "english"=>""}}, {"id"=>"20012388", "label"=>{"german"=>"DI", "french"=>"DI", "italian"=>"DI", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direktion", "italian"=>"Direktion", "english"=>""}}, {"id"=>"20049277", "label"=>{"german"=>"BS", "french"=>"BS", "italian"=>"BS", "english"=>""}, "name"=>{"german"=>"Business Solutions", "french"=>"Business Solutions", "italian"=>"Business Solutions", "english"=>""}}, {"id"=>"20049279", "label"=>{"german"=>"BSC", "french"=>"BSC", "italian"=>"BSC", "english"=>""}, "name"=>{"german"=>"Chapter", "french"=>"Chapter", "italian"=>"Chapter", "english"=>""}}, {"id"=>"20049258", "label"=>{"german"=>"TS1", "french"=>"TS1", "italian"=>"TS1", "english"=>""}, "name"=>{"german"=>"Testing 1", "french"=>"Testing 1", "italian"=>"Testing 1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049258",
+  "name": {
+    "german": "Testing 1",
+    "french": "Testing 1",
+    "italian": "Testing 1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "TS1",
+    "french": "TS1",
+    "italian": "TS1",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Campus Meielen",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049253",
+      "name": {
+        "german": "Externe Testing 1",
+        "french": "Externe Testing 1",
+        "italian": "Externe Testing 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TS1",
+        "french": "TS1",
+        "italian": "TS1",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7280166",
+      "surname": "Lipke",
+      "givenName": "Astrid",
+      "email": null,
+      "phone": "+41 58 46 73258",
+      "function": {
+        "german": "Head of Testing 1",
+        "french": "Head of Testing 1",
+        "italian": "Head of Testing 1",
+        "english": "Head of Testing 1"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008669",
+      "label": {
+        "german": "BIT",
+        "french": "OFIT",
+        "italian": "UFIT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Informatik und Telekommunikation",
+        "french": "Office fédéral de l’informatique et de la télécommunication",
+        "italian": "Ufficio federale dell'informatica e della telecomunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012388",
+      "label": {
+        "german": "DI",
+        "french": "DI",
+        "italian": "DI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direktion",
+        "italian": "Direktion",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049277",
+      "label": {
+        "german": "BS",
+        "french": "BS",
+        "italian": "BS",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Solutions",
+        "french": "Business Solutions",
+        "italian": "Business Solutions",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049279",
+      "label": {
+        "german": "BSC",
+        "french": "BSC",
+        "italian": "BSC",
+        "english": ""
+      },
+      "name": {
+        "german": "Chapter",
+        "french": "Chapter",
+        "italian": "Chapter",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049258",
+      "label": {
+        "german": "TS1",
+        "french": "TS1",
+        "italian": "TS1",
+        "english": ""
+      },
+      "name": {
+        "german": "Testing 1",
+        "french": "Testing 1",
+        "italian": "Testing 1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,167 @@
-{"id"=>"30000090@10.03", "name"=>{"german"=>"Medical Devices Vigilance", "french"=>"Matériovigilance", "italian"=>"Medical Devices Vigilance", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallerstrasse 7", "postalCode"=>"3012", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"30000800@10.03", "name"=>{"german"=>"Medical Devices Vigilance 1", "french"=>"Medical Devices Vigilance 1", "italian"=>"Medical Devices Vigilance 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000801@10.03", "name"=>{"german"=>"Medical Devices Vigilance 2", "french"=>"Medical Devices Vigilance 2", "italian"=>"Medical Devices Vigilance 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-7348282", "surname"=>"Wälti", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 22316", "function"=>{"german"=>"Leiter/in", "french"=>"chef", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"30000028@10.03", "label"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}, "name"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}}, {"id"=>"30000062@10.03", "label"=>{"german"=>"Marktüberwachung", "french"=>"Surveillance du marché", "italian"=>"Marktüberwachung", "english"=>""}, "name"=>{"german"=>"Marktüberwachung", "french"=>"Surveillance du marché", "italian"=>"Marktüberwachung", "english"=>""}}, {"id"=>"30000090@10.03", "label"=>{"german"=>"Medical Devices Vigilance", "french"=>"Matériovigilance", "italian"=>"Medical Devices Vigilance", "english"=>""}, "name"=>{"german"=>"Medical Devices Vigilance", "french"=>"Matériovigilance", "italian"=>"Medical Devices Vigilance", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "30000090@10.03",
+  "name": {
+    "german": "Medical Devices Vigilance",
+    "french": "Matériovigilance",
+    "italian": "Medical Devices Vigilance",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallerstrasse 7",
+    "postalCode": "3012",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "30000800@10.03",
+      "name": {
+        "german": "Medical Devices Vigilance 1",
+        "french": "Medical Devices Vigilance 1",
+        "italian": "Medical Devices Vigilance 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000801@10.03",
+      "name": {
+        "german": "Medical Devices Vigilance 2",
+        "french": "Medical Devices Vigilance 2",
+        "italian": "Medical Devices Vigilance 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-7348282",
+      "surname": "Wälti",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 22316",
+      "function": {
+        "german": "Leiter/in",
+        "french": "chef",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000028@10.03",
+      "label": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      },
+      "name": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000062@10.03",
+      "label": {
+        "german": "Marktüberwachung",
+        "french": "Surveillance du marché",
+        "italian": "Marktüberwachung",
+        "english": ""
+      },
+      "name": {
+        "german": "Marktüberwachung",
+        "french": "Surveillance du marché",
+        "italian": "Marktüberwachung",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000090@10.03",
+      "label": {
+        "german": "Medical Devices Vigilance",
+        "french": "Matériovigilance",
+        "italian": "Medical Devices Vigilance",
+        "english": ""
+      },
+      "name": {
+        "german": "Medical Devices Vigilance",
+        "french": "Matériovigilance",
+        "italian": "Medical Devices Vigilance",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

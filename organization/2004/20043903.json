@@ -1,1 +1,154 @@
-{"id"=>"20043903", "name"=>{"german"=>"Transparenz und Publikationen", "french"=>"Transparence et publications", "italian"=>"Trasparenza e pubblicazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 45", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9170417", "surname"=>"Steiner", "givenName"=>"Yves", "email"=>nil, "phone"=>"+41 58 46 30264", "function"=>{"german"=>"Leiter/Revisor Transparenz & Publikation", "french"=>"Leiter/Revisor Publikationen", "italian"=>"Leiter/Revisor Publikationen", "english"=>"Leiter/Revisor Transparenz & Publikation"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1348703", "surname"=>"Braun", "givenName"=>"Bettina", "email"=>nil, "phone"=>"+41 58 46 31004", "function"=>{"german"=>"SpezialistIn Publikationen", "french"=>"SpezialistIn Publikationen", "italian"=>"SpezialistIn Publikationen", "english"=>"SpezialistIn Publikationen"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008752", "label"=>{"german"=>"EFK", "french"=>"CDF", "italian"=>"CDF", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzkontrolle", "french"=>"Contrôle fédéral des finances", "italian"=>"Controllo federale delle finanze", "english"=>""}}, {"id"=>"10003862", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20043903", "label"=>{"german"=>"Transparenz und Publikationen", "french"=>"Transparence et publications", "italian"=>"Trasparenza e pubblicazioni", "english"=>""}, "name"=>{"german"=>"Transparenz und Publikationen", "french"=>"Transparence et publications", "italian"=>"Trasparenza e pubblicazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20043903",
+  "name": {
+    "german": "Transparenz und Publikationen",
+    "french": "Transparence et publications",
+    "italian": "Trasparenza e pubblicazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 45",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9170417",
+      "surname": "Steiner",
+      "givenName": "Yves",
+      "email": null,
+      "phone": "+41 58 46 30264",
+      "function": {
+        "german": "Leiter/Revisor Transparenz & Publikation",
+        "french": "Leiter/Revisor Publikationen",
+        "italian": "Leiter/Revisor Publikationen",
+        "english": "Leiter/Revisor Transparenz & Publikation"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1348703",
+      "surname": "Braun",
+      "givenName": "Bettina",
+      "email": null,
+      "phone": "+41 58 46 31004",
+      "function": {
+        "german": "SpezialistIn Publikationen",
+        "french": "SpezialistIn Publikationen",
+        "italian": "SpezialistIn Publikationen",
+        "english": "SpezialistIn Publikationen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008752",
+      "label": {
+        "german": "EFK",
+        "french": "CDF",
+        "italian": "CDF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzkontrolle",
+        "french": "Contrôle fédéral des finances",
+        "italian": "Controllo federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003862",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043903",
+      "label": {
+        "german": "Transparenz und Publikationen",
+        "french": "Transparence et publications",
+        "italian": "Trasparenza e pubblicazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Transparenz und Publikationen",
+        "french": "Transparence et publications",
+        "italian": "Trasparenza e pubblicazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

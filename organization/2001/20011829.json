@@ -1,1 +1,259 @@
-{"id"=>"20011829", "name"=>{"german"=>"Pflegedienst der Armee", "french"=>"Service des soins de l'armée", "italian"=>"Servizio cure dell'esercito", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 36", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20011841", "name"=>{"german"=>"MMR Bière", "french"=>"Région médicale militaire de Bière", "italian"=>"RMM Bière", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011836", "name"=>{"german"=>"MMR Payerne", "french"=>"Région médicale militaire de Payerne", "italian"=>"RMM Payerne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011847", "name"=>{"german"=>"MMR Thun", "french"=>"Région médicale militaire de Thoune", "italian"=>"RMM Thun", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011876", "name"=>{"german"=>"MMR Wangen", "french"=>"Région médicale militaire de Wangen", "italian"=>"RMM Wangen", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011893", "name"=>{"german"=>"MMR Emmen", "french"=>"Région médicale militaire Emmen", "italian"=>"RMM Emmen", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039427", "name"=>{"german"=>"MMR Monteceneri", "french"=>"Région médicale militaire Monteceneri", "italian"=>"RMM Monteceneri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011884", "name"=>{"german"=>"MMR Frauenfeld", "french"=>"Région médicale militaire de Frauenfeld", "italian"=>"RMM Frauenfeld", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20003026", "label"=>{"german"=>"ASTAB", "french"=>"EMA", "italian"=>"SMEs", "english"=>""}, "name"=>{"german"=>"Armeestab", "french"=>"Etat-major de l'armée", "italian"=>"Stato maggiore dell'esercito", "english"=>""}}, {"id"=>"20008451", "label"=>{"german"=>"Sanität", "french"=>"Affaires sanitaires", "italian"=>"Sanità militare", "english"=>""}, "name"=>{"german"=>"Sanität", "french"=>"Affaires sanitaires", "italian"=>"Sanità militare", "english"=>""}}, {"id"=>"20011829", "label"=>{"german"=>"Pflegedienst der Armee", "french"=>"Service des soins de l'armée", "italian"=>"Servizio cure dell'esercito", "english"=>""}, "name"=>{"german"=>"Pflegedienst der Armee", "french"=>"Service des soins de l'armée", "italian"=>"Servizio cure dell'esercito", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011829",
+  "name": {
+    "german": "Pflegedienst der Armee",
+    "french": "Service des soins de l'armée",
+    "italian": "Servizio cure dell'esercito",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 36",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20011841",
+      "name": {
+        "german": "MMR Bière",
+        "french": "Région médicale militaire de Bière",
+        "italian": "RMM Bière",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011836",
+      "name": {
+        "german": "MMR Payerne",
+        "french": "Région médicale militaire de Payerne",
+        "italian": "RMM Payerne",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011847",
+      "name": {
+        "german": "MMR Thun",
+        "french": "Région médicale militaire de Thoune",
+        "italian": "RMM Thun",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011876",
+      "name": {
+        "german": "MMR Wangen",
+        "french": "Région médicale militaire de Wangen",
+        "italian": "RMM Wangen",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011893",
+      "name": {
+        "german": "MMR Emmen",
+        "french": "Région médicale militaire Emmen",
+        "italian": "RMM Emmen",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039427",
+      "name": {
+        "german": "MMR Monteceneri",
+        "french": "Région médicale militaire Monteceneri",
+        "italian": "RMM Monteceneri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011884",
+      "name": {
+        "german": "MMR Frauenfeld",
+        "french": "Région médicale militaire de Frauenfeld",
+        "italian": "RMM Frauenfeld",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003026",
+      "label": {
+        "german": "ASTAB",
+        "french": "EMA",
+        "italian": "SMEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeestab",
+        "french": "Etat-major de l'armée",
+        "italian": "Stato maggiore dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008451",
+      "label": {
+        "german": "Sanität",
+        "french": "Affaires sanitaires",
+        "italian": "Sanità militare",
+        "english": ""
+      },
+      "name": {
+        "german": "Sanität",
+        "french": "Affaires sanitaires",
+        "italian": "Sanità militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011829",
+      "label": {
+        "german": "Pflegedienst der Armee",
+        "french": "Service des soins de l'armée",
+        "italian": "Servizio cure dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Pflegedienst der Armee",
+        "french": "Service des soins de l'armée",
+        "italian": "Servizio cure dell'esercito",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

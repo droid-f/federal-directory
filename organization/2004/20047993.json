@@ -1,1 +1,170 @@
-{"id"=>"20047993", "name"=>{"german"=>"Sup FlSup Flugsicherheitssysteme Locarno", "french"=>"Support syst sécurité des vols Locarno", "italian"=>"Supp Sistemi di sicurezza di volo LOC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"AT Edificio principale", "street"=>"Air Base Locarno", "postalCode"=>"6595", "location"=>"Riazzino", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"10009869", "label"=>{"german"=>"FUB", "french"=>"BAC", "italian"=>"BAC", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbasis", "french"=>"Base d'aide au commandement", "italian"=>"Base d'aiuto alla condotta", "english"=>""}}, {"id"=>"20038128", "label"=>{"german"=>"Betrieb", "french"=>"Exploitation", "italian"=>"Aziendia", "english"=>""}, "name"=>{"german"=>"Betrieb", "french"=>"Exploitation", "italian"=>"Aziendia", "english"=>""}}, {"id"=>"20038177", "label"=>{"german"=>"Support Flugsicherheitssysteme SUFS", "french"=>"Sup syst sécurité aérienne SSSA", "italian"=>"Supp sistemi di sicurezza di volo SSSV", "english"=>""}, "name"=>{"german"=>"Support Flugsicherheitssysteme SUFS", "french"=>"Sup syst sécurité aérienne SSSA", "italian"=>"Supp sistemi di sicurezza di volo SSSV", "english"=>""}}, {"id"=>"20047993", "label"=>{"german"=>"Sup FlSup Flugsicherheitssysteme Locarno", "french"=>"Support syst sécurité des vols Locarno", "italian"=>"Supp Sistemi di sicurezza di volo LOC", "english"=>""}, "name"=>{"german"=>"Sup FlSup Flugsicherheitssysteme Locarno", "french"=>"Support syst sécurité des vols Locarno", "italian"=>"Supp Sistemi di sicurezza di volo LOC", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20047993",
+  "name": {
+    "german": "Sup FlSup Flugsicherheitssysteme Locarno",
+    "french": "Support syst sécurité des vols Locarno",
+    "italian": "Supp Sistemi di sicurezza di volo LOC",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "AT Edificio principale",
+    "street": "Air Base Locarno",
+    "postalCode": "6595",
+    "location": "Riazzino",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009869",
+      "label": {
+        "german": "FUB",
+        "french": "BAC",
+        "italian": "BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbasis",
+        "french": "Base d'aide au commandement",
+        "italian": "Base d'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038128",
+      "label": {
+        "german": "Betrieb",
+        "french": "Exploitation",
+        "italian": "Aziendia",
+        "english": ""
+      },
+      "name": {
+        "german": "Betrieb",
+        "french": "Exploitation",
+        "italian": "Aziendia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038177",
+      "label": {
+        "german": "Support Flugsicherheitssysteme SUFS",
+        "french": "Sup syst sécurité aérienne SSSA",
+        "italian": "Supp sistemi di sicurezza di volo SSSV",
+        "english": ""
+      },
+      "name": {
+        "german": "Support Flugsicherheitssysteme SUFS",
+        "french": "Sup syst sécurité aérienne SSSA",
+        "italian": "Supp sistemi di sicurezza di volo SSSV",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047993",
+      "label": {
+        "german": "Sup FlSup Flugsicherheitssysteme Locarno",
+        "french": "Support syst sécurité des vols Locarno",
+        "italian": "Supp Sistemi di sicurezza di volo LOC",
+        "english": ""
+      },
+      "name": {
+        "german": "Sup FlSup Flugsicherheitssysteme Locarno",
+        "french": "Support syst sécurité des vols Locarno",
+        "italian": "Supp Sistemi di sicurezza di volo LOC",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

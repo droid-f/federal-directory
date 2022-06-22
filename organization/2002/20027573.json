@@ -1,1 +1,252 @@
-{"id"=>"20027573", "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9428918", "surname"=>"Julmy", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 21216", "function"=>{"german"=>"Leiter Rechtsdienst", "french"=>"Leiter Rechtsdienst", "italian"=>"Leiter Rechtsdienst", "english"=>"Leiter Rechtsdienst"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7130996", "surname"=>"Arni", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 40484", "function"=>{"german"=>"Jurist", "french"=>"Jurist", "italian"=>"Jurist", "english"=>"Jurist"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8367053", "surname"=>"Ceschi", "givenName"=>"Alessia", "email"=>nil, "phone"=>"+41 58 48 50680", "function"=>{"german"=>"Juristin", "french"=>"Juristin", "italian"=>"Juristin", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8085401", "surname"=>"Fazari", "givenName"=>"Luca", "email"=>nil, "phone"=>"+41 58 48 08545", "function"=>{"german"=>"Stv. Leiter Rechtsdienst / Jurist", "french"=>"Jurist", "italian"=>"Jurist", "english"=>"Stv. Leiter Rechtsdienst / Jurist"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9439754", "surname"=>"Hauser-Kummer", "givenName"=>"Anita", "email"=>nil, "phone"=>"+41 58 46 23382", "function"=>{"german"=>"Juristin", "french"=>"Juristin", "italian"=>"Juristin", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1296416", "surname"=>"Hostettler", "givenName"=>"Yasmin", "email"=>nil, "phone"=>"+41 58 46 50843", "function"=>{"german"=>"Juristin", "french"=>"Juristin", "italian"=>"Juristin", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9411881", "surname"=>"Meier", "givenName"=>"Dimitri", "email"=>nil, "phone"=>"+41 58 46 67075", "function"=>{"german"=>"Jurist", "french"=>"Jurist", "italian"=>"Jurist", "english"=>"Jurist"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XS00Q76R", "surname"=>"Polier", "givenName"=>"Valentine", "email"=>nil, "phone"=>"+41 58 46 71674", "function"=>{"german"=>"Hochschulpraktikantin", "french"=>"Hochschulpraktikant", "italian"=>"Hochschulpraktikant", "english"=>"Hochschulpraktikantin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6726483", "surname"=>"Prevendar-Lenoir", "givenName"=>"Stéphanie", "email"=>nil, "phone"=>"+41 58 46 25508", "function"=>{"german"=>"Stv. Bereichsleiterin / Bereich PGV", "french"=>"Juristin", "italian"=>"Juristin", "english"=>"Stv. Bereichsleiterin / Bereich PGV"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20027560", "label"=>{"german"=>"Ressourcen und Logistik, Rechtsdienst", "french"=>"Ressourcen und Logistik, Rechtsdienst", "italian"=>"Ressourcen und Logistik, Rechtsdienst", "english"=>""}, "name"=>{"german"=>"Ressourcen und Logistik, Rechtsdienst", "french"=>"Ressourcen und Logistik, Rechtsdienst", "italian"=>"Ressourcen und Logistik, Rechtsdienst", "english"=>""}}, {"id"=>"20027573", "label"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027573",
+  "name": {
+    "german": "Rechtsdienst",
+    "french": "Service juridique",
+    "italian": "Servizio giuridico",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9428918",
+      "surname": "Julmy",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 21216",
+      "function": {
+        "german": "Leiter Rechtsdienst",
+        "french": "Leiter Rechtsdienst",
+        "italian": "Leiter Rechtsdienst",
+        "english": "Leiter Rechtsdienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7130996",
+      "surname": "Arni",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 40484",
+      "function": {
+        "german": "Jurist",
+        "french": "Jurist",
+        "italian": "Jurist",
+        "english": "Jurist"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8367053",
+      "surname": "Ceschi",
+      "givenName": "Alessia",
+      "email": null,
+      "phone": "+41 58 48 50680",
+      "function": {
+        "german": "Juristin",
+        "french": "Juristin",
+        "italian": "Juristin",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8085401",
+      "surname": "Fazari",
+      "givenName": "Luca",
+      "email": null,
+      "phone": "+41 58 48 08545",
+      "function": {
+        "german": "Stv. Leiter Rechtsdienst / Jurist",
+        "french": "Jurist",
+        "italian": "Jurist",
+        "english": "Stv. Leiter Rechtsdienst / Jurist"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9439754",
+      "surname": "Hauser-Kummer",
+      "givenName": "Anita",
+      "email": null,
+      "phone": "+41 58 46 23382",
+      "function": {
+        "german": "Juristin",
+        "french": "Juristin",
+        "italian": "Juristin",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1296416",
+      "surname": "Hostettler",
+      "givenName": "Yasmin",
+      "email": null,
+      "phone": "+41 58 46 50843",
+      "function": {
+        "german": "Juristin",
+        "french": "Juristin",
+        "italian": "Juristin",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9411881",
+      "surname": "Meier",
+      "givenName": "Dimitri",
+      "email": null,
+      "phone": "+41 58 46 67075",
+      "function": {
+        "german": "Jurist",
+        "french": "Jurist",
+        "italian": "Jurist",
+        "english": "Jurist"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XS00Q76R",
+      "surname": "Polier",
+      "givenName": "Valentine",
+      "email": null,
+      "phone": "+41 58 46 71674",
+      "function": {
+        "german": "Hochschulpraktikantin",
+        "french": "Hochschulpraktikant",
+        "italian": "Hochschulpraktikant",
+        "english": "Hochschulpraktikantin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6726483",
+      "surname": "Prevendar-Lenoir",
+      "givenName": "Stéphanie",
+      "email": null,
+      "phone": "+41 58 46 25508",
+      "function": {
+        "german": "Stv. Bereichsleiterin / Bereich PGV",
+        "french": "Juristin",
+        "italian": "Juristin",
+        "english": "Stv. Bereichsleiterin / Bereich PGV"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027560",
+      "label": {
+        "german": "Ressourcen und Logistik, Rechtsdienst",
+        "french": "Ressourcen und Logistik, Rechtsdienst",
+        "italian": "Ressourcen und Logistik, Rechtsdienst",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen und Logistik, Rechtsdienst",
+        "french": "Ressourcen und Logistik, Rechtsdienst",
+        "italian": "Ressourcen und Logistik, Rechtsdienst",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027573",
+      "label": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      },
+      "name": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

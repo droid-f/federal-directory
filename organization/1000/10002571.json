@@ -1,1 +1,247 @@
-{"id"=>"10002571", "name"=>{"german"=>"Abteilung Recht und Sachplanung", "french"=>"Division Droit et planification sectorielle", "italian"=>"Divisione Diritto e pianificazione settoriale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037831", "name"=>{"german"=>"Assistenz ARS", "french"=>"Assistance ARS", "italian"=>"Assistenza ARS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035657", "name"=>{"german"=>"Energierecht und Allgemeines Recht", "french"=>"Droit de l'énergie et droit général", "italian"=>"Diritto dell'energia e diritto generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027512", "name"=>{"german"=>"Energiemarkt- und Rohrleitungsrecht", "french"=>"Droit du marché de l’énergie et du trans", "italian"=>"Diritto del mercato energetico e del tra", "english"=>"Energy Market and Pipelines Law"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002572", "name"=>{"german"=>"Kernenergierecht", "french"=>"Droit du nucléaire", "italian"=>"Diritto del nucleare", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018289", "name"=>{"german"=>"Elektrizitäts- und Wasserrecht", "french"=>"Droit de l‘électricité et des eaux", "italian"=>"Diritto in materia di elettricità e delle acque", "english"=>"Electricity and Water law"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014728", "name"=>{"german"=>"Entsorgung radioaktive Abfälle", "french"=>"Gestion des déchets radioactifs", "italian"=>"Smaltimento delle scorie radioattive", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6112059", "surname"=>"Mayer", "givenName"=>"Roman", "email"=>nil, "phone"=>"+41 58 46 08194", "function"=>{"german"=>"Vizedirektor/in / Leiter/in ARS", "french"=>"Vizedirektor/in / Leiter/in ARS", "italian"=>"Vizedirektor/in / Leiter/in ARS", "english"=>"Vizedirektor/in / Leiter/in ARS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1070960", "surname"=>"Iseli", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 46 53516", "function"=>{"german"=>"Leiter/in Energierecht + All.Recht/ Stv.", "french"=>"Leiter/in Energierecht + All.Recht/ Stv.", "italian"=>"Leiter/in Energierecht + All.Recht/ Stv.", "english"=>"Leiter/in Energierecht + All.Recht/ Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002571", "label"=>{"german"=>"Abteilung Recht und Sachplanung", "french"=>"Division Droit et planification sectorielle", "italian"=>"Divisione Diritto e pianificazione settoriale", "english"=>""}, "name"=>{"german"=>"Abteilung Recht und Sachplanung", "french"=>"Division Droit et planification sectorielle", "italian"=>"Divisione Diritto e pianificazione settoriale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002571",
+  "name": {
+    "german": "Abteilung Recht und Sachplanung",
+    "french": "Division Droit et planification sectorielle",
+    "italian": "Divisione Diritto e pianificazione settoriale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037831",
+      "name": {
+        "german": "Assistenz ARS",
+        "french": "Assistance ARS",
+        "italian": "Assistenza ARS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035657",
+      "name": {
+        "german": "Energierecht und Allgemeines Recht",
+        "french": "Droit de l'énergie et droit général",
+        "italian": "Diritto dell'energia e diritto generale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027512",
+      "name": {
+        "german": "Energiemarkt- und Rohrleitungsrecht",
+        "french": "Droit du marché de l’énergie et du trans",
+        "italian": "Diritto del mercato energetico e del tra",
+        "english": "Energy Market and Pipelines Law"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002572",
+      "name": {
+        "german": "Kernenergierecht",
+        "french": "Droit du nucléaire",
+        "italian": "Diritto del nucleare",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018289",
+      "name": {
+        "german": "Elektrizitäts- und Wasserrecht",
+        "french": "Droit de l‘électricité et des eaux",
+        "italian": "Diritto in materia di elettricità e delle acque",
+        "english": "Electricity and Water law"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014728",
+      "name": {
+        "german": "Entsorgung radioaktive Abfälle",
+        "french": "Gestion des déchets radioactifs",
+        "italian": "Smaltimento delle scorie radioattive",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6112059",
+      "surname": "Mayer",
+      "givenName": "Roman",
+      "email": null,
+      "phone": "+41 58 46 08194",
+      "function": {
+        "german": "Vizedirektor/in / Leiter/in ARS",
+        "french": "Vizedirektor/in / Leiter/in ARS",
+        "italian": "Vizedirektor/in / Leiter/in ARS",
+        "english": "Vizedirektor/in / Leiter/in ARS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1070960",
+      "surname": "Iseli",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 46 53516",
+      "function": {
+        "german": "Leiter/in Energierecht + All.Recht/ Stv.",
+        "french": "Leiter/in Energierecht + All.Recht/ Stv.",
+        "italian": "Leiter/in Energierecht + All.Recht/ Stv.",
+        "english": "Leiter/in Energierecht + All.Recht/ Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002571",
+      "label": {
+        "german": "Abteilung Recht und Sachplanung",
+        "french": "Division Droit et planification sectorielle",
+        "italian": "Divisione Diritto e pianificazione settoriale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Recht und Sachplanung",
+        "french": "Division Droit et planification sectorielle",
+        "italian": "Divisione Diritto e pianificazione settoriale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,277 @@
-{"id"=>"20005410", "name"=>{"german"=>"Sektion Bildungsprozesse", "french"=>"Section Processus de formation", "italian"=>"Sezione Processi di formazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20021280", "name"=>{"german"=>"Lernende und Abschlüsse Schul- und Berufsbildung", "french"=>"Elèves et examens finals, formation scolaire et professionnelle", "italian"=>"Studenti e attestati, formazione scolastica e professionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005940", "name"=>{"german"=>"Personal, Finanzen und Institutionen im Bildungsbereich", "french"=>"Personel, finances et institutions du domaine de la formation", "italian"=>"Personale, finanze e istituti nel settore della formazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005943", "name"=>{"german"=>"Studierende und Examen im Hochschulbereich", "french"=>"Etudiants et examens des hautes écoles", "italian"=>"Studenti ed esami delle scuole universitarie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021282", "name"=>{"german"=>"Personal und Finanzen im Hochschulbereich und transversalen Aufgaben", "french"=>"Personnel et finances des hautes écoles et tâches transversales", "italian"=>"Personale e finanze delle scuole universitarie e compiti trasversali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034994", "name"=>{"german"=>"Fachapplikationen", "french"=>"Applications métiers", "italian"=>"Applicazioni tecniche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045779", "name"=>{"german"=>"Pool Extern Mittelland", "french"=>"Projet HBB", "italian"=>"Progetto HBB", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050953", "name"=>{"german"=>"Pool Externe Westschweiz", "french"=>"Pool Externe Westschweiz", "italian"=>"Pool Externe Westschweiz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1027889", "surname"=>"Mühlemann", "givenName"=>"Katrin", "email"=>nil, "phone"=>"+41 58 46 36732", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0366842", "surname"=>"Inversin", "givenName"=>"Laurent", "email"=>nil, "phone"=>"+41 58 46 36604", "function"=>{"german"=>"Bereichsleiter/in, Stv SC", "french"=>"Bereichsleiter/in, Stv SC", "italian"=>"Bereichsleiter/in, Stv SC", "english"=>"Bereichsleiter/in, Stv SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004662", "label"=>{"german"=>"Abteilung Bevölkerung und Bildung", "french"=>"Division Population et formation", "italian"=>"Divisione Popolazione e formazione", "english"=>""}, "name"=>{"german"=>"Abteilung Bevölkerung und Bildung", "french"=>"Division Population et formation", "italian"=>"Divisione Popolazione e formazione", "english"=>""}}, {"id"=>"20005410", "label"=>{"german"=>"Sektion Bildungsprozesse", "french"=>"Section Processus de formation", "italian"=>"Sezione Processi di formazione", "english"=>""}, "name"=>{"german"=>"Sektion Bildungsprozesse", "french"=>"Section Processus de formation", "italian"=>"Sezione Processi di formazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005410",
+  "name": {
+    "german": "Sektion Bildungsprozesse",
+    "french": "Section Processus de formation",
+    "italian": "Sezione Processi di formazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20021280",
+      "name": {
+        "german": "Lernende und Abschlüsse Schul- und Berufsbildung",
+        "french": "Elèves et examens finals, formation scolaire et professionnelle",
+        "italian": "Studenti e attestati, formazione scolastica e professionale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005940",
+      "name": {
+        "german": "Personal, Finanzen und Institutionen im Bildungsbereich",
+        "french": "Personel, finances et institutions du domaine de la formation",
+        "italian": "Personale, finanze e istituti nel settore della formazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005943",
+      "name": {
+        "german": "Studierende und Examen im Hochschulbereich",
+        "french": "Etudiants et examens des hautes écoles",
+        "italian": "Studenti ed esami delle scuole universitarie",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021282",
+      "name": {
+        "german": "Personal und Finanzen im Hochschulbereich und transversalen Aufgaben",
+        "french": "Personnel et finances des hautes écoles et tâches transversales",
+        "italian": "Personale e finanze delle scuole universitarie e compiti trasversali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034994",
+      "name": {
+        "german": "Fachapplikationen",
+        "french": "Applications métiers",
+        "italian": "Applicazioni tecniche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045779",
+      "name": {
+        "german": "Pool Extern Mittelland",
+        "french": "Projet HBB",
+        "italian": "Progetto HBB",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050953",
+      "name": {
+        "german": "Pool Externe Westschweiz",
+        "french": "Pool Externe Westschweiz",
+        "italian": "Pool Externe Westschweiz",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1027889",
+      "surname": "Mühlemann",
+      "givenName": "Katrin",
+      "email": null,
+      "phone": "+41 58 46 36732",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0366842",
+      "surname": "Inversin",
+      "givenName": "Laurent",
+      "email": null,
+      "phone": "+41 58 46 36604",
+      "function": {
+        "german": "Bereichsleiter/in, Stv SC",
+        "french": "Bereichsleiter/in, Stv SC",
+        "italian": "Bereichsleiter/in, Stv SC",
+        "english": "Bereichsleiter/in, Stv SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004662",
+      "label": {
+        "german": "Abteilung Bevölkerung und Bildung",
+        "french": "Division Population et formation",
+        "italian": "Divisione Popolazione e formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Bevölkerung und Bildung",
+        "french": "Division Population et formation",
+        "italian": "Divisione Popolazione e formazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005410",
+      "label": {
+        "german": "Sektion Bildungsprozesse",
+        "french": "Section Processus de formation",
+        "italian": "Sezione Processi di formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Bildungsprozesse",
+        "french": "Section Processus de formation",
+        "italian": "Sezione Processi di formazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

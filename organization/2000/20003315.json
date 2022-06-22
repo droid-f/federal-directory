@@ -1,1 +1,244 @@
-{"id"=>"20003315", "name"=>{"german"=>"Heeresstab / Stv Kdt Heer", "french"=>"EM Forces terrestres / rempl cdt FT", "italian"=>"SM Forze terrestri/sost cdt FT", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042404", "name"=>{"german"=>"Stabssteuerung", "french"=>"Gestion de l'état-major / G 1", "italian"=>"Gestione dello stato maggiore / G1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044478", "name"=>{"german"=>"G 1", "french"=>"G 1", "italian"=>"G 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042405", "name"=>{"german"=>"Streitkräfteentwicklung Op Sphäre Boden", "french"=>"Dév forces armées de la sph d’op terr", "italian"=>"Svil delle forze armate sfera op terra", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044479", "name"=>{"german"=>"G 4/6", "french"=>"G 4/6", "italian"=>"G 4/6", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042406", "name"=>{"german"=>"G 3/5/7", "french"=>"G 3/5/7", "italian"=>"G 3/5/7", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003316", "name"=>{"german"=>"Doktrin Operationssphäre Boden", "french"=>"Doctrine de la sph d'opération terrestre", "italian"=>"Dottrina sfera operativa di terra", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10000056", "label"=>{"german"=>"HEER", "french"=>"FT", "italian"=>"FT", "english"=>""}, "name"=>{"german"=>"Heer", "french"=>"Forces terrestres", "italian"=>"Forze terrestri", "english"=>""}}, {"id"=>"20003315", "label"=>{"german"=>"Heeresstab / Stv Kdt Heer", "french"=>"EM Forces terrestres / rempl cdt FT", "italian"=>"SM Forze terrestri/sost cdt FT", "english"=>""}, "name"=>{"german"=>"Heeresstab / Stv Kdt Heer", "french"=>"EM Forces terrestres / rempl cdt FT", "italian"=>"SM Forze terrestri/sost cdt FT", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003315",
+  "name": {
+    "german": "Heeresstab / Stv Kdt Heer",
+    "french": "EM Forces terrestres / rempl cdt FT",
+    "italian": "SM Forze terrestri/sost cdt FT",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042404",
+      "name": {
+        "german": "Stabssteuerung",
+        "french": "Gestion de l'état-major / G 1",
+        "italian": "Gestione dello stato maggiore / G1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044478",
+      "name": {
+        "german": "G 1",
+        "french": "G 1",
+        "italian": "G 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042405",
+      "name": {
+        "german": "Streitkräfteentwicklung Op Sphäre Boden",
+        "french": "Dév forces armées de la sph d’op terr",
+        "italian": "Svil delle forze armate sfera op terra",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044479",
+      "name": {
+        "german": "G 4/6",
+        "french": "G 4/6",
+        "italian": "G 4/6",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042406",
+      "name": {
+        "german": "G 3/5/7",
+        "french": "G 3/5/7",
+        "italian": "G 3/5/7",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003316",
+      "name": {
+        "german": "Doktrin Operationssphäre Boden",
+        "french": "Doctrine de la sph d'opération terrestre",
+        "italian": "Dottrina sfera operativa di terra",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000056",
+      "label": {
+        "german": "HEER",
+        "french": "FT",
+        "italian": "FT",
+        "english": ""
+      },
+      "name": {
+        "german": "Heer",
+        "french": "Forces terrestres",
+        "italian": "Forze terrestri",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003315",
+      "label": {
+        "german": "Heeresstab / Stv Kdt Heer",
+        "french": "EM Forces terrestres / rempl cdt FT",
+        "italian": "SM Forze terrestri/sost cdt FT",
+        "english": ""
+      },
+      "name": {
+        "german": "Heeresstab / Stv Kdt Heer",
+        "french": "EM Forces terrestres / rempl cdt FT",
+        "italian": "SM Forze terrestri/sost cdt FT",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

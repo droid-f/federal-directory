@@ -1,1 +1,123 @@
-{"id"=>"12040102@12.04", "name"=>{"german"=>"Sammlungszentrum", "french"=>"Centre des collections", "italian"=>"Centro delle collezioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Lindenmoosstrasse 1", "postalCode"=>"8910", "location"=>"Affoltern am Albis", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 44 76 21313", "fax"=>"", "email"=>"sammlungszentrum@nationalmuseum.ch", "homepage"=>{"german"=>"www.sammlungszentrum.ch", "french"=>"www.sammlungszentrum.ch", "italian"=>"www.sammlungszentrum.ch", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-8708529", "surname"=>"Leuthard", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 44 76 21360", "function"=>{"german"=>"Stv. Direktor, Geschäftsführer Sammlungszentrum", "french"=>"Stv. Direktor, Geschäftsführer Sammlungszentrum", "italian"=>"Stv. Direktor, Geschäftsführer Sammlungszentrum", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"12040100@12.04", "label"=>{"german"=>"SNM", "french"=>"MNS", "italian"=>"MNS", "english"=>""}, "name"=>{"german"=>"Schweizerisches Nationalmuseum", "french"=>"Musée National Suisse", "italian"=>"Museo Nazionale Svizzero", "english"=>""}}, {"id"=>"12040102@12.04", "label"=>{"german"=>"Sammlungszentrum", "french"=>"Centre des collections", "italian"=>"Centro delle collezioni", "english"=>""}, "name"=>{"german"=>"Sammlungszentrum", "french"=>"Centre des collections", "italian"=>"Centro delle collezioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12040102@12.04",
+  "name": {
+    "german": "Sammlungszentrum",
+    "french": "Centre des collections",
+    "italian": "Centro delle collezioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Lindenmoosstrasse 1",
+    "postalCode": "8910",
+    "location": "Affoltern am Albis",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 44 76 21313",
+    "fax": "",
+    "email": "sammlungszentrum@nationalmuseum.ch",
+    "homepage": {
+      "german": "www.sammlungszentrum.ch",
+      "french": "www.sammlungszentrum.ch",
+      "italian": "www.sammlungszentrum.ch",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-8708529",
+      "surname": "Leuthard",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 44 76 21360",
+      "function": {
+        "german": "Stv. Direktor, Geschäftsführer Sammlungszentrum",
+        "french": "Stv. Direktor, Geschäftsführer Sammlungszentrum",
+        "italian": "Stv. Direktor, Geschäftsführer Sammlungszentrum",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040100@12.04",
+      "label": {
+        "german": "SNM",
+        "french": "MNS",
+        "italian": "MNS",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Nationalmuseum",
+        "french": "Musée National Suisse",
+        "italian": "Museo Nazionale Svizzero",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040102@12.04",
+      "label": {
+        "german": "Sammlungszentrum",
+        "french": "Centre des collections",
+        "italian": "Centro delle collezioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Sammlungszentrum",
+        "french": "Centre des collections",
+        "italian": "Centro delle collezioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

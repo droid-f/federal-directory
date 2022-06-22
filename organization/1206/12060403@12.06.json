@@ -1,1 +1,168 @@
-{"id"=>"12060403@12.06", "name"=>{"german"=>"Ökonomie", "french"=>"Economie", "italian"=>"Economia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>308, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-3626615", "surname"=>"Stamm", "givenName"=>"Hansueli", "email"=>nil, "phone"=>"+41 31 377 72 17", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9962152", "surname"=>"Horst", "givenName"=>"Delia", "email"=>nil, "phone"=>"+41 31 377 72 07", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-8317706", "surname"=>"Maghsoodi", "givenName"=>"Eiman", "email"=>nil, "phone"=>"+41 31 377 72 24", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060400@12.06", "label"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}}, {"id"=>"12060403@12.06", "label"=>{"german"=>"Ökonomie", "french"=>"Economie", "italian"=>"Economia", "english"=>""}, "name"=>{"german"=>"Ökonomie", "french"=>"Economie", "italian"=>"Economia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060403@12.06",
+  "name": {
+    "german": "Ökonomie",
+    "french": "Economie",
+    "italian": "Economia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 308,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-3626615",
+      "surname": "Stamm",
+      "givenName": "Hansueli",
+      "email": null,
+      "phone": "+41 31 377 72 17",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9962152",
+      "surname": "Horst",
+      "givenName": "Delia",
+      "email": null,
+      "phone": "+41 31 377 72 07",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8317706",
+      "surname": "Maghsoodi",
+      "givenName": "Eiman",
+      "email": null,
+      "phone": "+41 31 377 72 24",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060400@12.06",
+      "label": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060403@12.06",
+      "label": {
+        "german": "Ökonomie",
+        "french": "Economie",
+        "italian": "Economia",
+        "english": ""
+      },
+      "name": {
+        "german": "Ökonomie",
+        "french": "Economie",
+        "italian": "Economia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

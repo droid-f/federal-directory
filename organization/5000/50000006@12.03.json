@@ -1,1 +1,185 @@
-{"id"=>"50000006@12.03", "name"=>{"german"=>"Führung & Direktionsgeschäfte", "french"=>"Führung & Direktionsgeschäfte", "italian"=>"Führung & Direktionsgeschäfte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"50000002@12.03", "name"=>{"german"=>"Bereich Direktionsgeschäfte", "french"=>"Bereich Direktionsgeschäfte", "italian"=>"Bereich Direktionsgeschäfte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50000003@12.03", "name"=>{"german"=>"Zentrales Sekretariat", "french"=>"Zentrales Sekretariat", "italian"=>"Zentrales Sekretariat", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50000017@12.03", "name"=>{"german"=>"Bereich Finanzen und Controlling", "french"=>"Bereich Finanzen und Controlling", "italian"=>"Bereich Finanzen und Controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50000018@12.03", "name"=>{"german"=>"Bereich Personal und Organisationsentw.", "french"=>"Bereich Personal und Organisationsentw.", "italian"=>"Bereich Personal und Organisationsentw.", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5717774", "surname"=>"Richard", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41583870415", "function"=>{"german"=>"Direktor/in", "french"=>"Directeur/directrice", "italian"=>"Direttore", "english"=>"Director"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}, {"id"=>"50000006@12.03", "label"=>{"german"=>"Führung & Direktionsgeschäfte", "french"=>"Führung & Direktionsgeschäfte", "italian"=>"Führung & Direktionsgeschäfte", "english"=>""}, "name"=>{"german"=>"Führung & Direktionsgeschäfte", "french"=>"Führung & Direktionsgeschäfte", "italian"=>"Führung & Direktionsgeschäfte", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50000006@12.03",
+  "name": {
+    "german": "Führung & Direktionsgeschäfte",
+    "french": "Führung & Direktionsgeschäfte",
+    "italian": "Führung & Direktionsgeschäfte",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "50000002@12.03",
+      "name": {
+        "german": "Bereich Direktionsgeschäfte",
+        "french": "Bereich Direktionsgeschäfte",
+        "italian": "Bereich Direktionsgeschäfte",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000003@12.03",
+      "name": {
+        "german": "Zentrales Sekretariat",
+        "french": "Zentrales Sekretariat",
+        "italian": "Zentrales Sekretariat",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000017@12.03",
+      "name": {
+        "german": "Bereich Finanzen und Controlling",
+        "french": "Bereich Finanzen und Controlling",
+        "italian": "Bereich Finanzen und Controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000018@12.03",
+      "name": {
+        "german": "Bereich Personal und Organisationsentw.",
+        "french": "Bereich Personal und Organisationsentw.",
+        "italian": "Bereich Personal und Organisationsentw.",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5717774",
+      "surname": "Richard",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41583870415",
+      "function": {
+        "german": "Direktor/in",
+        "french": "Directeur/directrice",
+        "italian": "Direttore",
+        "english": "Director"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000006@12.03",
+      "label": {
+        "german": "Führung & Direktionsgeschäfte",
+        "french": "Führung & Direktionsgeschäfte",
+        "italian": "Führung & Direktionsgeschäfte",
+        "english": ""
+      },
+      "name": {
+        "german": "Führung & Direktionsgeschäfte",
+        "french": "Führung & Direktionsgeschäfte",
+        "italian": "Führung & Direktionsgeschäfte",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

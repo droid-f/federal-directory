@@ -1,1 +1,185 @@
-{"id"=>"10006049", "name"=>{"german"=>"Integrationsmanagement Finanzen", "french"=>"Gestion de l'intégration et finances", "italian"=>"Gestione dell’integrazione dei processi finanziari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Fellerstrasse 21", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20043453", "name"=>{"german"=>"Dienst Integrationsmanagement Finanzprozesse", "french"=>"Service Gestion de l’intégration et processus financiers", "italian"=>"Servizio Gestione dell'integrazione die processi finanziari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043454", "name"=>{"german"=>"Finanz- und Rechnungswesen", "french"=>"Finances et comptabilité", "italian"=>"Finanze e contabilità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8253517", "surname"=>"Krattinger", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 33969", "function"=>{"german"=>"Leiter/in Finanzen", "french"=>"Responsable Finances", "italian"=>"Capo Finanze", "english"=>"Leiter/in Finanzen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008670", "label"=>{"german"=>"BBL", "french"=>"OFCL", "italian"=>"UFCL", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bauten und Logistik", "french"=>"Office fédéral des constructions et de la logistique", "italian"=>"Ufficio federale delle costruzioni e della logistica", "english"=>""}}, {"id"=>"10005978", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10006045", "label"=>{"german"=>"Management Services", "french"=>"Services de gestion", "italian"=>"Servizi di gestione", "english"=>""}, "name"=>{"german"=>"Management Services", "french"=>"Services de gestion", "italian"=>"Servizi di gestione", "english"=>""}}, {"id"=>"10006049", "label"=>{"german"=>"Integrationsmanagement Finanzen", "french"=>"Gestion de l'intégration et finances", "italian"=>"Gestione dell’integrazione dei processi finanziari", "english"=>""}, "name"=>{"german"=>"Integrationsmanagement Finanzen", "french"=>"Gestion de l'intégration et finances", "italian"=>"Gestione dell’integrazione dei processi finanziari", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10006049",
+  "name": {
+    "german": "Integrationsmanagement Finanzen",
+    "french": "Gestion de l'intégration et finances",
+    "italian": "Gestione dell’integrazione dei processi finanziari",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Fellerstrasse 21",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20043453",
+      "name": {
+        "german": "Dienst Integrationsmanagement Finanzprozesse",
+        "french": "Service Gestion de l’intégration et processus financiers",
+        "italian": "Servizio Gestione dell'integrazione die processi finanziari",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043454",
+      "name": {
+        "german": "Finanz- und Rechnungswesen",
+        "french": "Finances et comptabilité",
+        "italian": "Finanze e contabilità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8253517",
+      "surname": "Krattinger",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 33969",
+      "function": {
+        "german": "Leiter/in Finanzen",
+        "french": "Responsable Finances",
+        "italian": "Capo Finanze",
+        "english": "Leiter/in Finanzen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008670",
+      "label": {
+        "german": "BBL",
+        "french": "OFCL",
+        "italian": "UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bauten und Logistik",
+        "french": "Office fédéral des constructions et de la logistique",
+        "italian": "Ufficio federale delle costruzioni e della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005978",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006045",
+      "label": {
+        "german": "Management Services",
+        "french": "Services de gestion",
+        "italian": "Servizi di gestione",
+        "english": ""
+      },
+      "name": {
+        "german": "Management Services",
+        "french": "Services de gestion",
+        "italian": "Servizi di gestione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006049",
+      "label": {
+        "german": "Integrationsmanagement Finanzen",
+        "french": "Gestion de l'intégration et finances",
+        "italian": "Gestione dell’integrazione dei processi finanziari",
+        "english": ""
+      },
+      "name": {
+        "german": "Integrationsmanagement Finanzen",
+        "french": "Gestion de l'intégration et finances",
+        "italian": "Gestione dell’integrazione dei processi finanziari",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

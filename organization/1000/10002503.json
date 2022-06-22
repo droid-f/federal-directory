@@ -1,1 +1,168 @@
-{"id"=>"10002503", "name"=>{"german"=>"Infrastruktur", "french"=>"Infrastructure", "italian"=>"Infrastruttura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 4", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0828245", "surname"=>"Söhner-Bührer", "givenName"=>"Carole", "email"=>nil, "phone"=>"+41 58 46 49669", "function"=>{"german"=>"Vizedirektor/in", "french"=>"Sous-directeur/trice", "italian"=>"Vicedirettore/trice", "english"=>"Vizedirektor/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8451226", "surname"=>"Siebert Sutter", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 58 46 38304", "function"=>{"german"=>"Referent/in", "french"=>"Rapporteur", "italian"=>"Relatore/trice", "english"=>"Referent/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0855107", "surname"=>"Spühler", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 35659", "function"=>{"german"=>"Referent/in", "french"=>"Rapporteur", "italian"=>"Relatore/trice", "english"=>"Referent/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008676", "label"=>{"german"=>"WEKO", "french"=>"WEKO", "italian"=>"WEKO", "english"=>""}, "name"=>{"german"=>"Wettbewerbskommission", "french"=>"Commission de la concurrence", "italian"=>"Commissione della concorrenza", "english"=>""}}, {"id"=>"10002501", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Comité de direction", "italian"=>"Comitato di direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Comité de direction", "italian"=>"Comitato di direzione", "english"=>""}}, {"id"=>"10002503", "label"=>{"german"=>"Infrastruktur", "french"=>"Infrastructure", "italian"=>"Infrastruttura", "english"=>""}, "name"=>{"german"=>"Infrastruktur", "french"=>"Infrastructure", "italian"=>"Infrastruttura", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002503",
+  "name": {
+    "german": "Infrastruktur",
+    "french": "Infrastructure",
+    "italian": "Infrastruttura",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 4",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0828245",
+      "surname": "Söhner-Bührer",
+      "givenName": "Carole",
+      "email": null,
+      "phone": "+41 58 46 49669",
+      "function": {
+        "german": "Vizedirektor/in",
+        "french": "Sous-directeur/trice",
+        "italian": "Vicedirettore/trice",
+        "english": "Vizedirektor/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8451226",
+      "surname": "Siebert Sutter",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 58 46 38304",
+      "function": {
+        "german": "Referent/in",
+        "french": "Rapporteur",
+        "italian": "Relatore/trice",
+        "english": "Referent/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0855107",
+      "surname": "Spühler",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 35659",
+      "function": {
+        "german": "Referent/in",
+        "french": "Rapporteur",
+        "italian": "Relatore/trice",
+        "english": "Referent/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008676",
+      "label": {
+        "german": "WEKO",
+        "french": "WEKO",
+        "italian": "WEKO",
+        "english": ""
+      },
+      "name": {
+        "german": "Wettbewerbskommission",
+        "french": "Commission de la concurrence",
+        "italian": "Commissione della concorrenza",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002501",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Comité de direction",
+        "italian": "Comitato di direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Comité de direction",
+        "italian": "Comitato di direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002503",
+      "label": {
+        "german": "Infrastruktur",
+        "french": "Infrastructure",
+        "italian": "Infrastruttura",
+        "english": ""
+      },
+      "name": {
+        "german": "Infrastruktur",
+        "french": "Infrastructure",
+        "italian": "Infrastruttura",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

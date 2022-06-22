@@ -1,1 +1,155 @@
-{"id"=>"20031602", "name"=>{"german"=>"Externe Mitarbeitende", "french"=>"Externe Mitarbeitende", "italian"=>"Externe Mitarbeitende", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026307", "label"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}, "name"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}}, {"id"=>"20034930", "label"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}}, {"id"=>"20031602", "label"=>{"german"=>"Externe Mitarbeitende", "french"=>"Externe Mitarbeitende", "italian"=>"Externe Mitarbeitende", "english"=>""}, "name"=>{"german"=>"Externe Mitarbeitende", "french"=>"Externe Mitarbeitende", "italian"=>"Externe Mitarbeitende", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031602",
+  "name": {
+    "german": "Externe Mitarbeitende",
+    "french": "Externe Mitarbeitende",
+    "italian": "Externe Mitarbeitende",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026307",
+      "label": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034930",
+      "label": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031602",
+      "label": {
+        "german": "Externe Mitarbeitende",
+        "french": "Externe Mitarbeitende",
+        "italian": "Externe Mitarbeitende",
+        "english": ""
+      },
+      "name": {
+        "german": "Externe Mitarbeitende",
+        "french": "Externe Mitarbeitende",
+        "italian": "Externe Mitarbeitende",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

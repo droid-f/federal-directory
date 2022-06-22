@@ -1,1 +1,200 @@
-{"id"=>"20016976", "name"=>{"german"=>"Finanzausgleich", "french"=>"Péréquation financière", "italian"=>"Perequazione finanziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5658982", "surname"=>"Weber", "givenName"=>"Werner", "email"=>nil, "phone"=>"+41 58 46 29761", "function"=>{"german"=>"stv. Abteilungsleiter - Leiter Finanzausgleich", "french"=>"Chef suppléant de la division - Chef Péréquation financière", "italian"=>"Capo sostituto della divisione - Capo Perequazione finanziaria", "english"=>"stv. Abt.L. - Leiter/in Finanzausgleich"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8986051", "surname"=>"Utz", "givenName"=>"Pascal", "email"=>nil, "phone"=>"+41 58 46 48480", "function"=>{"german"=>"Stv. Leiter", "french"=>"Chef suppléant", "italian"=>"Capo sostituto", "english"=>"Stv. Leiter"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-0005806", "surname"=>"Kaufmann", "givenName"=>"Susanne", "email"=>nil, "phone"=>"+41 58 46 38639", "function"=>{"german"=>"Oekonomin", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonomin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6633033", "surname"=>"Witschard", "givenName"=>"Jean-Pierre", "email"=>nil, "phone"=>"+41 58 46 26418", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003259", "label"=>{"german"=>"Finanzpolitik, Finanzausgleich, Finanzstatistik", "french"=>"Politique budgétaire, péréquation financière, statistique financière", "italian"=>"Politica finanziaria, perequazione finanziaria, statistica finanziaria", "english"=>""}, "name"=>{"german"=>"Finanzpolitik, Finanzausgleich, Finanzstatistik", "french"=>"Politique budgétaire, péréquation financière, statistique financière", "italian"=>"Politica finanziaria, perequazione finanziaria, statistica finanziaria", "english"=>""}}, {"id"=>"20016976", "label"=>{"german"=>"Finanzausgleich", "french"=>"Péréquation financière", "italian"=>"Perequazione finanziaria", "english"=>""}, "name"=>{"german"=>"Finanzausgleich", "french"=>"Péréquation financière", "italian"=>"Perequazione finanziaria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20016976",
+  "name": {
+    "german": "Finanzausgleich",
+    "french": "Péréquation financière",
+    "italian": "Perequazione finanziaria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5658982",
+      "surname": "Weber",
+      "givenName": "Werner",
+      "email": null,
+      "phone": "+41 58 46 29761",
+      "function": {
+        "german": "stv. Abteilungsleiter - Leiter Finanzausgleich",
+        "french": "Chef suppléant de la division - Chef Péréquation financière",
+        "italian": "Capo sostituto della divisione - Capo Perequazione finanziaria",
+        "english": "stv. Abt.L. - Leiter/in Finanzausgleich"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8986051",
+      "surname": "Utz",
+      "givenName": "Pascal",
+      "email": null,
+      "phone": "+41 58 46 48480",
+      "function": {
+        "german": "Stv. Leiter",
+        "french": "Chef suppléant",
+        "italian": "Capo sostituto",
+        "english": "Stv. Leiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-0005806",
+      "surname": "Kaufmann",
+      "givenName": "Susanne",
+      "email": null,
+      "phone": "+41 58 46 38639",
+      "function": {
+        "german": "Oekonomin",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonomin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6633033",
+      "surname": "Witschard",
+      "givenName": "Jean-Pierre",
+      "email": null,
+      "phone": "+41 58 46 26418",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003259",
+      "label": {
+        "german": "Finanzpolitik, Finanzausgleich, Finanzstatistik",
+        "french": "Politique budgétaire, péréquation financière, statistique financière",
+        "italian": "Politica finanziaria, perequazione finanziaria, statistica finanziaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzpolitik, Finanzausgleich, Finanzstatistik",
+        "french": "Politique budgétaire, péréquation financière, statistique financière",
+        "italian": "Politica finanziaria, perequazione finanziaria, statistica finanziaria",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016976",
+      "label": {
+        "german": "Finanzausgleich",
+        "french": "Péréquation financière",
+        "italian": "Perequazione finanziaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzausgleich",
+        "french": "Péréquation financière",
+        "italian": "Perequazione finanziaria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

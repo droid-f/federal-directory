@@ -1,1 +1,262 @@
-{"id"=>"20000030", "name"=>{"german"=>"Sektion Schweizerisches Gesundheitsobservatorium", "french"=>"Section Observatoire suisse de la santé", "italian"=>"Sezione Osservatorio svizzero della salute", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20014877", "name"=>{"german"=>"Team 1", "french"=>"Team 1", "italian"=>"Team 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014876", "name"=>{"german"=>"Team 2", "french"=>"Team 2", "italian"=>"Team 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014878", "name"=>{"german"=>"Team 4", "french"=>"Team 4", "italian"=>"Team 4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021320", "name"=>{"german"=>"Team 3", "french"=>"Team 3", "italian"=>"Team 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043001", "name"=>{"german"=>"Team 5", "french"=>"Team 5", "italian"=>"Team 5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045854", "name"=>{"german"=>"Pool Extern Westschweiz", "french"=>"Pool Extern Westschweiz", "italian"=>"Pool Extern Westschweiz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9073077", "surname"=>"Widmer", "givenName"=>"Marcel", "email"=>nil, "phone"=>"+41 58 46 36895", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3437135", "surname"=>"Pellegrini", "givenName"=>"Sonia", "email"=>nil, "phone"=>"+41 58 46 36802", "function"=>{"german"=>"Bereichsleiter/in, Stv. SC", "french"=>"Bereichsleiter/in, Stv. SC", "italian"=>"Bereichsleiter/in, Stv. SC", "english"=>"Bereichsleiter/in, Stv. SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20002655", "label"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}, "name"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}}, {"id"=>"20000030", "label"=>{"german"=>"Sektion Schweizerisches Gesundheitsobservatorium", "french"=>"Section Observatoire suisse de la santé", "italian"=>"Sezione Osservatorio svizzero della salute", "english"=>""}, "name"=>{"german"=>"Sektion Schweizerisches Gesundheitsobservatorium", "french"=>"Section Observatoire suisse de la santé", "italian"=>"Sezione Osservatorio svizzero della salute", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000030",
+  "name": {
+    "german": "Sektion Schweizerisches Gesundheitsobservatorium",
+    "french": "Section Observatoire suisse de la santé",
+    "italian": "Sezione Osservatorio svizzero della salute",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20014877",
+      "name": {
+        "german": "Team 1",
+        "french": "Team 1",
+        "italian": "Team 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014876",
+      "name": {
+        "german": "Team 2",
+        "french": "Team 2",
+        "italian": "Team 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014878",
+      "name": {
+        "german": "Team 4",
+        "french": "Team 4",
+        "italian": "Team 4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021320",
+      "name": {
+        "german": "Team 3",
+        "french": "Team 3",
+        "italian": "Team 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043001",
+      "name": {
+        "german": "Team 5",
+        "french": "Team 5",
+        "italian": "Team 5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045854",
+      "name": {
+        "german": "Pool Extern Westschweiz",
+        "french": "Pool Extern Westschweiz",
+        "italian": "Pool Extern Westschweiz",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9073077",
+      "surname": "Widmer",
+      "givenName": "Marcel",
+      "email": null,
+      "phone": "+41 58 46 36895",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3437135",
+      "surname": "Pellegrini",
+      "givenName": "Sonia",
+      "email": null,
+      "phone": "+41 58 46 36802",
+      "function": {
+        "german": "Bereichsleiter/in, Stv. SC",
+        "french": "Bereichsleiter/in, Stv. SC",
+        "italian": "Bereichsleiter/in, Stv. SC",
+        "english": "Bereichsleiter/in, Stv. SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002655",
+      "label": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000030",
+      "label": {
+        "german": "Sektion Schweizerisches Gesundheitsobservatorium",
+        "french": "Section Observatoire suisse de la santé",
+        "italian": "Sezione Osservatorio svizzero della salute",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Schweizerisches Gesundheitsobservatorium",
+        "french": "Section Observatoire suisse de la santé",
+        "italian": "Sezione Osservatorio svizzero della salute",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

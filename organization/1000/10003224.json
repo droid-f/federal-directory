@@ -1,1 +1,230 @@
-{"id"=>"10003224", "name"=>{"german"=>"Direktionsbereich Direktzahlungen und Ländliche Entwicklung", "french"=>"Unité de direction Paiements directs et développement rural", "italian"=>"Unità di direzione Pagamenti diretti e sviluppo rurale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 165", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20014677", "name"=>{"german"=>"Backoffice", "french"=>"Backoffice", "italian"=>"Backoffice", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003233", "name"=>{"german"=>"Fachbereich Agrarökonomie, Raum und Strukturen", "french"=>"Secteur Economie agricole, espace rural et structures", "italian"=>"Settore Economic agricola, spazio rurale e strutture", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003228", "name"=>{"german"=>"Fachbereich Direktzahlungsgrundlagen", "french"=>"Secteur Paiements directs - Bases", "italian"=>"Settore Pagamenti diretti Basi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003227", "name"=>{"german"=>"Fachbereich Direktzahlungsprogramme", "french"=>"Secteur Paiements directs - Programmes", "italian"=>"Settore Pagamenti diretti Programmi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003231", "name"=>{"german"=>"Fachbereich Meliorationen", "french"=>"Secteur Améliorations foncières", "italian"=>"Settore Migliorie fondiarie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003232", "name"=>{"german"=>"Fachbereich Betriebsentwicklung und Bodenrecht", "french"=>"Secteur Bâtiments ruraux et aides aux exploitations", "italian"=>"Settore Edifici agricoli e aiuti per la conduzione aziendale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7299449", "surname"=>"Belk", "givenName"=>"Bernard", "email"=>nil, "phone"=>"+41 58 48 36560", "function"=>{"german"=>"Vizedirektor/in", "french"=>"Vice-directeur/trice", "italian"=>"Vicedirettore/trice", "english"=>"Vizedirektor/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003196", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Direktion BLW", "french"=>"Direction OFAG", "italian"=>"Direzione UFAG", "english"=>"Direktion BLW"}}, {"id"=>"10003224", "label"=>{"german"=>"Direktionsbereich Direktzahlungen und Ländliche Entwicklung", "french"=>"Unité de direction Paiements directs et développement rural", "italian"=>"Unità di direzione Pagamenti diretti e sviluppo rurale", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Direktzahlungen und Ländliche Entwicklung", "french"=>"Unité de direction Paiements directs et développement rural", "italian"=>"Unità di direzione Pagamenti diretti e sviluppo rurale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003224",
+  "name": {
+    "german": "Direktionsbereich Direktzahlungen und Ländliche Entwicklung",
+    "french": "Unité de direction Paiements directs et développement rural",
+    "italian": "Unità di direzione Pagamenti diretti e sviluppo rurale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 165",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20014677",
+      "name": {
+        "german": "Backoffice",
+        "french": "Backoffice",
+        "italian": "Backoffice",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003233",
+      "name": {
+        "german": "Fachbereich Agrarökonomie, Raum und Strukturen",
+        "french": "Secteur Economie agricole, espace rural et structures",
+        "italian": "Settore Economic agricola, spazio rurale e strutture",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003228",
+      "name": {
+        "german": "Fachbereich Direktzahlungsgrundlagen",
+        "french": "Secteur Paiements directs - Bases",
+        "italian": "Settore Pagamenti diretti Basi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003227",
+      "name": {
+        "german": "Fachbereich Direktzahlungsprogramme",
+        "french": "Secteur Paiements directs - Programmes",
+        "italian": "Settore Pagamenti diretti Programmi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003231",
+      "name": {
+        "german": "Fachbereich Meliorationen",
+        "french": "Secteur Améliorations foncières",
+        "italian": "Settore Migliorie fondiarie",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003232",
+      "name": {
+        "german": "Fachbereich Betriebsentwicklung und Bodenrecht",
+        "french": "Secteur Bâtiments ruraux et aides aux exploitations",
+        "italian": "Settore Edifici agricoli e aiuti per la conduzione aziendale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7299449",
+      "surname": "Belk",
+      "givenName": "Bernard",
+      "email": null,
+      "phone": "+41 58 48 36560",
+      "function": {
+        "german": "Vizedirektor/in",
+        "french": "Vice-directeur/trice",
+        "italian": "Vicedirettore/trice",
+        "english": "Vizedirektor/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003196",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Direktion BLW",
+        "french": "Direction OFAG",
+        "italian": "Direzione UFAG",
+        "english": "Direktion BLW"
+      }
+    },
+    {
+      "id": "10003224",
+      "label": {
+        "german": "Direktionsbereich Direktzahlungen und Ländliche Entwicklung",
+        "french": "Unité de direction Paiements directs et développement rural",
+        "italian": "Unità di direzione Pagamenti diretti e sviluppo rurale",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Direktzahlungen und Ländliche Entwicklung",
+        "french": "Unité de direction Paiements directs et développement rural",
+        "italian": "Unità di direzione Pagamenti diretti e sviluppo rurale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

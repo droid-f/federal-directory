@@ -1,1 +1,247 @@
-{"id"=>"10000510", "name"=>{"german"=>"Competence Center Human Resources (CCHR)", "french"=>"Centre de compétences Ressources humaines", "italian"=>"Centro di competenza Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 71", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037377", "name"=>{"german"=>"Service Management", "french"=>"Gestion des services", "italian"=>"Gestione dei servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025254", "name"=>{"german"=>"HR-Kernfunktionen", "french"=>"Fonctions principales des RH", "italian"=>"Funzioni principali RU", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025256", "name"=>{"german"=>"Talentanwendungen", "french"=>"Applications de gestion des talents", "italian"=>"Applicazioni del talento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050799", "name"=>{"german"=>"Support und Payroll", "french"=>"Assistance spécialisée et Payroll", "italian"=>"Supporto specialistico e Payroll", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050800", "name"=>{"german"=>"Technologie und Basisfunktionen", "french"=>"Technologie et fonctions de base", "italian"=>"Tecnologie e funzioni di base", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0964938", "surname"=>"Matter", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 78940", "function"=>{"german"=>"Leiter CCHR", "french"=>"Leiter CCHR", "italian"=>"Leiter CCHR", "english"=>"Leiter CCHR"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1407232", "surname"=>"Roth", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 26275", "function"=>{"german"=>"Leiter Talentanwendungen und Stellvertreter Leiter CCHR", "french"=>"Leiter Talentanwendungen und Stellvertreter Leiter CCHR", "italian"=>"Leiter Talentanwendungen und Stellvertreter Leiter CCHR", "english"=>"Leiter Talentanwend. u. Stv Leiter CCHR"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10000034", "label"=>{"german"=>"EPA", "french"=>"OFPER", "italian"=>"UFPER", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Personalamt", "french"=>"Office fédéral du personnel", "italian"=>"Ufficio federale del personale", "english"=>""}}, {"id"=>"10001850", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20014451", "label"=>{"german"=>"Personaldatenmanagement und Zentrale Dienste", "french"=>"Gestion des données du personnel et services centraux", "italian"=>"Gestione dei dati del personale e servizi centrali", "english"=>""}, "name"=>{"german"=>"Personaldatenmanagement und Zentrale Dienste", "french"=>"Gestion des données du personnel et services centraux", "italian"=>"Gestione dei dati del personale e servizi centrali", "english"=>""}}, {"id"=>"10000510", "label"=>{"german"=>"Competence Center Human Resources (CCHR)", "french"=>"Centre de compétences Ressources humaines", "italian"=>"Centro di competenza Risorse umane", "english"=>""}, "name"=>{"german"=>"Competence Center Human Resources (CCHR)", "french"=>"Centre de compétences Ressources humaines", "italian"=>"Centro di competenza Risorse umane", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000510",
+  "name": {
+    "german": "Competence Center Human Resources (CCHR)",
+    "french": "Centre de compétences Ressources humaines",
+    "italian": "Centro di competenza Risorse umane",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 71",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037377",
+      "name": {
+        "german": "Service Management",
+        "french": "Gestion des services",
+        "italian": "Gestione dei servizi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025254",
+      "name": {
+        "german": "HR-Kernfunktionen",
+        "french": "Fonctions principales des RH",
+        "italian": "Funzioni principali RU",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025256",
+      "name": {
+        "german": "Talentanwendungen",
+        "french": "Applications de gestion des talents",
+        "italian": "Applicazioni del talento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050799",
+      "name": {
+        "german": "Support und Payroll",
+        "french": "Assistance spécialisée et Payroll",
+        "italian": "Supporto specialistico e Payroll",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050800",
+      "name": {
+        "german": "Technologie und Basisfunktionen",
+        "french": "Technologie et fonctions de base",
+        "italian": "Tecnologie e funzioni di base",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0964938",
+      "surname": "Matter",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 78940",
+      "function": {
+        "german": "Leiter CCHR",
+        "french": "Leiter CCHR",
+        "italian": "Leiter CCHR",
+        "english": "Leiter CCHR"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1407232",
+      "surname": "Roth",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 26275",
+      "function": {
+        "german": "Leiter Talentanwendungen und Stellvertreter Leiter CCHR",
+        "french": "Leiter Talentanwendungen und Stellvertreter Leiter CCHR",
+        "italian": "Leiter Talentanwendungen und Stellvertreter Leiter CCHR",
+        "english": "Leiter Talentanwend. u. Stv Leiter CCHR"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000034",
+      "label": {
+        "german": "EPA",
+        "french": "OFPER",
+        "italian": "UFPER",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Personalamt",
+        "french": "Office fédéral du personnel",
+        "italian": "Ufficio federale del personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001850",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014451",
+      "label": {
+        "german": "Personaldatenmanagement und Zentrale Dienste",
+        "french": "Gestion des données du personnel et services centraux",
+        "italian": "Gestione dei dati del personale e servizi centrali",
+        "english": ""
+      },
+      "name": {
+        "german": "Personaldatenmanagement und Zentrale Dienste",
+        "french": "Gestion des données du personnel et services centraux",
+        "italian": "Gestione dei dati del personale e servizi centrali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000510",
+      "label": {
+        "german": "Competence Center Human Resources (CCHR)",
+        "french": "Centre de compétences Ressources humaines",
+        "italian": "Centro di competenza Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Competence Center Human Resources (CCHR)",
+        "french": "Centre de compétences Ressources humaines",
+        "italian": "Centro di competenza Risorse umane",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

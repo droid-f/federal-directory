@@ -1,1 +1,215 @@
-{"id"=>"10001128", "name"=>{"german"=>"Abteilung Afrika", "french"=>"Division Afrique", "italian"=>"Divisione Africa", "english"=>"Division Africa"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20048685", "name"=>{"german"=>"AFR Team Finanzen und Administration", "french"=>"AFR Team Finance et Administration", "italian"=>"AFR Team Finanze e Amministrazione", "english"=>"AFR Team Finance and Administration"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048686", "name"=>{"german"=>"AFR Team Protection/Migration/SGBV", "french"=>"AFR Team Protection/Migration/SGBV", "italian"=>"AFR Team Protection/Migration/SGBV", "english"=>"AFR Team Protection/Migration/SGBV"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048687", "name"=>{"german"=>"AFR Team Wash", "french"=>"AFR Team Wash", "italian"=>"AFR Team Wash", "english"=>"AFR Team Wash"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048688", "name"=>{"german"=>"AFR Team Subsahara-Afrika", "french"=>"AFR Team Afrique Sub-Saharienne", "italian"=>"AFR Team Africa Sub-Sahariana", "english"=>"AFR Team Sub-Saharan Africa"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014727", "name"=>{"german"=>"Programmbüro Juba", "french"=>"Bureau de programme Djouba", "italian"=>"Ufficio di programma Juba", "english"=>"Juba Programme Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5631927", "surname"=>"Etter Lindegger", "givenName"=>"Manuel", "email"=>nil, "phone"=>"+41 58 46 26328", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}, {"id"=>"10000714", "label"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}, "name"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}}, {"id"=>"10001128", "label"=>{"german"=>"Abteilung Afrika", "french"=>"Division Afrique", "italian"=>"Divisione Africa", "english"=>"Division Africa"}, "name"=>{"german"=>"Abteilung Afrika", "french"=>"Division Afrique", "italian"=>"Divisione Africa", "english"=>"Division Africa"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10001128",
+  "name": {
+    "german": "Abteilung Afrika",
+    "french": "Division Afrique",
+    "italian": "Divisione Africa",
+    "english": "Division Africa"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20048685",
+      "name": {
+        "german": "AFR Team Finanzen und Administration",
+        "french": "AFR Team Finance et Administration",
+        "italian": "AFR Team Finanze e Amministrazione",
+        "english": "AFR Team Finance and Administration"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048686",
+      "name": {
+        "german": "AFR Team Protection/Migration/SGBV",
+        "french": "AFR Team Protection/Migration/SGBV",
+        "italian": "AFR Team Protection/Migration/SGBV",
+        "english": "AFR Team Protection/Migration/SGBV"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048687",
+      "name": {
+        "german": "AFR Team Wash",
+        "french": "AFR Team Wash",
+        "italian": "AFR Team Wash",
+        "english": "AFR Team Wash"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048688",
+      "name": {
+        "german": "AFR Team Subsahara-Afrika",
+        "french": "AFR Team Afrique Sub-Saharienne",
+        "italian": "AFR Team Africa Sub-Sahariana",
+        "english": "AFR Team Sub-Saharan Africa"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014727",
+      "name": {
+        "german": "Programmbüro Juba",
+        "french": "Bureau de programme Djouba",
+        "italian": "Ufficio di programma Juba",
+        "english": "Juba Programme Office"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5631927",
+      "surname": "Etter Lindegger",
+      "givenName": "Manuel",
+      "email": null,
+      "phone": "+41 58 46 26328",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    },
+    {
+      "id": "10000714",
+      "label": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      },
+      "name": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      }
+    },
+    {
+      "id": "10001128",
+      "label": {
+        "german": "Abteilung Afrika",
+        "french": "Division Afrique",
+        "italian": "Divisione Africa",
+        "english": "Division Africa"
+      },
+      "name": {
+        "german": "Abteilung Afrika",
+        "french": "Division Afrique",
+        "italian": "Divisione Africa",
+        "english": "Division Africa"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

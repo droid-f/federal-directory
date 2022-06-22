@@ -1,1 +1,158 @@
-{"id"=>"12060703@12.06", "name"=>{"german"=>"Softwareentwicklung", "french"=>"Développement de logiciels", "italian"=>"Sviluppo software", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>216, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-2003545", "surname"=>"Zandee", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 31 377 75 95", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>217, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-9179585", "surname"=>"Plattner", "givenName"=>"Urs", "email"=>nil, "phone"=>"+41 31 377 75 82", "function"=>{"german"=>"Stellvertretung", "french"=>"Stellvertretung", "italian"=>"Stellvertretung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060700@12.06", "label"=>{"german"=>"Technologie- & Infrastrukturservices", "french"=>"Services technologiques & Infrastructure", "italian"=>"Servizi tecnologici & Infrastruttura", "english"=>""}, "name"=>{"german"=>"Technologie- & Infrastrukturservices", "french"=>"Services technologiques & Infrastructure", "italian"=>"Servizi tecnologici & Infrastruttura", "english"=>""}}, {"id"=>"12060703@12.06", "label"=>{"german"=>"Softwareentwicklung", "french"=>"Développement de logiciels", "italian"=>"Sviluppo software", "english"=>""}, "name"=>{"german"=>"Softwareentwicklung", "french"=>"Développement de logiciels", "italian"=>"Sviluppo software", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060703@12.06",
+  "name": {
+    "german": "Softwareentwicklung",
+    "french": "Développement de logiciels",
+    "italian": "Sviluppo software",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 216,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-2003545",
+      "surname": "Zandee",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 31 377 75 95",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 217,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-9179585",
+      "surname": "Plattner",
+      "givenName": "Urs",
+      "email": null,
+      "phone": "+41 31 377 75 82",
+      "function": {
+        "german": "Stellvertretung",
+        "french": "Stellvertretung",
+        "italian": "Stellvertretung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060700@12.06",
+      "label": {
+        "german": "Technologie- & Infrastrukturservices",
+        "french": "Services technologiques & Infrastructure",
+        "italian": "Servizi tecnologici & Infrastruttura",
+        "english": ""
+      },
+      "name": {
+        "german": "Technologie- & Infrastrukturservices",
+        "french": "Services technologiques & Infrastructure",
+        "italian": "Servizi tecnologici & Infrastruttura",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060703@12.06",
+      "label": {
+        "german": "Softwareentwicklung",
+        "french": "Développement de logiciels",
+        "italian": "Sviluppo software",
+        "english": ""
+      },
+      "name": {
+        "german": "Softwareentwicklung",
+        "french": "Développement de logiciels",
+        "italian": "Sviluppo software",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

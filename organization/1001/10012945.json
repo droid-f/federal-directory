@@ -1,1 +1,247 @@
-{"id"=>"10012945", "name"=>{"german"=>"Rekrutierungszentrum Mels", "french"=>"Centre de recrutement Mels", "italian"=>"Centro di reclutamento Mels", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pöltistrasse 40", "postalCode"=>"8887", "location"=>"Mels", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042600", "name"=>{"german"=>"Kommandant Stv Rekr Zen Mels", "french"=>"Rempl commandant Cen recr Mels", "italian"=>"Sost cdt Cen recl Mels", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017212", "name"=>{"german"=>"Führungsunterstützung Rekr Zen Mels", "french"=>"Aide au commandement Cen recr Mels", "italian"=>"Aiuto alla condotta Cen recl Mels", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017211", "name"=>{"german"=>"Psychologen Rekr Zen Mels", "french"=>"Psychologues Cen recr Mels", "italian"=>"Psicologi Cen recl Mels", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8160922", "surname"=>"Bänziger", "givenName"=>"Raymond", "email"=>nil, "phone"=>"+41 58 48 33553", "function"=>{"german"=>"Kommandant Rekrutierungszentrum", "french"=>"Commandant Centre de recrutement", "italian"=>"Comandante centro di reclutamento", "english"=>"Kommandant Rekrutierungszentrum"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4797839", "surname"=>"Stucki", "givenName"=>"Urs", "email"=>nil, "phone"=>"+41 58 46 63706", "function"=>{"german"=>"Stv Kdt Rekr Zen", "french"=>"Rempl cdt cen recr", "italian"=>"Sost cdt cen recl", "english"=>"Stv Kdt Rekr Zen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"10004760", "label"=>{"german"=>"PERSA", "french"=>"PERSA", "italian"=>"PERSA", "english"=>""}, "name"=>{"german"=>"Personelles der Armee", "french"=>"Personnel de l'armée", "italian"=>"Personale dell'esercito", "english"=>""}}, {"id"=>"10004767", "label"=>{"german"=>"Rekrutierung", "french"=>"Recrutement", "italian"=>"Reclutamento", "english"=>""}, "name"=>{"german"=>"Rekrutierung", "french"=>"Recrutement", "italian"=>"Reclutamento", "english"=>""}}, {"id"=>"10012945", "label"=>{"german"=>"Rekrutierungszentrum Mels", "french"=>"Centre de recrutement Mels", "italian"=>"Centro di reclutamento Mels", "english"=>""}, "name"=>{"german"=>"Rekrutierungszentrum Mels", "french"=>"Centre de recrutement Mels", "italian"=>"Centro di reclutamento Mels", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10012945",
+  "name": {
+    "german": "Rekrutierungszentrum Mels",
+    "french": "Centre de recrutement Mels",
+    "italian": "Centro di reclutamento Mels",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pöltistrasse 40",
+    "postalCode": "8887",
+    "location": "Mels",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042600",
+      "name": {
+        "german": "Kommandant Stv Rekr Zen Mels",
+        "french": "Rempl commandant Cen recr Mels",
+        "italian": "Sost cdt Cen recl Mels",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017212",
+      "name": {
+        "german": "Führungsunterstützung Rekr Zen Mels",
+        "french": "Aide au commandement Cen recr Mels",
+        "italian": "Aiuto alla condotta Cen recl Mels",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017211",
+      "name": {
+        "german": "Psychologen Rekr Zen Mels",
+        "french": "Psychologues Cen recr Mels",
+        "italian": "Psicologi Cen recl Mels",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8160922",
+      "surname": "Bänziger",
+      "givenName": "Raymond",
+      "email": null,
+      "phone": "+41 58 48 33553",
+      "function": {
+        "german": "Kommandant Rekrutierungszentrum",
+        "french": "Commandant Centre de recrutement",
+        "italian": "Comandante centro di reclutamento",
+        "english": "Kommandant Rekrutierungszentrum"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4797839",
+      "surname": "Stucki",
+      "givenName": "Urs",
+      "email": null,
+      "phone": "+41 58 46 63706",
+      "function": {
+        "german": "Stv Kdt Rekr Zen",
+        "french": "Rempl cdt cen recr",
+        "italian": "Sost cdt cen recl",
+        "english": "Stv Kdt Rekr Zen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004760",
+      "label": {
+        "german": "PERSA",
+        "french": "PERSA",
+        "italian": "PERSA",
+        "english": ""
+      },
+      "name": {
+        "german": "Personelles der Armee",
+        "french": "Personnel de l'armée",
+        "italian": "Personale dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004767",
+      "label": {
+        "german": "Rekrutierung",
+        "french": "Recrutement",
+        "italian": "Reclutamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Rekrutierung",
+        "french": "Recrutement",
+        "italian": "Reclutamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012945",
+      "label": {
+        "german": "Rekrutierungszentrum Mels",
+        "french": "Centre de recrutement Mels",
+        "italian": "Centro di reclutamento Mels",
+        "english": ""
+      },
+      "name": {
+        "german": "Rekrutierungszentrum Mels",
+        "french": "Centre de recrutement Mels",
+        "italian": "Centro di reclutamento Mels",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

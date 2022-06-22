@@ -1,1 +1,214 @@
-{"id"=>"60031900@11.05", "name"=>{"german"=>"HR Management Business Areas", "french"=>"HR Management Business Areas", "italian"=>"HR Management Business Areas", "english"=>""}, "nameAbbr"=>{"german"=>"GFHB", "french"=>"GFHB", "italian"=>"GFHB", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Flugsicherungsstrasse", "postalCode"=>"8602", "location"=>"Wangen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"60031919@11.05", "name"=>{"german"=>"HR Management AIR", "french"=>"HR Management AIR", "italian"=>"HR Management AIR", "english"=>""}, "nameAbbr"=>{"german"=>"GFHBB", "french"=>"GFHBB", "italian"=>"GFHBB", "english"=>""}}, {"id"=>"60031920@11.05", "name"=>{"german"=>"HR Management GROUND", "french"=>"HR Management GROUND", "italian"=>"HR Management GROUND", "english"=>""}, "nameAbbr"=>{"german"=>"GFHBC", "french"=>"GFHBC", "italian"=>"GFHBC", "english"=>""}}, {"id"=>"60031921@11.05", "name"=>{"german"=>"HR Management Real Estate", "french"=>"HR Management Real Estate", "italian"=>"HR Management Real Estate", "english"=>""}, "nameAbbr"=>{"german"=>"GFHBD", "french"=>"GFHBD", "italian"=>"GFHBD", "english"=>""}}, {"id"=>"60031918@11.05", "name"=>{"german"=>"HR Management T&S", "french"=>"HR Management T&S", "italian"=>"HR Management T&S", "english"=>""}, "nameAbbr"=>{"german"=>"GFHBA", "french"=>"GFHBA", "italian"=>"GFHBA", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031755@11.05", "label"=>{"german"=>"GFH", "french"=>"GFH", "italian"=>"GFH", "english"=>""}, "name"=>{"german"=>"Group Human Ressources", "french"=>"Group Human Ressources", "italian"=>"Group Human Ressources", "english"=>""}}, {"id"=>"60031900@11.05", "label"=>{"german"=>"GFHB", "french"=>"GFHB", "italian"=>"GFHB", "english"=>""}, "name"=>{"german"=>"HR Management Business Areas", "french"=>"HR Management Business Areas", "italian"=>"HR Management Business Areas", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60031900@11.05",
+  "name": {
+    "german": "HR Management Business Areas",
+    "french": "HR Management Business Areas",
+    "italian": "HR Management Business Areas",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "GFHB",
+    "french": "GFHB",
+    "italian": "GFHB",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Flugsicherungsstrasse",
+    "postalCode": "8602",
+    "location": "Wangen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "60031919@11.05",
+      "name": {
+        "german": "HR Management AIR",
+        "french": "HR Management AIR",
+        "italian": "HR Management AIR",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFHBB",
+        "french": "GFHBB",
+        "italian": "GFHBB",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031920@11.05",
+      "name": {
+        "german": "HR Management GROUND",
+        "french": "HR Management GROUND",
+        "italian": "HR Management GROUND",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFHBC",
+        "french": "GFHBC",
+        "italian": "GFHBC",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031921@11.05",
+      "name": {
+        "german": "HR Management Real Estate",
+        "french": "HR Management Real Estate",
+        "italian": "HR Management Real Estate",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFHBD",
+        "french": "GFHBD",
+        "italian": "GFHBD",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031918@11.05",
+      "name": {
+        "german": "HR Management T&S",
+        "french": "HR Management T&S",
+        "italian": "HR Management T&S",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFHBA",
+        "french": "GFHBA",
+        "italian": "GFHBA",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031755@11.05",
+      "label": {
+        "german": "GFH",
+        "french": "GFH",
+        "italian": "GFH",
+        "english": ""
+      },
+      "name": {
+        "german": "Group Human Ressources",
+        "french": "Group Human Ressources",
+        "italian": "Group Human Ressources",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031900@11.05",
+      "label": {
+        "german": "GFHB",
+        "french": "GFHB",
+        "italian": "GFHB",
+        "english": ""
+      },
+      "name": {
+        "german": "HR Management Business Areas",
+        "french": "HR Management Business Areas",
+        "italian": "HR Management Business Areas",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,183 @@
-{"id"=>"20038901", "name"=>{"german"=>"Externe MA Erweiterungsbeitrag/Kohäsion", "french"=>"Externe MA WEKO", "italian"=>"Externe MA WEKO", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-7179929", "surname"=>"Python", "givenName"=>"Roland", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Externe/r Mitarbeiter/in WEKO", "french"=>"Externe/r Mitarbeiter/in WEKO", "italian"=>"Externe/r Mitarbeiter/in WEKO", "english"=>"Externe/r Mitarbeiter/in WEKO"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"20004879", "label"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}, "name"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}}, {"id"=>"10004199", "label"=>{"german"=>"Wirtschaftliche Zusammenarbeit und Entwicklung", "french"=>"Coopération et développement économiques", "italian"=>"Cooperazione e sviluppo economici", "english"=>""}, "name"=>{"german"=>"Wirtschaftliche Zusammenarbeit und Entwicklung", "french"=>"Coopération et développement économiques", "italian"=>"Cooperazione e sviluppo economici", "english"=>""}}, {"id"=>"10004200", "label"=>{"german"=>"Schweizer Beitrag an EU-Mitgliedstaaten / Kohäsion", "french"=>"Contribution Suisse en faveur des pays membres de l'UE / Cohésion", "italian"=>"Contributo all'allargamento / Coesione", "english"=>""}, "name"=>{"german"=>"Schweizer Beitrag an EU-Mitgliedstaaten / Kohäsion", "french"=>"Contribution Suisse en faveur des pays membres de l'UE / Cohésion", "italian"=>"Contributo all'allargamento / Coesione", "english"=>""}}, {"id"=>"20038901", "label"=>{"german"=>"Externe MA Erweiterungsbeitrag/Kohäsion", "french"=>"Externe MA WEKO", "italian"=>"Externe MA WEKO", "english"=>""}, "name"=>{"german"=>"Externe MA Erweiterungsbeitrag/Kohäsion", "french"=>"Externe MA WEKO", "italian"=>"Externe MA WEKO", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038901",
+  "name": {
+    "german": "Externe MA Erweiterungsbeitrag/Kohäsion",
+    "french": "Externe MA WEKO",
+    "italian": "Externe MA WEKO",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-7179929",
+      "surname": "Python",
+      "givenName": "Roland",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Externe/r Mitarbeiter/in WEKO",
+        "french": "Externe/r Mitarbeiter/in WEKO",
+        "italian": "Externe/r Mitarbeiter/in WEKO",
+        "english": "Externe/r Mitarbeiter/in WEKO"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004879",
+      "label": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004199",
+      "label": {
+        "german": "Wirtschaftliche Zusammenarbeit und Entwicklung",
+        "french": "Coopération et développement économiques",
+        "italian": "Cooperazione e sviluppo economici",
+        "english": ""
+      },
+      "name": {
+        "german": "Wirtschaftliche Zusammenarbeit und Entwicklung",
+        "french": "Coopération et développement économiques",
+        "italian": "Cooperazione e sviluppo economici",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004200",
+      "label": {
+        "german": "Schweizer Beitrag an EU-Mitgliedstaaten / Kohäsion",
+        "french": "Contribution Suisse en faveur des pays membres de l'UE / Cohésion",
+        "italian": "Contributo all'allargamento / Coesione",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizer Beitrag an EU-Mitgliedstaaten / Kohäsion",
+        "french": "Contribution Suisse en faveur des pays membres de l'UE / Cohésion",
+        "italian": "Contributo all'allargamento / Coesione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038901",
+      "label": {
+        "german": "Externe MA Erweiterungsbeitrag/Kohäsion",
+        "french": "Externe MA WEKO",
+        "italian": "Externe MA WEKO",
+        "english": ""
+      },
+      "name": {
+        "german": "Externe MA Erweiterungsbeitrag/Kohäsion",
+        "french": "Externe MA WEKO",
+        "italian": "Externe MA WEKO",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

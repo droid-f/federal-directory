@@ -1,1 +1,181 @@
-{"id"=>"12090140@12.09", "name"=>{"german"=>"Forschung und Entwicklung", "french"=>"Recherche et développement", "italian"=>"Ricerca e sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kirchlindachstrasse 79", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 458 27 00", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>424, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-10002071", "surname"=>"Baumeler", "givenName"=>"Carmen", "email"=>nil, "phone"=>"+41 58 458 27 91", "function"=>{"german"=>"Nationale Leiterin Forschung und Entwicklung", "french"=>"Nationale Leiterin Forschung und Entwicklung", "italian"=>"Nationale Leiterin Forschung und Entwicklung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-10002074", "surname"=>"Barabasch", "givenName"=>"Antje", "email"=>nil, "phone"=>"+41 58 458 27 89", "function"=>{"german"=>"Leiterin Forschungsschwerpunkt 1", "french"=>"Leiterin Forschungsschwerpunkt 1", "italian"=>"Leiterin Forschungsschwerpunkt 1", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002077", "surname"=>"Caprani", "givenName"=>"Isabelle", "email"=>nil, "phone"=>"+41 58 458 22 57", "function"=>{"german"=>"Leiterin Forschungsschwerpunkt 2", "french"=>"Leiterin Forschungsschwerpunkt 2", "italian"=>"Leiterin Forschungsschwerpunkt 2", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002080", "surname"=>"Irene", "givenName"=>"Kriesi", "email"=>nil, "phone"=>"+41 58 458 28 27", "function"=>{"german"=>"Leiterin Forschungsschwerpunkt 3", "french"=>"Leiterin Forschungsschwerpunkt 3", "italian"=>"Leiterin Forschungsschwerpunkt 3", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002083", "surname"=>"Schweri", "givenName"=>"Jürg", "email"=>nil, "phone"=>"+41 58 458 27 82", "function"=>{"german"=>"Leiter Forschungsschwerpunkt 3", "french"=>"Leiter Forschungsschwerpunkt 3", "italian"=>"Leiter Forschungsschwerpunkt 3", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"12090100@12.09", "label"=>{"german"=>"EHB", "french"=>"HEFP", "italian"=>"SUFFP", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Berufsbildung", "french"=>"Haute école fédérale en formation professionnelle", "italian"=>"Scuola universitaria federale per la formazione professionale", "english"=>""}}, {"id"=>"12090140@12.09", "label"=>{"german"=>"Forschung und Entwicklung", "french"=>"Recherche et développement", "italian"=>"Ricerca e sviluppo", "english"=>""}, "name"=>{"german"=>"Forschung und Entwicklung", "french"=>"Recherche et développement", "italian"=>"Ricerca e sviluppo", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12090140@12.09",
+  "name": {
+    "german": "Forschung und Entwicklung",
+    "french": "Recherche et développement",
+    "italian": "Ricerca e sviluppo",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kirchlindachstrasse 79",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 458 27 00",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 424,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-10002071",
+      "surname": "Baumeler",
+      "givenName": "Carmen",
+      "email": null,
+      "phone": "+41 58 458 27 91",
+      "function": {
+        "german": "Nationale Leiterin Forschung und Entwicklung",
+        "french": "Nationale Leiterin Forschung und Entwicklung",
+        "italian": "Nationale Leiterin Forschung und Entwicklung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-10002074",
+      "surname": "Barabasch",
+      "givenName": "Antje",
+      "email": null,
+      "phone": "+41 58 458 27 89",
+      "function": {
+        "german": "Leiterin Forschungsschwerpunkt 1",
+        "french": "Leiterin Forschungsschwerpunkt 1",
+        "italian": "Leiterin Forschungsschwerpunkt 1",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002077",
+      "surname": "Caprani",
+      "givenName": "Isabelle",
+      "email": null,
+      "phone": "+41 58 458 22 57",
+      "function": {
+        "german": "Leiterin Forschungsschwerpunkt 2",
+        "french": "Leiterin Forschungsschwerpunkt 2",
+        "italian": "Leiterin Forschungsschwerpunkt 2",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002080",
+      "surname": "Irene",
+      "givenName": "Kriesi",
+      "email": null,
+      "phone": "+41 58 458 28 27",
+      "function": {
+        "german": "Leiterin Forschungsschwerpunkt 3",
+        "french": "Leiterin Forschungsschwerpunkt 3",
+        "italian": "Leiterin Forschungsschwerpunkt 3",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002083",
+      "surname": "Schweri",
+      "givenName": "Jürg",
+      "email": null,
+      "phone": "+41 58 458 27 82",
+      "function": {
+        "german": "Leiter Forschungsschwerpunkt 3",
+        "french": "Leiter Forschungsschwerpunkt 3",
+        "italian": "Leiter Forschungsschwerpunkt 3",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "12090100@12.09",
+      "label": {
+        "german": "EHB",
+        "french": "HEFP",
+        "italian": "SUFFP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Berufsbildung",
+        "french": "Haute école fédérale en formation professionnelle",
+        "italian": "Scuola universitaria federale per la formazione professionale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12090140@12.09",
+      "label": {
+        "german": "Forschung und Entwicklung",
+        "french": "Recherche et développement",
+        "italian": "Ricerca e sviluppo",
+        "english": ""
+      },
+      "name": {
+        "german": "Forschung und Entwicklung",
+        "french": "Recherche et développement",
+        "italian": "Ricerca e sviluppo",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

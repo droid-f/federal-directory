@@ -1,1 +1,213 @@
-{"id"=>"20000334", "name"=>{"german"=>"HR-Entwicklung", "french"=>"Développement RH", "italian"=>"Sviluppo RU", "english"=>"HR Development"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20045777", "name"=>{"german"=>"Family Office", "french"=>"Family Office", "italian"=>"Family Office", "english"=>"Family Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000331", "name"=>{"german"=>"Profile und Gewinnung", "french"=>"Profils et recrutement", "italian"=>"Profili e reclutamento", "english"=>"Profiles and Recruitment"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000336", "name"=>{"german"=>"Bildung und Entwicklung", "french"=>"Formation et développement", "italian"=>"Formazione e sviluppo", "english"=>"Education and Development"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000335", "name"=>{"german"=>"Führung und Führungsentwicklung", "french"=>"Conduite et développement des compétences de conduite", "italian"=>"Conduzione e sviluppo delle competenze di conduzione", "english"=>"Leadership and Leadership Development"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9142870", "surname"=>"Rohr", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 49996", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8902378", "surname"=>"Morel", "givenName"=>"Aurélie", "email"=>nil, "phone"=>"+41 58 46 54361", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"10000584", "label"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}, "name"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}}, {"id"=>"20000334", "label"=>{"german"=>"HR-Entwicklung", "french"=>"Développement RH", "italian"=>"Sviluppo RU", "english"=>"HR Development"}, "name"=>{"german"=>"HR-Entwicklung", "french"=>"Développement RH", "italian"=>"Sviluppo RU", "english"=>"HR Development"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000334",
+  "name": {
+    "german": "HR-Entwicklung",
+    "french": "Développement RH",
+    "italian": "Sviluppo RU",
+    "english": "HR Development"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20045777",
+      "name": {
+        "german": "Family Office",
+        "french": "Family Office",
+        "italian": "Family Office",
+        "english": "Family Office"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000331",
+      "name": {
+        "german": "Profile und Gewinnung",
+        "french": "Profils et recrutement",
+        "italian": "Profili e reclutamento",
+        "english": "Profiles and Recruitment"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000336",
+      "name": {
+        "german": "Bildung und Entwicklung",
+        "french": "Formation et développement",
+        "italian": "Formazione e sviluppo",
+        "english": "Education and Development"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000335",
+      "name": {
+        "german": "Führung und Führungsentwicklung",
+        "french": "Conduite et développement des compétences de conduite",
+        "italian": "Conduzione e sviluppo delle competenze di conduzione",
+        "english": "Leadership and Leadership Development"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9142870",
+      "surname": "Rohr",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 49996",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8902378",
+      "surname": "Morel",
+      "givenName": "Aurélie",
+      "email": null,
+      "phone": "+41 58 46 54361",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "10000584",
+      "label": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      },
+      "name": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      }
+    },
+    {
+      "id": "20000334",
+      "label": {
+        "german": "HR-Entwicklung",
+        "french": "Développement RH",
+        "italian": "Sviluppo RU",
+        "english": "HR Development"
+      },
+      "name": {
+        "german": "HR-Entwicklung",
+        "french": "Développement RH",
+        "italian": "Sviluppo RU",
+        "english": "HR Development"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,214 @@
-{"id"=>"10000056", "name"=>{"german"=>"Heer", "french"=>"Forces terrestres", "italian"=>"Forze terrestri", "english"=>""}, "nameAbbr"=>{"german"=>"HEER", "french"=>"FT", "italian"=>"FT", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003315", "name"=>{"german"=>"Heeresstab / Stv Kdt Heer", "french"=>"EM Forces terrestres / rempl cdt FT", "italian"=>"SM Forze terrestri/sost cdt FT", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017430", "name"=>{"german"=>"Kompetenzzentrum Fhr u Fach Systeme", "french"=>"Cc des systèmes de conduite et techn", "italian"=>"Centro di comp sistemi cond e spec", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003374", "name"=>{"german"=>"Mechanisierte Brigade 1", "french"=>"Brigade mécanisée 1", "italian"=>"Brigata meccanizzata 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003369", "name"=>{"german"=>"Mechanisierte Brigade 4", "french"=>"Brigade mécanisée 4", "italian"=>"Brigata meccanizzata 4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003375", "name"=>{"german"=>"Mechanisierte Brigade 11", "french"=>"Brigade mécanisée 11", "italian"=>"Brigata meccanizzata 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10000056", "label"=>{"german"=>"HEER", "french"=>"FT", "italian"=>"FT", "english"=>""}, "name"=>{"german"=>"Heer", "french"=>"Forces terrestres", "italian"=>"Forze terrestri", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000056",
+  "name": {
+    "german": "Heer",
+    "french": "Forces terrestres",
+    "italian": "Forze terrestri",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "HEER",
+    "french": "FT",
+    "italian": "FT",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003315",
+      "name": {
+        "german": "Heeresstab / Stv Kdt Heer",
+        "french": "EM Forces terrestres / rempl cdt FT",
+        "italian": "SM Forze terrestri/sost cdt FT",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017430",
+      "name": {
+        "german": "Kompetenzzentrum Fhr u Fach Systeme",
+        "french": "Cc des systèmes de conduite et techn",
+        "italian": "Centro di comp sistemi cond e spec",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003374",
+      "name": {
+        "german": "Mechanisierte Brigade 1",
+        "french": "Brigade mécanisée 1",
+        "italian": "Brigata meccanizzata 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003369",
+      "name": {
+        "german": "Mechanisierte Brigade 4",
+        "french": "Brigade mécanisée 4",
+        "italian": "Brigata meccanizzata 4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003375",
+      "name": {
+        "german": "Mechanisierte Brigade 11",
+        "french": "Brigade mécanisée 11",
+        "italian": "Brigata meccanizzata 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000056",
+      "label": {
+        "german": "HEER",
+        "french": "FT",
+        "italian": "FT",
+        "english": ""
+      },
+      "name": {
+        "german": "Heer",
+        "french": "Forces terrestres",
+        "italian": "Forze terrestri",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,168 @@
-{"id"=>"20027931", "name"=>{"german"=>"Regionalkoordination Nord- und Zentralamerika", "french"=>"Coordination régionale Amérique du Nord et centrale", "italian"=>"Coordinamento regionale America del Nord e centrale", "english"=>"Regional Coordination North and Central America"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10000632", "name"=>{"german"=>"Dienst für Fremde Interessen", "french"=>"Service des intérêts étrangers", "italian"=>"Servizio degli interessi stranieri", "english"=>"Foreign Interests Service"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3026985", "surname"=>"Bleisch", "givenName"=>"Charlotte", "email"=>nil, "phone"=>"+41 58 46 23059", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6251967", "surname"=>"Guyot", "givenName"=>"Alexandre", "email"=>nil, "phone"=>"+41 58 48 50455", "function"=>{"german"=>"Diplomatische/r Mitarbeiter/in", "french"=>"Diplomatische/r Mitarbeiter/in", "italian"=>"Diplomatische/r Mitarbeiter/in", "english"=>"Diplomatische/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10013477", "label"=>{"german"=>"Amerikas", "french"=>"Amériques", "italian"=>"Americhe", "english"=>"Americas"}, "name"=>{"german"=>"Amerikas", "french"=>"Amériques", "italian"=>"Americhe", "english"=>"Americas"}}, {"id"=>"20027931", "label"=>{"german"=>"Regionalkoordination Nord- und Zentralamerika", "french"=>"Coordination régionale Amérique du Nord et centrale", "italian"=>"Coordinamento regionale America del Nord e centrale", "english"=>"Regional Coordination North and Central America"}, "name"=>{"german"=>"Regionalkoordination Nord- und Zentralamerika", "french"=>"Coordination régionale Amérique du Nord et centrale", "italian"=>"Coordinamento regionale America del Nord e centrale", "english"=>"Regional Coordination North and Central America"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027931",
+  "name": {
+    "german": "Regionalkoordination Nord- und Zentralamerika",
+    "french": "Coordination régionale Amérique du Nord et centrale",
+    "italian": "Coordinamento regionale America del Nord e centrale",
+    "english": "Regional Coordination North and Central America"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10000632",
+      "name": {
+        "german": "Dienst für Fremde Interessen",
+        "french": "Service des intérêts étrangers",
+        "italian": "Servizio degli interessi stranieri",
+        "english": "Foreign Interests Service"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3026985",
+      "surname": "Bleisch",
+      "givenName": "Charlotte",
+      "email": null,
+      "phone": "+41 58 46 23059",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6251967",
+      "surname": "Guyot",
+      "givenName": "Alexandre",
+      "email": null,
+      "phone": "+41 58 48 50455",
+      "function": {
+        "german": "Diplomatische/r Mitarbeiter/in",
+        "french": "Diplomatische/r Mitarbeiter/in",
+        "italian": "Diplomatische/r Mitarbeiter/in",
+        "english": "Diplomatische/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10013477",
+      "label": {
+        "german": "Amerikas",
+        "french": "Amériques",
+        "italian": "Americhe",
+        "english": "Americas"
+      },
+      "name": {
+        "german": "Amerikas",
+        "french": "Amériques",
+        "italian": "Americhe",
+        "english": "Americas"
+      }
+    },
+    {
+      "id": "20027931",
+      "label": {
+        "german": "Regionalkoordination Nord- und Zentralamerika",
+        "french": "Coordination régionale Amérique du Nord et centrale",
+        "italian": "Coordinamento regionale America del Nord e centrale",
+        "english": "Regional Coordination North and Central America"
+      },
+      "name": {
+        "german": "Regionalkoordination Nord- und Zentralamerika",
+        "french": "Coordination régionale Amérique du Nord et centrale",
+        "italian": "Coordinamento regionale America del Nord e centrale",
+        "english": "Regional Coordination North and Central America"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

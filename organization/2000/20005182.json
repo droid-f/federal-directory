@@ -1,1 +1,136 @@
-{"id"=>"20005182", "name"=>{"german"=>"Informatikdienst", "french"=>"Service informatique", "italian"=>"Servizio informatico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Viale Stefano Franscini 7", "postalCode"=>"6500", "location"=>"Bellinzona", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-9214141", "surname"=>"Sadikovic", "givenName"=>"Genneta", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Leiter/in Informatik", "french"=>"Responsable informatique", "italian"=>"Responsabile informatica", "english"=>"Leiter/in Informatik"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4881650", "surname"=>"Sanker Gutierrez", "givenName"=>"Angelo", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Informatiksupport", "french"=>"Informatiksupport", "italian"=>"Informatico/a", "english"=>"Informatiksupport"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4110230", "surname"=>"Serravalle", "givenName"=>"Francesco", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Informatiksupport", "french"=>"Informatiksupport", "italian"=>"Informatico/a", "english"=>"Informatiksupport"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20004851", "label"=>{"german"=>"BStGer", "french"=>"BStGer", "italian"=>"BStGer", "english"=>""}, "name"=>{"german"=>"Bundesstrafgericht", "french"=>"Tribunal pénal fédéral", "italian"=>"Tribunale penale federale", "english"=>""}}, {"id"=>"20005201", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}}, {"id"=>"20005182", "label"=>{"german"=>"Informatikdienst", "french"=>"Service informatique", "italian"=>"Servizio informatico", "english"=>""}, "name"=>{"german"=>"Informatikdienst", "french"=>"Service informatique", "italian"=>"Servizio informatico", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005182",
+  "name": {
+    "german": "Informatikdienst",
+    "french": "Service informatique",
+    "italian": "Servizio informatico",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Viale Stefano Franscini 7",
+    "postalCode": "6500",
+    "location": "Bellinzona",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-9214141",
+      "surname": "Sadikovic",
+      "givenName": "Genneta",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Leiter/in Informatik",
+        "french": "Responsable informatique",
+        "italian": "Responsabile informatica",
+        "english": "Leiter/in Informatik"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4881650",
+      "surname": "Sanker Gutierrez",
+      "givenName": "Angelo",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Informatiksupport",
+        "french": "Informatiksupport",
+        "italian": "Informatico/a",
+        "english": "Informatiksupport"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4110230",
+      "surname": "Serravalle",
+      "givenName": "Francesco",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Informatiksupport",
+        "french": "Informatiksupport",
+        "italian": "Informatico/a",
+        "english": "Informatiksupport"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20004851",
+      "label": {
+        "german": "BStGer",
+        "french": "BStGer",
+        "italian": "BStGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesstrafgericht",
+        "french": "Tribunal pénal fédéral",
+        "italian": "Tribunale penale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005201",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005182",
+      "label": {
+        "german": "Informatikdienst",
+        "french": "Service informatique",
+        "italian": "Servizio informatico",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatikdienst",
+        "french": "Service informatique",
+        "italian": "Servizio informatico",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

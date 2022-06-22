@@ -1,1 +1,215 @@
-{"id"=>"10010952", "name"=>{"german"=>"Kompetenzzentrum Beschaffungs- wesen Bund / Rechtsdienst BBL", "french"=>"Centre de compétence des marchés publics de la Confédération / service juridique de l’OFCL", "italian"=>"Centro di competenza per gli acquisti pubblici / Servizio giuridico UFCL", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Fellerstrasse 21", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10006051", "name"=>{"german"=>"Öffentliches Beschaffungswesen", "french"=>"Marchés publics", "italian"=>"Appalti pubblici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034576", "name"=>{"german"=>"Aus- und Weiterbildung", "french"=>"Formation et formation continue", "italian"=>"Formazione e formazione continua", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037471", "name"=>{"german"=>"Rechtsdienst KBB I", "french"=>"Service juridique du CCMP I", "italian"=>"Servizio giuridico CCAP I", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037472", "name"=>{"german"=>"Rechtsdienst KBB II", "french"=>"Service juridique du CCMP II", "italian"=>"Giuristi CCAP II", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2173528", "surname"=>"Gygi", "givenName"=>"Bruno", "email"=>nil, "phone"=>"+41 58 46 32192", "function"=>{"german"=>"Leiter/in Kompetenzzentrum Besch,wesen Bund / Rechtsdienst BBL (RD BBL)", "french"=>"Resp. Centre de compétence des marchés publics de la Confédération / Service juridique de l'OFCL", "italian"=>"Capo Centro di comp. per gli acquisti pubblici / Servizio giuridico UFCL", "english"=>"Leiter/in Komp.zent. Besch.wesen Bund/RD"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008670", "label"=>{"german"=>"BBL", "french"=>"OFCL", "italian"=>"UFCL", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bauten und Logistik", "french"=>"Office fédéral des constructions et de la logistique", "italian"=>"Ufficio federale delle costruzioni e della logistica", "english"=>""}}, {"id"=>"10005978", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20046652", "label"=>{"german"=>"Aussenbeziehungen, Beschaffungs- politik, Kommunikation", "french"=>"Relations extérieures, politique en matière d‘achats, communication", "italian"=>"Relazioni esterne, politica in materia di appalti, comunicazione", "english"=>""}, "name"=>{"german"=>"Aussenbeziehungen, Beschaffungs- politik, Kommunikation", "french"=>"Relations extérieures, politique en matière d‘achats, communication", "italian"=>"Relazioni esterne, politica in materia di appalti, comunicazione", "english"=>""}}, {"id"=>"10010952", "label"=>{"german"=>"Kompetenzzentrum Beschaffungs- wesen Bund / Rechtsdienst BBL", "french"=>"Centre de compétence des marchés publics de la Confédération / service juridique de l’OFCL", "italian"=>"Centro di competenza per gli acquisti pubblici / Servizio giuridico UFCL", "english"=>""}, "name"=>{"german"=>"Kompetenzzentrum Beschaffungs- wesen Bund / Rechtsdienst BBL", "french"=>"Centre de compétence des marchés publics de la Confédération / service juridique de l’OFCL", "italian"=>"Centro di competenza per gli acquisti pubblici / Servizio giuridico UFCL", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10010952",
+  "name": {
+    "german": "Kompetenzzentrum Beschaffungs- wesen Bund / Rechtsdienst BBL",
+    "french": "Centre de compétence des marchés publics de la Confédération / service juridique de l’OFCL",
+    "italian": "Centro di competenza per gli acquisti pubblici / Servizio giuridico UFCL",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Fellerstrasse 21",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10006051",
+      "name": {
+        "german": "Öffentliches Beschaffungswesen",
+        "french": "Marchés publics",
+        "italian": "Appalti pubblici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034576",
+      "name": {
+        "german": "Aus- und Weiterbildung",
+        "french": "Formation et formation continue",
+        "italian": "Formazione e formazione continua",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037471",
+      "name": {
+        "german": "Rechtsdienst KBB I",
+        "french": "Service juridique du CCMP I",
+        "italian": "Servizio giuridico CCAP I",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037472",
+      "name": {
+        "german": "Rechtsdienst KBB II",
+        "french": "Service juridique du CCMP II",
+        "italian": "Giuristi CCAP II",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2173528",
+      "surname": "Gygi",
+      "givenName": "Bruno",
+      "email": null,
+      "phone": "+41 58 46 32192",
+      "function": {
+        "german": "Leiter/in Kompetenzzentrum Besch,wesen Bund / Rechtsdienst BBL (RD BBL)",
+        "french": "Resp. Centre de compétence des marchés publics de la Confédération / Service juridique de l'OFCL",
+        "italian": "Capo Centro di comp. per gli acquisti pubblici / Servizio giuridico UFCL",
+        "english": "Leiter/in Komp.zent. Besch.wesen Bund/RD"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008670",
+      "label": {
+        "german": "BBL",
+        "french": "OFCL",
+        "italian": "UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bauten und Logistik",
+        "french": "Office fédéral des constructions et de la logistique",
+        "italian": "Ufficio federale delle costruzioni e della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005978",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046652",
+      "label": {
+        "german": "Aussenbeziehungen, Beschaffungs- politik, Kommunikation",
+        "french": "Relations extérieures, politique en matière d‘achats, communication",
+        "italian": "Relazioni esterne, politica in materia di appalti, comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Aussenbeziehungen, Beschaffungs- politik, Kommunikation",
+        "french": "Relations extérieures, politique en matière d‘achats, communication",
+        "italian": "Relazioni esterne, politica in materia di appalti, comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010952",
+      "label": {
+        "german": "Kompetenzzentrum Beschaffungs- wesen Bund / Rechtsdienst BBL",
+        "french": "Centre de compétence des marchés publics de la Confédération / service juridique de l’OFCL",
+        "italian": "Centro di competenza per gli acquisti pubblici / Servizio giuridico UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompetenzzentrum Beschaffungs- wesen Bund / Rechtsdienst BBL",
+        "french": "Centre de compétence des marchés publics de la Confédération / service juridique de l’OFCL",
+        "italian": "Centro di competenza per gli acquisti pubblici / Servizio giuridico UFCL",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

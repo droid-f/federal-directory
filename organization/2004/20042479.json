@@ -1,1 +1,200 @@
-{"id"=>"20042479", "name"=>{"german"=>"Kompanie Miliz", "french"=>"Compagnie milice", "italian"=>"Compagnia di milizia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pont-des-Iles 2", "postalCode"=>"1950", "location"=>"Sion", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10000057", "label"=>{"german"=>"MP", "french"=>"MP", "italian"=>"MP", "english"=>""}, "name"=>{"german"=>"Militärpolizei", "french"=>"Police militaire", "italian"=>"Polizia militare", "english"=>""}}, {"id"=>"20006581", "label"=>{"german"=>"Kompetenzzentrum Militärpolizei", "french"=>"Centre de compétences Police militaire", "italian"=>"Centro di competenza polizia militare", "english"=>""}, "name"=>{"german"=>"Kompetenzzentrum Militärpolizei", "french"=>"Centre de compétences Police militaire", "italian"=>"Centro di competenza polizia militare", "english"=>""}}, {"id"=>"20042476", "label"=>{"german"=>"Ausb Unterstützung Miliz Komp Zen MP", "french"=>"Appui à l'instruction milice", "italian"=>"Supporto all'istruzione milizia", "english"=>""}, "name"=>{"german"=>"Ausb Unterstützung Miliz Komp Zen MP", "french"=>"Appui à l'instruction milice", "italian"=>"Supporto all'istruzione milizia", "english"=>""}}, {"id"=>"20047980", "label"=>{"german"=>"Stv Ausbildungsunterstützung Miliz", "french"=>"Rempl aide à l'instruction", "italian"=>"Sost supporto istruzione", "english"=>""}, "name"=>{"german"=>"Stv Ausbildungsunterstützung Miliz", "french"=>"Rempl aide à l'instruction", "italian"=>"Sost supporto istruzione", "english"=>""}}, {"id"=>"20042479", "label"=>{"german"=>"Kompanie Miliz", "french"=>"Compagnie milice", "italian"=>"Compagnia di milizia", "english"=>""}, "name"=>{"german"=>"Kompanie Miliz", "french"=>"Compagnie milice", "italian"=>"Compagnia di milizia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042479",
+  "name": {
+    "german": "Kompanie Miliz",
+    "french": "Compagnie milice",
+    "italian": "Compagnia di milizia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pont-des-Iles 2",
+    "postalCode": "1950",
+    "location": "Sion",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000057",
+      "label": {
+        "german": "MP",
+        "french": "MP",
+        "italian": "MP",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärpolizei",
+        "french": "Police militaire",
+        "italian": "Polizia militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20006581",
+      "label": {
+        "german": "Kompetenzzentrum Militärpolizei",
+        "french": "Centre de compétences Police militaire",
+        "italian": "Centro di competenza polizia militare",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompetenzzentrum Militärpolizei",
+        "french": "Centre de compétences Police militaire",
+        "italian": "Centro di competenza polizia militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042476",
+      "label": {
+        "german": "Ausb Unterstützung Miliz Komp Zen MP",
+        "french": "Appui à l'instruction milice",
+        "italian": "Supporto all'istruzione milizia",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausb Unterstützung Miliz Komp Zen MP",
+        "french": "Appui à l'instruction milice",
+        "italian": "Supporto all'istruzione milizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047980",
+      "label": {
+        "german": "Stv Ausbildungsunterstützung Miliz",
+        "french": "Rempl aide à l'instruction",
+        "italian": "Sost supporto istruzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Stv Ausbildungsunterstützung Miliz",
+        "french": "Rempl aide à l'instruction",
+        "italian": "Sost supporto istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042479",
+      "label": {
+        "german": "Kompanie Miliz",
+        "french": "Compagnie milice",
+        "italian": "Compagnia di milizia",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompanie Miliz",
+        "french": "Compagnie milice",
+        "italian": "Compagnia di milizia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

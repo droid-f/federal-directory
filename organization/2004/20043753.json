@@ -1,1 +1,185 @@
-{"id"=>"20043753", "name"=>{"german"=>"Kommerz Güter", "french"=>"Services commerciaux Biens", "italian"=>"Servizi commerciali Beni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20043755", "name"=>{"german"=>"Team Ko EKVI - Investitionsgüter, Verbrauchsmaterial", "french"=>"Team Ko EKVI - Biens d'investissements, matériel de consommation", "italian"=>"Team Ko EKVI - Beni d’investimento, materiale di consumo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043756", "name"=>{"german"=>"Team Ko EKBA - Bekleidung/Ausrüstung/Einkauf Innendienst", "french"=>"Team Ko EKBA - Habillement/Équipements/Achats service interne", "italian"=>"Team Ko EKBA - Abbigliamento/equipaggiamento/acquisti servizio interno", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0801670", "surname"=>"Bertolla", "givenName"=>"Ron", "email"=>nil, "phone"=>"+41 58 48 05904", "function"=>{"german"=>"Leiter FB Kommerz Güter", "french"=>"Chef du domaine Services commerciaux Biens", "italian"=>"Capo SS Servizi commerciali Beni", "english"=>"Leiter FB Kommerz Güter"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004080", "label"=>{"german"=>"Einkauf und Kooperationen", "french"=>"Achats et coopérations", "italian"=>"Acquisti e cooperazione", "english"=>""}, "name"=>{"german"=>"Einkauf und Kooperationen", "french"=>"Achats et coopérations", "italian"=>"Acquisti e cooperazione", "english"=>""}}, {"id"=>"20043753", "label"=>{"german"=>"Kommerz Güter", "french"=>"Services commerciaux Biens", "italian"=>"Servizi commerciali Beni", "english"=>""}, "name"=>{"german"=>"Kommerz Güter", "french"=>"Services commerciaux Biens", "italian"=>"Servizi commerciali Beni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20043753",
+  "name": {
+    "german": "Kommerz Güter",
+    "french": "Services commerciaux Biens",
+    "italian": "Servizi commerciali Beni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20043755",
+      "name": {
+        "german": "Team Ko EKVI - Investitionsgüter, Verbrauchsmaterial",
+        "french": "Team Ko EKVI - Biens d'investissements, matériel de consommation",
+        "italian": "Team Ko EKVI - Beni d’investimento, materiale di consumo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043756",
+      "name": {
+        "german": "Team Ko EKBA - Bekleidung/Ausrüstung/Einkauf Innendienst",
+        "french": "Team Ko EKBA - Habillement/Équipements/Achats service interne",
+        "italian": "Team Ko EKBA - Abbigliamento/equipaggiamento/acquisti servizio interno",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0801670",
+      "surname": "Bertolla",
+      "givenName": "Ron",
+      "email": null,
+      "phone": "+41 58 48 05904",
+      "function": {
+        "german": "Leiter FB Kommerz Güter",
+        "french": "Chef du domaine Services commerciaux Biens",
+        "italian": "Capo SS Servizi commerciali Beni",
+        "english": "Leiter FB Kommerz Güter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004080",
+      "label": {
+        "german": "Einkauf und Kooperationen",
+        "french": "Achats et coopérations",
+        "italian": "Acquisti e cooperazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Einkauf und Kooperationen",
+        "french": "Achats et coopérations",
+        "italian": "Acquisti e cooperazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043753",
+      "label": {
+        "german": "Kommerz Güter",
+        "french": "Services commerciaux Biens",
+        "italian": "Servizi commerciali Beni",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommerz Güter",
+        "french": "Services commerciaux Biens",
+        "italian": "Servizi commerciali Beni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

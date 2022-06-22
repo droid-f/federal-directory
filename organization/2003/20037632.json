@@ -1,1 +1,241 @@
-{"id"=>"20037632", "name"=>{"german"=>"Produkte und Programme der aktiven Arbeitsmarktpolitik", "french"=>"Produits et Programmes de la politique active du marché du travail", "italian"=>"Prodotti e Programmi della politica attiva del mercato del lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Friedheimweg 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6259129", "surname"=>"Gremaud", "givenName"=>"Sophie", "email"=>nil, "phone"=>"+41 58 46 22809", "function"=>{"german"=>"Gruppenleiter/in 'Jobsharing' PP TCMI", "french"=>"Gruppenleiter/in 'Jobsharing' PP TCMI", "italian"=>"Gruppenleiter/in 'Jobsharing' PP TCMI", "english"=>"Gruppenleiter/in 'Jobsharing' PP TCMI"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3245246", "surname"=>"Boillat", "givenName"=>"Catherine", "email"=>nil, "phone"=>"+41 58 46 41579", "function"=>{"german"=>"Spezialist/in I PP TCMI", "french"=>"Spezialist/in I PP TCMI", "italian"=>"Spezialist/in I PP TCMI", "english"=>"Spezialist/in I PP TCMI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7833306", "surname"=>"Fluri", "givenName"=>"Jolanda", "email"=>nil, "phone"=>"+41 58 46 22733", "function"=>{"german"=>"Assistent/in PP TCMI", "french"=>"Assistent/in PP TCMI", "italian"=>"Assistent/in PP TCMI", "english"=>"Assistent/in PP TCMI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7058170", "surname"=>"Joray", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 63090", "function"=>{"german"=>"Wiss. Mitarbeiter/in PP TCMI", "french"=>"Wiss. Mitarbeiter/in PP TCMI", "italian"=>"Wiss. Mitarbeiter/in PP TCMI", "english"=>"Wiss. Mitarbeiter/in PP TCMI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4074819", "surname"=>"Regueiro Gomez", "givenName"=>"Lourdes", "email"=>nil, "phone"=>"+41 58 46 76860", "function"=>{"german"=>"Wiss. Mitarbeiter/in PP TCMI", "french"=>"Wiss. Mitarbeiter/in PP TCMI", "italian"=>"Wiss. Mitarbeiter/in PP TCMI", "english"=>"Wiss. Mitarbeiter/in PP TCMI"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"10004185", "label"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}, "name"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}}, {"id"=>"20037628", "label"=>{"german"=>"Markt und Integration", "french"=>"Marché du travail et Réinsertion", "italian"=>"Mercato del lavoro et Integrazione", "english"=>""}, "name"=>{"german"=>"Markt und Integration", "french"=>"Marché du travail et Réinsertion", "italian"=>"Mercato del lavoro et Integrazione", "english"=>""}}, {"id"=>"20037632", "label"=>{"german"=>"Produkte und Programme der aktiven Arbeitsmarktpolitik", "french"=>"Produits et Programmes de la politique active du marché du travail", "italian"=>"Prodotti e Programmi della politica attiva del mercato del lavoro", "english"=>""}, "name"=>{"german"=>"Produkte und Programme der aktiven Arbeitsmarktpolitik", "french"=>"Produits et Programmes de la politique active du marché du travail", "italian"=>"Prodotti e Programmi della politica attiva del mercato del lavoro", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037632",
+  "name": {
+    "german": "Produkte und Programme der aktiven Arbeitsmarktpolitik",
+    "french": "Produits et Programmes de la politique active du marché du travail",
+    "italian": "Prodotti e Programmi della politica attiva del mercato del lavoro",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Friedheimweg 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6259129",
+      "surname": "Gremaud",
+      "givenName": "Sophie",
+      "email": null,
+      "phone": "+41 58 46 22809",
+      "function": {
+        "german": "Gruppenleiter/in 'Jobsharing' PP TCMI",
+        "french": "Gruppenleiter/in 'Jobsharing' PP TCMI",
+        "italian": "Gruppenleiter/in 'Jobsharing' PP TCMI",
+        "english": "Gruppenleiter/in 'Jobsharing' PP TCMI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3245246",
+      "surname": "Boillat",
+      "givenName": "Catherine",
+      "email": null,
+      "phone": "+41 58 46 41579",
+      "function": {
+        "german": "Spezialist/in I PP TCMI",
+        "french": "Spezialist/in I PP TCMI",
+        "italian": "Spezialist/in I PP TCMI",
+        "english": "Spezialist/in I PP TCMI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7833306",
+      "surname": "Fluri",
+      "givenName": "Jolanda",
+      "email": null,
+      "phone": "+41 58 46 22733",
+      "function": {
+        "german": "Assistent/in PP TCMI",
+        "french": "Assistent/in PP TCMI",
+        "italian": "Assistent/in PP TCMI",
+        "english": "Assistent/in PP TCMI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7058170",
+      "surname": "Joray",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 63090",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in PP TCMI",
+        "french": "Wiss. Mitarbeiter/in PP TCMI",
+        "italian": "Wiss. Mitarbeiter/in PP TCMI",
+        "english": "Wiss. Mitarbeiter/in PP TCMI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4074819",
+      "surname": "Regueiro Gomez",
+      "givenName": "Lourdes",
+      "email": null,
+      "phone": "+41 58 46 76860",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in PP TCMI",
+        "french": "Wiss. Mitarbeiter/in PP TCMI",
+        "italian": "Wiss. Mitarbeiter/in PP TCMI",
+        "english": "Wiss. Mitarbeiter/in PP TCMI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004185",
+      "label": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037628",
+      "label": {
+        "german": "Markt und Integration",
+        "french": "Marché du travail et Réinsertion",
+        "italian": "Mercato del lavoro et Integrazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Markt und Integration",
+        "french": "Marché du travail et Réinsertion",
+        "italian": "Mercato del lavoro et Integrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037632",
+      "label": {
+        "german": "Produkte und Programme der aktiven Arbeitsmarktpolitik",
+        "french": "Produits et Programmes de la politique active du marché du travail",
+        "italian": "Prodotti e Programmi della politica attiva del mercato del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Produkte und Programme der aktiven Arbeitsmarktpolitik",
+        "french": "Produits et Programmes de la politique active du marché du travail",
+        "italian": "Prodotti e Programmi della politica attiva del mercato del lavoro",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,80 @@
-{"id"=>"20035580", "name"=>{"german"=>"Sekretariat AB-BA", "french"=>"Secrétariat AS-MPC", "italian"=>"Segreteria AV-MPC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 464 25 33", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"20027255", "label"=>{"german"=>"AB-BA", "french"=>"AS-MPC", "italian"=>"AV-MPC", "english"=>""}, "name"=>{"german"=>"Aufsichtsbehörde über die Bundesanwaltschaft", "french"=>"Autorité de surveillance du Ministère public de la Confédération", "italian"=>"Autorità di vigilanza sul Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20035580", "label"=>{"german"=>"Sekretariat AB-BA", "french"=>"Secrétariat AS-MPC", "italian"=>"Segreteria AV-MPC", "english"=>""}, "name"=>{"german"=>"Sekretariat AB-BA", "french"=>"Secrétariat AS-MPC", "italian"=>"Segreteria AV-MPC", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035580",
+  "name": {
+    "german": "Sekretariat AB-BA",
+    "french": "Secrétariat AS-MPC",
+    "italian": "Segreteria AV-MPC",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 464 25 33",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20027255",
+      "label": {
+        "german": "AB-BA",
+        "french": "AS-MPC",
+        "italian": "AV-MPC",
+        "english": ""
+      },
+      "name": {
+        "german": "Aufsichtsbehörde über die Bundesanwaltschaft",
+        "french": "Autorité de surveillance du Ministère public de la Confédération",
+        "italian": "Autorità di vigilanza sul Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035580",
+      "label": {
+        "german": "Sekretariat AB-BA",
+        "french": "Secrétariat AS-MPC",
+        "italian": "Segreteria AV-MPC",
+        "english": ""
+      },
+      "name": {
+        "german": "Sekretariat AB-BA",
+        "french": "Secrétariat AS-MPC",
+        "italian": "Segreteria AV-MPC",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

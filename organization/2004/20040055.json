@@ -1,1 +1,156 @@
-{"id"=>"20040055", "name"=>{"german"=>"Geodaten Produktionssysteme", "french"=>"Systèmes de production de géodonnées", "italian"=>"Sistemi produzione geodati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4599719", "surname"=>"Flury", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 90265", "function"=>{"german"=>"TPzL Geodaten Prod.sys./Stv.PzL IGEB", "french"=>"Rpp Syst. product. géodo./Rsp IDG", "italian"=>"Rpp sistemi produzione geodati/ Rsp IDG", "english"=>"TPzL Geodaten Prod.sys./Stv.PzL IGEB"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"20040051", "label"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}, "name"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}}, {"id"=>"20040054", "label"=>{"german"=>"Geodateninfrastrukturen Entw. u. Betr.", "french"=>"Infrastructures de données géographiques", "italian"=>"Infrastrutture di Dati Geografici IDG", "english"=>""}, "name"=>{"german"=>"Geodateninfrastrukturen Entw. u. Betr.", "french"=>"Infrastructures de données géographiques", "italian"=>"Infrastrutture di Dati Geografici IDG", "english"=>""}}, {"id"=>"20040055", "label"=>{"german"=>"Geodaten Produktionssysteme", "french"=>"Systèmes de production de géodonnées", "italian"=>"Sistemi produzione geodati", "english"=>""}, "name"=>{"german"=>"Geodaten Produktionssysteme", "french"=>"Systèmes de production de géodonnées", "italian"=>"Sistemi produzione geodati", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20040055",
+  "name": {
+    "german": "Geodaten Produktionssysteme",
+    "french": "Systèmes de production de géodonnées",
+    "italian": "Sistemi produzione geodati",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4599719",
+      "surname": "Flury",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 90265",
+      "function": {
+        "german": "TPzL Geodaten Prod.sys./Stv.PzL IGEB",
+        "french": "Rpp Syst. product. géodo./Rsp IDG",
+        "italian": "Rpp sistemi produzione geodati/ Rsp IDG",
+        "english": "TPzL Geodaten Prod.sys./Stv.PzL IGEB"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040051",
+      "label": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      },
+      "name": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040054",
+      "label": {
+        "german": "Geodateninfrastrukturen Entw. u. Betr.",
+        "french": "Infrastructures de données géographiques",
+        "italian": "Infrastrutture di Dati Geografici IDG",
+        "english": ""
+      },
+      "name": {
+        "german": "Geodateninfrastrukturen Entw. u. Betr.",
+        "french": "Infrastructures de données géographiques",
+        "italian": "Infrastrutture di Dati Geografici IDG",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040055",
+      "label": {
+        "german": "Geodaten Produktionssysteme",
+        "french": "Systèmes de production de géodonnées",
+        "italian": "Sistemi produzione geodati",
+        "english": ""
+      },
+      "name": {
+        "german": "Geodaten Produktionssysteme",
+        "french": "Systèmes de production de géodonnées",
+        "italian": "Sistemi produzione geodati",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

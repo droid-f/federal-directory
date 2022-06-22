@@ -1,1 +1,247 @@
-{"id"=>"20026356", "name"=>{"german"=>"Zulassung Aufenthalt", "french"=>"Admission séjour", "italian"=>"Ammissione dimora", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20026363", "name"=>{"german"=>"Deutsche Schweiz 1 und Liechtenstein", "french"=>"Suisse alémanique 1 et Liechtenstein", "italian"=>"Svizzera tedesca 1 e Liechtenstein", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026364", "name"=>{"german"=>"Deutsche Schweiz 2", "french"=>"Suisse alémanique 2", "italian"=>"Svizzera tedesca 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026365", "name"=>{"german"=>"Westschweiz 1 und Tessin", "french"=>"Suisse romande 1 et Tessin", "italian"=>"Svizzera romanda 1 e Ticino", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026366", "name"=>{"german"=>"Westschweiz 2", "french"=>"Suisse romande 2", "italian"=>"Svizzera romanda 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026501", "name"=>{"german"=>"Reisedokumente", "french"=>"Secteur documents de voyage", "italian"=>"Settore documenti di viaggio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5620618", "surname"=>"Setz", "givenName"=>"Ramon", "email"=>nil, "phone"=>"+41 58 46 24259", "function"=>{"german"=>"Chef/in Abteilung", "french"=>"Chef/in Abteilung", "italian"=>"Chef/in Abteilung", "english"=>"Chef/in Abteilung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4721407", "surname"=>"Geuggis", "givenName"=>"Corinne", "email"=>nil, "phone"=>"+41 58 46 59865", "function"=>{"german"=>"Chef/in Sektion / stv. Abteilungschef/in", "french"=>"Chef/in Sektion / stv. Abteilungschef/in", "italian"=>"Chef/in Sektion / stv. Abteilungschef/in", "english"=>"Chef/in Sektion / stv. Abteilungschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026309", "label"=>{"german"=>"Zuwanderung und Integration", "french"=>"Immigration et intégration", "italian"=>"Immigrazione e integrazione", "english"=>""}, "name"=>{"german"=>"Zuwanderung und Integration", "french"=>"Immigration et intégration", "italian"=>"Immigrazione e integrazione", "english"=>""}}, {"id"=>"20026356", "label"=>{"german"=>"Zulassung Aufenthalt", "french"=>"Admission séjour", "italian"=>"Ammissione dimora", "english"=>""}, "name"=>{"german"=>"Zulassung Aufenthalt", "french"=>"Admission séjour", "italian"=>"Ammissione dimora", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026356",
+  "name": {
+    "german": "Zulassung Aufenthalt",
+    "french": "Admission séjour",
+    "italian": "Ammissione dimora",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20026363",
+      "name": {
+        "german": "Deutsche Schweiz 1 und Liechtenstein",
+        "french": "Suisse alémanique 1 et Liechtenstein",
+        "italian": "Svizzera tedesca 1 e Liechtenstein",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026364",
+      "name": {
+        "german": "Deutsche Schweiz 2",
+        "french": "Suisse alémanique 2",
+        "italian": "Svizzera tedesca 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026365",
+      "name": {
+        "german": "Westschweiz 1 und Tessin",
+        "french": "Suisse romande 1 et Tessin",
+        "italian": "Svizzera romanda 1 e Ticino",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026366",
+      "name": {
+        "german": "Westschweiz 2",
+        "french": "Suisse romande 2",
+        "italian": "Svizzera romanda 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026501",
+      "name": {
+        "german": "Reisedokumente",
+        "french": "Secteur documents de voyage",
+        "italian": "Settore documenti di viaggio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5620618",
+      "surname": "Setz",
+      "givenName": "Ramon",
+      "email": null,
+      "phone": "+41 58 46 24259",
+      "function": {
+        "german": "Chef/in Abteilung",
+        "french": "Chef/in Abteilung",
+        "italian": "Chef/in Abteilung",
+        "english": "Chef/in Abteilung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4721407",
+      "surname": "Geuggis",
+      "givenName": "Corinne",
+      "email": null,
+      "phone": "+41 58 46 59865",
+      "function": {
+        "german": "Chef/in Sektion / stv. Abteilungschef/in",
+        "french": "Chef/in Sektion / stv. Abteilungschef/in",
+        "italian": "Chef/in Sektion / stv. Abteilungschef/in",
+        "english": "Chef/in Sektion / stv. Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026309",
+      "label": {
+        "german": "Zuwanderung und Integration",
+        "french": "Immigration et intégration",
+        "italian": "Immigrazione e integrazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Zuwanderung und Integration",
+        "french": "Immigration et intégration",
+        "italian": "Immigrazione e integrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026356",
+      "label": {
+        "german": "Zulassung Aufenthalt",
+        "french": "Admission séjour",
+        "italian": "Ammissione dimora",
+        "english": ""
+      },
+      "name": {
+        "german": "Zulassung Aufenthalt",
+        "french": "Admission séjour",
+        "italian": "Ammissione dimora",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

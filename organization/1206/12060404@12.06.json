@@ -1,1 +1,241 @@
-{"id"=>"12060404@12.06", "name"=>{"german"=>"Internationale Handelsbeziehungen", "french"=>"Relations commerciales internationales", "italian"=>"Diritto e affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>166, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-9250000", "surname"=>"Schäli", "givenName"=>"Mathias J.", "email"=>nil, "phone"=>"+41 31 377 72 25", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>167, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-3503010", "surname"=>"Siegfried", "givenName"=>"Ursula", "email"=>nil, "phone"=>"+41 31 377 72 40", "function"=>{"german"=>"Stellvertretung", "french"=>"Stellvertretung", "italian"=>"Stellvertretung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3259157", "surname"=>"Alder", "givenName"=>"Michaël", "email"=>nil, "phone"=>"+41 31 377 72 45", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-8503855", "surname"=>"Boulay", "givenName"=>"Charlotte", "email"=>nil, "phone"=>"+41 31 377 72 68", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-9574653", "surname"=>"Olberg", "givenName"=>"Lars", "email"=>nil, "phone"=>"+41 31 377 72 04", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-8828428", "surname"=>"Rüegsegger", "givenName"=>"Kathrin", "email"=>nil, "phone"=>"+41 31 377 72 52", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-8529238", "surname"=>"Spennemann", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 31 377 72 15", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-1731967", "surname"=>"Thévenod-Mottet", "givenName"=>"Erik", "email"=>nil, "phone"=>"+41 31 377 72 72", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060400@12.06", "label"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}}, {"id"=>"12060404@12.06", "label"=>{"german"=>"Internationale Handelsbeziehungen", "french"=>"Relations commerciales internationales", "italian"=>"Diritto e affari internazionali", "english"=>""}, "name"=>{"german"=>"Internationale Handelsbeziehungen", "french"=>"Relations commerciales internationales", "italian"=>"Diritto e affari internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060404@12.06",
+  "name": {
+    "german": "Internationale Handelsbeziehungen",
+    "french": "Relations commerciales internationales",
+    "italian": "Diritto e affari internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 166,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-9250000",
+      "surname": "Schäli",
+      "givenName": "Mathias J.",
+      "email": null,
+      "phone": "+41 31 377 72 25",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 167,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-3503010",
+      "surname": "Siegfried",
+      "givenName": "Ursula",
+      "email": null,
+      "phone": "+41 31 377 72 40",
+      "function": {
+        "german": "Stellvertretung",
+        "french": "Stellvertretung",
+        "italian": "Stellvertretung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3259157",
+      "surname": "Alder",
+      "givenName": "Michaël",
+      "email": null,
+      "phone": "+41 31 377 72 45",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8503855",
+      "surname": "Boulay",
+      "givenName": "Charlotte",
+      "email": null,
+      "phone": "+41 31 377 72 68",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9574653",
+      "surname": "Olberg",
+      "givenName": "Lars",
+      "email": null,
+      "phone": "+41 31 377 72 04",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8828428",
+      "surname": "Rüegsegger",
+      "givenName": "Kathrin",
+      "email": null,
+      "phone": "+41 31 377 72 52",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8529238",
+      "surname": "Spennemann",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 31 377 72 15",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1731967",
+      "surname": "Thévenod-Mottet",
+      "givenName": "Erik",
+      "email": null,
+      "phone": "+41 31 377 72 72",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060400@12.06",
+      "label": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060404@12.06",
+      "label": {
+        "german": "Internationale Handelsbeziehungen",
+        "french": "Relations commerciales internationales",
+        "italian": "Diritto e affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Internationale Handelsbeziehungen",
+        "french": "Relations commerciales internationales",
+        "italian": "Diritto e affari internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

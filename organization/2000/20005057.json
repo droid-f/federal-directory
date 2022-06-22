@@ -1,1 +1,155 @@
-{"id"=>"20005057", "name"=>{"german"=>"Kommissariat WK 8 Zürich", "french"=>"Commissariat WK 8 Zurich", "italian"=>"Commissariato WK 8 Zurigo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Werdstrasse 138", "postalCode"=>"8003", "location"=>"Zürich", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009328", "label"=>{"german"=>"BKP", "french"=>"PJF", "italian"=>"PGF", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundeskriminalpolizei", "french"=>"Domaine de direction Police judiciaire fédérale", "italian"=>"Ambito direzionale Polizia giudiziaria federale", "english"=>""}}, {"id"=>"10009338", "label"=>{"german"=>"Abteilung Wirtschaftskriminalität", "french"=>"Division Criminalité économique", "italian"=>"Divisione Criminalità economica", "english"=>""}, "name"=>{"german"=>"Abteilung Wirtschaftskriminalität", "french"=>"Division Criminalité économique", "italian"=>"Divisione Criminalità economica", "english"=>""}}, {"id"=>"20005057", "label"=>{"german"=>"Kommissariat WK 8 Zürich", "french"=>"Commissariat WK 8 Zurich", "italian"=>"Commissariato WK 8 Zurigo", "english"=>""}, "name"=>{"german"=>"Kommissariat WK 8 Zürich", "french"=>"Commissariat WK 8 Zurich", "italian"=>"Commissariato WK 8 Zurigo", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005057",
+  "name": {
+    "german": "Kommissariat WK 8 Zürich",
+    "french": "Commissariat WK 8 Zurich",
+    "italian": "Commissariato WK 8 Zurigo",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Werdstrasse 138",
+    "postalCode": "8003",
+    "location": "Zürich",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009328",
+      "label": {
+        "german": "BKP",
+        "french": "PJF",
+        "italian": "PGF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundeskriminalpolizei",
+        "french": "Domaine de direction Police judiciaire fédérale",
+        "italian": "Ambito direzionale Polizia giudiziaria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009338",
+      "label": {
+        "german": "Abteilung Wirtschaftskriminalität",
+        "french": "Division Criminalité économique",
+        "italian": "Divisione Criminalità economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Wirtschaftskriminalität",
+        "french": "Division Criminalité économique",
+        "italian": "Divisione Criminalità economica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005057",
+      "label": {
+        "german": "Kommissariat WK 8 Zürich",
+        "french": "Commissariat WK 8 Zurich",
+        "italian": "Commissariato WK 8 Zurigo",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissariat WK 8 Zürich",
+        "french": "Commissariat WK 8 Zurich",
+        "italian": "Commissariato WK 8 Zurigo",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

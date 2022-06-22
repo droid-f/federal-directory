@@ -1,1 +1,184 @@
-{"id"=>"20030952", "name"=>{"german"=>"Bereich Bahnen und Schiffe", "french"=>"Bereich Bahnen und Schiffe", "italian"=>"Bereich Bahnen und Schiffe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7044345", "surname"=>"Kupper", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 11971", "function"=>{"german"=>"Bereichsleiter Bahnen Schiffe", "french"=>"Bereichsleiter Bahnen Schiffe", "italian"=>"Bereichsleiter Bahnen Schiffe", "english"=>"Bereichsleiter Bahnen Schiffe"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0882105", "surname"=>"Thürler", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 25438", "function"=>{"german"=>"Stv. Bereich Bahnen Schiffe", "french"=>"Stv. Bereich Bahnen Schiffe", "italian"=>"Stv. Bereich Bahnen Schiffe", "english"=>"Stv. Bereich Bahnen Schiffe"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4905431", "surname"=>"Kunz", "givenName"=>"Sascha Andrej", "email"=>nil, "phone"=>"+41 58 48 49257", "function"=>{"german"=>"Untersuchungsleiter", "french"=>"Untersuchungsleiter", "italian"=>"Untersuchungsleiter", "english"=>"Untersuchungsleiter"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6030810", "surname"=>"Lüscher", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 93999", "function"=>{"german"=>"Untersuchungsleiter", "french"=>"Untersuchungsleiter", "italian"=>"Untersuchungsleiter", "english"=>"Untersuchungsleiter"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5777751", "surname"=>"Lüthi", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 11970", "function"=>{"german"=>"Untersuchungsleiter Bahnen Schiffe", "french"=>"Untersuchungsleiter Bahnen Schiffe", "italian"=>"Untersuchungsleiter Bahnen Schiffe", "english"=>"Untersuchungsleiter Bahnen Schiffe"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20030368", "label"=>{"german"=>"SUST", "french"=>"SUST", "italian"=>"SUST", "english"=>""}, "name"=>{"german"=>"Schweizerische Sicherheitsuntersuchungsstelle", "french"=>"Service suisse d’enquête de sécurité", "italian"=>"Servizio d inchiesta svizzero sulla sicurezza", "english"=>""}}, {"id"=>"20030952", "label"=>{"german"=>"Bereich Bahnen und Schiffe", "french"=>"Bereich Bahnen und Schiffe", "italian"=>"Bereich Bahnen und Schiffe", "english"=>""}, "name"=>{"german"=>"Bereich Bahnen und Schiffe", "french"=>"Bereich Bahnen und Schiffe", "italian"=>"Bereich Bahnen und Schiffe", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030952",
+  "name": {
+    "german": "Bereich Bahnen und Schiffe",
+    "french": "Bereich Bahnen und Schiffe",
+    "italian": "Bereich Bahnen und Schiffe",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7044345",
+      "surname": "Kupper",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 11971",
+      "function": {
+        "german": "Bereichsleiter Bahnen Schiffe",
+        "french": "Bereichsleiter Bahnen Schiffe",
+        "italian": "Bereichsleiter Bahnen Schiffe",
+        "english": "Bereichsleiter Bahnen Schiffe"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0882105",
+      "surname": "Thürler",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 25438",
+      "function": {
+        "german": "Stv. Bereich Bahnen Schiffe",
+        "french": "Stv. Bereich Bahnen Schiffe",
+        "italian": "Stv. Bereich Bahnen Schiffe",
+        "english": "Stv. Bereich Bahnen Schiffe"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4905431",
+      "surname": "Kunz",
+      "givenName": "Sascha Andrej",
+      "email": null,
+      "phone": "+41 58 48 49257",
+      "function": {
+        "german": "Untersuchungsleiter",
+        "french": "Untersuchungsleiter",
+        "italian": "Untersuchungsleiter",
+        "english": "Untersuchungsleiter"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6030810",
+      "surname": "Lüscher",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 93999",
+      "function": {
+        "german": "Untersuchungsleiter",
+        "french": "Untersuchungsleiter",
+        "italian": "Untersuchungsleiter",
+        "english": "Untersuchungsleiter"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5777751",
+      "surname": "Lüthi",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 11970",
+      "function": {
+        "german": "Untersuchungsleiter Bahnen Schiffe",
+        "french": "Untersuchungsleiter Bahnen Schiffe",
+        "italian": "Untersuchungsleiter Bahnen Schiffe",
+        "english": "Untersuchungsleiter Bahnen Schiffe"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030368",
+      "label": {
+        "german": "SUST",
+        "french": "SUST",
+        "italian": "SUST",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerische Sicherheitsuntersuchungsstelle",
+        "french": "Service suisse d’enquête de sécurité",
+        "italian": "Servizio d inchiesta svizzero sulla sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030952",
+      "label": {
+        "german": "Bereich Bahnen und Schiffe",
+        "french": "Bereich Bahnen und Schiffe",
+        "italian": "Bereich Bahnen und Schiffe",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Bahnen und Schiffe",
+        "french": "Bereich Bahnen und Schiffe",
+        "italian": "Bereich Bahnen und Schiffe",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

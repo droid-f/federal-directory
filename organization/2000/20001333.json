@@ -1,1 +1,154 @@
-{"id"=>"20001333", "name"=>{"german"=>"Abteilung Kommunikation und Direktionsstab", "french"=>"Division Communication et État-major de direction", "italian"=>"Divisione Comunicazione e stato maggiore di direzione", "english"=>""}, "nameAbbr"=>{"german"=>"D-CDS", "french"=>"D-CEM", "italian"=>"D-CSM", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"media@fedpol.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20050951", "name"=>{"german"=>"Direktionsstab", "french"=>"État-major de direction", "italian"=>"Stato maggiore di direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050952", "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20001333", "label"=>{"german"=>"D-CDS", "french"=>"D-CEM", "italian"=>"D-CSM", "english"=>""}, "name"=>{"german"=>"Abteilung Kommunikation und Direktionsstab", "french"=>"Division Communication et État-major de direction", "italian"=>"Divisione Comunicazione e stato maggiore di direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "20001333",
+  "name": {
+    "german": "Abteilung Kommunikation und Direktionsstab",
+    "french": "Division Communication et État-major de direction",
+    "italian": "Divisione Comunicazione e stato maggiore di direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "D-CDS",
+    "french": "D-CEM",
+    "italian": "D-CSM",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "media@fedpol.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20050951",
+      "name": {
+        "german": "Direktionsstab",
+        "french": "État-major de direction",
+        "italian": "Stato maggiore di direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050952",
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20001333",
+      "label": {
+        "german": "D-CDS",
+        "french": "D-CEM",
+        "italian": "D-CSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Kommunikation und Direktionsstab",
+        "french": "Division Communication et État-major de direction",
+        "italian": "Divisione Comunicazione e stato maggiore di direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

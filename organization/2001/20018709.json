@@ -1,1 +1,141 @@
-{"id"=>"20018709", "name"=>{"german"=>"Innovation", "french"=>"Innovation", "italian"=>"Innovazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4403046", "surname"=>"Kellenberger", "givenName"=>"Tobias", "email"=>nil, "phone"=>"+41 58 46 90309", "function"=>{"german"=>"PzL Innovation Topografie", "french"=>"Rp Innovation Topographie", "italian"=>"Rp innovazione topografia", "english"=>"PzL Innovation Topografie"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"10003486", "label"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}, "name"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}}, {"id"=>"20018709", "label"=>{"german"=>"Innovation", "french"=>"Innovation", "italian"=>"Innovazione", "english"=>""}, "name"=>{"german"=>"Innovation", "french"=>"Innovation", "italian"=>"Innovazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018709",
+  "name": {
+    "german": "Innovation",
+    "french": "Innovation",
+    "italian": "Innovazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4403046",
+      "surname": "Kellenberger",
+      "givenName": "Tobias",
+      "email": null,
+      "phone": "+41 58 46 90309",
+      "function": {
+        "german": "PzL Innovation Topografie",
+        "french": "Rp Innovation Topographie",
+        "italian": "Rp innovazione topografia",
+        "english": "PzL Innovation Topografie"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003486",
+      "label": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      },
+      "name": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018709",
+      "label": {
+        "german": "Innovation",
+        "french": "Innovation",
+        "italian": "Innovazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Innovation",
+        "french": "Innovation",
+        "italian": "Innovazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

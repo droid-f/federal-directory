@@ -1,1 +1,214 @@
-{"id"=>"20003735", "name"=>{"german"=>"Katastrophenhilfe Bereitschaftsbatallion", "french"=>"Bataillon d'intervention aide cata", "italian"=>"Bat intervento aiuto caso di catastrofe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kata Hi Ber Bat", "street"=>"Kaserne", "postalCode"=>"5620", "location"=>"Bremgarten", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003838", "name"=>{"german"=>"Führungsunterstützung Kata Hi", "french"=>"Aide au commandement aide cata", "italian"=>"Aiuto cond acc", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042720", "name"=>{"german"=>"Kdt Stv / Stab / Planung Kata Hi", "french"=>"Rempl cdt / EM / planification aide cata", "italian"=>"Sost cdt / SM / Pianif acc", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042721", "name"=>{"german"=>"Kata Hi Kompanie I", "french"=>"Compagnie aide cata I", "italian"=>"Compagnia acc I", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042722", "name"=>{"german"=>"Kata Hi Kompanie II", "french"=>"Compagnie aide cata II", "italian"=>"Compagnia acc II", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015871", "label"=>{"german"=>"LVBGRABC", "french"=>"LVBGRABC", "italian"=>"LVBGRABC", "english"=>""}, "name"=>{"german"=>"Lehrverband Genie/Rettung/ABC", "french"=>"FOAP génie/sauvetage/NBC", "italian"=>"FOA G/salv/NBC", "english"=>""}}, {"id"=>"20003735", "label"=>{"german"=>"Katastrophenhilfe Bereitschaftsbatallion", "french"=>"Bataillon d'intervention aide cata", "italian"=>"Bat intervento aiuto caso di catastrofe", "english"=>""}, "name"=>{"german"=>"Katastrophenhilfe Bereitschaftsbatallion", "french"=>"Bataillon d'intervention aide cata", "italian"=>"Bat intervento aiuto caso di catastrofe", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003735",
+  "name": {
+    "german": "Katastrophenhilfe Bereitschaftsbatallion",
+    "french": "Bataillon d'intervention aide cata",
+    "italian": "Bat intervento aiuto caso di catastrofe",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kata Hi Ber Bat",
+    "street": "Kaserne",
+    "postalCode": "5620",
+    "location": "Bremgarten",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003838",
+      "name": {
+        "german": "Führungsunterstützung Kata Hi",
+        "french": "Aide au commandement aide cata",
+        "italian": "Aiuto cond acc",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042720",
+      "name": {
+        "german": "Kdt Stv / Stab / Planung Kata Hi",
+        "french": "Rempl cdt / EM / planification aide cata",
+        "italian": "Sost cdt / SM / Pianif acc",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042721",
+      "name": {
+        "german": "Kata Hi Kompanie I",
+        "french": "Compagnie aide cata I",
+        "italian": "Compagnia acc I",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042722",
+      "name": {
+        "german": "Kata Hi Kompanie II",
+        "french": "Compagnie aide cata II",
+        "italian": "Compagnia acc II",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015871",
+      "label": {
+        "german": "LVBGRABC",
+        "french": "LVBGRABC",
+        "italian": "LVBGRABC",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Genie/Rettung/ABC",
+        "french": "FOAP génie/sauvetage/NBC",
+        "italian": "FOA G/salv/NBC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003735",
+      "label": {
+        "german": "Katastrophenhilfe Bereitschaftsbatallion",
+        "french": "Bataillon d'intervention aide cata",
+        "italian": "Bat intervento aiuto caso di catastrofe",
+        "english": ""
+      },
+      "name": {
+        "german": "Katastrophenhilfe Bereitschaftsbatallion",
+        "french": "Bataillon d'intervention aide cata",
+        "italian": "Bat intervento aiuto caso di catastrofe",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

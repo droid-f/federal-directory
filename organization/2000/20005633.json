@@ -1,1 +1,185 @@
-{"id"=>"20005633", "name"=>{"german"=>"GEOSTAT", "french"=>"GEOSTAT", "italian"=>"GEOSTAT", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046752", "name"=>{"german"=>"Pool Externe Westschweiz", "french"=>"Pool Externe Westschweiz", "italian"=>"Pool Externe Westschweiz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6975712", "surname"=>"Bühler", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 78995", "function"=>{"german"=>"Gruppenleiter/in Stv SC", "french"=>"Gruppenleiter/in Stv SC", "italian"=>"Gruppenleiter/in Stv SC", "english"=>"Gruppenleiter/in Stv SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20002656", "label"=>{"german"=>"Abteilung Raum und Umwelt", "french"=>"Division Territoire et environnement", "italian"=>"Divisione Territorio e ambiente", "english"=>""}, "name"=>{"german"=>"Abteilung Raum und Umwelt", "french"=>"Division Territoire et environnement", "italian"=>"Divisione Territorio e ambiente", "english"=>""}}, {"id"=>"10004680", "label"=>{"german"=>"Sektion Geoinformation", "french"=>"Section Géoinformation", "italian"=>"Sezione Geoinformazione", "english"=>""}, "name"=>{"german"=>"Sektion Geoinformation", "french"=>"Section Géoinformation", "italian"=>"Sezione Geoinformazione", "english"=>""}}, {"id"=>"20005633", "label"=>{"german"=>"GEOSTAT", "french"=>"GEOSTAT", "italian"=>"GEOSTAT", "english"=>""}, "name"=>{"german"=>"GEOSTAT", "french"=>"GEOSTAT", "italian"=>"GEOSTAT", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005633",
+  "name": {
+    "german": "GEOSTAT",
+    "french": "GEOSTAT",
+    "italian": "GEOSTAT",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046752",
+      "name": {
+        "german": "Pool Externe Westschweiz",
+        "french": "Pool Externe Westschweiz",
+        "italian": "Pool Externe Westschweiz",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6975712",
+      "surname": "Bühler",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 78995",
+      "function": {
+        "german": "Gruppenleiter/in Stv SC",
+        "french": "Gruppenleiter/in Stv SC",
+        "italian": "Gruppenleiter/in Stv SC",
+        "english": "Gruppenleiter/in Stv SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002656",
+      "label": {
+        "german": "Abteilung Raum und Umwelt",
+        "french": "Division Territoire et environnement",
+        "italian": "Divisione Territorio e ambiente",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Raum und Umwelt",
+        "french": "Division Territoire et environnement",
+        "italian": "Divisione Territorio e ambiente",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004680",
+      "label": {
+        "german": "Sektion Geoinformation",
+        "french": "Section Géoinformation",
+        "italian": "Sezione Geoinformazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Geoinformation",
+        "french": "Section Géoinformation",
+        "italian": "Sezione Geoinformazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005633",
+      "label": {
+        "german": "GEOSTAT",
+        "french": "GEOSTAT",
+        "italian": "GEOSTAT",
+        "english": ""
+      },
+      "name": {
+        "german": "GEOSTAT",
+        "french": "GEOSTAT",
+        "italian": "GEOSTAT",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

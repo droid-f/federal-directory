@@ -1,1 +1,156 @@
-{"id"=>"10003990", "name"=>{"german"=>"Marktzugang und Konformität", "french"=>"Accès au marché et conformité", "italian"=>"Accesso al mercato e conformità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6140221", "surname"=>"Cocciantelli", "givenName"=>"Lucio", "email"=>nil, "phone"=>"+41 58 46 05559", "function"=>{"german"=>"Leiter Marktzugang + Konformität", "french"=>"Leiter Marktzugang + Konformität", "italian"=>"Leiter Marktzugang + Konformität", "english"=>"Leiter Marktzugang + Konformität"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003994", "label"=>{"german"=>"Radio Monitoring und Anlagen", "french"=>"Radio monitoring et installations", "italian"=>"Radio monitoring e impianti", "english"=>""}, "name"=>{"german"=>"Radio Monitoring und Anlagen", "french"=>"Radio monitoring et installations", "italian"=>"Radio monitoring e impianti", "english"=>""}}, {"id"=>"10003990", "label"=>{"german"=>"Marktzugang und Konformität", "french"=>"Accès au marché et conformité", "italian"=>"Accesso al mercato e conformità", "english"=>""}, "name"=>{"german"=>"Marktzugang und Konformität", "french"=>"Accès au marché et conformité", "italian"=>"Accesso al mercato e conformità", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003990",
+  "name": {
+    "german": "Marktzugang und Konformität",
+    "french": "Accès au marché et conformité",
+    "italian": "Accesso al mercato e conformità",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6140221",
+      "surname": "Cocciantelli",
+      "givenName": "Lucio",
+      "email": null,
+      "phone": "+41 58 46 05559",
+      "function": {
+        "german": "Leiter Marktzugang + Konformität",
+        "french": "Leiter Marktzugang + Konformität",
+        "italian": "Leiter Marktzugang + Konformität",
+        "english": "Leiter Marktzugang + Konformität"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003994",
+      "label": {
+        "german": "Radio Monitoring und Anlagen",
+        "french": "Radio monitoring et installations",
+        "italian": "Radio monitoring e impianti",
+        "english": ""
+      },
+      "name": {
+        "german": "Radio Monitoring und Anlagen",
+        "french": "Radio monitoring et installations",
+        "italian": "Radio monitoring e impianti",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003990",
+      "label": {
+        "german": "Marktzugang und Konformität",
+        "french": "Accès au marché et conformité",
+        "italian": "Accesso al mercato e conformità",
+        "english": ""
+      },
+      "name": {
+        "german": "Marktzugang und Konformität",
+        "french": "Accès au marché et conformité",
+        "italian": "Accesso al mercato e conformità",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

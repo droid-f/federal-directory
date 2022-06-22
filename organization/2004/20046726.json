@@ -1,1 +1,230 @@
-{"id"=>"20046726", "name"=>{"german"=>"Direktionsbereich Risikoanalyse und Analytik", "french"=>"Domaine de direction Analyse des données et des risques", "italian"=>"Ambito direzionale Analisi dei dati e dei rischi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Taubenstrasse 16", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20048393", "name"=>{"german"=>"Unterstützungsdienste", "french"=>"Soutien conduite", "italian"=>"Sostegno condotta", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048606", "name"=>{"german"=>"Value Stream", "french"=>"Value Stream", "italian"=>"Value Stream", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048394", "name"=>{"german"=>"Risikoanalyse", "french"=>"Analyse des risques", "italian"=>"Analisi dei rischi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048428", "name"=>{"german"=>"Business Intelligence / Analytics", "french"=>"Business Intelligence / Analytics", "italian"=>"Business Intelligence / Analytics", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048396", "name"=>{"german"=>"Datenservices", "french"=>"Datenservices", "italian"=>"Datenservices", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048399", "name"=>{"german"=>"Information und Lage", "french"=>"Information und Lage", "italian"=>"Information und Lage", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9477631", "surname"=>"Dumont", "givenName"=>"Georges", "email"=>nil, "phone"=>"+41 58 46 76614", "function"=>{"german"=>"Vizedirektor/in", "french"=>"Vice-directeur/trice", "italian"=>"Vicedirettore/trice", "english"=>"Vizedirektor/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008659", "label"=>{"german"=>"BAZG", "french"=>"OFDF", "italian"=>"UDSC", "english"=>"FOCBS"}, "name"=>{"german"=>"Bundesamt für Zoll und Grenzsicherheit", "french"=>"Office fédéral de la douane et de la sécurité des frontières", "italian"=>"Ufficio federale della dogana e della sicurezza dei confini", "english"=>"Federal Office for Customs and Border Security"}}, {"id"=>"10007200", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20046726", "label"=>{"german"=>"Direktionsbereich Risikoanalyse und Analytik", "french"=>"Domaine de direction Analyse des données et des risques", "italian"=>"Ambito direzionale Analisi dei dati e dei rischi", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Risikoanalyse und Analytik", "french"=>"Domaine de direction Analyse des données et des risques", "italian"=>"Ambito direzionale Analisi dei dati e dei rischi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046726",
+  "name": {
+    "german": "Direktionsbereich Risikoanalyse und Analytik",
+    "french": "Domaine de direction Analyse des données et des risques",
+    "italian": "Ambito direzionale Analisi dei dati e dei rischi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Taubenstrasse 16",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20048393",
+      "name": {
+        "german": "Unterstützungsdienste",
+        "french": "Soutien conduite",
+        "italian": "Sostegno condotta",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048606",
+      "name": {
+        "german": "Value Stream",
+        "french": "Value Stream",
+        "italian": "Value Stream",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048394",
+      "name": {
+        "german": "Risikoanalyse",
+        "french": "Analyse des risques",
+        "italian": "Analisi dei rischi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048428",
+      "name": {
+        "german": "Business Intelligence / Analytics",
+        "french": "Business Intelligence / Analytics",
+        "italian": "Business Intelligence / Analytics",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048396",
+      "name": {
+        "german": "Datenservices",
+        "french": "Datenservices",
+        "italian": "Datenservices",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048399",
+      "name": {
+        "german": "Information und Lage",
+        "french": "Information und Lage",
+        "italian": "Information und Lage",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9477631",
+      "surname": "Dumont",
+      "givenName": "Georges",
+      "email": null,
+      "phone": "+41 58 46 76614",
+      "function": {
+        "german": "Vizedirektor/in",
+        "french": "Vice-directeur/trice",
+        "italian": "Vicedirettore/trice",
+        "english": "Vizedirektor/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008659",
+      "label": {
+        "german": "BAZG",
+        "french": "OFDF",
+        "italian": "UDSC",
+        "english": "FOCBS"
+      },
+      "name": {
+        "german": "Bundesamt für Zoll und Grenzsicherheit",
+        "french": "Office fédéral de la douane et de la sécurité des frontières",
+        "italian": "Ufficio federale della dogana e della sicurezza dei confini",
+        "english": "Federal Office for Customs and Border Security"
+      }
+    },
+    {
+      "id": "10007200",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046726",
+      "label": {
+        "german": "Direktionsbereich Risikoanalyse und Analytik",
+        "french": "Domaine de direction Analyse des données et des risques",
+        "italian": "Ambito direzionale Analisi dei dati e dei rischi",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Risikoanalyse und Analytik",
+        "french": "Domaine de direction Analyse des données et des risques",
+        "italian": "Ambito direzionale Analisi dei dati e dei rischi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

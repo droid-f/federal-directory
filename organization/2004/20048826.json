@@ -1,1 +1,171 @@
-{"id"=>"20048826", "name"=>{"german"=>"Marktbeobachtung", "french"=>"Observation du marché", "italian"=>"Osservatorio del mercato", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Einsteinstrasse 2", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5384436", "surname"=>"Stoffel", "givenName"=>"Lukas", "email"=>nil, "phone"=>"+41 58 48 10889", "function"=>{"german"=>"Wiss. Mitarbeiter/in Stab GL", "french"=>"Collab. scient., état-majeur de direct.", "italian"=>"Collab. scient. Stato mag. Dir.", "english"=>"Wiss. Mitarbeiter/in Stab GL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10002651", "label"=>{"german"=>"GS-WBF", "french"=>"GS-WBF", "italian"=>"GS-WBF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général du DEFR", "italian"=>"Segreteria generale DEFR", "english"=>""}}, {"id"=>"10008655", "label"=>{"german"=>"GS-WBF", "french"=>"SG-DEFR", "italian"=>"SG-DEFR", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général SG-DEFR", "italian"=>"Segreteria generale SG-DEFR", "english"=>""}}, {"id"=>"10002670", "label"=>{"german"=>"PUE", "french"=>"SPR", "italian"=>"SPR", "english"=>""}, "name"=>{"german"=>"Preisüberwachung", "french"=>"Surveillance des prix", "italian"=>"Sorveglianza dei prezzi", "english"=>""}}, {"id"=>"20024853", "label"=>{"german"=>"Geschäftsführer/in", "french"=>"Gérant/e", "italian"=>"Gerente", "english"=>""}, "name"=>{"german"=>"Geschäftsführer/in", "french"=>"Gérant/e", "italian"=>"Gerente", "english"=>""}}, {"id"=>"20048826", "label"=>{"german"=>"Marktbeobachtung", "french"=>"Observation du marché", "italian"=>"Osservatorio del mercato", "english"=>""}, "name"=>{"german"=>"Marktbeobachtung", "french"=>"Observation du marché", "italian"=>"Osservatorio del mercato", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048826",
+  "name": {
+    "german": "Marktbeobachtung",
+    "french": "Observation du marché",
+    "italian": "Osservatorio del mercato",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Einsteinstrasse 2",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5384436",
+      "surname": "Stoffel",
+      "givenName": "Lukas",
+      "email": null,
+      "phone": "+41 58 48 10889",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in Stab GL",
+        "french": "Collab. scient., état-majeur de direct.",
+        "italian": "Collab. scient. Stato mag. Dir.",
+        "english": "Wiss. Mitarbeiter/in Stab GL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002651",
+      "label": {
+        "german": "GS-WBF",
+        "french": "GS-WBF",
+        "italian": "GS-WBF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général du DEFR",
+        "italian": "Segreteria generale DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008655",
+      "label": {
+        "german": "GS-WBF",
+        "french": "SG-DEFR",
+        "italian": "SG-DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général SG-DEFR",
+        "italian": "Segreteria generale SG-DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002670",
+      "label": {
+        "german": "PUE",
+        "french": "SPR",
+        "italian": "SPR",
+        "english": ""
+      },
+      "name": {
+        "german": "Preisüberwachung",
+        "french": "Surveillance des prix",
+        "italian": "Sorveglianza dei prezzi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024853",
+      "label": {
+        "german": "Geschäftsführer/in",
+        "french": "Gérant/e",
+        "italian": "Gerente",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsführer/in",
+        "french": "Gérant/e",
+        "italian": "Gerente",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048826",
+      "label": {
+        "german": "Marktbeobachtung",
+        "french": "Observation du marché",
+        "italian": "Osservatorio del mercato",
+        "english": ""
+      },
+      "name": {
+        "german": "Marktbeobachtung",
+        "french": "Observation du marché",
+        "italian": "Osservatorio del mercato",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,125 @@
-{"id"=>"20046735", "name"=>{"german"=>"Kommission", "french"=>"Kommission", "italian"=>"Kommission", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Christoffelgasse 5", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20030369", "label"=>{"german"=>"RegInfra", "french"=>"RegInfra", "italian"=>"RegInfra", "english"=>""}, "name"=>{"german"=>"Regulierungsbehörden Infrastruktur", "french"=>"Autorités de régulation des infrastructures", "italian"=>"Autorità di regolazione delle infrastrutture", "english"=>""}}, {"id"=>"20030953", "label"=>{"german"=>"ComCom", "french"=>"ComCom", "italian"=>"ComCom", "english"=>""}, "name"=>{"german"=>"Eidgenössische Kommunikationskommission", "french"=>"Commission fédérale de la communication", "italian"=>"Commissione federale delle comunicazioni", "english"=>""}}, {"id"=>"20046735", "label"=>{"german"=>"Kommission", "french"=>"Kommission", "italian"=>"Kommission", "english"=>""}, "name"=>{"german"=>"Kommission", "french"=>"Kommission", "italian"=>"Kommission", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046735",
+  "name": {
+    "german": "Kommission",
+    "french": "Kommission",
+    "italian": "Kommission",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Christoffelgasse 5",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030369",
+      "label": {
+        "german": "RegInfra",
+        "french": "RegInfra",
+        "italian": "RegInfra",
+        "english": ""
+      },
+      "name": {
+        "german": "Regulierungsbehörden Infrastruktur",
+        "french": "Autorités de régulation des infrastructures",
+        "italian": "Autorità di regolazione delle infrastrutture",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030953",
+      "label": {
+        "german": "ComCom",
+        "french": "ComCom",
+        "italian": "ComCom",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Kommunikationskommission",
+        "french": "Commission fédérale de la communication",
+        "italian": "Commissione federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046735",
+      "label": {
+        "german": "Kommission",
+        "french": "Kommission",
+        "italian": "Kommission",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommission",
+        "french": "Kommission",
+        "italian": "Kommission",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

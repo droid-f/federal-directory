@@ -1,1 +1,170 @@
-{"id"=>"20042775", "name"=>{"german"=>"Klasse Offizierschule 4 Inf OS 10", "french"=>"Classe école d'officiers 4 EO inf 10", "italian"=>"Classe 4 scuola ufficiali fant 10", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo Inf OS 10", "street"=>"Kaserne", "postalCode"=>"4410", "location"=>"Liestal", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015869", "label"=>{"german"=>"LVBINF", "french"=>"LVBINF", "italian"=>"LVBINF", "english"=>""}, "name"=>{"german"=>"Lehrverband Infanterie", "french"=>"Formation d'application de l'infanterie", "italian"=>"Formazione d'addestramento fant", "english"=>""}}, {"id"=>"20003831", "label"=>{"german"=>"Infanterie Offizierschule 10", "french"=>"Ecole d'officiers de l'infanterie 10", "italian"=>"Scuola ufficiali della fanteria 10", "english"=>""}, "name"=>{"german"=>"Infanterie Offizierschule 10", "french"=>"Ecole d'officiers de l'infanterie 10", "italian"=>"Scuola ufficiali della fanteria 10", "english"=>""}}, {"id"=>"20042775", "label"=>{"german"=>"Klasse Offizierschule 4 Inf OS 10", "french"=>"Classe école d'officiers 4 EO inf 10", "italian"=>"Classe 4 scuola ufficiali fant 10", "english"=>""}, "name"=>{"german"=>"Klasse Offizierschule 4 Inf OS 10", "french"=>"Classe école d'officiers 4 EO inf 10", "italian"=>"Classe 4 scuola ufficiali fant 10", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042775",
+  "name": {
+    "german": "Klasse Offizierschule 4 Inf OS 10",
+    "french": "Classe école d'officiers 4 EO inf 10",
+    "italian": "Classe 4 scuola ufficiali fant 10",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo Inf OS 10",
+    "street": "Kaserne",
+    "postalCode": "4410",
+    "location": "Liestal",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015869",
+      "label": {
+        "german": "LVBINF",
+        "french": "LVBINF",
+        "italian": "LVBINF",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Infanterie",
+        "french": "Formation d'application de l'infanterie",
+        "italian": "Formazione d'addestramento fant",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003831",
+      "label": {
+        "german": "Infanterie Offizierschule 10",
+        "french": "Ecole d'officiers de l'infanterie 10",
+        "italian": "Scuola ufficiali della fanteria 10",
+        "english": ""
+      },
+      "name": {
+        "german": "Infanterie Offizierschule 10",
+        "french": "Ecole d'officiers de l'infanterie 10",
+        "italian": "Scuola ufficiali della fanteria 10",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042775",
+      "label": {
+        "german": "Klasse Offizierschule 4 Inf OS 10",
+        "french": "Classe école d'officiers 4 EO inf 10",
+        "italian": "Classe 4 scuola ufficiali fant 10",
+        "english": ""
+      },
+      "name": {
+        "german": "Klasse Offizierschule 4 Inf OS 10",
+        "french": "Classe école d'officiers 4 EO inf 10",
+        "italian": "Classe 4 scuola ufficiali fant 10",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

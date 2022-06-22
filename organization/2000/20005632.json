@@ -1,1 +1,171 @@
-{"id"=>"20005632", "name"=>{"german"=>"Arealstatistik", "french"=>"Statistique de la superficie", "italian"=>"Statistica della superficie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9464606", "surname"=>"Gillard", "givenName"=>"Michèle", "email"=>nil, "phone"=>"+41 58 46 98848", "function"=>{"german"=>"Gruppenleiter/in", "french"=>"Gruppenleiter/in", "italian"=>"Gruppenleiter/in", "english"=>"Gruppenleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20002656", "label"=>{"german"=>"Abteilung Raum und Umwelt", "french"=>"Division Territoire et environnement", "italian"=>"Divisione Territorio e ambiente", "english"=>""}, "name"=>{"german"=>"Abteilung Raum und Umwelt", "french"=>"Division Territoire et environnement", "italian"=>"Divisione Territorio e ambiente", "english"=>""}}, {"id"=>"10004680", "label"=>{"german"=>"Sektion Geoinformation", "french"=>"Section Géoinformation", "italian"=>"Sezione Geoinformazione", "english"=>""}, "name"=>{"german"=>"Sektion Geoinformation", "french"=>"Section Géoinformation", "italian"=>"Sezione Geoinformazione", "english"=>""}}, {"id"=>"20005632", "label"=>{"german"=>"Arealstatistik", "french"=>"Statistique de la superficie", "italian"=>"Statistica della superficie", "english"=>""}, "name"=>{"german"=>"Arealstatistik", "french"=>"Statistique de la superficie", "italian"=>"Statistica della superficie", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005632",
+  "name": {
+    "german": "Arealstatistik",
+    "french": "Statistique de la superficie",
+    "italian": "Statistica della superficie",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9464606",
+      "surname": "Gillard",
+      "givenName": "Michèle",
+      "email": null,
+      "phone": "+41 58 46 98848",
+      "function": {
+        "german": "Gruppenleiter/in",
+        "french": "Gruppenleiter/in",
+        "italian": "Gruppenleiter/in",
+        "english": "Gruppenleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002656",
+      "label": {
+        "german": "Abteilung Raum und Umwelt",
+        "french": "Division Territoire et environnement",
+        "italian": "Divisione Territorio e ambiente",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Raum und Umwelt",
+        "french": "Division Territoire et environnement",
+        "italian": "Divisione Territorio e ambiente",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004680",
+      "label": {
+        "german": "Sektion Geoinformation",
+        "french": "Section Géoinformation",
+        "italian": "Sezione Geoinformazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Geoinformation",
+        "french": "Section Géoinformation",
+        "italian": "Sezione Geoinformazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005632",
+      "label": {
+        "german": "Arealstatistik",
+        "french": "Statistique de la superficie",
+        "italian": "Statistica della superficie",
+        "english": ""
+      },
+      "name": {
+        "german": "Arealstatistik",
+        "french": "Statistique de la superficie",
+        "italian": "Statistica della superficie",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

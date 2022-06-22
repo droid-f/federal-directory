@@ -1,1 +1,158 @@
-{"id"=>"20031454", "name"=>{"german"=>"PKF - Führungsinstrumente / Rechtsdienst", "french"=>"Instruments de gestion / serv. juridique", "italian"=>"Strumenti di gestione / serv. giuridico", "english"=>""}, "nameAbbr"=>{"german"=>"PKF", "french"=>"PKF", "italian"=>"PKF", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7261727", "surname"=>"Von der Crone", "givenName"=>"Markus", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Abteilungsleiter/in", "french"=>"Chef(fe) de service", "italian"=>"Capo dipartimento", "english"=>"Abteilungsleiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9218680", "surname"=>"Lehner", "givenName"=>"Caroline", "email"=>nil, "phone"=>"+41 58 46 09328", "function"=>{"german"=>"Leiter/in Rechtsdienst", "french"=>"Collaboration juridique Soutien", "italian"=>"Collaborazione giuridica Sostegno", "english"=>"Leiter/in Rechtsdienst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20031387", "label"=>{"german"=>"PK", "french"=>"PK", "italian"=>"PK", "english"=>""}, "name"=>{"german"=>"PK - Planung und Kundenbeziehungen", "french"=>"Planification et relations avec les clie", "italian"=>"Pianificazione e relazioni con la client", "english"=>""}}, {"id"=>"20031454", "label"=>{"german"=>"PKF", "french"=>"PKF", "italian"=>"PKF", "english"=>""}, "name"=>{"german"=>"PKF - Führungsinstrumente / Rechtsdienst", "french"=>"Instruments de gestion / serv. juridique", "italian"=>"Strumenti di gestione / serv. giuridico", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031454",
+  "name": {
+    "german": "PKF - Führungsinstrumente / Rechtsdienst",
+    "french": "Instruments de gestion / serv. juridique",
+    "italian": "Strumenti di gestione / serv. giuridico",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "PKF",
+    "french": "PKF",
+    "italian": "PKF",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7261727",
+      "surname": "Von der Crone",
+      "givenName": "Markus",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Abteilungsleiter/in",
+        "french": "Chef(fe) de service",
+        "italian": "Capo dipartimento",
+        "english": "Abteilungsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9218680",
+      "surname": "Lehner",
+      "givenName": "Caroline",
+      "email": null,
+      "phone": "+41 58 46 09328",
+      "function": {
+        "german": "Leiter/in Rechtsdienst",
+        "french": "Collaboration juridique Soutien",
+        "italian": "Collaborazione giuridica Sostegno",
+        "english": "Leiter/in Rechtsdienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20031387",
+      "label": {
+        "german": "PK",
+        "french": "PK",
+        "italian": "PK",
+        "english": ""
+      },
+      "name": {
+        "german": "PK - Planung und Kundenbeziehungen",
+        "french": "Planification et relations avec les clie",
+        "italian": "Pianificazione e relazioni con la client",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031454",
+      "label": {
+        "german": "PKF",
+        "french": "PKF",
+        "italian": "PKF",
+        "english": ""
+      },
+      "name": {
+        "german": "PKF - Führungsinstrumente / Rechtsdienst",
+        "french": "Instruments de gestion / serv. juridique",
+        "italian": "Strumenti di gestione / serv. giuridico",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

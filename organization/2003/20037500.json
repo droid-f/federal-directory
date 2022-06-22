@@ -1,1 +1,140 @@
-{"id"=>"20037500", "name"=>{"german"=>"Lernende", "french"=>"Apprentis", "italian"=>"Apprendisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Gurtengasse 5", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10010826", "label"=>{"german"=>"R", "french"=>"R", "italian"=>"R", "english"=>""}, "name"=>{"german"=>"Bereich Ressourcen", "french"=>"Secteur Ressources", "italian"=>"Settore Risorse", "english"=>""}}, {"id"=>"10010827", "label"=>{"german"=>"PFC", "french"=>"PFC", "italian"=>"PFC", "english"=>""}, "name"=>{"german"=>"Sektion Personal, Finanzen, Controlling", "french"=>"Section Personnel, finances, contrôle de gestion", "italian"=>"Sezione Personale, finanza, controlling", "english"=>""}}, {"id"=>"20037456", "label"=>{"german"=>"Personal", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}, "name"=>{"german"=>"Personal", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}}, {"id"=>"20037500", "label"=>{"german"=>"Lernende", "french"=>"Apprentis", "italian"=>"Apprendisti", "english"=>""}, "name"=>{"german"=>"Lernende", "french"=>"Apprentis", "italian"=>"Apprendisti", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037500",
+  "name": {
+    "german": "Lernende",
+    "french": "Apprentis",
+    "italian": "Apprendisti",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Gurtengasse 5",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010826",
+      "label": {
+        "german": "R",
+        "french": "R",
+        "italian": "R",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Ressourcen",
+        "french": "Secteur Ressources",
+        "italian": "Settore Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010827",
+      "label": {
+        "german": "PFC",
+        "french": "PFC",
+        "italian": "PFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Personal, Finanzen, Controlling",
+        "french": "Section Personnel, finances, contrôle de gestion",
+        "italian": "Sezione Personale, finanza, controlling",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037456",
+      "label": {
+        "german": "Personal",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037500",
+      "label": {
+        "german": "Lernende",
+        "french": "Apprentis",
+        "italian": "Apprendisti",
+        "english": ""
+      },
+      "name": {
+        "german": "Lernende",
+        "french": "Apprentis",
+        "italian": "Apprendisti",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

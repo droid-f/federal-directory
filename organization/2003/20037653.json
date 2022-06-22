@@ -1,1 +1,286 @@
-{"id"=>"20037653", "name"=>{"german"=>"Geschäftskoordination", "french"=>"Coordination des affaires", "italian"=>"Coordinamento degli affari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Friedheimweg 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035778", "name"=>{"german"=>"TC KV Lernende", "french"=>"TC KV Lernende", "italian"=>"TC KV Lernende", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7766251", "surname"=>"Huesca", "givenName"=>"Cassandre", "email"=>nil, "phone"=>"+41 58 46 68861", "function"=>{"german"=>"Gruppenleiter/in GK / stv. RL TCQL", "french"=>"Gruppenleiter/in GK TCQL", "italian"=>"Gruppenleiter/in GK TCQL", "english"=>"Gruppenleiter/in GK / stv. RL TCQL"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7697604", "surname"=>"Guggisberg", "givenName"=>"Iris", "email"=>nil, "phone"=>"+41 58 46 32922", "function"=>{"german"=>"Spezialist/in Kommunikation GK TCQL", "french"=>"Spezialist/in Kommunikation GK TCQL", "italian"=>"Spezialist/in Kommunikation GK TCQL", "english"=>"Spezialist/in Kommunikation GK TCQL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8169001", "surname"=>"Baer", "givenName"=>"Cornelia", "email"=>nil, "phone"=>"+41 58 46 35597", "function"=>{"german"=>"Spezialist/in Kommunikation GK TCQL", "french"=>"Spezialist/in Kommunikation GK TCQL", "italian"=>"Spezialist/in Kommunikation GK TCQL", "english"=>"Spezialist/in Kommunikation GK TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5738369", "surname"=>"Keller", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 46 30605", "function"=>{"german"=>"Wiss. Mitarbeiter/in Geschäftsp. GK TCQL", "french"=>"Wiss. Mitarbeiter/in Geschäftsp. GK TCQL", "italian"=>"Wiss. Mitarbeiter/in Geschäftsp. GK TCQL", "english"=>"Wiss. Mitarbeiter/in Geschäftsp. GK TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8728671", "surname"=>"Knaus", "givenName"=>"Alan", "email"=>nil, "phone"=>"+41 58 46 60788", "function"=>{"german"=>"Spezialist/in Kommunikation GK TCQL", "french"=>"Spezialist/in Kommunikation GK TCQL", "italian"=>"Spezialist/in Kommunikation GK TCQL", "english"=>"Spezialist/in Kommunikation GK TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7764457", "surname"=>"Ogi", "givenName"=>"Laura", "email"=>nil, "phone"=>"+41 58 46 71013", "function"=>{"german"=>"Wiss. Mitarbeiter/in Geschäftsp. GK TCQL", "french"=>"Wiss. Mitarbeiter/in Geschäftsp. GK TCQL", "italian"=>"Wiss. Mitarbeiter/in Geschäftsp. GK TCQL", "english"=>"Wiss. Mitarbeiter/in Geschäftsp. GK TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9771305", "surname"=>"Olesen", "givenName"=>"Aude", "email"=>nil, "phone"=>"+41 58 48 49904", "function"=>{"german"=>"Spezialist/in Kommunikation GK TCQL", "french"=>"Spezialist/in Kommunikation GK TCQL", "italian"=>"Spezialist/in Kommunikation GK TCQL", "english"=>"Spezialist/in Kommunikation GK TCQL"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"10004185", "label"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}, "name"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}}, {"id"=>"20037651", "label"=>{"german"=>"Querschnittleistungen", "french"=>"Prestations transversales", "italian"=>"Prestazioni transversali", "english"=>""}, "name"=>{"german"=>"Querschnittleistungen", "french"=>"Prestations transversales", "italian"=>"Prestazioni transversali", "english"=>""}}, {"id"=>"20037653", "label"=>{"german"=>"Geschäftskoordination", "french"=>"Coordination des affaires", "italian"=>"Coordinamento degli affari", "english"=>""}, "name"=>{"german"=>"Geschäftskoordination", "french"=>"Coordination des affaires", "italian"=>"Coordinamento degli affari", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037653",
+  "name": {
+    "german": "Geschäftskoordination",
+    "french": "Coordination des affaires",
+    "italian": "Coordinamento degli affari",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Friedheimweg 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035778",
+      "name": {
+        "german": "TC KV Lernende",
+        "french": "TC KV Lernende",
+        "italian": "TC KV Lernende",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7766251",
+      "surname": "Huesca",
+      "givenName": "Cassandre",
+      "email": null,
+      "phone": "+41 58 46 68861",
+      "function": {
+        "german": "Gruppenleiter/in GK / stv. RL TCQL",
+        "french": "Gruppenleiter/in GK TCQL",
+        "italian": "Gruppenleiter/in GK TCQL",
+        "english": "Gruppenleiter/in GK / stv. RL TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7697604",
+      "surname": "Guggisberg",
+      "givenName": "Iris",
+      "email": null,
+      "phone": "+41 58 46 32922",
+      "function": {
+        "german": "Spezialist/in Kommunikation GK TCQL",
+        "french": "Spezialist/in Kommunikation GK TCQL",
+        "italian": "Spezialist/in Kommunikation GK TCQL",
+        "english": "Spezialist/in Kommunikation GK TCQL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8169001",
+      "surname": "Baer",
+      "givenName": "Cornelia",
+      "email": null,
+      "phone": "+41 58 46 35597",
+      "function": {
+        "german": "Spezialist/in Kommunikation GK TCQL",
+        "french": "Spezialist/in Kommunikation GK TCQL",
+        "italian": "Spezialist/in Kommunikation GK TCQL",
+        "english": "Spezialist/in Kommunikation GK TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5738369",
+      "surname": "Keller",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 46 30605",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in Geschäftsp. GK TCQL",
+        "french": "Wiss. Mitarbeiter/in Geschäftsp. GK TCQL",
+        "italian": "Wiss. Mitarbeiter/in Geschäftsp. GK TCQL",
+        "english": "Wiss. Mitarbeiter/in Geschäftsp. GK TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8728671",
+      "surname": "Knaus",
+      "givenName": "Alan",
+      "email": null,
+      "phone": "+41 58 46 60788",
+      "function": {
+        "german": "Spezialist/in Kommunikation GK TCQL",
+        "french": "Spezialist/in Kommunikation GK TCQL",
+        "italian": "Spezialist/in Kommunikation GK TCQL",
+        "english": "Spezialist/in Kommunikation GK TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7764457",
+      "surname": "Ogi",
+      "givenName": "Laura",
+      "email": null,
+      "phone": "+41 58 46 71013",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in Geschäftsp. GK TCQL",
+        "french": "Wiss. Mitarbeiter/in Geschäftsp. GK TCQL",
+        "italian": "Wiss. Mitarbeiter/in Geschäftsp. GK TCQL",
+        "english": "Wiss. Mitarbeiter/in Geschäftsp. GK TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9771305",
+      "surname": "Olesen",
+      "givenName": "Aude",
+      "email": null,
+      "phone": "+41 58 48 49904",
+      "function": {
+        "german": "Spezialist/in Kommunikation GK TCQL",
+        "french": "Spezialist/in Kommunikation GK TCQL",
+        "italian": "Spezialist/in Kommunikation GK TCQL",
+        "english": "Spezialist/in Kommunikation GK TCQL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004185",
+      "label": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037651",
+      "label": {
+        "german": "Querschnittleistungen",
+        "french": "Prestations transversales",
+        "italian": "Prestazioni transversali",
+        "english": ""
+      },
+      "name": {
+        "german": "Querschnittleistungen",
+        "french": "Prestations transversales",
+        "italian": "Prestazioni transversali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037653",
+      "label": {
+        "german": "Geschäftskoordination",
+        "french": "Coordination des affaires",
+        "italian": "Coordinamento degli affari",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftskoordination",
+        "french": "Coordination des affaires",
+        "italian": "Coordinamento degli affari",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

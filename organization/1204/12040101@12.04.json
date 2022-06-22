@@ -1,1 +1,123 @@
-{"id"=>"12040101@12.04", "name"=>{"german"=>"Museumsbetrieb", "french"=>"Exploitation muséale", "italian"=>"Esercizio museale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Museumstrasse 2", "postalCode"=>"8021", "location"=>"Zürich", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-3371289", "surname"=>"Hoegger", "givenName"=>"Beat", "email"=>nil, "phone"=>"+41 44 21 86683", "function"=>{"german"=>"Geschäftsführer Museumsbetrieb, Mitglied der Geschäftsleitung SNM", "french"=>"Geschäftsführer Museumsbetrieb, Mitglied der Geschäftsleitung SNM", "italian"=>"Geschäftsführer Museumsbetrieb, Mitglied der Geschäftsleitung SNM", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"12040100@12.04", "label"=>{"german"=>"SNM", "french"=>"MNS", "italian"=>"MNS", "english"=>""}, "name"=>{"german"=>"Schweizerisches Nationalmuseum", "french"=>"Musée National Suisse", "italian"=>"Museo Nazionale Svizzero", "english"=>""}}, {"id"=>"12040101@12.04", "label"=>{"german"=>"Museumsbetrieb", "french"=>"Exploitation muséale", "italian"=>"Esercizio museale", "english"=>""}, "name"=>{"german"=>"Museumsbetrieb", "french"=>"Exploitation muséale", "italian"=>"Esercizio museale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12040101@12.04",
+  "name": {
+    "german": "Museumsbetrieb",
+    "french": "Exploitation muséale",
+    "italian": "Esercizio museale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Museumstrasse 2",
+    "postalCode": "8021",
+    "location": "Zürich",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-3371289",
+      "surname": "Hoegger",
+      "givenName": "Beat",
+      "email": null,
+      "phone": "+41 44 21 86683",
+      "function": {
+        "german": "Geschäftsführer Museumsbetrieb, Mitglied der Geschäftsleitung SNM",
+        "french": "Geschäftsführer Museumsbetrieb, Mitglied der Geschäftsleitung SNM",
+        "italian": "Geschäftsführer Museumsbetrieb, Mitglied der Geschäftsleitung SNM",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040100@12.04",
+      "label": {
+        "german": "SNM",
+        "french": "MNS",
+        "italian": "MNS",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Nationalmuseum",
+        "french": "Musée National Suisse",
+        "italian": "Museo Nazionale Svizzero",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040101@12.04",
+      "label": {
+        "german": "Museumsbetrieb",
+        "french": "Exploitation muséale",
+        "italian": "Esercizio museale",
+        "english": ""
+      },
+      "name": {
+        "german": "Museumsbetrieb",
+        "french": "Exploitation muséale",
+        "italian": "Esercizio museale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

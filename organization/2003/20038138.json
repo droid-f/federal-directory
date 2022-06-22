@@ -1,1 +1,200 @@
-{"id"=>"20038138", "name"=>{"german"=>"Operationen FUB", "french"=>"Opérations BAC", "italian"=>"Operazioni BAC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20030615", "name"=>{"german"=>"Führungszentrum", "french"=>"Centre de conduite", "italian"=>"Centro di condotta", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040659", "name"=>{"german"=>"Lageverfolgungszentrum", "french"=>"Centre de suivi de la situation", "italian"=>"Centro di monitoraggio della situazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0730244", "surname"=>"Schwery", "givenName"=>"Roger", "email"=>nil, "phone"=>"+41 58 48 36183", "function"=>{"german"=>"Chef/in Operationen FUB / Stv C", "french"=>"Chef Aide cdmt conduite / rempl c", "italian"=>"Capo Condotta aiuto cond / sost C", "english"=>"Chef/in Operationen FUB / Stv C"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"10009869", "label"=>{"german"=>"FUB", "french"=>"BAC", "italian"=>"BAC", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbasis", "french"=>"Base d'aide au commandement", "italian"=>"Base d'aiuto alla condotta", "english"=>""}}, {"id"=>"20030611", "label"=>{"german"=>"Stab / Einsatz- und Krisenmanagement", "french"=>"EM / Gest de l'engagement et des crises", "italian"=>"SM / Gest degli impieghi e delle crisi", "english"=>""}, "name"=>{"german"=>"Stab / Einsatz- und Krisenmanagement", "french"=>"EM / Gest de l'engagement et des crises", "italian"=>"SM / Gest degli impieghi e delle crisi", "english"=>""}}, {"id"=>"20038138", "label"=>{"german"=>"Operationen FUB", "french"=>"Opérations BAC", "italian"=>"Operazioni BAC", "english"=>""}, "name"=>{"german"=>"Operationen FUB", "french"=>"Opérations BAC", "italian"=>"Operazioni BAC", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038138",
+  "name": {
+    "german": "Operationen FUB",
+    "french": "Opérations BAC",
+    "italian": "Operazioni BAC",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20030615",
+      "name": {
+        "german": "Führungszentrum",
+        "french": "Centre de conduite",
+        "italian": "Centro di condotta",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040659",
+      "name": {
+        "german": "Lageverfolgungszentrum",
+        "french": "Centre de suivi de la situation",
+        "italian": "Centro di monitoraggio della situazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0730244",
+      "surname": "Schwery",
+      "givenName": "Roger",
+      "email": null,
+      "phone": "+41 58 48 36183",
+      "function": {
+        "german": "Chef/in Operationen FUB / Stv C",
+        "french": "Chef Aide cdmt conduite / rempl c",
+        "italian": "Capo Condotta aiuto cond / sost C",
+        "english": "Chef/in Operationen FUB / Stv C"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009869",
+      "label": {
+        "german": "FUB",
+        "french": "BAC",
+        "italian": "BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbasis",
+        "french": "Base d'aide au commandement",
+        "italian": "Base d'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030611",
+      "label": {
+        "german": "Stab / Einsatz- und Krisenmanagement",
+        "french": "EM / Gest de l'engagement et des crises",
+        "italian": "SM / Gest degli impieghi e delle crisi",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab / Einsatz- und Krisenmanagement",
+        "french": "EM / Gest de l'engagement et des crises",
+        "italian": "SM / Gest degli impieghi e delle crisi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038138",
+      "label": {
+        "german": "Operationen FUB",
+        "french": "Opérations BAC",
+        "italian": "Operazioni BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Operationen FUB",
+        "french": "Opérations BAC",
+        "italian": "Operazioni BAC",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

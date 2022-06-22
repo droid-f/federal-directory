@@ -1,1 +1,171 @@
-{"id"=>"20038006", "name"=>{"german"=>"Immobilien und Logistik", "french"=>"Immobilier et logistique", "italian"=>"Immobili e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4466856", "surname"=>"Scialli", "givenName"=>"Raffaele", "email"=>nil, "phone"=>"+41 58 48 36659", "function"=>{"german"=>"Stv. Chef/in Dienst / PL Immobilien", "french"=>"Stv. Chef/in Dienst / PL Immobilien", "italian"=>"Stv. Chef/in Dienst / PL Immobilien", "english"=>"Stv. Chef/in Dienst / PL Immobilien"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026307", "label"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}, "name"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}}, {"id"=>"20026314", "label"=>{"german"=>"Sicherheit und Immobilien", "french"=>"Securité et immobilier", "italian"=>"Sicurezza e immobili", "english"=>""}, "name"=>{"german"=>"Sicherheit und Immobilien", "french"=>"Securité et immobilier", "italian"=>"Sicurezza e immobili", "english"=>""}}, {"id"=>"20038006", "label"=>{"german"=>"Immobilien und Logistik", "french"=>"Immobilier et logistique", "italian"=>"Immobili e logistica", "english"=>""}, "name"=>{"german"=>"Immobilien und Logistik", "french"=>"Immobilier et logistique", "italian"=>"Immobili e logistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038006",
+  "name": {
+    "german": "Immobilien und Logistik",
+    "french": "Immobilier et logistique",
+    "italian": "Immobili e logistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4466856",
+      "surname": "Scialli",
+      "givenName": "Raffaele",
+      "email": null,
+      "phone": "+41 58 48 36659",
+      "function": {
+        "german": "Stv. Chef/in Dienst / PL Immobilien",
+        "french": "Stv. Chef/in Dienst / PL Immobilien",
+        "italian": "Stv. Chef/in Dienst / PL Immobilien",
+        "english": "Stv. Chef/in Dienst / PL Immobilien"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026307",
+      "label": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026314",
+      "label": {
+        "german": "Sicherheit und Immobilien",
+        "french": "Securité et immobilier",
+        "italian": "Sicurezza e immobili",
+        "english": ""
+      },
+      "name": {
+        "german": "Sicherheit und Immobilien",
+        "french": "Securité et immobilier",
+        "italian": "Sicurezza e immobili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038006",
+      "label": {
+        "german": "Immobilien und Logistik",
+        "french": "Immobilier et logistique",
+        "italian": "Immobili e logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Immobilien und Logistik",
+        "french": "Immobilier et logistique",
+        "italian": "Immobili e logistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

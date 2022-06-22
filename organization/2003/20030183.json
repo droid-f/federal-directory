@@ -1,1 +1,167 @@
-{"id"=>"20030183", "name"=>{"german"=>"Abteilung III Kammer 1.4", "french"=>"Cour III Chambre 1.4", "italian"=>"Corte III Camera 1.4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7203899", "surname"=>"Bürki Moreni", "givenName"=>"Michela", "email"=>nil, "phone"=>"+41 58 46 52620", "function"=>{"german"=>"Richter/in Abteilung III", "french"=>"Juge Cour III", "italian"=>"Giudice Corte III", "english"=>"Richter/in Abteilung III"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5890572", "surname"=>"Engel", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 46 52620", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung III", "french"=>"Greffier/Greffière Cour III", "italian"=>"Cancelliere/a Corte III", "english"=>"Gerichtsschreiber/in Abteilung III"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7719865", "surname"=>"Mordasini", "givenName"=>"Graziano", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung III", "french"=>"Greffier/Greffière Cour III", "italian"=>"Cancelliere/a Corte III", "english"=>"Gerichtsschreiber/in Abteilung III"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3259729", "surname"=>"Rossi", "givenName"=>"Luca", "email"=>nil, "phone"=>"+41 58 46 52620", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung III", "french"=>"Greffier/Greffière II Cour III", "italian"=>"Cancelliere/a II Corte III", "english"=>"Gerichtsschreiber/in II Abteilung III"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014818", "label"=>{"german"=>"Abteilung III - Ausländer, Gesundheit und Sozialversicherungen", "french"=>"Cour III - étrangers, santé et assurances sociales", "italian"=>"Corte III - stranieri, salute e previdenza sociale", "english"=>""}, "name"=>{"german"=>"Abteilung III - Ausländer, Gesundheit und Sozialversicherungen", "french"=>"Cour III - étrangers, santé et assurances sociales", "italian"=>"Corte III - stranieri, salute e previdenza sociale", "english"=>""}}, {"id"=>"20030178", "label"=>{"german"=>"Abteilung III Kammer 1", "french"=>"Cour III Chambre 1", "italian"=>"Corte III Camera 1", "english"=>""}, "name"=>{"german"=>"Abteilung III Kammer 1", "french"=>"Cour III Chambre 1", "italian"=>"Corte III Camera 1", "english"=>""}}, {"id"=>"20030183", "label"=>{"german"=>"Abteilung III Kammer 1.4", "french"=>"Cour III Chambre 1.4", "italian"=>"Corte III Camera 1.4", "english"=>""}, "name"=>{"german"=>"Abteilung III Kammer 1.4", "french"=>"Cour III Chambre 1.4", "italian"=>"Corte III Camera 1.4", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030183",
+  "name": {
+    "german": "Abteilung III Kammer 1.4",
+    "french": "Cour III Chambre 1.4",
+    "italian": "Corte III Camera 1.4",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7203899",
+      "surname": "Bürki Moreni",
+      "givenName": "Michela",
+      "email": null,
+      "phone": "+41 58 46 52620",
+      "function": {
+        "german": "Richter/in Abteilung III",
+        "french": "Juge Cour III",
+        "italian": "Giudice Corte III",
+        "english": "Richter/in Abteilung III"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5890572",
+      "surname": "Engel",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 46 52620",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung III",
+        "french": "Greffier/Greffière Cour III",
+        "italian": "Cancelliere/a Corte III",
+        "english": "Gerichtsschreiber/in Abteilung III"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7719865",
+      "surname": "Mordasini",
+      "givenName": "Graziano",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung III",
+        "french": "Greffier/Greffière Cour III",
+        "italian": "Cancelliere/a Corte III",
+        "english": "Gerichtsschreiber/in Abteilung III"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3259729",
+      "surname": "Rossi",
+      "givenName": "Luca",
+      "email": null,
+      "phone": "+41 58 46 52620",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung III",
+        "french": "Greffier/Greffière II Cour III",
+        "italian": "Cancelliere/a II Corte III",
+        "english": "Gerichtsschreiber/in II Abteilung III"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014818",
+      "label": {
+        "german": "Abteilung III - Ausländer, Gesundheit und Sozialversicherungen",
+        "french": "Cour III - étrangers, santé et assurances sociales",
+        "italian": "Corte III - stranieri, salute e previdenza sociale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung III - Ausländer, Gesundheit und Sozialversicherungen",
+        "french": "Cour III - étrangers, santé et assurances sociales",
+        "italian": "Corte III - stranieri, salute e previdenza sociale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030178",
+      "label": {
+        "german": "Abteilung III Kammer 1",
+        "french": "Cour III Chambre 1",
+        "italian": "Corte III Camera 1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung III Kammer 1",
+        "french": "Cour III Chambre 1",
+        "italian": "Corte III Camera 1",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030183",
+      "label": {
+        "german": "Abteilung III Kammer 1.4",
+        "french": "Cour III Chambre 1.4",
+        "italian": "Corte III Camera 1.4",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung III Kammer 1.4",
+        "french": "Cour III Chambre 1.4",
+        "italian": "Corte III Camera 1.4",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

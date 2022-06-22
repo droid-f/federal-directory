@@ -1,1 +1,202 @@
-{"id"=>"20024457", "name"=>{"german"=>"Fachdienste EDA", "french"=>"Services spécialisés DFAE", "italian"=>"Servizi specializzati DFAE", "english"=>"FDFA Specialised Services"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20024458", "name"=>{"german"=>"Rechtsdienst EDA", "french"=>"Service juridique DFAE", "italian"=>"Servizio giuridico DFAE", "english"=>"FDFA Legal Services"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024462", "name"=>{"german"=>"Passbüro EDA", "french"=>"Bureau des passeports DFAE", "italian"=>"Ufficio passaporti DFAE", "english"=>"FDFA Passport Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024461", "name"=>{"german"=>"Sprachdienst EDA", "french"=>"Service linguistique DFAE", "italian"=>"Servizio linguistico DFAE", "english"=>"FDFA Language Service"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001298", "name"=>{"german"=>"Geschäftsverwaltung und -prozesse", "french"=>"Gestion des affaires et processus", "italian"=>"Gestione degli affari e dei processi", "english"=>"Records Management and Business Processes"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5787375", "surname"=>"Badrutt", "givenName"=>"Gian Andrea", "email"=>nil, "phone"=>"+41 58 46 23317", "function"=>{"german"=>"Stv. Direktor/in", "french"=>"Stv. Direktor/in", "italian"=>"Stv. Direktor/in", "english"=>"Stv. Direktor/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2054227", "surname"=>"Mottet", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 23798", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20024457", "label"=>{"german"=>"Fachdienste EDA", "french"=>"Services spécialisés DFAE", "italian"=>"Servizi specializzati DFAE", "english"=>"FDFA Specialised Services"}, "name"=>{"german"=>"Fachdienste EDA", "french"=>"Services spécialisés DFAE", "italian"=>"Servizi specializzati DFAE", "english"=>"FDFA Specialised Services"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20024457",
+  "name": {
+    "german": "Fachdienste EDA",
+    "french": "Services spécialisés DFAE",
+    "italian": "Servizi specializzati DFAE",
+    "english": "FDFA Specialised Services"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20024458",
+      "name": {
+        "german": "Rechtsdienst EDA",
+        "french": "Service juridique DFAE",
+        "italian": "Servizio giuridico DFAE",
+        "english": "FDFA Legal Services"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024462",
+      "name": {
+        "german": "Passbüro EDA",
+        "french": "Bureau des passeports DFAE",
+        "italian": "Ufficio passaporti DFAE",
+        "english": "FDFA Passport Office"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024461",
+      "name": {
+        "german": "Sprachdienst EDA",
+        "french": "Service linguistique DFAE",
+        "italian": "Servizio linguistico DFAE",
+        "english": "FDFA Language Service"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001298",
+      "name": {
+        "german": "Geschäftsverwaltung und -prozesse",
+        "french": "Gestion des affaires et processus",
+        "italian": "Gestione degli affari e dei processi",
+        "english": "Records Management and Business Processes"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5787375",
+      "surname": "Badrutt",
+      "givenName": "Gian Andrea",
+      "email": null,
+      "phone": "+41 58 46 23317",
+      "function": {
+        "german": "Stv. Direktor/in",
+        "french": "Stv. Direktor/in",
+        "italian": "Stv. Direktor/in",
+        "english": "Stv. Direktor/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2054227",
+      "surname": "Mottet",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 23798",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20024457",
+      "label": {
+        "german": "Fachdienste EDA",
+        "french": "Services spécialisés DFAE",
+        "italian": "Servizi specializzati DFAE",
+        "english": "FDFA Specialised Services"
+      },
+      "name": {
+        "german": "Fachdienste EDA",
+        "french": "Services spécialisés DFAE",
+        "italian": "Servizi specializzati DFAE",
+        "english": "FDFA Specialised Services"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

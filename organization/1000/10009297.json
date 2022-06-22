@@ -1,1 +1,277 @@
-{"id"=>"10009297", "name"=>{"german"=>"Abteilung Infrastruktur, Betrieb & Services", "french"=>"Division infrastructure, exploitation et services", "italian"=>"Divisione infrastruttura, esercizio e servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20044055", "name"=>{"german"=>"Fachberatung Sicherheit / SIBE fedpol", "french"=>"Conseils spécialisés en sécurité et CS fedpol", "italian"=>"Consulenza specialistica sicurezza e AdSic fedpol", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009296", "name"=>{"german"=>"Bereich IKT-Fachberatung IBS", "french"=>"Domaine conseils spécialisés", "italian"=>"Settore consulenza specialistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021402", "name"=>{"german"=>"Bereich Projekte, Netzwerk-& Mediatechnik", "french"=>"Domaine projets, technique de réseau et multimédias", "italian"=>"Settore progetti, tecnica di rete multimedia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009299", "name"=>{"german"=>"Bereich Informatik- & Telematik -Services", "french"=>"Domaine services informatiques et télématiques", "italian"=>"Settore servizi informatici e telematici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021403", "name"=>{"german"=>"Bereich Betrieb, Logistik & Infrastruktur", "french"=>"Domaine exploitation, logistique et infrastructure", "italian"=>"Settore esercizio, logistica e infrastruttura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044051", "name"=>{"german"=>"Bereich Safety, Security / Sicherheitstechnik", "french"=>"Domaine Safety, security et technique de sécurité", "italian"=>"Settore Safety, security e tecnica di sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044056", "name"=>{"german"=>"Bereich Betrieb Standorte", "french"=>"Domaine Exploitation des sites", "italian"=>"Settore Esercizio sedi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8911481", "surname"=>"Zimmermann", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 42958", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1616322", "surname"=>"Tschui", "givenName"=>"Manuel", "email"=>nil, "phone"=>"+41 58 46 29100", "function"=>{"german"=>"Stv AC / Bereichsleiter/in", "french"=>"Stv AC / Bereichsleiter/in", "italian"=>"Stv AC / Bereichsleiter/in", "english"=>"Stv AC / Bereichsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009283", "label"=>{"german"=>"RMS", "french"=>"GRS", "italian"=>"GRS", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Ressourcenmanagement & Strategie", "french"=>"Domaine de direction gestion des ressources et stratégie", "italian"=>"Ambito direzionale gestione delle risorse e strategia", "english"=>""}}, {"id"=>"10009297", "label"=>{"german"=>"Abteilung Infrastruktur, Betrieb & Services", "french"=>"Division infrastructure, exploitation et services", "italian"=>"Divisione infrastruttura, esercizio e servizi", "english"=>""}, "name"=>{"german"=>"Abteilung Infrastruktur, Betrieb & Services", "french"=>"Division infrastructure, exploitation et services", "italian"=>"Divisione infrastruttura, esercizio e servizi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009297",
+  "name": {
+    "german": "Abteilung Infrastruktur, Betrieb & Services",
+    "french": "Division infrastructure, exploitation et services",
+    "italian": "Divisione infrastruttura, esercizio e servizi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20044055",
+      "name": {
+        "german": "Fachberatung Sicherheit / SIBE fedpol",
+        "french": "Conseils spécialisés en sécurité et CS fedpol",
+        "italian": "Consulenza specialistica sicurezza e AdSic fedpol",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009296",
+      "name": {
+        "german": "Bereich IKT-Fachberatung IBS",
+        "french": "Domaine conseils spécialisés",
+        "italian": "Settore consulenza specialistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021402",
+      "name": {
+        "german": "Bereich Projekte, Netzwerk-& Mediatechnik",
+        "french": "Domaine projets, technique de réseau et multimédias",
+        "italian": "Settore progetti, tecnica di rete multimedia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009299",
+      "name": {
+        "german": "Bereich Informatik- & Telematik -Services",
+        "french": "Domaine services informatiques et télématiques",
+        "italian": "Settore servizi informatici e telematici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021403",
+      "name": {
+        "german": "Bereich Betrieb, Logistik & Infrastruktur",
+        "french": "Domaine exploitation, logistique et infrastructure",
+        "italian": "Settore esercizio, logistica e infrastruttura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044051",
+      "name": {
+        "german": "Bereich Safety, Security / Sicherheitstechnik",
+        "french": "Domaine Safety, security et technique de sécurité",
+        "italian": "Settore Safety, security e tecnica di sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044056",
+      "name": {
+        "german": "Bereich Betrieb Standorte",
+        "french": "Domaine Exploitation des sites",
+        "italian": "Settore Esercizio sedi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8911481",
+      "surname": "Zimmermann",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 42958",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1616322",
+      "surname": "Tschui",
+      "givenName": "Manuel",
+      "email": null,
+      "phone": "+41 58 46 29100",
+      "function": {
+        "german": "Stv AC / Bereichsleiter/in",
+        "french": "Stv AC / Bereichsleiter/in",
+        "italian": "Stv AC / Bereichsleiter/in",
+        "english": "Stv AC / Bereichsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009283",
+      "label": {
+        "german": "RMS",
+        "french": "GRS",
+        "italian": "GRS",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Ressourcenmanagement & Strategie",
+        "french": "Domaine de direction gestion des ressources et stratégie",
+        "italian": "Ambito direzionale gestione delle risorse e strategia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009297",
+      "label": {
+        "german": "Abteilung Infrastruktur, Betrieb & Services",
+        "french": "Division infrastructure, exploitation et services",
+        "italian": "Divisione infrastruttura, esercizio e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Infrastruktur, Betrieb & Services",
+        "french": "Division infrastructure, exploitation et services",
+        "italian": "Divisione infrastruttura, esercizio e servizi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

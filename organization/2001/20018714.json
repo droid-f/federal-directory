@@ -1,1 +1,173 @@
-{"id"=>"20018714", "name"=>{"german"=>"Luftbildscan/Halbtonlabor", "french"=>"Scan des images aériennes/Laboratoire noir/blanc", "italian"=>"Scansione di immagini aeree/Laboratorio bianco/nero", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4869714", "surname"=>"Röthlisberger", "givenName"=>"Kurt", "email"=>nil, "phone"=>"+41 58 46 90455", "function"=>{"german"=>"TPzL Luftbildscan", "french"=>"Rpp Scan de photos aériennes", "italian"=>"Rpp scansione di immagini aeree", "english"=>"TPzL Luftbildscan"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9586862", "surname"=>"Schenkel", "givenName"=>"Patric", "email"=>nil, "phone"=>"+41 58 46 90649", "function"=>{"german"=>"SB Luftbilddatenverarb./ Stv. TPzL TBHL", "french"=>"chargé du traitem.imag.aérien/Supp. resp", "italian"=>"Elabor.dati di immagini aeree /Rspp TBH", "english"=>"SB Luftbilddatenverarb./ Stv. TPzL TBHL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"10003486", "label"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}, "name"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}}, {"id"=>"20018705", "label"=>{"german"=>"Bilddaten und Kriseninformation", "french"=>"Données d'images et information de crise", "italian"=>"Immagini e informatione di crisi", "english"=>""}, "name"=>{"german"=>"Bilddaten und Kriseninformation", "french"=>"Données d'images et information de crise", "italian"=>"Immagini e informatione di crisi", "english"=>""}}, {"id"=>"20018714", "label"=>{"german"=>"Luftbildscan/Halbtonlabor", "french"=>"Scan des images aériennes/Laboratoire noir/blanc", "italian"=>"Scansione di immagini aeree/Laboratorio bianco/nero", "english"=>""}, "name"=>{"german"=>"Luftbildscan/Halbtonlabor", "french"=>"Scan des images aériennes/Laboratoire noir/blanc", "italian"=>"Scansione di immagini aeree/Laboratorio bianco/nero", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018714",
+  "name": {
+    "german": "Luftbildscan/Halbtonlabor",
+    "french": "Scan des images aériennes/Laboratoire noir/blanc",
+    "italian": "Scansione di immagini aeree/Laboratorio bianco/nero",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4869714",
+      "surname": "Röthlisberger",
+      "givenName": "Kurt",
+      "email": null,
+      "phone": "+41 58 46 90455",
+      "function": {
+        "german": "TPzL Luftbildscan",
+        "french": "Rpp Scan de photos aériennes",
+        "italian": "Rpp scansione di immagini aeree",
+        "english": "TPzL Luftbildscan"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9586862",
+      "surname": "Schenkel",
+      "givenName": "Patric",
+      "email": null,
+      "phone": "+41 58 46 90649",
+      "function": {
+        "german": "SB Luftbilddatenverarb./ Stv. TPzL TBHL",
+        "french": "chargé du traitem.imag.aérien/Supp. resp",
+        "italian": "Elabor.dati di immagini aeree /Rspp TBH",
+        "english": "SB Luftbilddatenverarb./ Stv. TPzL TBHL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003486",
+      "label": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      },
+      "name": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018705",
+      "label": {
+        "german": "Bilddaten und Kriseninformation",
+        "french": "Données d'images et information de crise",
+        "italian": "Immagini e informatione di crisi",
+        "english": ""
+      },
+      "name": {
+        "german": "Bilddaten und Kriseninformation",
+        "french": "Données d'images et information de crise",
+        "italian": "Immagini e informatione di crisi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018714",
+      "label": {
+        "german": "Luftbildscan/Halbtonlabor",
+        "french": "Scan des images aériennes/Laboratoire noir/blanc",
+        "italian": "Scansione di immagini aeree/Laboratorio bianco/nero",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftbildscan/Halbtonlabor",
+        "french": "Scan des images aériennes/Laboratoire noir/blanc",
+        "italian": "Scansione di immagini aeree/Laboratorio bianco/nero",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,217 @@
-{"id"=>"20012532", "name"=>{"german"=>"Landesgeologie", "french"=>"Service géologique national", "italian"=>"Servizio geologico nazionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20041788", "name"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012533", "name"=>{"german"=>"Geologische Landesaufnahme", "french"=>"Relevé géologique national", "italian"=>"Rilevamento geologico nazionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20023902", "name"=>{"german"=>"Felslabor und geologische Tiefenlager", "french"=>"Laboratoire souterrain et dépôts en couches géologiques profondes", "italian"=>"Laboratorio sotterraneo roccioso e depositi in strati geologici profondi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050538", "name"=>{"german"=>"Datenmanagement und Geoenergie", "french"=>"Gestion des données et géoénergie", "italian"=>"Gestione dei dati geologici e geoenergia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050539", "name"=>{"german"=>"Georessourcen", "french"=>"Géoressources", "italian"=>"Georisorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5650469", "surname"=>"Lateltin", "givenName"=>"Olivier Jacques", "email"=>nil, "phone"=>"+41 58 46 90571", "function"=>{"german"=>"Bereichsleiter/in Landesgeologie", "french"=>"Resp. géologique national", "italian"=>"Resp. del Servizio geologico nazionale", "english"=>"Bereichsleiter/in Landesgeologie"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7219397", "surname"=>"Möri", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 90572", "function"=>{"german"=>"PzL Georessourcen / Stv. BL", "french"=>"Rp Géoressources / Suppl. resp. domaine", "italian"=>"Rp Georisorse / suppl. Caposettore", "english"=>"PzL Georessourcen / Stv. BL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"20012532", "label"=>{"german"=>"Landesgeologie", "french"=>"Service géologique national", "italian"=>"Servizio geologico nazionale", "english"=>""}, "name"=>{"german"=>"Landesgeologie", "french"=>"Service géologique national", "italian"=>"Servizio geologico nazionale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012532",
+  "name": {
+    "german": "Landesgeologie",
+    "french": "Service géologique national",
+    "italian": "Servizio geologico nazionale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20041788",
+      "name": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012533",
+      "name": {
+        "german": "Geologische Landesaufnahme",
+        "french": "Relevé géologique national",
+        "italian": "Rilevamento geologico nazionale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20023902",
+      "name": {
+        "german": "Felslabor und geologische Tiefenlager",
+        "french": "Laboratoire souterrain et dépôts en couches géologiques profondes",
+        "italian": "Laboratorio sotterraneo roccioso e depositi in strati geologici profondi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050538",
+      "name": {
+        "german": "Datenmanagement und Geoenergie",
+        "french": "Gestion des données et géoénergie",
+        "italian": "Gestione dei dati geologici e geoenergia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050539",
+      "name": {
+        "german": "Georessourcen",
+        "french": "Géoressources",
+        "italian": "Georisorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5650469",
+      "surname": "Lateltin",
+      "givenName": "Olivier Jacques",
+      "email": null,
+      "phone": "+41 58 46 90571",
+      "function": {
+        "german": "Bereichsleiter/in Landesgeologie",
+        "french": "Resp. géologique national",
+        "italian": "Resp. del Servizio geologico nazionale",
+        "english": "Bereichsleiter/in Landesgeologie"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7219397",
+      "surname": "Möri",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 90572",
+      "function": {
+        "german": "PzL Georessourcen / Stv. BL",
+        "french": "Rp Géoressources / Suppl. resp. domaine",
+        "italian": "Rp Georisorse / suppl. Caposettore",
+        "english": "PzL Georessourcen / Stv. BL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012532",
+      "label": {
+        "german": "Landesgeologie",
+        "french": "Service géologique national",
+        "italian": "Servizio geologico nazionale",
+        "english": ""
+      },
+      "name": {
+        "german": "Landesgeologie",
+        "french": "Service géologique national",
+        "italian": "Servizio geologico nazionale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

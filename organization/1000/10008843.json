@@ -1,1 +1,122 @@
-{"id"=>"10008843", "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}, "nameAbbr"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 46 33987", "fax"=>"+41 58 46 33988", "email"=>"info@gs-ejpd.admin.ch", "homepage"=>{"german"=>"www.ejpd.admin.ch", "french"=>"www.ejpd.admin.ch", "italian"=>"www.ejpd.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20028230", "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-1940260", "surname"=>"Keller-Sutter", "givenName"=>"Karin", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Departementsvorsteherin", "french"=>"Departementsvorsteherin", "italian"=>"Departementsvorsteherin", "english"=>"Departementsvorsteherin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10008843",
+  "name": {
+    "german": "Generalsekretariat EJPD",
+    "french": "Secrétariat général SG-DFJP",
+    "italian": "Segreteria generale SG-DFGP",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "GS-EJPD",
+    "french": "SG-DFJP",
+    "italian": "SG-DFGP",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 46 33987",
+    "fax": "+41 58 46 33988",
+    "email": "info@gs-ejpd.admin.ch",
+    "homepage": {
+      "german": "www.ejpd.admin.ch",
+      "french": "www.ejpd.admin.ch",
+      "italian": "www.ejpd.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20028230",
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1940260",
+      "surname": "Keller-Sutter",
+      "givenName": "Karin",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Departementsvorsteherin",
+        "french": "Departementsvorsteherin",
+        "italian": "Departementsvorsteherin",
+        "english": "Departementsvorsteherin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

@@ -1,1 +1,202 @@
-{"id"=>"20035047", "name"=>{"german"=>"Kanäle", "french"=>"Canaux", "italian"=>"Canali", "english"=>"Channels"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 32", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046707", "name"=>{"german"=>"Social Media", "french"=>"Médias sociaux", "italian"=>"Social media", "english"=>"Social Media"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037485", "name"=>{"german"=>"Webdesk", "french"=>"Webdesk", "italian"=>"Webdesk", "english"=>"Webdesk"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037486", "name"=>{"german"=>"Plattformen", "french"=>"Plateformes", "italian"=>"Piattaforme", "english"=>"Platforms"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2869988", "surname"=>"Sciacoviello", "givenName"=>"Sarah", "email"=>nil, "phone"=>"+41 58 46 22343", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9288307", "surname"=>"Keusch", "givenName"=>"Theo Martin", "email"=>nil, "phone"=>"+41 58 46 08302", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000530", "label"=>{"german"=>"GS-EDA", "french"=>"SG-DFAE", "italian"=>"SG-DFAE", "english"=>"FDFA-GS"}, "name"=>{"german"=>"Generalsekretariat EDA", "french"=>"Secrétariat général DFAE", "italian"=>"Segreteria generale DFAE", "english"=>"FDFA General Secretariat"}}, {"id"=>"10000543", "label"=>{"german"=>"Kommunikation EDA", "french"=>"Communication DFAE", "italian"=>"Comunicazione DFAE", "english"=>"FDFA Communication"}, "name"=>{"german"=>"Kommunikation EDA", "french"=>"Communication DFAE", "italian"=>"Comunicazione DFAE", "english"=>"FDFA Communication"}}, {"id"=>"20035047", "label"=>{"german"=>"Kanäle", "french"=>"Canaux", "italian"=>"Canali", "english"=>"Channels"}, "name"=>{"german"=>"Kanäle", "french"=>"Canaux", "italian"=>"Canali", "english"=>"Channels"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035047",
+  "name": {
+    "german": "Kanäle",
+    "french": "Canaux",
+    "italian": "Canali",
+    "english": "Channels"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 32",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046707",
+      "name": {
+        "german": "Social Media",
+        "french": "Médias sociaux",
+        "italian": "Social media",
+        "english": "Social Media"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037485",
+      "name": {
+        "german": "Webdesk",
+        "french": "Webdesk",
+        "italian": "Webdesk",
+        "english": "Webdesk"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037486",
+      "name": {
+        "german": "Plattformen",
+        "french": "Plateformes",
+        "italian": "Piattaforme",
+        "english": "Platforms"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2869988",
+      "surname": "Sciacoviello",
+      "givenName": "Sarah",
+      "email": null,
+      "phone": "+41 58 46 22343",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9288307",
+      "surname": "Keusch",
+      "givenName": "Theo Martin",
+      "email": null,
+      "phone": "+41 58 46 08302",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000530",
+      "label": {
+        "german": "GS-EDA",
+        "french": "SG-DFAE",
+        "italian": "SG-DFAE",
+        "english": "FDFA-GS"
+      },
+      "name": {
+        "german": "Generalsekretariat EDA",
+        "french": "Secrétariat général DFAE",
+        "italian": "Segreteria generale DFAE",
+        "english": "FDFA General Secretariat"
+      }
+    },
+    {
+      "id": "10000543",
+      "label": {
+        "german": "Kommunikation EDA",
+        "french": "Communication DFAE",
+        "italian": "Comunicazione DFAE",
+        "english": "FDFA Communication"
+      },
+      "name": {
+        "german": "Kommunikation EDA",
+        "french": "Communication DFAE",
+        "italian": "Comunicazione DFAE",
+        "english": "FDFA Communication"
+      }
+    },
+    {
+      "id": "20035047",
+      "label": {
+        "german": "Kanäle",
+        "french": "Canaux",
+        "italian": "Canali",
+        "english": "Channels"
+      },
+      "name": {
+        "german": "Kanäle",
+        "french": "Canaux",
+        "italian": "Canali",
+        "english": "Channels"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

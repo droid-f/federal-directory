@@ -1,1 +1,247 @@
-{"id"=>"20037323", "name"=>{"german"=>"Kommissionen Gruppe II", "french"=>"Commissions groupe II", "italian"=>"Commissioni gruppo II", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037361", "name"=>{"german"=>"Kommissionen für Umwelt, Raumplanung und Energie (UREK)", "french"=>"Commissions de l'environnement, de l'aménagement du territoire et de l'énergie (CEATE)", "italian"=>"Commissioni dell'ambiente, della planificazione del territorio e dell'energia (CAPTE)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037356", "name"=>{"german"=>"Kommissionen für Wirtschaft und Abgaben (WAK)", "french"=>"Commissions de l'économie et des redevances (CER)", "italian"=>"Commissioni dell'economia e del tributi (CET)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037357", "name"=>{"german"=>"Kommissionen für soziale Sicherheit und Gesundheit (SGK)", "french"=>"Commissions de la sécurité sociale et de la santé publique (CSSS)", "italian"=>"Commissioni della sicurezza sociale e della sanità (CSSS)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037358", "name"=>{"german"=>"Sicherheitspoltische Kommissionen (SiK/NATO)", "french"=>"Commissions de la politique de sécurité (CPS/OTAN)", "italian"=>"Commissioni della politica di sicurezza (CPS/NATO)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037363", "name"=>{"german"=>"Staatspolitische Kommissionen (SPK)", "french"=>"Commissions des institutions politiques (CIP)", "italian"=>"Commissioni delle istituzioni politiche (CIP)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037364", "name"=>{"german"=>"Kommissionen für Rechtsfragen (RK)", "french"=>"Commissions des affaires juridiques (CAJ)", "italian"=>"Commissioni degli affari giuridici (CAG)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037359", "name"=>{"german"=>"Kommissionen für Wissenschaft, Bildung und Kultur (WBK)", "french"=>"Commissions de la science, de l'éducation et de la culture (CSEC)", "italian"=>"Commissioni della scienza, dell'educazione e della cultura (CSEC)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5342697", "surname"=>"Senn", "givenName"=>"Stefan", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Co-Leiter/Themenverantwortl.Kommissionen", "french"=>"Co-Leiter/Themenverantwortl.Kommissionen", "italian"=>"Co-Leiter/Themenverantwortl.Kommissionen", "english"=>"Co-Leiter/Themenverantwortl.Kommissionen"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6995843", "surname"=>"Hollinger", "givenName"=>"Iris", "email"=>nil, "phone"=>"+41 58 32 29461", "function"=>{"german"=>"Kommissionssekretärin KVF", "french"=>"Kommissionssekretärin KVF", "italian"=>"Kommissionssekretärin KVF", "english"=>"Kommissionssekretärin KVF"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037307", "label"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}, "name"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}}, {"id"=>"20037323", "label"=>{"german"=>"Kommissionen Gruppe II", "french"=>"Commissions groupe II", "italian"=>"Commissioni gruppo II", "english"=>""}, "name"=>{"german"=>"Kommissionen Gruppe II", "french"=>"Commissions groupe II", "italian"=>"Commissioni gruppo II", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037323",
+  "name": {
+    "german": "Kommissionen Gruppe II",
+    "french": "Commissions groupe II",
+    "italian": "Commissioni gruppo II",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037361",
+      "name": {
+        "german": "Kommissionen für Umwelt, Raumplanung und Energie (UREK)",
+        "french": "Commissions de l'environnement, de l'aménagement du territoire et de l'énergie (CEATE)",
+        "italian": "Commissioni dell'ambiente, della planificazione del territorio e dell'energia (CAPTE)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037356",
+      "name": {
+        "german": "Kommissionen für Wirtschaft und Abgaben (WAK)",
+        "french": "Commissions de l'économie et des redevances (CER)",
+        "italian": "Commissioni dell'economia e del tributi (CET)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037357",
+      "name": {
+        "german": "Kommissionen für soziale Sicherheit und Gesundheit (SGK)",
+        "french": "Commissions de la sécurité sociale et de la santé publique (CSSS)",
+        "italian": "Commissioni della sicurezza sociale e della sanità (CSSS)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037358",
+      "name": {
+        "german": "Sicherheitspoltische Kommissionen (SiK/NATO)",
+        "french": "Commissions de la politique de sécurité (CPS/OTAN)",
+        "italian": "Commissioni della politica di sicurezza (CPS/NATO)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037363",
+      "name": {
+        "german": "Staatspolitische Kommissionen (SPK)",
+        "french": "Commissions des institutions politiques (CIP)",
+        "italian": "Commissioni delle istituzioni politiche (CIP)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037364",
+      "name": {
+        "german": "Kommissionen für Rechtsfragen (RK)",
+        "french": "Commissions des affaires juridiques (CAJ)",
+        "italian": "Commissioni degli affari giuridici (CAG)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037359",
+      "name": {
+        "german": "Kommissionen für Wissenschaft, Bildung und Kultur (WBK)",
+        "french": "Commissions de la science, de l'éducation et de la culture (CSEC)",
+        "italian": "Commissioni della scienza, dell'educazione e della cultura (CSEC)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5342697",
+      "surname": "Senn",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Co-Leiter/Themenverantwortl.Kommissionen",
+        "french": "Co-Leiter/Themenverantwortl.Kommissionen",
+        "italian": "Co-Leiter/Themenverantwortl.Kommissionen",
+        "english": "Co-Leiter/Themenverantwortl.Kommissionen"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6995843",
+      "surname": "Hollinger",
+      "givenName": "Iris",
+      "email": null,
+      "phone": "+41 58 32 29461",
+      "function": {
+        "german": "Kommissionssekretärin KVF",
+        "french": "Kommissionssekretärin KVF",
+        "italian": "Kommissionssekretärin KVF",
+        "english": "Kommissionssekretärin KVF"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037307",
+      "label": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037323",
+      "label": {
+        "german": "Kommissionen Gruppe II",
+        "french": "Commissions groupe II",
+        "italian": "Commissioni gruppo II",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen Gruppe II",
+        "french": "Commissions groupe II",
+        "italian": "Commissioni gruppo II",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

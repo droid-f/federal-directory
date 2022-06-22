@@ -1,1 +1,232 @@
-{"id"=>"10011150", "name"=>{"german"=>"Leitung ISCeco", "french"=>"Direction ISCeco", "italian"=>"Direzione ISCeco", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Fellerstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20048302", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10011160", "name"=>{"german"=>"Consulting und Governance", "french"=>"Consulting et Governance", "italian"=>"Consulting e Governance", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10011152", "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002475", "name"=>{"german"=>"GEVER Anwendungen", "french"=>"Applications GEVER", "italian"=>"Applicazioni GEVER", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003238", "name"=>{"german"=>"Fachanwendungen", "french"=>"Applications spécialisées", "italian"=>"Applicazioni specialistiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9867318", "surname"=>"Brüggemann", "givenName"=>"Theodor", "email"=>nil, "phone"=>"+41 58 46 98712", "function"=>{"german"=>"Leitung ISCeco", "french"=>"Direction de l'ISCeco", "italian"=>"Direzione ISCeco", "english"=>"Leitung ISCeco"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9926279", "surname"=>"Hausammann", "givenName"=>"Bruno", "email"=>nil, "phone"=>"+41 58 46 20020", "function"=>{"german"=>"Geschäftsbereichsleitung FA / Stv GL", "french"=>"Respons. d'unité commerciale FA / Stv GL", "italian"=>"Respons. Business Unit FA / Stv GL", "english"=>"Geschäftsbereichsleitung FA / Stv GL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10002651", "label"=>{"german"=>"GS-WBF", "french"=>"GS-WBF", "italian"=>"GS-WBF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général du DEFR", "italian"=>"Segreteria generale DEFR", "english"=>""}}, {"id"=>"10009853", "label"=>{"german"=>"ISCeco", "french"=>"L'ISCeco", "italian"=>"ISCeco", "english"=>""}, "name"=>{"german"=>"Information Service Center WBF ISCeco", "french"=>"Centre de services informatiques DEFR", "italian"=>"Informatica Centro Servizi DEFR", "english"=>""}}, {"id"=>"10011150", "label"=>{"german"=>"Leitung ISCeco", "french"=>"Direction ISCeco", "italian"=>"Direzione ISCeco", "english"=>""}, "name"=>{"german"=>"Leitung ISCeco", "french"=>"Direction ISCeco", "italian"=>"Direzione ISCeco", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10011150",
+  "name": {
+    "german": "Leitung ISCeco",
+    "french": "Direction ISCeco",
+    "italian": "Direzione ISCeco",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Fellerstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20048302",
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011160",
+      "name": {
+        "german": "Consulting und Governance",
+        "french": "Consulting et Governance",
+        "italian": "Consulting e Governance",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011152",
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002475",
+      "name": {
+        "german": "GEVER Anwendungen",
+        "french": "Applications GEVER",
+        "italian": "Applicazioni GEVER",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003238",
+      "name": {
+        "german": "Fachanwendungen",
+        "french": "Applications spécialisées",
+        "italian": "Applicazioni specialistiche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9867318",
+      "surname": "Brüggemann",
+      "givenName": "Theodor",
+      "email": null,
+      "phone": "+41 58 46 98712",
+      "function": {
+        "german": "Leitung ISCeco",
+        "french": "Direction de l'ISCeco",
+        "italian": "Direzione ISCeco",
+        "english": "Leitung ISCeco"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9926279",
+      "surname": "Hausammann",
+      "givenName": "Bruno",
+      "email": null,
+      "phone": "+41 58 46 20020",
+      "function": {
+        "german": "Geschäftsbereichsleitung FA / Stv GL",
+        "french": "Respons. d'unité commerciale FA / Stv GL",
+        "italian": "Respons. Business Unit FA / Stv GL",
+        "english": "Geschäftsbereichsleitung FA / Stv GL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002651",
+      "label": {
+        "german": "GS-WBF",
+        "french": "GS-WBF",
+        "italian": "GS-WBF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général du DEFR",
+        "italian": "Segreteria generale DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009853",
+      "label": {
+        "german": "ISCeco",
+        "french": "L'ISCeco",
+        "italian": "ISCeco",
+        "english": ""
+      },
+      "name": {
+        "german": "Information Service Center WBF ISCeco",
+        "french": "Centre de services informatiques DEFR",
+        "italian": "Informatica Centro Servizi DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011150",
+      "label": {
+        "german": "Leitung ISCeco",
+        "french": "Direction ISCeco",
+        "italian": "Direzione ISCeco",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung ISCeco",
+        "french": "Direction ISCeco",
+        "italian": "Direzione ISCeco",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

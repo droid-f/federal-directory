@@ -1,1 +1,141 @@
-{"id"=>"20041814", "name"=>{"german"=>"Innovation und Produktmanagement", "french"=>"Innovation et Management des produits", "italian"=>"Innovazione e Gestione dei prodotti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6362406", "surname"=>"Rollier", "givenName"=>"Raphaël", "email"=>nil, "phone"=>"+41 58 46 86023", "function"=>{"german"=>"PzL Innovation und Produktmanagement", "french"=>"Rp Innovation et management des produits", "italian"=>"Rp innovazione e gestione dei prodotti", "english"=>"PzL Innovation und Produktmanagement"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"20041602", "label"=>{"german"=>"Geodäsie und Eidg. Vermessungsdirektion", "french"=>"Géodésie et Direction fédérale des mensurations cadastrales", "italian"=>"Geodesia e Direzione federale delle misurazioni catastali", "english"=>""}, "name"=>{"german"=>"Geodäsie und Eidg. Vermessungsdirektion", "french"=>"Géodésie et Direction fédérale des mensurations cadastrales", "italian"=>"Geodesia e Direzione federale delle misurazioni catastali", "english"=>""}}, {"id"=>"20041814", "label"=>{"german"=>"Innovation und Produktmanagement", "french"=>"Innovation et Management des produits", "italian"=>"Innovazione e Gestione dei prodotti", "english"=>""}, "name"=>{"german"=>"Innovation und Produktmanagement", "french"=>"Innovation et Management des produits", "italian"=>"Innovazione e Gestione dei prodotti", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041814",
+  "name": {
+    "german": "Innovation und Produktmanagement",
+    "french": "Innovation et Management des produits",
+    "italian": "Innovazione e Gestione dei prodotti",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6362406",
+      "surname": "Rollier",
+      "givenName": "Raphaël",
+      "email": null,
+      "phone": "+41 58 46 86023",
+      "function": {
+        "german": "PzL Innovation und Produktmanagement",
+        "french": "Rp Innovation et management des produits",
+        "italian": "Rp innovazione e gestione dei prodotti",
+        "english": "PzL Innovation und Produktmanagement"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041602",
+      "label": {
+        "german": "Geodäsie und Eidg. Vermessungsdirektion",
+        "french": "Géodésie et Direction fédérale des mensurations cadastrales",
+        "italian": "Geodesia e Direzione federale delle misurazioni catastali",
+        "english": ""
+      },
+      "name": {
+        "german": "Geodäsie und Eidg. Vermessungsdirektion",
+        "french": "Géodésie et Direction fédérale des mensurations cadastrales",
+        "italian": "Geodesia e Direzione federale delle misurazioni catastali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041814",
+      "label": {
+        "german": "Innovation und Produktmanagement",
+        "french": "Innovation et Management des produits",
+        "italian": "Innovazione e Gestione dei prodotti",
+        "english": ""
+      },
+      "name": {
+        "german": "Innovation und Produktmanagement",
+        "french": "Innovation et Management des produits",
+        "italian": "Innovazione e Gestione dei prodotti",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

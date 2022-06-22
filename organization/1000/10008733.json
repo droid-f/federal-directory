@@ -1,1 +1,232 @@
-{"id"=>"10008733", "name"=>{"german"=>"FB Rechtshilfe I: Beschlagnahme und Herausgabe von Vermögenswerten", "french"=>"Unité Entraide judiciaire I : Saisie et remise de valeurs", "italian"=>"Settore Assistenza giudiziaria I: Sequestro e consegna di valori patrimoniali", "english"=>""}, "nameAbbr"=>{"german"=>"RH I", "french"=>"RH I", "italian"=>"RH I", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584621120", "fax"=>"+41584625380", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2384244", "surname"=>"Volken", "givenName"=>"Julia", "email"=>nil, "phone"=>"+41 58 46 24339", "function"=>{"german"=>"Stv. Chefin RH I", "french"=>"Cheffe suppléante RH I", "italian"=>"Capo supplente RH I", "english"=>"Stv. Chefin RH I"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1176937", "surname"=>"Gossin", "givenName"=>"Pascal", "email"=>nil, "phone"=>"+41 58 46 24301", "function"=>{"german"=>"Chef RH I", "french"=>"Chef RH I", "italian"=>"Capo RH I", "english"=>"Chef RH I"}, "isVisibleInEstKa"=>true}, {"functionId"=>327, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-8027843", "surname"=>"Längin", "givenName"=>"Stephanie", "email"=>nil, "phone"=>"+41 58 46 34628", "function"=>{"german"=>"Verantwortliche nationale und internationale Teilung von Vermögenswerten", "french"=>"Responsable du partage national et international de valeurs patrimoniales", "italian"=>"Responsabile dell'ripartizione nazionale e internazionale di valori patrimoniali", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3415377", "surname"=>"Schurr", "givenName"=>"Laura", "email"=>nil, "phone"=>"+41 58 46 33114", "function"=>{"german"=>"Juristin", "french"=>"Juriste", "italian"=>"Giurista", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009007", "label"=>{"german"=>"IRH", "french"=>"IRH", "italian"=>"IRH", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Internationale Rechtshilfe", "french"=>"Domaine de direction Entraide judiciaire internationale", "italian"=>"Ambito direzionale Assistenza giudiziaria internazionale", "english"=>""}}, {"id"=>"10008733", "label"=>{"german"=>"RH I", "french"=>"RH I", "italian"=>"RH I", "english"=>""}, "name"=>{"german"=>"FB Rechtshilfe I: Beschlagnahme und Herausgabe von Vermögenswerten", "french"=>"Unité Entraide judiciaire I : Saisie et remise de valeurs", "italian"=>"Settore Assistenza giudiziaria I: Sequestro e consegna di valori patrimoniali", "english"=>""}}], "contactPoints"=>[{"id"=>187, "name"=>{"german"=>"Rechtshilfe mit den internationalen Gerichten", "french"=>"Entraide judiciaire avec les tribunaux internationaux", "italian"=>"Assistenza giudiziaria con i tribunali internazionali", "english"=>""}, "email"=>nil, "phone"=>"+41 58 463 31 14", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}, {"id"=>188, "name"=>{"german"=>"Nationale und internationale Teilung von Vermögenswerten", "french"=>"Partage national et international de valeurs patrimoniales", "italian"=>"Ripartizione nazionale e internazionale di valori patrimoniali", "english"=>""}, "email"=>nil, "phone"=>"+41 58 463 46 28", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "10008733",
+  "name": {
+    "german": "FB Rechtshilfe I: Beschlagnahme und Herausgabe von Vermögenswerten",
+    "french": "Unité Entraide judiciaire I : Saisie et remise de valeurs",
+    "italian": "Settore Assistenza giudiziaria I: Sequestro e consegna di valori patrimoniali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "RH I",
+    "french": "RH I",
+    "italian": "RH I",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584621120",
+    "fax": "+41584625380",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2384244",
+      "surname": "Volken",
+      "givenName": "Julia",
+      "email": null,
+      "phone": "+41 58 46 24339",
+      "function": {
+        "german": "Stv. Chefin RH I",
+        "french": "Cheffe suppléante RH I",
+        "italian": "Capo supplente RH I",
+        "english": "Stv. Chefin RH I"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1176937",
+      "surname": "Gossin",
+      "givenName": "Pascal",
+      "email": null,
+      "phone": "+41 58 46 24301",
+      "function": {
+        "german": "Chef RH I",
+        "french": "Chef RH I",
+        "italian": "Capo RH I",
+        "english": "Chef RH I"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 327,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-8027843",
+      "surname": "Längin",
+      "givenName": "Stephanie",
+      "email": null,
+      "phone": "+41 58 46 34628",
+      "function": {
+        "german": "Verantwortliche nationale und internationale Teilung von Vermögenswerten",
+        "french": "Responsable du partage national et international de valeurs patrimoniales",
+        "italian": "Responsabile dell'ripartizione nazionale e internazionale di valori patrimoniali",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3415377",
+      "surname": "Schurr",
+      "givenName": "Laura",
+      "email": null,
+      "phone": "+41 58 46 33114",
+      "function": {
+        "german": "Juristin",
+        "french": "Juriste",
+        "italian": "Giurista",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009007",
+      "label": {
+        "german": "IRH",
+        "french": "IRH",
+        "italian": "IRH",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Internationale Rechtshilfe",
+        "french": "Domaine de direction Entraide judiciaire internationale",
+        "italian": "Ambito direzionale Assistenza giudiziaria internazionale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008733",
+      "label": {
+        "german": "RH I",
+        "french": "RH I",
+        "italian": "RH I",
+        "english": ""
+      },
+      "name": {
+        "german": "FB Rechtshilfe I: Beschlagnahme und Herausgabe von Vermögenswerten",
+        "french": "Unité Entraide judiciaire I : Saisie et remise de valeurs",
+        "italian": "Settore Assistenza giudiziaria I: Sequestro e consegna di valori patrimoniali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 187,
+      "name": {
+        "german": "Rechtshilfe mit den internationalen Gerichten",
+        "french": "Entraide judiciaire avec les tribunaux internationaux",
+        "italian": "Assistenza giudiziaria con i tribunali internazionali",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 463 31 14",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    },
+    {
+      "id": 188,
+      "name": {
+        "german": "Nationale und internationale Teilung von Vermögenswerten",
+        "french": "Partage national et international de valeurs patrimoniales",
+        "italian": "Ripartizione nazionale e internazionale di valori patrimoniali",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 463 46 28",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

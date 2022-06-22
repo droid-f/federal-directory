@@ -1,1 +1,140 @@
-{"id"=>"10000503", "name"=>{"german"=>"Gruppe A", "french"=>"Groupe A", "italian"=>"Gruppo A", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Belpstrasse 18", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10000034", "label"=>{"german"=>"EPA", "french"=>"OFPER", "italian"=>"UFPER", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Personalamt", "french"=>"Office fédéral du personnel", "italian"=>"Ufficio federale del personale", "english"=>""}}, {"id"=>"10001850", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10000495", "label"=>{"german"=>"Personal- und Sozialberatung der Bundesverwaltung PSB", "french"=>"Consultation sociale du personnel de l'administration fédérale", "italian"=>"Consulenza sociale del personale dell'Amministrazione federale", "english"=>""}, "name"=>{"german"=>"Personal- und Sozialberatung der Bundesverwaltung PSB", "french"=>"Consultation sociale du personnel de l'administration fédérale", "italian"=>"Consulenza sociale del personale dell'Amministrazione federale", "english"=>""}}, {"id"=>"10000503", "label"=>{"german"=>"Gruppe A", "french"=>"Groupe A", "italian"=>"Gruppo A", "english"=>""}, "name"=>{"german"=>"Gruppe A", "french"=>"Groupe A", "italian"=>"Gruppo A", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000503",
+  "name": {
+    "german": "Gruppe A",
+    "french": "Groupe A",
+    "italian": "Gruppo A",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Belpstrasse 18",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000034",
+      "label": {
+        "german": "EPA",
+        "french": "OFPER",
+        "italian": "UFPER",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Personalamt",
+        "french": "Office fédéral du personnel",
+        "italian": "Ufficio federale del personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001850",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000495",
+      "label": {
+        "german": "Personal- und Sozialberatung der Bundesverwaltung PSB",
+        "french": "Consultation sociale du personnel de l'administration fédérale",
+        "italian": "Consulenza sociale del personale dell'Amministrazione federale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal- und Sozialberatung der Bundesverwaltung PSB",
+        "french": "Consultation sociale du personnel de l'administration fédérale",
+        "italian": "Consulenza sociale del personale dell'Amministrazione federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000503",
+      "label": {
+        "german": "Gruppe A",
+        "french": "Groupe A",
+        "italian": "Gruppo A",
+        "english": ""
+      },
+      "name": {
+        "german": "Gruppe A",
+        "french": "Groupe A",
+        "italian": "Gruppo A",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

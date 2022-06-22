@@ -1,1 +1,215 @@
-{"id"=>"20050102", "name"=>{"german"=>"IT - Portfolio MWST und RSS", "french"=>"IT - Portfolio MWST et RSS", "italian"=>"IT - Portfolio MWST e RSS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046183", "name"=>{"german"=>"IT - Portfolio MWST", "french"=>"IT - Portfolio MWST", "italian"=>"IT - Portfolio MWST", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046185", "name"=>{"german"=>"IT - Portfolio RSS", "french"=>"IT - Portfolio RSS", "italian"=>"IT - Portfolio RSS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4798223", "surname"=>"Bettini", "givenName"=>"Nicola", "email"=>nil, "phone"=>"+41 58 46 53934", "function"=>{"german"=>"Leiter/in IT Portfolio MWST und RSS / Stv. Leiter PFM", "french"=>"Leiter/in IT Portfolio MWST und RSS / Stv. Leiter PFM", "italian"=>"Leiter/in IT Portfolio MWST und RSS / Stv. Leiter PFM", "english"=>"Leiter/in IT Portfolio MWST/RS / Stv. PM"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008668", "label"=>{"german"=>"ESTV", "french"=>"AFC", "italian"=>"AFC", "english"=>""}, "name"=>{"german"=>"Eidgenössische Steuerverwaltung", "french"=>"Administration fédérale des contributions", "italian"=>"Amministrazione federale delle contribuzioni", "english"=>""}}, {"id"=>"10006258", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20038451", "label"=>{"german"=>"Hauptabteilung Ressourcen RSS", "french"=>"Division principale Ressources RSS", "italian"=>"Divisione principale Risorse RSS", "english"=>""}, "name"=>{"german"=>"Hauptabteilung Ressourcen RSS", "french"=>"Division principale Ressources RSS", "italian"=>"Divisione principale Risorse RSS", "english"=>""}}, {"id"=>"20035055", "label"=>{"german"=>"RSS - Informatik IT", "french"=>"RSS - Informatique IT", "italian"=>"RSS - Informatica IT", "english"=>""}, "name"=>{"german"=>"RSS - Informatik IT", "french"=>"RSS - Informatique IT", "italian"=>"RSS - Informatica IT", "english"=>""}}, {"id"=>"20035059", "label"=>{"german"=>"IT - Portfolio Management PFM", "french"=>"IT - Portfolio Management PFM", "italian"=>"IT - Portfolio Management PFM", "english"=>""}, "name"=>{"german"=>"IT - Portfolio Management PFM", "french"=>"IT - Portfolio Management PFM", "italian"=>"IT - Portfolio Management PFM", "english"=>""}}, {"id"=>"20050102", "label"=>{"german"=>"IT - Portfolio MWST und RSS", "french"=>"IT - Portfolio MWST et RSS", "italian"=>"IT - Portfolio MWST e RSS", "english"=>""}, "name"=>{"german"=>"IT - Portfolio MWST und RSS", "french"=>"IT - Portfolio MWST et RSS", "italian"=>"IT - Portfolio MWST e RSS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050102",
+  "name": {
+    "german": "IT - Portfolio MWST und RSS",
+    "french": "IT - Portfolio MWST et RSS",
+    "italian": "IT - Portfolio MWST e RSS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046183",
+      "name": {
+        "german": "IT - Portfolio MWST",
+        "french": "IT - Portfolio MWST",
+        "italian": "IT - Portfolio MWST",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046185",
+      "name": {
+        "german": "IT - Portfolio RSS",
+        "french": "IT - Portfolio RSS",
+        "italian": "IT - Portfolio RSS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4798223",
+      "surname": "Bettini",
+      "givenName": "Nicola",
+      "email": null,
+      "phone": "+41 58 46 53934",
+      "function": {
+        "german": "Leiter/in IT Portfolio MWST und RSS / Stv. Leiter PFM",
+        "french": "Leiter/in IT Portfolio MWST und RSS / Stv. Leiter PFM",
+        "italian": "Leiter/in IT Portfolio MWST und RSS / Stv. Leiter PFM",
+        "english": "Leiter/in IT Portfolio MWST/RS / Stv. PM"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008668",
+      "label": {
+        "german": "ESTV",
+        "french": "AFC",
+        "italian": "AFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Steuerverwaltung",
+        "french": "Administration fédérale des contributions",
+        "italian": "Amministrazione federale delle contribuzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006258",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038451",
+      "label": {
+        "german": "Hauptabteilung Ressourcen RSS",
+        "french": "Division principale Ressources RSS",
+        "italian": "Divisione principale Risorse RSS",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptabteilung Ressourcen RSS",
+        "french": "Division principale Ressources RSS",
+        "italian": "Divisione principale Risorse RSS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035055",
+      "label": {
+        "german": "RSS - Informatik IT",
+        "french": "RSS - Informatique IT",
+        "italian": "RSS - Informatica IT",
+        "english": ""
+      },
+      "name": {
+        "german": "RSS - Informatik IT",
+        "french": "RSS - Informatique IT",
+        "italian": "RSS - Informatica IT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035059",
+      "label": {
+        "german": "IT - Portfolio Management PFM",
+        "french": "IT - Portfolio Management PFM",
+        "italian": "IT - Portfolio Management PFM",
+        "english": ""
+      },
+      "name": {
+        "german": "IT - Portfolio Management PFM",
+        "french": "IT - Portfolio Management PFM",
+        "italian": "IT - Portfolio Management PFM",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050102",
+      "label": {
+        "german": "IT - Portfolio MWST und RSS",
+        "french": "IT - Portfolio MWST et RSS",
+        "italian": "IT - Portfolio MWST e RSS",
+        "english": ""
+      },
+      "name": {
+        "german": "IT - Portfolio MWST und RSS",
+        "french": "IT - Portfolio MWST et RSS",
+        "italian": "IT - Portfolio MWST e RSS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

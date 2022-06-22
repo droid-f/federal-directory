@@ -1,1 +1,260 @@
-{"id"=>"20011450", "name"=>{"german"=>"Infrastruktur Gebäudemanagement ALC G", "french"=>"Gestion infrastructures CLA-G", "italian"=>"Infrastruttura gestione edifici CLEs G", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Route du PAA", "postalCode"=>"1772", "location"=>"Grolley", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20011746", "name"=>{"german"=>"Grossobjekt Bière", "french"=>"Gros objet Bière CLA-G", "italian"=>"Grandi opere Bière", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011777", "name"=>{"german"=>"Grossobjekt Drognens", "french"=>"Gros objet Drognens CLA-G", "italian"=>"Grandi opere Drognens", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013027", "name"=>{"german"=>"Grossobjekt Chamblon", "french"=>"Gros objet Chamblon CLA-G", "italian"=>"Grandi opere Chamblon", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011780", "name"=>{"german"=>"Mittlere und klein Objekte Nord ALC G", "french"=>"Moyens et petits ouvrages Nord CLA-G", "italian"=>"Opere medie e piccole nord CLEs G", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011798", "name"=>{"german"=>"Mittlere und klein Objekte Süd ALC G", "french"=>"Moyens et petits ouvrages Sud CLA-G", "italian"=>"Opere piccole e medie sud CLEs G", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5665622", "surname"=>"Roessler", "givenName"=>"Bertrand", "email"=>nil, "phone"=>"+41 58 46 62230", "function"=>{"german"=>"Chef/in Infra Gebäudemanagement / Stv C", "french"=>"Chef gestion infrastructure / rempl c", "italian"=>"Capo Infra gestione edifici / sost C", "english"=>"Chef/in Infra Gebäudemanagement / Stv C"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20011514", "label"=>{"german"=>"Armeelogistikcenter Grolley", "french"=>"Centre logistique de l'armée Grolley", "italian"=>"Centro logistico dell'esercito Grolley", "english"=>""}, "name"=>{"german"=>"Armeelogistikcenter Grolley", "french"=>"Centre logistique de l'armée Grolley", "italian"=>"Centro logistico dell'esercito Grolley", "english"=>""}}, {"id"=>"20011717", "label"=>{"german"=>"Bereitstellung und Betrieb ALC Grolley", "french"=>"Préparation et exploitation CLA-G", "italian"=>"Preparazione ed esercizio CLEs G", "english"=>""}, "name"=>{"german"=>"Bereitstellung und Betrieb ALC Grolley", "french"=>"Préparation et exploitation CLA-G", "italian"=>"Preparazione ed esercizio CLEs G", "english"=>""}}, {"id"=>"20011450", "label"=>{"german"=>"Infrastruktur Gebäudemanagement ALC G", "french"=>"Gestion infrastructures CLA-G", "italian"=>"Infrastruttura gestione edifici CLEs G", "english"=>""}, "name"=>{"german"=>"Infrastruktur Gebäudemanagement ALC G", "french"=>"Gestion infrastructures CLA-G", "italian"=>"Infrastruttura gestione edifici CLEs G", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011450",
+  "name": {
+    "german": "Infrastruktur Gebäudemanagement ALC G",
+    "french": "Gestion infrastructures CLA-G",
+    "italian": "Infrastruttura gestione edifici CLEs G",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Route du PAA",
+    "postalCode": "1772",
+    "location": "Grolley",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20011746",
+      "name": {
+        "german": "Grossobjekt Bière",
+        "french": "Gros objet Bière CLA-G",
+        "italian": "Grandi opere Bière",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011777",
+      "name": {
+        "german": "Grossobjekt Drognens",
+        "french": "Gros objet Drognens CLA-G",
+        "italian": "Grandi opere Drognens",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013027",
+      "name": {
+        "german": "Grossobjekt Chamblon",
+        "french": "Gros objet Chamblon CLA-G",
+        "italian": "Grandi opere Chamblon",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011780",
+      "name": {
+        "german": "Mittlere und klein Objekte Nord ALC G",
+        "french": "Moyens et petits ouvrages Nord CLA-G",
+        "italian": "Opere medie e piccole nord CLEs G",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011798",
+      "name": {
+        "german": "Mittlere und klein Objekte Süd ALC G",
+        "french": "Moyens et petits ouvrages Sud CLA-G",
+        "italian": "Opere piccole e medie sud CLEs G",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5665622",
+      "surname": "Roessler",
+      "givenName": "Bertrand",
+      "email": null,
+      "phone": "+41 58 46 62230",
+      "function": {
+        "german": "Chef/in Infra Gebäudemanagement / Stv C",
+        "french": "Chef gestion infrastructure / rempl c",
+        "italian": "Capo Infra gestione edifici / sost C",
+        "english": "Chef/in Infra Gebäudemanagement / Stv C"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011514",
+      "label": {
+        "german": "Armeelogistikcenter Grolley",
+        "french": "Centre logistique de l'armée Grolley",
+        "italian": "Centro logistico dell'esercito Grolley",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeelogistikcenter Grolley",
+        "french": "Centre logistique de l'armée Grolley",
+        "italian": "Centro logistico dell'esercito Grolley",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011717",
+      "label": {
+        "german": "Bereitstellung und Betrieb ALC Grolley",
+        "french": "Préparation et exploitation CLA-G",
+        "italian": "Preparazione ed esercizio CLEs G",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereitstellung und Betrieb ALC Grolley",
+        "french": "Préparation et exploitation CLA-G",
+        "italian": "Preparazione ed esercizio CLEs G",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011450",
+      "label": {
+        "german": "Infrastruktur Gebäudemanagement ALC G",
+        "french": "Gestion infrastructures CLA-G",
+        "italian": "Infrastruttura gestione edifici CLEs G",
+        "english": ""
+      },
+      "name": {
+        "german": "Infrastruktur Gebäudemanagement ALC G",
+        "french": "Gestion infrastructures CLA-G",
+        "italian": "Infrastruttura gestione edifici CLEs G",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

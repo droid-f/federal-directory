@@ -1,1 +1,217 @@
-{"id"=>"20032231", "name"=>{"german"=>"SI Infrastruktur", "french"=>"SI Infrastructure", "italian"=>"Prozesse, Beschaffung & Controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Av. Edmond Vaucher 18, CP 3000", "postalCode"=>"1211", "location"=>"Genève 2", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046776", "name"=>{"german"=>"SI Daten", "french"=>"SI Data", "italian"=>"SI Daten", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20032689", "name"=>{"german"=>"SI Intégration exploitation IE", "french"=>"SI Core et Exploitation", "italian"=>"Integration & Betrieb", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047251", "name"=>{"german"=>"SI Betriebliche Sicherheit", "french"=>"SI Sécurité opérationnelle", "italian"=>"SI Betriebliche Sicherheit", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8019573", "surname"=>"Charlet", "givenName"=>"Cédric", "email"=>nil, "phone"=>"+41 58 48 49406", "function"=>{"german"=>"Bereichsleiter/in Infrastruktur", "french"=>"Chef/fe domaine infrastructure", "italian"=>"Bereichsleiter/in Infrastruktur", "english"=>"Bereichsleiter/in Infrastruktur"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0277995", "surname"=>"Pibouleau", "givenName"=>"Sébastien", "email"=>nil, "phone"=>"+41 58 46 55594", "function"=>{"german"=>"Leiter/in Integration Betrieb und Stv.", "french"=>"Chef/fe intégration exploitat et Supp.", "italian"=>"Leiter/in Integration Betrieb", "english"=>"Leiter/in Integration Betrieb und Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10001950", "label"=>{"german"=>"ZAS", "french"=>"CdC", "italian"=>"UCC", "english"=>""}, "name"=>{"german"=>"Zentrale Ausgleichsstelle", "french"=>"Centrale de compensation", "italian"=>"Ufficio centrale di compensazione", "english"=>""}}, {"id"=>"10008880", "label"=>{"german"=>"Informatiksysteme IS", "french"=>"SI-Systèmes d'information", "italian"=>"Governanza aziendale e TI", "english"=>""}, "name"=>{"german"=>"Informatiksysteme IS", "french"=>"SI-Systèmes d'information", "italian"=>"Governanza aziendale e TI", "english"=>""}}, {"id"=>"20032231", "label"=>{"german"=>"SI Infrastruktur", "french"=>"SI Infrastructure", "italian"=>"Prozesse, Beschaffung & Controlling", "english"=>""}, "name"=>{"german"=>"SI Infrastruktur", "french"=>"SI Infrastructure", "italian"=>"Prozesse, Beschaffung & Controlling", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20032231",
+  "name": {
+    "german": "SI Infrastruktur",
+    "french": "SI Infrastructure",
+    "italian": "Prozesse, Beschaffung & Controlling",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Av. Edmond Vaucher 18, CP 3000",
+    "postalCode": "1211",
+    "location": "Genève 2",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046776",
+      "name": {
+        "german": "SI Daten",
+        "french": "SI Data",
+        "italian": "SI Daten",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032689",
+      "name": {
+        "german": "SI Intégration exploitation IE",
+        "french": "SI Core et Exploitation",
+        "italian": "Integration & Betrieb",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047251",
+      "name": {
+        "german": "SI Betriebliche Sicherheit",
+        "french": "SI Sécurité opérationnelle",
+        "italian": "SI Betriebliche Sicherheit",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8019573",
+      "surname": "Charlet",
+      "givenName": "Cédric",
+      "email": null,
+      "phone": "+41 58 48 49406",
+      "function": {
+        "german": "Bereichsleiter/in Infrastruktur",
+        "french": "Chef/fe domaine infrastructure",
+        "italian": "Bereichsleiter/in Infrastruktur",
+        "english": "Bereichsleiter/in Infrastruktur"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0277995",
+      "surname": "Pibouleau",
+      "givenName": "Sébastien",
+      "email": null,
+      "phone": "+41 58 46 55594",
+      "function": {
+        "german": "Leiter/in Integration Betrieb und Stv.",
+        "french": "Chef/fe intégration exploitat et Supp.",
+        "italian": "Leiter/in Integration Betrieb",
+        "english": "Leiter/in Integration Betrieb und Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001950",
+      "label": {
+        "german": "ZAS",
+        "french": "CdC",
+        "italian": "UCC",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Ausgleichsstelle",
+        "french": "Centrale de compensation",
+        "italian": "Ufficio centrale di compensazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008880",
+      "label": {
+        "german": "Informatiksysteme IS",
+        "french": "SI-Systèmes d'information",
+        "italian": "Governanza aziendale e TI",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatiksysteme IS",
+        "french": "SI-Systèmes d'information",
+        "italian": "Governanza aziendale e TI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032231",
+      "label": {
+        "german": "SI Infrastruktur",
+        "french": "SI Infrastructure",
+        "italian": "Prozesse, Beschaffung & Controlling",
+        "english": ""
+      },
+      "name": {
+        "german": "SI Infrastruktur",
+        "french": "SI Infrastructure",
+        "italian": "Prozesse, Beschaffung & Controlling",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

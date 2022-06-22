@@ -1,1 +1,199 @@
-{"id"=>"20040035", "name"=>{"german"=>"Konsularische Dienstleistungen", "french"=>"Prestations consulaires", "italian"=>"Prestazioni consolari", "english"=>"Consular services"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20022530", "name"=>{"german"=>"Visa", "french"=>"Visa", "italian"=>"Visti", "english"=>"Visas"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035235", "label"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}, "name"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}}, {"id"=>"20035299", "label"=>{"german"=>"Ukraine", "french"=>"Ukraine", "italian"=>"Ucraina", "english"=>"Ukraine"}, "name"=>{"german"=>"Ukraine", "french"=>"Ukraine", "italian"=>"Ucraina", "english"=>"Ukraine"}}, {"id"=>"10000793", "label"=>{"german"=>"Botschaft Kiew", "french"=>"Ambassade de Kiev", "italian"=>"Ambasciata a Kiev", "english"=>"Embassy in Kyiv"}, "name"=>{"german"=>"Botschaft Kiew", "french"=>"Ambassade de Kiev", "italian"=>"Ambasciata a Kiev", "english"=>"Embassy in Kyiv"}}, {"id"=>"20022527", "label"=>{"german"=>"Dienstleistungen und Betrieb", "french"=>"Prestations de service et exploitation", "italian"=>"Affari consolari e amministrativi", "english"=>"Services and operations"}, "name"=>{"german"=>"Dienstleistungen und Betrieb", "french"=>"Prestations de service et exploitation", "italian"=>"Affari consolari e amministrativi", "english"=>"Services and operations"}}, {"id"=>"20040035", "label"=>{"german"=>"Konsularische Dienstleistungen", "french"=>"Prestations consulaires", "italian"=>"Prestazioni consolari", "english"=>"Consular services"}, "name"=>{"german"=>"Konsularische Dienstleistungen", "french"=>"Prestations consulaires", "italian"=>"Prestazioni consolari", "english"=>"Consular services"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20040035",
+  "name": {
+    "german": "Konsularische Dienstleistungen",
+    "french": "Prestations consulaires",
+    "italian": "Prestazioni consolari",
+    "english": "Consular services"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20022530",
+      "name": {
+        "german": "Visa",
+        "french": "Visa",
+        "italian": "Visti",
+        "english": "Visas"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035235",
+      "label": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      },
+      "name": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      }
+    },
+    {
+      "id": "20035299",
+      "label": {
+        "german": "Ukraine",
+        "french": "Ukraine",
+        "italian": "Ucraina",
+        "english": "Ukraine"
+      },
+      "name": {
+        "german": "Ukraine",
+        "french": "Ukraine",
+        "italian": "Ucraina",
+        "english": "Ukraine"
+      }
+    },
+    {
+      "id": "10000793",
+      "label": {
+        "german": "Botschaft Kiew",
+        "french": "Ambassade de Kiev",
+        "italian": "Ambasciata a Kiev",
+        "english": "Embassy in Kyiv"
+      },
+      "name": {
+        "german": "Botschaft Kiew",
+        "french": "Ambassade de Kiev",
+        "italian": "Ambasciata a Kiev",
+        "english": "Embassy in Kyiv"
+      }
+    },
+    {
+      "id": "20022527",
+      "label": {
+        "german": "Dienstleistungen und Betrieb",
+        "french": "Prestations de service et exploitation",
+        "italian": "Affari consolari e amministrativi",
+        "english": "Services and operations"
+      },
+      "name": {
+        "german": "Dienstleistungen und Betrieb",
+        "french": "Prestations de service et exploitation",
+        "italian": "Affari consolari e amministrativi",
+        "english": "Services and operations"
+      }
+    },
+    {
+      "id": "20040035",
+      "label": {
+        "german": "Konsularische Dienstleistungen",
+        "french": "Prestations consulaires",
+        "italian": "Prestazioni consolari",
+        "english": "Consular services"
+      },
+      "name": {
+        "german": "Konsularische Dienstleistungen",
+        "french": "Prestations consulaires",
+        "italian": "Prestazioni consolari",
+        "english": "Consular services"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

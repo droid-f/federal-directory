@@ -1,1 +1,140 @@
-{"id"=>"20021851", "name"=>{"german"=>"Sektion Abrüstung", "french"=>"Section du désarmement", "italian"=>"Sezione per il disarmo", "english"=>"Disarmament Section"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"rue de Varembé 9-11", "postalCode"=>"1211", "location"=>"Genève 20", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10001284", "label"=>{"german"=>"Ständige Mission der Schweiz beim Büro der Vereinten Nationen und den anderen internationalen Organisationen in Genf", "french"=>"Mission permanente de la Suisse auprès de l'Office des Nations Unies et des autres organisations internationales à Genève", "italian"=>"Missione permanente della Svizzera presso l'Ufficio delle Nazioni Unite e le altre organizzazioni internazionali a Ginevra", "english"=>"Permanent Mission of Switzerland to the United Nations Office and to the other international organisations in Geneva"}, "name"=>{"german"=>"Ständige Mission der Schweiz beim Büro der Vereinten Nationen und den anderen internationalen Organisationen in Genf", "french"=>"Mission permanente de la Suisse auprès de l'Office des Nations Unies et des autres organisations internationales à Genève", "italian"=>"Missione permanente della Svizzera presso l'Ufficio delle Nazioni Unite e le altre organizzazioni internazionali a Ginevra", "english"=>"Permanent Mission of Switzerland to the United Nations Office and to the other international organisations in Geneva"}}, {"id"=>"10001288", "label"=>{"german"=>"Multilaterale Abteilung", "french"=>"Division multilatérale", "italian"=>"Divisione multilaterale", "english"=>"Multilateral Affairs Division"}, "name"=>{"german"=>"Multilaterale Abteilung", "french"=>"Division multilatérale", "italian"=>"Divisione multilaterale", "english"=>"Multilateral Affairs Division"}}, {"id"=>"20021851", "label"=>{"german"=>"Sektion Abrüstung", "french"=>"Section du désarmement", "italian"=>"Sezione per il disarmo", "english"=>"Disarmament Section"}, "name"=>{"german"=>"Sektion Abrüstung", "french"=>"Section du désarmement", "italian"=>"Sezione per il disarmo", "english"=>"Disarmament Section"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021851",
+  "name": {
+    "german": "Sektion Abrüstung",
+    "french": "Section du désarmement",
+    "italian": "Sezione per il disarmo",
+    "english": "Disarmament Section"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "rue de Varembé 9-11",
+    "postalCode": "1211",
+    "location": "Genève 20",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10001284",
+      "label": {
+        "german": "Ständige Mission der Schweiz beim Büro der Vereinten Nationen und den anderen internationalen Organisationen in Genf",
+        "french": "Mission permanente de la Suisse auprès de l'Office des Nations Unies et des autres organisations internationales à Genève",
+        "italian": "Missione permanente della Svizzera presso l'Ufficio delle Nazioni Unite e le altre organizzazioni internazionali a Ginevra",
+        "english": "Permanent Mission of Switzerland to the United Nations Office and to the other international organisations in Geneva"
+      },
+      "name": {
+        "german": "Ständige Mission der Schweiz beim Büro der Vereinten Nationen und den anderen internationalen Organisationen in Genf",
+        "french": "Mission permanente de la Suisse auprès de l'Office des Nations Unies et des autres organisations internationales à Genève",
+        "italian": "Missione permanente della Svizzera presso l'Ufficio delle Nazioni Unite e le altre organizzazioni internazionali a Ginevra",
+        "english": "Permanent Mission of Switzerland to the United Nations Office and to the other international organisations in Geneva"
+      }
+    },
+    {
+      "id": "10001288",
+      "label": {
+        "german": "Multilaterale Abteilung",
+        "french": "Division multilatérale",
+        "italian": "Divisione multilaterale",
+        "english": "Multilateral Affairs Division"
+      },
+      "name": {
+        "german": "Multilaterale Abteilung",
+        "french": "Division multilatérale",
+        "italian": "Divisione multilaterale",
+        "english": "Multilateral Affairs Division"
+      }
+    },
+    {
+      "id": "20021851",
+      "label": {
+        "german": "Sektion Abrüstung",
+        "french": "Section du désarmement",
+        "italian": "Sezione per il disarmo",
+        "english": "Disarmament Section"
+      },
+      "name": {
+        "german": "Sektion Abrüstung",
+        "french": "Section du désarmement",
+        "italian": "Sezione per il disarmo",
+        "english": "Disarmament Section"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

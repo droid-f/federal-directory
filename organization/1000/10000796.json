@@ -1,1 +1,215 @@
-{"id"=>"10000796", "name"=>{"german"=>"Konsulat Annecy", "french"=>"Consulat d'Annecy", "italian"=>"Consolato ad Annecy", "english"=>"Consulate in Annecy"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035235", "label"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}, "name"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}}, {"id"=>"20035250", "label"=>{"german"=>"Frankreich", "french"=>"France", "italian"=>"Francia", "english"=>"France"}, "name"=>{"german"=>"Frankreich", "french"=>"France", "italian"=>"Francia", "english"=>"France"}}, {"id"=>"10000749", "label"=>{"german"=>"Botschaft Paris", "french"=>"Ambassade de Paris", "italian"=>"Ambasciata a Parigi", "english"=>"Embassy in Paris"}, "name"=>{"german"=>"Botschaft Paris", "french"=>"Ambassade de Paris", "italian"=>"Ambasciata a Parigi", "english"=>"Embassy in Paris"}}, {"id"=>"20037716", "label"=>{"german"=>"Konsularische Vertretungen", "french"=>"Représentations consulaires", "italian"=>"Rappresentanze consolari", "english"=>"Consular representations"}, "name"=>{"german"=>"Konsularische Vertretungen", "french"=>"Représentations consulaires", "italian"=>"Rappresentanze consolari", "english"=>"Consular representations"}}, {"id"=>"10000773", "label"=>{"german"=>"Generalkonsulat Lyon", "french"=>"Consulat général de Lyon", "italian"=>"Consolato generale a Lione", "english"=>"Consulate General in Lyon"}, "name"=>{"german"=>"Generalkonsulat Lyon", "french"=>"Consulat général de Lyon", "italian"=>"Consolato generale a Lione", "english"=>"Consulate General in Lyon"}}, {"id"=>"20038756", "label"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}, "name"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}}, {"id"=>"10000796", "label"=>{"german"=>"Konsulat Annecy", "french"=>"Consulat d'Annecy", "italian"=>"Consolato ad Annecy", "english"=>"Consulate in Annecy"}, "name"=>{"german"=>"Konsulat Annecy", "french"=>"Consulat d'Annecy", "italian"=>"Consolato ad Annecy", "english"=>"Consulate in Annecy"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000796",
+  "name": {
+    "german": "Konsulat Annecy",
+    "french": "Consulat d'Annecy",
+    "italian": "Consolato ad Annecy",
+    "english": "Consulate in Annecy"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035235",
+      "label": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      },
+      "name": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      }
+    },
+    {
+      "id": "20035250",
+      "label": {
+        "german": "Frankreich",
+        "french": "France",
+        "italian": "Francia",
+        "english": "France"
+      },
+      "name": {
+        "german": "Frankreich",
+        "french": "France",
+        "italian": "Francia",
+        "english": "France"
+      }
+    },
+    {
+      "id": "10000749",
+      "label": {
+        "german": "Botschaft Paris",
+        "french": "Ambassade de Paris",
+        "italian": "Ambasciata a Parigi",
+        "english": "Embassy in Paris"
+      },
+      "name": {
+        "german": "Botschaft Paris",
+        "french": "Ambassade de Paris",
+        "italian": "Ambasciata a Parigi",
+        "english": "Embassy in Paris"
+      }
+    },
+    {
+      "id": "20037716",
+      "label": {
+        "german": "Konsularische Vertretungen",
+        "french": "Représentations consulaires",
+        "italian": "Rappresentanze consolari",
+        "english": "Consular representations"
+      },
+      "name": {
+        "german": "Konsularische Vertretungen",
+        "french": "Représentations consulaires",
+        "italian": "Rappresentanze consolari",
+        "english": "Consular representations"
+      }
+    },
+    {
+      "id": "10000773",
+      "label": {
+        "german": "Generalkonsulat Lyon",
+        "french": "Consulat général de Lyon",
+        "italian": "Consolato generale a Lione",
+        "english": "Consulate General in Lyon"
+      },
+      "name": {
+        "german": "Generalkonsulat Lyon",
+        "french": "Consulat général de Lyon",
+        "italian": "Consolato generale a Lione",
+        "english": "Consulate General in Lyon"
+      }
+    },
+    {
+      "id": "20038756",
+      "label": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      },
+      "name": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      }
+    },
+    {
+      "id": "10000796",
+      "label": {
+        "german": "Konsulat Annecy",
+        "french": "Consulat d'Annecy",
+        "italian": "Consolato ad Annecy",
+        "english": "Consulate in Annecy"
+      },
+      "name": {
+        "german": "Konsulat Annecy",
+        "french": "Consulat d'Annecy",
+        "italian": "Consolato ad Annecy",
+        "english": "Consulate in Annecy"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,245 @@
-{"id"=>"20017657", "name"=>{"german"=>"Stab LVb Genie/Rettung/ABC", "french"=>"EM FOAP génie/sauvetage/NBC", "italian"=>"SM FOA G/salv/NBC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Allmendweg 8", "postalCode"=>"4528", "location"=>"Zuchwil", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20013126", "name"=>{"german"=>"Personelles der Truppe LVb G/Rttg/ABC", "french"=>"Personnel de la troupe FOAP G/sauv/NBC", "italian"=>"Personale della truppa FOA G/salv/NBC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003753", "name"=>{"german"=>"Versuche Reglemente / Einführung", "french"=>"Essais règlements / introduction", "italian"=>"Prove Regolamenti / Introduzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003756", "name"=>{"german"=>"Dienste / Führungsunterstützung", "french"=>"Services / aide au commandement", "italian"=>"Servizi / Aiuto cond", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003757", "name"=>{"german"=>"Ausbildung LVb Genie/Rettung/ABC", "french"=>"Instruction FOAP génie/sauvetage/NBC", "italian"=>"Istruzione FOA G/salv/NBC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035557", "name"=>{"german"=>"Fachgruppe Rettung SKH", "french"=>"Groupe spécialisé Sauvetage CSA", "italian"=>"Gruppo specialistico salvataggio CSA", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>true, "id"=>"p-5445232", "surname"=>"Marazza", "givenName"=>"Alessio", "email"=>nil, "phone"=>"+41 58 48 36914", "function"=>{"german"=>"Stabchef/in", "french"=>"Chef d'état-major", "italian"=>"CSM", "english"=>"Stabchef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015871", "label"=>{"german"=>"LVBGRABC", "french"=>"LVBGRABC", "italian"=>"LVBGRABC", "english"=>""}, "name"=>{"german"=>"Lehrverband Genie/Rettung/ABC", "french"=>"FOAP génie/sauvetage/NBC", "italian"=>"FOA G/salv/NBC", "english"=>""}}, {"id"=>"20017657", "label"=>{"german"=>"Stab LVb Genie/Rettung/ABC", "french"=>"EM FOAP génie/sauvetage/NBC", "italian"=>"SM FOA G/salv/NBC", "english"=>""}, "name"=>{"german"=>"Stab LVb Genie/Rettung/ABC", "french"=>"EM FOAP génie/sauvetage/NBC", "italian"=>"SM FOA G/salv/NBC", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20017657",
+  "name": {
+    "german": "Stab LVb Genie/Rettung/ABC",
+    "french": "EM FOAP génie/sauvetage/NBC",
+    "italian": "SM FOA G/salv/NBC",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Allmendweg 8",
+    "postalCode": "4528",
+    "location": "Zuchwil",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20013126",
+      "name": {
+        "german": "Personelles der Truppe LVb G/Rttg/ABC",
+        "french": "Personnel de la troupe FOAP G/sauv/NBC",
+        "italian": "Personale della truppa FOA G/salv/NBC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003753",
+      "name": {
+        "german": "Versuche Reglemente / Einführung",
+        "french": "Essais règlements / introduction",
+        "italian": "Prove Regolamenti / Introduzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003756",
+      "name": {
+        "german": "Dienste / Führungsunterstützung",
+        "french": "Services / aide au commandement",
+        "italian": "Servizi / Aiuto cond",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003757",
+      "name": {
+        "german": "Ausbildung LVb Genie/Rettung/ABC",
+        "french": "Instruction FOAP génie/sauvetage/NBC",
+        "italian": "Istruzione FOA G/salv/NBC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035557",
+      "name": {
+        "german": "Fachgruppe Rettung SKH",
+        "french": "Groupe spécialisé Sauvetage CSA",
+        "italian": "Gruppo specialistico salvataggio CSA",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": true,
+      "id": "p-5445232",
+      "surname": "Marazza",
+      "givenName": "Alessio",
+      "email": null,
+      "phone": "+41 58 48 36914",
+      "function": {
+        "german": "Stabchef/in",
+        "french": "Chef d'état-major",
+        "italian": "CSM",
+        "english": "Stabchef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015871",
+      "label": {
+        "german": "LVBGRABC",
+        "french": "LVBGRABC",
+        "italian": "LVBGRABC",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Genie/Rettung/ABC",
+        "french": "FOAP génie/sauvetage/NBC",
+        "italian": "FOA G/salv/NBC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017657",
+      "label": {
+        "german": "Stab LVb Genie/Rettung/ABC",
+        "french": "EM FOAP génie/sauvetage/NBC",
+        "italian": "SM FOA G/salv/NBC",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab LVb Genie/Rettung/ABC",
+        "french": "EM FOAP génie/sauvetage/NBC",
+        "italian": "SM FOA G/salv/NBC",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

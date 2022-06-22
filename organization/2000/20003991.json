@@ -1,1 +1,155 @@
-{"id"=>"20003991", "name"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20003987", "label"=>{"german"=>"Ressourcen und Support", "french"=>"Ressources et Support", "italian"=>"Risorse e supporto", "english"=>""}, "name"=>{"german"=>"Ressourcen und Support", "french"=>"Ressources et Support", "italian"=>"Risorse e supporto", "english"=>""}}, {"id"=>"20003990", "label"=>{"german"=>"Recht, Transport und Zoll", "french"=>"Droit, transports et douanes", "italian"=>"Diritto, trasporti e dogane", "english"=>""}, "name"=>{"german"=>"Recht, Transport und Zoll", "french"=>"Droit, transports et douanes", "italian"=>"Diritto, trasporti e dogane", "english"=>""}}, {"id"=>"20003991", "label"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}, "name"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003991",
+  "name": {
+    "german": "Recht",
+    "french": "Droit",
+    "italian": "Diritto",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003987",
+      "label": {
+        "german": "Ressourcen und Support",
+        "french": "Ressources et Support",
+        "italian": "Risorse e supporto",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen und Support",
+        "french": "Ressources et Support",
+        "italian": "Risorse e supporto",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003990",
+      "label": {
+        "german": "Recht, Transport und Zoll",
+        "french": "Droit, transports et douanes",
+        "italian": "Diritto, trasporti e dogane",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht, Transport und Zoll",
+        "french": "Droit, transports et douanes",
+        "italian": "Diritto, trasporti e dogane",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003991",
+      "label": {
+        "german": "Recht",
+        "french": "Droit",
+        "italian": "Diritto",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht",
+        "french": "Droit",
+        "italian": "Diritto",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

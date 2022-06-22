@@ -1,1 +1,173 @@
-{"id"=>"20000880", "name"=>{"german"=>"FB Gever Services", "french"=>"Unité Gever Services", "italian"=>"Settore Gever Services", "english"=>""}, "nameAbbr"=>{"german"=>"GESE", "french"=>"GESE", "italian"=>"GESE", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584624683", "fax"=>"+41584627879", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9943953", "surname"=>"Hadorn", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 50705", "function"=>{"german"=>"Chef GESE", "french"=>"Chef GESE", "italian"=>"Capo GESE", "english"=>"Chef GESE"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5405670", "surname"=>"Gygax", "givenName"=>"Renate", "email"=>nil, "phone"=>"+41 58 46 24876", "function"=>{"german"=>"Stv. Chefin GESE / Process Manager", "french"=>"Cheffe suppléante GESE / gestion des processus", "italian"=>"Capo supplente GESE / Responsabile di processo", "english"=>"Stv. Chefin GESE / Process Manager"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002438", "label"=>{"german"=>"ZD", "french"=>"ZD", "italian"=>"ZD", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Zentrale Dienste", "french"=>"Domaine de direction Services centraux", "italian"=>"Ambito direzionale Servizi centrali", "english"=>""}}, {"id"=>"20000880", "label"=>{"german"=>"GESE", "french"=>"GESE", "italian"=>"GESE", "english"=>""}, "name"=>{"german"=>"FB Gever Services", "french"=>"Unité Gever Services", "italian"=>"Settore Gever Services", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000880",
+  "name": {
+    "german": "FB Gever Services",
+    "french": "Unité Gever Services",
+    "italian": "Settore Gever Services",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "GESE",
+    "french": "GESE",
+    "italian": "GESE",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584624683",
+    "fax": "+41584627879",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9943953",
+      "surname": "Hadorn",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 50705",
+      "function": {
+        "german": "Chef GESE",
+        "french": "Chef GESE",
+        "italian": "Capo GESE",
+        "english": "Chef GESE"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5405670",
+      "surname": "Gygax",
+      "givenName": "Renate",
+      "email": null,
+      "phone": "+41 58 46 24876",
+      "function": {
+        "german": "Stv. Chefin GESE / Process Manager",
+        "french": "Cheffe suppléante GESE / gestion des processus",
+        "italian": "Capo supplente GESE / Responsabile di processo",
+        "english": "Stv. Chefin GESE / Process Manager"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002438",
+      "label": {
+        "german": "ZD",
+        "french": "ZD",
+        "italian": "ZD",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Zentrale Dienste",
+        "french": "Domaine de direction Services centraux",
+        "italian": "Ambito direzionale Servizi centrali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000880",
+      "label": {
+        "german": "GESE",
+        "french": "GESE",
+        "italian": "GESE",
+        "english": ""
+      },
+      "name": {
+        "german": "FB Gever Services",
+        "french": "Unité Gever Services",
+        "italian": "Settore Gever Services",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

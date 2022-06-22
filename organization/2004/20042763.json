@@ -1,1 +1,185 @@
-{"id"=>"20042763", "name"=>{"german"=>"Verpflegungszentrum Wpl Bière", "french"=>"Centre de subsistance pl armes Bière", "italian"=>"Centro di sussistenza pz armi Bière", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Cdmt pl armes / CIA 30", "street"=>"Caserne", "postalCode"=>"1145", "location"=>"Bière", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015870", "label"=>{"german"=>"LVBPZART", "french"=>"LVBPZART", "italian"=>"LVBPZART", "english"=>""}, "name"=>{"german"=>"Lehrverband Panzer und Artillerie", "french"=>"FOAP blindés et artillerie", "italian"=>"FOA dei blindati e dell'artiglieria", "english"=>""}}, {"id"=>"20017582", "label"=>{"german"=>"Kdo Waffenplatz Bière / CIA 30", "french"=>"Cdmt place d'armes Bière / CIA 30", "italian"=>"Cdo piazza d'armi Bière / CIA 30", "english"=>""}, "name"=>{"german"=>"Kdo Waffenplatz Bière / CIA 30", "french"=>"Cdmt place d'armes Bière / CIA 30", "italian"=>"Cdo piazza d'armi Bière / CIA 30", "english"=>""}}, {"id"=>"20017651", "label"=>{"german"=>"Fhr Geh Kdt Waffenplatz Bière / CIA 30", "french"=>"Aide cdmt cdt place armes Bière / CIA 30", "italian"=>"Aiuto cdo cdt piaz d'armi Bière / CIA 30", "english"=>""}, "name"=>{"german"=>"Fhr Geh Kdt Waffenplatz Bière / CIA 30", "french"=>"Aide cdmt cdt place armes Bière / CIA 30", "italian"=>"Aiuto cdo cdt piaz d'armi Bière / CIA 30", "english"=>""}}, {"id"=>"20042763", "label"=>{"german"=>"Verpflegungszentrum Wpl Bière", "french"=>"Centre de subsistance pl armes Bière", "italian"=>"Centro di sussistenza pz armi Bière", "english"=>""}, "name"=>{"german"=>"Verpflegungszentrum Wpl Bière", "french"=>"Centre de subsistance pl armes Bière", "italian"=>"Centro di sussistenza pz armi Bière", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042763",
+  "name": {
+    "german": "Verpflegungszentrum Wpl Bière",
+    "french": "Centre de subsistance pl armes Bière",
+    "italian": "Centro di sussistenza pz armi Bière",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Cdmt pl armes / CIA 30",
+    "street": "Caserne",
+    "postalCode": "1145",
+    "location": "Bière",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015870",
+      "label": {
+        "german": "LVBPZART",
+        "french": "LVBPZART",
+        "italian": "LVBPZART",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Panzer und Artillerie",
+        "french": "FOAP blindés et artillerie",
+        "italian": "FOA dei blindati e dell'artiglieria",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017582",
+      "label": {
+        "german": "Kdo Waffenplatz Bière / CIA 30",
+        "french": "Cdmt place d'armes Bière / CIA 30",
+        "italian": "Cdo piazza d'armi Bière / CIA 30",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Waffenplatz Bière / CIA 30",
+        "french": "Cdmt place d'armes Bière / CIA 30",
+        "italian": "Cdo piazza d'armi Bière / CIA 30",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017651",
+      "label": {
+        "german": "Fhr Geh Kdt Waffenplatz Bière / CIA 30",
+        "french": "Aide cdmt cdt place armes Bière / CIA 30",
+        "italian": "Aiuto cdo cdt piaz d'armi Bière / CIA 30",
+        "english": ""
+      },
+      "name": {
+        "german": "Fhr Geh Kdt Waffenplatz Bière / CIA 30",
+        "french": "Aide cdmt cdt place armes Bière / CIA 30",
+        "italian": "Aiuto cdo cdt piaz d'armi Bière / CIA 30",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042763",
+      "label": {
+        "german": "Verpflegungszentrum Wpl Bière",
+        "french": "Centre de subsistance pl armes Bière",
+        "italian": "Centro di sussistenza pz armi Bière",
+        "english": ""
+      },
+      "name": {
+        "german": "Verpflegungszentrum Wpl Bière",
+        "french": "Centre de subsistance pl armes Bière",
+        "italian": "Centro di sussistenza pz armi Bière",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,169 @@
-{"id"=>"20049880", "name"=>{"german"=>"HR Services", "french"=>"HR Services", "italian"=>"HR Services", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Inselgasse 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049583", "name"=>{"german"=>"Personaladministration und Berufsbildung", "french"=>"Personaladministration und Berufsbildung", "italian"=>"Personaladministration und Berufsbildung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"10002255", "label"=>{"german"=>"Ressourcensteuerung", "french"=>"Pilotage des ressources", "italian"=>"Ressourcensteuerung", "english"=>""}, "name"=>{"german"=>"Ressourcensteuerung", "french"=>"Pilotage des ressources", "italian"=>"Ressourcensteuerung", "english"=>""}}, {"id"=>"10002253", "label"=>{"german"=>"Human Resources", "french"=>"Human Resources DFI", "italian"=>"Human Resources DFI", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Human Resources DFI", "italian"=>"Human Resources DFI", "english"=>""}}, {"id"=>"20049880", "label"=>{"german"=>"HR Services", "french"=>"HR Services", "italian"=>"HR Services", "english"=>""}, "name"=>{"german"=>"HR Services", "french"=>"HR Services", "italian"=>"HR Services", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049880",
+  "name": {
+    "german": "HR Services",
+    "french": "HR Services",
+    "italian": "HR Services",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Inselgasse 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049583",
+      "name": {
+        "german": "Personaladministration und Berufsbildung",
+        "french": "Personaladministration und Berufsbildung",
+        "italian": "Personaladministration und Berufsbildung",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002255",
+      "label": {
+        "german": "Ressourcensteuerung",
+        "french": "Pilotage des ressources",
+        "italian": "Ressourcensteuerung",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcensteuerung",
+        "french": "Pilotage des ressources",
+        "italian": "Ressourcensteuerung",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002253",
+      "label": {
+        "german": "Human Resources",
+        "french": "Human Resources DFI",
+        "italian": "Human Resources DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Human Resources DFI",
+        "italian": "Human Resources DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049880",
+      "label": {
+        "german": "HR Services",
+        "french": "HR Services",
+        "italian": "HR Services",
+        "english": ""
+      },
+      "name": {
+        "german": "HR Services",
+        "french": "HR Services",
+        "italian": "HR Services",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,156 @@
-{"id"=>"20046656", "name"=>{"german"=>"Fachbereich Bauprodukte und Europa", "french"=>"Domaine spécialisé Produits de construction et affaires européennes", "italian"=>"Settore specializzato Prodotti da costru- zione ed Europa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Fellerstrasse 21", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2077973", "surname"=>"Bossenmayer", "givenName"=>"Andreas Jürgen", "email"=>nil, "phone"=>"+41 58 46 28160", "function"=>{"german"=>"Leiter/in Fachbereich Bauprodukte und Europa", "french"=>"Responsable du domaine spécialisé Produits de construction et affaires européennes", "italian"=>"Capo Settore specializzato Prodotti da costruzione e affari europei", "english"=>"Leiter/in Fachb. Bauprodukte und Europa"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008670", "label"=>{"german"=>"BBL", "french"=>"OFCL", "italian"=>"UFCL", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bauten und Logistik", "french"=>"Office fédéral des constructions et de la logistique", "italian"=>"Ufficio federale delle costruzioni e della logistica", "english"=>""}}, {"id"=>"10005978", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20046652", "label"=>{"german"=>"Aussenbeziehungen, Beschaffungs- politik, Kommunikation", "french"=>"Relations extérieures, politique en matière d‘achats, communication", "italian"=>"Relazioni esterne, politica in materia di appalti, comunicazione", "english"=>""}, "name"=>{"german"=>"Aussenbeziehungen, Beschaffungs- politik, Kommunikation", "french"=>"Relations extérieures, politique en matière d‘achats, communication", "italian"=>"Relazioni esterne, politica in materia di appalti, comunicazione", "english"=>""}}, {"id"=>"20046656", "label"=>{"german"=>"Fachbereich Bauprodukte und Europa", "french"=>"Domaine spécialisé Produits de construction et affaires européennes", "italian"=>"Settore specializzato Prodotti da costru- zione ed Europa", "english"=>""}, "name"=>{"german"=>"Fachbereich Bauprodukte und Europa", "french"=>"Domaine spécialisé Produits de construction et affaires européennes", "italian"=>"Settore specializzato Prodotti da costru- zione ed Europa", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046656",
+  "name": {
+    "german": "Fachbereich Bauprodukte und Europa",
+    "french": "Domaine spécialisé Produits de construction et affaires européennes",
+    "italian": "Settore specializzato Prodotti da costru- zione ed Europa",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Fellerstrasse 21",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2077973",
+      "surname": "Bossenmayer",
+      "givenName": "Andreas Jürgen",
+      "email": null,
+      "phone": "+41 58 46 28160",
+      "function": {
+        "german": "Leiter/in Fachbereich Bauprodukte und Europa",
+        "french": "Responsable du domaine spécialisé Produits de construction et affaires européennes",
+        "italian": "Capo Settore specializzato Prodotti da costruzione e affari europei",
+        "english": "Leiter/in Fachb. Bauprodukte und Europa"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008670",
+      "label": {
+        "german": "BBL",
+        "french": "OFCL",
+        "italian": "UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bauten und Logistik",
+        "french": "Office fédéral des constructions et de la logistique",
+        "italian": "Ufficio federale delle costruzioni e della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005978",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046652",
+      "label": {
+        "german": "Aussenbeziehungen, Beschaffungs- politik, Kommunikation",
+        "french": "Relations extérieures, politique en matière d‘achats, communication",
+        "italian": "Relazioni esterne, politica in materia di appalti, comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Aussenbeziehungen, Beschaffungs- politik, Kommunikation",
+        "french": "Relations extérieures, politique en matière d‘achats, communication",
+        "italian": "Relazioni esterne, politica in materia di appalti, comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046656",
+      "label": {
+        "german": "Fachbereich Bauprodukte und Europa",
+        "french": "Domaine spécialisé Produits de construction et affaires européennes",
+        "italian": "Settore specializzato Prodotti da costru- zione ed Europa",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Bauprodukte und Europa",
+        "french": "Domaine spécialisé Produits de construction et affaires européennes",
+        "italian": "Settore specializzato Prodotti da costru- zione ed Europa",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

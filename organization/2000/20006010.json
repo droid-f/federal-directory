@@ -1,1 +1,171 @@
-{"id"=>"20006010", "name"=>{"german"=>"Alter, Armut, Einkommen und Vermögen", "french"=>"Âge, pauvreté, revenu et fortune", "italian"=>"Età, povertà, reddito e fortuna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0853821", "surname"=>"Oehrli", "givenName"=>"Dominique", "email"=>nil, "phone"=>"+41 58 48 03877", "function"=>{"german"=>"Bereichsleiter/in", "french"=>"Bereichsleiter/in", "italian"=>"Bereichsleiter/in", "english"=>"Bereichsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004662", "label"=>{"german"=>"Abteilung Bevölkerung und Bildung", "french"=>"Division Population et formation", "italian"=>"Divisione Popolazione e formazione", "english"=>""}, "name"=>{"german"=>"Abteilung Bevölkerung und Bildung", "french"=>"Division Population et formation", "italian"=>"Divisione Popolazione e formazione", "english"=>""}}, {"id"=>"20005137", "label"=>{"german"=>"Sektion Einkommen, Konsum und Lebensbedingungen", "french"=>"Section Revenus, consommation et conditions de vie", "italian"=>"Sezione Reddito, consumo e condizioni di vita", "english"=>""}, "name"=>{"german"=>"Sektion Einkommen, Konsum und Lebensbedingungen", "french"=>"Section Revenus, consommation et conditions de vie", "italian"=>"Sezione Reddito, consumo e condizioni di vita", "english"=>""}}, {"id"=>"20006010", "label"=>{"german"=>"Alter, Armut, Einkommen und Vermögen", "french"=>"Âge, pauvreté, revenu et fortune", "italian"=>"Età, povertà, reddito e fortuna", "english"=>""}, "name"=>{"german"=>"Alter, Armut, Einkommen und Vermögen", "french"=>"Âge, pauvreté, revenu et fortune", "italian"=>"Età, povertà, reddito e fortuna", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20006010",
+  "name": {
+    "german": "Alter, Armut, Einkommen und Vermögen",
+    "french": "Âge, pauvreté, revenu et fortune",
+    "italian": "Età, povertà, reddito e fortuna",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0853821",
+      "surname": "Oehrli",
+      "givenName": "Dominique",
+      "email": null,
+      "phone": "+41 58 48 03877",
+      "function": {
+        "german": "Bereichsleiter/in",
+        "french": "Bereichsleiter/in",
+        "italian": "Bereichsleiter/in",
+        "english": "Bereichsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004662",
+      "label": {
+        "german": "Abteilung Bevölkerung und Bildung",
+        "french": "Division Population et formation",
+        "italian": "Divisione Popolazione e formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Bevölkerung und Bildung",
+        "french": "Division Population et formation",
+        "italian": "Divisione Popolazione e formazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005137",
+      "label": {
+        "german": "Sektion Einkommen, Konsum und Lebensbedingungen",
+        "french": "Section Revenus, consommation et conditions de vie",
+        "italian": "Sezione Reddito, consumo e condizioni di vita",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Einkommen, Konsum und Lebensbedingungen",
+        "french": "Section Revenus, consommation et conditions de vie",
+        "italian": "Sezione Reddito, consumo e condizioni di vita",
+        "english": ""
+      }
+    },
+    {
+      "id": "20006010",
+      "label": {
+        "german": "Alter, Armut, Einkommen und Vermögen",
+        "french": "Âge, pauvreté, revenu et fortune",
+        "italian": "Età, povertà, reddito e fortuna",
+        "english": ""
+      },
+      "name": {
+        "german": "Alter, Armut, Einkommen und Vermögen",
+        "french": "Âge, pauvreté, revenu et fortune",
+        "italian": "Età, povertà, reddito e fortuna",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

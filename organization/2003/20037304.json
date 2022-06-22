@@ -1,1 +1,185 @@
-{"id"=>"20037304", "name"=>{"german"=>"Information", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049178", "name"=>{"german"=>"Innovation + Fachanwendungen", "french"=>"Innovation + applications métier", "italian"=>"Innovazione + applicazioni tecniche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037308", "name"=>{"german"=>"Information und Redaktion", "french"=>"Information et rédaction", "italian"=>"Informazione e Redazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037309", "name"=>{"german"=>"Publikationen und Produktionen", "french"=>"Publications et producion", "italian"=>"Publicazioni e Produzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037310", "name"=>{"german"=>"Amtliches Bulletin", "french"=>"Bulletin officiel", "italian"=>"Bollettino ufficiale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037311", "name"=>{"german"=>"Führungen und Veranstaltungen", "french"=>"Visites guidéees et manifestiations", "italian"=>"Visite guidate e Eventi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8717510", "surname"=>"Stucki", "givenName"=>"Mark", "email"=>nil, "phone"=>"+41 58 32 29727", "function"=>{"german"=>"Bereichsleiter Information", "french"=>"Bereichsleiter Information", "italian"=>"Bereichsleiter Information", "english"=>"Bereichsleiter Information"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037304", "label"=>{"german"=>"Information", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "name"=>{"german"=>"Information", "french"=>"Information", "italian"=>"Informazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037304",
+  "name": {
+    "german": "Information",
+    "french": "Information",
+    "italian": "Informazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049178",
+      "name": {
+        "german": "Innovation + Fachanwendungen",
+        "french": "Innovation + applications métier",
+        "italian": "Innovazione + applicazioni tecniche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037308",
+      "name": {
+        "german": "Information und Redaktion",
+        "french": "Information et rédaction",
+        "italian": "Informazione e Redazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037309",
+      "name": {
+        "german": "Publikationen und Produktionen",
+        "french": "Publications et producion",
+        "italian": "Publicazioni e Produzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037310",
+      "name": {
+        "german": "Amtliches Bulletin",
+        "french": "Bulletin officiel",
+        "italian": "Bollettino ufficiale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037311",
+      "name": {
+        "german": "Führungen und Veranstaltungen",
+        "french": "Visites guidéees et manifestiations",
+        "italian": "Visite guidate e Eventi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8717510",
+      "surname": "Stucki",
+      "givenName": "Mark",
+      "email": null,
+      "phone": "+41 58 32 29727",
+      "function": {
+        "german": "Bereichsleiter Information",
+        "french": "Bereichsleiter Information",
+        "italian": "Bereichsleiter Information",
+        "english": "Bereichsleiter Information"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037304",
+      "label": {
+        "german": "Information",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Information",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

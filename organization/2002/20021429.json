@@ -1,1 +1,170 @@
-{"id"=>"20021429", "name"=>{"german"=>"Sportökonomie", "french"=>"Economie du sport", "italian"=>"Economia dello sport", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20050377", "name"=>{"german"=>"Sportsysteme", "french"=>"Installations sportives", "italian"=>"Impianti sportivi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048026", "name"=>{"german"=>"Sportanlagen", "french"=>"Installations sportives", "italian"=>"Impianti sportivi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6528294", "surname"=>"Mrkonjic", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 14461", "function"=>{"german"=>"Leiter/in Sportökonomie", "french"=>"Resp. Economie du sport", "italian"=>"Resp. Economia dello sport", "english"=>"Leiter/in Sportökonomie"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003803", "label"=>{"german"=>"EHSM", "french"=>"EHSM", "italian"=>"EHSM", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Sport Magglingen", "french"=>"Haute école fédérale de sport de Macolin", "italian"=>"Scuola universitaria federale dello sport di Macolin", "english"=>""}}, {"id"=>"20021429", "label"=>{"german"=>"Sportökonomie", "french"=>"Economie du sport", "italian"=>"Economia dello sport", "english"=>""}, "name"=>{"german"=>"Sportökonomie", "french"=>"Economie du sport", "italian"=>"Economia dello sport", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021429",
+  "name": {
+    "german": "Sportökonomie",
+    "french": "Economie du sport",
+    "italian": "Economia dello sport",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20050377",
+      "name": {
+        "german": "Sportsysteme",
+        "french": "Installations sportives",
+        "italian": "Impianti sportivi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048026",
+      "name": {
+        "german": "Sportanlagen",
+        "french": "Installations sportives",
+        "italian": "Impianti sportivi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6528294",
+      "surname": "Mrkonjic",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 14461",
+      "function": {
+        "german": "Leiter/in Sportökonomie",
+        "french": "Resp. Economie du sport",
+        "italian": "Resp. Economia dello sport",
+        "english": "Leiter/in Sportökonomie"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003803",
+      "label": {
+        "german": "EHSM",
+        "french": "EHSM",
+        "italian": "EHSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Sport Magglingen",
+        "french": "Haute école fédérale de sport de Macolin",
+        "italian": "Scuola universitaria federale dello sport di Macolin",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021429",
+      "label": {
+        "german": "Sportökonomie",
+        "french": "Economie du sport",
+        "italian": "Economia dello sport",
+        "english": ""
+      },
+      "name": {
+        "german": "Sportökonomie",
+        "french": "Economie du sport",
+        "italian": "Economia dello sport",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

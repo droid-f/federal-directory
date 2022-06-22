@@ -1,1 +1,170 @@
-{"id"=>"20035631", "name"=>{"german"=>"Versuchsbetrieb Breitenhof", "french"=>"Exploitation expérimentale de Breitenhof", "italian"=>"Azienda sperimentale Breitenhof", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Breitenhof 1", "postalCode"=>"4451", "location"=>"Wintersingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003634", "label"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}, "name"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}}, {"id"=>"10004120", "label"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}, "name"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}}, {"id"=>"20041276", "label"=>{"german"=>"Pflanzen und pflanzliche Produkte", "french"=>"Plantes et produits d’origine végétale", "italian"=>"Piante e prodotti vegetali", "english"=>""}, "name"=>{"german"=>"Pflanzen und pflanzliche Produkte", "french"=>"Plantes et produits d’origine végétale", "italian"=>"Piante e prodotti vegetali", "english"=>""}}, {"id"=>"20004701", "label"=>{"german"=>"Extension Obstbau", "french"=>"Extension arboriculture", "italian"=>"Estensione frutticoltutura", "english"=>""}, "name"=>{"german"=>"Extension Obstbau", "french"=>"Extension arboriculture", "italian"=>"Estensione frutticoltutura", "english"=>""}}, {"id"=>"20035631", "label"=>{"german"=>"Versuchsbetrieb Breitenhof", "french"=>"Exploitation expérimentale de Breitenhof", "italian"=>"Azienda sperimentale Breitenhof", "english"=>""}, "name"=>{"german"=>"Versuchsbetrieb Breitenhof", "french"=>"Exploitation expérimentale de Breitenhof", "italian"=>"Azienda sperimentale Breitenhof", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035631",
+  "name": {
+    "german": "Versuchsbetrieb Breitenhof",
+    "french": "Exploitation expérimentale de Breitenhof",
+    "italian": "Azienda sperimentale Breitenhof",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Breitenhof 1",
+    "postalCode": "4451",
+    "location": "Wintersingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003634",
+      "label": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004120",
+      "label": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041276",
+      "label": {
+        "german": "Pflanzen und pflanzliche Produkte",
+        "french": "Plantes et produits d’origine végétale",
+        "italian": "Piante e prodotti vegetali",
+        "english": ""
+      },
+      "name": {
+        "german": "Pflanzen und pflanzliche Produkte",
+        "french": "Plantes et produits d’origine végétale",
+        "italian": "Piante e prodotti vegetali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004701",
+      "label": {
+        "german": "Extension Obstbau",
+        "french": "Extension arboriculture",
+        "italian": "Estensione frutticoltutura",
+        "english": ""
+      },
+      "name": {
+        "german": "Extension Obstbau",
+        "french": "Extension arboriculture",
+        "italian": "Estensione frutticoltutura",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035631",
+      "label": {
+        "german": "Versuchsbetrieb Breitenhof",
+        "french": "Exploitation expérimentale de Breitenhof",
+        "italian": "Azienda sperimentale Breitenhof",
+        "english": ""
+      },
+      "name": {
+        "german": "Versuchsbetrieb Breitenhof",
+        "french": "Exploitation expérimentale de Breitenhof",
+        "italian": "Azienda sperimentale Breitenhof",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

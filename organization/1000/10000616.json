@@ -1,1 +1,219 @@
-{"id"=>"10000616", "name"=>{"german"=>"Frieden und Menschenrechte", "french"=>"Paix et droits de l’homme", "italian"=>"Pace e diritti umani", "english"=>"Peace and Human Rights"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 32", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"sts.afm@eda.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20028902", "name"=>{"german"=>"Stab AFM", "french"=>"État-major DPDH", "italian"=>"Stato maggiore DPDU", "english"=>"PHRD Staff Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037839", "name"=>{"german"=>"Sondergesandte für Vergangenheitsarbeit und Prävention von Gräueltaten", "french"=>"Envoyée spéciale pour le traitement du passé et la prévention des atrocités", "italian"=>"Inviata speciale per l'elaborazione del passato e la prevenzione delle attrocità", "english"=>"Special Envoy for Dealing with the Past and Prevention of Atrocities"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037001", "name"=>{"german"=>"Frieden und Menschenrechte - Geografisch", "french"=>"Paix et droits de l'homme - Géographique", "italian"=>"Pace e diritti umani - Geografico", "english"=>"Peace and Human Rights - Geographical"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037002", "name"=>{"german"=>"Frieden und Menschenrechte - Thematisch", "french"=>"Paix et droits de l'homme - Thématique", "italian"=>"Pace e diritti umani - Tematico", "english"=>"Peace and Human Rights - Thematic"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6675847", "surname"=>"Geissbühler", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 46 20354", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2299826", "surname"=>"Löw", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 76944", "function"=>{"german"=>"Stv. Chef/in", "french"=>"Stv. Chef/in", "italian"=>"Stv. Chef/in", "english"=>"Stv. Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9643486", "surname"=>"Gehring", "givenName"=>"Rea", "email"=>nil, "phone"=>"+41 58 46 21794", "function"=>{"german"=>"Stv. Chef/in", "french"=>"Stv. Chef/in", "italian"=>"Stv. Chef/in", "english"=>"Stv. Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000616", "label"=>{"german"=>"Frieden und Menschenrechte", "french"=>"Paix et droits de l’homme", "italian"=>"Pace e diritti umani", "english"=>"Peace and Human Rights"}, "name"=>{"german"=>"Frieden und Menschenrechte", "french"=>"Paix et droits de l’homme", "italian"=>"Pace e diritti umani", "english"=>"Peace and Human Rights"}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10000616",
+  "name": {
+    "german": "Frieden und Menschenrechte",
+    "french": "Paix et droits de l’homme",
+    "italian": "Pace e diritti umani",
+    "english": "Peace and Human Rights"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 32",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "sts.afm@eda.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20028902",
+      "name": {
+        "german": "Stab AFM",
+        "french": "État-major DPDH",
+        "italian": "Stato maggiore DPDU",
+        "english": "PHRD Staff Office"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037839",
+      "name": {
+        "german": "Sondergesandte für Vergangenheitsarbeit und Prävention von Gräueltaten",
+        "french": "Envoyée spéciale pour le traitement du passé et la prévention des atrocités",
+        "italian": "Inviata speciale per l'elaborazione del passato e la prevenzione delle attrocità",
+        "english": "Special Envoy for Dealing with the Past and Prevention of Atrocities"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037001",
+      "name": {
+        "german": "Frieden und Menschenrechte - Geografisch",
+        "french": "Paix et droits de l'homme - Géographique",
+        "italian": "Pace e diritti umani - Geografico",
+        "english": "Peace and Human Rights - Geographical"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037002",
+      "name": {
+        "german": "Frieden und Menschenrechte - Thematisch",
+        "french": "Paix et droits de l'homme - Thématique",
+        "italian": "Pace e diritti umani - Tematico",
+        "english": "Peace and Human Rights - Thematic"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6675847",
+      "surname": "Geissbühler",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 46 20354",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2299826",
+      "surname": "Löw",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 76944",
+      "function": {
+        "german": "Stv. Chef/in",
+        "french": "Stv. Chef/in",
+        "italian": "Stv. Chef/in",
+        "english": "Stv. Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9643486",
+      "surname": "Gehring",
+      "givenName": "Rea",
+      "email": null,
+      "phone": "+41 58 46 21794",
+      "function": {
+        "german": "Stv. Chef/in",
+        "french": "Stv. Chef/in",
+        "italian": "Stv. Chef/in",
+        "english": "Stv. Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000616",
+      "label": {
+        "german": "Frieden und Menschenrechte",
+        "french": "Paix et droits de l’homme",
+        "italian": "Pace e diritti umani",
+        "english": "Peace and Human Rights"
+      },
+      "name": {
+        "german": "Frieden und Menschenrechte",
+        "french": "Paix et droits de l’homme",
+        "italian": "Pace e diritti umani",
+        "english": "Peace and Human Rights"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

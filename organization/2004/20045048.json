@@ -1,1 +1,232 @@
-{"id"=>"20045048", "name"=>{"german"=>"Partner und Administration BE", "french"=>"Partenaires et administration BE", "italian"=>"Partner e amministrazione BE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Morillonstrasse 75", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584660006", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20045049", "name"=>{"german"=>"Administration BE", "french"=>"Administration BE", "italian"=>"Amministrazione BE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045050", "name"=>{"german"=>"Disposition BE", "french"=>"Planification des auditions BE", "italian"=>"Pianificazione delle procedure BE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045014", "name"=>{"german"=>"Externe BE", "french"=>"Externe BE", "italian"=>"Externe BE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6841564", "surname"=>"Rothen", "givenName"=>"Dominique", "email"=>nil, "phone"=>"+41 58 46 55359", "function"=>{"german"=>"Chef/in Sektion / Stv. Chef/in Region", "french"=>"Chef/in Sektion / Stv. Chef/in Region", "italian"=>"Chef/in Sektion / Stv. Chef/in Region", "english"=>"Chef/in Sektion / Stv. Chef/in Region"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7876476", "surname"=>"Lovric", "givenName"=>"Rahel Anna", "email"=>nil, "phone"=>"+41 58 46 95066", "function"=>{"german"=>"Fachspezialist/in P&A  / Stv. C Sektion", "french"=>"Fachspezialist/in P&A  / Stv. C Sektion", "italian"=>"Fachspezialist/in P&A  / Stv. C Sektion", "english"=>"Fachspezialist/in P&A  / Stv. C Sektion"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045047", "label"=>{"german"=>"Region Bern", "french"=>"Région Berne", "italian"=>"Regione Berna", "english"=>""}, "name"=>{"german"=>"Region Bern", "french"=>"Région Berne", "italian"=>"Regione Berna", "english"=>""}}, {"id"=>"20045048", "label"=>{"german"=>"Partner und Administration BE", "french"=>"Partenaires et administration BE", "italian"=>"Partner e amministrazione BE", "english"=>""}, "name"=>{"german"=>"Partner und Administration BE", "french"=>"Partenaires et administration BE", "italian"=>"Partner e amministrazione BE", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045048",
+  "name": {
+    "german": "Partner und Administration BE",
+    "french": "Partenaires et administration BE",
+    "italian": "Partner e amministrazione BE",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Morillonstrasse 75",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584660006",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20045049",
+      "name": {
+        "german": "Administration BE",
+        "french": "Administration BE",
+        "italian": "Amministrazione BE",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045050",
+      "name": {
+        "german": "Disposition BE",
+        "french": "Planification des auditions BE",
+        "italian": "Pianificazione delle procedure BE",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045014",
+      "name": {
+        "german": "Externe BE",
+        "french": "Externe BE",
+        "italian": "Externe BE",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6841564",
+      "surname": "Rothen",
+      "givenName": "Dominique",
+      "email": null,
+      "phone": "+41 58 46 55359",
+      "function": {
+        "german": "Chef/in Sektion / Stv. Chef/in Region",
+        "french": "Chef/in Sektion / Stv. Chef/in Region",
+        "italian": "Chef/in Sektion / Stv. Chef/in Region",
+        "english": "Chef/in Sektion / Stv. Chef/in Region"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7876476",
+      "surname": "Lovric",
+      "givenName": "Rahel Anna",
+      "email": null,
+      "phone": "+41 58 46 95066",
+      "function": {
+        "german": "Fachspezialist/in P&A  / Stv. C Sektion",
+        "french": "Fachspezialist/in P&A  / Stv. C Sektion",
+        "italian": "Fachspezialist/in P&A  / Stv. C Sektion",
+        "english": "Fachspezialist/in P&A  / Stv. C Sektion"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045047",
+      "label": {
+        "german": "Region Bern",
+        "french": "Région Berne",
+        "italian": "Regione Berna",
+        "english": ""
+      },
+      "name": {
+        "german": "Region Bern",
+        "french": "Région Berne",
+        "italian": "Regione Berna",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045048",
+      "label": {
+        "german": "Partner und Administration BE",
+        "french": "Partenaires et administration BE",
+        "italian": "Partner e amministrazione BE",
+        "english": ""
+      },
+      "name": {
+        "german": "Partner und Administration BE",
+        "french": "Partenaires et administration BE",
+        "italian": "Partner e amministrazione BE",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

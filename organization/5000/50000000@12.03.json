@@ -1,1 +1,230 @@
-{"id"=>"50000000@12.03", "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"50001657@12.03", "name"=>{"german"=>"Institutsrat", "french"=>"Institutsrat", "italian"=>"Institutsrat", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50001315@12.03", "name"=>{"german"=>"Forschung & Entwicklung", "french"=>"Forschung & Entwicklung", "italian"=>"Forschung & Entwicklung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50001762@12.03", "name"=>{"german"=>"Geschäftsleitung", "french"=>"Geschäftsleitung", "italian"=>"Geschäftsleitung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50000006@12.03", "name"=>{"german"=>"Führung & Direktionsgeschäfte", "french"=>"Führung & Direktionsgeschäfte", "italian"=>"Führung & Direktionsgeschäfte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50001337@12.03", "name"=>{"german"=>"Abteilung Chemie", "french"=>"Abteilung Chemie", "italian"=>"Abteilung Chemie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50000004@12.03", "name"=>{"german"=>"Abteilung Physik", "french"=>"Abteilung Physik", "italian"=>"Abteilung Physik", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50000005@12.03", "name"=>{"german"=>"Abteilung Gesetzliche Metrologie", "french"=>"Abteilung Gesetzliche Metrologie", "italian"=>"Abteilung Gesetzliche Metrologie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50001386@12.03", "name"=>{"german"=>"Technologie und Betrieb", "french"=>"Technologie und Betrieb", "italian"=>"Technologie und Betrieb", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5717774", "surname"=>"Richard", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41583870415", "function"=>{"german"=>"Direktor/in", "french"=>"Directeur/directrice", "italian"=>"Direttore", "english"=>"Director"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50000000@12.03",
+  "name": {
+    "german": "Eidgenössisches Institut für Metrologie",
+    "french": "Eidgenössisches Institut für Metrologie",
+    "italian": "Eidgenössisches Institut für Metrologie",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "50001657@12.03",
+      "name": {
+        "german": "Institutsrat",
+        "french": "Institutsrat",
+        "italian": "Institutsrat",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001315@12.03",
+      "name": {
+        "german": "Forschung & Entwicklung",
+        "french": "Forschung & Entwicklung",
+        "italian": "Forschung & Entwicklung",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001762@12.03",
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Geschäftsleitung",
+        "italian": "Geschäftsleitung",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000006@12.03",
+      "name": {
+        "german": "Führung & Direktionsgeschäfte",
+        "french": "Führung & Direktionsgeschäfte",
+        "italian": "Führung & Direktionsgeschäfte",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001337@12.03",
+      "name": {
+        "german": "Abteilung Chemie",
+        "french": "Abteilung Chemie",
+        "italian": "Abteilung Chemie",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000004@12.03",
+      "name": {
+        "german": "Abteilung Physik",
+        "french": "Abteilung Physik",
+        "italian": "Abteilung Physik",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000005@12.03",
+      "name": {
+        "german": "Abteilung Gesetzliche Metrologie",
+        "french": "Abteilung Gesetzliche Metrologie",
+        "italian": "Abteilung Gesetzliche Metrologie",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001386@12.03",
+      "name": {
+        "german": "Technologie und Betrieb",
+        "french": "Technologie und Betrieb",
+        "italian": "Technologie und Betrieb",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5717774",
+      "surname": "Richard",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41583870415",
+      "function": {
+        "german": "Direktor/in",
+        "french": "Directeur/directrice",
+        "italian": "Direttore",
+        "english": "Director"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

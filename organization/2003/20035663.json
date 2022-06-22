@@ -1,1 +1,170 @@
-{"id"=>"20035663", "name"=>{"german"=>"Fhr Geh Kdt FU OS 30", "french"=>"Aide cdmt cdt EO aide cdmt 30", "italian"=>"Aiuto cdo cdt SU aiuto cond 30", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo FU OS 30", "street"=>"Kaserne", "postalCode"=>"8180", "location"=>"Bülach", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20004496", "label"=>{"german"=>"LVBFU", "french"=>"LVBFU", "italian"=>"LVBFU", "english"=>""}, "name"=>{"german"=>"Lehrverband Führungsunterstützung", "french"=>"Formation d'application aide cdmt", "italian"=>"FOA dell'aiuto alla condotta", "english"=>""}}, {"id"=>"20004361", "label"=>{"german"=>"Führungsunterstützung OS 30", "french"=>"EO aide au commandement 30", "italian"=>"SU dell'aiuto alla condotta 30", "english"=>""}, "name"=>{"german"=>"Führungsunterstützung OS 30", "french"=>"EO aide au commandement 30", "italian"=>"SU dell'aiuto alla condotta 30", "english"=>""}}, {"id"=>"20035663", "label"=>{"german"=>"Fhr Geh Kdt FU OS 30", "french"=>"Aide cdmt cdt EO aide cdmt 30", "italian"=>"Aiuto cdo cdt SU aiuto cond 30", "english"=>""}, "name"=>{"german"=>"Fhr Geh Kdt FU OS 30", "french"=>"Aide cdmt cdt EO aide cdmt 30", "italian"=>"Aiuto cdo cdt SU aiuto cond 30", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035663",
+  "name": {
+    "german": "Fhr Geh Kdt FU OS 30",
+    "french": "Aide cdmt cdt EO aide cdmt 30",
+    "italian": "Aiuto cdo cdt SU aiuto cond 30",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo FU OS 30",
+    "street": "Kaserne",
+    "postalCode": "8180",
+    "location": "Bülach",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004496",
+      "label": {
+        "german": "LVBFU",
+        "french": "LVBFU",
+        "italian": "LVBFU",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Führungsunterstützung",
+        "french": "Formation d'application aide cdmt",
+        "italian": "FOA dell'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004361",
+      "label": {
+        "german": "Führungsunterstützung OS 30",
+        "french": "EO aide au commandement 30",
+        "italian": "SU dell'aiuto alla condotta 30",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützung OS 30",
+        "french": "EO aide au commandement 30",
+        "italian": "SU dell'aiuto alla condotta 30",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035663",
+      "label": {
+        "german": "Fhr Geh Kdt FU OS 30",
+        "french": "Aide cdmt cdt EO aide cdmt 30",
+        "italian": "Aiuto cdo cdt SU aiuto cond 30",
+        "english": ""
+      },
+      "name": {
+        "german": "Fhr Geh Kdt FU OS 30",
+        "french": "Aide cdmt cdt EO aide cdmt 30",
+        "italian": "Aiuto cdo cdt SU aiuto cond 30",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,247 @@
-{"id"=>"20043051", "name"=>{"german"=>"Lehre und Sportpädagogik", "french"=>"Enseignement et pédagogie du sport", "italian"=>"Insegnamento e pedagogia dello sport", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20018979", "name"=>{"german"=>"Sportpädagogik", "french"=>"Pédagogie du sport", "italian"=>"Pedagogia dello sport", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043056", "name"=>{"german"=>"Integration und Prävention", "french"=>"Intégration et prévention", "italian"=>"Integrazione e prevenzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043055", "name"=>{"german"=>"Weiterbildung", "french"=>"Formation continue", "italian"=>"Formazione continua", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013776", "name"=>{"german"=>"Sportstudienorganisation", "french"=>"Organisation des études de sport", "italian"=>"Organizzazione degli studi di sport", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043053", "name"=>{"german"=>"Monitoring", "french"=>"Monitoring", "italian"=>"Monitoraggio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043054", "name"=>{"german"=>"Evaluation", "french"=>"Evaluation", "italian"=>"Valutazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9549468", "surname"=>"Wyss", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 76416", "function"=>{"german"=>"Prorektor/in / Leiter/in Lehre und Sportpädagogik", "french"=>"Prorecteur/Responsable enseignement et pédagogie du sport", "italian"=>"Prorettore/Responsabile insegnamento e pedagogia dello sport", "english"=>"Prorektor/in / Leiter/in Lehre/Sportpäd"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2336435", "surname"=>"Gogoll", "givenName"=>"André", "email"=>nil, "phone"=>"+41 58 46 76556", "function"=>{"german"=>"Stv. Leiter/in Lehre und Sportpädagogik", "french"=>"Rempl. Resp. enseign./pédagogie du sport", "italian"=>"Supp. Resp. inseg./pegadogia dello sport", "english"=>"Stv. Leiter/in Lehre und Sportpädagogik"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003803", "label"=>{"german"=>"EHSM", "french"=>"EHSM", "italian"=>"EHSM", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Sport Magglingen", "french"=>"Haute école fédérale de sport de Macolin", "italian"=>"Scuola universitaria federale dello sport di Macolin", "english"=>""}}, {"id"=>"20043051", "label"=>{"german"=>"Lehre und Sportpädagogik", "french"=>"Enseignement et pédagogie du sport", "italian"=>"Insegnamento e pedagogia dello sport", "english"=>""}, "name"=>{"german"=>"Lehre und Sportpädagogik", "french"=>"Enseignement et pédagogie du sport", "italian"=>"Insegnamento e pedagogia dello sport", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20043051",
+  "name": {
+    "german": "Lehre und Sportpädagogik",
+    "french": "Enseignement et pédagogie du sport",
+    "italian": "Insegnamento e pedagogia dello sport",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20018979",
+      "name": {
+        "german": "Sportpädagogik",
+        "french": "Pédagogie du sport",
+        "italian": "Pedagogia dello sport",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043056",
+      "name": {
+        "german": "Integration und Prävention",
+        "french": "Intégration et prévention",
+        "italian": "Integrazione e prevenzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043055",
+      "name": {
+        "german": "Weiterbildung",
+        "french": "Formation continue",
+        "italian": "Formazione continua",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013776",
+      "name": {
+        "german": "Sportstudienorganisation",
+        "french": "Organisation des études de sport",
+        "italian": "Organizzazione degli studi di sport",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043053",
+      "name": {
+        "german": "Monitoring",
+        "french": "Monitoring",
+        "italian": "Monitoraggio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043054",
+      "name": {
+        "german": "Evaluation",
+        "french": "Evaluation",
+        "italian": "Valutazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9549468",
+      "surname": "Wyss",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 76416",
+      "function": {
+        "german": "Prorektor/in / Leiter/in Lehre und Sportpädagogik",
+        "french": "Prorecteur/Responsable enseignement et pédagogie du sport",
+        "italian": "Prorettore/Responsabile insegnamento e pedagogia dello sport",
+        "english": "Prorektor/in / Leiter/in Lehre/Sportpäd"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2336435",
+      "surname": "Gogoll",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 58 46 76556",
+      "function": {
+        "german": "Stv. Leiter/in Lehre und Sportpädagogik",
+        "french": "Rempl. Resp. enseign./pédagogie du sport",
+        "italian": "Supp. Resp. inseg./pegadogia dello sport",
+        "english": "Stv. Leiter/in Lehre und Sportpädagogik"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003803",
+      "label": {
+        "german": "EHSM",
+        "french": "EHSM",
+        "italian": "EHSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Sport Magglingen",
+        "french": "Haute école fédérale de sport de Macolin",
+        "italian": "Scuola universitaria federale dello sport di Macolin",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043051",
+      "label": {
+        "german": "Lehre und Sportpädagogik",
+        "french": "Enseignement et pédagogie du sport",
+        "italian": "Insegnamento e pedagogia dello sport",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehre und Sportpädagogik",
+        "french": "Enseignement et pédagogie du sport",
+        "italian": "Insegnamento e pedagogia dello sport",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

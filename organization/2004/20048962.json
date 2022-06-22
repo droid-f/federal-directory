@@ -1,1 +1,155 @@
-{"id"=>"20048962", "name"=>{"german"=>"Sektion Temporäre Mitarbeitende Covid-19", "french"=>"Séction des collaborateurs et collaboratrices temporaires Covid-19", "italian"=>"Sezione impiegati temporanei Covid-19", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004560", "label"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}}, {"id"=>"10004565", "label"=>{"german"=>"Abteilung Übertragbare Krankheiten", "french"=>"Division Maladies transmissibles", "italian"=>"Divisione malattie trasmissibili", "english"=>""}, "name"=>{"german"=>"Abteilung Übertragbare Krankheiten", "french"=>"Division Maladies transmissibles", "italian"=>"Divisione malattie trasmissibili", "english"=>""}}, {"id"=>"20048962", "label"=>{"german"=>"Sektion Temporäre Mitarbeitende Covid-19", "french"=>"Séction des collaborateurs et collaboratrices temporaires Covid-19", "italian"=>"Sezione impiegati temporanei Covid-19", "english"=>""}, "name"=>{"german"=>"Sektion Temporäre Mitarbeitende Covid-19", "french"=>"Séction des collaborateurs et collaboratrices temporaires Covid-19", "italian"=>"Sezione impiegati temporanei Covid-19", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048962",
+  "name": {
+    "german": "Sektion Temporäre Mitarbeitende Covid-19",
+    "french": "Séction des collaborateurs et collaboratrices temporaires Covid-19",
+    "italian": "Sezione impiegati temporanei Covid-19",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004560",
+      "label": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004565",
+      "label": {
+        "german": "Abteilung Übertragbare Krankheiten",
+        "french": "Division Maladies transmissibles",
+        "italian": "Divisione malattie trasmissibili",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Übertragbare Krankheiten",
+        "french": "Division Maladies transmissibles",
+        "italian": "Divisione malattie trasmissibili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048962",
+      "label": {
+        "german": "Sektion Temporäre Mitarbeitende Covid-19",
+        "french": "Séction des collaborateurs et collaboratrices temporaires Covid-19",
+        "italian": "Sezione impiegati temporanei Covid-19",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Temporäre Mitarbeitende Covid-19",
+        "french": "Séction des collaborateurs et collaboratrices temporaires Covid-19",
+        "italian": "Sezione impiegati temporanei Covid-19",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,221 @@
-{"id"=>"12010100@12.01", "name"=>{"german"=>"Stab NDB", "french"=>"Stab NDB", "italian"=>"Stab NDB", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-3516421", "surname"=>"Amacker", "givenName"=>"Franz-Josef", "email"=>nil, "phone"=>"+41 58 46 50517", "function"=>{"german"=>"Chef Internationale Beziehungen", "french"=>"Chef Internationale Beziehungen", "italian"=>"Chef Internationale Beziehungen", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-6808511", "surname"=>"Graber", "givenName"=>"Isabelle", "email"=>nil, "phone"=>"+41 58 46 27698", "function"=>{"german"=>"Chefin Kommunikation", "french"=>"Chefin Kommunikation", "italian"=>"Chefin Kommunikation", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-2895704", "surname"=>"Huguenin", "givenName"=>"Pierre-Yves", "email"=>nil, "phone"=>"+41 58 46 40089", "function"=>{"german"=>"Stv C Stab / Chef politische Geschäfte", "french"=>"Stv C Stab / Chef politische Geschäfte", "italian"=>"Stv C Stab / Chef politische Geschäfte", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-5659995", "surname"=>"Maurer", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 43254", "function"=>{"german"=>"Chef QM / Controlling", "french"=>"Chef QM / Controlling", "italian"=>"Chef QM / Controlling", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-6654204", "surname"=>"Rappo", "givenName"=>"Lea", "email"=>nil, "phone"=>"+41 58 46 22356", "function"=>{"german"=>"Stv Chefin Kommunikation", "french"=>"Stv Chefin Kommunikation", "italian"=>"Stv Chefin Kommunikation", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-9642163", "surname"=>"Reymond", "givenName"=>"Dominique", "email"=>nil, "phone"=>"+41 58 46 58748", "function"=>{"german"=>"Chef Stab", "french"=>"Chef Stab", "italian"=>"Chef Stab", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-0307656", "surname"=>"Rubattel Vonlanthen", "givenName"=>"Sylvie", "email"=>nil, "phone"=>"+41 58 46 44715", "function"=>{"german"=>"Stv Chef Internationale Beziehungen", "french"=>"Stv Chef Internationale Beziehungen", "italian"=>"Stv Chef Internationale Beziehungen", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-9530900", "surname"=>"Widmer", "givenName"=>"Franziska", "email"=>nil, "phone"=>"+41 58 46 24809", "function"=>{"german"=>"Stv Chef QM / Controlling", "french"=>"Stv Chef QM / Controlling", "italian"=>"Stv Chef QM / Controlling", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20027226", "label"=>{"german"=>"NDB", "french"=>"SRC", "italian"=>"SIC", "english"=>""}, "name"=>{"german"=>"Nachrichtendienst des Bundes", "french"=>"Service de renseignement de la Confédération", "italian"=>"Servizio delle attività informative della Confederazione", "english"=>""}}, {"id"=>"12010100@12.01", "label"=>{"german"=>"Stab NDB", "french"=>"Stab NDB", "italian"=>"Stab NDB", "english"=>""}, "name"=>{"german"=>"Stab NDB", "french"=>"Stab NDB", "italian"=>"Stab NDB", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12010100@12.01",
+  "name": {
+    "german": "Stab NDB",
+    "french": "Stab NDB",
+    "italian": "Stab NDB",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-3516421",
+      "surname": "Amacker",
+      "givenName": "Franz-Josef",
+      "email": null,
+      "phone": "+41 58 46 50517",
+      "function": {
+        "german": "Chef Internationale Beziehungen",
+        "french": "Chef Internationale Beziehungen",
+        "italian": "Chef Internationale Beziehungen",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6808511",
+      "surname": "Graber",
+      "givenName": "Isabelle",
+      "email": null,
+      "phone": "+41 58 46 27698",
+      "function": {
+        "german": "Chefin Kommunikation",
+        "french": "Chefin Kommunikation",
+        "italian": "Chefin Kommunikation",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2895704",
+      "surname": "Huguenin",
+      "givenName": "Pierre-Yves",
+      "email": null,
+      "phone": "+41 58 46 40089",
+      "function": {
+        "german": "Stv C Stab / Chef politische Geschäfte",
+        "french": "Stv C Stab / Chef politische Geschäfte",
+        "italian": "Stv C Stab / Chef politische Geschäfte",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5659995",
+      "surname": "Maurer",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 43254",
+      "function": {
+        "german": "Chef QM / Controlling",
+        "french": "Chef QM / Controlling",
+        "italian": "Chef QM / Controlling",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6654204",
+      "surname": "Rappo",
+      "givenName": "Lea",
+      "email": null,
+      "phone": "+41 58 46 22356",
+      "function": {
+        "german": "Stv Chefin Kommunikation",
+        "french": "Stv Chefin Kommunikation",
+        "italian": "Stv Chefin Kommunikation",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9642163",
+      "surname": "Reymond",
+      "givenName": "Dominique",
+      "email": null,
+      "phone": "+41 58 46 58748",
+      "function": {
+        "german": "Chef Stab",
+        "french": "Chef Stab",
+        "italian": "Chef Stab",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0307656",
+      "surname": "Rubattel Vonlanthen",
+      "givenName": "Sylvie",
+      "email": null,
+      "phone": "+41 58 46 44715",
+      "function": {
+        "german": "Stv Chef Internationale Beziehungen",
+        "french": "Stv Chef Internationale Beziehungen",
+        "italian": "Stv Chef Internationale Beziehungen",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9530900",
+      "surname": "Widmer",
+      "givenName": "Franziska",
+      "email": null,
+      "phone": "+41 58 46 24809",
+      "function": {
+        "german": "Stv Chef QM / Controlling",
+        "french": "Stv Chef QM / Controlling",
+        "italian": "Stv Chef QM / Controlling",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027226",
+      "label": {
+        "german": "NDB",
+        "french": "SRC",
+        "italian": "SIC",
+        "english": ""
+      },
+      "name": {
+        "german": "Nachrichtendienst des Bundes",
+        "french": "Service de renseignement de la Confédération",
+        "italian": "Servizio delle attività informative della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "12010100@12.01",
+      "label": {
+        "german": "Stab NDB",
+        "french": "Stab NDB",
+        "italian": "Stab NDB",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab NDB",
+        "french": "Stab NDB",
+        "italian": "Stab NDB",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

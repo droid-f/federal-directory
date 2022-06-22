@@ -1,1 +1,217 @@
-{"id"=>"10003979", "name"=>{"german"=>"Medien", "french"=>"Médias", "italian"=>"Media", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10003980", "name"=>{"german"=>"Medienrecht", "french"=>"Droit des médias", "italian"=>"Diritto dei media", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003981", "name"=>{"german"=>"Finanzen Medien", "french"=>"Finances et statistiques", "italian"=>"Finanze e statistica", "english"=>""}, "nameAbbr"=>{"german"=>"M-FM", "french"=>"M-FM", "italian"=>"M-FM", "english"=>""}}, {"id"=>"10003982", "name"=>{"german"=>"Grundlagen Medien", "french"=>"Services médias", "italian"=>"Servizi media", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003992", "name"=>{"german"=>"Radio- und Fernsehabgabe", "french"=>"Redevances de radio et télévision", "italian"=>"Canoni radiotelevisivi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2235940", "surname"=>"Marxer", "givenName"=>"Susanne", "email"=>nil, "phone"=>"+41 58 46 05948", "function"=>{"german"=>"Vizedirektorin/Leiterin M", "french"=>"Vizedirektorin/Leiterin M", "italian"=>"Vizedirektorin/Leiterin M", "english"=>"Vizedirektorin/Leiterin M"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7314885", "surname"=>"Regnotto", "givenName"=>"Marcel", "email"=>nil, "phone"=>"+41 58 46 05535", "function"=>{"german"=>"Leiter Grundlagen Medien/Stv. AC M", "french"=>"Leiter Grundlagen Medien/Stv. AC M", "italian"=>"Leiter Grundlagen Medien/Stv. AC M", "english"=>"Leiter Grundlagen Medien/Stv. AC M"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003979", "label"=>{"german"=>"Medien", "french"=>"Médias", "italian"=>"Media", "english"=>""}, "name"=>{"german"=>"Medien", "french"=>"Médias", "italian"=>"Media", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003979",
+  "name": {
+    "german": "Medien",
+    "french": "Médias",
+    "italian": "Media",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10003980",
+      "name": {
+        "german": "Medienrecht",
+        "french": "Droit des médias",
+        "italian": "Diritto dei media",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003981",
+      "name": {
+        "german": "Finanzen Medien",
+        "french": "Finances et statistiques",
+        "italian": "Finanze e statistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "M-FM",
+        "french": "M-FM",
+        "italian": "M-FM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003982",
+      "name": {
+        "german": "Grundlagen Medien",
+        "french": "Services médias",
+        "italian": "Servizi media",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003992",
+      "name": {
+        "german": "Radio- und Fernsehabgabe",
+        "french": "Redevances de radio et télévision",
+        "italian": "Canoni radiotelevisivi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2235940",
+      "surname": "Marxer",
+      "givenName": "Susanne",
+      "email": null,
+      "phone": "+41 58 46 05948",
+      "function": {
+        "german": "Vizedirektorin/Leiterin M",
+        "french": "Vizedirektorin/Leiterin M",
+        "italian": "Vizedirektorin/Leiterin M",
+        "english": "Vizedirektorin/Leiterin M"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7314885",
+      "surname": "Regnotto",
+      "givenName": "Marcel",
+      "email": null,
+      "phone": "+41 58 46 05535",
+      "function": {
+        "german": "Leiter Grundlagen Medien/Stv. AC M",
+        "french": "Leiter Grundlagen Medien/Stv. AC M",
+        "italian": "Leiter Grundlagen Medien/Stv. AC M",
+        "english": "Leiter Grundlagen Medien/Stv. AC M"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003979",
+      "label": {
+        "german": "Medien",
+        "french": "Médias",
+        "italian": "Media",
+        "english": ""
+      },
+      "name": {
+        "german": "Medien",
+        "french": "Médias",
+        "italian": "Media",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

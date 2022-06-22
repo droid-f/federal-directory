@@ -1,1 +1,183 @@
-{"id"=>"10002252", "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Inselgasse 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5113944", "surname"=>"Degen", "givenName"=>"Martina", "email"=>nil, "phone"=>"+41 58 46 24316", "function"=>{"german"=>"Leiter/in Recht EDI", "french"=>"Responsable service juridique DFI", "italian"=>"Responsabile servizio giuridico DFI", "english"=>"Leiter/in Recht EDI"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1XYXZSCV6", "surname"=>"Cangemi", "givenName"=>"Carine", "email"=>nil, "phone"=>"+41 58 46 20013", "function"=>{"german"=>"Jurist/in", "french"=>"Juriste", "italian"=>"Giurista", "english"=>"Jurist/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9913395", "surname"=>"Wiedmer-Siegenthaler", "givenName"=>"Anne", "email"=>nil, "phone"=>"+41 58 46 55711", "function"=>{"german"=>"Jurist/in", "french"=>"Juriste", "italian"=>"Giurista", "english"=>"Jurist/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"10002255", "label"=>{"german"=>"Ressourcensteuerung", "french"=>"Pilotage des ressources", "italian"=>"Ressourcensteuerung", "english"=>""}, "name"=>{"german"=>"Ressourcensteuerung", "french"=>"Pilotage des ressources", "italian"=>"Ressourcensteuerung", "english"=>""}}, {"id"=>"10002252", "label"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002252",
+  "name": {
+    "german": "Rechtsdienst",
+    "french": "Service juridique",
+    "italian": "Servizio giuridico",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Inselgasse 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5113944",
+      "surname": "Degen",
+      "givenName": "Martina",
+      "email": null,
+      "phone": "+41 58 46 24316",
+      "function": {
+        "german": "Leiter/in Recht EDI",
+        "french": "Responsable service juridique DFI",
+        "italian": "Responsabile servizio giuridico DFI",
+        "english": "Leiter/in Recht EDI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1XYXZSCV6",
+      "surname": "Cangemi",
+      "givenName": "Carine",
+      "email": null,
+      "phone": "+41 58 46 20013",
+      "function": {
+        "german": "Jurist/in",
+        "french": "Juriste",
+        "italian": "Giurista",
+        "english": "Jurist/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9913395",
+      "surname": "Wiedmer-Siegenthaler",
+      "givenName": "Anne",
+      "email": null,
+      "phone": "+41 58 46 55711",
+      "function": {
+        "german": "Jurist/in",
+        "french": "Juriste",
+        "italian": "Giurista",
+        "english": "Jurist/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002255",
+      "label": {
+        "german": "Ressourcensteuerung",
+        "french": "Pilotage des ressources",
+        "italian": "Ressourcensteuerung",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcensteuerung",
+        "french": "Pilotage des ressources",
+        "italian": "Ressourcensteuerung",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002252",
+      "label": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      },
+      "name": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

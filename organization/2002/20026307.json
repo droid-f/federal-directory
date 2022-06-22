@@ -1,1 +1,232 @@
-{"id"=>"20026307", "name"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584659308", "fax"=>"+41584659200", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20026313", "name"=>{"german"=>"Finanzen, Amtsplanung, Controlling, Statistik", "french"=>"Finances, planification de l'office, controlling et statistique", "italian"=>"Finanze, pianificazione dell'ufficio, controlling, statistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026315", "name"=>{"german"=>"Informatik und Projekte", "french"=>"Informatique et projets", "italian"=>"Informatica e processi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026316", "name"=>{"german"=>"Dokumentenmanagement", "french"=>"Gestion des documents", "italian"=>"Gestione dei documenti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026314", "name"=>{"german"=>"Sicherheit und Immobilien", "french"=>"Securité et immobilier", "italian"=>"Sicurezza e immobili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034930", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9398504", "surname"=>"Stettler", "givenName"=>"Mathias", "email"=>nil, "phone"=>"+41 58 46 59289", "function"=>{"german"=>"Chef/in / Vizedirektor/in", "french"=>"Chef/in / Vizedirektor/in", "italian"=>"Chef/in / Vizedirektor/in", "english"=>"Chef/in / Vizedirektor/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5641776", "surname"=>"Stoppia-Staub", "givenName"=>"Meret", "email"=>nil, "phone"=>"+41 58 46 54112", "function"=>{"german"=>"Chefin Sektion HR / Stv. Chefin Direktionsbereich Planung und Ressourcen", "french"=>"Cheffe de section RH / Cheffe suppléante Domaine de direction Planification et ressources", "italian"=>"Capo Sezione RH / Capo supplente Ambito direzionale Pianificazione e risorse", "english"=>"Chefin Sektion / Stv. Chefin DB PR"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026307", "label"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}, "name"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026307",
+  "name": {
+    "german": "Planung und Ressourcen",
+    "french": "Planification et ressources",
+    "italian": "Pianificazione e risorse",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584659308",
+    "fax": "+41584659200",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20026313",
+      "name": {
+        "german": "Finanzen, Amtsplanung, Controlling, Statistik",
+        "french": "Finances, planification de l'office, controlling et statistique",
+        "italian": "Finanze, pianificazione dell'ufficio, controlling, statistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026315",
+      "name": {
+        "german": "Informatik und Projekte",
+        "french": "Informatique et projets",
+        "italian": "Informatica e processi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026316",
+      "name": {
+        "german": "Dokumentenmanagement",
+        "french": "Gestion des documents",
+        "italian": "Gestione dei documenti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026314",
+      "name": {
+        "german": "Sicherheit und Immobilien",
+        "french": "Securité et immobilier",
+        "italian": "Sicurezza e immobili",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034930",
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9398504",
+      "surname": "Stettler",
+      "givenName": "Mathias",
+      "email": null,
+      "phone": "+41 58 46 59289",
+      "function": {
+        "german": "Chef/in / Vizedirektor/in",
+        "french": "Chef/in / Vizedirektor/in",
+        "italian": "Chef/in / Vizedirektor/in",
+        "english": "Chef/in / Vizedirektor/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5641776",
+      "surname": "Stoppia-Staub",
+      "givenName": "Meret",
+      "email": null,
+      "phone": "+41 58 46 54112",
+      "function": {
+        "german": "Chefin Sektion HR / Stv. Chefin Direktionsbereich Planung und Ressourcen",
+        "french": "Cheffe de section RH / Cheffe suppléante Domaine de direction Planification et ressources",
+        "italian": "Capo Sezione RH / Capo supplente Ambito direzionale Pianificazione e risorse",
+        "english": "Chefin Sektion / Stv. Chefin DB PR"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026307",
+      "label": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

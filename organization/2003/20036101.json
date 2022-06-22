@@ -1,1 +1,186 @@
-{"id"=>"20036101", "name"=>{"german"=>"swissREPAT Genf-Cointrin", "french"=>"swissREPAT Genève-Cointrin", "italian"=>"swissREPAT Geneva-Cointrin", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bâtiment Aerogare", "postalCode"=>"1215", "location"=>"Genève 15", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8832161", "surname"=>"Gut", "givenName"=>"Bernardo", "email"=>nil, "phone"=>"+41 58 46 63073", "function"=>{"german"=>"Fachreferent/in GVA", "french"=>"Fachreferent/in GVA", "italian"=>"Fachreferent/in GVA", "english"=>"Fachreferent/in GVA"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026308", "label"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>""}, "name"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>""}}, {"id"=>"20034957", "label"=>{"german"=>"Rückkehr", "french"=>"Retour", "italian"=>"Ritorno", "english"=>""}, "name"=>{"german"=>"Rückkehr", "french"=>"Retour", "italian"=>"Ritorno", "english"=>""}}, {"id"=>"20026400", "label"=>{"german"=>"swissREPAT", "french"=>"swissREPAT", "italian"=>"swissREPAT", "english"=>""}, "name"=>{"german"=>"swissREPAT", "french"=>"swissREPAT", "italian"=>"swissREPAT", "english"=>""}}, {"id"=>"20036101", "label"=>{"german"=>"swissREPAT Genf-Cointrin", "french"=>"swissREPAT Genève-Cointrin", "italian"=>"swissREPAT Geneva-Cointrin", "english"=>""}, "name"=>{"german"=>"swissREPAT Genf-Cointrin", "french"=>"swissREPAT Genève-Cointrin", "italian"=>"swissREPAT Geneva-Cointrin", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20036101",
+  "name": {
+    "german": "swissREPAT Genf-Cointrin",
+    "french": "swissREPAT Genève-Cointrin",
+    "italian": "swissREPAT Geneva-Cointrin",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bâtiment Aerogare",
+    "postalCode": "1215",
+    "location": "Genève 15",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8832161",
+      "surname": "Gut",
+      "givenName": "Bernardo",
+      "email": null,
+      "phone": "+41 58 46 63073",
+      "function": {
+        "german": "Fachreferent/in GVA",
+        "french": "Fachreferent/in GVA",
+        "italian": "Fachreferent/in GVA",
+        "english": "Fachreferent/in GVA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026308",
+      "label": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034957",
+      "label": {
+        "german": "Rückkehr",
+        "french": "Retour",
+        "italian": "Ritorno",
+        "english": ""
+      },
+      "name": {
+        "german": "Rückkehr",
+        "french": "Retour",
+        "italian": "Ritorno",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026400",
+      "label": {
+        "german": "swissREPAT",
+        "french": "swissREPAT",
+        "italian": "swissREPAT",
+        "english": ""
+      },
+      "name": {
+        "german": "swissREPAT",
+        "french": "swissREPAT",
+        "italian": "swissREPAT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036101",
+      "label": {
+        "german": "swissREPAT Genf-Cointrin",
+        "french": "swissREPAT Genève-Cointrin",
+        "italian": "swissREPAT Geneva-Cointrin",
+        "english": ""
+      },
+      "name": {
+        "german": "swissREPAT Genf-Cointrin",
+        "french": "swissREPAT Genève-Cointrin",
+        "italian": "swissREPAT Geneva-Cointrin",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

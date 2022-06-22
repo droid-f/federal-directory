@@ -1,1 +1,202 @@
-{"id"=>"10000613", "name"=>{"german"=>"Eurasien", "french"=>"Eurasie", "italian"=>"Eurasia", "english"=>"Eurasia"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049128", "name"=>{"german"=>"Sonderaufgaben", "french"=>"Tâches spéciales", "italian"=>"Compiti speciali", "english"=>"Special Assignments"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017277", "name"=>{"german"=>"Europarat und OSZE", "french"=>"Conseil de l'Europe et OSCE", "italian"=>"Consiglio d'Europa e OSCE", "english"=>"Council of Europe and OSCE"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017278", "name"=>{"german"=>"Regionalkoordination Südosteuropa", "french"=>"Coordination régionale Europe du Sud-Est", "italian"=>"Coordinamento regionale Europa del Sud-Est", "english"=>"Regional Coordination South-Eastern Europe"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000623", "name"=>{"german"=>"Regionalkoordination Osteuropa und Zentralasien", "french"=>"Coordination régionale Europe de l'Est et Asie centrale", "italian"=>"Coordinazione regionale Europa dell'Est e Asia centrale", "english"=>"Regional Coordination Eastern Europe, Central Asia"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0025623", "surname"=>"Ifkovits Horner", "givenName"=>"Anna", "email"=>nil, "phone"=>"+41 58 48 00534", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5807192", "surname"=>"Zambelli", "givenName"=>"Mirko", "email"=>nil, "phone"=>"+41 58 46 54531", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000613", "label"=>{"german"=>"Eurasien", "french"=>"Eurasie", "italian"=>"Eurasia", "english"=>"Eurasia"}, "name"=>{"german"=>"Eurasien", "french"=>"Eurasie", "italian"=>"Eurasia", "english"=>"Eurasia"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000613",
+  "name": {
+    "german": "Eurasien",
+    "french": "Eurasie",
+    "italian": "Eurasia",
+    "english": "Eurasia"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049128",
+      "name": {
+        "german": "Sonderaufgaben",
+        "french": "Tâches spéciales",
+        "italian": "Compiti speciali",
+        "english": "Special Assignments"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017277",
+      "name": {
+        "german": "Europarat und OSZE",
+        "french": "Conseil de l'Europe et OSCE",
+        "italian": "Consiglio d'Europa e OSCE",
+        "english": "Council of Europe and OSCE"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017278",
+      "name": {
+        "german": "Regionalkoordination Südosteuropa",
+        "french": "Coordination régionale Europe du Sud-Est",
+        "italian": "Coordinamento regionale Europa del Sud-Est",
+        "english": "Regional Coordination South-Eastern Europe"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000623",
+      "name": {
+        "german": "Regionalkoordination Osteuropa und Zentralasien",
+        "french": "Coordination régionale Europe de l'Est et Asie centrale",
+        "italian": "Coordinazione regionale Europa dell'Est e Asia centrale",
+        "english": "Regional Coordination Eastern Europe, Central Asia"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0025623",
+      "surname": "Ifkovits Horner",
+      "givenName": "Anna",
+      "email": null,
+      "phone": "+41 58 48 00534",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5807192",
+      "surname": "Zambelli",
+      "givenName": "Mirko",
+      "email": null,
+      "phone": "+41 58 46 54531",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000613",
+      "label": {
+        "german": "Eurasien",
+        "french": "Eurasie",
+        "italian": "Eurasia",
+        "english": "Eurasia"
+      },
+      "name": {
+        "german": "Eurasien",
+        "french": "Eurasie",
+        "italian": "Eurasia",
+        "english": "Eurasia"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

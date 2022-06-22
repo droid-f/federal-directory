@@ -1,1 +1,141 @@
-{"id"=>"20044977", "name"=>{"german"=>"Informations- und Alarmierungssysteme", "french"=>"Systèmes d'information et d'alarme", "italian"=>"Sistemi d'informazione e d'allarme", "english"=>""}, "nameAbbr"=>{"german"=>"TM/IAS", "french"=>"TM/IAS", "italian"=>"TM/IAS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1B", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2697602", "surname"=>"Fellmann", "givenName"=>"Alain", "email"=>nil, "phone"=>"+41 58 46 57174", "function"=>{"german"=>"Chef FB IAS und Stv C GB Telematik a.i.", "french"=>"Chef FB IAS und Stv Chef GB Telematik", "italian"=>"Chef FB IAS und Stv Chef GB Telematik", "english"=>"Chef FB IAS und Stv C GB Telematik a.i."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"10002973", "label"=>{"german"=>"TM", "french"=>"TM", "italian"=>"TM", "english"=>""}, "name"=>{"german"=>"Telematik", "french"=>"Télématique", "italian"=>"Telematica", "english"=>""}}, {"id"=>"20044977", "label"=>{"german"=>"TM/IAS", "french"=>"TM/IAS", "italian"=>"TM/IAS", "english"=>""}, "name"=>{"german"=>"Informations- und Alarmierungssysteme", "french"=>"Systèmes d'information et d'alarme", "italian"=>"Sistemi d'informazione e d'allarme", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20044977",
+  "name": {
+    "german": "Informations- und Alarmierungssysteme",
+    "french": "Systèmes d'information et d'alarme",
+    "italian": "Sistemi d'informazione e d'allarme",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "TM/IAS",
+    "french": "TM/IAS",
+    "italian": "TM/IAS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1B",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2697602",
+      "surname": "Fellmann",
+      "givenName": "Alain",
+      "email": null,
+      "phone": "+41 58 46 57174",
+      "function": {
+        "german": "Chef FB IAS und Stv C GB Telematik a.i.",
+        "french": "Chef FB IAS und Stv Chef GB Telematik",
+        "italian": "Chef FB IAS und Stv Chef GB Telematik",
+        "english": "Chef FB IAS und Stv C GB Telematik a.i."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002973",
+      "label": {
+        "german": "TM",
+        "french": "TM",
+        "italian": "TM",
+        "english": ""
+      },
+      "name": {
+        "german": "Telematik",
+        "french": "Télématique",
+        "italian": "Telematica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044977",
+      "label": {
+        "german": "TM/IAS",
+        "french": "TM/IAS",
+        "italian": "TM/IAS",
+        "english": ""
+      },
+      "name": {
+        "german": "Informations- und Alarmierungssysteme",
+        "french": "Systèmes d'information et d'alarme",
+        "italian": "Sistemi d'informazione e d'allarme",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

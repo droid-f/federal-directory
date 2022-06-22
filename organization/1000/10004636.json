@@ -1,1 +1,275 @@
-{"id"=>"10004636", "name"=>{"german"=>"Sektion Informatik", "french"=>"Section Informatique", "italian"=>"Sezione Informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009865", "name"=>{"german"=>"Portfolio IT-PF", "french"=>"Portfolio IT-PF", "italian"=>"Portfolio IT-PF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20010527", "name"=>{"german"=>"Architecture, Security IT-AS", "french"=>"Architecture, Security IT-AS", "italian"=>"Architecture, Security IT-AS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20010528", "name"=>{"german"=>"Corporate IT-CORP", "french"=>"Corporate IT-CORP", "italian"=>"Corporate IT-CORP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014701", "name"=>{"german"=>"Business Intelligence IT-BI", "french"=>"Business Intelligence IT-BI", "italian"=>"Business Intelligence IT-BI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034813", "name"=>{"german"=>"Build IT-BUILD", "french"=>"Build IT-BUILD", "italian"=>"Build IT-BUILD", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035851", "name"=>{"german"=>"Business", "french"=>"Business", "italian"=>"Business", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045786", "name"=>{"german"=>"Pool Extern Westschweiz", "french"=>"Pool Extern Westschweiz", "italian"=>"Pool Extern Westschweiz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045787", "name"=>{"german"=>"Pool Extern Mittelland", "french"=>"Pool Extern Mittelland", "italian"=>"Pool Extern Mittelland", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6073163", "surname"=>"Muratbegovic", "givenName"=>"Nedim", "email"=>nil, "phone"=>"+41 58 46 36136", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10013375", "label"=>{"german"=>"Abteilung Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Abteilung Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10004636", "label"=>{"german"=>"Sektion Informatik", "french"=>"Section Informatique", "italian"=>"Sezione Informatica", "english"=>""}, "name"=>{"german"=>"Sektion Informatik", "french"=>"Section Informatique", "italian"=>"Sezione Informatica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004636",
+  "name": {
+    "german": "Sektion Informatik",
+    "french": "Section Informatique",
+    "italian": "Sezione Informatica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009865",
+      "name": {
+        "german": "Portfolio IT-PF",
+        "french": "Portfolio IT-PF",
+        "italian": "Portfolio IT-PF",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010527",
+      "name": {
+        "german": "Architecture, Security IT-AS",
+        "french": "Architecture, Security IT-AS",
+        "italian": "Architecture, Security IT-AS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010528",
+      "name": {
+        "german": "Corporate IT-CORP",
+        "french": "Corporate IT-CORP",
+        "italian": "Corporate IT-CORP",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014701",
+      "name": {
+        "german": "Business Intelligence IT-BI",
+        "french": "Business Intelligence IT-BI",
+        "italian": "Business Intelligence IT-BI",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034813",
+      "name": {
+        "german": "Build IT-BUILD",
+        "french": "Build IT-BUILD",
+        "italian": "Build IT-BUILD",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035851",
+      "name": {
+        "german": "Business",
+        "french": "Business",
+        "italian": "Business",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045786",
+      "name": {
+        "german": "Pool Extern Westschweiz",
+        "french": "Pool Extern Westschweiz",
+        "italian": "Pool Extern Westschweiz",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045787",
+      "name": {
+        "german": "Pool Extern Mittelland",
+        "french": "Pool Extern Mittelland",
+        "italian": "Pool Extern Mittelland",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6073163",
+      "surname": "Muratbegovic",
+      "givenName": "Nedim",
+      "email": null,
+      "phone": "+41 58 46 36136",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013375",
+      "label": {
+        "german": "Abteilung Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004636",
+      "label": {
+        "german": "Sektion Informatik",
+        "french": "Section Informatique",
+        "italian": "Sezione Informatica",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Informatik",
+        "french": "Section Informatique",
+        "italian": "Sezione Informatica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

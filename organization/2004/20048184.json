@@ -1,1 +1,158 @@
-{"id"=>"20048184", "name"=>{"german"=>"Digitaler Arbeitsplatz", "french"=>"Poste de travail numérique", "italian"=>"Posto di lavoro digitalizzato", "english"=>""}, "nameAbbr"=>{"german"=>"DAP", "french"=>"PTN", "italian"=>"PLD", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 91", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4914510", "surname"=>"Lussi", "givenName"=>"Marc", "email"=>nil, "phone"=>"+41 58 46 48425", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4440520", "surname"=>"Gerber", "givenName"=>"Brigitte", "email"=>nil, "phone"=>"+41 58 46 58027", "function"=>{"german"=>"Programmleit. Grossprojekte, Stv. Leit.", "french"=>"Programmleit. Grossprojekte, Stv. Leit.", "italian"=>"Programmleit. Grossprojekte, Stv. Leit.", "english"=>"Programmleit. Grossprojekte, Stv. Leit."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"20048177", "label"=>{"german"=>"DTI", "french"=>"TNI", "italian"=>"TDT", "english"=>""}, "name"=>{"german"=>"Bereich Digitale Transformation und IKT-Lenkung", "french"=>"Secteur Transformation numérique et gouvernance de l’informatique", "italian"=>"Settore Trasformazione digitale e governance delle TIC", "english"=>""}}, {"id"=>"20048182", "label"=>{"german"=>"DS", "french"=>"SNS", "italian"=>"SDS", "english"=>""}, "name"=>{"german"=>"Digitale Standardleistungen", "french"=>"Services numériques standards", "italian"=>"Servizi digitali standard", "english"=>""}}, {"id"=>"20048184", "label"=>{"german"=>"DAP", "french"=>"PTN", "italian"=>"PLD", "english"=>""}, "name"=>{"german"=>"Digitaler Arbeitsplatz", "french"=>"Poste de travail numérique", "italian"=>"Posto di lavoro digitalizzato", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048184",
+  "name": {
+    "german": "Digitaler Arbeitsplatz",
+    "french": "Poste de travail numérique",
+    "italian": "Posto di lavoro digitalizzato",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "DAP",
+    "french": "PTN",
+    "italian": "PLD",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 91",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4914510",
+      "surname": "Lussi",
+      "givenName": "Marc",
+      "email": null,
+      "phone": "+41 58 46 48425",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4440520",
+      "surname": "Gerber",
+      "givenName": "Brigitte",
+      "email": null,
+      "phone": "+41 58 46 58027",
+      "function": {
+        "german": "Programmleit. Grossprojekte, Stv. Leit.",
+        "french": "Programmleit. Grossprojekte, Stv. Leit.",
+        "italian": "Programmleit. Grossprojekte, Stv. Leit.",
+        "english": "Programmleit. Grossprojekte, Stv. Leit."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048177",
+      "label": {
+        "german": "DTI",
+        "french": "TNI",
+        "italian": "TDT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Digitale Transformation und IKT-Lenkung",
+        "french": "Secteur Transformation numérique et gouvernance de l’informatique",
+        "italian": "Settore Trasformazione digitale e governance delle TIC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048182",
+      "label": {
+        "german": "DS",
+        "french": "SNS",
+        "italian": "SDS",
+        "english": ""
+      },
+      "name": {
+        "german": "Digitale Standardleistungen",
+        "french": "Services numériques standards",
+        "italian": "Servizi digitali standard",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048184",
+      "label": {
+        "german": "DAP",
+        "french": "PTN",
+        "italian": "PLD",
+        "english": ""
+      },
+      "name": {
+        "german": "Digitaler Arbeitsplatz",
+        "french": "Poste de travail numérique",
+        "italian": "Posto di lavoro digitalizzato",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

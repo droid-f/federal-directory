@@ -1,1 +1,141 @@
-{"id"=>"20032076", "name"=>{"german"=>"Seilbahntechnik", "french"=>"Technique des installations à câbles", "italian"=>"Tecnica impianti a fune", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestrasse 6", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7968591", "surname"=>"Imthurn", "givenName"=>"Niklaus", "email"=>nil, "phone"=>"+41 58 46 25774", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008753", "label"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}}, {"id"=>"20012766", "label"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>""}, "name"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>""}}, {"id"=>"20032076", "label"=>{"german"=>"Seilbahntechnik", "french"=>"Technique des installations à câbles", "italian"=>"Tecnica impianti a fune", "english"=>""}, "name"=>{"german"=>"Seilbahntechnik", "french"=>"Technique des installations à câbles", "italian"=>"Tecnica impianti a fune", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20032076",
+  "name": {
+    "german": "Seilbahntechnik",
+    "french": "Technique des installations à câbles",
+    "italian": "Tecnica impianti a fune",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestrasse 6",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7968591",
+      "surname": "Imthurn",
+      "givenName": "Niklaus",
+      "email": null,
+      "phone": "+41 58 46 25774",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "label": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012766",
+      "label": {
+        "german": "Sicherheit",
+        "french": "Sécurité",
+        "italian": "Sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Sicherheit",
+        "french": "Sécurité",
+        "italian": "Sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032076",
+      "label": {
+        "german": "Seilbahntechnik",
+        "french": "Technique des installations à câbles",
+        "italian": "Tecnica impianti a fune",
+        "english": ""
+      },
+      "name": {
+        "german": "Seilbahntechnik",
+        "french": "Technique des installations à câbles",
+        "italian": "Tecnica impianti a fune",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

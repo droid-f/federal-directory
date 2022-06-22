@@ -1,1 +1,211 @@
-{"id"=>"20028277", "name"=>{"german"=>"Bundesrats- und Parlamentsgeschäfte", "french"=>"Affaires du Conseil fédéral et du Parlament", "italian"=>"Affari del Consiglio federale e del Parlamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Inselgasse 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5199079", "surname"=>"Kuchler", "givenName"=>"Fabiana", "email"=>nil, "phone"=>"+41 58 46 25150", "function"=>{"german"=>"Leiter/in Bundesrats- und Parlamentsgeschäft, Stv. Leiter/in", "french"=>"Responsable Affaires du Conseil fédéral et du Parlament, suppl. resp. PIA", "italian"=>"Responsabile Affari del Consiglio federale e del Parlamento, suppl. resp. PIA", "english"=>"Leiter/in Bundesrats-,Parlamentsgeschäft"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7148374", "surname"=>"Balmer", "givenName"=>"Yvonne", "email"=>nil, "phone"=>"+41 58 46 78920", "function"=>{"german"=>"Sachbearbeiter/in Bundesrats und Parlamentsgeschäfte", "french"=>"Collaborateur/trice Affaires du Conseil fédéral et du Parlement", "italian"=>"Collaboratore/trice affari del Consiglio federale e del Parlamento", "english"=>"Sachbearbeiter/in BR und Parlament"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XRPYXTBH", "surname"=>"Besançon", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 48 18559", "function"=>{"german"=>"Sachbearbeiter/in BR und Parlament", "french"=>"Collaborateur/trice Affaires du Con. fed", "italian"=>"Collaboratore/trice affari del Con. fed", "english"=>"Sachbearbeiter/in BR und Parlament"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5504552", "surname"=>"Dietrich", "givenName"=>"Diana", "email"=>nil, "phone"=>"+41 58 46 33068", "function"=>{"german"=>"Sachbearbeiter/in Bundesrats und Parlamentsgeschäfte", "french"=>"Collaborateur/trice Affaires du Conseil fédéral et du Parlement", "italian"=>"Collaboratore/trice affari del Consiglio federale e del Parlamento", "english"=>"Sachbearbeiter/in BR und Parlament"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4842118", "surname"=>"Nannetti", "givenName"=>"Luciana", "email"=>nil, "phone"=>"+41 58 48 12980", "function"=>{"german"=>"Sachbearbeiter/in Geschäftsplanung, Innovation und Unternehmensarchitektur GIU", "french"=>"Collaborateur/trice spécialisé/e Planification des affaires, innovation et architecture d'entreprise", "italian"=>"Collaboratore/trice specializzato/a Pianificazione degli affari, innovazione e architettura aziendale", "english"=>"Sachbearbeiter/in GIU"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"10002248", "label"=>{"german"=>"Geschäftsplanung, Innovation und Unternehmensarchitektur", "french"=>"Planification des affaires, innovation et architecture d'entreprise", "italian"=>"Pianificazione degli affari, innovazione e architettura aziendale", "english"=>""}, "name"=>{"german"=>"Geschäftsplanung, Innovation und Unternehmensarchitektur", "french"=>"Planification des affaires, innovation et architecture d'entreprise", "italian"=>"Pianificazione degli affari, innovazione e architettura aziendale", "english"=>""}}, {"id"=>"20028277", "label"=>{"german"=>"Bundesrats- und Parlamentsgeschäfte", "french"=>"Affaires du Conseil fédéral et du Parlament", "italian"=>"Affari del Consiglio federale e del Parlamento", "english"=>""}, "name"=>{"german"=>"Bundesrats- und Parlamentsgeschäfte", "french"=>"Affaires du Conseil fédéral et du Parlament", "italian"=>"Affari del Consiglio federale e del Parlamento", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20028277",
+  "name": {
+    "german": "Bundesrats- und Parlamentsgeschäfte",
+    "french": "Affaires du Conseil fédéral et du Parlament",
+    "italian": "Affari del Consiglio federale e del Parlamento",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Inselgasse 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5199079",
+      "surname": "Kuchler",
+      "givenName": "Fabiana",
+      "email": null,
+      "phone": "+41 58 46 25150",
+      "function": {
+        "german": "Leiter/in Bundesrats- und Parlamentsgeschäft, Stv. Leiter/in",
+        "french": "Responsable Affaires du Conseil fédéral et du Parlament, suppl. resp. PIA",
+        "italian": "Responsabile Affari del Consiglio federale e del Parlamento, suppl. resp. PIA",
+        "english": "Leiter/in Bundesrats-,Parlamentsgeschäft"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7148374",
+      "surname": "Balmer",
+      "givenName": "Yvonne",
+      "email": null,
+      "phone": "+41 58 46 78920",
+      "function": {
+        "german": "Sachbearbeiter/in Bundesrats und Parlamentsgeschäfte",
+        "french": "Collaborateur/trice Affaires du Conseil fédéral et du Parlement",
+        "italian": "Collaboratore/trice affari del Consiglio federale e del Parlamento",
+        "english": "Sachbearbeiter/in BR und Parlament"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XRPYXTBH",
+      "surname": "Besançon",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 48 18559",
+      "function": {
+        "german": "Sachbearbeiter/in BR und Parlament",
+        "french": "Collaborateur/trice Affaires du Con. fed",
+        "italian": "Collaboratore/trice affari del Con. fed",
+        "english": "Sachbearbeiter/in BR und Parlament"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5504552",
+      "surname": "Dietrich",
+      "givenName": "Diana",
+      "email": null,
+      "phone": "+41 58 46 33068",
+      "function": {
+        "german": "Sachbearbeiter/in Bundesrats und Parlamentsgeschäfte",
+        "french": "Collaborateur/trice Affaires du Conseil fédéral et du Parlement",
+        "italian": "Collaboratore/trice affari del Consiglio federale e del Parlamento",
+        "english": "Sachbearbeiter/in BR und Parlament"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4842118",
+      "surname": "Nannetti",
+      "givenName": "Luciana",
+      "email": null,
+      "phone": "+41 58 48 12980",
+      "function": {
+        "german": "Sachbearbeiter/in Geschäftsplanung, Innovation und Unternehmensarchitektur GIU",
+        "french": "Collaborateur/trice spécialisé/e Planification des affaires, innovation et architecture d'entreprise",
+        "italian": "Collaboratore/trice specializzato/a Pianificazione degli affari, innovazione e architettura aziendale",
+        "english": "Sachbearbeiter/in GIU"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002248",
+      "label": {
+        "german": "Geschäftsplanung, Innovation und Unternehmensarchitektur",
+        "french": "Planification des affaires, innovation et architecture d'entreprise",
+        "italian": "Pianificazione degli affari, innovazione e architettura aziendale",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsplanung, Innovation und Unternehmensarchitektur",
+        "french": "Planification des affaires, innovation et architecture d'entreprise",
+        "italian": "Pianificazione degli affari, innovazione e architettura aziendale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028277",
+      "label": {
+        "german": "Bundesrats- und Parlamentsgeschäfte",
+        "french": "Affaires du Conseil fédéral et du Parlament",
+        "italian": "Affari del Consiglio federale e del Parlamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrats- und Parlamentsgeschäfte",
+        "french": "Affaires du Conseil fédéral et du Parlament",
+        "italian": "Affari del Consiglio federale e del Parlamento",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

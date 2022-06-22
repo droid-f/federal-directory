@@ -1,1 +1,156 @@
-{"id"=>"20004047", "name"=>{"german"=>"Waffen und Munition", "french"=>"Armes et munitions", "italian"=>"Armi e munizioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5537882", "surname"=>"Müller", "givenName"=>"Nicolas", "email"=>nil, "phone"=>"+41 58 48 38443", "function"=>{"german"=>"Leiter FB Waffen und Munition", "french"=>"Chef du domaine spécialisé armes et munitions", "italian"=>"Capo SS Armi e munizioni", "english"=>"Leiter FB Waffen und Munition"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004035", "label"=>{"german"=>"Landsysteme", "french"=>"Systèmes terrestres", "italian"=>"Sistemi terrestri", "english"=>""}, "name"=>{"german"=>"Landsysteme", "french"=>"Systèmes terrestres", "italian"=>"Sistemi terrestri", "english"=>""}}, {"id"=>"20004047", "label"=>{"german"=>"Waffen und Munition", "french"=>"Armes et munitions", "italian"=>"Armi e munizioni", "english"=>""}, "name"=>{"german"=>"Waffen und Munition", "french"=>"Armes et munitions", "italian"=>"Armi e munizioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20004047",
+  "name": {
+    "german": "Waffen und Munition",
+    "french": "Armes et munitions",
+    "italian": "Armi e munizioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5537882",
+      "surname": "Müller",
+      "givenName": "Nicolas",
+      "email": null,
+      "phone": "+41 58 48 38443",
+      "function": {
+        "german": "Leiter FB Waffen und Munition",
+        "french": "Chef du domaine spécialisé armes et munitions",
+        "italian": "Capo SS Armi e munizioni",
+        "english": "Leiter FB Waffen und Munition"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004035",
+      "label": {
+        "german": "Landsysteme",
+        "french": "Systèmes terrestres",
+        "italian": "Sistemi terrestri",
+        "english": ""
+      },
+      "name": {
+        "german": "Landsysteme",
+        "french": "Systèmes terrestres",
+        "italian": "Sistemi terrestri",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004047",
+      "label": {
+        "german": "Waffen und Munition",
+        "french": "Armes et munitions",
+        "italian": "Armi e munizioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Waffen und Munition",
+        "french": "Armes et munitions",
+        "italian": "Armi e munizioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

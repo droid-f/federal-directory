@@ -1,1 +1,230 @@
-{"id"=>"10008753", "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}, "nameAbbr"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestrasse 6", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584625711", "fax"=>"", "email"=>"info@bav.admin.ch", "homepage"=>{"german"=>"www.bav.admin.ch", "french"=>"https://www.bav.admin.ch/bav/fr/home.html", "italian"=>"https://www.bav.admin.ch/bav/it/home.html", "english"=>""}}, "children"=>[{"id"=>"20012759", "name"=>{"german"=>"Revision", "french"=>"Révision", "italian"=>"Revisione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012767", "name"=>{"german"=>"Politik", "french"=>"Politique", "italian"=>"Politica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012765", "name"=>{"german"=>"Finanzierung", "french"=>"Financement", "italian"=>"Finanziamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012766", "name"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012764", "name"=>{"german"=>"Infrastruktur", "french"=>"Infrastructure", "italian"=>"Infrastruttura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005020", "name"=>{"german"=>"Betriebswirtschaft und Organisation", "french"=>"Economie d'entreprise et organisation", "italian"=>"Economia aziendale e organizazzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0380970", "surname"=>"Füglistaler", "givenName"=>"Peter", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Direktor/in", "french"=>"Direktor/in", "italian"=>"Direktor/in", "english"=>"Direktor/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8131078", "surname"=>"Meyrat", "givenName"=>"Pierre André", "email"=>nil, "phone"=>"+41 58 46 25704", "function"=>{"german"=>"Stv. Direktor/Leiter Abt. Finanzierung", "french"=>"Stv. Direktor/Leiter Abt. Finanzierung", "italian"=>"Stv. Direktor/Leiter Abt. Finanzierung", "english"=>"Stv. Direktor/Leiter Abt. Finanzierung"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7570044", "surname"=>"von Arx", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 25756", "function"=>{"german"=>"Assistent/in des Direktors", "french"=>"Assistent/in des Direktors", "italian"=>"Assistent/in des Direktors", "english"=>"Assistent/in des Direktors"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008753", "label"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10008753",
+  "name": {
+    "german": "Bundesamt für Verkehr",
+    "french": "Office fédéral des transports",
+    "italian": "Ufficio federale dei trasporti",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BAV",
+    "french": "OFT",
+    "italian": "UFT",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestrasse 6",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584625711",
+    "fax": "",
+    "email": "info@bav.admin.ch",
+    "homepage": {
+      "german": "www.bav.admin.ch",
+      "french": "https://www.bav.admin.ch/bav/fr/home.html",
+      "italian": "https://www.bav.admin.ch/bav/it/home.html",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20012759",
+      "name": {
+        "german": "Revision",
+        "french": "Révision",
+        "italian": "Revisione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012767",
+      "name": {
+        "german": "Politik",
+        "french": "Politique",
+        "italian": "Politica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012765",
+      "name": {
+        "german": "Finanzierung",
+        "french": "Financement",
+        "italian": "Finanziamento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012766",
+      "name": {
+        "german": "Sicherheit",
+        "french": "Sécurité",
+        "italian": "Sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012764",
+      "name": {
+        "german": "Infrastruktur",
+        "french": "Infrastructure",
+        "italian": "Infrastruttura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005020",
+      "name": {
+        "german": "Betriebswirtschaft und Organisation",
+        "french": "Economie d'entreprise et organisation",
+        "italian": "Economia aziendale e organizazzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0380970",
+      "surname": "Füglistaler",
+      "givenName": "Peter",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Direktor/in",
+        "french": "Direktor/in",
+        "italian": "Direktor/in",
+        "english": "Direktor/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8131078",
+      "surname": "Meyrat",
+      "givenName": "Pierre André",
+      "email": null,
+      "phone": "+41 58 46 25704",
+      "function": {
+        "german": "Stv. Direktor/Leiter Abt. Finanzierung",
+        "french": "Stv. Direktor/Leiter Abt. Finanzierung",
+        "italian": "Stv. Direktor/Leiter Abt. Finanzierung",
+        "english": "Stv. Direktor/Leiter Abt. Finanzierung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7570044",
+      "surname": "von Arx",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 25756",
+      "function": {
+        "german": "Assistent/in des Direktors",
+        "french": "Assistent/in des Direktors",
+        "italian": "Assistent/in des Direktors",
+        "english": "Assistent/in des Direktors"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "label": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

@@ -1,1 +1,171 @@
-{"id"=>"20031276", "name"=>{"german"=>"Sachplan- und Plangenehmigungsverfahren", "french"=>"Procédures de plan sectoriel et d'approbation des plans", "italian"=>"Procedura di approvazione dei piani e dei piani settoriali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7198427", "surname"=>"Klaus", "givenName"=>"Olivier", "email"=>nil, "phone"=>"+41 58 46 25647", "function"=>{"german"=>"Leiter/in Sachplan- + Plangen.verf.", "french"=>"Leiter/in Sachplan- + Plangen.verf.", "italian"=>"Leiter/in Sachplan- + Plangen.verf.", "english"=>"Leiter/in Sachplan- + Plangen.verf."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002571", "label"=>{"german"=>"Abteilung Recht und Sachplanung", "french"=>"Division Droit et planification sectorielle", "italian"=>"Divisione Diritto e pianificazione settoriale", "english"=>""}, "name"=>{"german"=>"Abteilung Recht und Sachplanung", "french"=>"Division Droit et planification sectorielle", "italian"=>"Divisione Diritto e pianificazione settoriale", "english"=>""}}, {"id"=>"20018289", "label"=>{"german"=>"Elektrizitäts- und Wasserrecht", "french"=>"Droit de l‘électricité et des eaux", "italian"=>"Diritto in materia di elettricità e delle acque", "english"=>"Electricity and Water law"}, "name"=>{"german"=>"Elektrizitäts- und Wasserrecht", "french"=>"Droit de l‘électricité et des eaux", "italian"=>"Diritto in materia di elettricità e delle acque", "english"=>"Electricity and Water law"}}, {"id"=>"20031276", "label"=>{"german"=>"Sachplan- und Plangenehmigungsverfahren", "french"=>"Procédures de plan sectoriel et d'approbation des plans", "italian"=>"Procedura di approvazione dei piani e dei piani settoriali", "english"=>""}, "name"=>{"german"=>"Sachplan- und Plangenehmigungsverfahren", "french"=>"Procédures de plan sectoriel et d'approbation des plans", "italian"=>"Procedura di approvazione dei piani e dei piani settoriali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031276",
+  "name": {
+    "german": "Sachplan- und Plangenehmigungsverfahren",
+    "french": "Procédures de plan sectoriel et d'approbation des plans",
+    "italian": "Procedura di approvazione dei piani e dei piani settoriali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7198427",
+      "surname": "Klaus",
+      "givenName": "Olivier",
+      "email": null,
+      "phone": "+41 58 46 25647",
+      "function": {
+        "german": "Leiter/in Sachplan- + Plangen.verf.",
+        "french": "Leiter/in Sachplan- + Plangen.verf.",
+        "italian": "Leiter/in Sachplan- + Plangen.verf.",
+        "english": "Leiter/in Sachplan- + Plangen.verf."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002571",
+      "label": {
+        "german": "Abteilung Recht und Sachplanung",
+        "french": "Division Droit et planification sectorielle",
+        "italian": "Divisione Diritto e pianificazione settoriale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Recht und Sachplanung",
+        "french": "Division Droit et planification sectorielle",
+        "italian": "Divisione Diritto e pianificazione settoriale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018289",
+      "label": {
+        "german": "Elektrizitäts- und Wasserrecht",
+        "french": "Droit de l‘électricité et des eaux",
+        "italian": "Diritto in materia di elettricità e delle acque",
+        "english": "Electricity and Water law"
+      },
+      "name": {
+        "german": "Elektrizitäts- und Wasserrecht",
+        "french": "Droit de l‘électricité et des eaux",
+        "italian": "Diritto in materia di elettricità e delle acque",
+        "english": "Electricity and Water law"
+      }
+    },
+    {
+      "id": "20031276",
+      "label": {
+        "german": "Sachplan- und Plangenehmigungsverfahren",
+        "french": "Procédures de plan sectoriel et d'approbation des plans",
+        "italian": "Procedura di approvazione dei piani e dei piani settoriali",
+        "english": ""
+      },
+      "name": {
+        "german": "Sachplan- und Plangenehmigungsverfahren",
+        "french": "Procédures de plan sectoriel et d'approbation des plans",
+        "italian": "Procedura di approvazione dei piani e dei piani settoriali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

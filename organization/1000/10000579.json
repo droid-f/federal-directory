@@ -1,1 +1,172 @@
-{"id"=>"10000579", "name"=>{"german"=>"Dokumentationsdienst", "french"=>"Service de documentation", "italian"=>"Servizio di documentazione", "english"=>"Documentation service"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046783", "name"=>{"german"=>"Forschung und Dokumentation", "french"=>"Recherche et Documentation", "italian"=>"Ricerche e documentazione", "english"=>"Research and Documentation"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027901", "name"=>{"german"=>"Geschäftsverwaltung", "french"=>"Gestion des affaires", "italian"=>"Gestione degli affari", "english"=>"Records Management"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8991582", "surname"=>"Wildi-Ballabio", "givenName"=>"Elena", "email"=>nil, "phone"=>"+41 58 46 91721", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0322373", "surname"=>"Schmid", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 48 12972", "function"=>{"german"=>"Wissenschaftliche/r Mitarbeiter/in", "french"=>"Wissenschaftliche/r Mitarbeiter/in", "italian"=>"Wissenschaftliche/r Mitarbeiter/in", "english"=>"Wissenschaftliche/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000530", "label"=>{"german"=>"GS-EDA", "french"=>"SG-DFAE", "italian"=>"SG-DFAE", "english"=>"FDFA-GS"}, "name"=>{"german"=>"Generalsekretariat EDA", "french"=>"Secrétariat général DFAE", "italian"=>"Segreteria generale DFAE", "english"=>"FDFA General Secretariat"}}, {"id"=>"10000579", "label"=>{"german"=>"Dokumentationsdienst", "french"=>"Service de documentation", "italian"=>"Servizio di documentazione", "english"=>"Documentation service"}, "name"=>{"german"=>"Dokumentationsdienst", "french"=>"Service de documentation", "italian"=>"Servizio di documentazione", "english"=>"Documentation service"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000579",
+  "name": {
+    "german": "Dokumentationsdienst",
+    "french": "Service de documentation",
+    "italian": "Servizio di documentazione",
+    "english": "Documentation service"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046783",
+      "name": {
+        "german": "Forschung und Dokumentation",
+        "french": "Recherche et Documentation",
+        "italian": "Ricerche e documentazione",
+        "english": "Research and Documentation"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027901",
+      "name": {
+        "german": "Geschäftsverwaltung",
+        "french": "Gestion des affaires",
+        "italian": "Gestione degli affari",
+        "english": "Records Management"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8991582",
+      "surname": "Wildi-Ballabio",
+      "givenName": "Elena",
+      "email": null,
+      "phone": "+41 58 46 91721",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0322373",
+      "surname": "Schmid",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 48 12972",
+      "function": {
+        "german": "Wissenschaftliche/r Mitarbeiter/in",
+        "french": "Wissenschaftliche/r Mitarbeiter/in",
+        "italian": "Wissenschaftliche/r Mitarbeiter/in",
+        "english": "Wissenschaftliche/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000530",
+      "label": {
+        "german": "GS-EDA",
+        "french": "SG-DFAE",
+        "italian": "SG-DFAE",
+        "english": "FDFA-GS"
+      },
+      "name": {
+        "german": "Generalsekretariat EDA",
+        "french": "Secrétariat général DFAE",
+        "italian": "Segreteria generale DFAE",
+        "english": "FDFA General Secretariat"
+      }
+    },
+    {
+      "id": "10000579",
+      "label": {
+        "german": "Dokumentationsdienst",
+        "french": "Service de documentation",
+        "italian": "Servizio di documentazione",
+        "english": "Documentation service"
+      },
+      "name": {
+        "german": "Dokumentationsdienst",
+        "french": "Service de documentation",
+        "italian": "Servizio di documentazione",
+        "english": "Documentation service"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,169 @@
-{"id"=>"20041028", "name"=>{"german"=>"Services Projekte und Beschaffung", "french"=>"Projets et Marchés publics", "italian"=>"Progetti e acquisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1714796", "surname"=>"Widmer", "givenName"=>"Felix", "email"=>nil, "phone"=>"+41 58 46 27148", "function"=>{"german"=>"Leiter Services Projekte und Beschaffung", "french"=>"Leiter Services Projekte und Beschaffung", "italian"=>"Leiter Services Projekte und Beschaffung", "english"=>"Leiter Services Projekte und Beschaffung"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6182164", "surname"=>"Acevedo", "givenName"=>"Christina", "email"=>nil, "phone"=>"+41 58 46 72173", "function"=>{"german"=>"Leiterin Projektmanagement Office", "french"=>"Leiterin Projektmanagement Office", "italian"=>"Leiterin Projektmanagement Office", "english"=>"Leiterin Projektmanagement Office"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20027560", "label"=>{"german"=>"Ressourcen und Logistik, Rechtsdienst", "french"=>"Ressourcen und Logistik, Rechtsdienst", "italian"=>"Ressourcen und Logistik, Rechtsdienst", "english"=>""}, "name"=>{"german"=>"Ressourcen und Logistik, Rechtsdienst", "french"=>"Ressourcen und Logistik, Rechtsdienst", "italian"=>"Ressourcen und Logistik, Rechtsdienst", "english"=>""}}, {"id"=>"20027569", "label"=>{"german"=>"Digital Services", "french"=>"Digital Services", "italian"=>"Digital Services", "english"=>""}, "name"=>{"german"=>"Digital Services", "french"=>"Digital Services", "italian"=>"Digital Services", "english"=>""}}, {"id"=>"20041028", "label"=>{"german"=>"Services Projekte und Beschaffung", "french"=>"Projets et Marchés publics", "italian"=>"Progetti e acquisti", "english"=>""}, "name"=>{"german"=>"Services Projekte und Beschaffung", "french"=>"Projets et Marchés publics", "italian"=>"Progetti e acquisti", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041028",
+  "name": {
+    "german": "Services Projekte und Beschaffung",
+    "french": "Projets et Marchés publics",
+    "italian": "Progetti e acquisti",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1714796",
+      "surname": "Widmer",
+      "givenName": "Felix",
+      "email": null,
+      "phone": "+41 58 46 27148",
+      "function": {
+        "german": "Leiter Services Projekte und Beschaffung",
+        "french": "Leiter Services Projekte und Beschaffung",
+        "italian": "Leiter Services Projekte und Beschaffung",
+        "english": "Leiter Services Projekte und Beschaffung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6182164",
+      "surname": "Acevedo",
+      "givenName": "Christina",
+      "email": null,
+      "phone": "+41 58 46 72173",
+      "function": {
+        "german": "Leiterin Projektmanagement Office",
+        "french": "Leiterin Projektmanagement Office",
+        "italian": "Leiterin Projektmanagement Office",
+        "english": "Leiterin Projektmanagement Office"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027560",
+      "label": {
+        "german": "Ressourcen und Logistik, Rechtsdienst",
+        "french": "Ressourcen und Logistik, Rechtsdienst",
+        "italian": "Ressourcen und Logistik, Rechtsdienst",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen und Logistik, Rechtsdienst",
+        "french": "Ressourcen und Logistik, Rechtsdienst",
+        "italian": "Ressourcen und Logistik, Rechtsdienst",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027569",
+      "label": {
+        "german": "Digital Services",
+        "french": "Digital Services",
+        "italian": "Digital Services",
+        "english": ""
+      },
+      "name": {
+        "german": "Digital Services",
+        "french": "Digital Services",
+        "italian": "Digital Services",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041028",
+      "label": {
+        "german": "Services Projekte und Beschaffung",
+        "french": "Projets et Marchés publics",
+        "italian": "Progetti e acquisti",
+        "english": ""
+      },
+      "name": {
+        "german": "Services Projekte und Beschaffung",
+        "french": "Projets et Marchés publics",
+        "italian": "Progetti e acquisti",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

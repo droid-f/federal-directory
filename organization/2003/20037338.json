@@ -1,1 +1,141 @@
-{"id"=>"20037338", "name"=>{"german"=>"Sekretariat Europarat", "french"=>"Secr. Conseil de l'Europe", "italian"=>"Segreteria Consiglio d'Europa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8260548", "surname"=>"Stosic", "givenName"=>"Marija", "email"=>nil, "phone"=>"+41 58 32 29589", "function"=>{"german"=>"Delegationssekretärin Europarat", "french"=>"Delegationssekretärin Europarat", "italian"=>"Delegationssekretärin Europarat", "english"=>"Delegationssekretärin Europarat"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037305", "label"=>{"german"=>"Internationales und Mehrsprachigkeit", "french"=>"International et plurilinguisme", "italian"=>"Internazionale e plurilinguismo", "english"=>""}, "name"=>{"german"=>"Internationales und Mehrsprachigkeit", "french"=>"International et plurilinguisme", "italian"=>"Internazionale e plurilinguismo", "english"=>""}}, {"id"=>"20037314", "label"=>{"german"=>"Internationale und interparlamentarische Beziehungen", "french"=>"Relations internationales et interparlementaires", "italian"=>"Relazioni internazionali e interparlamentari", "english"=>""}, "name"=>{"german"=>"Internationale und interparlamentarische Beziehungen", "french"=>"Relations internationales et interparlementaires", "italian"=>"Relazioni internazionali e interparlamentari", "english"=>""}}, {"id"=>"20037338", "label"=>{"german"=>"Sekretariat Europarat", "french"=>"Secr. Conseil de l'Europe", "italian"=>"Segreteria Consiglio d'Europa", "english"=>""}, "name"=>{"german"=>"Sekretariat Europarat", "french"=>"Secr. Conseil de l'Europe", "italian"=>"Segreteria Consiglio d'Europa", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037338",
+  "name": {
+    "german": "Sekretariat Europarat",
+    "french": "Secr. Conseil de l'Europe",
+    "italian": "Segreteria Consiglio d'Europa",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8260548",
+      "surname": "Stosic",
+      "givenName": "Marija",
+      "email": null,
+      "phone": "+41 58 32 29589",
+      "function": {
+        "german": "Delegationssekretärin Europarat",
+        "french": "Delegationssekretärin Europarat",
+        "italian": "Delegationssekretärin Europarat",
+        "english": "Delegationssekretärin Europarat"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037305",
+      "label": {
+        "german": "Internationales und Mehrsprachigkeit",
+        "french": "International et plurilinguisme",
+        "italian": "Internazionale e plurilinguismo",
+        "english": ""
+      },
+      "name": {
+        "german": "Internationales und Mehrsprachigkeit",
+        "french": "International et plurilinguisme",
+        "italian": "Internazionale e plurilinguismo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037314",
+      "label": {
+        "german": "Internationale und interparlamentarische Beziehungen",
+        "french": "Relations internationales et interparlementaires",
+        "italian": "Relazioni internazionali e interparlamentari",
+        "english": ""
+      },
+      "name": {
+        "german": "Internationale und interparlamentarische Beziehungen",
+        "french": "Relations internationales et interparlementaires",
+        "italian": "Relazioni internazionali e interparlamentari",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037338",
+      "label": {
+        "german": "Sekretariat Europarat",
+        "french": "Secr. Conseil de l'Europe",
+        "italian": "Segreteria Consiglio d'Europa",
+        "english": ""
+      },
+      "name": {
+        "german": "Sekretariat Europarat",
+        "french": "Secr. Conseil de l'Europe",
+        "italian": "Segreteria Consiglio d'Europa",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

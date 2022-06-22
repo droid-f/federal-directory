@@ -1,1 +1,185 @@
-{"id"=>"10009066", "name"=>{"german"=>"Luftfahrzeugkontrolle", "french"=>"Contrôle des aéronefs", "italian"=>"Controllo di aeromobili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Militärflugplatz", "postalCode"=>"3857", "location"=>"Unterbach", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10008929", "label"=>{"german"=>"LW", "french"=>"LW", "italian"=>"LW", "english"=>""}, "name"=>{"german"=>"Luftwaffe", "french"=>"Forces aériennes", "italian"=>"Forze aeree", "english"=>""}}, {"id"=>"10005852", "label"=>{"german"=>"Flugplatzkommando Meiringen", "french"=>"Commandement base aérienne Meiringen", "italian"=>"Comando d'aerodromo Meiringen", "english"=>""}, "name"=>{"german"=>"Flugplatzkommando Meiringen", "french"=>"Commandement base aérienne Meiringen", "italian"=>"Comando d'aerodromo Meiringen", "english"=>""}}, {"id"=>"10005856", "label"=>{"german"=>"Support Flugbetrieb Meiringen", "french"=>"Support service de vol Meiringen", "italian"=>"Supporto servizio di volo Meiringen", "english"=>""}, "name"=>{"german"=>"Support Flugbetrieb Meiringen", "french"=>"Support service de vol Meiringen", "italian"=>"Supporto servizio di volo Meiringen", "english"=>""}}, {"id"=>"10009066", "label"=>{"german"=>"Luftfahrzeugkontrolle", "french"=>"Contrôle des aéronefs", "italian"=>"Controllo di aeromobili", "english"=>""}, "name"=>{"german"=>"Luftfahrzeugkontrolle", "french"=>"Contrôle des aéronefs", "italian"=>"Controllo di aeromobili", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009066",
+  "name": {
+    "german": "Luftfahrzeugkontrolle",
+    "french": "Contrôle des aéronefs",
+    "italian": "Controllo di aeromobili",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Militärflugplatz",
+    "postalCode": "3857",
+    "location": "Unterbach",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008929",
+      "label": {
+        "german": "LW",
+        "french": "LW",
+        "italian": "LW",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftwaffe",
+        "french": "Forces aériennes",
+        "italian": "Forze aeree",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005852",
+      "label": {
+        "german": "Flugplatzkommando Meiringen",
+        "french": "Commandement base aérienne Meiringen",
+        "italian": "Comando d'aerodromo Meiringen",
+        "english": ""
+      },
+      "name": {
+        "german": "Flugplatzkommando Meiringen",
+        "french": "Commandement base aérienne Meiringen",
+        "italian": "Comando d'aerodromo Meiringen",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005856",
+      "label": {
+        "german": "Support Flugbetrieb Meiringen",
+        "french": "Support service de vol Meiringen",
+        "italian": "Supporto servizio di volo Meiringen",
+        "english": ""
+      },
+      "name": {
+        "german": "Support Flugbetrieb Meiringen",
+        "french": "Support service de vol Meiringen",
+        "italian": "Supporto servizio di volo Meiringen",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009066",
+      "label": {
+        "german": "Luftfahrzeugkontrolle",
+        "french": "Contrôle des aéronefs",
+        "italian": "Controllo di aeromobili",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftfahrzeugkontrolle",
+        "french": "Contrôle des aéronefs",
+        "italian": "Controllo di aeromobili",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,230 @@
-{"id"=>"20048448", "name"=>{"german"=>"Zoll Jura", "french"=>"Douane Jura", "italian"=>"Dogana Giura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Rue Achille Merguin 4", "postalCode"=>"2900", "location"=>"Porrentruy", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049622", "name"=>{"german"=>"Aufgabenvollzug und Führungsunterstützung Zoll Jura", "french"=>"Exécution des tâches et aide à la conduite Douane Jura", "italian"=>"Esecuzione dei compiti e aiuto alla condotta Dogana Giura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049623", "name"=>{"german"=>"Einsatzkoordination Zoll Jura", "french"=>"Coordination des engagements Douane Jura", "italian"=>"Coordinamento impiego Dogana Giura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049624", "name"=>{"german"=>"Einheit 1 Zoll Jura", "french"=>"Unité 1 Douane Jura", "italian"=>"Unità 1 Dogana Giura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049625", "name"=>{"german"=>"Einheit 2 Zoll Jura", "french"=>"Unité 2 Douane Jura", "italian"=>"Unità 2 Dogana Giura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2210916", "surname"=>"Neukomm", "givenName"=>"Alain", "email"=>nil, "phone"=>"+41 58 46 16075", "function"=>{"german"=>"Stv. Chef/in Zoll Mitte / Chef/in Zoll Jura", "french"=>"Remplf. Chef/fe Douane Centre / Chef/fe Douane Jura", "italian"=>"Sost. Capo Dogana Centro / Capo Dogana Jura", "english"=>"Chef/in und Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008659", "label"=>{"german"=>"BAZG", "french"=>"OFDF", "italian"=>"UDSC", "english"=>"FOCBS"}, "name"=>{"german"=>"Bundesamt für Zoll und Grenzsicherheit", "french"=>"Office fédéral de la douane et de la sécurité des frontières", "italian"=>"Ufficio federale della dogana e della sicurezza dei confini", "english"=>"Federal Office for Customs and Border Security"}}, {"id"=>"10007200", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10007241", "label"=>{"german"=>"Direktionsbereich Operationen", "french"=>"Domaine de direction Opérations", "italian"=>"Ambito direzionale Operazioni", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Operationen", "french"=>"Domaine de direction Opérations", "italian"=>"Ambito direzionale Operazioni", "english"=>""}}, {"id"=>"20015101", "label"=>{"german"=>"Zoll Mitte", "french"=>"Douane Centre", "italian"=>"Dogana Centro", "english"=>""}, "name"=>{"german"=>"Zoll Mitte", "french"=>"Douane Centre", "italian"=>"Dogana Centro", "english"=>""}}, {"id"=>"20048448", "label"=>{"german"=>"Zoll Jura", "french"=>"Douane Jura", "italian"=>"Dogana Giura", "english"=>""}, "name"=>{"german"=>"Zoll Jura", "french"=>"Douane Jura", "italian"=>"Dogana Giura", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048448",
+  "name": {
+    "german": "Zoll Jura",
+    "french": "Douane Jura",
+    "italian": "Dogana Giura",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Rue Achille Merguin 4",
+    "postalCode": "2900",
+    "location": "Porrentruy",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049622",
+      "name": {
+        "german": "Aufgabenvollzug und Führungsunterstützung Zoll Jura",
+        "french": "Exécution des tâches et aide à la conduite Douane Jura",
+        "italian": "Esecuzione dei compiti e aiuto alla condotta Dogana Giura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049623",
+      "name": {
+        "german": "Einsatzkoordination Zoll Jura",
+        "french": "Coordination des engagements Douane Jura",
+        "italian": "Coordinamento impiego Dogana Giura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049624",
+      "name": {
+        "german": "Einheit 1 Zoll Jura",
+        "french": "Unité 1 Douane Jura",
+        "italian": "Unità 1 Dogana Giura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049625",
+      "name": {
+        "german": "Einheit 2 Zoll Jura",
+        "french": "Unité 2 Douane Jura",
+        "italian": "Unità 2 Dogana Giura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2210916",
+      "surname": "Neukomm",
+      "givenName": "Alain",
+      "email": null,
+      "phone": "+41 58 46 16075",
+      "function": {
+        "german": "Stv. Chef/in Zoll Mitte / Chef/in Zoll Jura",
+        "french": "Remplf. Chef/fe Douane Centre / Chef/fe Douane Jura",
+        "italian": "Sost. Capo Dogana Centro / Capo Dogana Jura",
+        "english": "Chef/in und Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008659",
+      "label": {
+        "german": "BAZG",
+        "french": "OFDF",
+        "italian": "UDSC",
+        "english": "FOCBS"
+      },
+      "name": {
+        "german": "Bundesamt für Zoll und Grenzsicherheit",
+        "french": "Office fédéral de la douane et de la sécurité des frontières",
+        "italian": "Ufficio federale della dogana e della sicurezza dei confini",
+        "english": "Federal Office for Customs and Border Security"
+      }
+    },
+    {
+      "id": "10007200",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007241",
+      "label": {
+        "german": "Direktionsbereich Operationen",
+        "french": "Domaine de direction Opérations",
+        "italian": "Ambito direzionale Operazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Operationen",
+        "french": "Domaine de direction Opérations",
+        "italian": "Ambito direzionale Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015101",
+      "label": {
+        "german": "Zoll Mitte",
+        "french": "Douane Centre",
+        "italian": "Dogana Centro",
+        "english": ""
+      },
+      "name": {
+        "german": "Zoll Mitte",
+        "french": "Douane Centre",
+        "italian": "Dogana Centro",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048448",
+      "label": {
+        "german": "Zoll Jura",
+        "french": "Douane Jura",
+        "italian": "Dogana Giura",
+        "english": ""
+      },
+      "name": {
+        "german": "Zoll Jura",
+        "french": "Douane Jura",
+        "italian": "Dogana Giura",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

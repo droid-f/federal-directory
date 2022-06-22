@@ -1,1 +1,140 @@
-{"id"=>"10013254", "name"=>{"german"=>"Bereich Sach- und Geldleistungen", "french"=>"Secteur Prestations en nature et en espèces", "italian"=>"Settore Prestazioni in natura e pecuniarie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008685", "label"=>{"german"=>"BSV", "french"=>"OFAS", "italian"=>"UFAS", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sozialversicherungen", "french"=>"Office fédéral des assurances sociales", "italian"=>"Ufficio federale delle assicurazioni sociali", "english"=>""}}, {"id"=>"10003540", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003564", "label"=>{"german"=>"Geschäftsfeld Invalidenversicherung", "french"=>"Domaine Assurance-invalidité", "italian"=>"Ambito Assicurazione invalidità", "english"=>""}, "name"=>{"german"=>"Geschäftsfeld Invalidenversicherung", "french"=>"Domaine Assurance-invalidité", "italian"=>"Ambito Assicurazione invalidità", "english"=>""}}, {"id"=>"10013254", "label"=>{"german"=>"Bereich Sach- und Geldleistungen", "french"=>"Secteur Prestations en nature et en espèces", "italian"=>"Settore Prestazioni in natura e pecuniarie", "english"=>""}, "name"=>{"german"=>"Bereich Sach- und Geldleistungen", "french"=>"Secteur Prestations en nature et en espèces", "italian"=>"Settore Prestazioni in natura e pecuniarie", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10013254",
+  "name": {
+    "german": "Bereich Sach- und Geldleistungen",
+    "french": "Secteur Prestations en nature et en espèces",
+    "italian": "Settore Prestazioni in natura e pecuniarie",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008685",
+      "label": {
+        "german": "BSV",
+        "french": "OFAS",
+        "italian": "UFAS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sozialversicherungen",
+        "french": "Office fédéral des assurances sociales",
+        "italian": "Ufficio federale delle assicurazioni sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003540",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003564",
+      "label": {
+        "german": "Geschäftsfeld Invalidenversicherung",
+        "french": "Domaine Assurance-invalidité",
+        "italian": "Ambito Assicurazione invalidità",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsfeld Invalidenversicherung",
+        "french": "Domaine Assurance-invalidité",
+        "italian": "Ambito Assicurazione invalidità",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013254",
+      "label": {
+        "german": "Bereich Sach- und Geldleistungen",
+        "french": "Secteur Prestations en nature et en espèces",
+        "italian": "Settore Prestazioni in natura e pecuniarie",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Sach- und Geldleistungen",
+        "french": "Secteur Prestations en nature et en espèces",
+        "italian": "Settore Prestazioni in natura e pecuniarie",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

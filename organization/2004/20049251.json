@@ -1,1 +1,140 @@
-{"id"=>"20049251", "name"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20027564", "name"=>{"german"=>"Referentenstab", "french"=>"Etat-major des rapporteurs", "italian"=>"Stato maggiore dei relatori", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8915308", "surname"=>"Schürer", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 48 08629", "function"=>{"german"=>"Stabchef", "french"=>"Persönlicher Mitarbeiter DC", "italian"=>"Persönlicher Mitarbeiter DC", "english"=>"Stabchef"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20049251", "label"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "name"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049251",
+  "name": {
+    "german": "Stab",
+    "french": "Etat-major",
+    "italian": "Stato maggiore",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20027564",
+      "name": {
+        "german": "Referentenstab",
+        "french": "Etat-major des rapporteurs",
+        "italian": "Stato maggiore dei relatori",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8915308",
+      "surname": "Schürer",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 48 08629",
+      "function": {
+        "german": "Stabchef",
+        "french": "Persönlicher Mitarbeiter DC",
+        "italian": "Persönlicher Mitarbeiter DC",
+        "english": "Stabchef"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049251",
+      "label": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

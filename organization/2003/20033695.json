@@ -1,1 +1,187 @@
-{"id"=>"20033695", "name"=>{"german"=>"Krisenmanagement-Zentrum", "french"=>"Centre de gestion des crises", "italian"=>"Centro di gestione delle crisi", "english"=>"Crisis Management Centre"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20033697", "name"=>{"german"=>"Krisenmanagement", "french"=>"Gestion des crises", "italian"=>"Gestione delle crisi", "english"=>"Crisis Management"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044901", "name"=>{"german"=>"Reisehinweise", "french"=>"Conseils aux voyageurs", "italian"=>"Consigli di viaggio", "english"=>"Travel Advice"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024455", "name"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>"Security"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0675372", "surname"=>"Lenz", "givenName"=>"Hans-Peter", "email"=>nil, "phone"=>"+41 58 46 23530", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5391971", "surname"=>"Bavaud", "givenName"=>"Serge Alexandre", "email"=>nil, "phone"=>"+41 58 46 23310", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20033695", "label"=>{"german"=>"Krisenmanagement-Zentrum", "french"=>"Centre de gestion des crises", "italian"=>"Centro di gestione delle crisi", "english"=>"Crisis Management Centre"}, "name"=>{"german"=>"Krisenmanagement-Zentrum", "french"=>"Centre de gestion des crises", "italian"=>"Centro di gestione delle crisi", "english"=>"Crisis Management Centre"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20033695",
+  "name": {
+    "german": "Krisenmanagement-Zentrum",
+    "french": "Centre de gestion des crises",
+    "italian": "Centro di gestione delle crisi",
+    "english": "Crisis Management Centre"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20033697",
+      "name": {
+        "german": "Krisenmanagement",
+        "french": "Gestion des crises",
+        "italian": "Gestione delle crisi",
+        "english": "Crisis Management"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044901",
+      "name": {
+        "german": "Reisehinweise",
+        "french": "Conseils aux voyageurs",
+        "italian": "Consigli di viaggio",
+        "english": "Travel Advice"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024455",
+      "name": {
+        "german": "Sicherheit",
+        "french": "Sécurité",
+        "italian": "Sicurezza",
+        "english": "Security"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0675372",
+      "surname": "Lenz",
+      "givenName": "Hans-Peter",
+      "email": null,
+      "phone": "+41 58 46 23530",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5391971",
+      "surname": "Bavaud",
+      "givenName": "Serge Alexandre",
+      "email": null,
+      "phone": "+41 58 46 23310",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20033695",
+      "label": {
+        "german": "Krisenmanagement-Zentrum",
+        "french": "Centre de gestion des crises",
+        "italian": "Centro di gestione delle crisi",
+        "english": "Crisis Management Centre"
+      },
+      "name": {
+        "german": "Krisenmanagement-Zentrum",
+        "french": "Centre de gestion des crises",
+        "italian": "Centro di gestione delle crisi",
+        "english": "Crisis Management Centre"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

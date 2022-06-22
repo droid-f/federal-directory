@@ -1,1 +1,173 @@
-{"id"=>"20031026", "name"=>{"german"=>"FB Infostar", "french"=>"Unité Infostar", "italian"=>"Settore Infostar", "english"=>""}, "nameAbbr"=>{"german"=>"FIS", "french"=>"FIS", "italian"=>"FIS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584621100", "fax"=>"", "email"=>"infostar@bj.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6875458", "surname"=>"Semprevivo", "givenName"=>"Rodolfo", "email"=>nil, "phone"=>"+41 58 46 92088", "function"=>{"german"=>"Chef FIS", "french"=>"Chef UIS", "italian"=>"Capo SIS", "english"=>"Chef FIS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3894518", "surname"=>"Mathys", "givenName"=>"Anita", "email"=>nil, "phone"=>"+41 58 46 21437", "function"=>{"german"=>"Stv. Chefin FIS/Anforderungsmanager, Product Owner/Leitung Clearing NNSS", "french"=>"Cheffe suppl. UIS/manager des exigences/responsable de projet digital", "italian"=>"Capo supplente SIS / responsabile dei requisiti / product owner", "english"=>"Stv. Leiterin FIS/Anforderungsmanager"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002456", "label"=>{"german"=>"PRIVAT", "french"=>"PRIVAT", "italian"=>"PRIVAT", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Privatrecht", "french"=>"Domaine de direction Droit privé", "italian"=>"Ambito direzionale Diritto privato", "english"=>""}}, {"id"=>"20031026", "label"=>{"german"=>"FIS", "french"=>"FIS", "italian"=>"FIS", "english"=>""}, "name"=>{"german"=>"FB Infostar", "french"=>"Unité Infostar", "italian"=>"Settore Infostar", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031026",
+  "name": {
+    "german": "FB Infostar",
+    "french": "Unité Infostar",
+    "italian": "Settore Infostar",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "FIS",
+    "french": "FIS",
+    "italian": "FIS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584621100",
+    "fax": "",
+    "email": "infostar@bj.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6875458",
+      "surname": "Semprevivo",
+      "givenName": "Rodolfo",
+      "email": null,
+      "phone": "+41 58 46 92088",
+      "function": {
+        "german": "Chef FIS",
+        "french": "Chef UIS",
+        "italian": "Capo SIS",
+        "english": "Chef FIS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3894518",
+      "surname": "Mathys",
+      "givenName": "Anita",
+      "email": null,
+      "phone": "+41 58 46 21437",
+      "function": {
+        "german": "Stv. Chefin FIS/Anforderungsmanager, Product Owner/Leitung Clearing NNSS",
+        "french": "Cheffe suppl. UIS/manager des exigences/responsable de projet digital",
+        "italian": "Capo supplente SIS / responsabile dei requisiti / product owner",
+        "english": "Stv. Leiterin FIS/Anforderungsmanager"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002456",
+      "label": {
+        "german": "PRIVAT",
+        "french": "PRIVAT",
+        "italian": "PRIVAT",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Privatrecht",
+        "french": "Domaine de direction Droit privé",
+        "italian": "Ambito direzionale Diritto privato",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031026",
+      "label": {
+        "german": "FIS",
+        "french": "FIS",
+        "italian": "FIS",
+        "english": ""
+      },
+      "name": {
+        "german": "FB Infostar",
+        "french": "Unité Infostar",
+        "italian": "Settore Infostar",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,211 @@
-{"id"=>"10003295", "name"=>{"german"=>"Finanzdienst III - Sicherheit und Migration", "french"=>"Service financier III - Sécurité et migration", "italian"=>"Servizio finanziario III - Sicurezza e migrazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>true, "id"=>"p-7426218", "surname"=>"Trauffer", "givenName"=>"Samuel", "email"=>nil, "phone"=>"+41 58 46 26049", "function"=>{"german"=>"Leiter Finanzdienst III", "french"=>"Chef Service financier III", "italian"=>"Capo Servizio fianziario III", "english"=>"Leiter Finanzdienst III"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3867300", "surname"=>"Haarmann", "givenName"=>"Jürg", "email"=>nil, "phone"=>"+41 58 46 25412", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3862900", "surname"=>"Heimgartner", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 38674", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XXNRBJX5", "surname"=>"Kulli", "givenName"=>"Marc", "email"=>nil, "phone"=>"+41 58 48 18237", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6696264", "surname"=>"Schreier", "givenName"=>"Rebecca", "email"=>nil, "phone"=>"+41 58 46 26064", "function"=>{"german"=>"Oekonomin", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonomin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003292", "label"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}, "name"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}}, {"id"=>"10003295", "label"=>{"german"=>"Finanzdienst III - Sicherheit und Migration", "french"=>"Service financier III - Sécurité et migration", "italian"=>"Servizio finanziario III - Sicurezza e migrazione", "english"=>""}, "name"=>{"german"=>"Finanzdienst III - Sicherheit und Migration", "french"=>"Service financier III - Sécurité et migration", "italian"=>"Servizio finanziario III - Sicurezza e migrazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003295",
+  "name": {
+    "german": "Finanzdienst III - Sicherheit und Migration",
+    "french": "Service financier III - Sécurité et migration",
+    "italian": "Servizio finanziario III - Sicurezza e migrazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": true,
+      "id": "p-7426218",
+      "surname": "Trauffer",
+      "givenName": "Samuel",
+      "email": null,
+      "phone": "+41 58 46 26049",
+      "function": {
+        "german": "Leiter Finanzdienst III",
+        "french": "Chef Service financier III",
+        "italian": "Capo Servizio fianziario III",
+        "english": "Leiter Finanzdienst III"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3867300",
+      "surname": "Haarmann",
+      "givenName": "Jürg",
+      "email": null,
+      "phone": "+41 58 46 25412",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3862900",
+      "surname": "Heimgartner",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 38674",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XXNRBJX5",
+      "surname": "Kulli",
+      "givenName": "Marc",
+      "email": null,
+      "phone": "+41 58 48 18237",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6696264",
+      "surname": "Schreier",
+      "givenName": "Rebecca",
+      "email": null,
+      "phone": "+41 58 46 26064",
+      "function": {
+        "german": "Oekonomin",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonomin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003292",
+      "label": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003295",
+      "label": {
+        "german": "Finanzdienst III - Sicherheit und Migration",
+        "french": "Service financier III - Sécurité et migration",
+        "italian": "Servizio finanziario III - Sicurezza e migrazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzdienst III - Sicherheit und Migration",
+        "french": "Service financier III - Sécurité et migration",
+        "italian": "Servizio finanziario III - Sicurezza e migrazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

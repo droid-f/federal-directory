@@ -1,1 +1,154 @@
-{"id"=>"20035276", "name"=>{"german"=>"Georgien", "french"=>"Géorgie", "italian"=>"Georgia", "english"=>"Georgia"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10001176", "name"=>{"german"=>"Botschaft Tiflis", "french"=>"Ambassade de Tbilissi", "italian"=>"Ambasciata a Tbilisi", "english"=>"Embassy in Tblisi"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035235", "label"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}, "name"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}}, {"id"=>"20035276", "label"=>{"german"=>"Georgien", "french"=>"Géorgie", "italian"=>"Georgia", "english"=>"Georgia"}, "name"=>{"german"=>"Georgien", "french"=>"Géorgie", "italian"=>"Georgia", "english"=>"Georgia"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035276",
+  "name": {
+    "german": "Georgien",
+    "french": "Géorgie",
+    "italian": "Georgia",
+    "english": "Georgia"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10001176",
+      "name": {
+        "german": "Botschaft Tiflis",
+        "french": "Ambassade de Tbilissi",
+        "italian": "Ambasciata a Tbilisi",
+        "english": "Embassy in Tblisi"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035235",
+      "label": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      },
+      "name": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      }
+    },
+    {
+      "id": "20035276",
+      "label": {
+        "german": "Georgien",
+        "french": "Géorgie",
+        "italian": "Georgia",
+        "english": "Georgia"
+      },
+      "name": {
+        "german": "Georgien",
+        "french": "Géorgie",
+        "italian": "Georgia",
+        "english": "Georgia"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

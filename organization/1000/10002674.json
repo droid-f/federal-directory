@@ -1,1 +1,215 @@
-{"id"=>"10002674", "name"=>{"german"=>"Bereich Bundesrat", "french"=>"Secteur Conseil fédéral", "italian"=>"Settore Consiglio federale", "english"=>""}, "nameAbbr"=>{"german"=>"BR", "french"=>"BR", "italian"=>"BR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10002680", "name"=>{"german"=>"Sektion Bundesratsgeschäfte", "french"=>"Section des affaires du Conseil fédéral", "italian"=>"Sezione degli affari del Consiglio federale", "english"=>""}, "nameAbbr"=>{"german"=>"BRG", "french"=>"BRG", "italian"=>"BRG", "english"=>""}}, {"id"=>"10002676", "name"=>{"german"=>"Sektion Recht", "french"=>"Section du droit", "italian"=>"Sezione del diritto", "english"=>""}, "nameAbbr"=>{"german"=>"RECHT", "french"=>"RECHT", "italian"=>"RECHT", "english"=>""}}, {"id"=>"10002678", "name"=>{"german"=>"Kompetenzzentrum Amtliche Veröffentlichungen", "french"=>"Centre des publications officielles", "italian"=>"Centro delle pubblicazioni ufficiali", "english"=>""}, "nameAbbr"=>{"german"=>"KAV", "french"=>"KAV", "italian"=>"KAV", "english"=>""}}, {"id"=>"10010839", "name"=>{"german"=>"Zentrale Sprachdienste, Sektion Deutsch", "french"=>"Services linguistiques centraux, section allemande", "italian"=>"Servizi linguistici centrali, Sezione tedesca", "english"=>""}, "nameAbbr"=>{"german"=>"ZSD-D", "french"=>"ZSD-D", "italian"=>"ZSD-D", "english"=>""}}, {"id"=>"10010840", "name"=>{"german"=>"Zentrale Sprachdienste, Sektion Französisch", "french"=>"Services linguistiques centraux, section française", "italian"=>"Servizi linguistici centrali, Sezione francese", "english"=>""}, "nameAbbr"=>{"german"=>"ZSD-F", "french"=>"ZSD-F", "italian"=>"ZSD-F", "english"=>""}}, {"id"=>"10010841", "name"=>{"german"=>"Zentrale Sprachdienste, Abteilung Italienisch", "french"=>"Services linguistiques centraux, Division italienne", "italian"=>"Servizi linguistici centrali, Divisione italiana", "english"=>""}, "nameAbbr"=>{"german"=>"ZSD-I", "french"=>"ZSD-I", "italian"=>"ZSD-I", "english"=>""}}, {"id"=>"10010843", "name"=>{"german"=>"Zentrale Sprachdienste, Sektion Terminologie", "french"=>"Services linguistiques centraux, section de terminologie", "italian"=>"Servizi linguistici centrali, Sezione di terminologia", "english"=>""}, "nameAbbr"=>{"german"=>"ZSD-T", "french"=>"ZSD-T", "italian"=>"ZSD-T", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6819036", "surname"=>"Rossi", "givenName"=>"Viktor", "email"=>nil, "phone"=>"+41 58 46 23011", "function"=>{"german"=>"Vizekanzler/in", "french"=>"Vizekanzler/in", "italian"=>"Vizekanzler/in", "english"=>"Vizekanzler/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002674", "label"=>{"german"=>"BR", "french"=>"BR", "italian"=>"BR", "english"=>""}, "name"=>{"german"=>"Bereich Bundesrat", "french"=>"Secteur Conseil fédéral", "italian"=>"Settore Consiglio federale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002674",
+  "name": {
+    "german": "Bereich Bundesrat",
+    "french": "Secteur Conseil fédéral",
+    "italian": "Settore Consiglio federale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BR",
+    "french": "BR",
+    "italian": "BR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10002680",
+      "name": {
+        "german": "Sektion Bundesratsgeschäfte",
+        "french": "Section des affaires du Conseil fédéral",
+        "italian": "Sezione degli affari del Consiglio federale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BRG",
+        "french": "BRG",
+        "italian": "BRG",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002676",
+      "name": {
+        "german": "Sektion Recht",
+        "french": "Section du droit",
+        "italian": "Sezione del diritto",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RECHT",
+        "french": "RECHT",
+        "italian": "RECHT",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002678",
+      "name": {
+        "german": "Kompetenzzentrum Amtliche Veröffentlichungen",
+        "french": "Centre des publications officielles",
+        "italian": "Centro delle pubblicazioni ufficiali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "KAV",
+        "french": "KAV",
+        "italian": "KAV",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010839",
+      "name": {
+        "german": "Zentrale Sprachdienste, Sektion Deutsch",
+        "french": "Services linguistiques centraux, section allemande",
+        "italian": "Servizi linguistici centrali, Sezione tedesca",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZSD-D",
+        "french": "ZSD-D",
+        "italian": "ZSD-D",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010840",
+      "name": {
+        "german": "Zentrale Sprachdienste, Sektion Französisch",
+        "french": "Services linguistiques centraux, section française",
+        "italian": "Servizi linguistici centrali, Sezione francese",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZSD-F",
+        "french": "ZSD-F",
+        "italian": "ZSD-F",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010841",
+      "name": {
+        "german": "Zentrale Sprachdienste, Abteilung Italienisch",
+        "french": "Services linguistiques centraux, Division italienne",
+        "italian": "Servizi linguistici centrali, Divisione italiana",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZSD-I",
+        "french": "ZSD-I",
+        "italian": "ZSD-I",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010843",
+      "name": {
+        "german": "Zentrale Sprachdienste, Sektion Terminologie",
+        "french": "Services linguistiques centraux, section de terminologie",
+        "italian": "Servizi linguistici centrali, Sezione di terminologia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZSD-T",
+        "french": "ZSD-T",
+        "italian": "ZSD-T",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6819036",
+      "surname": "Rossi",
+      "givenName": "Viktor",
+      "email": null,
+      "phone": "+41 58 46 23011",
+      "function": {
+        "german": "Vizekanzler/in",
+        "french": "Vizekanzler/in",
+        "italian": "Vizekanzler/in",
+        "english": "Vizekanzler/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002674",
+      "label": {
+        "german": "BR",
+        "french": "BR",
+        "italian": "BR",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Bundesrat",
+        "french": "Secteur Conseil fédéral",
+        "italian": "Settore Consiglio federale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

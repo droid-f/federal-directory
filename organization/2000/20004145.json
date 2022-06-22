@@ -1,1 +1,170 @@
-{"id"=>"20004145", "name"=>{"german"=>"Qualitätsmanagement und Lufttüchtigkeit", "french"=>"Gestion de la qualité et navigabilité", "italian"=>"Gestione della qualità e navigabilità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Rüeggisingerstrasse 165", "postalCode"=>"6032", "location"=>"Emmen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20043304", "name"=>{"german"=>"Lufttüchtigkeit", "french"=>"Navigabilité", "italian"=>"Navigabilità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3756570", "surname"=>"Tamburini", "givenName"=>"Daniele", "email"=>nil, "phone"=>"+41 58 46 14691", "function"=>{"german"=>"Leiter FB Qualitätsmanagement", "french"=>"Chef du domaine spécialisé gestion de la qualité", "italian"=>"Capo SS Gestione della qualità", "english"=>"Leiter FB Qualitätsmanagement"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004019", "label"=>{"german"=>"Luftfahrtsysteme", "french"=>"Systèmes aéronautiques", "italian"=>"Sistemi aeronautici", "english"=>""}, "name"=>{"german"=>"Luftfahrtsysteme", "french"=>"Systèmes aéronautiques", "italian"=>"Sistemi aeronautici", "english"=>""}}, {"id"=>"20004145", "label"=>{"german"=>"Qualitätsmanagement und Lufttüchtigkeit", "french"=>"Gestion de la qualité et navigabilité", "italian"=>"Gestione della qualità e navigabilità", "english"=>""}, "name"=>{"german"=>"Qualitätsmanagement und Lufttüchtigkeit", "french"=>"Gestion de la qualité et navigabilité", "italian"=>"Gestione della qualità e navigabilità", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20004145",
+  "name": {
+    "german": "Qualitätsmanagement und Lufttüchtigkeit",
+    "french": "Gestion de la qualité et navigabilité",
+    "italian": "Gestione della qualità e navigabilità",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Rüeggisingerstrasse 165",
+    "postalCode": "6032",
+    "location": "Emmen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20043304",
+      "name": {
+        "german": "Lufttüchtigkeit",
+        "french": "Navigabilité",
+        "italian": "Navigabilità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3756570",
+      "surname": "Tamburini",
+      "givenName": "Daniele",
+      "email": null,
+      "phone": "+41 58 46 14691",
+      "function": {
+        "german": "Leiter FB Qualitätsmanagement",
+        "french": "Chef du domaine spécialisé gestion de la qualité",
+        "italian": "Capo SS Gestione della qualità",
+        "english": "Leiter FB Qualitätsmanagement"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004019",
+      "label": {
+        "german": "Luftfahrtsysteme",
+        "french": "Systèmes aéronautiques",
+        "italian": "Sistemi aeronautici",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftfahrtsysteme",
+        "french": "Systèmes aéronautiques",
+        "italian": "Sistemi aeronautici",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004145",
+      "label": {
+        "german": "Qualitätsmanagement und Lufttüchtigkeit",
+        "french": "Gestion de la qualité et navigabilité",
+        "italian": "Gestione della qualità e navigabilità",
+        "english": ""
+      },
+      "name": {
+        "german": "Qualitätsmanagement und Lufttüchtigkeit",
+        "french": "Gestion de la qualité et navigabilité",
+        "italian": "Gestione della qualità e navigabilità",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

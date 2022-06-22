@@ -1,1 +1,185 @@
-{"id"=>"20022092", "name"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035235", "label"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}, "name"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}}, {"id"=>"20035241", "label"=>{"german"=>"Belgien", "french"=>"Belgique", "italian"=>"Belgio", "english"=>"Belgium"}, "name"=>{"german"=>"Belgien", "french"=>"Belgique", "italian"=>"Belgio", "english"=>"Belgium"}}, {"id"=>"10000740", "label"=>{"german"=>"Botschaft Brüssel", "french"=>"Ambassade de Bruxelles", "italian"=>"Ambasciata a Bruxelles", "english"=>"Embassy in Brussels"}, "name"=>{"german"=>"Botschaft Brüssel", "french"=>"Ambassade de Bruxelles", "italian"=>"Ambasciata a Bruxelles", "english"=>"Embassy in Brussels"}}, {"id"=>"10000742", "label"=>{"german"=>"Schweizerische Mission bei der NATO", "french"=>"Mission suisse auprès de l’OTAN", "italian"=>"Missione svizzera presso la NATO", "english"=>"Swiss Mission to NATO"}, "name"=>{"german"=>"Schweizerische Mission bei der NATO", "french"=>"Mission suisse auprès de l’OTAN", "italian"=>"Missione svizzera presso la NATO", "english"=>"Swiss Mission to NATO"}}, {"id"=>"20022092", "label"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}, "name"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20022092",
+  "name": {
+    "german": "Diplomatische Aufgaben",
+    "french": "Fonctions diplomatiques",
+    "italian": "Funzioni diplomatiche",
+    "english": "Diplomatic tasks"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035235",
+      "label": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      },
+      "name": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      }
+    },
+    {
+      "id": "20035241",
+      "label": {
+        "german": "Belgien",
+        "french": "Belgique",
+        "italian": "Belgio",
+        "english": "Belgium"
+      },
+      "name": {
+        "german": "Belgien",
+        "french": "Belgique",
+        "italian": "Belgio",
+        "english": "Belgium"
+      }
+    },
+    {
+      "id": "10000740",
+      "label": {
+        "german": "Botschaft Brüssel",
+        "french": "Ambassade de Bruxelles",
+        "italian": "Ambasciata a Bruxelles",
+        "english": "Embassy in Brussels"
+      },
+      "name": {
+        "german": "Botschaft Brüssel",
+        "french": "Ambassade de Bruxelles",
+        "italian": "Ambasciata a Bruxelles",
+        "english": "Embassy in Brussels"
+      }
+    },
+    {
+      "id": "10000742",
+      "label": {
+        "german": "Schweizerische Mission bei der NATO",
+        "french": "Mission suisse auprès de l’OTAN",
+        "italian": "Missione svizzera presso la NATO",
+        "english": "Swiss Mission to NATO"
+      },
+      "name": {
+        "german": "Schweizerische Mission bei der NATO",
+        "french": "Mission suisse auprès de l’OTAN",
+        "italian": "Missione svizzera presso la NATO",
+        "english": "Swiss Mission to NATO"
+      }
+    },
+    {
+      "id": "20022092",
+      "label": {
+        "german": "Diplomatische Aufgaben",
+        "french": "Fonctions diplomatiques",
+        "italian": "Funzioni diplomatiche",
+        "english": "Diplomatic tasks"
+      },
+      "name": {
+        "german": "Diplomatische Aufgaben",
+        "french": "Fonctions diplomatiques",
+        "italian": "Funzioni diplomatiche",
+        "english": "Diplomatic tasks"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

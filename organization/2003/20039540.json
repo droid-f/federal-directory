@@ -1,1 +1,155 @@
-{"id"=>"20039540", "name"=>{"german"=>"Dienst Infrastruktur und Technik", "french"=>"Service Infrastructure et technique", "italian"=>"Servizio Infrastruttura e tecnologia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Via Soldino 9", "postalCode"=>"6900", "location"=>"Lugano", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004387", "label"=>{"german"=>"NB", "french"=>"BN", "italian"=>"BN", "english"=>""}, "name"=>{"german"=>"Schweizerische Nationalbibliothek", "french"=>"Bibliothèque nationale suisse", "italian"=>"Biblioteca nazionale svizzera", "english"=>""}}, {"id"=>"20012600", "label"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}, "name"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}}, {"id"=>"20039539", "label"=>{"german"=>"Sektion Schweizerische Nationalphonothek", "french"=>"Section Phonothèque nationale suisse", "italian"=>"Sezione Fonoteca nazionale svizzera", "english"=>""}, "name"=>{"german"=>"Sektion Schweizerische Nationalphonothek", "french"=>"Section Phonothèque nationale suisse", "italian"=>"Sezione Fonoteca nazionale svizzera", "english"=>""}}, {"id"=>"20039540", "label"=>{"german"=>"Dienst Infrastruktur und Technik", "french"=>"Service Infrastructure et technique", "italian"=>"Servizio Infrastruttura e tecnologia", "english"=>""}, "name"=>{"german"=>"Dienst Infrastruktur und Technik", "french"=>"Service Infrastructure et technique", "italian"=>"Servizio Infrastruttura e tecnologia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039540",
+  "name": {
+    "german": "Dienst Infrastruktur und Technik",
+    "french": "Service Infrastructure et technique",
+    "italian": "Servizio Infrastruttura e tecnologia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Via Soldino 9",
+    "postalCode": "6900",
+    "location": "Lugano",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004387",
+      "label": {
+        "german": "NB",
+        "french": "BN",
+        "italian": "BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerische Nationalbibliothek",
+        "french": "Bibliothèque nationale suisse",
+        "italian": "Biblioteca nazionale svizzera",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012600",
+      "label": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039539",
+      "label": {
+        "german": "Sektion Schweizerische Nationalphonothek",
+        "french": "Section Phonothèque nationale suisse",
+        "italian": "Sezione Fonoteca nazionale svizzera",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Schweizerische Nationalphonothek",
+        "french": "Section Phonothèque nationale suisse",
+        "italian": "Sezione Fonoteca nazionale svizzera",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039540",
+      "label": {
+        "german": "Dienst Infrastruktur und Technik",
+        "french": "Service Infrastructure et technique",
+        "italian": "Servizio Infrastruttura e tecnologia",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst Infrastruktur und Technik",
+        "french": "Service Infrastructure et technique",
+        "italian": "Servizio Infrastruttura e tecnologia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,158 @@
-{"id"=>"20018713", "name"=>{"german"=>"Höhenmodelle", "french"=>"Modèles altimétriques", "italian"=>"Modelli altimetrici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5532088", "surname"=>"Artuso", "givenName"=>"Roberto", "email"=>nil, "phone"=>"+41 58 46 90226", "function"=>{"german"=>"PzL Höhenmodelle", "french"=>"Resp. Modèles altimétriques", "italian"=>"Resp. modelli altimetrici", "english"=>"PzL Höhenmodelle"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4016860", "surname"=>"Moser", "givenName"=>"Patrik", "email"=>nil, "phone"=>"+41 58 46 90181", "function"=>{"german"=>"3D-Topograf/in / Stv. PzL THM", "french"=>"Topographe 3D / Rsp TBH", "italian"=>"Topografo/a 3D /Rsp modelli altimetrici", "english"=>"3D-Topograf/in / Stv. PzL THM"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"10003486", "label"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}, "name"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}}, {"id"=>"20018713", "label"=>{"german"=>"Höhenmodelle", "french"=>"Modèles altimétriques", "italian"=>"Modelli altimetrici", "english"=>""}, "name"=>{"german"=>"Höhenmodelle", "french"=>"Modèles altimétriques", "italian"=>"Modelli altimetrici", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018713",
+  "name": {
+    "german": "Höhenmodelle",
+    "french": "Modèles altimétriques",
+    "italian": "Modelli altimetrici",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5532088",
+      "surname": "Artuso",
+      "givenName": "Roberto",
+      "email": null,
+      "phone": "+41 58 46 90226",
+      "function": {
+        "german": "PzL Höhenmodelle",
+        "french": "Resp. Modèles altimétriques",
+        "italian": "Resp. modelli altimetrici",
+        "english": "PzL Höhenmodelle"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4016860",
+      "surname": "Moser",
+      "givenName": "Patrik",
+      "email": null,
+      "phone": "+41 58 46 90181",
+      "function": {
+        "german": "3D-Topograf/in / Stv. PzL THM",
+        "french": "Topographe 3D / Rsp TBH",
+        "italian": "Topografo/a 3D /Rsp modelli altimetrici",
+        "english": "3D-Topograf/in / Stv. PzL THM"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003486",
+      "label": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      },
+      "name": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018713",
+      "label": {
+        "german": "Höhenmodelle",
+        "french": "Modèles altimétriques",
+        "italian": "Modelli altimetrici",
+        "english": ""
+      },
+      "name": {
+        "german": "Höhenmodelle",
+        "french": "Modèles altimétriques",
+        "italian": "Modelli altimetrici",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

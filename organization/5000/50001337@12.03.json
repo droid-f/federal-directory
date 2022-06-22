@@ -1,1 +1,139 @@
-{"id"=>"50001337@12.03", "name"=>{"german"=>"Abteilung Chemie", "french"=>"Abteilung Chemie", "italian"=>"Abteilung Chemie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"50000011@12.03", "name"=>{"german"=>"Bereich Chem. und biolog. Metrologie", "french"=>"Bereich Chem. und biolog. Metrologie", "italian"=>"Bereich Chem. und biolog. Metrologie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50001383@12.03", "name"=>{"german"=>"Bereich Chemische Prüfungen & Beratungen", "french"=>"Bereich Chemische Prüfungen & Beratungen", "italian"=>"Bereich Chemische Prüfungen & Beratungen", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}, {"id"=>"50001337@12.03", "label"=>{"german"=>"Abteilung Chemie", "french"=>"Abteilung Chemie", "italian"=>"Abteilung Chemie", "english"=>""}, "name"=>{"german"=>"Abteilung Chemie", "french"=>"Abteilung Chemie", "italian"=>"Abteilung Chemie", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50001337@12.03",
+  "name": {
+    "german": "Abteilung Chemie",
+    "french": "Abteilung Chemie",
+    "italian": "Abteilung Chemie",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "50000011@12.03",
+      "name": {
+        "german": "Bereich Chem. und biolog. Metrologie",
+        "french": "Bereich Chem. und biolog. Metrologie",
+        "italian": "Bereich Chem. und biolog. Metrologie",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001383@12.03",
+      "name": {
+        "german": "Bereich Chemische Prüfungen & Beratungen",
+        "french": "Bereich Chemische Prüfungen & Beratungen",
+        "italian": "Bereich Chemische Prüfungen & Beratungen",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001337@12.03",
+      "label": {
+        "german": "Abteilung Chemie",
+        "french": "Abteilung Chemie",
+        "italian": "Abteilung Chemie",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Chemie",
+        "french": "Abteilung Chemie",
+        "italian": "Abteilung Chemie",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

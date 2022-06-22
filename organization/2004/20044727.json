@@ -1,1 +1,155 @@
-{"id"=>"20044727", "name"=>{"german"=>"Team FAK I", "french"=>"Equipe FAK I", "italian"=>"Team FAK I", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20022064", "label"=>{"german"=>"Führungs- und Aufklärungssysteme", "french"=>"Systèmes de conduite et d'exploration", "italian"=>"Sistemi di condotta e di esplorazione", "english"=>""}, "name"=>{"german"=>"Führungs- und Aufklärungssysteme", "french"=>"Systèmes de conduite et d'exploration", "italian"=>"Sistemi di condotta e di esplorazione", "english"=>""}}, {"id"=>"20004027", "label"=>{"german"=>"Kommunikationssysteme", "french"=>"Systèmes de communication", "italian"=>"Sistemi di communicazione", "english"=>""}, "name"=>{"german"=>"Kommunikationssysteme", "french"=>"Systèmes de communication", "italian"=>"Sistemi di communicazione", "english"=>""}}, {"id"=>"20044727", "label"=>{"german"=>"Team FAK I", "french"=>"Equipe FAK I", "italian"=>"Team FAK I", "english"=>""}, "name"=>{"german"=>"Team FAK I", "french"=>"Equipe FAK I", "italian"=>"Team FAK I", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20044727",
+  "name": {
+    "german": "Team FAK I",
+    "french": "Equipe FAK I",
+    "italian": "Team FAK I",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022064",
+      "label": {
+        "german": "Führungs- und Aufklärungssysteme",
+        "french": "Systèmes de conduite et d'exploration",
+        "italian": "Sistemi di condotta e di esplorazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungs- und Aufklärungssysteme",
+        "french": "Systèmes de conduite et d'exploration",
+        "italian": "Sistemi di condotta e di esplorazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004027",
+      "label": {
+        "german": "Kommunikationssysteme",
+        "french": "Systèmes de communication",
+        "italian": "Sistemi di communicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikationssysteme",
+        "french": "Systèmes de communication",
+        "italian": "Sistemi di communicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044727",
+      "label": {
+        "german": "Team FAK I",
+        "french": "Equipe FAK I",
+        "italian": "Team FAK I",
+        "english": ""
+      },
+      "name": {
+        "german": "Team FAK I",
+        "french": "Equipe FAK I",
+        "italian": "Team FAK I",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

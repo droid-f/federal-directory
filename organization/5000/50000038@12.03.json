@@ -1,1 +1,173 @@
-{"id"=>"50000038@12.03", "name"=>{"german"=>"Team Eichungen", "french"=>"Vérifications Trafic", "italian"=>"Verifiche Traffico", "english"=>"Verifications Traffic"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5830228", "surname"=>"Mendicino", "givenName"=>"Angelo", "email"=>nil, "phone"=>"+41583870752", "function"=>{"german"=>"Teamleiter/in", "french"=>"Chef d'équipe trafic/audiométrie", "italian"=>"Capo gruppo traffic/audiometria", "english"=>"Technician 1"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1159061", "surname"=>"Hofmann", "givenName"=>"Samuel", "email"=>nil, "phone"=>"+41583870930", "function"=>{"german"=>"Teamleiter/in", "french"=>"Collaborateur technique 2", "italian"=>"Esperto tecnico 2", "english"=>"Technical Expert 2"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}, {"id"=>"50000005@12.03", "label"=>{"german"=>"Abteilung Gesetzliche Metrologie", "french"=>"Abteilung Gesetzliche Metrologie", "italian"=>"Abteilung Gesetzliche Metrologie", "english"=>""}, "name"=>{"german"=>"Abteilung Gesetzliche Metrologie", "french"=>"Abteilung Gesetzliche Metrologie", "italian"=>"Abteilung Gesetzliche Metrologie", "english"=>""}}, {"id"=>"50000781@12.03", "label"=>{"german"=>"Bereich Eichungen und Prüfungen", "french"=>"Bereich Eichungen und Prüfungen", "italian"=>"Bereich Eichungen und Prüfungen", "english"=>""}, "name"=>{"german"=>"Bereich Eichungen und Prüfungen", "french"=>"Bereich Eichungen und Prüfungen", "italian"=>"Bereich Eichungen und Prüfungen", "english"=>""}}, {"id"=>"50000038@12.03", "label"=>{"german"=>"Team Eichungen", "french"=>"Vérifications Trafic", "italian"=>"Verifiche Traffico", "english"=>"Verifications Traffic"}, "name"=>{"german"=>"Team Eichungen", "french"=>"Vérifications Trafic", "italian"=>"Verifiche Traffico", "english"=>"Verifications Traffic"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50000038@12.03",
+  "name": {
+    "german": "Team Eichungen",
+    "french": "Vérifications Trafic",
+    "italian": "Verifiche Traffico",
+    "english": "Verifications Traffic"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5830228",
+      "surname": "Mendicino",
+      "givenName": "Angelo",
+      "email": null,
+      "phone": "+41583870752",
+      "function": {
+        "german": "Teamleiter/in",
+        "french": "Chef d'équipe trafic/audiométrie",
+        "italian": "Capo gruppo traffic/audiometria",
+        "english": "Technician 1"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1159061",
+      "surname": "Hofmann",
+      "givenName": "Samuel",
+      "email": null,
+      "phone": "+41583870930",
+      "function": {
+        "german": "Teamleiter/in",
+        "french": "Collaborateur technique 2",
+        "italian": "Esperto tecnico 2",
+        "english": "Technical Expert 2"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000005@12.03",
+      "label": {
+        "german": "Abteilung Gesetzliche Metrologie",
+        "french": "Abteilung Gesetzliche Metrologie",
+        "italian": "Abteilung Gesetzliche Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Gesetzliche Metrologie",
+        "french": "Abteilung Gesetzliche Metrologie",
+        "italian": "Abteilung Gesetzliche Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000781@12.03",
+      "label": {
+        "german": "Bereich Eichungen und Prüfungen",
+        "french": "Bereich Eichungen und Prüfungen",
+        "italian": "Bereich Eichungen und Prüfungen",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Eichungen und Prüfungen",
+        "french": "Bereich Eichungen und Prüfungen",
+        "italian": "Bereich Eichungen und Prüfungen",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000038@12.03",
+      "label": {
+        "german": "Team Eichungen",
+        "french": "Vérifications Trafic",
+        "italian": "Verifiche Traffico",
+        "english": "Verifications Traffic"
+      },
+      "name": {
+        "german": "Team Eichungen",
+        "french": "Vérifications Trafic",
+        "italian": "Verifiche Traffico",
+        "english": "Verifications Traffic"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

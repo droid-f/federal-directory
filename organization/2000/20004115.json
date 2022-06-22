@@ -1,1 +1,171 @@
-{"id"=>"20004115", "name"=>{"german"=>"Testpiloten", "french"=>"Pilotes d'essais", "italian"=>"Pilota collaudatore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Rüeggisingerstrasse 165", "postalCode"=>"6032", "location"=>"Emmen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7063901", "surname"=>"Engeler", "givenName"=>"Rudolf", "email"=>nil, "phone"=>"+41 58 46 14608", "function"=>{"german"=>"Stv Leiter FB Flugerprobung/Chef Testpilot", "french"=>"Remp. du chef du domaine spécialisé centre d'essais en vol / Pilote d'essais en chef", "italian"=>"Vice capo SS Centro prove di volo / capo pilota collaudatore", "english"=>"Stv L FB Flugerprobung/Chef Testpilot"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004019", "label"=>{"german"=>"Luftfahrtsysteme", "french"=>"Systèmes aéronautiques", "italian"=>"Sistemi aeronautici", "english"=>""}, "name"=>{"german"=>"Luftfahrtsysteme", "french"=>"Systèmes aéronautiques", "italian"=>"Sistemi aeronautici", "english"=>""}}, {"id"=>"20004114", "label"=>{"german"=>"Flugerprobung", "french"=>"Centre d'essais en vol", "italian"=>"Centro prove in volo", "english"=>""}, "name"=>{"german"=>"Flugerprobung", "french"=>"Centre d'essais en vol", "italian"=>"Centro prove in volo", "english"=>""}}, {"id"=>"20004115", "label"=>{"german"=>"Testpiloten", "french"=>"Pilotes d'essais", "italian"=>"Pilota collaudatore", "english"=>""}, "name"=>{"german"=>"Testpiloten", "french"=>"Pilotes d'essais", "italian"=>"Pilota collaudatore", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20004115",
+  "name": {
+    "german": "Testpiloten",
+    "french": "Pilotes d'essais",
+    "italian": "Pilota collaudatore",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Rüeggisingerstrasse 165",
+    "postalCode": "6032",
+    "location": "Emmen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7063901",
+      "surname": "Engeler",
+      "givenName": "Rudolf",
+      "email": null,
+      "phone": "+41 58 46 14608",
+      "function": {
+        "german": "Stv Leiter FB Flugerprobung/Chef Testpilot",
+        "french": "Remp. du chef du domaine spécialisé centre d'essais en vol / Pilote d'essais en chef",
+        "italian": "Vice capo SS Centro prove di volo / capo pilota collaudatore",
+        "english": "Stv L FB Flugerprobung/Chef Testpilot"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004019",
+      "label": {
+        "german": "Luftfahrtsysteme",
+        "french": "Systèmes aéronautiques",
+        "italian": "Sistemi aeronautici",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftfahrtsysteme",
+        "french": "Systèmes aéronautiques",
+        "italian": "Sistemi aeronautici",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004114",
+      "label": {
+        "german": "Flugerprobung",
+        "french": "Centre d'essais en vol",
+        "italian": "Centro prove in volo",
+        "english": ""
+      },
+      "name": {
+        "german": "Flugerprobung",
+        "french": "Centre d'essais en vol",
+        "italian": "Centro prove in volo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004115",
+      "label": {
+        "german": "Testpiloten",
+        "french": "Pilotes d'essais",
+        "italian": "Pilota collaudatore",
+        "english": ""
+      },
+      "name": {
+        "german": "Testpiloten",
+        "french": "Pilotes d'essais",
+        "italian": "Pilota collaudatore",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,228 @@
-{"id"=>"20024707", "name"=>{"german"=>"Fachstelle für Personensicherheitsprüfungen", "french"=>"Service spécialisé chargé des contrôles de sécurité relatifs aux personnes", "italian"=>"Servizio specializzato controlli di sicurezza relativi alle persone", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 467 89 99", "fax"=>"", "email"=>"fachstellepsp@gs-vbs.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20044227", "name"=>{"german"=>"Stabsstelle Recht", "french"=>"Service d'état-major Droit", "italian"=>"Servizio di stato maggiore Affari giuridici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024709", "name"=>{"german"=>"Prozesse und Systeme", "french"=>"Processus et systèmes", "italian"=>"Processi e sistemi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024710", "name"=>{"german"=>"Personensicherheitsprüfungen Zentrale", "french"=>"Centrale des contrôles de sécurité relatifs aux personnes", "italian"=>"Centrale controlli di sicurezza relativi alle persone", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027853", "name"=>{"german"=>"Personensicherheitsprüfung Rekrutierung", "french"=>"Contrôles de sécurité relatifs aux personnes, recrutement", "italian"=>"Controlli di sicurezza relativi alle persone nell'ambito del reclutamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6999871", "surname"=>"Zwahlen", "givenName"=>"Roger", "email"=>nil, "phone"=>"+41 58 46 63406", "function"=>{"german"=>"C Fachstelle Personensicherheitsprüfung", "french"=>"C Fachstelle Personensicherheitsprüfung", "italian"=>"C Fachstelle Personensicherheitsprüfung", "english"=>"C Fachstelle Personensicherheitsprüfung"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1XZX530MF", "surname"=>"Kadyrova", "givenName"=>"Zarena", "email"=>nil, "phone"=>"+41 58 46 53647", "function"=>{"german"=>"Mitarbeiterin Managementsupport", "french"=>"Fachspezialist/in Managementsupport", "italian"=>"Fachspezialist/in Managementsupport", "english"=>"Mitarbeiterin Managementsupport"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"20024707", "label"=>{"german"=>"Fachstelle für Personensicherheitsprüfungen", "french"=>"Service spécialisé chargé des contrôles de sécurité relatifs aux personnes", "italian"=>"Servizio specializzato controlli di sicurezza relativi alle persone", "english"=>""}, "name"=>{"german"=>"Fachstelle für Personensicherheitsprüfungen", "french"=>"Service spécialisé chargé des contrôles de sécurité relatifs aux personnes", "italian"=>"Servizio specializzato controlli di sicurezza relativi alle persone", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20024707",
+  "name": {
+    "german": "Fachstelle für Personensicherheitsprüfungen",
+    "french": "Service spécialisé chargé des contrôles de sécurité relatifs aux personnes",
+    "italian": "Servizio specializzato controlli di sicurezza relativi alle persone",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 467 89 99",
+    "fax": "",
+    "email": "fachstellepsp@gs-vbs.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20044227",
+      "name": {
+        "german": "Stabsstelle Recht",
+        "french": "Service d'état-major Droit",
+        "italian": "Servizio di stato maggiore Affari giuridici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024709",
+      "name": {
+        "german": "Prozesse und Systeme",
+        "french": "Processus et systèmes",
+        "italian": "Processi e sistemi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024710",
+      "name": {
+        "german": "Personensicherheitsprüfungen Zentrale",
+        "french": "Centrale des contrôles de sécurité relatifs aux personnes",
+        "italian": "Centrale controlli di sicurezza relativi alle persone",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027853",
+      "name": {
+        "german": "Personensicherheitsprüfung Rekrutierung",
+        "french": "Contrôles de sécurité relatifs aux personnes, recrutement",
+        "italian": "Controlli di sicurezza relativi alle persone nell'ambito del reclutamento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6999871",
+      "surname": "Zwahlen",
+      "givenName": "Roger",
+      "email": null,
+      "phone": "+41 58 46 63406",
+      "function": {
+        "german": "C Fachstelle Personensicherheitsprüfung",
+        "french": "C Fachstelle Personensicherheitsprüfung",
+        "italian": "C Fachstelle Personensicherheitsprüfung",
+        "english": "C Fachstelle Personensicherheitsprüfung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1XZX530MF",
+      "surname": "Kadyrova",
+      "givenName": "Zarena",
+      "email": null,
+      "phone": "+41 58 46 53647",
+      "function": {
+        "german": "Mitarbeiterin Managementsupport",
+        "french": "Fachspezialist/in Managementsupport",
+        "italian": "Fachspezialist/in Managementsupport",
+        "english": "Mitarbeiterin Managementsupport"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024707",
+      "label": {
+        "german": "Fachstelle für Personensicherheitsprüfungen",
+        "french": "Service spécialisé chargé des contrôles de sécurité relatifs aux personnes",
+        "italian": "Servizio specializzato controlli di sicurezza relativi alle persone",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachstelle für Personensicherheitsprüfungen",
+        "french": "Service spécialisé chargé des contrôles de sécurité relatifs aux personnes",
+        "italian": "Servizio specializzato controlli di sicurezza relativi alle persone",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,169 @@
-{"id"=>"20030369", "name"=>{"german"=>"Regulierungsbehörden Infrastruktur", "french"=>"Autorités de régulation des infrastructures", "italian"=>"Autorità di regolazione delle infrastrutture", "english"=>""}, "nameAbbr"=>{"german"=>"RegInfra", "french"=>"RegInfra", "italian"=>"RegInfra", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"www.uvek.admin.ch/uvek/de/home/uvek/organisation/regulierungsbehoerden.h tml", "french"=>"www.uvek.admin.ch/uvek/de/home/uvek/organisation/regulierungsbehoerden.h tml", "italian"=>"www.uvek.admin.ch/uvek/de/home/uvek/organisation/regulierungsbehoerden.h tml", "english"=>""}}, "children"=>[{"id"=>"20030953", "name"=>{"german"=>"Eidgenössische Kommunikationskommission", "french"=>"Commission fédérale de la communication", "italian"=>"Commissione federale delle comunicazioni", "english"=>""}, "nameAbbr"=>{"german"=>"ComCom", "french"=>"ComCom", "italian"=>"ComCom", "english"=>""}}, {"id"=>"20030954", "name"=>{"german"=>"Eidgenössische Elektrizitätskommission", "french"=>"Commission fédérale de l'électricité", "italian"=>"Commissione federale dell'energia elettrica", "english"=>""}, "nameAbbr"=>{"german"=>"ElCom", "french"=>"ElCom", "italian"=>"ElCom", "english"=>""}}, {"id"=>"20030955", "name"=>{"german"=>"Eidgenössische Postkommission", "french"=>"Commission fédérale de la poste", "italian"=>"Commissione federale delle poste", "english"=>""}, "nameAbbr"=>{"german"=>"PostCom", "french"=>"PostCom", "italian"=>"PostCom", "english"=>""}}, {"id"=>"20030956", "name"=>{"german"=>"Kommission für den Eisenbahnverkehr RailCom", "french"=>"Commission des chemins de fer RailCom", "italian"=>"Commissione del trasporto ferroviario ComFerr", "english"=>"Rail Transport Commission RailCom"}, "nameAbbr"=>{"german"=>"RailCom", "french"=>"RailCom", "italian"=>"RailCom", "english"=>""}}, {"id"=>"20030957", "name"=>{"german"=>"Unabhängige Beschwerdeinstanz für Radio und Fernsehen", "french"=>"Autorité indépendante d'examen des plaintes en matière de radio- télévision", "italian"=>"Autorità indipendente di ricorso in materia radiotelevisiva", "english"=>""}, "nameAbbr"=>{"german"=>"UBI", "french"=>"UBI", "italian"=>"UBI", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20030369", "label"=>{"german"=>"RegInfra", "french"=>"RegInfra", "italian"=>"RegInfra", "english"=>""}, "name"=>{"german"=>"Regulierungsbehörden Infrastruktur", "french"=>"Autorités de régulation des infrastructures", "italian"=>"Autorità di regolazione delle infrastrutture", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030369",
+  "name": {
+    "german": "Regulierungsbehörden Infrastruktur",
+    "french": "Autorités de régulation des infrastructures",
+    "italian": "Autorità di regolazione delle infrastrutture",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "RegInfra",
+    "french": "RegInfra",
+    "italian": "RegInfra",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "www.uvek.admin.ch/uvek/de/home/uvek/organisation/regulierungsbehoerden.h tml",
+      "french": "www.uvek.admin.ch/uvek/de/home/uvek/organisation/regulierungsbehoerden.h tml",
+      "italian": "www.uvek.admin.ch/uvek/de/home/uvek/organisation/regulierungsbehoerden.h tml",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20030953",
+      "name": {
+        "german": "Eidgenössische Kommunikationskommission",
+        "french": "Commission fédérale de la communication",
+        "italian": "Commissione federale delle comunicazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ComCom",
+        "french": "ComCom",
+        "italian": "ComCom",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030954",
+      "name": {
+        "german": "Eidgenössische Elektrizitätskommission",
+        "french": "Commission fédérale de l'électricité",
+        "italian": "Commissione federale dell'energia elettrica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ElCom",
+        "french": "ElCom",
+        "italian": "ElCom",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030955",
+      "name": {
+        "german": "Eidgenössische Postkommission",
+        "french": "Commission fédérale de la poste",
+        "italian": "Commissione federale delle poste",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "PostCom",
+        "french": "PostCom",
+        "italian": "PostCom",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030956",
+      "name": {
+        "german": "Kommission für den Eisenbahnverkehr RailCom",
+        "french": "Commission des chemins de fer RailCom",
+        "italian": "Commissione del trasporto ferroviario ComFerr",
+        "english": "Rail Transport Commission RailCom"
+      },
+      "nameAbbr": {
+        "german": "RailCom",
+        "french": "RailCom",
+        "italian": "RailCom",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030957",
+      "name": {
+        "german": "Unabhängige Beschwerdeinstanz für Radio und Fernsehen",
+        "french": "Autorité indépendante d'examen des plaintes en matière de radio- télévision",
+        "italian": "Autorità indipendente di ricorso in materia radiotelevisiva",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "UBI",
+        "french": "UBI",
+        "italian": "UBI",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030369",
+      "label": {
+        "german": "RegInfra",
+        "french": "RegInfra",
+        "italian": "RegInfra",
+        "english": ""
+      },
+      "name": {
+        "german": "Regulierungsbehörden Infrastruktur",
+        "french": "Autorités de régulation des infrastructures",
+        "italian": "Autorità di regolazione delle infrastrutture",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

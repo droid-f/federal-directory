@@ -1,1 +1,169 @@
-{"id"=>"20030765", "name"=>{"german"=>"Kdt Stv / Stab FU Br 41", "french"=>"Rempl cdt / EM aide cdmt br 41", "italian"=>"Sost cdt / SM br aiuto cond 41", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kasernenstrasse, Kommandohaus", "postalCode"=>"8180", "location"=>"Bülach", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20040666", "name"=>{"german"=>"Fachbereich Einsatz", "french"=>"Domaine spécialisé Engagement", "italian"=>"Settore specialistico impiego", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"10009869", "label"=>{"german"=>"FUB", "french"=>"BAC", "italian"=>"BAC", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbasis", "french"=>"Base d'aide au commandement", "italian"=>"Base d'aiuto alla condotta", "english"=>""}}, {"id"=>"20030608", "label"=>{"german"=>"Führungsunterstützungsbrigade 41 / SKS", "french"=>"Br aide cdmt 41 / SIS", "italian"=>"Brigata d'aiuto alla condotta 41 / SIS", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbrigade 41 / SKS", "french"=>"Br aide cdmt 41 / SIS", "italian"=>"Brigata d'aiuto alla condotta 41 / SIS", "english"=>""}}, {"id"=>"20030765", "label"=>{"german"=>"Kdt Stv / Stab FU Br 41", "french"=>"Rempl cdt / EM aide cdmt br 41", "italian"=>"Sost cdt / SM br aiuto cond 41", "english"=>""}, "name"=>{"german"=>"Kdt Stv / Stab FU Br 41", "french"=>"Rempl cdt / EM aide cdmt br 41", "italian"=>"Sost cdt / SM br aiuto cond 41", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030765",
+  "name": {
+    "german": "Kdt Stv / Stab FU Br 41",
+    "french": "Rempl cdt / EM aide cdmt br 41",
+    "italian": "Sost cdt / SM br aiuto cond 41",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kasernenstrasse, Kommandohaus",
+    "postalCode": "8180",
+    "location": "Bülach",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20040666",
+      "name": {
+        "german": "Fachbereich Einsatz",
+        "french": "Domaine spécialisé Engagement",
+        "italian": "Settore specialistico impiego",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009869",
+      "label": {
+        "german": "FUB",
+        "french": "BAC",
+        "italian": "BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbasis",
+        "french": "Base d'aide au commandement",
+        "italian": "Base d'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030608",
+      "label": {
+        "german": "Führungsunterstützungsbrigade 41 / SKS",
+        "french": "Br aide cdmt 41 / SIS",
+        "italian": "Brigata d'aiuto alla condotta 41 / SIS",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbrigade 41 / SKS",
+        "french": "Br aide cdmt 41 / SIS",
+        "italian": "Brigata d'aiuto alla condotta 41 / SIS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030765",
+      "label": {
+        "german": "Kdt Stv / Stab FU Br 41",
+        "french": "Rempl cdt / EM aide cdmt br 41",
+        "italian": "Sost cdt / SM br aiuto cond 41",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdt Stv / Stab FU Br 41",
+        "french": "Rempl cdt / EM aide cdmt br 41",
+        "italian": "Sost cdt / SM br aiuto cond 41",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

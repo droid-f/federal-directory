@@ -1,1 +1,155 @@
-{"id"=>"20000451", "name"=>{"german"=>"Bereich Gewalt", "french"=>"Domaine Violence", "italian"=>"Ambito Violenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarztorstrasse 51", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20010401", "name"=>{"german"=>"Finanzen", "french"=>"Finances", "italian"=>"Finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8794760", "surname"=>"Beeli", "givenName"=>"Gian", "email"=>nil, "phone"=>"+41 58 48 18533", "function"=>{"german"=>"Leiter/in Fachbereich Gewalt", "french"=>"Responsable Domaine Violence", "italian"=>"Responsabile Ambito Violenza", "english"=>"Leiter/in Fachbereich Gewalt"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10002215", "label"=>{"german"=>"EBG", "french"=>"BFEG", "italian"=>"UFU", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Büro für die Gleichstellung von Frau und Mann", "french"=>"Bureau fédéral de l'égalité entre femmes et hommes", "italian"=>"Ufficio federale per l'uguaglianza fra donna e uomo", "english"=>""}}, {"id"=>"10008741", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20000451", "label"=>{"german"=>"Bereich Gewalt", "french"=>"Domaine Violence", "italian"=>"Ambito Violenza", "english"=>""}, "name"=>{"german"=>"Bereich Gewalt", "french"=>"Domaine Violence", "italian"=>"Ambito Violenza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000451",
+  "name": {
+    "german": "Bereich Gewalt",
+    "french": "Domaine Violence",
+    "italian": "Ambito Violenza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarztorstrasse 51",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20010401",
+      "name": {
+        "german": "Finanzen",
+        "french": "Finances",
+        "italian": "Finanze",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8794760",
+      "surname": "Beeli",
+      "givenName": "Gian",
+      "email": null,
+      "phone": "+41 58 48 18533",
+      "function": {
+        "german": "Leiter/in Fachbereich Gewalt",
+        "french": "Responsable Domaine Violence",
+        "italian": "Responsabile Ambito Violenza",
+        "english": "Leiter/in Fachbereich Gewalt"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002215",
+      "label": {
+        "german": "EBG",
+        "french": "BFEG",
+        "italian": "UFU",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Büro für die Gleichstellung von Frau und Mann",
+        "french": "Bureau fédéral de l'égalité entre femmes et hommes",
+        "italian": "Ufficio federale per l'uguaglianza fra donna e uomo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008741",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000451",
+      "label": {
+        "german": "Bereich Gewalt",
+        "french": "Domaine Violence",
+        "italian": "Ambito Violenza",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Gewalt",
+        "french": "Domaine Violence",
+        "italian": "Ambito Violenza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

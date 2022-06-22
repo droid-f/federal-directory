@@ -1,1 +1,188 @@
-{"id"=>"10012590", "name"=>{"german"=>"Finanzen GS-VBS", "french"=>"Finances du SG-DDPS", "italian"=>"Finanze della SG-DDPS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Maulbeerstrasse 9", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3658859", "surname"=>"Kaiser", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 48 03038", "function"=>{"german"=>"C Finanzen GS-VBS", "french"=>"C Finanzen GS-VBS", "italian"=>"C Finanzen GS-VBS", "english"=>"C Finanzen GS-VBS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1089671", "surname"=>"Neuenschwander", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 45088", "function"=>{"german"=>"Stv C Fi GS-VBS / Controller/in Fi GS", "french"=>"Stv C Fi GS-VBS / Controller/in Fi GS", "italian"=>"Stv C Fi GS-VBS / Controller/in Fi GS", "english"=>"Stv C Fi GS-VBS / Controller/in Fi GS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"10003759", "label"=>{"german"=>"Finanzen VBS", "french"=>"Finances DDPS", "italian"=>"Finanze DDPS", "english"=>""}, "name"=>{"german"=>"Finanzen VBS", "french"=>"Finances DDPS", "italian"=>"Finanze DDPS", "english"=>""}}, {"id"=>"10012590", "label"=>{"german"=>"Finanzen GS-VBS", "french"=>"Finances du SG-DDPS", "italian"=>"Finanze della SG-DDPS", "english"=>""}, "name"=>{"german"=>"Finanzen GS-VBS", "french"=>"Finances du SG-DDPS", "italian"=>"Finanze della SG-DDPS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10012590",
+  "name": {
+    "german": "Finanzen GS-VBS",
+    "french": "Finances du SG-DDPS",
+    "italian": "Finanze della SG-DDPS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Maulbeerstrasse 9",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3658859",
+      "surname": "Kaiser",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 48 03038",
+      "function": {
+        "german": "C Finanzen GS-VBS",
+        "french": "C Finanzen GS-VBS",
+        "italian": "C Finanzen GS-VBS",
+        "english": "C Finanzen GS-VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1089671",
+      "surname": "Neuenschwander",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 45088",
+      "function": {
+        "german": "Stv C Fi GS-VBS / Controller/in Fi GS",
+        "french": "Stv C Fi GS-VBS / Controller/in Fi GS",
+        "italian": "Stv C Fi GS-VBS / Controller/in Fi GS",
+        "english": "Stv C Fi GS-VBS / Controller/in Fi GS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003759",
+      "label": {
+        "german": "Finanzen VBS",
+        "french": "Finances DDPS",
+        "italian": "Finanze DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen VBS",
+        "french": "Finances DDPS",
+        "italian": "Finanze DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012590",
+      "label": {
+        "german": "Finanzen GS-VBS",
+        "french": "Finances du SG-DDPS",
+        "italian": "Finanze della SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen GS-VBS",
+        "french": "Finances du SG-DDPS",
+        "italian": "Finanze della SG-DDPS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

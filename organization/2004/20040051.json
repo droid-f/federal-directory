@@ -1,1 +1,232 @@
-{"id"=>"20040051", "name"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20048735", "name"=>{"german"=>"Geo Services Defence u. Security", "french"=>"Geo Services Defence et Security", "italian"=>"Geo Services Defence e Security", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040052", "name"=>{"german"=>"Geoinformation Koordination u. Steuerung", "french"=>"Géoinformation Coordination et Gestion", "italian"=>"Geoinformazione coordinazione e gestione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040054", "name"=>{"german"=>"Geodateninfrastrukturen Entw. u. Betr.", "french"=>"Infrastructures de données géographiques", "italian"=>"Infrastrutture di Dati Geografici IDG", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040058", "name"=>{"german"=>"Geoinformatik", "french"=>"Géoinformatique", "italian"=>"Geoinformatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049851", "name"=>{"german"=>"Stab", "french"=>"Architecture d'entreprise", "italian"=>"Architettura aziendale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040053", "name"=>{"german"=>"Unternehmensarchitektur", "french"=>"Architecture d'entreprise", "italian"=>"Architettura aziendale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8492582", "surname"=>"Buogo", "givenName"=>"Alain", "email"=>nil, "phone"=>"+41 58 46 90401", "function"=>{"german"=>"Stv. Direktor/in und BL KOGIS", "french"=>"Ds et Resp. du domaine COSIG", "italian"=>"Direttore/direttrice supplente e R di CO", "english"=>"Stv. Direktor/in und BL KOGIS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7055017", "surname"=>"Buser", "givenName"=>"Rolf", "email"=>nil, "phone"=>"+41 58 46 90403", "function"=>{"german"=>"PzL Geoinfo IGKS / Stv. BL KOGIS", "french"=>"Rp IGKS / Rsd COSIG", "italian"=>"Rp IGKS / Rss di COSIG", "english"=>"PzL Geoinfo IGKS / Stv. BL KOGIS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"20040051", "label"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}, "name"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20040051",
+  "name": {
+    "german": "Koordination, Geo-Information und Services KOGIS",
+    "french": "Coordination, services et informations géographiques COSIG",
+    "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20048735",
+      "name": {
+        "german": "Geo Services Defence u. Security",
+        "french": "Geo Services Defence et Security",
+        "italian": "Geo Services Defence e Security",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040052",
+      "name": {
+        "german": "Geoinformation Koordination u. Steuerung",
+        "french": "Géoinformation Coordination et Gestion",
+        "italian": "Geoinformazione coordinazione e gestione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040054",
+      "name": {
+        "german": "Geodateninfrastrukturen Entw. u. Betr.",
+        "french": "Infrastructures de données géographiques",
+        "italian": "Infrastrutture di Dati Geografici IDG",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040058",
+      "name": {
+        "german": "Geoinformatik",
+        "french": "Géoinformatique",
+        "italian": "Geoinformatica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049851",
+      "name": {
+        "german": "Stab",
+        "french": "Architecture d'entreprise",
+        "italian": "Architettura aziendale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040053",
+      "name": {
+        "german": "Unternehmensarchitektur",
+        "french": "Architecture d'entreprise",
+        "italian": "Architettura aziendale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8492582",
+      "surname": "Buogo",
+      "givenName": "Alain",
+      "email": null,
+      "phone": "+41 58 46 90401",
+      "function": {
+        "german": "Stv. Direktor/in und BL KOGIS",
+        "french": "Ds et Resp. du domaine COSIG",
+        "italian": "Direttore/direttrice supplente e R di CO",
+        "english": "Stv. Direktor/in und BL KOGIS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7055017",
+      "surname": "Buser",
+      "givenName": "Rolf",
+      "email": null,
+      "phone": "+41 58 46 90403",
+      "function": {
+        "german": "PzL Geoinfo IGKS / Stv. BL KOGIS",
+        "french": "Rp IGKS / Rsd COSIG",
+        "italian": "Rp IGKS / Rss di COSIG",
+        "english": "PzL Geoinfo IGKS / Stv. BL KOGIS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040051",
+      "label": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      },
+      "name": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

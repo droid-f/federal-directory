@@ -1,1 +1,247 @@
-{"id"=>"10012850", "name"=>{"german"=>"Rekrutierungszentrum Aarau", "french"=>"Centre de recrutement Aarau", "italian"=>"Centro di reclutamento Aarau", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Laurenzenvorstadt", "postalCode"=>"5001", "location"=>"Aarau", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042598", "name"=>{"german"=>"Kommandant Stv Rekr Zen Aarau", "french"=>"Rempl commandant Cen recr Aarau", "italian"=>"Sost comandante Cen recl Aarau", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017206", "name"=>{"german"=>"Führungsunterstützung Rekr Zen Aarau", "french"=>"Aide au commandement Cen recr Aarauh", "italian"=>"Aiuto alla condotta Cen recl Aarau", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017205", "name"=>{"german"=>"Psychologen Rekr Zen Aarau", "french"=>"Psychologues Cen recr Aarau", "italian"=>"Psicologi Cen recl Aarau", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5084584", "surname"=>"Hauri", "givenName"=>"Jörg", "email"=>nil, "phone"=>"+41 58 48 47333", "function"=>{"german"=>"Kommandant Rekrutierungszentrum", "french"=>"Commandant Centre de recrutement", "italian"=>"Comandante centro di reclutamento", "english"=>"Kommandant Rekrutierungszentrum"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2697589", "surname"=>"Rauber", "givenName"=>"René", "email"=>nil, "phone"=>"+41 58 48 48779", "function"=>{"german"=>"Stv Kdt Rekr Zen", "french"=>"Rempl cdt cen recr", "italian"=>"Sost cdt cen recl", "english"=>"Stv Kdt Rekr Zen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"10004760", "label"=>{"german"=>"PERSA", "french"=>"PERSA", "italian"=>"PERSA", "english"=>""}, "name"=>{"german"=>"Personelles der Armee", "french"=>"Personnel de l'armée", "italian"=>"Personale dell'esercito", "english"=>""}}, {"id"=>"10004767", "label"=>{"german"=>"Rekrutierung", "french"=>"Recrutement", "italian"=>"Reclutamento", "english"=>""}, "name"=>{"german"=>"Rekrutierung", "french"=>"Recrutement", "italian"=>"Reclutamento", "english"=>""}}, {"id"=>"10012850", "label"=>{"german"=>"Rekrutierungszentrum Aarau", "french"=>"Centre de recrutement Aarau", "italian"=>"Centro di reclutamento Aarau", "english"=>""}, "name"=>{"german"=>"Rekrutierungszentrum Aarau", "french"=>"Centre de recrutement Aarau", "italian"=>"Centro di reclutamento Aarau", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10012850",
+  "name": {
+    "german": "Rekrutierungszentrum Aarau",
+    "french": "Centre de recrutement Aarau",
+    "italian": "Centro di reclutamento Aarau",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Laurenzenvorstadt",
+    "postalCode": "5001",
+    "location": "Aarau",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042598",
+      "name": {
+        "german": "Kommandant Stv Rekr Zen Aarau",
+        "french": "Rempl commandant Cen recr Aarau",
+        "italian": "Sost comandante Cen recl Aarau",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017206",
+      "name": {
+        "german": "Führungsunterstützung Rekr Zen Aarau",
+        "french": "Aide au commandement Cen recr Aarauh",
+        "italian": "Aiuto alla condotta Cen recl Aarau",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017205",
+      "name": {
+        "german": "Psychologen Rekr Zen Aarau",
+        "french": "Psychologues Cen recr Aarau",
+        "italian": "Psicologi Cen recl Aarau",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5084584",
+      "surname": "Hauri",
+      "givenName": "Jörg",
+      "email": null,
+      "phone": "+41 58 48 47333",
+      "function": {
+        "german": "Kommandant Rekrutierungszentrum",
+        "french": "Commandant Centre de recrutement",
+        "italian": "Comandante centro di reclutamento",
+        "english": "Kommandant Rekrutierungszentrum"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2697589",
+      "surname": "Rauber",
+      "givenName": "René",
+      "email": null,
+      "phone": "+41 58 48 48779",
+      "function": {
+        "german": "Stv Kdt Rekr Zen",
+        "french": "Rempl cdt cen recr",
+        "italian": "Sost cdt cen recl",
+        "english": "Stv Kdt Rekr Zen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004760",
+      "label": {
+        "german": "PERSA",
+        "french": "PERSA",
+        "italian": "PERSA",
+        "english": ""
+      },
+      "name": {
+        "german": "Personelles der Armee",
+        "french": "Personnel de l'armée",
+        "italian": "Personale dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004767",
+      "label": {
+        "german": "Rekrutierung",
+        "french": "Recrutement",
+        "italian": "Reclutamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Rekrutierung",
+        "french": "Recrutement",
+        "italian": "Reclutamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012850",
+      "label": {
+        "german": "Rekrutierungszentrum Aarau",
+        "french": "Centre de recrutement Aarau",
+        "italian": "Centro di reclutamento Aarau",
+        "english": ""
+      },
+      "name": {
+        "german": "Rekrutierungszentrum Aarau",
+        "french": "Centre de recrutement Aarau",
+        "italian": "Centro di reclutamento Aarau",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,270 @@
-{"id"=>"10003300", "name"=>{"german"=>"Allgemeines Recht", "french"=>"Droit général", "italian"=>"Diritto generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1288982", "surname"=>"Künzler", "givenName"=>"Eugen", "email"=>nil, "phone"=>"+41 58 46 26015", "function"=>{"german"=>"Stv. Abteilungsleiter - Leiter Allgemeines Recht", "french"=>"Chef suppléant de la division - Chef Droit général", "italian"=>"Capo sostituto della divisione - Capo diritto generale", "english"=>"stv. Abt.L. - Leiter Allg. Recht"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8762863", "surname"=>"Zihler", "givenName"=>"Florian", "email"=>nil, "phone"=>"+41 58 48 39717", "function"=>{"german"=>"stv. Leiter", "french"=>"Chef suppléant", "italian"=>"Capo sostituto", "english"=>"stv. Leiter"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1559310", "surname"=>"Bertone", "givenName"=>"Alessandro", "email"=>nil, "phone"=>"+41 58 46 97620", "function"=>{"german"=>"Jurist", "french"=>"Juriste", "italian"=>"Avvocato", "english"=>"Jurist"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6008110", "surname"=>"Boucher", "givenName"=>"Natascha", "email"=>nil, "phone"=>"+41 58 48 19566", "function"=>{"german"=>"Juristin", "french"=>"Juriste", "italian"=>"Avvocato", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4371056", "surname"=>"Hamm", "givenName"=>"Janka", "email"=>nil, "phone"=>"+41 58 46 37338", "function"=>{"german"=>"Juristin", "french"=>"Juriste", "italian"=>"Avvocato", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5928303", "surname"=>"Rüetschi", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 46 26092", "function"=>{"german"=>"Juristin", "french"=>"Juriste", "italian"=>"Avvocato", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XP2H07P0", "surname"=>"Schmid", "givenName"=>"Cornelia", "email"=>nil, "phone"=>"+41 58 46 59857", "function"=>{"german"=>"Juristin", "french"=>"Juriste", "italian"=>"Avvocato", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8134988", "surname"=>"Vetter", "givenName"=>"Jonas", "email"=>nil, "phone"=>"+41 58 46 11619", "function"=>{"german"=>"Jurist", "french"=>"Juriste", "italian"=>"Avvocato", "english"=>"Jurist"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3527048", "surname"=>"Zbinden Meinhardt", "givenName"=>"Andrea", "email"=>nil, "phone"=>"+41 58 46 96153", "function"=>{"german"=>"Juristin", "french"=>"Juriste", "italian"=>"Avvocato", "english"=>"Juristin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003299", "label"=>{"german"=>"Recht und Risikomanagement", "french"=>"Droit et gestion des risques", "italian"=>"Diritto e gestione dei rischi", "english"=>""}, "name"=>{"german"=>"Recht und Risikomanagement", "french"=>"Droit et gestion des risques", "italian"=>"Diritto e gestione dei rischi", "english"=>""}}, {"id"=>"10003300", "label"=>{"german"=>"Allgemeines Recht", "french"=>"Droit général", "italian"=>"Diritto generale", "english"=>""}, "name"=>{"german"=>"Allgemeines Recht", "french"=>"Droit général", "italian"=>"Diritto generale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003300",
+  "name": {
+    "german": "Allgemeines Recht",
+    "french": "Droit général",
+    "italian": "Diritto generale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1288982",
+      "surname": "Künzler",
+      "givenName": "Eugen",
+      "email": null,
+      "phone": "+41 58 46 26015",
+      "function": {
+        "german": "Stv. Abteilungsleiter - Leiter Allgemeines Recht",
+        "french": "Chef suppléant de la division - Chef Droit général",
+        "italian": "Capo sostituto della divisione - Capo diritto generale",
+        "english": "stv. Abt.L. - Leiter Allg. Recht"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8762863",
+      "surname": "Zihler",
+      "givenName": "Florian",
+      "email": null,
+      "phone": "+41 58 48 39717",
+      "function": {
+        "german": "stv. Leiter",
+        "french": "Chef suppléant",
+        "italian": "Capo sostituto",
+        "english": "stv. Leiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1559310",
+      "surname": "Bertone",
+      "givenName": "Alessandro",
+      "email": null,
+      "phone": "+41 58 46 97620",
+      "function": {
+        "german": "Jurist",
+        "french": "Juriste",
+        "italian": "Avvocato",
+        "english": "Jurist"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6008110",
+      "surname": "Boucher",
+      "givenName": "Natascha",
+      "email": null,
+      "phone": "+41 58 48 19566",
+      "function": {
+        "german": "Juristin",
+        "french": "Juriste",
+        "italian": "Avvocato",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4371056",
+      "surname": "Hamm",
+      "givenName": "Janka",
+      "email": null,
+      "phone": "+41 58 46 37338",
+      "function": {
+        "german": "Juristin",
+        "french": "Juriste",
+        "italian": "Avvocato",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5928303",
+      "surname": "Rüetschi",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 46 26092",
+      "function": {
+        "german": "Juristin",
+        "french": "Juriste",
+        "italian": "Avvocato",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XP2H07P0",
+      "surname": "Schmid",
+      "givenName": "Cornelia",
+      "email": null,
+      "phone": "+41 58 46 59857",
+      "function": {
+        "german": "Juristin",
+        "french": "Juriste",
+        "italian": "Avvocato",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8134988",
+      "surname": "Vetter",
+      "givenName": "Jonas",
+      "email": null,
+      "phone": "+41 58 46 11619",
+      "function": {
+        "german": "Jurist",
+        "french": "Juriste",
+        "italian": "Avvocato",
+        "english": "Jurist"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3527048",
+      "surname": "Zbinden Meinhardt",
+      "givenName": "Andrea",
+      "email": null,
+      "phone": "+41 58 46 96153",
+      "function": {
+        "german": "Juristin",
+        "french": "Juriste",
+        "italian": "Avvocato",
+        "english": "Juristin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003299",
+      "label": {
+        "german": "Recht und Risikomanagement",
+        "french": "Droit et gestion des risques",
+        "italian": "Diritto e gestione dei rischi",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht und Risikomanagement",
+        "french": "Droit et gestion des risques",
+        "italian": "Diritto e gestione dei rischi",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003300",
+      "label": {
+        "german": "Allgemeines Recht",
+        "french": "Droit général",
+        "italian": "Diritto generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Allgemeines Recht",
+        "french": "Droit général",
+        "italian": "Diritto generale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

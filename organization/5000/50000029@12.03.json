@@ -1,1 +1,156 @@
-{"id"=>"50000029@12.03", "name"=>{"german"=>"Labor Ionisierende Strahlung", "french"=>"Labor Ionisierende Strahlung", "italian"=>"Labor Ionisierende Strahlung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9471175", "surname"=>"Peier", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41583870563", "function"=>{"german"=>"Laborleiter/in 2", "french"=>"Chef de laboratoire 1", "italian"=>"Capo di laboratorio 1", "english"=>"Head of Laboratory 1"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}, {"id"=>"50000004@12.03", "label"=>{"german"=>"Abteilung Physik", "french"=>"Abteilung Physik", "italian"=>"Abteilung Physik", "english"=>""}, "name"=>{"german"=>"Abteilung Physik", "french"=>"Abteilung Physik", "italian"=>"Abteilung Physik", "english"=>""}}, {"id"=>"50000008@12.03", "label"=>{"german"=>"Bereich mech. Grössen/ion. Strahlung", "french"=>"Bereich mech. Grössen/ion. Strahlung", "italian"=>"Bereich mech. Grössen/ion. Strahlung", "english"=>""}, "name"=>{"german"=>"Bereich mech. Grössen/ion. Strahlung", "french"=>"Bereich mech. Grössen/ion. Strahlung", "italian"=>"Bereich mech. Grössen/ion. Strahlung", "english"=>""}}, {"id"=>"50000029@12.03", "label"=>{"german"=>"Labor Ionisierende Strahlung", "french"=>"Labor Ionisierende Strahlung", "italian"=>"Labor Ionisierende Strahlung", "english"=>""}, "name"=>{"german"=>"Labor Ionisierende Strahlung", "french"=>"Labor Ionisierende Strahlung", "italian"=>"Labor Ionisierende Strahlung", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50000029@12.03",
+  "name": {
+    "german": "Labor Ionisierende Strahlung",
+    "french": "Labor Ionisierende Strahlung",
+    "italian": "Labor Ionisierende Strahlung",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9471175",
+      "surname": "Peier",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41583870563",
+      "function": {
+        "german": "Laborleiter/in 2",
+        "french": "Chef de laboratoire 1",
+        "italian": "Capo di laboratorio 1",
+        "english": "Head of Laboratory 1"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000004@12.03",
+      "label": {
+        "german": "Abteilung Physik",
+        "french": "Abteilung Physik",
+        "italian": "Abteilung Physik",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Physik",
+        "french": "Abteilung Physik",
+        "italian": "Abteilung Physik",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000008@12.03",
+      "label": {
+        "german": "Bereich mech. Grössen/ion. Strahlung",
+        "french": "Bereich mech. Grössen/ion. Strahlung",
+        "italian": "Bereich mech. Grössen/ion. Strahlung",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich mech. Grössen/ion. Strahlung",
+        "french": "Bereich mech. Grössen/ion. Strahlung",
+        "italian": "Bereich mech. Grössen/ion. Strahlung",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000029@12.03",
+      "label": {
+        "german": "Labor Ionisierende Strahlung",
+        "french": "Labor Ionisierende Strahlung",
+        "italian": "Labor Ionisierende Strahlung",
+        "english": ""
+      },
+      "name": {
+        "german": "Labor Ionisierende Strahlung",
+        "french": "Labor Ionisierende Strahlung",
+        "italian": "Labor Ionisierende Strahlung",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,170 @@
-{"id"=>"20003961", "name"=>{"german"=>"Auftragssteuerung", "french"=>"Gestionnaire de mandats", "italian"=>"Gestione mandati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20003953", "label"=>{"german"=>"Armeeapotheke", "french"=>"Pharmacie de l'armée", "italian"=>"Farmacia dell'esercito", "english"=>""}, "name"=>{"german"=>"Armeeapotheke", "french"=>"Pharmacie de l'armée", "italian"=>"Farmacia dell'esercito", "english"=>""}}, {"id"=>"20003954", "label"=>{"german"=>"Logistik Armeeapotheke", "french"=>"Logistique Pharmacie de l'armée", "italian"=>"Logistica Farmacia dell'esercito", "english"=>""}, "name"=>{"german"=>"Logistik Armeeapotheke", "french"=>"Logistique Pharmacie de l'armée", "italian"=>"Logistica Farmacia dell'esercito", "english"=>""}}, {"id"=>"20003961", "label"=>{"german"=>"Auftragssteuerung", "french"=>"Gestionnaire de mandats", "italian"=>"Gestione mandati", "english"=>""}, "name"=>{"german"=>"Auftragssteuerung", "french"=>"Gestionnaire de mandats", "italian"=>"Gestione mandati", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003961",
+  "name": {
+    "german": "Auftragssteuerung",
+    "french": "Gestionnaire de mandats",
+    "italian": "Gestione mandati",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003953",
+      "label": {
+        "german": "Armeeapotheke",
+        "french": "Pharmacie de l'armée",
+        "italian": "Farmacia dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeeapotheke",
+        "french": "Pharmacie de l'armée",
+        "italian": "Farmacia dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003954",
+      "label": {
+        "german": "Logistik Armeeapotheke",
+        "french": "Logistique Pharmacie de l'armée",
+        "italian": "Logistica Farmacia dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistik Armeeapotheke",
+        "french": "Logistique Pharmacie de l'armée",
+        "italian": "Logistica Farmacia dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003961",
+      "label": {
+        "german": "Auftragssteuerung",
+        "french": "Gestionnaire de mandats",
+        "italian": "Gestione mandati",
+        "english": ""
+      },
+      "name": {
+        "german": "Auftragssteuerung",
+        "french": "Gestionnaire de mandats",
+        "italian": "Gestione mandati",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

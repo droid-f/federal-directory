@@ -1,1 +1,255 @@
-{"id"=>"12060405@12.06", "name"=>{"german"=>"Nachhaltige Entwicklung & Internationale Kooperation", "french"=>"Développement durable & coopération internationale", "italian"=>"Sviluppo sostenibile & cooperazione internazionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>168, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-0072853", "surname"=>"Girsberger", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 31 377 72 11", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>169, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-3240503", "surname"=>"Hirsig", "givenName"=>"Nathalie", "email"=>nil, "phone"=>"+41 31 377 72 03", "function"=>{"german"=>"Stellvertretung", "french"=>"Stellvertretung", "italian"=>"Stellvertretung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8975458", "surname"=>"Allemann-Solowjowa", "givenName"=>"Olga", "email"=>nil, "phone"=>"+41 31 377 72 12", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-3037269", "surname"=>"Bauer", "givenName"=>"Georges André", "email"=>nil, "phone"=>"+41 31 377 72 14", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-9972656", "surname"=>"D'Alessandro", "givenName"=>"Marco", "email"=>nil, "phone"=>"+41 31 377 72 74", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-2227148", "surname"=>"Ghafouri", "givenName"=>"Zeinab", "email"=>nil, "phone"=>"+41 31 377 72 08", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-4745912", "surname"=>"Meili", "givenName"=>"Reto", "email"=>nil, "phone"=>"+41 31 377 72 71", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-5224345", "surname"=>"Nightingale", "givenName"=>"Alexandra", "email"=>nil, "phone"=>"+41 31 377 72 05", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-1Y2JN28RB", "surname"=>"Richmond", "givenName"=>"James", "email"=>nil, "phone"=>"+41 31 377 72 09", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060400@12.06", "label"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}}, {"id"=>"12060405@12.06", "label"=>{"german"=>"Nachhaltige Entwicklung & Internationale Kooperation", "french"=>"Développement durable & coopération internationale", "italian"=>"Sviluppo sostenibile & cooperazione internazionale", "english"=>""}, "name"=>{"german"=>"Nachhaltige Entwicklung & Internationale Kooperation", "french"=>"Développement durable & coopération internationale", "italian"=>"Sviluppo sostenibile & cooperazione internazionale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060405@12.06",
+  "name": {
+    "german": "Nachhaltige Entwicklung & Internationale Kooperation",
+    "french": "Développement durable & coopération internationale",
+    "italian": "Sviluppo sostenibile & cooperazione internazionale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 168,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-0072853",
+      "surname": "Girsberger",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 31 377 72 11",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 169,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-3240503",
+      "surname": "Hirsig",
+      "givenName": "Nathalie",
+      "email": null,
+      "phone": "+41 31 377 72 03",
+      "function": {
+        "german": "Stellvertretung",
+        "french": "Stellvertretung",
+        "italian": "Stellvertretung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8975458",
+      "surname": "Allemann-Solowjowa",
+      "givenName": "Olga",
+      "email": null,
+      "phone": "+41 31 377 72 12",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3037269",
+      "surname": "Bauer",
+      "givenName": "Georges André",
+      "email": null,
+      "phone": "+41 31 377 72 14",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9972656",
+      "surname": "D'Alessandro",
+      "givenName": "Marco",
+      "email": null,
+      "phone": "+41 31 377 72 74",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2227148",
+      "surname": "Ghafouri",
+      "givenName": "Zeinab",
+      "email": null,
+      "phone": "+41 31 377 72 08",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4745912",
+      "surname": "Meili",
+      "givenName": "Reto",
+      "email": null,
+      "phone": "+41 31 377 72 71",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5224345",
+      "surname": "Nightingale",
+      "givenName": "Alexandra",
+      "email": null,
+      "phone": "+41 31 377 72 05",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1Y2JN28RB",
+      "surname": "Richmond",
+      "givenName": "James",
+      "email": null,
+      "phone": "+41 31 377 72 09",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060400@12.06",
+      "label": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060405@12.06",
+      "label": {
+        "german": "Nachhaltige Entwicklung & Internationale Kooperation",
+        "french": "Développement durable & coopération internationale",
+        "italian": "Sviluppo sostenibile & cooperazione internazionale",
+        "english": ""
+      },
+      "name": {
+        "german": "Nachhaltige Entwicklung & Internationale Kooperation",
+        "french": "Développement durable & coopération internationale",
+        "italian": "Sviluppo sostenibile & cooperazione internazionale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

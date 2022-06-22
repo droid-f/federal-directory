@@ -1,1 +1,188 @@
-{"id"=>"10004603", "name"=>{"german"=>"Sektion Risikobeurteilung", "french"=>"Section Evaluation des risques", "italian"=>"Sezione valutazione dei rischi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0281838", "surname"=>"Bourqui-Pittet", "givenName"=>"Martine", "email"=>nil, "phone"=>"+41 58 46 38665", "function"=>{"german"=>"Sektionsleiter/in  Risikobeurteilung", "french"=>"Sektionsleiter/in  Risikobeurteilung", "italian"=>"Sektionsleiter/in  Risikobeurteilung", "english"=>"Sektionsleiter/in  Risikobeurteilung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7537648", "surname"=>"Frey", "givenName"=>"Sabine", "email"=>nil, "phone"=>"+41 58 46 37999", "function"=>{"german"=>"Stv. u. Wiss. Mitarbeiter/in", "french"=>"Stv. u. Wiss. Mitarbeiter/in", "italian"=>"Stv. u. Wiss. Mitarbeiter/in", "english"=>"Stv. u. Wiss. Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004593", "label"=>{"german"=>"Direktionsbereich Gesundheitsschutz", "french"=>"Unité de direction Protection de la santé", "italian"=>"Unità di direzione Protezione della salute", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Gesundheitsschutz", "french"=>"Unité de direction Protection de la santé", "italian"=>"Unità di direzione Protezione della salute", "english"=>""}}, {"id"=>"10004602", "label"=>{"german"=>"Abteilung Chemikalien", "french"=>"Division Produits chimiques", "italian"=>"Divisione prodotti chimici", "english"=>""}, "name"=>{"german"=>"Abteilung Chemikalien", "french"=>"Division Produits chimiques", "italian"=>"Divisione prodotti chimici", "english"=>""}}, {"id"=>"10004603", "label"=>{"german"=>"Sektion Risikobeurteilung", "french"=>"Section Evaluation des risques", "italian"=>"Sezione valutazione dei rischi", "english"=>""}, "name"=>{"german"=>"Sektion Risikobeurteilung", "french"=>"Section Evaluation des risques", "italian"=>"Sezione valutazione dei rischi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004603",
+  "name": {
+    "german": "Sektion Risikobeurteilung",
+    "french": "Section Evaluation des risques",
+    "italian": "Sezione valutazione dei rischi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0281838",
+      "surname": "Bourqui-Pittet",
+      "givenName": "Martine",
+      "email": null,
+      "phone": "+41 58 46 38665",
+      "function": {
+        "german": "Sektionsleiter/in  Risikobeurteilung",
+        "french": "Sektionsleiter/in  Risikobeurteilung",
+        "italian": "Sektionsleiter/in  Risikobeurteilung",
+        "english": "Sektionsleiter/in  Risikobeurteilung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7537648",
+      "surname": "Frey",
+      "givenName": "Sabine",
+      "email": null,
+      "phone": "+41 58 46 37999",
+      "function": {
+        "german": "Stv. u. Wiss. Mitarbeiter/in",
+        "french": "Stv. u. Wiss. Mitarbeiter/in",
+        "italian": "Stv. u. Wiss. Mitarbeiter/in",
+        "english": "Stv. u. Wiss. Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004593",
+      "label": {
+        "german": "Direktionsbereich Gesundheitsschutz",
+        "french": "Unité de direction Protection de la santé",
+        "italian": "Unità di direzione Protezione della salute",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Gesundheitsschutz",
+        "french": "Unité de direction Protection de la santé",
+        "italian": "Unità di direzione Protezione della salute",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004602",
+      "label": {
+        "german": "Abteilung Chemikalien",
+        "french": "Division Produits chimiques",
+        "italian": "Divisione prodotti chimici",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Chemikalien",
+        "french": "Division Produits chimiques",
+        "italian": "Divisione prodotti chimici",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004603",
+      "label": {
+        "german": "Sektion Risikobeurteilung",
+        "french": "Section Evaluation des risques",
+        "italian": "Sezione valutazione dei rischi",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Risikobeurteilung",
+        "french": "Section Evaluation des risques",
+        "italian": "Sezione valutazione dei rischi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

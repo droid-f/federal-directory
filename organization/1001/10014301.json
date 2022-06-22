@@ -1,1 +1,183 @@
-{"id"=>"10014301", "name"=>{"german"=>"DS - Kommunikation Medien", "french"=>"DS - Communication médias", "italian"=>"DS - Comunicazione e media", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5440661", "surname"=>"Teuscher", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 46 32204", "function"=>{"german"=>"Leiter/in Kommunikation", "french"=>"Leiter/in Kommunikation", "italian"=>"Leiter/in Kommunikation", "english"=>"Leiter/in Kommunikation"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5389470", "surname"=>"Ellis", "givenName"=>"Nadine", "email"=>nil, "phone"=>"+41 58 48 45979", "function"=>{"german"=>"Spezialist/in Kommunikation", "french"=>"Spezialist/in Kommunikation", "italian"=>"Spezialist/in Kommunikation", "english"=>"Spezialist/in Kommunikation"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XP2GZN6V", "surname"=>"Grob", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 51962", "function"=>{"german"=>"Spezialist/in Kommunikation", "french"=>"Spezialist/in Kommunikation", "italian"=>"Spezialist/in Kommunikation", "english"=>"Spezialist/in Kommunikation"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008668", "label"=>{"german"=>"ESTV", "french"=>"AFC", "italian"=>"AFC", "english"=>""}, "name"=>{"german"=>"Eidgenössische Steuerverwaltung", "french"=>"Administration fédérale des contributions", "italian"=>"Amministrazione federale delle contribuzioni", "english"=>""}}, {"id"=>"10006258", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10006259", "label"=>{"german"=>"Direktionsstab DS", "french"=>"Etat-major de la direction DS", "italian"=>"Stato maggiore della direzione DS", "english"=>""}, "name"=>{"german"=>"Direktionsstab DS", "french"=>"Etat-major de la direction DS", "italian"=>"Stato maggiore della direzione DS", "english"=>""}}, {"id"=>"10014301", "label"=>{"german"=>"DS - Kommunikation Medien", "french"=>"DS - Communication médias", "italian"=>"DS - Comunicazione e media", "english"=>""}, "name"=>{"german"=>"DS - Kommunikation Medien", "french"=>"DS - Communication médias", "italian"=>"DS - Comunicazione e media", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10014301",
+  "name": {
+    "german": "DS - Kommunikation Medien",
+    "french": "DS - Communication médias",
+    "italian": "DS - Comunicazione e media",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5440661",
+      "surname": "Teuscher",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 46 32204",
+      "function": {
+        "german": "Leiter/in Kommunikation",
+        "french": "Leiter/in Kommunikation",
+        "italian": "Leiter/in Kommunikation",
+        "english": "Leiter/in Kommunikation"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5389470",
+      "surname": "Ellis",
+      "givenName": "Nadine",
+      "email": null,
+      "phone": "+41 58 48 45979",
+      "function": {
+        "german": "Spezialist/in Kommunikation",
+        "french": "Spezialist/in Kommunikation",
+        "italian": "Spezialist/in Kommunikation",
+        "english": "Spezialist/in Kommunikation"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XP2GZN6V",
+      "surname": "Grob",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 51962",
+      "function": {
+        "german": "Spezialist/in Kommunikation",
+        "french": "Spezialist/in Kommunikation",
+        "italian": "Spezialist/in Kommunikation",
+        "english": "Spezialist/in Kommunikation"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008668",
+      "label": {
+        "german": "ESTV",
+        "french": "AFC",
+        "italian": "AFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Steuerverwaltung",
+        "french": "Administration fédérale des contributions",
+        "italian": "Amministrazione federale delle contribuzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006258",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006259",
+      "label": {
+        "german": "Direktionsstab DS",
+        "french": "Etat-major de la direction DS",
+        "italian": "Stato maggiore della direzione DS",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsstab DS",
+        "french": "Etat-major de la direction DS",
+        "italian": "Stato maggiore della direzione DS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10014301",
+      "label": {
+        "german": "DS - Kommunikation Medien",
+        "french": "DS - Communication médias",
+        "italian": "DS - Comunicazione e media",
+        "english": ""
+      },
+      "name": {
+        "german": "DS - Kommunikation Medien",
+        "french": "DS - Communication médias",
+        "italian": "DS - Comunicazione e media",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

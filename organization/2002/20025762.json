@@ -1,1 +1,138 @@
-{"id"=>"20025762", "name"=>{"german"=>"Stab Personal EDA", "french"=>"État-major du personnel DFAE", "italian"=>"Stato maggiore Personale DFAE", "english"=>"FDFA Human Resources Staff Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-8229058", "surname"=>"Schwendimann", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 50633", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"10000584", "label"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}, "name"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}}, {"id"=>"20025762", "label"=>{"german"=>"Stab Personal EDA", "french"=>"État-major du personnel DFAE", "italian"=>"Stato maggiore Personale DFAE", "english"=>"FDFA Human Resources Staff Office"}, "name"=>{"german"=>"Stab Personal EDA", "french"=>"État-major du personnel DFAE", "italian"=>"Stato maggiore Personale DFAE", "english"=>"FDFA Human Resources Staff Office"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025762",
+  "name": {
+    "german": "Stab Personal EDA",
+    "french": "État-major du personnel DFAE",
+    "italian": "Stato maggiore Personale DFAE",
+    "english": "FDFA Human Resources Staff Office"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-8229058",
+      "surname": "Schwendimann",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 50633",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "10000584",
+      "label": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      },
+      "name": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      }
+    },
+    {
+      "id": "20025762",
+      "label": {
+        "german": "Stab Personal EDA",
+        "french": "État-major du personnel DFAE",
+        "italian": "Stato maggiore Personale DFAE",
+        "english": "FDFA Human Resources Staff Office"
+      },
+      "name": {
+        "german": "Stab Personal EDA",
+        "french": "État-major du personnel DFAE",
+        "italian": "Stato maggiore Personale DFAE",
+        "english": "FDFA Human Resources Staff Office"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

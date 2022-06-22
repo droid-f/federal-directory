@@ -1,1 +1,228 @@
-{"id"=>"10003294", "name"=>{"german"=>"Finanzdienst II - Verkehr, Energie und Kommunikation", "french"=>"Service financier II - Trafic, énergie et communication", "italian"=>"Servizio finanziario II - Trasporti, energia e comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5602214", "surname"=>"Schley", "givenName"=>"Frank", "email"=>nil, "phone"=>"+41 58 46 26074", "function"=>{"german"=>"Leiter Finanzdienst II", "french"=>"Chef Service financier II", "italian"=>"Capo Servizio finanziario II", "english"=>"Leiter Finanzdienst II"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7572667", "surname"=>"Friedli", "givenName"=>"Erich", "email"=>nil, "phone"=>"+41 58 46 26010", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1XHMH17KK", "surname"=>"Bochud", "givenName"=>"Sarah", "email"=>nil, "phone"=>"+41 58 48 02688", "function"=>{"german"=>"Oekonomin", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonomin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7859584", "surname"=>"Wehse", "givenName"=>"Holger", "email"=>nil, "phone"=>"+41 58 46 26445", "function"=>{"german"=>"stv. Leiter", "french"=>"Chef suppléant", "italian"=>"Capo sostituto", "english"=>"stv. Leiter"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2692041", "surname"=>"Widmer", "givenName"=>"Manuel", "email"=>nil, "phone"=>"+41 58 46 97738", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5312471", "surname"=>"Wiese", "givenName"=>"Samuel", "email"=>nil, "phone"=>"+41 58 48 36402", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003292", "label"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}, "name"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}}, {"id"=>"10003294", "label"=>{"german"=>"Finanzdienst II - Verkehr, Energie und Kommunikation", "french"=>"Service financier II - Trafic, énergie et communication", "italian"=>"Servizio finanziario II - Trasporti, energia e comunicazione", "english"=>""}, "name"=>{"german"=>"Finanzdienst II - Verkehr, Energie und Kommunikation", "french"=>"Service financier II - Trafic, énergie et communication", "italian"=>"Servizio finanziario II - Trasporti, energia e comunicazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003294",
+  "name": {
+    "german": "Finanzdienst II - Verkehr, Energie und Kommunikation",
+    "french": "Service financier II - Trafic, énergie et communication",
+    "italian": "Servizio finanziario II - Trasporti, energia e comunicazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5602214",
+      "surname": "Schley",
+      "givenName": "Frank",
+      "email": null,
+      "phone": "+41 58 46 26074",
+      "function": {
+        "german": "Leiter Finanzdienst II",
+        "french": "Chef Service financier II",
+        "italian": "Capo Servizio finanziario II",
+        "english": "Leiter Finanzdienst II"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7572667",
+      "surname": "Friedli",
+      "givenName": "Erich",
+      "email": null,
+      "phone": "+41 58 46 26010",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1XHMH17KK",
+      "surname": "Bochud",
+      "givenName": "Sarah",
+      "email": null,
+      "phone": "+41 58 48 02688",
+      "function": {
+        "german": "Oekonomin",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonomin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7859584",
+      "surname": "Wehse",
+      "givenName": "Holger",
+      "email": null,
+      "phone": "+41 58 46 26445",
+      "function": {
+        "german": "stv. Leiter",
+        "french": "Chef suppléant",
+        "italian": "Capo sostituto",
+        "english": "stv. Leiter"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2692041",
+      "surname": "Widmer",
+      "givenName": "Manuel",
+      "email": null,
+      "phone": "+41 58 46 97738",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5312471",
+      "surname": "Wiese",
+      "givenName": "Samuel",
+      "email": null,
+      "phone": "+41 58 48 36402",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003292",
+      "label": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003294",
+      "label": {
+        "german": "Finanzdienst II - Verkehr, Energie und Kommunikation",
+        "french": "Service financier II - Trafic, énergie et communication",
+        "italian": "Servizio finanziario II - Trasporti, energia e comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzdienst II - Verkehr, Energie und Kommunikation",
+        "french": "Service financier II - Trafic, énergie et communication",
+        "italian": "Servizio finanziario II - Trasporti, energia e comunicazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

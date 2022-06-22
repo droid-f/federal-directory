@@ -1,1 +1,185 @@
-{"id"=>"20048392", "name"=>{"german"=>"Wohnraumförderung", "french"=>"Encouragement au logement", "italian"=>"Promozione dell'alloggio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 4", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10002329", "name"=>{"german"=>"Bauwesen", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002332", "name"=>{"german"=>"Bundeshilfe", "french"=>"Aide fédérale", "italian"=>"Aiuti federali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10011519", "name"=>{"german"=>"Recovery", "french"=>"Recovery", "italian"=>"Recovery", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5947131", "surname"=>"Walder", "givenName"=>"Felix", "email"=>nil, "phone"=>"+41 58 48 09139", "function"=>{"german"=>"Leiter/in Bauwesen, Stv. Direktor/in", "french"=>"Chef/fe Construction, suppl. Directeur", "italian"=>"Capo Costruzioni, suppl. Direttore", "english"=>"Leiter/in Bauwesen, Stv. Direktor/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008674", "label"=>{"german"=>"BWO", "french"=>"OFL", "italian"=>"UFAB", "english"=>""}, "name"=>{"german"=>"Bundesamt für Wohnungswesen", "french"=>"Office fédéral du logement", "italian"=>"Ufficio federale delle abitazioni", "english"=>""}}, {"id"=>"10002323", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20048392", "label"=>{"german"=>"Wohnraumförderung", "french"=>"Encouragement au logement", "italian"=>"Promozione dell'alloggio", "english"=>""}, "name"=>{"german"=>"Wohnraumförderung", "french"=>"Encouragement au logement", "italian"=>"Promozione dell'alloggio", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048392",
+  "name": {
+    "german": "Wohnraumförderung",
+    "french": "Encouragement au logement",
+    "italian": "Promozione dell'alloggio",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 4",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10002329",
+      "name": {
+        "german": "Bauwesen",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002332",
+      "name": {
+        "german": "Bundeshilfe",
+        "french": "Aide fédérale",
+        "italian": "Aiuti federali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011519",
+      "name": {
+        "german": "Recovery",
+        "french": "Recovery",
+        "italian": "Recovery",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5947131",
+      "surname": "Walder",
+      "givenName": "Felix",
+      "email": null,
+      "phone": "+41 58 48 09139",
+      "function": {
+        "german": "Leiter/in Bauwesen, Stv. Direktor/in",
+        "french": "Chef/fe Construction, suppl. Directeur",
+        "italian": "Capo Costruzioni, suppl. Direttore",
+        "english": "Leiter/in Bauwesen, Stv. Direktor/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008674",
+      "label": {
+        "german": "BWO",
+        "french": "OFL",
+        "italian": "UFAB",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Wohnungswesen",
+        "french": "Office fédéral du logement",
+        "italian": "Ufficio federale delle abitazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002323",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048392",
+      "label": {
+        "german": "Wohnraumförderung",
+        "french": "Encouragement au logement",
+        "italian": "Promozione dell'alloggio",
+        "english": ""
+      },
+      "name": {
+        "german": "Wohnraumförderung",
+        "french": "Encouragement au logement",
+        "italian": "Promozione dell'alloggio",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,245 @@
-{"id"=>"10003998", "name"=>{"german"=>"Radio Monitoring", "french"=>"Radio monitoring", "italian"=>"Radio monitoring", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20050601", "name"=>{"german"=>"Gruppe Fachdienst & Dispatching", "french"=>"Gruppe Fachdienst & Dispatching", "italian"=>"Gruppe Fachdienst & Dispatching", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050606", "name"=>{"german"=>"Gruppe Technik & Unterhalt", "french"=>"Gruppe Technik & Unterhalt", "italian"=>"Gruppe Technik & Unterhalt", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050602", "name"=>{"german"=>"RM Region Mitte", "french"=>"RM Region Mitte", "italian"=>"RM Region Mitte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050603", "name"=>{"german"=>"RM Region Ost", "french"=>"RM Region Ost", "italian"=>"RM Region Ost", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050604", "name"=>{"german"=>"RM Region Süd", "french"=>"RM Region Süd", "italian"=>"RM Region Süd", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050605", "name"=>{"german"=>"RM Region West", "french"=>"RM Region West", "italian"=>"RM Region West", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7550434", "surname"=>"Vogt", "givenName"=>"René", "email"=>nil, "phone"=>"+41 58 46 05077", "function"=>{"german"=>"Leiter Radio Monitoring", "french"=>"Leiter Radio Monitoring", "italian"=>"Leiter Radio Monitoring", "english"=>"Leiter Radio Monitoring"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003994", "label"=>{"german"=>"Radio Monitoring und Anlagen", "french"=>"Radio monitoring et installations", "italian"=>"Radio monitoring e impianti", "english"=>""}, "name"=>{"german"=>"Radio Monitoring und Anlagen", "french"=>"Radio monitoring et installations", "italian"=>"Radio monitoring e impianti", "english"=>""}}, {"id"=>"10003998", "label"=>{"german"=>"Radio Monitoring", "french"=>"Radio monitoring", "italian"=>"Radio monitoring", "english"=>""}, "name"=>{"german"=>"Radio Monitoring", "french"=>"Radio monitoring", "italian"=>"Radio monitoring", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003998",
+  "name": {
+    "german": "Radio Monitoring",
+    "french": "Radio monitoring",
+    "italian": "Radio monitoring",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20050601",
+      "name": {
+        "german": "Gruppe Fachdienst & Dispatching",
+        "french": "Gruppe Fachdienst & Dispatching",
+        "italian": "Gruppe Fachdienst & Dispatching",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050606",
+      "name": {
+        "german": "Gruppe Technik & Unterhalt",
+        "french": "Gruppe Technik & Unterhalt",
+        "italian": "Gruppe Technik & Unterhalt",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050602",
+      "name": {
+        "german": "RM Region Mitte",
+        "french": "RM Region Mitte",
+        "italian": "RM Region Mitte",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050603",
+      "name": {
+        "german": "RM Region Ost",
+        "french": "RM Region Ost",
+        "italian": "RM Region Ost",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050604",
+      "name": {
+        "german": "RM Region Süd",
+        "french": "RM Region Süd",
+        "italian": "RM Region Süd",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050605",
+      "name": {
+        "german": "RM Region West",
+        "french": "RM Region West",
+        "italian": "RM Region West",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7550434",
+      "surname": "Vogt",
+      "givenName": "René",
+      "email": null,
+      "phone": "+41 58 46 05077",
+      "function": {
+        "german": "Leiter Radio Monitoring",
+        "french": "Leiter Radio Monitoring",
+        "italian": "Leiter Radio Monitoring",
+        "english": "Leiter Radio Monitoring"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003994",
+      "label": {
+        "german": "Radio Monitoring und Anlagen",
+        "french": "Radio monitoring et installations",
+        "italian": "Radio monitoring e impianti",
+        "english": ""
+      },
+      "name": {
+        "german": "Radio Monitoring und Anlagen",
+        "french": "Radio monitoring et installations",
+        "italian": "Radio monitoring e impianti",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003998",
+      "label": {
+        "german": "Radio Monitoring",
+        "french": "Radio monitoring",
+        "italian": "Radio monitoring",
+        "english": ""
+      },
+      "name": {
+        "german": "Radio Monitoring",
+        "french": "Radio monitoring",
+        "italian": "Radio monitoring",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

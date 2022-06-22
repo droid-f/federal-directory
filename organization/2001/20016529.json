@@ -1,1 +1,166 @@
-{"id"=>"20016529", "name"=>{"german"=>"Legalisationen", "french"=>"Légalisations", "italian"=>"Legalizzazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Gurtengasse 5", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584623769", "fax"=>"+41584631916", "email"=>"legalisation@bk.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-9502329", "surname"=>"Cafaro-Vullierat", "givenName"=>"Gaëlle", "email"=>nil, "phone"=>"+41 58 48 13836", "function"=>{"german"=>"Sachbearbeiter/in", "french"=>"Sachbearbeiter/in", "italian"=>"Sachbearbeiter/in", "english"=>"Sachbearbeiter/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8170955", "surname"=>"Lorella", "givenName"=>"Lara", "email"=>nil, "phone"=>"+41 58 46 78666", "function"=>{"german"=>"Sachbearbeiter/in", "french"=>"Sachbearbeiter/in", "italian"=>"Sachbearbeiter/in", "english"=>"Sachbearbeiter/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1421960", "surname"=>"Manoiero", "givenName"=>"Alessandra", "email"=>nil, "phone"=>"+41 58 46 30270", "function"=>{"german"=>"Sachbearbeiter/in", "french"=>"Sachbearbeiter/in", "italian"=>"Sachbearbeiter/in", "english"=>"Sachbearbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10010826", "label"=>{"german"=>"R", "french"=>"R", "italian"=>"R", "english"=>""}, "name"=>{"german"=>"Bereich Ressourcen", "french"=>"Secteur Ressources", "italian"=>"Settore Risorse", "english"=>""}}, {"id"=>"10010827", "label"=>{"german"=>"PFC", "french"=>"PFC", "italian"=>"PFC", "english"=>""}, "name"=>{"german"=>"Sektion Personal, Finanzen, Controlling", "french"=>"Section Personnel, finances, contrôle de gestion", "italian"=>"Sezione Personale, finanza, controlling", "english"=>""}}, {"id"=>"20016529", "label"=>{"german"=>"Legalisationen", "french"=>"Légalisations", "italian"=>"Legalizzazioni", "english"=>""}, "name"=>{"german"=>"Legalisationen", "french"=>"Légalisations", "italian"=>"Legalizzazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20016529",
+  "name": {
+    "german": "Legalisationen",
+    "french": "Légalisations",
+    "italian": "Legalizzazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Gurtengasse 5",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584623769",
+    "fax": "+41584631916",
+    "email": "legalisation@bk.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-9502329",
+      "surname": "Cafaro-Vullierat",
+      "givenName": "Gaëlle",
+      "email": null,
+      "phone": "+41 58 48 13836",
+      "function": {
+        "german": "Sachbearbeiter/in",
+        "french": "Sachbearbeiter/in",
+        "italian": "Sachbearbeiter/in",
+        "english": "Sachbearbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8170955",
+      "surname": "Lorella",
+      "givenName": "Lara",
+      "email": null,
+      "phone": "+41 58 46 78666",
+      "function": {
+        "german": "Sachbearbeiter/in",
+        "french": "Sachbearbeiter/in",
+        "italian": "Sachbearbeiter/in",
+        "english": "Sachbearbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1421960",
+      "surname": "Manoiero",
+      "givenName": "Alessandra",
+      "email": null,
+      "phone": "+41 58 46 30270",
+      "function": {
+        "german": "Sachbearbeiter/in",
+        "french": "Sachbearbeiter/in",
+        "italian": "Sachbearbeiter/in",
+        "english": "Sachbearbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010826",
+      "label": {
+        "german": "R",
+        "french": "R",
+        "italian": "R",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Ressourcen",
+        "french": "Secteur Ressources",
+        "italian": "Settore Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010827",
+      "label": {
+        "german": "PFC",
+        "french": "PFC",
+        "italian": "PFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Personal, Finanzen, Controlling",
+        "french": "Section Personnel, finances, contrôle de gestion",
+        "italian": "Sezione Personale, finanza, controlling",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016529",
+      "label": {
+        "german": "Legalisationen",
+        "french": "Légalisations",
+        "italian": "Legalizzazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Legalisationen",
+        "french": "Légalisations",
+        "italian": "Legalizzazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

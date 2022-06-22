@@ -1,1 +1,215 @@
-{"id"=>"20003192", "name"=>{"german"=>"Lehrgänge MILAK ETH", "french"=>"Stages de formation ACAMIL EPF", "italian"=>"Corsi di formazione ACMIL PF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kaserne", "postalCode"=>"8903", "location"=>"Birmensdorf", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20008959", "name"=>{"german"=>"Sprachausbildung MILAK", "french"=>"Formation linguistique ACAMIL", "italian"=>"Formazione linguistica ACMIL", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017127", "name"=>{"german"=>"Support / Technik / Sport MILAK", "french"=>"Support / technique / sport ACAMIL", "italian"=>"Supporto / Tecnica / Sport ACMIL", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1989155", "surname"=>"Pfister", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 48 48202", "function"=>{"german"=>"Chef/in Lehrgänge / Stv Kdt", "french"=>"Chef Stages de formation / rempl cdt", "italian"=>"Capo Cfo / sost cdt", "english"=>"Chef/in Lehrgänge / Stv Kdt"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20003158", "label"=>{"german"=>"HKA", "french"=>"HKA", "italian"=>"HKA", "english"=>""}, "name"=>{"german"=>"Höhere Kaderausbildung der Armee", "french"=>"Formation supérieure des cadres armée", "italian"=>"ISQE", "english"=>""}}, {"id"=>"20003162", "label"=>{"german"=>"Militärakademie an der ETH Zürich", "french"=>"Académie militaire à l'EPF de Zurich", "italian"=>"Accademia mil presso il PF di Zurigo", "english"=>""}, "name"=>{"german"=>"Militärakademie an der ETH Zürich", "french"=>"Académie militaire à l'EPF de Zurich", "italian"=>"Accademia mil presso il PF di Zurigo", "english"=>""}}, {"id"=>"20003192", "label"=>{"german"=>"Lehrgänge MILAK ETH", "french"=>"Stages de formation ACAMIL EPF", "italian"=>"Corsi di formazione ACMIL PF", "english"=>""}, "name"=>{"german"=>"Lehrgänge MILAK ETH", "french"=>"Stages de formation ACAMIL EPF", "italian"=>"Corsi di formazione ACMIL PF", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003192",
+  "name": {
+    "german": "Lehrgänge MILAK ETH",
+    "french": "Stages de formation ACAMIL EPF",
+    "italian": "Corsi di formazione ACMIL PF",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kaserne",
+    "postalCode": "8903",
+    "location": "Birmensdorf",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20008959",
+      "name": {
+        "german": "Sprachausbildung MILAK",
+        "french": "Formation linguistique ACAMIL",
+        "italian": "Formazione linguistica ACMIL",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017127",
+      "name": {
+        "german": "Support / Technik / Sport MILAK",
+        "french": "Support / technique / sport ACAMIL",
+        "italian": "Supporto / Tecnica / Sport ACMIL",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1989155",
+      "surname": "Pfister",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 48 48202",
+      "function": {
+        "german": "Chef/in Lehrgänge / Stv Kdt",
+        "french": "Chef Stages de formation / rempl cdt",
+        "italian": "Capo Cfo / sost cdt",
+        "english": "Chef/in Lehrgänge / Stv Kdt"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003158",
+      "label": {
+        "german": "HKA",
+        "french": "HKA",
+        "italian": "HKA",
+        "english": ""
+      },
+      "name": {
+        "german": "Höhere Kaderausbildung der Armee",
+        "french": "Formation supérieure des cadres armée",
+        "italian": "ISQE",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003162",
+      "label": {
+        "german": "Militärakademie an der ETH Zürich",
+        "french": "Académie militaire à l'EPF de Zurich",
+        "italian": "Accademia mil presso il PF di Zurigo",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärakademie an der ETH Zürich",
+        "french": "Académie militaire à l'EPF de Zurich",
+        "italian": "Accademia mil presso il PF di Zurigo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003192",
+      "label": {
+        "german": "Lehrgänge MILAK ETH",
+        "french": "Stages de formation ACAMIL EPF",
+        "italian": "Corsi di formazione ACMIL PF",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrgänge MILAK ETH",
+        "french": "Stages de formation ACAMIL EPF",
+        "italian": "Corsi di formazione ACMIL PF",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

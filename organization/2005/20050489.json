@@ -1,1 +1,211 @@
-{"id"=>"20050489", "name"=>{"german"=>"Team 3", "french"=>"Team 3", "italian"=>"Team 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7552956", "surname"=>"Dettori", "givenName"=>"Sonia", "email"=>nil, "phone"=>"+41 58 46 11216", "function"=>{"german"=>"Leiter/in Team 3, Stellvertreter/in Leiter/in ESA", "french"=>"Responsable d’équipe 3 et responsable suppléant/e du ASF", "italian"=>"Responsabile team 3 e responsabile suppl. del AVF", "english"=>"Leiter/in Team 3, Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8859089", "surname"=>"Anthonioz", "givenName"=>"Nicole", "email"=>nil, "phone"=>"+41 58 46 27813", "function"=>{"german"=>"Jurist/in ESA", "french"=>"Juriste ASF", "italian"=>"Giurista AVF", "english"=>"Jurist/in ESA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9362353", "surname"=>"Carron", "givenName"=>"Sabrina", "email"=>nil, "phone"=>"+41 58 46 76937", "function"=>{"german"=>"Jurist/in ESA", "french"=>"Juriste ASF", "italian"=>"Giurista AVF", "english"=>"Jurist/in ESA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4806596", "surname"=>"Desmeules", "givenName"=>"Mélanie", "email"=>nil, "phone"=>"+41 58 46 28042", "function"=>{"german"=>"Jurist/in ESA", "french"=>"Juriste ASF", "italian"=>"Giurista AVF", "english"=>"Jurist/in ESA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6208402", "surname"=>"Franciolli", "givenName"=>"Ada", "email"=>nil, "phone"=>"+41 58 48 56862", "function"=>{"german"=>"Jurist/in ESA", "french"=>"Juriste ASF", "italian"=>"Giurista AVF", "english"=>"Jurist/in ESA"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"20035564", "label"=>{"german"=>"ESA", "french"=>"ESA", "italian"=>"ESA", "english"=>""}, "name"=>{"german"=>"Eidgenössische Stiftungsaufsicht", "french"=>"Surveillance fédérale des fondations SFF", "italian"=>"Vigilanza federale sulle fondazioni VFF", "english"=>""}}, {"id"=>"20050489", "label"=>{"german"=>"Team 3", "french"=>"Team 3", "italian"=>"Team 3", "english"=>""}, "name"=>{"german"=>"Team 3", "french"=>"Team 3", "italian"=>"Team 3", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050489",
+  "name": {
+    "german": "Team 3",
+    "french": "Team 3",
+    "italian": "Team 3",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7552956",
+      "surname": "Dettori",
+      "givenName": "Sonia",
+      "email": null,
+      "phone": "+41 58 46 11216",
+      "function": {
+        "german": "Leiter/in Team 3, Stellvertreter/in Leiter/in ESA",
+        "french": "Responsable d’équipe 3 et responsable suppléant/e du ASF",
+        "italian": "Responsabile team 3 e responsabile suppl. del AVF",
+        "english": "Leiter/in Team 3, Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8859089",
+      "surname": "Anthonioz",
+      "givenName": "Nicole",
+      "email": null,
+      "phone": "+41 58 46 27813",
+      "function": {
+        "german": "Jurist/in ESA",
+        "french": "Juriste ASF",
+        "italian": "Giurista AVF",
+        "english": "Jurist/in ESA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9362353",
+      "surname": "Carron",
+      "givenName": "Sabrina",
+      "email": null,
+      "phone": "+41 58 46 76937",
+      "function": {
+        "german": "Jurist/in ESA",
+        "french": "Juriste ASF",
+        "italian": "Giurista AVF",
+        "english": "Jurist/in ESA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4806596",
+      "surname": "Desmeules",
+      "givenName": "Mélanie",
+      "email": null,
+      "phone": "+41 58 46 28042",
+      "function": {
+        "german": "Jurist/in ESA",
+        "french": "Juriste ASF",
+        "italian": "Giurista AVF",
+        "english": "Jurist/in ESA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6208402",
+      "surname": "Franciolli",
+      "givenName": "Ada",
+      "email": null,
+      "phone": "+41 58 48 56862",
+      "function": {
+        "german": "Jurist/in ESA",
+        "french": "Juriste ASF",
+        "italian": "Giurista AVF",
+        "english": "Jurist/in ESA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035564",
+      "label": {
+        "german": "ESA",
+        "french": "ESA",
+        "italian": "ESA",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Stiftungsaufsicht",
+        "french": "Surveillance fédérale des fondations SFF",
+        "italian": "Vigilanza federale sulle fondazioni VFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050489",
+      "label": {
+        "german": "Team 3",
+        "french": "Team 3",
+        "italian": "Team 3",
+        "english": ""
+      },
+      "name": {
+        "german": "Team 3",
+        "french": "Team 3",
+        "italian": "Team 3",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

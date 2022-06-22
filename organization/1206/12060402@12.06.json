@@ -1,1 +1,181 @@
-{"id"=>"12060402@12.06", "name"=>{"german"=>"Abteilungssekretariat R&I", "french"=>"Secrétariat Droit & Affaires internationales", "italian"=>"Segreteria Diritto & Affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-1484056", "surname"=>"Bühler", "givenName"=>"Yvonne", "email"=>nil, "phone"=>"+41 31 377 72 57", "function"=>{"german"=>"Stellvertretung", "french"=>"Stellvertretung", "italian"=>"Stellvertretung", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-0115487", "surname"=>"Huber", "givenName"=>"Silvia", "email"=>nil, "phone"=>"+41 31 377 72 18", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-8227886", "surname"=>"Pfäffli", "givenName"=>"Sabrina", "email"=>nil, "phone"=>"+41 31 377 72 33", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060400@12.06", "label"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}}, {"id"=>"12060401@12.06", "label"=>{"german"=>"Stab & Abteilungssekretariat R&I", "french"=>"État-major et secrétariat Droit & Affaires internationales", "italian"=>"Stato maggiore e segreteria Diritto & Affari internazionali", "english"=>""}, "name"=>{"german"=>"Stab & Abteilungssekretariat R&I", "french"=>"État-major et secrétariat Droit & Affaires internationales", "italian"=>"Stato maggiore e segreteria Diritto & Affari internazionali", "english"=>""}}, {"id"=>"12060402@12.06", "label"=>{"german"=>"Abteilungssekretariat R&I", "french"=>"Secrétariat Droit & Affaires internationales", "italian"=>"Segreteria Diritto & Affari internazionali", "english"=>""}, "name"=>{"german"=>"Abteilungssekretariat R&I", "french"=>"Secrétariat Droit & Affaires internationales", "italian"=>"Segreteria Diritto & Affari internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060402@12.06",
+  "name": {
+    "german": "Abteilungssekretariat R&I",
+    "french": "Secrétariat Droit & Affaires internationales",
+    "italian": "Segreteria Diritto & Affari internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1484056",
+      "surname": "Bühler",
+      "givenName": "Yvonne",
+      "email": null,
+      "phone": "+41 31 377 72 57",
+      "function": {
+        "german": "Stellvertretung",
+        "french": "Stellvertretung",
+        "italian": "Stellvertretung",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0115487",
+      "surname": "Huber",
+      "givenName": "Silvia",
+      "email": null,
+      "phone": "+41 31 377 72 18",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8227886",
+      "surname": "Pfäffli",
+      "givenName": "Sabrina",
+      "email": null,
+      "phone": "+41 31 377 72 33",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060400@12.06",
+      "label": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060401@12.06",
+      "label": {
+        "german": "Stab & Abteilungssekretariat R&I",
+        "french": "État-major et secrétariat Droit & Affaires internationales",
+        "italian": "Stato maggiore e segreteria Diritto & Affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab & Abteilungssekretariat R&I",
+        "french": "État-major et secrétariat Droit & Affaires internationales",
+        "italian": "Stato maggiore e segreteria Diritto & Affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060402@12.06",
+      "label": {
+        "german": "Abteilungssekretariat R&I",
+        "french": "Secrétariat Droit & Affaires internationales",
+        "italian": "Segreteria Diritto & Affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilungssekretariat R&I",
+        "french": "Secrétariat Droit & Affaires internationales",
+        "italian": "Segreteria Diritto & Affari internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

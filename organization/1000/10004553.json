@@ -1,1 +1,187 @@
-{"id"=>"10004553", "name"=>{"german"=>"Sektion Medien und Kommunikation", "french"=>"Section Médias et communication", "italian"=>"Sezione Media e comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"+41 58 4649753", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2030993", "surname"=>"Dauwalder", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 21130", "function"=>{"german"=>"Stv. Sektionsleiter/in und Wiss. MA", "french"=>"Stv. Sektionsleiter/in und Wiss. MA", "italian"=>"Stv. Sektionsleiter/in und Wiss. MA", "english"=>"Stv. Sektionsleiter/in und Wiss. MA"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9662058", "surname"=>"Holenstein", "givenName"=>"Katrin", "email"=>nil, "phone"=>"+41 58 46 41552", "function"=>{"german"=>"Sektionsleiter/in", "french"=>"Sektionsleiter/in", "italian"=>"Sektionsleiter/in", "english"=>"Sektionsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20024801", "label"=>{"german"=>"Abteilung Kommunikation und Kampagnen", "french"=>"Division Communication et campagnes", "italian"=>"Divisione comunicazione e campagne", "english"=>""}, "name"=>{"german"=>"Abteilung Kommunikation und Kampagnen", "french"=>"Division Communication et campagnes", "italian"=>"Divisione comunicazione e campagne", "english"=>""}}, {"id"=>"10004553", "label"=>{"german"=>"Sektion Medien und Kommunikation", "french"=>"Section Médias et communication", "italian"=>"Sezione Media e comunicazione", "english"=>""}, "name"=>{"german"=>"Sektion Medien und Kommunikation", "french"=>"Section Médias et communication", "italian"=>"Sezione Media e comunicazione", "english"=>""}}], "contactPoints"=>[{"id"=>51, "name"=>{"german"=>"Medienanfragen", "french"=>"Medienanfragen", "italian"=>"Medienanfragen", "english"=>""}, "email"=>nil, "phone"=>"+41 58 462 95 05", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "10004553",
+  "name": {
+    "german": "Sektion Medien und Kommunikation",
+    "french": "Section Médias et communication",
+    "italian": "Sezione Media e comunicazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "+41 58 4649753",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2030993",
+      "surname": "Dauwalder",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 21130",
+      "function": {
+        "german": "Stv. Sektionsleiter/in und Wiss. MA",
+        "french": "Stv. Sektionsleiter/in und Wiss. MA",
+        "italian": "Stv. Sektionsleiter/in und Wiss. MA",
+        "english": "Stv. Sektionsleiter/in und Wiss. MA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9662058",
+      "surname": "Holenstein",
+      "givenName": "Katrin",
+      "email": null,
+      "phone": "+41 58 46 41552",
+      "function": {
+        "german": "Sektionsleiter/in",
+        "french": "Sektionsleiter/in",
+        "italian": "Sektionsleiter/in",
+        "english": "Sektionsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024801",
+      "label": {
+        "german": "Abteilung Kommunikation und Kampagnen",
+        "french": "Division Communication et campagnes",
+        "italian": "Divisione comunicazione e campagne",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Kommunikation und Kampagnen",
+        "french": "Division Communication et campagnes",
+        "italian": "Divisione comunicazione e campagne",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004553",
+      "label": {
+        "german": "Sektion Medien und Kommunikation",
+        "french": "Section Médias et communication",
+        "italian": "Sezione Media e comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Medien und Kommunikation",
+        "french": "Section Médias et communication",
+        "italian": "Sezione Media e comunicazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 51,
+      "name": {
+        "german": "Medienanfragen",
+        "french": "Medienanfragen",
+        "italian": "Medienanfragen",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 462 95 05",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

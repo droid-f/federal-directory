@@ -1,1 +1,244 @@
-{"id"=>"10009007", "name"=>{"german"=>"Direktionsbereich Internationale Rechtshilfe", "french"=>"Domaine de direction Entraide judiciaire internationale", "italian"=>"Ambito direzionale Assistenza giudiziaria internazionale", "english"=>""}, "nameAbbr"=>{"german"=>"IRH", "french"=>"IRH", "italian"=>"IRH", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584624319", "fax"=>"+41584625380", "email"=>"LiaisonProsecutorCH@eurojust.europa.eu", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10008732", "name"=>{"german"=>"FB Auslieferung", "french"=>"Unité Extraditions", "italian"=>"Settore Estradizioni", "english"=>""}, "nameAbbr"=>{"german"=>"AUSL", "french"=>"AUSL", "italian"=>"AUSL", "english"=>""}}, {"id"=>"10008733", "name"=>{"german"=>"FB Rechtshilfe I: Beschlagnahme und Herausgabe von Vermögenswerten", "french"=>"Unité Entraide judiciaire I : Saisie et remise de valeurs", "italian"=>"Settore Assistenza giudiziaria I: Sequestro e consegna di valori patrimoniali", "english"=>""}, "nameAbbr"=>{"german"=>"RH I", "french"=>"RH I", "italian"=>"RH I", "english"=>""}}, {"id"=>"20037473", "name"=>{"german"=>"FB Rechtshilfe II: Beweiserhebung und Zustellung", "french"=>"Unité Entraide judiciaire II : Obtention de preuves et notification", "italian"=>"Settore Assistenza giudiziaria II: Assunzione delle prove e notificazione", "english"=>""}, "nameAbbr"=>{"german"=>"RH II", "french"=>"RH II", "italian"=>"RH II", "english"=>""}}, {"id"=>"10009008", "name"=>{"german"=>"FB Internationale Verträge", "french"=>"Unité Traités internationaux", "italian"=>"Settore Trattati internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"INTV", "french"=>"INTV", "italian"=>"INTV", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5827822", "surname"=>"Fontana Jungo", "givenName"=>"Laurence", "email"=>nil, "phone"=>"+41 58 46 90778", "function"=>{"german"=>"Chefin IRH, Vizedirektorin", "french"=>"Cheffe IRH, Sous-directrice", "italian"=>"Capo IRH, Vicedirettrice", "english"=>"Chefin IRH, Vizedirektorin"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2914262", "surname"=>"Mauro", "givenName"=>"Raphaël", "email"=>nil, "phone"=>"+41 58 46 48995", "function"=>{"german"=>"Chef RH II / Stv. Chef IRH", "french"=>"Chef RH II / Chef suppléant IRH", "italian"=>"Capo RH II / Capo supplente IRH", "english"=>"Chef RH II / Stv. Chef IRH"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2837335", "surname"=>"Fetter", "givenName"=>"Sébastien", "email"=>nil, "phone"=>"+41 58 46 68086", "function"=>{"german"=>"Verbindungsstaatsanwalt bei Eurojust", "french"=>"Procureur de liaison auprès d'Eurojust", "italian"=>"Procuratore di collegamento presso Eurojust", "english"=>"Verbindungsstaatsanwalt Eurojust"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9142341", "surname"=>"Hänzi", "givenName"=>"Silvia", "email"=>nil, "phone"=>"+41 58 48 19179", "function"=>{"german"=>"Stv. Verbindungsstaatsanwältin bei Eurojust", "french"=>"Procureure de liaison suppléante auprès d'Eurojust", "italian"=>"Procuratrice di collegamento supplente presso Eurojust", "english"=>"Stv. Verbindungsstaatsanwältin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009007", "label"=>{"german"=>"IRH", "french"=>"IRH", "italian"=>"IRH", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Internationale Rechtshilfe", "french"=>"Domaine de direction Entraide judiciaire internationale", "italian"=>"Ambito direzionale Assistenza giudiziaria internazionale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009007",
+  "name": {
+    "german": "Direktionsbereich Internationale Rechtshilfe",
+    "french": "Domaine de direction Entraide judiciaire internationale",
+    "italian": "Ambito direzionale Assistenza giudiziaria internazionale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "IRH",
+    "french": "IRH",
+    "italian": "IRH",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584624319",
+    "fax": "+41584625380",
+    "email": "LiaisonProsecutorCH@eurojust.europa.eu",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10008732",
+      "name": {
+        "german": "FB Auslieferung",
+        "french": "Unité Extraditions",
+        "italian": "Settore Estradizioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "AUSL",
+        "french": "AUSL",
+        "italian": "AUSL",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008733",
+      "name": {
+        "german": "FB Rechtshilfe I: Beschlagnahme und Herausgabe von Vermögenswerten",
+        "french": "Unité Entraide judiciaire I : Saisie et remise de valeurs",
+        "italian": "Settore Assistenza giudiziaria I: Sequestro e consegna di valori patrimoniali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RH I",
+        "french": "RH I",
+        "italian": "RH I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037473",
+      "name": {
+        "german": "FB Rechtshilfe II: Beweiserhebung und Zustellung",
+        "french": "Unité Entraide judiciaire II : Obtention de preuves et notification",
+        "italian": "Settore Assistenza giudiziaria II: Assunzione delle prove e notificazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RH II",
+        "french": "RH II",
+        "italian": "RH II",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009008",
+      "name": {
+        "german": "FB Internationale Verträge",
+        "french": "Unité Traités internationaux",
+        "italian": "Settore Trattati internazionali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "INTV",
+        "french": "INTV",
+        "italian": "INTV",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5827822",
+      "surname": "Fontana Jungo",
+      "givenName": "Laurence",
+      "email": null,
+      "phone": "+41 58 46 90778",
+      "function": {
+        "german": "Chefin IRH, Vizedirektorin",
+        "french": "Cheffe IRH, Sous-directrice",
+        "italian": "Capo IRH, Vicedirettrice",
+        "english": "Chefin IRH, Vizedirektorin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2914262",
+      "surname": "Mauro",
+      "givenName": "Raphaël",
+      "email": null,
+      "phone": "+41 58 46 48995",
+      "function": {
+        "german": "Chef RH II / Stv. Chef IRH",
+        "french": "Chef RH II / Chef suppléant IRH",
+        "italian": "Capo RH II / Capo supplente IRH",
+        "english": "Chef RH II / Stv. Chef IRH"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2837335",
+      "surname": "Fetter",
+      "givenName": "Sébastien",
+      "email": null,
+      "phone": "+41 58 46 68086",
+      "function": {
+        "german": "Verbindungsstaatsanwalt bei Eurojust",
+        "french": "Procureur de liaison auprès d'Eurojust",
+        "italian": "Procuratore di collegamento presso Eurojust",
+        "english": "Verbindungsstaatsanwalt Eurojust"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9142341",
+      "surname": "Hänzi",
+      "givenName": "Silvia",
+      "email": null,
+      "phone": "+41 58 48 19179",
+      "function": {
+        "german": "Stv. Verbindungsstaatsanwältin bei Eurojust",
+        "french": "Procureure de liaison suppléante auprès d'Eurojust",
+        "italian": "Procuratrice di collegamento supplente presso Eurojust",
+        "english": "Stv. Verbindungsstaatsanwältin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009007",
+      "label": {
+        "german": "IRH",
+        "french": "IRH",
+        "italian": "IRH",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Internationale Rechtshilfe",
+        "french": "Domaine de direction Entraide judiciaire internationale",
+        "italian": "Ambito direzionale Assistenza giudiziaria internazionale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

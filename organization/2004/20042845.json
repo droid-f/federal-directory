@@ -1,1 +1,259 @@
-{"id"=>"20042845", "name"=>{"german"=>"Medizinische Rekrutierungszentren", "french"=>"Centres de recrutement médicaux", "italian"=>"Centri medici di reclutamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 36", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20011940", "name"=>{"german"=>"Rekrutierungszentrum Payerne", "french"=>"Centre de recrutement Payerne", "italian"=>"Centro di reclutamento Payerne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011941", "name"=>{"german"=>"Rekrutierungszentrum Sumiswald", "french"=>"Centre de recrutement de Sumiswald", "italian"=>"Centro di reclutamento Sumiswald", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011943", "name"=>{"german"=>"Rekrutierungszentrum Rüti", "french"=>"Centre de recrutement de Rüti", "italian"=>"Centro di reclutamento Rüti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011945", "name"=>{"german"=>"Rekrutierungszentrum Mels", "french"=>"Centre de recrutement de Mels", "italian"=>"Centro di reclutamento Mels", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011946", "name"=>{"german"=>"Rekrutierungszentrum Monte Ceneri", "french"=>"Centre de recrutement de Monte Ceneri", "italian"=>"Centro di reclutamento Monteceneri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011942", "name"=>{"german"=>"Rekrutierungszentrum Aarau", "french"=>"Centre de recrutement Aarau", "italian"=>"Centro di reclutamento Aarau", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20003026", "label"=>{"german"=>"ASTAB", "french"=>"EMA", "italian"=>"SMEs", "english"=>""}, "name"=>{"german"=>"Armeestab", "french"=>"Etat-major de l'armée", "italian"=>"Stato maggiore dell'esercito", "english"=>""}}, {"id"=>"20008451", "label"=>{"german"=>"Sanität", "french"=>"Affaires sanitaires", "italian"=>"Sanità militare", "english"=>""}, "name"=>{"german"=>"Sanität", "french"=>"Affaires sanitaires", "italian"=>"Sanità militare", "english"=>""}}, {"id"=>"20011898", "label"=>{"german"=>"Militärärztlicher Dienst", "french"=>"Service médico-militaire", "italian"=>"Servizio medico militare", "english"=>""}, "name"=>{"german"=>"Militärärztlicher Dienst", "french"=>"Service médico-militaire", "italian"=>"Servizio medico militare", "english"=>""}}, {"id"=>"20042845", "label"=>{"german"=>"Medizinische Rekrutierungszentren", "french"=>"Centres de recrutement médicaux", "italian"=>"Centri medici di reclutamento", "english"=>""}, "name"=>{"german"=>"Medizinische Rekrutierungszentren", "french"=>"Centres de recrutement médicaux", "italian"=>"Centri medici di reclutamento", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042845",
+  "name": {
+    "german": "Medizinische Rekrutierungszentren",
+    "french": "Centres de recrutement médicaux",
+    "italian": "Centri medici di reclutamento",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 36",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20011940",
+      "name": {
+        "german": "Rekrutierungszentrum Payerne",
+        "french": "Centre de recrutement Payerne",
+        "italian": "Centro di reclutamento Payerne",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011941",
+      "name": {
+        "german": "Rekrutierungszentrum Sumiswald",
+        "french": "Centre de recrutement de Sumiswald",
+        "italian": "Centro di reclutamento Sumiswald",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011943",
+      "name": {
+        "german": "Rekrutierungszentrum Rüti",
+        "french": "Centre de recrutement de Rüti",
+        "italian": "Centro di reclutamento Rüti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011945",
+      "name": {
+        "german": "Rekrutierungszentrum Mels",
+        "french": "Centre de recrutement de Mels",
+        "italian": "Centro di reclutamento Mels",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011946",
+      "name": {
+        "german": "Rekrutierungszentrum Monte Ceneri",
+        "french": "Centre de recrutement de Monte Ceneri",
+        "italian": "Centro di reclutamento Monteceneri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011942",
+      "name": {
+        "german": "Rekrutierungszentrum Aarau",
+        "french": "Centre de recrutement Aarau",
+        "italian": "Centro di reclutamento Aarau",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003026",
+      "label": {
+        "german": "ASTAB",
+        "french": "EMA",
+        "italian": "SMEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeestab",
+        "french": "Etat-major de l'armée",
+        "italian": "Stato maggiore dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008451",
+      "label": {
+        "german": "Sanität",
+        "french": "Affaires sanitaires",
+        "italian": "Sanità militare",
+        "english": ""
+      },
+      "name": {
+        "german": "Sanität",
+        "french": "Affaires sanitaires",
+        "italian": "Sanità militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011898",
+      "label": {
+        "german": "Militärärztlicher Dienst",
+        "french": "Service médico-militaire",
+        "italian": "Servizio medico militare",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärärztlicher Dienst",
+        "french": "Service médico-militaire",
+        "italian": "Servizio medico militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042845",
+      "label": {
+        "german": "Medizinische Rekrutierungszentren",
+        "french": "Centres de recrutement médicaux",
+        "italian": "Centri medici di reclutamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Medizinische Rekrutierungszentren",
+        "french": "Centres de recrutement médicaux",
+        "italian": "Centri medici di reclutamento",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

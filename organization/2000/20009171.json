@@ -1,1 +1,173 @@
-{"id"=>"20009171", "name"=>{"german"=>"Fachstellen Flugbetrieb", "french"=>"Services spécialisés Opérations aériennes", "italian"=>"Servizi specializzati Operazioni di volo", "english"=>"Fachstellen Flugbetrieb"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center (6. Stock) 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 4381670 95", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1153030", "surname"=>"Eder", "givenName"=>"Stephan", "email"=>nil, "phone"=>"+41 58 46 63057", "function"=>{"german"=>"Leiter Fachstellen Flugbetrieb", "french"=>"Leiter Fachstellen Flugbetrieb", "italian"=>"Leiter Fachstellen Flugbetrieb", "english"=>"Leiter Fachstellen Flugbetrieb"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1454678", "surname"=>"Bürgi", "givenName"=>"Urs", "email"=>nil, "phone"=>"+41 58 46 59349", "function"=>{"german"=>"Stellvertreter SBFF", "french"=>"Stellvertreter SBFF", "italian"=>"Stellvertreter SBFF", "english"=>"Stellvertreter SBFF"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009169", "label"=>{"german"=>"Sicherheit Flugbetrieb", "french"=>"Sécurité des opérations aériennes", "italian"=>"Sicurezza delle operazioni di volo", "english"=>"Sicherheit Flugbetrieb"}, "name"=>{"german"=>"Sicherheit Flugbetrieb", "french"=>"Sécurité des opérations aériennes", "italian"=>"Sicurezza delle operazioni di volo", "english"=>"Sicherheit Flugbetrieb"}}, {"id"=>"20009171", "label"=>{"german"=>"Fachstellen Flugbetrieb", "french"=>"Services spécialisés Opérations aériennes", "italian"=>"Servizi specializzati Operazioni di volo", "english"=>"Fachstellen Flugbetrieb"}, "name"=>{"german"=>"Fachstellen Flugbetrieb", "french"=>"Services spécialisés Opérations aériennes", "italian"=>"Servizi specializzati Operazioni di volo", "english"=>"Fachstellen Flugbetrieb"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009171",
+  "name": {
+    "german": "Fachstellen Flugbetrieb",
+    "french": "Services spécialisés Opérations aériennes",
+    "italian": "Servizi specializzati Operazioni di volo",
+    "english": "Fachstellen Flugbetrieb"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center (6. Stock) 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 4381670 95",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1153030",
+      "surname": "Eder",
+      "givenName": "Stephan",
+      "email": null,
+      "phone": "+41 58 46 63057",
+      "function": {
+        "german": "Leiter Fachstellen Flugbetrieb",
+        "french": "Leiter Fachstellen Flugbetrieb",
+        "italian": "Leiter Fachstellen Flugbetrieb",
+        "english": "Leiter Fachstellen Flugbetrieb"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1454678",
+      "surname": "Bürgi",
+      "givenName": "Urs",
+      "email": null,
+      "phone": "+41 58 46 59349",
+      "function": {
+        "german": "Stellvertreter SBFF",
+        "french": "Stellvertreter SBFF",
+        "italian": "Stellvertreter SBFF",
+        "english": "Stellvertreter SBFF"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009169",
+      "label": {
+        "german": "Sicherheit Flugbetrieb",
+        "french": "Sécurité des opérations aériennes",
+        "italian": "Sicurezza delle operazioni di volo",
+        "english": "Sicherheit Flugbetrieb"
+      },
+      "name": {
+        "german": "Sicherheit Flugbetrieb",
+        "french": "Sécurité des opérations aériennes",
+        "italian": "Sicurezza delle operazioni di volo",
+        "english": "Sicherheit Flugbetrieb"
+      }
+    },
+    {
+      "id": "20009171",
+      "label": {
+        "german": "Fachstellen Flugbetrieb",
+        "french": "Services spécialisés Opérations aériennes",
+        "italian": "Servizi specializzati Operazioni di volo",
+        "english": "Fachstellen Flugbetrieb"
+      },
+      "name": {
+        "german": "Fachstellen Flugbetrieb",
+        "french": "Services spécialisés Opérations aériennes",
+        "italian": "Servizi specializzati Operazioni di volo",
+        "english": "Fachstellen Flugbetrieb"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

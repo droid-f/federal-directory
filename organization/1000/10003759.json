@@ -1,1 +1,229 @@
-{"id"=>"10003759", "name"=>{"german"=>"Finanzen VBS", "french"=>"Finances DDPS", "italian"=>"Finanze DDPS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 463 48 36", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10003760", "name"=>{"german"=>"Finanzprozesse VBS", "french"=>"Processus clés", "italian"=>"Processi fondamentali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10012590", "name"=>{"german"=>"Finanzen GS-VBS", "french"=>"Finances du SG-DDPS", "italian"=>"Finanze della SG-DDPS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6830032", "surname"=>"Marti", "givenName"=>"Urs", "email"=>nil, "phone"=>"+41 58 46 45071", "function"=>{"german"=>"C Finanzen VBS/Stv C Ressourcen VBS", "french"=>"C Finanzen VBS/Stv C Ressourcen VBS", "italian"=>"C Finanzen VBS/Stv C Ressourcen VBS", "english"=>"C Finanzen VBS/Stv C Ressourcen VBS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1192597", "surname"=>"Zurbriggen", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 40950", "function"=>{"german"=>"Stv C Fi VBS / L Finanzprozesse VBS", "french"=>"Stv C Fi VBS / L Finanzprozesse VBS", "italian"=>"Stv C Fi VBS / L Finanzprozesse VBS", "english"=>"Stv C Fi VBS / L Finanzprozesse VBS"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1900358", "surname"=>"Brunner", "givenName"=>"Randa", "email"=>nil, "phone"=>"+41 58 46 35972", "function"=>{"german"=>"Betriebswirtschafter/in Finanzen VBS", "french"=>"Betriebswirtschafter/in Finanzen VBS", "italian"=>"Betriebswirtschafter/in Finanzen VBS", "english"=>"Betriebswirtschafter/in Finanzen VBS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0353774", "surname"=>"Matteazzi", "givenName"=>"Amélie", "email"=>nil, "phone"=>"+41 58 46 34836", "function"=>{"german"=>"Assistent/in Ressourcen/Finanzen VBS", "french"=>"Assistent/in Ressourcen/Finanzen VBS", "italian"=>"Assistent/in Ressourcen/Finanzen VBS", "english"=>"Assistent/in Ressourcen/Finanzen VBS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"10003759", "label"=>{"german"=>"Finanzen VBS", "french"=>"Finances DDPS", "italian"=>"Finanze DDPS", "english"=>""}, "name"=>{"german"=>"Finanzen VBS", "french"=>"Finances DDPS", "italian"=>"Finanze DDPS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003759",
+  "name": {
+    "german": "Finanzen VBS",
+    "french": "Finances DDPS",
+    "italian": "Finanze DDPS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 463 48 36",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10003760",
+      "name": {
+        "german": "Finanzprozesse VBS",
+        "french": "Processus clés",
+        "italian": "Processi fondamentali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012590",
+      "name": {
+        "german": "Finanzen GS-VBS",
+        "french": "Finances du SG-DDPS",
+        "italian": "Finanze della SG-DDPS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6830032",
+      "surname": "Marti",
+      "givenName": "Urs",
+      "email": null,
+      "phone": "+41 58 46 45071",
+      "function": {
+        "german": "C Finanzen VBS/Stv C Ressourcen VBS",
+        "french": "C Finanzen VBS/Stv C Ressourcen VBS",
+        "italian": "C Finanzen VBS/Stv C Ressourcen VBS",
+        "english": "C Finanzen VBS/Stv C Ressourcen VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1192597",
+      "surname": "Zurbriggen",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 40950",
+      "function": {
+        "german": "Stv C Fi VBS / L Finanzprozesse VBS",
+        "french": "Stv C Fi VBS / L Finanzprozesse VBS",
+        "italian": "Stv C Fi VBS / L Finanzprozesse VBS",
+        "english": "Stv C Fi VBS / L Finanzprozesse VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1900358",
+      "surname": "Brunner",
+      "givenName": "Randa",
+      "email": null,
+      "phone": "+41 58 46 35972",
+      "function": {
+        "german": "Betriebswirtschafter/in Finanzen VBS",
+        "french": "Betriebswirtschafter/in Finanzen VBS",
+        "italian": "Betriebswirtschafter/in Finanzen VBS",
+        "english": "Betriebswirtschafter/in Finanzen VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0353774",
+      "surname": "Matteazzi",
+      "givenName": "Amélie",
+      "email": null,
+      "phone": "+41 58 46 34836",
+      "function": {
+        "german": "Assistent/in Ressourcen/Finanzen VBS",
+        "french": "Assistent/in Ressourcen/Finanzen VBS",
+        "italian": "Assistent/in Ressourcen/Finanzen VBS",
+        "english": "Assistent/in Ressourcen/Finanzen VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003759",
+      "label": {
+        "german": "Finanzen VBS",
+        "french": "Finances DDPS",
+        "italian": "Finanze DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen VBS",
+        "french": "Finances DDPS",
+        "italian": "Finanze DDPS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

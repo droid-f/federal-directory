@@ -1,1 +1,139 @@
-{"id"=>"20037355", "name"=>{"german"=>"Kompetenzzentrum Fahnen", "french"=>"Centre de compétence dépliant", "italian"=>"Centro di competenza per i paragrammi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0089723", "surname"=>"Stadtmann", "givenName"=>"Renate", "email"=>nil, "phone"=>"+41 58 32 29828", "function"=>{"german"=>"Leiterin Kompetenzzentrum Fahnen", "french"=>"Leiterin Kompetenzzentrum Fahnen", "italian"=>"Leiterin Kompetenzzentrum Fahnen", "english"=>"Leiterin Kompetenzzentrum Fahnen"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5186970", "surname"=>"Auderset", "givenName"=>"Stefania", "email"=>nil, "phone"=>"+41 58 32 29738", "function"=>{"german"=>"Sachbearbeiterin Kompetenzzentrum Fahnen", "french"=>"Sachbearbeiterin Kompetenzzentrum Fahnen", "italian"=>"Sachbearbeiterin Kompetenzzentrum Fahnen", "english"=>"Sachbearbeiterin Kompetenzzentrum Fahnen"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037307", "label"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}, "name"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}}, {"id"=>"20037355", "label"=>{"german"=>"Kompetenzzentrum Fahnen", "french"=>"Centre de compétence dépliant", "italian"=>"Centro di competenza per i paragrammi", "english"=>""}, "name"=>{"german"=>"Kompetenzzentrum Fahnen", "french"=>"Centre de compétence dépliant", "italian"=>"Centro di competenza per i paragrammi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037355",
+  "name": {
+    "german": "Kompetenzzentrum Fahnen",
+    "french": "Centre de compétence dépliant",
+    "italian": "Centro di competenza per i paragrammi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0089723",
+      "surname": "Stadtmann",
+      "givenName": "Renate",
+      "email": null,
+      "phone": "+41 58 32 29828",
+      "function": {
+        "german": "Leiterin Kompetenzzentrum Fahnen",
+        "french": "Leiterin Kompetenzzentrum Fahnen",
+        "italian": "Leiterin Kompetenzzentrum Fahnen",
+        "english": "Leiterin Kompetenzzentrum Fahnen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5186970",
+      "surname": "Auderset",
+      "givenName": "Stefania",
+      "email": null,
+      "phone": "+41 58 32 29738",
+      "function": {
+        "german": "Sachbearbeiterin Kompetenzzentrum Fahnen",
+        "french": "Sachbearbeiterin Kompetenzzentrum Fahnen",
+        "italian": "Sachbearbeiterin Kompetenzzentrum Fahnen",
+        "english": "Sachbearbeiterin Kompetenzzentrum Fahnen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037307",
+      "label": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037355",
+      "label": {
+        "german": "Kompetenzzentrum Fahnen",
+        "french": "Centre de compétence dépliant",
+        "italian": "Centro di competenza per i paragrammi",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompetenzzentrum Fahnen",
+        "french": "Centre de compétence dépliant",
+        "italian": "Centro di competenza per i paragrammi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

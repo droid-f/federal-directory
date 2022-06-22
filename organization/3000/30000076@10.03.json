@@ -1,1 +1,138 @@
-{"id"=>"30000076@10.03", "name"=>{"german"=>"Finanzen und Controlling", "french"=>"Finances et Contrôle de gestion", "italian"=>"Finanzen und Controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallerstrasse 7", "postalCode"=>"3012", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-0862582", "surname"=>"Schönthal", "givenName"=>"Cornelia", "email"=>nil, "phone"=>"+41 58 46 20486", "function"=>{"german"=>"Leiter/in", "french"=>"chef", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"30000028@10.03", "label"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}, "name"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}}, {"id"=>"30000075@10.03", "label"=>{"german"=>"Personal und Finanzen", "french"=>"Personnel et finances", "italian"=>"Personal und Finanzen", "english"=>""}, "name"=>{"german"=>"Personal und Finanzen", "french"=>"Personnel et finances", "italian"=>"Personal und Finanzen", "english"=>""}}, {"id"=>"30000076@10.03", "label"=>{"german"=>"Finanzen und Controlling", "french"=>"Finances et Contrôle de gestion", "italian"=>"Finanzen und Controlling", "english"=>""}, "name"=>{"german"=>"Finanzen und Controlling", "french"=>"Finances et Contrôle de gestion", "italian"=>"Finanzen und Controlling", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "30000076@10.03",
+  "name": {
+    "german": "Finanzen und Controlling",
+    "french": "Finances et Contrôle de gestion",
+    "italian": "Finanzen und Controlling",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallerstrasse 7",
+    "postalCode": "3012",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-0862582",
+      "surname": "Schönthal",
+      "givenName": "Cornelia",
+      "email": null,
+      "phone": "+41 58 46 20486",
+      "function": {
+        "german": "Leiter/in",
+        "french": "chef",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000028@10.03",
+      "label": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      },
+      "name": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000075@10.03",
+      "label": {
+        "german": "Personal und Finanzen",
+        "french": "Personnel et finances",
+        "italian": "Personal und Finanzen",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal und Finanzen",
+        "french": "Personnel et finances",
+        "italian": "Personal und Finanzen",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000076@10.03",
+      "label": {
+        "german": "Finanzen und Controlling",
+        "french": "Finances et Contrôle de gestion",
+        "italian": "Finanzen und Controlling",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen und Controlling",
+        "french": "Finances et Contrôle de gestion",
+        "italian": "Finanzen und Controlling",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

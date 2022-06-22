@@ -1,1 +1,173 @@
-{"id"=>"10008828", "name"=>{"german"=>"Einkauf/Logistik", "french"=>"Achats/Logistique", "italian"=>"Acquisti/Logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3682786", "surname"=>"Küffer", "givenName"=>"David", "email"=>nil, "phone"=>"+41 58 46 76241", "function"=>{"german"=>"Leiter/in Einkauf/Logistik", "french"=>"Leiter/in Einkauf/Logistik", "italian"=>"Leiter/in Einkauf/Logistik", "english"=>"Leiter/in Einkauf/Logistik"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5482477", "surname"=>"Aebi-Linder", "givenName"=>"Fiorella", "email"=>nil, "phone"=>"+41 58 46 76380", "function"=>{"german"=>"Stv. Leiter/in Einkauf/Logistik", "french"=>"Stv. Leiter/in Einkauf/Logistik", "italian"=>"Stv. Leiter/in Einkauf/Logistik", "english"=>"Stv. Leiter/in Einkauf/Logistik"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003825", "label"=>{"german"=>"NSM", "french"=>"NSM", "italian"=>"NSM", "english"=>""}, "name"=>{"german"=>"Nationales Sportzentrum Magglingen", "french"=>"Centre national de sport de Macolin", "italian"=>"Centro sportivo nazionale Macolin", "english"=>""}}, {"id"=>"20047583", "label"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "name"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}}, {"id"=>"10008828", "label"=>{"german"=>"Einkauf/Logistik", "french"=>"Achats/Logistique", "italian"=>"Acquisti/Logistica", "english"=>""}, "name"=>{"german"=>"Einkauf/Logistik", "french"=>"Achats/Logistique", "italian"=>"Acquisti/Logistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10008828",
+  "name": {
+    "german": "Einkauf/Logistik",
+    "french": "Achats/Logistique",
+    "italian": "Acquisti/Logistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3682786",
+      "surname": "Küffer",
+      "givenName": "David",
+      "email": null,
+      "phone": "+41 58 46 76241",
+      "function": {
+        "german": "Leiter/in Einkauf/Logistik",
+        "french": "Leiter/in Einkauf/Logistik",
+        "italian": "Leiter/in Einkauf/Logistik",
+        "english": "Leiter/in Einkauf/Logistik"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5482477",
+      "surname": "Aebi-Linder",
+      "givenName": "Fiorella",
+      "email": null,
+      "phone": "+41 58 46 76380",
+      "function": {
+        "german": "Stv. Leiter/in Einkauf/Logistik",
+        "french": "Stv. Leiter/in Einkauf/Logistik",
+        "italian": "Stv. Leiter/in Einkauf/Logistik",
+        "english": "Stv. Leiter/in Einkauf/Logistik"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003825",
+      "label": {
+        "german": "NSM",
+        "french": "NSM",
+        "italian": "NSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationales Sportzentrum Magglingen",
+        "french": "Centre national de sport de Macolin",
+        "italian": "Centro sportivo nazionale Macolin",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047583",
+      "label": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008828",
+      "label": {
+        "german": "Einkauf/Logistik",
+        "french": "Achats/Logistique",
+        "italian": "Acquisti/Logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Einkauf/Logistik",
+        "french": "Achats/Logistique",
+        "italian": "Acquisti/Logistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

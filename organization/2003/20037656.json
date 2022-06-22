@@ -1,1 +1,244 @@
-{"id"=>"20037656", "name"=>{"german"=>"Projekte, Prozesse und Risiken", "french"=>"projets, processus et risques", "italian"=>"progetti, processi e rischi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Friedheimweg 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3588425", "surname"=>"Jaquet", "givenName"=>"Sylvain", "email"=>nil, "phone"=>"+41 58 46 34722", "function"=>{"german"=>"Gruppenleiter/in PPR TCQL", "french"=>"Gruppenleiter/in CP TCQL", "italian"=>"Gruppenleiter/in CP TCQL", "english"=>"Gruppenleiter/in PPR TCQL"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9070658", "surname"=>"Mühlemann", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 41580", "function"=>{"german"=>"Proj. Mgmt Officer/in / Stv.GRL PPR TCQL", "french"=>"Proj. Mgmt Officer/in CP / Stv. GrL TCQL", "italian"=>"Proj. Mgmt Officer/in CP / Stv. GrL TCQL", "english"=>"Proj. Mgmt Officer/in / Stv.GRL PPR TCQL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-0922315", "surname"=>"Ackermann", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 23804", "function"=>{"german"=>"Controller/in PPR TCQL", "french"=>"Controller/in CP TCQL", "italian"=>"Controller/in CP TCQL", "english"=>"Controller/in PPR TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4981316", "surname"=>"Pfammatter", "givenName"=>"Rahel", "email"=>nil, "phone"=>"+41 58 48 56872", "function"=>{"german"=>"Project Management Officer PPR TCQL", "french"=>"Project Management Officer CP TCQL", "italian"=>"Project Management Officer CP TCQL", "english"=>"Project Management Officer PPR TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6940286", "surname"=>"Tscherrig", "givenName"=>"Lisa", "email"=>nil, "phone"=>"+41 58 48 18496", "function"=>{"german"=>"Prozessmanager/in PPR TCQL", "french"=>"Prozessmanager/in CP TCQL", "italian"=>"Prozessmanager/in CP TCQL", "english"=>"Prozessmanager/in PPR TCQL"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"10004185", "label"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}, "name"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}}, {"id"=>"20037651", "label"=>{"german"=>"Querschnittleistungen", "french"=>"Prestations transversales", "italian"=>"Prestazioni transversali", "english"=>""}, "name"=>{"german"=>"Querschnittleistungen", "french"=>"Prestations transversales", "italian"=>"Prestazioni transversali", "english"=>""}}, {"id"=>"20037656", "label"=>{"german"=>"Projekte, Prozesse und Risiken", "french"=>"projets, processus et risques", "italian"=>"progetti, processi e rischi", "english"=>""}, "name"=>{"german"=>"Projekte, Prozesse und Risiken", "french"=>"projets, processus et risques", "italian"=>"progetti, processi e rischi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037656",
+  "name": {
+    "german": "Projekte, Prozesse und Risiken",
+    "french": "projets, processus et risques",
+    "italian": "progetti, processi e rischi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Friedheimweg 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3588425",
+      "surname": "Jaquet",
+      "givenName": "Sylvain",
+      "email": null,
+      "phone": "+41 58 46 34722",
+      "function": {
+        "german": "Gruppenleiter/in PPR TCQL",
+        "french": "Gruppenleiter/in CP TCQL",
+        "italian": "Gruppenleiter/in CP TCQL",
+        "english": "Gruppenleiter/in PPR TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9070658",
+      "surname": "Mühlemann",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 41580",
+      "function": {
+        "german": "Proj. Mgmt Officer/in / Stv.GRL PPR TCQL",
+        "french": "Proj. Mgmt Officer/in CP / Stv. GrL TCQL",
+        "italian": "Proj. Mgmt Officer/in CP / Stv. GrL TCQL",
+        "english": "Proj. Mgmt Officer/in / Stv.GRL PPR TCQL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-0922315",
+      "surname": "Ackermann",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 23804",
+      "function": {
+        "german": "Controller/in PPR TCQL",
+        "french": "Controller/in CP TCQL",
+        "italian": "Controller/in CP TCQL",
+        "english": "Controller/in PPR TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4981316",
+      "surname": "Pfammatter",
+      "givenName": "Rahel",
+      "email": null,
+      "phone": "+41 58 48 56872",
+      "function": {
+        "german": "Project Management Officer PPR TCQL",
+        "french": "Project Management Officer CP TCQL",
+        "italian": "Project Management Officer CP TCQL",
+        "english": "Project Management Officer PPR TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6940286",
+      "surname": "Tscherrig",
+      "givenName": "Lisa",
+      "email": null,
+      "phone": "+41 58 48 18496",
+      "function": {
+        "german": "Prozessmanager/in PPR TCQL",
+        "french": "Prozessmanager/in CP TCQL",
+        "italian": "Prozessmanager/in CP TCQL",
+        "english": "Prozessmanager/in PPR TCQL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004185",
+      "label": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037651",
+      "label": {
+        "german": "Querschnittleistungen",
+        "french": "Prestations transversales",
+        "italian": "Prestazioni transversali",
+        "english": ""
+      },
+      "name": {
+        "german": "Querschnittleistungen",
+        "french": "Prestations transversales",
+        "italian": "Prestazioni transversali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037656",
+      "label": {
+        "german": "Projekte, Prozesse und Risiken",
+        "french": "projets, processus et risques",
+        "italian": "progetti, processi e rischi",
+        "english": ""
+      },
+      "name": {
+        "german": "Projekte, Prozesse und Risiken",
+        "french": "projets, processus et risques",
+        "italian": "progetti, processi e rischi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

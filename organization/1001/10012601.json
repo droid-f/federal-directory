@@ -1,1 +1,156 @@
-{"id"=>"10012601", "name"=>{"german"=>"Ökonomie und Statistik", "french"=>"Economie", "italian"=>"Economia", "english"=>""}, "nameAbbr"=>{"german"=>"TP-EST", "french"=>"TP-EST", "italian"=>"TP-EST", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5107719", "surname"=>"Rohn Hofmann", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 05598", "function"=>{"german"=>"Leiterin Ökonomie", "french"=>"Leiterin Ökonomie", "italian"=>"Leiterin Ökonomie", "english"=>"Leiterin Ökonomie"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003983", "label"=>{"german"=>"Telecomdienste und Post", "french"=>"Services de télécommunication et poste", "italian"=>"Servizi di telecomunicazione e posta", "english"=>""}, "name"=>{"german"=>"Telecomdienste und Post", "french"=>"Services de télécommunication et poste", "italian"=>"Servizi di telecomunicazione e posta", "english"=>""}}, {"id"=>"10012601", "label"=>{"german"=>"TP-EST", "french"=>"TP-EST", "italian"=>"TP-EST", "english"=>""}, "name"=>{"german"=>"Ökonomie und Statistik", "french"=>"Economie", "italian"=>"Economia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10012601",
+  "name": {
+    "german": "Ökonomie und Statistik",
+    "french": "Economie",
+    "italian": "Economia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "TP-EST",
+    "french": "TP-EST",
+    "italian": "TP-EST",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5107719",
+      "surname": "Rohn Hofmann",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 05598",
+      "function": {
+        "german": "Leiterin Ökonomie",
+        "french": "Leiterin Ökonomie",
+        "italian": "Leiterin Ökonomie",
+        "english": "Leiterin Ökonomie"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003983",
+      "label": {
+        "german": "Telecomdienste und Post",
+        "french": "Services de télécommunication et poste",
+        "italian": "Servizi di telecomunicazione e posta",
+        "english": ""
+      },
+      "name": {
+        "german": "Telecomdienste und Post",
+        "french": "Services de télécommunication et poste",
+        "italian": "Servizi di telecomunicazione e posta",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012601",
+      "label": {
+        "german": "TP-EST",
+        "french": "TP-EST",
+        "italian": "TP-EST",
+        "english": ""
+      },
+      "name": {
+        "german": "Ökonomie und Statistik",
+        "french": "Economie",
+        "italian": "Economia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

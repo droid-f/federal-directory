@@ -1,1 +1,199 @@
-{"id"=>"60031904@11.05", "name"=>{"german"=>"HR Operations", "french"=>"HR Operations", "italian"=>"HR Operations", "english"=>""}, "nameAbbr"=>{"german"=>"GFHO", "french"=>"GFHO", "italian"=>"GFHO", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seetalstrasse", "postalCode"=>"6032", "location"=>"Emmen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"60031924@11.05", "name"=>{"german"=>"HR Administration", "french"=>"HR Administration", "italian"=>"HR Administration", "english"=>""}, "nameAbbr"=>{"german"=>"GFHOA", "french"=>"GFHOA", "italian"=>"GFHOA", "english"=>""}}, {"id"=>"60031925@11.05", "name"=>{"german"=>"HR PayRoll", "french"=>"HR PayRoll", "italian"=>"HR PayRoll", "english"=>""}, "nameAbbr"=>{"german"=>"GFHOB", "french"=>"GFHOB", "italian"=>"GFHOB", "english"=>""}}, {"id"=>"60031932@11.05", "name"=>{"german"=>"HR Time & Travel", "french"=>"HR Time & Travel", "italian"=>"HR Time & Travel", "english"=>""}, "nameAbbr"=>{"german"=>"GFHOC", "french"=>"GFHOC", "italian"=>"GFHOC", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031755@11.05", "label"=>{"german"=>"GFH", "french"=>"GFH", "italian"=>"GFH", "english"=>""}, "name"=>{"german"=>"Group Human Ressources", "french"=>"Group Human Ressources", "italian"=>"Group Human Ressources", "english"=>""}}, {"id"=>"60031904@11.05", "label"=>{"german"=>"GFHO", "french"=>"GFHO", "italian"=>"GFHO", "english"=>""}, "name"=>{"german"=>"HR Operations", "french"=>"HR Operations", "italian"=>"HR Operations", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60031904@11.05",
+  "name": {
+    "german": "HR Operations",
+    "french": "HR Operations",
+    "italian": "HR Operations",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "GFHO",
+    "french": "GFHO",
+    "italian": "GFHO",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seetalstrasse",
+    "postalCode": "6032",
+    "location": "Emmen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "60031924@11.05",
+      "name": {
+        "german": "HR Administration",
+        "french": "HR Administration",
+        "italian": "HR Administration",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFHOA",
+        "french": "GFHOA",
+        "italian": "GFHOA",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031925@11.05",
+      "name": {
+        "german": "HR PayRoll",
+        "french": "HR PayRoll",
+        "italian": "HR PayRoll",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFHOB",
+        "french": "GFHOB",
+        "italian": "GFHOB",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031932@11.05",
+      "name": {
+        "german": "HR Time & Travel",
+        "french": "HR Time & Travel",
+        "italian": "HR Time & Travel",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFHOC",
+        "french": "GFHOC",
+        "italian": "GFHOC",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031755@11.05",
+      "label": {
+        "german": "GFH",
+        "french": "GFH",
+        "italian": "GFH",
+        "english": ""
+      },
+      "name": {
+        "german": "Group Human Ressources",
+        "french": "Group Human Ressources",
+        "italian": "Group Human Ressources",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031904@11.05",
+      "label": {
+        "german": "GFHO",
+        "french": "GFHO",
+        "italian": "GFHO",
+        "english": ""
+      },
+      "name": {
+        "german": "HR Operations",
+        "french": "HR Operations",
+        "italian": "HR Operations",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

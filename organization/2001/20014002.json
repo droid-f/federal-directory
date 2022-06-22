@@ -1,1 +1,184 @@
-{"id"=>"20014002", "name"=>{"german"=>"Personalbetreuung", "french"=>"Encadrement du personnel", "italian"=>"Gestione del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Theaterplatz 8", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3061007", "surname"=>"Schocher", "givenName"=>"Renate", "email"=>nil, "phone"=>"+41 58 46 22012", "function"=>{"german"=>"Personalverantwortliche/r GS", "french"=>"Responsable du personnel SG", "italian"=>"Responsabile del personale SG", "english"=>"Personalverantwortliche/r GS"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6188380", "surname"=>"Högger", "givenName"=>"Ronny", "email"=>nil, "phone"=>"+41 58 46 22015", "function"=>{"german"=>"Spezialist/in Human Resources", "french"=>"Specialiste Ressources Humaines", "italian"=>"Specialista Risorse Umane", "english"=>"Spezialist/in Human Resources"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10002651", "label"=>{"german"=>"GS-WBF", "french"=>"GS-WBF", "italian"=>"GS-WBF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général du DEFR", "italian"=>"Segreteria generale DEFR", "english"=>""}}, {"id"=>"10008655", "label"=>{"german"=>"GS-WBF", "french"=>"SG-DEFR", "italian"=>"SG-DEFR", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général SG-DEFR", "italian"=>"Segreteria generale SG-DEFR", "english"=>""}}, {"id"=>"10002661", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10002664", "label"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}}, {"id"=>"20014002", "label"=>{"german"=>"Personalbetreuung", "french"=>"Encadrement du personnel", "italian"=>"Gestione del personale", "english"=>""}, "name"=>{"german"=>"Personalbetreuung", "french"=>"Encadrement du personnel", "italian"=>"Gestione del personale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014002",
+  "name": {
+    "german": "Personalbetreuung",
+    "french": "Encadrement du personnel",
+    "italian": "Gestione del personale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Theaterplatz 8",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3061007",
+      "surname": "Schocher",
+      "givenName": "Renate",
+      "email": null,
+      "phone": "+41 58 46 22012",
+      "function": {
+        "german": "Personalverantwortliche/r GS",
+        "french": "Responsable du personnel SG",
+        "italian": "Responsabile del personale SG",
+        "english": "Personalverantwortliche/r GS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6188380",
+      "surname": "Högger",
+      "givenName": "Ronny",
+      "email": null,
+      "phone": "+41 58 46 22015",
+      "function": {
+        "german": "Spezialist/in Human Resources",
+        "french": "Specialiste Ressources Humaines",
+        "italian": "Specialista Risorse Umane",
+        "english": "Spezialist/in Human Resources"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002651",
+      "label": {
+        "german": "GS-WBF",
+        "french": "GS-WBF",
+        "italian": "GS-WBF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général du DEFR",
+        "italian": "Segreteria generale DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008655",
+      "label": {
+        "german": "GS-WBF",
+        "french": "SG-DEFR",
+        "italian": "SG-DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général SG-DEFR",
+        "italian": "Segreteria generale SG-DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002661",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002664",
+      "label": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014002",
+      "label": {
+        "german": "Personalbetreuung",
+        "french": "Encadrement du personnel",
+        "italian": "Gestione del personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personalbetreuung",
+        "french": "Encadrement du personnel",
+        "italian": "Gestione del personale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

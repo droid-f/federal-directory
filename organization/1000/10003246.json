@@ -1,1 +1,232 @@
-{"id"=>"10003246", "name"=>{"german"=>"Stab, Personal, Kommunikation", "french"=>"Etat-Major, personnel et information", "italian"=>"Stato Maggiore, personale e informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20025852", "name"=>{"german"=>"Personaldienst", "french"=>"Service du personnel", "italian"=>"Servizio del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20007780", "name"=>{"german"=>"Berufsbildung und Logistik", "french"=>"Formation professionnelle et logistique", "italian"=>"Formazione professionale e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025853", "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017856", "name"=>{"german"=>"Digitale Medien", "french"=>"Médias électroniques et publications", "italian"=>"Media elettronici e pubblicazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20023826", "name"=>{"german"=>"Bundesratsgeschäfte und GEVER", "french"=>"Affaires du Conseil fédéral", "italian"=>"Affari del Consiglio federale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2441585", "surname"=>"Hostettler", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 26062", "function"=>{"german"=>"Leiter Stab, Personal, Kommunikation", "french"=>"Chef État-major, personnel, communication", "italian"=>"Capo Stato maggiore, personale, comunicazione", "english"=>"Leiter Stab, Personal, Kommunikation"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1890695", "surname"=>"Grütter", "givenName"=>"Anita", "email"=>nil, "phone"=>"+41 58 46 35355", "function"=>{"german"=>"Stv. Leiter Stab, Personal, Kommunikation", "french"=>"Cheffe suppléante Etat-major, personnel,communication", "italian"=>"Capo sostituta Stato maggiore, personale, comunicazione", "english"=>"Stv. Leiterin Stab, Personal, Komm."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003246", "label"=>{"german"=>"Stab, Personal, Kommunikation", "french"=>"Etat-Major, personnel et information", "italian"=>"Stato Maggiore, personale e informazione", "english"=>""}, "name"=>{"german"=>"Stab, Personal, Kommunikation", "french"=>"Etat-Major, personnel et information", "italian"=>"Stato Maggiore, personale e informazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003246",
+  "name": {
+    "german": "Stab, Personal, Kommunikation",
+    "french": "Etat-Major, personnel et information",
+    "italian": "Stato Maggiore, personale e informazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20025852",
+      "name": {
+        "german": "Personaldienst",
+        "french": "Service du personnel",
+        "italian": "Servizio del personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20007780",
+      "name": {
+        "german": "Berufsbildung und Logistik",
+        "french": "Formation professionnelle et logistique",
+        "italian": "Formazione professionale e logistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025853",
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017856",
+      "name": {
+        "german": "Digitale Medien",
+        "french": "Médias électroniques et publications",
+        "italian": "Media elettronici e pubblicazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20023826",
+      "name": {
+        "german": "Bundesratsgeschäfte und GEVER",
+        "french": "Affaires du Conseil fédéral",
+        "italian": "Affari del Consiglio federale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2441585",
+      "surname": "Hostettler",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 26062",
+      "function": {
+        "german": "Leiter Stab, Personal, Kommunikation",
+        "french": "Chef État-major, personnel, communication",
+        "italian": "Capo Stato maggiore, personale, comunicazione",
+        "english": "Leiter Stab, Personal, Kommunikation"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1890695",
+      "surname": "Grütter",
+      "givenName": "Anita",
+      "email": null,
+      "phone": "+41 58 46 35355",
+      "function": {
+        "german": "Stv. Leiter Stab, Personal, Kommunikation",
+        "french": "Cheffe suppléante Etat-major, personnel,communication",
+        "italian": "Capo sostituta Stato maggiore, personale, comunicazione",
+        "english": "Stv. Leiterin Stab, Personal, Komm."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003246",
+      "label": {
+        "german": "Stab, Personal, Kommunikation",
+        "french": "Etat-Major, personnel et information",
+        "italian": "Stato Maggiore, personale e informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab, Personal, Kommunikation",
+        "french": "Etat-Major, personnel et information",
+        "italian": "Stato Maggiore, personale e informazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

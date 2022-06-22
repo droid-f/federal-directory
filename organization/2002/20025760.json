@@ -1,1 +1,166 @@
-{"id"=>"20025760", "name"=>{"german"=>"Persönliches Büro C VBS", "french"=>"Bureau personnel du chef DDPS", "italian"=>"Ufficio personale C DDPS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-5992230", "surname"=>"Jossi", "givenName"=>"Marlies", "email"=>nil, "phone"=>"+41 58 46 45085", "function"=>{"german"=>"Assistent/in Chef VBS", "french"=>"Assistent/in Chef VBS", "italian"=>"Assistent/in Chef VBS", "english"=>"Assistent/in Chef VBS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8606354", "surname"=>"Maeder", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 46 33186", "function"=>{"german"=>"Sachbearbeiter/in Sport", "french"=>"Sachbearbeiter/in Sport", "italian"=>"Sachbearbeiter/in Sport", "english"=>"Sachbearbeiter/in Sport"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5634840", "surname"=>"Meyer", "givenName"=>"Daniela", "email"=>nil, "phone"=>"+41 58 46 48512", "function"=>{"german"=>"Assistent/in Chef VBS und GS VBS", "french"=>"Assistent/in Chef VBS und GS VBS", "italian"=>"Assistent/in Chef VBS und GS VBS", "english"=>"Assistent/in Chef VBS und GS VBS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003740", "label"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}, "name"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}}, {"id"=>"20025760", "label"=>{"german"=>"Persönliches Büro C VBS", "french"=>"Bureau personnel du chef DDPS", "italian"=>"Ufficio personale C DDPS", "english"=>""}, "name"=>{"german"=>"Persönliches Büro C VBS", "french"=>"Bureau personnel du chef DDPS", "italian"=>"Ufficio personale C DDPS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025760",
+  "name": {
+    "german": "Persönliches Büro C VBS",
+    "french": "Bureau personnel du chef DDPS",
+    "italian": "Ufficio personale C DDPS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-5992230",
+      "surname": "Jossi",
+      "givenName": "Marlies",
+      "email": null,
+      "phone": "+41 58 46 45085",
+      "function": {
+        "german": "Assistent/in Chef VBS",
+        "french": "Assistent/in Chef VBS",
+        "italian": "Assistent/in Chef VBS",
+        "english": "Assistent/in Chef VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8606354",
+      "surname": "Maeder",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 46 33186",
+      "function": {
+        "german": "Sachbearbeiter/in Sport",
+        "french": "Sachbearbeiter/in Sport",
+        "italian": "Sachbearbeiter/in Sport",
+        "english": "Sachbearbeiter/in Sport"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5634840",
+      "surname": "Meyer",
+      "givenName": "Daniela",
+      "email": null,
+      "phone": "+41 58 46 48512",
+      "function": {
+        "german": "Assistent/in Chef VBS und GS VBS",
+        "french": "Assistent/in Chef VBS und GS VBS",
+        "italian": "Assistent/in Chef VBS und GS VBS",
+        "english": "Assistent/in Chef VBS und GS VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003740",
+      "label": {
+        "german": "Kommunikation VBS und GS VBS",
+        "french": "Communication DDPS et SG DDPS",
+        "italian": "Comunicazione DDPS e SG DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation VBS und GS VBS",
+        "french": "Communication DDPS et SG DDPS",
+        "italian": "Comunicazione DDPS e SG DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025760",
+      "label": {
+        "german": "Persönliches Büro C VBS",
+        "french": "Bureau personnel du chef DDPS",
+        "italian": "Ufficio personale C DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Persönliches Büro C VBS",
+        "french": "Bureau personnel du chef DDPS",
+        "italian": "Ufficio personale C DDPS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

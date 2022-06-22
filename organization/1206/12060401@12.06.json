@@ -1,1 +1,155 @@
-{"id"=>"12060401@12.06", "name"=>{"german"=>"Stab & Abteilungssekretariat R&I", "french"=>"État-major et secrétariat Droit & Affaires internationales", "italian"=>"Stato maggiore e segreteria Diritto & Affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"12060402@12.06", "name"=>{"german"=>"Abteilungssekretariat R&I", "french"=>"Secrétariat Droit & Affaires internationales", "italian"=>"Segreteria Diritto & Affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>178, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-4485330", "surname"=>"Castro", "givenName"=>"Jessica", "email"=>nil, "phone"=>"+41 31 377 72 10", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060400@12.06", "label"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}}, {"id"=>"12060401@12.06", "label"=>{"german"=>"Stab & Abteilungssekretariat R&I", "french"=>"État-major et secrétariat Droit & Affaires internationales", "italian"=>"Stato maggiore e segreteria Diritto & Affari internazionali", "english"=>""}, "name"=>{"german"=>"Stab & Abteilungssekretariat R&I", "french"=>"État-major et secrétariat Droit & Affaires internationales", "italian"=>"Stato maggiore e segreteria Diritto & Affari internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060401@12.06",
+  "name": {
+    "german": "Stab & Abteilungssekretariat R&I",
+    "french": "État-major et secrétariat Droit & Affaires internationales",
+    "italian": "Stato maggiore e segreteria Diritto & Affari internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "12060402@12.06",
+      "name": {
+        "german": "Abteilungssekretariat R&I",
+        "french": "Secrétariat Droit & Affaires internationales",
+        "italian": "Segreteria Diritto & Affari internazionali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": 178,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-4485330",
+      "surname": "Castro",
+      "givenName": "Jessica",
+      "email": null,
+      "phone": "+41 31 377 72 10",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060400@12.06",
+      "label": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060401@12.06",
+      "label": {
+        "german": "Stab & Abteilungssekretariat R&I",
+        "french": "État-major et secrétariat Droit & Affaires internationales",
+        "italian": "Stato maggiore e segreteria Diritto & Affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab & Abteilungssekretariat R&I",
+        "french": "État-major et secrétariat Droit & Affaires internationales",
+        "italian": "Stato maggiore e segreteria Diritto & Affari internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

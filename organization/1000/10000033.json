@@ -1,1 +1,276 @@
-{"id"=>"10000033", "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}, "nameAbbr"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10008848", "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}, "nameAbbr"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}}, {"id"=>"10008753", "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}, "nameAbbr"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}}, {"id"=>"10008754", "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}, "nameAbbr"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}}, {"id"=>"20004794", "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}, "nameAbbr"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}}, {"id"=>"10008759", "name"=>{"german"=>"Bundesamt für Strassen", "french"=>"Office fédéral des routes", "italian"=>"Ufficio federale delle strade", "english"=>""}, "nameAbbr"=>{"german"=>"ASTRA", "french"=>"OFROU", "italian"=>"USTRA", "english"=>""}}, {"id"=>"10008757", "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}, "nameAbbr"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}}, {"id"=>"10008758", "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}, "nameAbbr"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}}, {"id"=>"10009450", "name"=>{"german"=>"Bundesamt für Raumentwicklung", "french"=>"Office fédéral du développement territorial", "italian"=>"Ufficio federale dello sviluppo territoriale", "english"=>""}, "nameAbbr"=>{"german"=>"ARE", "french"=>"ARE", "italian"=>"ARE", "english"=>""}}, {"id"=>"20030368", "name"=>{"german"=>"Schweizerische Sicherheitsuntersuchungsstelle", "french"=>"Service suisse d’enquête de sécurité", "italian"=>"Servizio d inchiesta svizzero sulla sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"SUST", "french"=>"SUST", "italian"=>"SUST", "english"=>""}}, {"id"=>"20030369", "name"=>{"german"=>"Regulierungsbehörden Infrastruktur", "french"=>"Autorités de régulation des infrastructures", "italian"=>"Autorità di regolazione delle infrastrutture", "english"=>""}, "nameAbbr"=>{"german"=>"RegInfra", "french"=>"RegInfra", "italian"=>"RegInfra", "english"=>""}}], "overview"=>[{"functionId"=>247, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-4838485", "surname"=>"Sommaruga", "givenName"=>"Simonetta", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Departementsvorsteherin", "french"=>"Chef du département", "italian"=>"Capo del Dipartimento", "english"=>""}, "isVisibleInEstKa"=>true}, {"functionId"=>246, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-4748226", "surname"=>"Amherd", "givenName"=>"Viola", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stellvertreterin", "french"=>"Suppléant", "italian"=>"Supplente", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}], "contactPoints"=>[{"id"=>13, "name"=>{"german"=>"Bundeszentrale", "french"=>"Siège fédéral", "italian"=>"Sede centrale federale", "english"=>"Federal Head Office"}, "email"=>"", "phone"=>"+41 58 462 21 11", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "10000033",
+  "name": {
+    "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+    "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+    "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "UVEK",
+    "french": "DETEC",
+    "italian": "DATEC",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10008848",
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      },
+      "nameAbbr": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      }
+    },
+    {
+      "id": "20004794",
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      },
+      "nameAbbr": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      }
+    },
+    {
+      "id": "10008759",
+      "name": {
+        "german": "Bundesamt für Strassen",
+        "french": "Office fédéral des routes",
+        "italian": "Ufficio federale delle strade",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ASTRA",
+        "french": "OFROU",
+        "italian": "USTRA",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009450",
+      "name": {
+        "german": "Bundesamt für Raumentwicklung",
+        "french": "Office fédéral du développement territorial",
+        "italian": "Ufficio federale dello sviluppo territoriale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ARE",
+        "french": "ARE",
+        "italian": "ARE",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030368",
+      "name": {
+        "german": "Schweizerische Sicherheitsuntersuchungsstelle",
+        "french": "Service suisse d’enquête de sécurité",
+        "italian": "Servizio d inchiesta svizzero sulla sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SUST",
+        "french": "SUST",
+        "italian": "SUST",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030369",
+      "name": {
+        "german": "Regulierungsbehörden Infrastruktur",
+        "french": "Autorités de régulation des infrastructures",
+        "italian": "Autorità di regolazione delle infrastrutture",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RegInfra",
+        "french": "RegInfra",
+        "italian": "RegInfra",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": 247,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-4838485",
+      "surname": "Sommaruga",
+      "givenName": "Simonetta",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Departementsvorsteherin",
+        "french": "Chef du département",
+        "italian": "Capo del Dipartimento",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 246,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-4748226",
+      "surname": "Amherd",
+      "givenName": "Viola",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stellvertreterin",
+        "french": "Suppléant",
+        "italian": "Supplente",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 13,
+      "name": {
+        "german": "Bundeszentrale",
+        "french": "Siège fédéral",
+        "italian": "Sede centrale federale",
+        "english": "Federal Head Office"
+      },
+      "email": "",
+      "phone": "+41 58 462 21 11",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

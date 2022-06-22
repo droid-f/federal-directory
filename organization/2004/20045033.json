@@ -1,1 +1,188 @@
-{"id"=>"20045033", "name"=>{"german"=>"Asylverfahren und Praxis 2", "french"=>"Procédure d'asile et pratique 2", "italian"=>"Procedura d'asilo e prassi 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7418543", "surname"=>"Baschung", "givenName"=>"Stephan", "email"=>nil, "phone"=>"+41 58 46 59956", "function"=>{"german"=>"Chef/in Sektion", "french"=>"Chef/in Sektion", "italian"=>"Chef/in Sektion", "english"=>"Chef/in Sektion"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8376519", "surname"=>"Deiss Kissling", "givenName"=>"Laetitia", "email"=>nil, "phone"=>"+41 58 46 59615", "function"=>{"german"=>"Fachreferent/in / Stv. C Sektion", "french"=>"Fachreferent/in / Stv. C Sektion", "italian"=>"Fachreferent/in / Stv. C Sektion", "english"=>"Fachreferent/in / Stv. C Sektion"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045030", "label"=>{"german"=>"Asylverfahren und Praxis", "french"=>"Procédure d'asile et pratique", "italian"=>"Procedura d'asilo e prassi", "english"=>""}, "name"=>{"german"=>"Asylverfahren und Praxis", "french"=>"Procédure d'asile et pratique", "italian"=>"Procedura d'asilo e prassi", "english"=>""}}, {"id"=>"20045033", "label"=>{"german"=>"Asylverfahren und Praxis 2", "french"=>"Procédure d'asile et pratique 2", "italian"=>"Procedura d'asilo e prassi 2", "english"=>""}, "name"=>{"german"=>"Asylverfahren und Praxis 2", "french"=>"Procédure d'asile et pratique 2", "italian"=>"Procedura d'asilo e prassi 2", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045033",
+  "name": {
+    "german": "Asylverfahren und Praxis 2",
+    "french": "Procédure d'asile et pratique 2",
+    "italian": "Procedura d'asilo e prassi 2",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7418543",
+      "surname": "Baschung",
+      "givenName": "Stephan",
+      "email": null,
+      "phone": "+41 58 46 59956",
+      "function": {
+        "german": "Chef/in Sektion",
+        "french": "Chef/in Sektion",
+        "italian": "Chef/in Sektion",
+        "english": "Chef/in Sektion"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8376519",
+      "surname": "Deiss Kissling",
+      "givenName": "Laetitia",
+      "email": null,
+      "phone": "+41 58 46 59615",
+      "function": {
+        "german": "Fachreferent/in / Stv. C Sektion",
+        "french": "Fachreferent/in / Stv. C Sektion",
+        "italian": "Fachreferent/in / Stv. C Sektion",
+        "english": "Fachreferent/in / Stv. C Sektion"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045030",
+      "label": {
+        "german": "Asylverfahren und Praxis",
+        "french": "Procédure d'asile et pratique",
+        "italian": "Procedura d'asilo e prassi",
+        "english": ""
+      },
+      "name": {
+        "german": "Asylverfahren und Praxis",
+        "french": "Procédure d'asile et pratique",
+        "italian": "Procedura d'asilo e prassi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045033",
+      "label": {
+        "german": "Asylverfahren und Praxis 2",
+        "french": "Procédure d'asile et pratique 2",
+        "italian": "Procedura d'asilo e prassi 2",
+        "english": ""
+      },
+      "name": {
+        "german": "Asylverfahren und Praxis 2",
+        "french": "Procédure d'asile et pratique 2",
+        "italian": "Procedura d'asilo e prassi 2",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

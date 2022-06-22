@@ -1,1 +1,182 @@
-{"id"=>"12060303@12.06", "name"=>{"german"=>"Infrastruktur & GEVER", "french"=>"Infrastructure & GEVER", "italian"=>"Infrastruttura & GEVER", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>162, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-3215337", "surname"=>"Plattner", "givenName"=>"Rolf", "email"=>nil, "phone"=>"+41 31 377 72 00", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5500066", "surname"=>"Graber", "givenName"=>"Alexandra", "email"=>nil, "phone"=>"+41 31 377 75 28", "function"=>{"german"=>"Information & Dokumentation / Bibliothek", "french"=>"Information & Dokumentation / Bibliothek", "italian"=>"Information & Dokumentation / Bibliothek", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-6675692", "surname"=>"Kienholz", "givenName"=>"Ueli", "email"=>nil, "phone"=>"+41 31 377 72 79", "function"=>{"german"=>"Information & Dokumentation / Bibliothek", "french"=>"Information & Dokumentation / Bibliothek", "italian"=>"Information & Dokumentation / Bibliothek", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-9398551", "surname"=>"Lüthi", "givenName"=>"Madeleine", "email"=>nil, "phone"=>"+41 31 377 75 20", "function"=>{"german"=>"Fachliche Leiterin GEVER", "french"=>"Fachliche Leiterin GEVER", "italian"=>"Fachliche Leiterin GEVER", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060700@12.06", "label"=>{"german"=>"Technologie- & Infrastrukturservices", "french"=>"Services technologiques & Infrastructure", "italian"=>"Servizi tecnologici & Infrastruttura", "english"=>""}, "name"=>{"german"=>"Technologie- & Infrastrukturservices", "french"=>"Services technologiques & Infrastructure", "italian"=>"Servizi tecnologici & Infrastruttura", "english"=>""}}, {"id"=>"12060303@12.06", "label"=>{"german"=>"Infrastruktur & GEVER", "french"=>"Infrastructure & GEVER", "italian"=>"Infrastruttura & GEVER", "english"=>""}, "name"=>{"german"=>"Infrastruktur & GEVER", "french"=>"Infrastructure & GEVER", "italian"=>"Infrastruttura & GEVER", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060303@12.06",
+  "name": {
+    "german": "Infrastruktur & GEVER",
+    "french": "Infrastructure & GEVER",
+    "italian": "Infrastruttura & GEVER",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 162,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-3215337",
+      "surname": "Plattner",
+      "givenName": "Rolf",
+      "email": null,
+      "phone": "+41 31 377 72 00",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5500066",
+      "surname": "Graber",
+      "givenName": "Alexandra",
+      "email": null,
+      "phone": "+41 31 377 75 28",
+      "function": {
+        "german": "Information & Dokumentation / Bibliothek",
+        "french": "Information & Dokumentation / Bibliothek",
+        "italian": "Information & Dokumentation / Bibliothek",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6675692",
+      "surname": "Kienholz",
+      "givenName": "Ueli",
+      "email": null,
+      "phone": "+41 31 377 72 79",
+      "function": {
+        "german": "Information & Dokumentation / Bibliothek",
+        "french": "Information & Dokumentation / Bibliothek",
+        "italian": "Information & Dokumentation / Bibliothek",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9398551",
+      "surname": "Lüthi",
+      "givenName": "Madeleine",
+      "email": null,
+      "phone": "+41 31 377 75 20",
+      "function": {
+        "german": "Fachliche Leiterin GEVER",
+        "french": "Fachliche Leiterin GEVER",
+        "italian": "Fachliche Leiterin GEVER",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060700@12.06",
+      "label": {
+        "german": "Technologie- & Infrastrukturservices",
+        "french": "Services technologiques & Infrastructure",
+        "italian": "Servizi tecnologici & Infrastruttura",
+        "english": ""
+      },
+      "name": {
+        "german": "Technologie- & Infrastrukturservices",
+        "french": "Services technologiques & Infrastructure",
+        "italian": "Servizi tecnologici & Infrastruttura",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060303@12.06",
+      "label": {
+        "german": "Infrastruktur & GEVER",
+        "french": "Infrastructure & GEVER",
+        "italian": "Infrastruttura & GEVER",
+        "english": ""
+      },
+      "name": {
+        "german": "Infrastruktur & GEVER",
+        "french": "Infrastructure & GEVER",
+        "italian": "Infrastruttura & GEVER",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

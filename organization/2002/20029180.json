@@ -1,1 +1,155 @@
-{"id"=>"20029180", "name"=>{"german"=>"Betreuung/Einsätze Zivis Rivera", "french"=>"Encadrem./Affectat. civil. Rivera", "italian"=>"Assistenz./Impieghi civil. Rivera", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Via Lagacci 8", "postalCode"=>"6802", "location"=>"Rivera", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584671080", "fax"=>"+41584671085", "email"=>"rivera@zivi.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008656", "label"=>{"german"=>"ZIVI", "french"=>"CIVI", "italian"=>"CIVI", "english"=>""}, "name"=>{"german"=>"Bundesamt für Zivildienst", "french"=>"Office fédéral du service civil", "italian"=>"Ufficio federale del servizio civile", "english"=>""}}, {"id"=>"20045104", "label"=>{"german"=>"Direktion Zivildienst", "french"=>"Direction CIVI", "italian"=>"Direzione CIVI", "english"=>""}, "name"=>{"german"=>"Direktion Zivildienst", "french"=>"Direction CIVI", "italian"=>"Direzione CIVI", "english"=>""}}, {"id"=>"20005477", "label"=>{"german"=>"Vollzug", "french"=>"Exécution", "italian"=>"Esecuzione", "english"=>""}, "name"=>{"german"=>"Vollzug", "french"=>"Exécution", "italian"=>"Esecuzione", "english"=>""}}, {"id"=>"20005484", "label"=>{"german"=>"Regionalzentren Thun / Rivera", "french"=>"Centres régionaux Thoune / Rivera", "italian"=>"Centri regionali Thun / Rivera", "english"=>""}, "name"=>{"german"=>"Regionalzentren Thun / Rivera", "french"=>"Centres régionaux Thoune / Rivera", "italian"=>"Centri regionali Thun / Rivera", "english"=>""}}, {"id"=>"20029180", "label"=>{"german"=>"Betreuung/Einsätze Zivis Rivera", "french"=>"Encadrem./Affectat. civil. Rivera", "italian"=>"Assistenz./Impieghi civil. Rivera", "english"=>""}, "name"=>{"german"=>"Betreuung/Einsätze Zivis Rivera", "french"=>"Encadrem./Affectat. civil. Rivera", "italian"=>"Assistenz./Impieghi civil. Rivera", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20029180",
+  "name": {
+    "german": "Betreuung/Einsätze Zivis Rivera",
+    "french": "Encadrem./Affectat. civil. Rivera",
+    "italian": "Assistenz./Impieghi civil. Rivera",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Via Lagacci 8",
+    "postalCode": "6802",
+    "location": "Rivera",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584671080",
+    "fax": "+41584671085",
+    "email": "rivera@zivi.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008656",
+      "label": {
+        "german": "ZIVI",
+        "french": "CIVI",
+        "italian": "CIVI",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Zivildienst",
+        "french": "Office fédéral du service civil",
+        "italian": "Ufficio federale del servizio civile",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045104",
+      "label": {
+        "german": "Direktion Zivildienst",
+        "french": "Direction CIVI",
+        "italian": "Direzione CIVI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion Zivildienst",
+        "french": "Direction CIVI",
+        "italian": "Direzione CIVI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005477",
+      "label": {
+        "german": "Vollzug",
+        "french": "Exécution",
+        "italian": "Esecuzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Vollzug",
+        "french": "Exécution",
+        "italian": "Esecuzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005484",
+      "label": {
+        "german": "Regionalzentren Thun / Rivera",
+        "french": "Centres régionaux Thoune / Rivera",
+        "italian": "Centri regionali Thun / Rivera",
+        "english": ""
+      },
+      "name": {
+        "german": "Regionalzentren Thun / Rivera",
+        "french": "Centres régionaux Thoune / Rivera",
+        "italian": "Centri regionali Thun / Rivera",
+        "english": ""
+      }
+    },
+    {
+      "id": "20029180",
+      "label": {
+        "german": "Betreuung/Einsätze Zivis Rivera",
+        "french": "Encadrem./Affectat. civil. Rivera",
+        "italian": "Assistenz./Impieghi civil. Rivera",
+        "english": ""
+      },
+      "name": {
+        "german": "Betreuung/Einsätze Zivis Rivera",
+        "french": "Encadrem./Affectat. civil. Rivera",
+        "italian": "Assistenz./Impieghi civil. Rivera",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

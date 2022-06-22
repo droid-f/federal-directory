@@ -1,1 +1,140 @@
-{"id"=>"20050596", "name"=>{"german"=>"MDIK - Koordination", "french"=>"Intégration des données / Team Smart", "italian"=>"Integrazione dei dati / Team Smart", "english"=>""}, "nameAbbr"=>{"german"=>"MDI / Smart", "french"=>"MDI / Smart", "italian"=>"MDI / Smart", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20031386", "label"=>{"german"=>"MD", "french"=>"MD", "italian"=>"MD", "english"=>""}, "name"=>{"german"=>"MD - Messungen und Daten", "french"=>"Mesures et données", "italian"=>"Misure e dati", "english"=>""}}, {"id"=>"20031446", "label"=>{"german"=>"MDI", "french"=>"MDI", "italian"=>"MDI", "english"=>""}, "name"=>{"german"=>"MDI - Datenintegration", "french"=>"Intégration des données", "italian"=>"Integrazione dei dati", "english"=>""}}, {"id"=>"20050596", "label"=>{"german"=>"MDI / Smart", "french"=>"MDI / Smart", "italian"=>"MDI / Smart", "english"=>""}, "name"=>{"german"=>"MDIK - Koordination", "french"=>"Intégration des données / Team Smart", "italian"=>"Integrazione dei dati / Team Smart", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050596",
+  "name": {
+    "german": "MDIK - Koordination",
+    "french": "Intégration des données / Team Smart",
+    "italian": "Integrazione dei dati / Team Smart",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "MDI / Smart",
+    "french": "MDI / Smart",
+    "italian": "MDI / Smart",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20031386",
+      "label": {
+        "german": "MD",
+        "french": "MD",
+        "italian": "MD",
+        "english": ""
+      },
+      "name": {
+        "german": "MD - Messungen und Daten",
+        "french": "Mesures et données",
+        "italian": "Misure e dati",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031446",
+      "label": {
+        "german": "MDI",
+        "french": "MDI",
+        "italian": "MDI",
+        "english": ""
+      },
+      "name": {
+        "german": "MDI - Datenintegration",
+        "french": "Intégration des données",
+        "italian": "Integrazione dei dati",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050596",
+      "label": {
+        "german": "MDI / Smart",
+        "french": "MDI / Smart",
+        "italian": "MDI / Smart",
+        "english": ""
+      },
+      "name": {
+        "german": "MDIK - Koordination",
+        "french": "Intégration des données / Team Smart",
+        "italian": "Integrazione dei dati / Team Smart",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

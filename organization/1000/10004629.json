@@ -1,1 +1,197 @@
-{"id"=>"10004629", "name"=>{"german"=>"Prepress, Print", "french"=>"Prepress, Print", "italian"=>"Prepress, Print", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20016377", "name"=>{"german"=>"Layout/Grafik", "french"=>"Mise en page / Graphisme", "italian"=>"Impaginazione / Grafica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20016378", "name"=>{"german"=>"Produktionsmanagement/Technik", "french"=>"Management de production / Technique", "italian"=>"Management della produzione / Tecnica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-1XVQJ7ZPT", "surname"=>"Gomes", "givenName"=>"Sabrina", "email"=>nil, "phone"=>"+41 58 48 10801", "function"=>{"german"=>"Fachspezialist/in", "french"=>"Fachspezialist/in", "italian"=>"Fachspezialist/in", "english"=>"Fachspezialist/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20047601", "label"=>{"german"=>"Abteilung Kommunikation/Publishing", "french"=>"Division Communication/Publishing", "italian"=>"Divisione Comunicazione/Publishing", "english"=>""}, "name"=>{"german"=>"Abteilung Kommunikation/Publishing", "french"=>"Division Communication/Publishing", "italian"=>"Divisione Comunicazione/Publishing", "english"=>""}}, {"id"=>"10004637", "label"=>{"german"=>"Sektion Diffusion und Amtspublikationen", "french"=>"Section Diffusion et publications", "italian"=>"Sezione Diffusione e pubblicazioni", "english"=>""}, "name"=>{"german"=>"Sektion Diffusion und Amtspublikationen", "french"=>"Section Diffusion et publications", "italian"=>"Sezione Diffusione e pubblicazioni", "english"=>""}}, {"id"=>"10004629", "label"=>{"german"=>"Prepress, Print", "french"=>"Prepress, Print", "italian"=>"Prepress, Print", "english"=>""}, "name"=>{"german"=>"Prepress, Print", "french"=>"Prepress, Print", "italian"=>"Prepress, Print", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004629",
+  "name": {
+    "german": "Prepress, Print",
+    "french": "Prepress, Print",
+    "italian": "Prepress, Print",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20016377",
+      "name": {
+        "german": "Layout/Grafik",
+        "french": "Mise en page / Graphisme",
+        "italian": "Impaginazione / Grafica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016378",
+      "name": {
+        "german": "Produktionsmanagement/Technik",
+        "french": "Management de production / Technique",
+        "italian": "Management della produzione / Tecnica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1XVQJ7ZPT",
+      "surname": "Gomes",
+      "givenName": "Sabrina",
+      "email": null,
+      "phone": "+41 58 48 10801",
+      "function": {
+        "german": "Fachspezialist/in",
+        "french": "Fachspezialist/in",
+        "italian": "Fachspezialist/in",
+        "english": "Fachspezialist/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047601",
+      "label": {
+        "german": "Abteilung Kommunikation/Publishing",
+        "french": "Division Communication/Publishing",
+        "italian": "Divisione Comunicazione/Publishing",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Kommunikation/Publishing",
+        "french": "Division Communication/Publishing",
+        "italian": "Divisione Comunicazione/Publishing",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004637",
+      "label": {
+        "german": "Sektion Diffusion und Amtspublikationen",
+        "french": "Section Diffusion et publications",
+        "italian": "Sezione Diffusione e pubblicazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Diffusion und Amtspublikationen",
+        "french": "Section Diffusion et publications",
+        "italian": "Sezione Diffusione e pubblicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004629",
+      "label": {
+        "german": "Prepress, Print",
+        "french": "Prepress, Print",
+        "italian": "Prepress, Print",
+        "english": ""
+      },
+      "name": {
+        "german": "Prepress, Print",
+        "french": "Prepress, Print",
+        "italian": "Prepress, Print",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

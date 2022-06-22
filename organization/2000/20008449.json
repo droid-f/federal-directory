@@ -1,1 +1,201 @@
-{"id"=>"20008449", "name"=>{"german"=>"Güter und Spezialtransporte", "french"=>"transports de biens et spéciaux", "italian"=>"Trasporti di merci e trasporti speciali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Wankdorfstrasse, Gebäude 7 2", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6895763", "surname"=>"Schneeberger", "givenName"=>"Fritz", "email"=>nil, "phone"=>"+41 58 46 45930", "function"=>{"german"=>"C Güter und Spezialtransporte / Stv C", "french"=>"Chef Biens et trsp spéc / rempl c", "italian"=>"C Trsp di merci e trsp speciali / sost C", "english"=>"C Güter und Spezialtransporte / Stv C"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20008355", "label"=>{"german"=>"Logistikführung", "french"=>"Conduite logistique", "italian"=>"Condotta logistica", "english"=>""}, "name"=>{"german"=>"Logistikführung", "french"=>"Conduite logistique", "italian"=>"Condotta logistica", "english"=>""}}, {"id"=>"20008359", "label"=>{"german"=>"Logistik Steuerung", "french"=>"Gestion logistique", "italian"=>"Gestione logistica", "english"=>""}, "name"=>{"german"=>"Logistik Steuerung", "french"=>"Gestion logistique", "italian"=>"Gestione logistica", "english"=>""}}, {"id"=>"20008448", "label"=>{"german"=>"Verkehr und Transport LBA", "french"=>"Circulation et transport BLA", "italian"=>"Circolazione e trasporto BLEs", "english"=>""}, "name"=>{"german"=>"Verkehr und Transport LBA", "french"=>"Circulation et transport BLA", "italian"=>"Circolazione e trasporto BLEs", "english"=>""}}, {"id"=>"20008449", "label"=>{"german"=>"Güter und Spezialtransporte", "french"=>"transports de biens et spéciaux", "italian"=>"Trasporti di merci e trasporti speciali", "english"=>""}, "name"=>{"german"=>"Güter und Spezialtransporte", "french"=>"transports de biens et spéciaux", "italian"=>"Trasporti di merci e trasporti speciali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20008449",
+  "name": {
+    "german": "Güter und Spezialtransporte",
+    "french": "transports de biens et spéciaux",
+    "italian": "Trasporti di merci e trasporti speciali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Wankdorfstrasse, Gebäude 7 2",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6895763",
+      "surname": "Schneeberger",
+      "givenName": "Fritz",
+      "email": null,
+      "phone": "+41 58 46 45930",
+      "function": {
+        "german": "C Güter und Spezialtransporte / Stv C",
+        "french": "Chef Biens et trsp spéc / rempl c",
+        "italian": "C Trsp di merci e trsp speciali / sost C",
+        "english": "C Güter und Spezialtransporte / Stv C"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008355",
+      "label": {
+        "german": "Logistikführung",
+        "french": "Conduite logistique",
+        "italian": "Condotta logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikführung",
+        "french": "Conduite logistique",
+        "italian": "Condotta logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008359",
+      "label": {
+        "german": "Logistik Steuerung",
+        "french": "Gestion logistique",
+        "italian": "Gestione logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistik Steuerung",
+        "french": "Gestion logistique",
+        "italian": "Gestione logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008448",
+      "label": {
+        "german": "Verkehr und Transport LBA",
+        "french": "Circulation et transport BLA",
+        "italian": "Circolazione e trasporto BLEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Verkehr und Transport LBA",
+        "french": "Circulation et transport BLA",
+        "italian": "Circolazione e trasporto BLEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008449",
+      "label": {
+        "german": "Güter und Spezialtransporte",
+        "french": "transports de biens et spéciaux",
+        "italian": "Trasporti di merci e trasporti speciali",
+        "english": ""
+      },
+      "name": {
+        "german": "Güter und Spezialtransporte",
+        "french": "transports de biens et spéciaux",
+        "italian": "Trasporti di merci e trasporti speciali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

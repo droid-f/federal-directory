@@ -1,1 +1,95 @@
-{"id"=>"20043526", "name"=>{"german"=>"Sekretariat GS", "french"=>"Secrétariat Secr. général", "italian"=>"Segreteria Segr. generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20010731", "label"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}}, {"id"=>"20043526", "label"=>{"german"=>"Sekretariat GS", "french"=>"Secrétariat Secr. général", "italian"=>"Segreteria Segr. generale", "english"=>""}, "name"=>{"german"=>"Sekretariat GS", "french"=>"Secrétariat Secr. général", "italian"=>"Segreteria Segr. generale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20043526",
+  "name": {
+    "german": "Sekretariat GS",
+    "french": "Secrétariat Secr. général",
+    "italian": "Segreteria Segr. generale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010731",
+      "label": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043526",
+      "label": {
+        "german": "Sekretariat GS",
+        "french": "Secrétariat Secr. général",
+        "italian": "Segreteria Segr. generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Sekretariat GS",
+        "french": "Secrétariat Secr. général",
+        "italian": "Segreteria Segr. generale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

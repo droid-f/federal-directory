@@ -1,1 +1,262 @@
-{"id"=>"20009169", "name"=>{"german"=>"Sicherheit Flugbetrieb", "french"=>"Sécurité des opérations aériennes", "italian"=>"Sicurezza delle operazioni di volo", "english"=>"Sicherheit Flugbetrieb"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20011301", "name"=>{"german"=>"Flugärztlicher Dienst", "french"=>"Service aéromédical", "italian"=>"Servizio medico aeronautico", "english"=>"Flugärztlicher Dienst"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009170", "name"=>{"german"=>"Standardisierung und Sanktionswesen", "french"=>"Normalisation et sanctions", "italian"=>"Normalizzazione e sanzioni", "english"=>"Standardisierung und Sanktionswesen"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009172", "name"=>{"german"=>"Betrieb komplexer Flugzeuge", "french"=>"Opérations aériennes avions complexes", "italian"=>"Operazioni di volo aerei complessi", "english"=>"Betrieb komplexer Flugzeuge"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20031252", "name"=>{"german"=>"Flugschulen und Leichtaviatik", "french"=>"Ecoles d'aviation et aviation légère", "italian"=>"Scuole di volo e aviazione leggera", "english"=>"Flugschulen und Leichtaviatik"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009171", "name"=>{"german"=>"Fachstellen Flugbetrieb", "french"=>"Services spécialisés Opérations aériennes", "italian"=>"Servizi specializzati Operazioni di volo", "english"=>"Fachstellen Flugbetrieb"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009173", "name"=>{"german"=>"Flugbetrieb Helikopter", "french"=>"Opérations aériennes hélicoptères", "italian"=>"Operazioni di volo elicotteri", "english"=>"Flugbetrieb Helikopter"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009174", "name"=>{"german"=>"Flugpersonal", "french"=>"Personnel aéronautique", "italian"=>"Personale aeronautico", "english"=>"Flugpersonal"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9525900", "surname"=>"Messerli", "givenName"=>"Fritz", "email"=>nil, "phone"=>"+41 58 46 63065", "function"=>{"german"=>"Vizedirektor / Leiter SB", "french"=>"Vizedirektor / Leiter SB", "italian"=>"Vizedirektor / Leiter SB", "english"=>"Vizedirektor / Leiter SB"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1153030", "surname"=>"Eder", "givenName"=>"Stephan", "email"=>nil, "phone"=>"+41 58 46 63057", "function"=>{"german"=>"Leiter Fachstellen Flugbetrieb", "french"=>"Leiter Fachstellen Flugbetrieb", "italian"=>"Leiter Fachstellen Flugbetrieb", "english"=>"Leiter Fachstellen Flugbetrieb"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009169", "label"=>{"german"=>"Sicherheit Flugbetrieb", "french"=>"Sécurité des opérations aériennes", "italian"=>"Sicurezza delle operazioni di volo", "english"=>"Sicherheit Flugbetrieb"}, "name"=>{"german"=>"Sicherheit Flugbetrieb", "french"=>"Sécurité des opérations aériennes", "italian"=>"Sicurezza delle operazioni di volo", "english"=>"Sicherheit Flugbetrieb"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009169",
+  "name": {
+    "german": "Sicherheit Flugbetrieb",
+    "french": "Sécurité des opérations aériennes",
+    "italian": "Sicurezza delle operazioni di volo",
+    "english": "Sicherheit Flugbetrieb"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20011301",
+      "name": {
+        "german": "Flugärztlicher Dienst",
+        "french": "Service aéromédical",
+        "italian": "Servizio medico aeronautico",
+        "english": "Flugärztlicher Dienst"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009170",
+      "name": {
+        "german": "Standardisierung und Sanktionswesen",
+        "french": "Normalisation et sanctions",
+        "italian": "Normalizzazione e sanzioni",
+        "english": "Standardisierung und Sanktionswesen"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009172",
+      "name": {
+        "german": "Betrieb komplexer Flugzeuge",
+        "french": "Opérations aériennes avions complexes",
+        "italian": "Operazioni di volo aerei complessi",
+        "english": "Betrieb komplexer Flugzeuge"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031252",
+      "name": {
+        "german": "Flugschulen und Leichtaviatik",
+        "french": "Ecoles d'aviation et aviation légère",
+        "italian": "Scuole di volo e aviazione leggera",
+        "english": "Flugschulen und Leichtaviatik"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009171",
+      "name": {
+        "german": "Fachstellen Flugbetrieb",
+        "french": "Services spécialisés Opérations aériennes",
+        "italian": "Servizi specializzati Operazioni di volo",
+        "english": "Fachstellen Flugbetrieb"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009173",
+      "name": {
+        "german": "Flugbetrieb Helikopter",
+        "french": "Opérations aériennes hélicoptères",
+        "italian": "Operazioni di volo elicotteri",
+        "english": "Flugbetrieb Helikopter"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009174",
+      "name": {
+        "german": "Flugpersonal",
+        "french": "Personnel aéronautique",
+        "italian": "Personale aeronautico",
+        "english": "Flugpersonal"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9525900",
+      "surname": "Messerli",
+      "givenName": "Fritz",
+      "email": null,
+      "phone": "+41 58 46 63065",
+      "function": {
+        "german": "Vizedirektor / Leiter SB",
+        "french": "Vizedirektor / Leiter SB",
+        "italian": "Vizedirektor / Leiter SB",
+        "english": "Vizedirektor / Leiter SB"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1153030",
+      "surname": "Eder",
+      "givenName": "Stephan",
+      "email": null,
+      "phone": "+41 58 46 63057",
+      "function": {
+        "german": "Leiter Fachstellen Flugbetrieb",
+        "french": "Leiter Fachstellen Flugbetrieb",
+        "italian": "Leiter Fachstellen Flugbetrieb",
+        "english": "Leiter Fachstellen Flugbetrieb"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009169",
+      "label": {
+        "german": "Sicherheit Flugbetrieb",
+        "french": "Sécurité des opérations aériennes",
+        "italian": "Sicurezza delle operazioni di volo",
+        "english": "Sicherheit Flugbetrieb"
+      },
+      "name": {
+        "german": "Sicherheit Flugbetrieb",
+        "french": "Sécurité des opérations aériennes",
+        "italian": "Sicurezza delle operazioni di volo",
+        "english": "Sicherheit Flugbetrieb"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

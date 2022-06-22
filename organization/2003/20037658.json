@@ -1,1 +1,247 @@
-{"id"=>"20037658", "name"=>{"german"=>"Finanzen und Controlling", "french"=>"Finances et Controlling", "italian"=>"Finanze e Controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Friedheimweg 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037659", "name"=>{"german"=>"Finanzbuchhaltung des ALV-Fonds", "french"=>"Comptabilité financière du fonds de l'AC", "italian"=>"Contabilità finanziaria del fondo AD", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037660", "name"=>{"german"=>"ALV-Controlling und Verwaltungskosten", "french"=>"Controlling de l'AC et Frais d'administration", "italian"=>"Controlling AD e Spese amministrative", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037661", "name"=>{"german"=>"Statistik und Arbeitsmarktanalysen", "french"=>"Statistiques et Analyses du marché du travail", "italian"=>"Statistiche e Analisi del mercato del lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037662", "name"=>{"german"=>"Personenfreizügigkeit und Mutterschaftsversicherung", "french"=>"Libre circulation des personnes et Assurance maternité", "italian"=>"Libera circolazione delle persone e Indennità di maternità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8831754", "surname"=>"Zahnd", "givenName"=>"Roland", "email"=>nil, "phone"=>"+41 58 46 45583", "function"=>{"german"=>"Ressortleiter/in TCFC", "french"=>"Ressortleiter/in TCFC", "italian"=>"Ressortleiter/in TCFC", "english"=>"Ressortleiter/in TCFC"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2322335", "surname"=>"Studer", "givenName"=>"Ursula", "email"=>nil, "phone"=>"+41 58 46 45546", "function"=>{"german"=>"Gruppenleiter/in / Stv. RL FB TCFC", "french"=>"Gruppenleiter/in / Stv. RL FB TCFC", "italian"=>"Gruppenleiter/in / Stv. RL FB TCFC", "english"=>"Gruppenleiter/in / stv. RL FB TCFC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"10004185", "label"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}, "name"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}}, {"id"=>"20037658", "label"=>{"german"=>"Finanzen und Controlling", "french"=>"Finances et Controlling", "italian"=>"Finanze e Controlling", "english"=>""}, "name"=>{"german"=>"Finanzen und Controlling", "french"=>"Finances et Controlling", "italian"=>"Finanze e Controlling", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037658",
+  "name": {
+    "german": "Finanzen und Controlling",
+    "french": "Finances et Controlling",
+    "italian": "Finanze e Controlling",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Friedheimweg 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037659",
+      "name": {
+        "german": "Finanzbuchhaltung des ALV-Fonds",
+        "french": "Comptabilité financière du fonds de l'AC",
+        "italian": "Contabilità finanziaria del fondo AD",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037660",
+      "name": {
+        "german": "ALV-Controlling und Verwaltungskosten",
+        "french": "Controlling de l'AC et Frais d'administration",
+        "italian": "Controlling AD e Spese amministrative",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037661",
+      "name": {
+        "german": "Statistik und Arbeitsmarktanalysen",
+        "french": "Statistiques et Analyses du marché du travail",
+        "italian": "Statistiche e Analisi del mercato del lavoro",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037662",
+      "name": {
+        "german": "Personenfreizügigkeit und Mutterschaftsversicherung",
+        "french": "Libre circulation des personnes et Assurance maternité",
+        "italian": "Libera circolazione delle persone e Indennità di maternità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8831754",
+      "surname": "Zahnd",
+      "givenName": "Roland",
+      "email": null,
+      "phone": "+41 58 46 45583",
+      "function": {
+        "german": "Ressortleiter/in TCFC",
+        "french": "Ressortleiter/in TCFC",
+        "italian": "Ressortleiter/in TCFC",
+        "english": "Ressortleiter/in TCFC"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2322335",
+      "surname": "Studer",
+      "givenName": "Ursula",
+      "email": null,
+      "phone": "+41 58 46 45546",
+      "function": {
+        "german": "Gruppenleiter/in / Stv. RL FB TCFC",
+        "french": "Gruppenleiter/in / Stv. RL FB TCFC",
+        "italian": "Gruppenleiter/in / Stv. RL FB TCFC",
+        "english": "Gruppenleiter/in / stv. RL FB TCFC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004185",
+      "label": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037658",
+      "label": {
+        "german": "Finanzen und Controlling",
+        "french": "Finances et Controlling",
+        "italian": "Finanze e Controlling",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen und Controlling",
+        "french": "Finances et Controlling",
+        "italian": "Finanze e Controlling",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

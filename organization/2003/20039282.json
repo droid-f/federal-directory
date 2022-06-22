@@ -1,1 +1,155 @@
-{"id"=>"20039282", "name"=>{"german"=>"Fachstelle Inventarisierung", "french"=>"Service spécialisé Inventoriage", "italian"=>"Servizio specializzato inventariazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004326", "label"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}}, {"id"=>"10004344", "label"=>{"german"=>"Sektion Baukultur", "french"=>"Section Culture du bâti", "italian"=>"Sezione Cultura della costruzione", "english"=>""}, "name"=>{"german"=>"Sektion Baukultur", "french"=>"Section Culture du bâti", "italian"=>"Sezione Cultura della costruzione", "english"=>""}}, {"id"=>"20039280", "label"=>{"german"=>"Dienst ISOS", "french"=>"Service ISOS", "italian"=>"Servizio ISOS", "english"=>""}, "name"=>{"german"=>"Dienst ISOS", "french"=>"Service ISOS", "italian"=>"Servizio ISOS", "english"=>""}}, {"id"=>"20039282", "label"=>{"german"=>"Fachstelle Inventarisierung", "french"=>"Service spécialisé Inventoriage", "italian"=>"Servizio specializzato inventariazione", "english"=>""}, "name"=>{"german"=>"Fachstelle Inventarisierung", "french"=>"Service spécialisé Inventoriage", "italian"=>"Servizio specializzato inventariazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039282",
+  "name": {
+    "german": "Fachstelle Inventarisierung",
+    "french": "Service spécialisé Inventoriage",
+    "italian": "Servizio specializzato inventariazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004326",
+      "label": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004344",
+      "label": {
+        "german": "Sektion Baukultur",
+        "french": "Section Culture du bâti",
+        "italian": "Sezione Cultura della costruzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Baukultur",
+        "french": "Section Culture du bâti",
+        "italian": "Sezione Cultura della costruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039280",
+      "label": {
+        "german": "Dienst ISOS",
+        "french": "Service ISOS",
+        "italian": "Servizio ISOS",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst ISOS",
+        "french": "Service ISOS",
+        "italian": "Servizio ISOS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039282",
+      "label": {
+        "german": "Fachstelle Inventarisierung",
+        "french": "Service spécialisé Inventoriage",
+        "italian": "Servizio specializzato inventariazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachstelle Inventarisierung",
+        "french": "Service spécialisé Inventoriage",
+        "italian": "Servizio specializzato inventariazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

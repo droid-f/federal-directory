@@ -1,1 +1,245 @@
-{"id"=>"20048507", "name"=>{"german"=>"Zoll Genève rive droite", "french"=>"Douane Genève rive droite", "italian"=>"Dogana Ginevra riva destra", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Chemin des Epinglis 20", "postalCode"=>"1257", "location"=>"Bardonnex", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049525", "name"=>{"german"=>"Aufgabenvollzug und Führungsunterstützung Zoll Genève rive droite", "french"=>"Exécution des tâches et aide à la conduite Douane Genève rive droite", "italian"=>"Esecuzione dei compiti e aiuto alla condotta Dogana Ginevra riva destra", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049601", "name"=>{"german"=>"Einsatzkoordination Zoll Genève rive droite", "french"=>"Coordination des engagements Douane Genève rive gauche", "italian"=>"Coordinamento impiego Dogana Ginevra riva sinistra", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049602", "name"=>{"german"=>"Einheit 1 Zoll Genève rive droite", "french"=>"Unité 1 Douane Genève rive droite", "italian"=>"Unità 1 Dogana Ginevra riva destra", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049603", "name"=>{"german"=>"Einheit 2 Zoll Genève rive droite", "french"=>"Unité 2 Douane Genève rive droite", "italian"=>"Unità 2 Dogana Ginevra riva destra", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049604", "name"=>{"german"=>"Einheit 3 Zoll Genève rive droite", "french"=>"Unité 3 Douane Genève rive droite", "italian"=>"Unità 3 Dogana Ginevra riva destra", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5016995", "surname"=>"Theubet", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 26571", "function"=>{"german"=>"Chef/in", "french"=>"Chef/fe", "italian"=>"Capo", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008659", "label"=>{"german"=>"BAZG", "french"=>"OFDF", "italian"=>"UDSC", "english"=>"FOCBS"}, "name"=>{"german"=>"Bundesamt für Zoll und Grenzsicherheit", "french"=>"Office fédéral de la douane et de la sécurité des frontières", "italian"=>"Ufficio federale della dogana e della sicurezza dei confini", "english"=>"Federal Office for Customs and Border Security"}}, {"id"=>"10007200", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10007241", "label"=>{"german"=>"Direktionsbereich Operationen", "french"=>"Domaine de direction Opérations", "italian"=>"Ambito direzionale Operazioni", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Operationen", "french"=>"Domaine de direction Opérations", "italian"=>"Ambito direzionale Operazioni", "english"=>""}}, {"id"=>"10007492", "label"=>{"german"=>"Zoll West", "french"=>"Douane Ouest", "italian"=>"Dogana Ovest", "english"=>""}, "name"=>{"german"=>"Zoll West", "french"=>"Douane Ouest", "italian"=>"Dogana Ovest", "english"=>""}}, {"id"=>"20048507", "label"=>{"german"=>"Zoll Genève rive droite", "french"=>"Douane Genève rive droite", "italian"=>"Dogana Ginevra riva destra", "english"=>""}, "name"=>{"german"=>"Zoll Genève rive droite", "french"=>"Douane Genève rive droite", "italian"=>"Dogana Ginevra riva destra", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048507",
+  "name": {
+    "german": "Zoll Genève rive droite",
+    "french": "Douane Genève rive droite",
+    "italian": "Dogana Ginevra riva destra",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Chemin des Epinglis 20",
+    "postalCode": "1257",
+    "location": "Bardonnex",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049525",
+      "name": {
+        "german": "Aufgabenvollzug und Führungsunterstützung Zoll Genève rive droite",
+        "french": "Exécution des tâches et aide à la conduite Douane Genève rive droite",
+        "italian": "Esecuzione dei compiti e aiuto alla condotta Dogana Ginevra riva destra",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049601",
+      "name": {
+        "german": "Einsatzkoordination Zoll Genève rive droite",
+        "french": "Coordination des engagements Douane Genève rive gauche",
+        "italian": "Coordinamento impiego Dogana Ginevra riva sinistra",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049602",
+      "name": {
+        "german": "Einheit 1 Zoll Genève rive droite",
+        "french": "Unité 1 Douane Genève rive droite",
+        "italian": "Unità 1 Dogana Ginevra riva destra",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049603",
+      "name": {
+        "german": "Einheit 2 Zoll Genève rive droite",
+        "french": "Unité 2 Douane Genève rive droite",
+        "italian": "Unità 2 Dogana Ginevra riva destra",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049604",
+      "name": {
+        "german": "Einheit 3 Zoll Genève rive droite",
+        "french": "Unité 3 Douane Genève rive droite",
+        "italian": "Unità 3 Dogana Ginevra riva destra",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5016995",
+      "surname": "Theubet",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 26571",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/fe",
+        "italian": "Capo",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008659",
+      "label": {
+        "german": "BAZG",
+        "french": "OFDF",
+        "italian": "UDSC",
+        "english": "FOCBS"
+      },
+      "name": {
+        "german": "Bundesamt für Zoll und Grenzsicherheit",
+        "french": "Office fédéral de la douane et de la sécurité des frontières",
+        "italian": "Ufficio federale della dogana e della sicurezza dei confini",
+        "english": "Federal Office for Customs and Border Security"
+      }
+    },
+    {
+      "id": "10007200",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007241",
+      "label": {
+        "german": "Direktionsbereich Operationen",
+        "french": "Domaine de direction Opérations",
+        "italian": "Ambito direzionale Operazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Operationen",
+        "french": "Domaine de direction Opérations",
+        "italian": "Ambito direzionale Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007492",
+      "label": {
+        "german": "Zoll West",
+        "french": "Douane Ouest",
+        "italian": "Dogana Ovest",
+        "english": ""
+      },
+      "name": {
+        "german": "Zoll West",
+        "french": "Douane Ouest",
+        "italian": "Dogana Ovest",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048507",
+      "label": {
+        "german": "Zoll Genève rive droite",
+        "french": "Douane Genève rive droite",
+        "italian": "Dogana Ginevra riva destra",
+        "english": ""
+      },
+      "name": {
+        "german": "Zoll Genève rive droite",
+        "french": "Douane Genève rive droite",
+        "italian": "Dogana Ginevra riva destra",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,183 @@
-{"id"=>"10003298", "name"=>{"german"=>"Stabsdienste und Grundsatzfragen", "french"=>"Services d'état-major et des questions fondamentales", "italian"=>"Servizi di stato maggiore e questioni di principio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9581636", "surname"=>"Balmer", "givenName"=>"Sandra", "email"=>nil, "phone"=>"+41 58 46 30907", "function"=>{"german"=>"Leiterin Stabsdienste und Grundsatzfragen", "french"=>"Cheffe Services d'état-major et des questions fondamentales", "italian"=>"Capo Servizi di stato maggiore e questioni di principio", "english"=>"Leiterin Stabsd. u. Grundsatzfragen"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8124192", "surname"=>"Buchs", "givenName"=>"Aurelia", "email"=>nil, "phone"=>"+41 58 48 45561", "function"=>{"german"=>"Oekonomin", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonomin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0681370", "surname"=>"Dermont", "givenName"=>"Silvan", "email"=>nil, "phone"=>"+41 58 48 39453", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003292", "label"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}, "name"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}}, {"id"=>"10003298", "label"=>{"german"=>"Stabsdienste und Grundsatzfragen", "french"=>"Services d'état-major et des questions fondamentales", "italian"=>"Servizi di stato maggiore e questioni di principio", "english"=>""}, "name"=>{"german"=>"Stabsdienste und Grundsatzfragen", "french"=>"Services d'état-major et des questions fondamentales", "italian"=>"Servizi di stato maggiore e questioni di principio", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003298",
+  "name": {
+    "german": "Stabsdienste und Grundsatzfragen",
+    "french": "Services d'état-major et des questions fondamentales",
+    "italian": "Servizi di stato maggiore e questioni di principio",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9581636",
+      "surname": "Balmer",
+      "givenName": "Sandra",
+      "email": null,
+      "phone": "+41 58 46 30907",
+      "function": {
+        "german": "Leiterin Stabsdienste und Grundsatzfragen",
+        "french": "Cheffe Services d'état-major et des questions fondamentales",
+        "italian": "Capo Servizi di stato maggiore e questioni di principio",
+        "english": "Leiterin Stabsd. u. Grundsatzfragen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8124192",
+      "surname": "Buchs",
+      "givenName": "Aurelia",
+      "email": null,
+      "phone": "+41 58 48 45561",
+      "function": {
+        "german": "Oekonomin",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonomin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0681370",
+      "surname": "Dermont",
+      "givenName": "Silvan",
+      "email": null,
+      "phone": "+41 58 48 39453",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003292",
+      "label": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003298",
+      "label": {
+        "german": "Stabsdienste und Grundsatzfragen",
+        "french": "Services d'état-major et des questions fondamentales",
+        "italian": "Servizi di stato maggiore e questioni di principio",
+        "english": ""
+      },
+      "name": {
+        "german": "Stabsdienste und Grundsatzfragen",
+        "french": "Services d'état-major et des questions fondamentales",
+        "italian": "Servizi di stato maggiore e questioni di principio",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

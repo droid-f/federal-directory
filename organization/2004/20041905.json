@@ -1,1 +1,156 @@
-{"id"=>"20041905", "name"=>{"german"=>"Portfolio und Managementdienste", "french"=>"Portefeuille et services de gestion", "italian"=>"Portfolio e servizi di gestione", "english"=>"Portfolio and Management Services"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6243218", "surname"=>"Schwendener", "givenName"=>"Harald", "email"=>nil, "phone"=>"+41 58 46 30170", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20003167", "label"=>{"german"=>"Informatik EDA", "french"=>"Informatique DFAE", "italian"=>"Informatica DFAE", "english"=>"FDFA IT"}, "name"=>{"german"=>"Informatik EDA", "french"=>"Informatique DFAE", "italian"=>"Informatica DFAE", "english"=>"FDFA IT"}}, {"id"=>"10000963", "label"=>{"german"=>"IT-Governance und Projekte", "french"=>"Gouvernance informatique et projets", "italian"=>"Governance IT e progetti", "english"=>"IT Governance and Projects"}, "name"=>{"german"=>"IT-Governance und Projekte", "french"=>"Gouvernance informatique et projets", "italian"=>"Governance IT e progetti", "english"=>"IT Governance and Projects"}}, {"id"=>"20041905", "label"=>{"german"=>"Portfolio und Managementdienste", "french"=>"Portefeuille et services de gestion", "italian"=>"Portfolio e servizi di gestione", "english"=>"Portfolio and Management Services"}, "name"=>{"german"=>"Portfolio und Managementdienste", "french"=>"Portefeuille et services de gestion", "italian"=>"Portfolio e servizi di gestione", "english"=>"Portfolio and Management Services"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041905",
+  "name": {
+    "german": "Portfolio und Managementdienste",
+    "french": "Portefeuille et services de gestion",
+    "italian": "Portfolio e servizi di gestione",
+    "english": "Portfolio and Management Services"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6243218",
+      "surname": "Schwendener",
+      "givenName": "Harald",
+      "email": null,
+      "phone": "+41 58 46 30170",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20003167",
+      "label": {
+        "german": "Informatik EDA",
+        "french": "Informatique DFAE",
+        "italian": "Informatica DFAE",
+        "english": "FDFA IT"
+      },
+      "name": {
+        "german": "Informatik EDA",
+        "french": "Informatique DFAE",
+        "italian": "Informatica DFAE",
+        "english": "FDFA IT"
+      }
+    },
+    {
+      "id": "10000963",
+      "label": {
+        "german": "IT-Governance und Projekte",
+        "french": "Gouvernance informatique et projets",
+        "italian": "Governance IT e progetti",
+        "english": "IT Governance and Projects"
+      },
+      "name": {
+        "german": "IT-Governance und Projekte",
+        "french": "Gouvernance informatique et projets",
+        "italian": "Governance IT e progetti",
+        "english": "IT Governance and Projects"
+      }
+    },
+    {
+      "id": "20041905",
+      "label": {
+        "german": "Portfolio und Managementdienste",
+        "french": "Portefeuille et services de gestion",
+        "italian": "Portfolio e servizi di gestione",
+        "english": "Portfolio and Management Services"
+      },
+      "name": {
+        "german": "Portfolio und Managementdienste",
+        "french": "Portefeuille et services de gestion",
+        "italian": "Portfolio e servizi di gestione",
+        "english": "Portfolio and Management Services"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

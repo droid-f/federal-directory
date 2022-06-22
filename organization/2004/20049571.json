@@ -1,1 +1,199 @@
-{"id"=>"20049571", "name"=>{"german"=>"Aufgabenvollzug und FU", "french"=>"Exécution des tâches aide à la conduite", "italian"=>"Esecuzione dei compiti aiuto alla cond.", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bielstrasse 1", "postalCode"=>"3902", "location"=>"Brig-Glis", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9954028", "surname"=>"Robert", "givenName"=>"Natalia", "email"=>nil, "phone"=>"+41 58 48 53226", "function"=>{"german"=>"Chef/in", "french"=>"Chef/fe", "italian"=>"Capo", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1419302", "surname"=>"Flück", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 48 25623", "function"=>{"german"=>"Gruppenchef/in", "french"=>"Chef/fe de groupe", "italian"=>"Capogruppo", "english"=>"Gruppenchef/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008659", "label"=>{"german"=>"BAZG", "french"=>"OFDF", "italian"=>"UDSC", "english"=>"FOCBS"}, "name"=>{"german"=>"Bundesamt für Zoll und Grenzsicherheit", "french"=>"Office fédéral de la douane et de la sécurité des frontières", "italian"=>"Ufficio federale della dogana e della sicurezza dei confini", "english"=>"Federal Office for Customs and Border Security"}}, {"id"=>"10007200", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10007241", "label"=>{"german"=>"Direktionsbereich Operationen", "french"=>"Domaine de direction Opérations", "italian"=>"Ambito direzionale Operazioni", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Operationen", "french"=>"Domaine de direction Opérations", "italian"=>"Ambito direzionale Operazioni", "english"=>""}}, {"id"=>"10007492", "label"=>{"german"=>"Zoll West", "french"=>"Douane Ouest", "italian"=>"Dogana Ovest", "english"=>""}, "name"=>{"german"=>"Zoll West", "french"=>"Douane Ouest", "italian"=>"Dogana Ovest", "english"=>""}}, {"id"=>"20048505", "label"=>{"german"=>"Zoll Oberwallis", "french"=>"Douane Haut-Valais", "italian"=>"Dogana Alto Vallese", "english"=>""}, "name"=>{"german"=>"Zoll Oberwallis", "french"=>"Douane Haut-Valais", "italian"=>"Dogana Alto Vallese", "english"=>""}}, {"id"=>"20049571", "label"=>{"german"=>"Aufgabenvollzug und FU", "french"=>"Exécution des tâches aide à la conduite", "italian"=>"Esecuzione dei compiti aiuto alla cond.", "english"=>""}, "name"=>{"german"=>"Aufgabenvollzug und FU", "french"=>"Exécution des tâches aide à la conduite", "italian"=>"Esecuzione dei compiti aiuto alla cond.", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049571",
+  "name": {
+    "german": "Aufgabenvollzug und FU",
+    "french": "Exécution des tâches aide à la conduite",
+    "italian": "Esecuzione dei compiti aiuto alla cond.",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bielstrasse 1",
+    "postalCode": "3902",
+    "location": "Brig-Glis",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9954028",
+      "surname": "Robert",
+      "givenName": "Natalia",
+      "email": null,
+      "phone": "+41 58 48 53226",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/fe",
+        "italian": "Capo",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1419302",
+      "surname": "Flück",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 48 25623",
+      "function": {
+        "german": "Gruppenchef/in",
+        "french": "Chef/fe de groupe",
+        "italian": "Capogruppo",
+        "english": "Gruppenchef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008659",
+      "label": {
+        "german": "BAZG",
+        "french": "OFDF",
+        "italian": "UDSC",
+        "english": "FOCBS"
+      },
+      "name": {
+        "german": "Bundesamt für Zoll und Grenzsicherheit",
+        "french": "Office fédéral de la douane et de la sécurité des frontières",
+        "italian": "Ufficio federale della dogana e della sicurezza dei confini",
+        "english": "Federal Office for Customs and Border Security"
+      }
+    },
+    {
+      "id": "10007200",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007241",
+      "label": {
+        "german": "Direktionsbereich Operationen",
+        "french": "Domaine de direction Opérations",
+        "italian": "Ambito direzionale Operazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Operationen",
+        "french": "Domaine de direction Opérations",
+        "italian": "Ambito direzionale Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007492",
+      "label": {
+        "german": "Zoll West",
+        "french": "Douane Ouest",
+        "italian": "Dogana Ovest",
+        "english": ""
+      },
+      "name": {
+        "german": "Zoll West",
+        "french": "Douane Ouest",
+        "italian": "Dogana Ovest",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048505",
+      "label": {
+        "german": "Zoll Oberwallis",
+        "french": "Douane Haut-Valais",
+        "italian": "Dogana Alto Vallese",
+        "english": ""
+      },
+      "name": {
+        "german": "Zoll Oberwallis",
+        "french": "Douane Haut-Valais",
+        "italian": "Dogana Alto Vallese",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049571",
+      "label": {
+        "german": "Aufgabenvollzug und FU",
+        "french": "Exécution des tâches aide à la conduite",
+        "italian": "Esecuzione dei compiti aiuto alla cond.",
+        "english": ""
+      },
+      "name": {
+        "german": "Aufgabenvollzug und FU",
+        "french": "Exécution des tâches aide à la conduite",
+        "italian": "Esecuzione dei compiti aiuto alla cond.",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

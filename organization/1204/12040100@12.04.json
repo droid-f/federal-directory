@@ -1,1 +1,181 @@
-{"id"=>"12040100@12.04", "name"=>{"german"=>"Schweizerisches Nationalmuseum", "french"=>"Musée National Suisse", "italian"=>"Museo Nazionale Svizzero", "english"=>""}, "nameAbbr"=>{"german"=>"SNM", "french"=>"MNS", "italian"=>"MNS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Museumstrasse 2", "postalCode"=>"8021", "location"=>"Zürich", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 44 21 86511", "fax"=>"", "email"=>"info@nationalmuseum.ch", "homepage"=>{"german"=>"www.nationalmuseum.ch", "french"=>"www.nationalmuseum.ch", "italian"=>"www.nationalmuseum.ch", "english"=>""}}, "children"=>[{"id"=>"12040103@12.04", "name"=>{"german"=>"Château de Prangins", "french"=>"Château de Prangins", "italian"=>"Castello di Prangins", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12040101@12.04", "name"=>{"german"=>"Museumsbetrieb", "french"=>"Exploitation muséale", "italian"=>"Esercizio museale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12040104@12.04", "name"=>{"german"=>"Sammlung und Dokumentation", "french"=>"Collections et documentation", "italian"=>"Collezione e documentazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12040102@12.04", "name"=>{"german"=>"Sammlungszentrum", "french"=>"Centre des collections", "italian"=>"Centro delle collezioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-6721762", "surname"=>"Meglen", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 44 21 86658", "function"=>{"german"=>"Direktionsassistentin", "french"=>"Direktionsassistentin", "italian"=>"Direktionsassistentin", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-3284042", "surname"=>"Tonella", "givenName"=>"Denise", "email"=>nil, "phone"=>"+41 44 21 86554", "function"=>{"german"=>"Direktorin Schweizerisches Nationalmuseum", "french"=>"Direktorin Schweizerisches Nationalmuseum", "italian"=>"Direktorin Schweizerisches Nationalmuseum", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"12040100@12.04", "label"=>{"german"=>"SNM", "french"=>"MNS", "italian"=>"MNS", "english"=>""}, "name"=>{"german"=>"Schweizerisches Nationalmuseum", "french"=>"Musée National Suisse", "italian"=>"Museo Nazionale Svizzero", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12040100@12.04",
+  "name": {
+    "german": "Schweizerisches Nationalmuseum",
+    "french": "Musée National Suisse",
+    "italian": "Museo Nazionale Svizzero",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SNM",
+    "french": "MNS",
+    "italian": "MNS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Museumstrasse 2",
+    "postalCode": "8021",
+    "location": "Zürich",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 44 21 86511",
+    "fax": "",
+    "email": "info@nationalmuseum.ch",
+    "homepage": {
+      "german": "www.nationalmuseum.ch",
+      "french": "www.nationalmuseum.ch",
+      "italian": "www.nationalmuseum.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "12040103@12.04",
+      "name": {
+        "german": "Château de Prangins",
+        "french": "Château de Prangins",
+        "italian": "Castello di Prangins",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040101@12.04",
+      "name": {
+        "german": "Museumsbetrieb",
+        "french": "Exploitation muséale",
+        "italian": "Esercizio museale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040104@12.04",
+      "name": {
+        "german": "Sammlung und Dokumentation",
+        "french": "Collections et documentation",
+        "italian": "Collezione e documentazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040102@12.04",
+      "name": {
+        "german": "Sammlungszentrum",
+        "french": "Centre des collections",
+        "italian": "Centro delle collezioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-6721762",
+      "surname": "Meglen",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 44 21 86658",
+      "function": {
+        "german": "Direktionsassistentin",
+        "french": "Direktionsassistentin",
+        "italian": "Direktionsassistentin",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3284042",
+      "surname": "Tonella",
+      "givenName": "Denise",
+      "email": null,
+      "phone": "+41 44 21 86554",
+      "function": {
+        "german": "Direktorin Schweizerisches Nationalmuseum",
+        "french": "Direktorin Schweizerisches Nationalmuseum",
+        "italian": "Direktorin Schweizerisches Nationalmuseum",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040100@12.04",
+      "label": {
+        "german": "SNM",
+        "french": "MNS",
+        "italian": "MNS",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Nationalmuseum",
+        "french": "Musée National Suisse",
+        "italian": "Museo Nazionale Svizzero",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,170 @@
-{"id"=>"20018518", "name"=>{"german"=>"Stab Kommunikation V", "french"=>"Etat-major Communication D", "italian"=>"Stato maggiore Comunicazione Difesa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/31A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20003026", "label"=>{"german"=>"ASTAB", "french"=>"EMA", "italian"=>"SMEs", "english"=>""}, "name"=>{"german"=>"Armeestab", "french"=>"Etat-major de l'armée", "italian"=>"Stato maggiore dell'esercito", "english"=>""}}, {"id"=>"20002926", "label"=>{"german"=>"Stab Chef der Armee", "french"=>"Etat-major du CdA", "italian"=>"Stato maggiore del capo dell'esercito", "english"=>""}, "name"=>{"german"=>"Stab Chef der Armee", "french"=>"Etat-major du CdA", "italian"=>"Stato maggiore del capo dell'esercito", "english"=>""}}, {"id"=>"20003080", "label"=>{"german"=>"Kommunikation V", "french"=>"Communication D", "italian"=>"Comunicazione D", "english"=>""}, "name"=>{"german"=>"Kommunikation V", "french"=>"Communication D", "italian"=>"Comunicazione D", "english"=>""}}, {"id"=>"20018518", "label"=>{"german"=>"Stab Kommunikation V", "french"=>"Etat-major Communication D", "italian"=>"Stato maggiore Comunicazione Difesa", "english"=>""}, "name"=>{"german"=>"Stab Kommunikation V", "french"=>"Etat-major Communication D", "italian"=>"Stato maggiore Comunicazione Difesa", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018518",
+  "name": {
+    "german": "Stab Kommunikation V",
+    "french": "Etat-major Communication D",
+    "italian": "Stato maggiore Comunicazione Difesa",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/31A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003026",
+      "label": {
+        "german": "ASTAB",
+        "french": "EMA",
+        "italian": "SMEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeestab",
+        "french": "Etat-major de l'armée",
+        "italian": "Stato maggiore dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002926",
+      "label": {
+        "german": "Stab Chef der Armee",
+        "french": "Etat-major du CdA",
+        "italian": "Stato maggiore del capo dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Chef der Armee",
+        "french": "Etat-major du CdA",
+        "italian": "Stato maggiore del capo dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003080",
+      "label": {
+        "german": "Kommunikation V",
+        "french": "Communication D",
+        "italian": "Comunicazione D",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation V",
+        "french": "Communication D",
+        "italian": "Comunicazione D",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018518",
+      "label": {
+        "german": "Stab Kommunikation V",
+        "french": "Etat-major Communication D",
+        "italian": "Stato maggiore Comunicazione Difesa",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Kommunikation V",
+        "french": "Etat-major Communication D",
+        "italian": "Stato maggiore Comunicazione Difesa",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

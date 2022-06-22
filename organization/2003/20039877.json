@@ -1,1 +1,185 @@
-{"id"=>"20039877", "name"=>{"german"=>"Berater und FachreferentInnen", "french"=>"Conseiller/ère et conseiller/ère spécialiste", "italian"=>"Consulenti e relatori/trici specializzati/e", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Inselgasse 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10002246", "name"=>{"german"=>"Fachreferenten/Fachreferentinnen", "french"=>"Conseillers/ères spécialistes", "italian"=>"Relatori/trici specializzati/e", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8134501", "surname"=>"Brändle", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 27283", "function"=>{"german"=>"Persönliche/r Mitarbeiter/in des/der Departementsvorsteher/in", "french"=>"Collaborateur/trice personnel/le", "italian"=>"Collaboratore/trice personale", "english"=>"Persönliche/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5363907", "surname"=>"Honegger", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 24709", "function"=>{"german"=>"Persönliche/r Mitarbeiter/in des/der Departementsvorsteher/in", "french"=>"Collaborateur/trice personnel/le", "italian"=>"Collaboratore/trice personale", "english"=>"Persönliche/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3736215", "surname"=>"Pasquier", "givenName"=>"Emilia", "email"=>nil, "phone"=>"+41 58 48 08433", "function"=>{"german"=>"Berater/in Internationales und wirtschaftspolitische Fragen des Departements", "french"=>"Conseiller/ère en politique internationale et économique du département", "italian"=>"Consulente per gli affari internazionali e le questioni economiche del Dipartimento", "english"=>"Berater/in Internat. und wirts. polit."}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"20039877", "label"=>{"german"=>"Berater und FachreferentInnen", "french"=>"Conseiller/ère et conseiller/ère spécialiste", "italian"=>"Consulenti e relatori/trici specializzati/e", "english"=>""}, "name"=>{"german"=>"Berater und FachreferentInnen", "french"=>"Conseiller/ère et conseiller/ère spécialiste", "italian"=>"Consulenti e relatori/trici specializzati/e", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039877",
+  "name": {
+    "german": "Berater und FachreferentInnen",
+    "french": "Conseiller/ère et conseiller/ère spécialiste",
+    "italian": "Consulenti e relatori/trici specializzati/e",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Inselgasse 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10002246",
+      "name": {
+        "german": "Fachreferenten/Fachreferentinnen",
+        "french": "Conseillers/ères spécialistes",
+        "italian": "Relatori/trici specializzati/e",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8134501",
+      "surname": "Brändle",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 27283",
+      "function": {
+        "german": "Persönliche/r Mitarbeiter/in des/der Departementsvorsteher/in",
+        "french": "Collaborateur/trice personnel/le",
+        "italian": "Collaboratore/trice personale",
+        "english": "Persönliche/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5363907",
+      "surname": "Honegger",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 24709",
+      "function": {
+        "german": "Persönliche/r Mitarbeiter/in des/der Departementsvorsteher/in",
+        "french": "Collaborateur/trice personnel/le",
+        "italian": "Collaboratore/trice personale",
+        "english": "Persönliche/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3736215",
+      "surname": "Pasquier",
+      "givenName": "Emilia",
+      "email": null,
+      "phone": "+41 58 48 08433",
+      "function": {
+        "german": "Berater/in Internationales und wirtschaftspolitische Fragen des Departements",
+        "french": "Conseiller/ère en politique internationale et économique du département",
+        "italian": "Consulente per gli affari internazionali e le questioni economiche del Dipartimento",
+        "english": "Berater/in Internat. und wirts. polit."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039877",
+      "label": {
+        "german": "Berater und FachreferentInnen",
+        "french": "Conseiller/ère et conseiller/ère spécialiste",
+        "italian": "Consulenti e relatori/trici specializzati/e",
+        "english": ""
+      },
+      "name": {
+        "german": "Berater und FachreferentInnen",
+        "french": "Conseiller/ère et conseiller/ère spécialiste",
+        "italian": "Consulenti e relatori/trici specializzati/e",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

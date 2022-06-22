@@ -1,1 +1,158 @@
-{"id"=>"12060504@12.06", "name"=>{"german"=>"Patentexperten Team 2", "french"=>"Experts en brevets Equipe 2", "italian"=>"Esperti in brevetti Team 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>185, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-1657272", "surname"=>"Schumacher", "givenName"=>"Yvonne", "email"=>nil, "phone"=>"+41 31 377 73 43", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>186, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-7316882", "surname"=>"Widmer", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 31 377 73 64", "function"=>{"german"=>"Stellvertretung", "french"=>"Stellvertretung", "italian"=>"Stellvertretung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060500@12.06", "label"=>{"german"=>"Patente", "french"=>"Brevets", "italian"=>"Brevetti", "english"=>""}, "name"=>{"german"=>"Patente", "french"=>"Brevets", "italian"=>"Brevetti", "english"=>""}}, {"id"=>"12060504@12.06", "label"=>{"german"=>"Patentexperten Team 2", "french"=>"Experts en brevets Equipe 2", "italian"=>"Esperti in brevetti Team 2", "english"=>""}, "name"=>{"german"=>"Patentexperten Team 2", "french"=>"Experts en brevets Equipe 2", "italian"=>"Esperti in brevetti Team 2", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060504@12.06",
+  "name": {
+    "german": "Patentexperten Team 2",
+    "french": "Experts en brevets Equipe 2",
+    "italian": "Esperti in brevetti Team 2",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 185,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-1657272",
+      "surname": "Schumacher",
+      "givenName": "Yvonne",
+      "email": null,
+      "phone": "+41 31 377 73 43",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 186,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-7316882",
+      "surname": "Widmer",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 31 377 73 64",
+      "function": {
+        "german": "Stellvertretung",
+        "french": "Stellvertretung",
+        "italian": "Stellvertretung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060500@12.06",
+      "label": {
+        "german": "Patente",
+        "french": "Brevets",
+        "italian": "Brevetti",
+        "english": ""
+      },
+      "name": {
+        "german": "Patente",
+        "french": "Brevets",
+        "italian": "Brevetti",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060504@12.06",
+      "label": {
+        "german": "Patentexperten Team 2",
+        "french": "Experts en brevets Equipe 2",
+        "italian": "Esperti in brevetti Team 2",
+        "english": ""
+      },
+      "name": {
+        "german": "Patentexperten Team 2",
+        "french": "Experts en brevets Equipe 2",
+        "italian": "Esperti in brevetti Team 2",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

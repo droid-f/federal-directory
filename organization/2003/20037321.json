@@ -1,1 +1,128 @@
-{"id"=>"20037321", "name"=>{"german"=>"Sekretariat Finanzkommissionen und Finanzdelegation", "french"=>"Secrétariat des Commissions des finances et de la Délégation des finances", "italian"=>"Segreteria delle Commissioni delle finanze e della Delegazione delle finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8768504", "surname"=>"Koller", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 32 29535", "function"=>{"german"=>"Sekretär FK & FinDel", "french"=>"Sekretär FK & FinDel", "italian"=>"Sekretär FK & FinDel", "english"=>"Sekretär FK & FinDel"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0533514", "surname"=>"Ceccon", "givenName"=>"Roberto", "email"=>nil, "phone"=>"+41 58 32 29272", "function"=>{"german"=>"Stv. Sekretär der FinDel", "french"=>"Stv. Sekretär der FinDel", "italian"=>"Stv. Sekretär der FinDel", "english"=>"Stv. Sekretär der FinDel"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037303", "label"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}, "name"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}}, {"id"=>"20037321", "label"=>{"german"=>"Sekretariat Finanzkommissionen und Finanzdelegation", "french"=>"Secrétariat des Commissions des finances et de la Délégation des finances", "italian"=>"Segreteria delle Commissioni delle finanze e della Delegazione delle finanze", "english"=>""}, "name"=>{"german"=>"Sekretariat Finanzkommissionen und Finanzdelegation", "french"=>"Secrétariat des Commissions des finances et de la Délégation des finances", "italian"=>"Segreteria delle Commissioni delle finanze e della Delegazione delle finanze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037321",
+  "name": {
+    "german": "Sekretariat Finanzkommissionen und Finanzdelegation",
+    "french": "Secrétariat des Commissions des finances et de la Délégation des finances",
+    "italian": "Segreteria delle Commissioni delle finanze e della Delegazione delle finanze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8768504",
+      "surname": "Koller",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 32 29535",
+      "function": {
+        "german": "Sekretär FK & FinDel",
+        "french": "Sekretär FK & FinDel",
+        "italian": "Sekretär FK & FinDel",
+        "english": "Sekretär FK & FinDel"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0533514",
+      "surname": "Ceccon",
+      "givenName": "Roberto",
+      "email": null,
+      "phone": "+41 58 32 29272",
+      "function": {
+        "german": "Stv. Sekretär der FinDel",
+        "french": "Stv. Sekretär der FinDel",
+        "italian": "Stv. Sekretär der FinDel",
+        "english": "Stv. Sekretär der FinDel"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037303",
+      "label": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037321",
+      "label": {
+        "german": "Sekretariat Finanzkommissionen und Finanzdelegation",
+        "french": "Secrétariat des Commissions des finances et de la Délégation des finances",
+        "italian": "Segreteria delle Commissioni delle finanze e della Delegazione delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Sekretariat Finanzkommissionen und Finanzdelegation",
+        "french": "Secrétariat des Commissions des finances et de la Délégation des finances",
+        "italian": "Segreteria delle Commissioni delle finanze e della Delegazione delle finanze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

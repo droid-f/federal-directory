@@ -1,1 +1,143 @@
-{"id"=>"20028754", "name"=>{"german"=>"Stab KD", "french"=>"Etat-major DC", "italian"=>"Stato maggiore DC", "english"=>"CD Staff Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1319308", "surname"=>"Natsch", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 48416", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3960211", "surname"=>"Gagnaux", "givenName"=>"Nelly", "email"=>nil, "phone"=>"+41 58 46 21658", "function"=>{"german"=>"Finanzverantwortliche/r", "french"=>"Finanzverantwortliche/r", "italian"=>"Finanzverantwortliche/r", "english"=>"Finanzverantwortliche/r"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20028753", "label"=>{"german"=>"KD", "french"=>"DC", "italian"=>"DC", "english"=>"CD"}, "name"=>{"german"=>"Konsularische Direktion", "french"=>"Direction consulaire", "italian"=>"Direzione consolare", "english"=>"Consular Directorate"}}, {"id"=>"20028754", "label"=>{"german"=>"Stab KD", "french"=>"Etat-major DC", "italian"=>"Stato maggiore DC", "english"=>"CD Staff Office"}, "name"=>{"german"=>"Stab KD", "french"=>"Etat-major DC", "italian"=>"Stato maggiore DC", "english"=>"CD Staff Office"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20028754",
+  "name": {
+    "german": "Stab KD",
+    "french": "Etat-major DC",
+    "italian": "Stato maggiore DC",
+    "english": "CD Staff Office"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1319308",
+      "surname": "Natsch",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 48416",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3960211",
+      "surname": "Gagnaux",
+      "givenName": "Nelly",
+      "email": null,
+      "phone": "+41 58 46 21658",
+      "function": {
+        "german": "Finanzverantwortliche/r",
+        "french": "Finanzverantwortliche/r",
+        "italian": "Finanzverantwortliche/r",
+        "english": "Finanzverantwortliche/r"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20028753",
+      "label": {
+        "german": "KD",
+        "french": "DC",
+        "italian": "DC",
+        "english": "CD"
+      },
+      "name": {
+        "german": "Konsularische Direktion",
+        "french": "Direction consulaire",
+        "italian": "Direzione consolare",
+        "english": "Consular Directorate"
+      }
+    },
+    {
+      "id": "20028754",
+      "label": {
+        "german": "Stab KD",
+        "french": "Etat-major DC",
+        "italian": "Stato maggiore DC",
+        "english": "CD Staff Office"
+      },
+      "name": {
+        "german": "Stab KD",
+        "french": "Etat-major DC",
+        "italian": "Stato maggiore DC",
+        "english": "CD Staff Office"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

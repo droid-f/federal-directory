@@ -1,1 +1,183 @@
-{"id"=>"20020001", "name"=>{"german"=>"Finanzen, Infrastruktur und Recht", "french"=>"Finances, infrastructure et affaires juridiques", "italian"=>"Finanze, infrastruttura e diritto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035905", "name"=>{"german"=>"Externe Mitarbeitende", "french"=>"Externe Mitarbeitende", "italian"=>"Externe Mitarbeitende", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6091172", "surname"=>"Lauper", "givenName"=>"Urban", "email"=>nil, "phone"=>"+41 58 46 57134", "function"=>{"german"=>"Stv. AL ZD/BL FIR/Leiter/in Finanzen", "french"=>"Stv. AL ZD/BL FIR/Leiter/in Finanzen", "italian"=>"Stv. AL ZD/BL FIR/Leiter/in Finanzen", "english"=>"Stv. AL ZD/BL FIR/Leiter/in Finanzen"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5637165", "surname"=>"Salzmann", "givenName"=>"Diego", "email"=>nil, "phone"=>"+41 58 46 30744", "function"=>{"german"=>"Stv. Leiter/in Finanzen/KLR Spez.", "french"=>"Stv. Leiter/in Finanzen/KLR Spez.", "italian"=>"Stv. Leiter/in Finanzen/KLR Spez.", "english"=>"Stv. Leiter/in Finanzen/KLR Spez."}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009470", "label"=>{"german"=>"ISC-EJPD", "french"=>"CSI-DFJP", "italian"=>"CSI-DFGP", "english"=>""}, "name"=>{"german"=>"Informatik Service Center ISC-EJPD", "french"=>"Centre de services informatiques CSI-DFJP", "italian"=>"Centro servizi informatici CSI-DFGP", "english"=>""}}, {"id"=>"20015186", "label"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20050494", "label"=>{"german"=>"ZD", "french"=>"ZD", "italian"=>"ZD", "english"=>""}, "name"=>{"german"=>"Zentrale Dienste", "french"=>"Services centraux", "italian"=>"Servizi centrali", "english"=>""}}, {"id"=>"20020001", "label"=>{"german"=>"Finanzen, Infrastruktur und Recht", "french"=>"Finances, infrastructure et affaires juridiques", "italian"=>"Finanze, infrastruttura e diritto", "english"=>""}, "name"=>{"german"=>"Finanzen, Infrastruktur und Recht", "french"=>"Finances, infrastructure et affaires juridiques", "italian"=>"Finanze, infrastruttura e diritto", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20020001",
+  "name": {
+    "german": "Finanzen, Infrastruktur und Recht",
+    "french": "Finances, infrastructure et affaires juridiques",
+    "italian": "Finanze, infrastruttura e diritto",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035905",
+      "name": {
+        "german": "Externe Mitarbeitende",
+        "french": "Externe Mitarbeitende",
+        "italian": "Externe Mitarbeitende",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6091172",
+      "surname": "Lauper",
+      "givenName": "Urban",
+      "email": null,
+      "phone": "+41 58 46 57134",
+      "function": {
+        "german": "Stv. AL ZD/BL FIR/Leiter/in Finanzen",
+        "french": "Stv. AL ZD/BL FIR/Leiter/in Finanzen",
+        "italian": "Stv. AL ZD/BL FIR/Leiter/in Finanzen",
+        "english": "Stv. AL ZD/BL FIR/Leiter/in Finanzen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5637165",
+      "surname": "Salzmann",
+      "givenName": "Diego",
+      "email": null,
+      "phone": "+41 58 46 30744",
+      "function": {
+        "german": "Stv. Leiter/in Finanzen/KLR Spez.",
+        "french": "Stv. Leiter/in Finanzen/KLR Spez.",
+        "italian": "Stv. Leiter/in Finanzen/KLR Spez.",
+        "english": "Stv. Leiter/in Finanzen/KLR Spez."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009470",
+      "label": {
+        "german": "ISC-EJPD",
+        "french": "CSI-DFJP",
+        "italian": "CSI-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik Service Center ISC-EJPD",
+        "french": "Centre de services informatiques CSI-DFJP",
+        "italian": "Centro servizi informatici CSI-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015186",
+      "label": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050494",
+      "label": {
+        "german": "ZD",
+        "french": "ZD",
+        "italian": "ZD",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Dienste",
+        "french": "Services centraux",
+        "italian": "Servizi centrali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020001",
+      "label": {
+        "german": "Finanzen, Infrastruktur und Recht",
+        "french": "Finances, infrastructure et affaires juridiques",
+        "italian": "Finanze, infrastruttura e diritto",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen, Infrastruktur und Recht",
+        "french": "Finances, infrastructure et affaires juridiques",
+        "italian": "Finanze, infrastruttura e diritto",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

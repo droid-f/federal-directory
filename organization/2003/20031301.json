@@ -1,1 +1,143 @@
-{"id"=>"20031301", "name"=>{"german"=>"HR - Human Resources", "french"=>"HR - Ressources humaines", "italian"=>"HR - Risorse Umane", "english"=>""}, "nameAbbr"=>{"german"=>"HR", "french"=>"HR", "italian"=>"HR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2086040", "surname"=>"Szabo", "givenName"=>"Sara", "email"=>nil, "phone"=>"+41 58 46 09212", "function"=>{"german"=>"Abteilungsleiter/in", "french"=>"Chef(fe) de service", "italian"=>"Capo dipartimento", "english"=>"Abteilungsleiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1Y15DBXCJ", "surname"=>"Hux", "givenName"=>"Isabel", "email"=>nil, "phone"=>"+41 58 56 09201", "function"=>{"german"=>"HR-Business Partnerin", "french"=>"Administration Personnel/Formation", "italian"=>"Amministrazione Personale/Formazione", "english"=>"HR-Business Partnerin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20031301", "label"=>{"german"=>"HR", "french"=>"HR", "italian"=>"HR", "english"=>""}, "name"=>{"german"=>"HR - Human Resources", "french"=>"HR - Ressources humaines", "italian"=>"HR - Risorse Umane", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031301",
+  "name": {
+    "german": "HR - Human Resources",
+    "french": "HR - Ressources humaines",
+    "italian": "HR - Risorse Umane",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "HR",
+    "french": "HR",
+    "italian": "HR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2086040",
+      "surname": "Szabo",
+      "givenName": "Sara",
+      "email": null,
+      "phone": "+41 58 46 09212",
+      "function": {
+        "german": "Abteilungsleiter/in",
+        "french": "Chef(fe) de service",
+        "italian": "Capo dipartimento",
+        "english": "Abteilungsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1Y15DBXCJ",
+      "surname": "Hux",
+      "givenName": "Isabel",
+      "email": null,
+      "phone": "+41 58 56 09201",
+      "function": {
+        "german": "HR-Business Partnerin",
+        "french": "Administration Personnel/Formation",
+        "italian": "Amministrazione Personale/Formazione",
+        "english": "HR-Business Partnerin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20031301",
+      "label": {
+        "german": "HR",
+        "french": "HR",
+        "italian": "HR",
+        "english": ""
+      },
+      "name": {
+        "german": "HR - Human Resources",
+        "french": "HR - Ressources humaines",
+        "italian": "HR - Risorse Umane",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

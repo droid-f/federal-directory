@@ -1,1 +1,188 @@
-{"id"=>"20042885", "name"=>{"german"=>"DVS Rückerstattung Team 5 Zonen 1-12", "french"=>"DVS Rückerstattung Team 5 Zonen 1-12", "italian"=>"DVS Rückerstattung Team 5 Zonen 1-12", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9283786", "surname"=>"Oppliger", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 46 27362", "function"=>{"german"=>"Teamchef/in / Stv. Abteilungschef/in", "french"=>"Teamchef/in / Stv. Abteilungschef/in", "italian"=>"Teamchef/in / Stv. Abteilungschef/in", "english"=>"Teamchef/in / Stv. Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8226207", "surname"=>"Mathys", "givenName"=>"Samuel", "email"=>nil, "phone"=>"+41 58 46 27357", "function"=>{"german"=>"Teamchef/in Stv.", "french"=>"Teamchef/in Stv.", "italian"=>"Teamchef/in Stv.", "english"=>"Teamchef/in Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008668", "label"=>{"german"=>"ESTV", "french"=>"AFC", "italian"=>"AFC", "english"=>""}, "name"=>{"german"=>"Eidgenössische Steuerverwaltung", "french"=>"Administration fédérale des contributions", "italian"=>"Amministrazione federale delle contribuzioni", "english"=>""}}, {"id"=>"10006258", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10006266", "label"=>{"german"=>"Hauptabteilung Direkte Bundessteuer, Verrechnungssteuer, Stempelabgaben DVS", "french"=>"Division principale de l'impôt fédéral direct, de l'impôt anticipé, des droits de timbre DAT", "italian"=>"Divisione principale Imposta federale diretta, imposta preventiva, tasse di bollo DPB", "english"=>""}, "name"=>{"german"=>"Hauptabteilung Direkte Bundessteuer, Verrechnungssteuer, Stempelabgaben DVS", "french"=>"Division principale de l'impôt fédéral direct, de l'impôt anticipé, des droits de timbre DAT", "italian"=>"Divisione principale Imposta federale diretta, imposta preventiva, tasse di bollo DPB", "english"=>""}}, {"id"=>"10006298", "label"=>{"german"=>"DVS - Abteilung Rückerstattung", "french"=>"DAT - Division Remboursement", "italian"=>"DPB - Divisione Rimborso", "english"=>""}, "name"=>{"german"=>"DVS - Abteilung Rückerstattung", "french"=>"DAT - Division Remboursement", "italian"=>"DPB - Divisione Rimborso", "english"=>""}}, {"id"=>"20042885", "label"=>{"german"=>"DVS Rückerstattung Team 5 Zonen 1-12", "french"=>"DVS Rückerstattung Team 5 Zonen 1-12", "italian"=>"DVS Rückerstattung Team 5 Zonen 1-12", "english"=>""}, "name"=>{"german"=>"DVS Rückerstattung Team 5 Zonen 1-12", "french"=>"DVS Rückerstattung Team 5 Zonen 1-12", "italian"=>"DVS Rückerstattung Team 5 Zonen 1-12", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042885",
+  "name": {
+    "german": "DVS Rückerstattung Team 5 Zonen 1-12",
+    "french": "DVS Rückerstattung Team 5 Zonen 1-12",
+    "italian": "DVS Rückerstattung Team 5 Zonen 1-12",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9283786",
+      "surname": "Oppliger",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 46 27362",
+      "function": {
+        "german": "Teamchef/in / Stv. Abteilungschef/in",
+        "french": "Teamchef/in / Stv. Abteilungschef/in",
+        "italian": "Teamchef/in / Stv. Abteilungschef/in",
+        "english": "Teamchef/in / Stv. Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8226207",
+      "surname": "Mathys",
+      "givenName": "Samuel",
+      "email": null,
+      "phone": "+41 58 46 27357",
+      "function": {
+        "german": "Teamchef/in Stv.",
+        "french": "Teamchef/in Stv.",
+        "italian": "Teamchef/in Stv.",
+        "english": "Teamchef/in Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008668",
+      "label": {
+        "german": "ESTV",
+        "french": "AFC",
+        "italian": "AFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Steuerverwaltung",
+        "french": "Administration fédérale des contributions",
+        "italian": "Amministrazione federale delle contribuzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006258",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006266",
+      "label": {
+        "german": "Hauptabteilung Direkte Bundessteuer, Verrechnungssteuer, Stempelabgaben DVS",
+        "french": "Division principale de l'impôt fédéral direct, de l'impôt anticipé, des droits de timbre DAT",
+        "italian": "Divisione principale Imposta federale diretta, imposta preventiva, tasse di bollo DPB",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptabteilung Direkte Bundessteuer, Verrechnungssteuer, Stempelabgaben DVS",
+        "french": "Division principale de l'impôt fédéral direct, de l'impôt anticipé, des droits de timbre DAT",
+        "italian": "Divisione principale Imposta federale diretta, imposta preventiva, tasse di bollo DPB",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006298",
+      "label": {
+        "german": "DVS - Abteilung Rückerstattung",
+        "french": "DAT - Division Remboursement",
+        "italian": "DPB - Divisione Rimborso",
+        "english": ""
+      },
+      "name": {
+        "german": "DVS - Abteilung Rückerstattung",
+        "french": "DAT - Division Remboursement",
+        "italian": "DPB - Divisione Rimborso",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042885",
+      "label": {
+        "german": "DVS Rückerstattung Team 5 Zonen 1-12",
+        "french": "DVS Rückerstattung Team 5 Zonen 1-12",
+        "italian": "DVS Rückerstattung Team 5 Zonen 1-12",
+        "english": ""
+      },
+      "name": {
+        "german": "DVS Rückerstattung Team 5 Zonen 1-12",
+        "french": "DVS Rückerstattung Team 5 Zonen 1-12",
+        "italian": "DVS Rückerstattung Team 5 Zonen 1-12",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

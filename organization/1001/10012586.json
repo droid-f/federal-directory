@@ -1,1 +1,215 @@
-{"id"=>"10012586", "name"=>{"german"=>"Personalrecht", "french"=>"Droit du personnel", "italian"=>"Diritto del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4221009", "surname"=>"Knecht", "givenName"=>"Reto P.", "email"=>nil, "phone"=>"+41 58 46 46209", "function"=>{"german"=>"Leiter/in Personalrecht", "french"=>"Leiter/in Personalrecht", "italian"=>"Leiter/in Personalrecht", "english"=>"Leiter/in Personalrecht"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6905108", "surname"=>"Steiner", "givenName"=>"Sandra", "email"=>nil, "phone"=>"+41 58 46 32270", "function"=>{"german"=>"Stv. Leiter/in  Personalrecht VBS", "french"=>"Stv. Leiter/in  Personalrecht VBS", "italian"=>"Stv. Leiter/in  Personalrecht VBS", "english"=>"Stv. Leiter/in  Personalrecht VBS"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-0853511", "surname"=>"Gassmann", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 24800", "function"=>{"german"=>"Jurist/in Personalrecht VBS", "french"=>"Jurist/in Personalrecht VBS", "italian"=>"Jurist/in Personalrecht VBS", "english"=>"Jurist/in Personalrecht VBS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8404375", "surname"=>"Hungerbühler", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 32276", "function"=>{"german"=>"Jurist/in Personalrecht VBS", "french"=>"Jurist/in Personalrecht VBS", "italian"=>"Jurist/in Personalrecht VBS", "english"=>"Jurist/in Personalrecht VBS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"10003756", "label"=>{"german"=>"Personal VBS", "french"=>"Personnel DDPS", "italian"=>"Personale DDPS", "english"=>""}, "name"=>{"german"=>"Personal VBS", "french"=>"Personnel DDPS", "italian"=>"Personale DDPS", "english"=>""}}, {"id"=>"10012586", "label"=>{"german"=>"Personalrecht", "french"=>"Droit du personnel", "italian"=>"Diritto del personale", "english"=>""}, "name"=>{"german"=>"Personalrecht", "french"=>"Droit du personnel", "italian"=>"Diritto del personale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10012586",
+  "name": {
+    "german": "Personalrecht",
+    "french": "Droit du personnel",
+    "italian": "Diritto del personale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4221009",
+      "surname": "Knecht",
+      "givenName": "Reto P.",
+      "email": null,
+      "phone": "+41 58 46 46209",
+      "function": {
+        "german": "Leiter/in Personalrecht",
+        "french": "Leiter/in Personalrecht",
+        "italian": "Leiter/in Personalrecht",
+        "english": "Leiter/in Personalrecht"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6905108",
+      "surname": "Steiner",
+      "givenName": "Sandra",
+      "email": null,
+      "phone": "+41 58 46 32270",
+      "function": {
+        "german": "Stv. Leiter/in  Personalrecht VBS",
+        "french": "Stv. Leiter/in  Personalrecht VBS",
+        "italian": "Stv. Leiter/in  Personalrecht VBS",
+        "english": "Stv. Leiter/in  Personalrecht VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-0853511",
+      "surname": "Gassmann",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 24800",
+      "function": {
+        "german": "Jurist/in Personalrecht VBS",
+        "french": "Jurist/in Personalrecht VBS",
+        "italian": "Jurist/in Personalrecht VBS",
+        "english": "Jurist/in Personalrecht VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8404375",
+      "surname": "Hungerbühler",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 32276",
+      "function": {
+        "german": "Jurist/in Personalrecht VBS",
+        "french": "Jurist/in Personalrecht VBS",
+        "italian": "Jurist/in Personalrecht VBS",
+        "english": "Jurist/in Personalrecht VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003756",
+      "label": {
+        "german": "Personal VBS",
+        "french": "Personnel DDPS",
+        "italian": "Personale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal VBS",
+        "french": "Personnel DDPS",
+        "italian": "Personale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012586",
+      "label": {
+        "german": "Personalrecht",
+        "french": "Droit du personnel",
+        "italian": "Diritto del personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personalrecht",
+        "french": "Droit du personnel",
+        "italian": "Diritto del personale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

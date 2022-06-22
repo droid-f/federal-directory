@@ -1,1 +1,217 @@
-{"id"=>"20016726", "name"=>{"german"=>"Dienstleistungszentrum Finanzen", "french"=>"Centre de services en matière de finances", "italian"=>"Centro Prestazioni di servizi Finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 118", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20016727", "name"=>{"german"=>"Finanzbuchhaltung und Controlling", "french"=>"Comptabilité financière", "italian"=>"Contabilità finanziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20016728", "name"=>{"german"=>"Kreditorenbuchhaltung", "french"=>"Centre de traitement des fournisseurs", "italian"=>"Centro di elaborazione Creditori", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20016729", "name"=>{"german"=>"Debitorenbuchhaltung", "french"=>"Comptabilité des débiteurs", "italian"=>"Contabilità debitori", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0473781", "surname"=>"Reber", "givenName"=>"Jürg", "email"=>nil, "phone"=>"+41 58 46 26288", "function"=>{"german"=>"Leiter DLZ Finanzen", "french"=>"Chef Centre de Service en matière de finances", "italian"=>"Capo CPS Finanze DFF", "english"=>"Leiter DLZ Finanzen"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7033192", "surname"=>"Hürzeler", "givenName"=>"Brigitte", "email"=>nil, "phone"=>"+41 58 46 11646", "function"=>{"german"=>"Stv. Leiter DLZ FI / Leiter Finanzbuchhaltung und Controlling", "french"=>"Cheffe suppléante Centre de service en matière de finances - Cheffe Comptabilité financière et contrôle de gestion", "italian"=>"Capo sostituta CPS Finanze / Capo Contabilità fianziaria e controlling", "english"=>"Stv. L. DLZ - Leiter Finanzb. u. C."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003272", "label"=>{"german"=>"Finanz- und Rechnungswesen Bund", "french"=>"Finances et comptabilité de la", "italian"=>"Finanze e contabilità della Co", "english"=>""}, "name"=>{"german"=>"Finanz- und Rechnungswesen Bund", "french"=>"Finances et comptabilité de la", "italian"=>"Finanze e contabilità della Co", "english"=>""}}, {"id"=>"20016726", "label"=>{"german"=>"Dienstleistungszentrum Finanzen", "french"=>"Centre de services en matière de finances", "italian"=>"Centro Prestazioni di servizi Finanze", "english"=>""}, "name"=>{"german"=>"Dienstleistungszentrum Finanzen", "french"=>"Centre de services en matière de finances", "italian"=>"Centro Prestazioni di servizi Finanze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20016726",
+  "name": {
+    "german": "Dienstleistungszentrum Finanzen",
+    "french": "Centre de services en matière de finances",
+    "italian": "Centro Prestazioni di servizi Finanze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 118",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20016727",
+      "name": {
+        "german": "Finanzbuchhaltung und Controlling",
+        "french": "Comptabilité financière",
+        "italian": "Contabilità finanziaria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016728",
+      "name": {
+        "german": "Kreditorenbuchhaltung",
+        "french": "Centre de traitement des fournisseurs",
+        "italian": "Centro di elaborazione Creditori",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016729",
+      "name": {
+        "german": "Debitorenbuchhaltung",
+        "french": "Comptabilité des débiteurs",
+        "italian": "Contabilità debitori",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0473781",
+      "surname": "Reber",
+      "givenName": "Jürg",
+      "email": null,
+      "phone": "+41 58 46 26288",
+      "function": {
+        "german": "Leiter DLZ Finanzen",
+        "french": "Chef Centre de Service en matière de finances",
+        "italian": "Capo CPS Finanze DFF",
+        "english": "Leiter DLZ Finanzen"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7033192",
+      "surname": "Hürzeler",
+      "givenName": "Brigitte",
+      "email": null,
+      "phone": "+41 58 46 11646",
+      "function": {
+        "german": "Stv. Leiter DLZ FI / Leiter Finanzbuchhaltung und Controlling",
+        "french": "Cheffe suppléante Centre de service en matière de finances - Cheffe Comptabilité financière et contrôle de gestion",
+        "italian": "Capo sostituta CPS Finanze / Capo Contabilità fianziaria e controlling",
+        "english": "Stv. L. DLZ - Leiter Finanzb. u. C."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003272",
+      "label": {
+        "german": "Finanz- und Rechnungswesen Bund",
+        "french": "Finances et comptabilité de la",
+        "italian": "Finanze e contabilità della Co",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanz- und Rechnungswesen Bund",
+        "french": "Finances et comptabilité de la",
+        "italian": "Finanze e contabilità della Co",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016726",
+      "label": {
+        "german": "Dienstleistungszentrum Finanzen",
+        "french": "Centre de services en matière de finances",
+        "italian": "Centro Prestazioni di servizi Finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienstleistungszentrum Finanzen",
+        "french": "Centre de services en matière de finances",
+        "italian": "Centro Prestazioni di servizi Finanze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

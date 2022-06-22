@@ -1,1 +1,186 @@
-{"id"=>"10013101", "name"=>{"german"=>"Medienarbeit", "french"=>"Service Médias", "italian"=>"Servizio stampa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6071089", "surname"=>"Sohns", "givenName"=>"Harald", "email"=>nil, "phone"=>"+41 58 46 29211", "function"=>{"german"=>"Leiter/in Medienarbeit / Stv.", "french"=>"Responsable du service Médias / suppl.", "italian"=>"Capo Servizio stampa", "english"=>"Leiter/in Medienarbeit / Stv."}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2687728", "surname"=>"Hostettler", "givenName"=>"Elisabeth", "email"=>nil, "phone"=>"+41 58 46 35708", "function"=>{"german"=>"Mediensprecher/in / Stv.", "french"=>"Porte-parole / suppl.", "italian"=>"Portavoce / suppl.", "english"=>"Mediensprecher/in / Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2581981", "surname"=>"Gasser", "givenName"=>"Sabrina", "email"=>nil, "phone"=>"+41 58 46 59313", "function"=>{"german"=>"Mediensprecher/in", "french"=>"Porte-parole", "italian"=>"Portavoce", "english"=>"Mediensprecher/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008685", "label"=>{"german"=>"BSV", "french"=>"OFAS", "italian"=>"UFAS", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sozialversicherungen", "french"=>"Office fédéral des assurances sociales", "italian"=>"Ufficio federale delle assicurazioni sociali", "english"=>""}}, {"id"=>"10003540", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003543", "label"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}}, {"id"=>"10013101", "label"=>{"german"=>"Medienarbeit", "french"=>"Service Médias", "italian"=>"Servizio stampa", "english"=>""}, "name"=>{"german"=>"Medienarbeit", "french"=>"Service Médias", "italian"=>"Servizio stampa", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10013101",
+  "name": {
+    "german": "Medienarbeit",
+    "french": "Service Médias",
+    "italian": "Servizio stampa",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6071089",
+      "surname": "Sohns",
+      "givenName": "Harald",
+      "email": null,
+      "phone": "+41 58 46 29211",
+      "function": {
+        "german": "Leiter/in Medienarbeit / Stv.",
+        "french": "Responsable du service Médias / suppl.",
+        "italian": "Capo Servizio stampa",
+        "english": "Leiter/in Medienarbeit / Stv."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2687728",
+      "surname": "Hostettler",
+      "givenName": "Elisabeth",
+      "email": null,
+      "phone": "+41 58 46 35708",
+      "function": {
+        "german": "Mediensprecher/in / Stv.",
+        "french": "Porte-parole / suppl.",
+        "italian": "Portavoce / suppl.",
+        "english": "Mediensprecher/in / Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2581981",
+      "surname": "Gasser",
+      "givenName": "Sabrina",
+      "email": null,
+      "phone": "+41 58 46 59313",
+      "function": {
+        "german": "Mediensprecher/in",
+        "french": "Porte-parole",
+        "italian": "Portavoce",
+        "english": "Mediensprecher/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008685",
+      "label": {
+        "german": "BSV",
+        "french": "OFAS",
+        "italian": "UFAS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sozialversicherungen",
+        "french": "Office fédéral des assurances sociales",
+        "italian": "Ufficio federale delle assicurazioni sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003540",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003543",
+      "label": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013101",
+      "label": {
+        "german": "Medienarbeit",
+        "french": "Service Médias",
+        "italian": "Servizio stampa",
+        "english": ""
+      },
+      "name": {
+        "german": "Medienarbeit",
+        "french": "Service Médias",
+        "italian": "Servizio stampa",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

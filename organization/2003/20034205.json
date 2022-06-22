@@ -1,1 +1,170 @@
-{"id"=>"20034205", "name"=>{"german"=>"Gesundheitsökonomie", "french"=>"Economie de la santé", "italian"=>"Economia della salute", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20002655", "label"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}, "name"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}}, {"id"=>"10004656", "label"=>{"german"=>"Sektion Gesundheitsversorgung", "french"=>"Section Services de santé", "italian"=>"Sezione Sistema sanitario", "english"=>""}, "name"=>{"german"=>"Sektion Gesundheitsversorgung", "french"=>"Section Services de santé", "italian"=>"Sezione Sistema sanitario", "english"=>""}}, {"id"=>"20027942", "label"=>{"german"=>"Diffusion und Gesundheitsökonomie", "french"=>"Economie de la santé et diffusion", "italian"=>"Economia della salute e diffusione", "english"=>""}, "name"=>{"german"=>"Diffusion und Gesundheitsökonomie", "french"=>"Economie de la santé et diffusion", "italian"=>"Economia della salute e diffusione", "english"=>""}}, {"id"=>"20034205", "label"=>{"german"=>"Gesundheitsökonomie", "french"=>"Economie de la santé", "italian"=>"Economia della salute", "english"=>""}, "name"=>{"german"=>"Gesundheitsökonomie", "french"=>"Economie de la santé", "italian"=>"Economia della salute", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034205",
+  "name": {
+    "german": "Gesundheitsökonomie",
+    "french": "Economie de la santé",
+    "italian": "Economia della salute",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002655",
+      "label": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004656",
+      "label": {
+        "german": "Sektion Gesundheitsversorgung",
+        "french": "Section Services de santé",
+        "italian": "Sezione Sistema sanitario",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Gesundheitsversorgung",
+        "french": "Section Services de santé",
+        "italian": "Sezione Sistema sanitario",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027942",
+      "label": {
+        "german": "Diffusion und Gesundheitsökonomie",
+        "french": "Economie de la santé et diffusion",
+        "italian": "Economia della salute e diffusione",
+        "english": ""
+      },
+      "name": {
+        "german": "Diffusion und Gesundheitsökonomie",
+        "french": "Economie de la santé et diffusion",
+        "italian": "Economia della salute e diffusione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034205",
+      "label": {
+        "german": "Gesundheitsökonomie",
+        "french": "Economie de la santé",
+        "italian": "Economia della salute",
+        "english": ""
+      },
+      "name": {
+        "german": "Gesundheitsökonomie",
+        "french": "Economie de la santé",
+        "italian": "Economia della salute",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

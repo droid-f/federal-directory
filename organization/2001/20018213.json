@@ -1,1 +1,187 @@
-{"id"=>"20018213", "name"=>{"german"=>"Geschäftsstelle EnergieSchweiz", "french"=>"Service SuisseEnergie", "italian"=>"Servizio SvizzeraEnergia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20034955", "name"=>{"german"=>"Aus- und Weiterbildung Energiebereich", "french"=>"Service Formation et perfectionnement dans le domaine de l'énergie", "italian"=>"Servizio Formazione e perfezionamento settore energetico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2404142", "surname"=>"Kutschera", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 46 67871", "function"=>{"german"=>"Geschäftsführer/in EnergieSchweiz", "french"=>"Geschäftsführer/in EnergieSchweiz", "italian"=>"Geschäftsführer/in EnergieSchweiz", "english"=>"Geschäftsführer/in EnergieSchweiz"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8807950", "surname"=>"Zürcher", "givenName"=>"Raphael", "email"=>nil, "phone"=>"+41 58 46 26917", "function"=>{"german"=>"Verantwortliche/r Kommunikation ECH/Stv.", "french"=>"Verantwortliche/r Kommunikation ECH/Stv.", "italian"=>"Verantwortliche/r Kommunikation ECH/Stv.", "english"=>"Verantwortliche/r Kommunikation ECH/Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002566", "label"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}, "name"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}}, {"id"=>"20018213", "label"=>{"german"=>"Geschäftsstelle EnergieSchweiz", "french"=>"Service SuisseEnergie", "italian"=>"Servizio SvizzeraEnergia", "english"=>""}, "name"=>{"german"=>"Geschäftsstelle EnergieSchweiz", "french"=>"Service SuisseEnergie", "italian"=>"Servizio SvizzeraEnergia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018213",
+  "name": {
+    "german": "Geschäftsstelle EnergieSchweiz",
+    "french": "Service SuisseEnergie",
+    "italian": "Servizio SvizzeraEnergia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20034955",
+      "name": {
+        "german": "Aus- und Weiterbildung Energiebereich",
+        "french": "Service Formation et perfectionnement dans le domaine de l'énergie",
+        "italian": "Servizio Formazione e perfezionamento settore energetico",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2404142",
+      "surname": "Kutschera",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 46 67871",
+      "function": {
+        "german": "Geschäftsführer/in EnergieSchweiz",
+        "french": "Geschäftsführer/in EnergieSchweiz",
+        "italian": "Geschäftsführer/in EnergieSchweiz",
+        "english": "Geschäftsführer/in EnergieSchweiz"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8807950",
+      "surname": "Zürcher",
+      "givenName": "Raphael",
+      "email": null,
+      "phone": "+41 58 46 26917",
+      "function": {
+        "german": "Verantwortliche/r Kommunikation ECH/Stv.",
+        "french": "Verantwortliche/r Kommunikation ECH/Stv.",
+        "italian": "Verantwortliche/r Kommunikation ECH/Stv.",
+        "english": "Verantwortliche/r Kommunikation ECH/Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002566",
+      "label": {
+        "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+        "french": "Division Efficacité énergétique et énergies renouvelables",
+        "italian": "Divisione Efficienza energetica e energie rinnovabili",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+        "french": "Division Efficacité énergétique et énergies renouvelables",
+        "italian": "Divisione Efficienza energetica e energie rinnovabili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018213",
+      "label": {
+        "german": "Geschäftsstelle EnergieSchweiz",
+        "french": "Service SuisseEnergie",
+        "italian": "Servizio SvizzeraEnergia",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsstelle EnergieSchweiz",
+        "french": "Service SuisseEnergie",
+        "italian": "Servizio SvizzeraEnergia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,229 @@
-{"id"=>"20048310", "name"=>{"german"=>"Support", "french"=>"Support", "italian"=>"Support", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Maulbeerstrasse 9", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2584633", "surname"=>"Mihajlovic", "givenName"=>"Marijana", "email"=>nil, "phone"=>"+41 58 48 54092", "function"=>{"german"=>"Leiter/in Support", "french"=>"Leiter/in Support", "italian"=>"Leiter/in Support", "english"=>"Leiter/in Support"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4449504", "surname"=>"Beutler", "givenName"=>"Prisca", "email"=>nil, "phone"=>"+41 58 46 31641", "function"=>{"german"=>"Stv L/Sachbearbeiter/in Support SZ VBS", "french"=>"Stv L/Sachbearbeiter/in Support SZ VBS", "italian"=>"Stv L/Sachbearbeiter/in Support SZ VBS", "english"=>"Stv L/Sachbearbeiter/in Support SZ VBS"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5732742", "surname"=>"Nussbaumer", "givenName"=>"Lea", "email"=>nil, "phone"=>"+41 58 48 58697", "function"=>{"german"=>"Sachbearbeiter/in Support SZ VBS", "french"=>"Sachbearbeiter/in Support SZ VBS", "italian"=>"Sachbearbeiter/in Support SZ VBS", "english"=>"Sachbearbeiter/in Support SZ VBS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7665453", "surname"=>"Thuner Roth", "givenName"=>"Marianne", "email"=>nil, "phone"=>"+41 58 46 37169", "function"=>{"german"=>"Sachbearbeiter/in Support SZ VBS", "french"=>"Sachbearbeiter/in Support SZ VBS", "italian"=>"Sachbearbeiter/in Support SZ VBS", "english"=>"Sachbearbeiter/in Support SZ VBS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8327094", "surname"=>"Widmer", "givenName"=>"Maria", "email"=>nil, "phone"=>"+41 58 48 42970", "function"=>{"german"=>"Sachbearbeiter/in Support SZ VBS", "french"=>"Sachbearbeiter/in Support SZ VBS", "italian"=>"Sachbearbeiter/in Support SZ VBS", "english"=>"Sachbearbeiter/in Support SZ VBS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003762", "label"=>{"german"=>"Raum und Umwelt VBS", "french"=>"Territoire et environnement DDPS", "italian"=>"Territorio e ambiente DDPS", "english"=>""}, "name"=>{"german"=>"Raum und Umwelt VBS", "french"=>"Territoire et environnement DDPS", "italian"=>"Territorio e ambiente DDPS", "english"=>""}}, {"id"=>"10003737", "label"=>{"german"=>"Schadenzentrum VBS", "french"=>"Centre de dommages DDPS", "italian"=>"Centro danni DDPS", "english"=>""}, "name"=>{"german"=>"Schadenzentrum VBS", "french"=>"Centre de dommages DDPS", "italian"=>"Centro danni DDPS", "english"=>""}}, {"id"=>"20048310", "label"=>{"german"=>"Support", "french"=>"Support", "italian"=>"Support", "english"=>""}, "name"=>{"german"=>"Support", "french"=>"Support", "italian"=>"Support", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048310",
+  "name": {
+    "german": "Support",
+    "french": "Support",
+    "italian": "Support",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Maulbeerstrasse 9",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2584633",
+      "surname": "Mihajlovic",
+      "givenName": "Marijana",
+      "email": null,
+      "phone": "+41 58 48 54092",
+      "function": {
+        "german": "Leiter/in Support",
+        "french": "Leiter/in Support",
+        "italian": "Leiter/in Support",
+        "english": "Leiter/in Support"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4449504",
+      "surname": "Beutler",
+      "givenName": "Prisca",
+      "email": null,
+      "phone": "+41 58 46 31641",
+      "function": {
+        "german": "Stv L/Sachbearbeiter/in Support SZ VBS",
+        "french": "Stv L/Sachbearbeiter/in Support SZ VBS",
+        "italian": "Stv L/Sachbearbeiter/in Support SZ VBS",
+        "english": "Stv L/Sachbearbeiter/in Support SZ VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5732742",
+      "surname": "Nussbaumer",
+      "givenName": "Lea",
+      "email": null,
+      "phone": "+41 58 48 58697",
+      "function": {
+        "german": "Sachbearbeiter/in Support SZ VBS",
+        "french": "Sachbearbeiter/in Support SZ VBS",
+        "italian": "Sachbearbeiter/in Support SZ VBS",
+        "english": "Sachbearbeiter/in Support SZ VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7665453",
+      "surname": "Thuner Roth",
+      "givenName": "Marianne",
+      "email": null,
+      "phone": "+41 58 46 37169",
+      "function": {
+        "german": "Sachbearbeiter/in Support SZ VBS",
+        "french": "Sachbearbeiter/in Support SZ VBS",
+        "italian": "Sachbearbeiter/in Support SZ VBS",
+        "english": "Sachbearbeiter/in Support SZ VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8327094",
+      "surname": "Widmer",
+      "givenName": "Maria",
+      "email": null,
+      "phone": "+41 58 48 42970",
+      "function": {
+        "german": "Sachbearbeiter/in Support SZ VBS",
+        "french": "Sachbearbeiter/in Support SZ VBS",
+        "italian": "Sachbearbeiter/in Support SZ VBS",
+        "english": "Sachbearbeiter/in Support SZ VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003762",
+      "label": {
+        "german": "Raum und Umwelt VBS",
+        "french": "Territoire et environnement DDPS",
+        "italian": "Territorio e ambiente DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Raum und Umwelt VBS",
+        "french": "Territoire et environnement DDPS",
+        "italian": "Territorio e ambiente DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003737",
+      "label": {
+        "german": "Schadenzentrum VBS",
+        "french": "Centre de dommages DDPS",
+        "italian": "Centro danni DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Schadenzentrum VBS",
+        "french": "Centre de dommages DDPS",
+        "italian": "Centro danni DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048310",
+      "label": {
+        "german": "Support",
+        "french": "Support",
+        "italian": "Support",
+        "english": ""
+      },
+      "name": {
+        "german": "Support",
+        "french": "Support",
+        "italian": "Support",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

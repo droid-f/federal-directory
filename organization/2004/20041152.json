@@ -1,1 +1,202 @@
-{"id"=>"20041152", "name"=>{"german"=>"Geschäfte und Recht VBS", "french"=>"Affaires politique et juridiques DDPS", "italian"=>"Affari politici e giuridici DDPS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10012583", "name"=>{"german"=>"Bundesrats- und Parlamentsgeschäfte", "french"=>"Affaires du Conseil fédéral et du Parlement", "italian"=>"Affari del Consiglio federale e del Parlamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003765", "name"=>{"german"=>"Recht VBS und GS-VBS", "french"=>"Droit DDPS et SG-DDPS", "italian"=>"Diritto DDPS et SG-DDPS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10012588", "name"=>{"german"=>"Geschäftsverwaltung und Registratur", "french"=>"Gestion des affaires", "italian"=>"Gestione delle pratiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1280721", "surname"=>"Stuber", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 35066", "function"=>{"german"=>"Chef/in Geschäfte und Recht VBS", "french"=>"Chef/in Geschäfte und Recht VBS", "italian"=>"Chef/in Geschäfte und Recht VBS", "english"=>"Chef/in Geschäfte und Recht VBS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5239792", "surname"=>"Saladin", "givenName"=>"Gerhard", "email"=>nil, "phone"=>"+41 58 46 45146", "function"=>{"german"=>"Chef/in Recht/Stv C Geschäfte/Recht VBS", "french"=>"Chef/in Recht/Stv C Geschäfte/Recht VBS", "italian"=>"Chef/in Recht/Stv C Geschäfte/Recht VBS", "english"=>"Chef/in Recht/Stv C Geschäfte/Recht VBS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041152", "label"=>{"german"=>"Geschäfte und Recht VBS", "french"=>"Affaires politique et juridiques DDPS", "italian"=>"Affari politici e giuridici DDPS", "english"=>""}, "name"=>{"german"=>"Geschäfte und Recht VBS", "french"=>"Affaires politique et juridiques DDPS", "italian"=>"Affari politici e giuridici DDPS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041152",
+  "name": {
+    "german": "Geschäfte und Recht VBS",
+    "french": "Affaires politique et juridiques DDPS",
+    "italian": "Affari politici e giuridici DDPS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10012583",
+      "name": {
+        "german": "Bundesrats- und Parlamentsgeschäfte",
+        "french": "Affaires du Conseil fédéral et du Parlement",
+        "italian": "Affari del Consiglio federale e del Parlamento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003765",
+      "name": {
+        "german": "Recht VBS und GS-VBS",
+        "french": "Droit DDPS et SG-DDPS",
+        "italian": "Diritto DDPS et SG-DDPS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012588",
+      "name": {
+        "german": "Geschäftsverwaltung und Registratur",
+        "french": "Gestion des affaires",
+        "italian": "Gestione delle pratiche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1280721",
+      "surname": "Stuber",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 35066",
+      "function": {
+        "german": "Chef/in Geschäfte und Recht VBS",
+        "french": "Chef/in Geschäfte und Recht VBS",
+        "italian": "Chef/in Geschäfte und Recht VBS",
+        "english": "Chef/in Geschäfte und Recht VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5239792",
+      "surname": "Saladin",
+      "givenName": "Gerhard",
+      "email": null,
+      "phone": "+41 58 46 45146",
+      "function": {
+        "german": "Chef/in Recht/Stv C Geschäfte/Recht VBS",
+        "french": "Chef/in Recht/Stv C Geschäfte/Recht VBS",
+        "italian": "Chef/in Recht/Stv C Geschäfte/Recht VBS",
+        "english": "Chef/in Recht/Stv C Geschäfte/Recht VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041152",
+      "label": {
+        "german": "Geschäfte und Recht VBS",
+        "french": "Affaires politique et juridiques DDPS",
+        "italian": "Affari politici e giuridici DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäfte und Recht VBS",
+        "french": "Affaires politique et juridiques DDPS",
+        "italian": "Affari politici e giuridici DDPS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

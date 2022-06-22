@@ -1,1 +1,274 @@
-{"id"=>"20038707", "name"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10000832", "name"=>{"german"=>"Konsulat Belfast", "french"=>"Consulat de Belfast", "italian"=>"Consolato a Belfast", "english"=>"Consulate in Belfast"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014801", "name"=>{"german"=>"Konsulat Cardiff", "french"=>"Consulat de Cardiff", "italian"=>"Consolato a Cardiff", "english"=>"Consulate in Cardiff"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000833", "name"=>{"german"=>"Generalkonsulat Edinburgh", "french"=>"Consulat général d'Edimbourg", "italian"=>"Consolato generale a Edimburgo", "english"=>"Consulate General in Edinburgh"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021151", "name"=>{"german"=>"Konsulat Gibraltar", "french"=>"Consulat de Gibraltar", "italian"=>"Consolato a Gibilterra", "english"=>"Consulate in Gibraltar"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000830", "name"=>{"german"=>"Konsulat Manchester", "french"=>"Consulat de Manchester", "italian"=>"Consolato a Manchester", "english"=>"Consulate in Manchester"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013851", "name"=>{"german"=>"Konsulat Hamilton/Bermuda", "french"=>"Consulat de Hamilton/Bermuda", "italian"=>"Consolato a Hamilton/Bermuda", "english"=>"Consulate in Hamilton/Bermuda"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20022726", "name"=>{"german"=>"Konsulat George Town - Cayman Islands", "french"=>"Consulat de George Town - Cayman Islands", "italian"=>"Consolato a George Town - Cayman Islands", "english"=>"Consulate in George Town - Cayman Islands"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035235", "label"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}, "name"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}}, {"id"=>"20035301", "label"=>{"german"=>"Vereinigtes Königreich", "french"=>"Royaume-Uni", "italian"=>"Regno Unito", "english"=>"United Kingdom"}, "name"=>{"german"=>"Vereinigtes Königreich", "french"=>"Royaume-Uni", "italian"=>"Regno Unito", "english"=>"United Kingdom"}}, {"id"=>"10000763", "label"=>{"german"=>"Botschaft London", "french"=>"Ambassade de Londres", "italian"=>"Ambasciata a Londra", "english"=>"Embassy in London"}, "name"=>{"german"=>"Botschaft London", "french"=>"Ambassade de Londres", "italian"=>"Ambasciata a Londra", "english"=>"Embassy in London"}}, {"id"=>"20038707", "label"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}, "name"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038707",
+  "name": {
+    "german": "Honorarvertretungen",
+    "french": "Représentations honoraires",
+    "italian": "Rappresentanze onorarie",
+    "english": "Honorary representations"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10000832",
+      "name": {
+        "german": "Konsulat Belfast",
+        "french": "Consulat de Belfast",
+        "italian": "Consolato a Belfast",
+        "english": "Consulate in Belfast"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014801",
+      "name": {
+        "german": "Konsulat Cardiff",
+        "french": "Consulat de Cardiff",
+        "italian": "Consolato a Cardiff",
+        "english": "Consulate in Cardiff"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000833",
+      "name": {
+        "german": "Generalkonsulat Edinburgh",
+        "french": "Consulat général d'Edimbourg",
+        "italian": "Consolato generale a Edimburgo",
+        "english": "Consulate General in Edinburgh"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021151",
+      "name": {
+        "german": "Konsulat Gibraltar",
+        "french": "Consulat de Gibraltar",
+        "italian": "Consolato a Gibilterra",
+        "english": "Consulate in Gibraltar"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000830",
+      "name": {
+        "german": "Konsulat Manchester",
+        "french": "Consulat de Manchester",
+        "italian": "Consolato a Manchester",
+        "english": "Consulate in Manchester"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013851",
+      "name": {
+        "german": "Konsulat Hamilton/Bermuda",
+        "french": "Consulat de Hamilton/Bermuda",
+        "italian": "Consolato a Hamilton/Bermuda",
+        "english": "Consulate in Hamilton/Bermuda"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022726",
+      "name": {
+        "german": "Konsulat George Town - Cayman Islands",
+        "french": "Consulat de George Town - Cayman Islands",
+        "italian": "Consolato a George Town - Cayman Islands",
+        "english": "Consulate in George Town - Cayman Islands"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035235",
+      "label": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      },
+      "name": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      }
+    },
+    {
+      "id": "20035301",
+      "label": {
+        "german": "Vereinigtes Königreich",
+        "french": "Royaume-Uni",
+        "italian": "Regno Unito",
+        "english": "United Kingdom"
+      },
+      "name": {
+        "german": "Vereinigtes Königreich",
+        "french": "Royaume-Uni",
+        "italian": "Regno Unito",
+        "english": "United Kingdom"
+      }
+    },
+    {
+      "id": "10000763",
+      "label": {
+        "german": "Botschaft London",
+        "french": "Ambassade de Londres",
+        "italian": "Ambasciata a Londra",
+        "english": "Embassy in London"
+      },
+      "name": {
+        "german": "Botschaft London",
+        "french": "Ambassade de Londres",
+        "italian": "Ambasciata a Londra",
+        "english": "Embassy in London"
+      }
+    },
+    {
+      "id": "20038707",
+      "label": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      },
+      "name": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

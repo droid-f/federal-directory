@@ -1,1 +1,108 @@
-{"id"=>"20005183", "name"=>{"german"=>"Bibliothek", "french"=>"Bibliothèque", "italian"=>"Biblioteca", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Viale Stefano Franscini 7", "postalCode"=>"6500", "location"=>"Bellinzona", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-3384587", "surname"=>"Guzzon", "givenName"=>"Oscar", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Leiter/in Bibliothek", "french"=>"Responsable bibliothèque", "italian"=>"Responsabile biblioteca", "english"=>"Leiter/in Bibliothek"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20004851", "label"=>{"german"=>"BStGer", "french"=>"BStGer", "italian"=>"BStGer", "english"=>""}, "name"=>{"german"=>"Bundesstrafgericht", "french"=>"Tribunal pénal fédéral", "italian"=>"Tribunale penale federale", "english"=>""}}, {"id"=>"20005201", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}}, {"id"=>"20005183", "label"=>{"german"=>"Bibliothek", "french"=>"Bibliothèque", "italian"=>"Biblioteca", "english"=>""}, "name"=>{"german"=>"Bibliothek", "french"=>"Bibliothèque", "italian"=>"Biblioteca", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005183",
+  "name": {
+    "german": "Bibliothek",
+    "french": "Bibliothèque",
+    "italian": "Biblioteca",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Viale Stefano Franscini 7",
+    "postalCode": "6500",
+    "location": "Bellinzona",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-3384587",
+      "surname": "Guzzon",
+      "givenName": "Oscar",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Leiter/in Bibliothek",
+        "french": "Responsable bibliothèque",
+        "italian": "Responsabile biblioteca",
+        "english": "Leiter/in Bibliothek"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20004851",
+      "label": {
+        "german": "BStGer",
+        "french": "BStGer",
+        "italian": "BStGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesstrafgericht",
+        "french": "Tribunal pénal fédéral",
+        "italian": "Tribunale penale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005201",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005183",
+      "label": {
+        "german": "Bibliothek",
+        "french": "Bibliothèque",
+        "italian": "Biblioteca",
+        "english": ""
+      },
+      "name": {
+        "german": "Bibliothek",
+        "french": "Bibliothèque",
+        "italian": "Biblioteca",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

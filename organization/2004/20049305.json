@@ -1,1 +1,230 @@
-{"id"=>"20049305", "name"=>{"german"=>"Abteilung Politik & Strategie", "french"=>"Division Politique etstratégie", "italian"=>"Divisione Politica e strategia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 68", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10010151", "name"=>{"german"=>"Sektion Politische Geschäfte", "french"=>"Section Affaires politiques", "italian"=>"Sezione Affari politici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040300", "name"=>{"german"=>"Administration & Support", "french"=>"Administration et support", "italian"=>"Amministrazione e supporto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035934", "name"=>{"german"=>"Eidgenössische Ethikkommission für die Biotechnologie im Ausserhumanbereich (EKAH)", "french"=>"Commission fédérale d'éthique pour la biotechnologie dans le domaine non humain (CENH)", "italian"=>"Commissione federale d'etica per la biotecnologia nel settore non umano (CENU)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002749", "name"=>{"german"=>"Eidgenössische Kommission für Natur- und Heimatschutz ENHK", "french"=>"Commission fédérale pour la protection de la nature et du paysage CFNP", "italian"=>"Commissione federale per la protezione della natura e del paesaggio CFNP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10010152", "name"=>{"german"=>"Sektion UVP und Raumordnung", "french"=>"Section EIE et organisation du territoire", "italian"=>"Sezione EIA e ordinamento del territorio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0622399", "surname"=>"Jakob", "givenName"=>"Manuel", "email"=>nil, "phone"=>"+41 58 46 55601", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035876", "label"=>{"german"=>"Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)", "french"=>"Affaires internationales / Communication", "italian"=>"Affari internazionali / Comunicazione", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)", "french"=>"Affaires internationales / Communication", "italian"=>"Affari internazionali / Comunicazione", "english"=>""}}, {"id"=>"20049305", "label"=>{"german"=>"Abteilung Politik & Strategie", "french"=>"Division Politique etstratégie", "italian"=>"Divisione Politica e strategia", "english"=>""}, "name"=>{"german"=>"Abteilung Politik & Strategie", "french"=>"Division Politique etstratégie", "italian"=>"Divisione Politica e strategia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049305",
+  "name": {
+    "german": "Abteilung Politik & Strategie",
+    "french": "Division Politique etstratégie",
+    "italian": "Divisione Politica e strategia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 68",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10010151",
+      "name": {
+        "german": "Sektion Politische Geschäfte",
+        "french": "Section Affaires politiques",
+        "italian": "Sezione Affari politici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040300",
+      "name": {
+        "german": "Administration & Support",
+        "french": "Administration et support",
+        "italian": "Amministrazione e supporto",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035934",
+      "name": {
+        "german": "Eidgenössische Ethikkommission für die Biotechnologie im Ausserhumanbereich (EKAH)",
+        "french": "Commission fédérale d'éthique pour la biotechnologie dans le domaine non humain (CENH)",
+        "italian": "Commissione federale d'etica per la biotecnologia nel settore non umano (CENU)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002749",
+      "name": {
+        "german": "Eidgenössische Kommission für Natur- und Heimatschutz ENHK",
+        "french": "Commission fédérale pour la protection de la nature et du paysage CFNP",
+        "italian": "Commissione federale per la protezione della natura e del paesaggio CFNP",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010152",
+      "name": {
+        "german": "Sektion UVP und Raumordnung",
+        "french": "Section EIE et organisation du territoire",
+        "italian": "Sezione EIA e ordinamento del territorio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0622399",
+      "surname": "Jakob",
+      "givenName": "Manuel",
+      "email": null,
+      "phone": "+41 58 46 55601",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035876",
+      "label": {
+        "german": "Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)",
+        "french": "Affaires internationales / Communication",
+        "italian": "Affari internazionali / Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)",
+        "french": "Affaires internationales / Communication",
+        "italian": "Affari internazionali / Comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049305",
+      "label": {
+        "german": "Abteilung Politik & Strategie",
+        "french": "Division Politique etstratégie",
+        "italian": "Divisione Politica e strategia",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Politik & Strategie",
+        "french": "Division Politique etstratégie",
+        "italian": "Divisione Politica e strategia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

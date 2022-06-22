@@ -1,1 +1,184 @@
-{"id"=>"20012257", "name"=>{"german"=>"Infrastrukturcenter II", "french"=>"Centre d'infrastructure II", "italian"=>"Centro infrastrutture II", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bahnhofstrasse 62", "postalCode"=>"8201", "location"=>"Schaffhausen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 480 11 19", "fax"=>"", "email"=>"schaffhausen.infrastruktur-center@bazg.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0534758", "surname"=>"Ziegler", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 48 01119", "function"=>{"german"=>"Sektionschef/in", "french"=>"Chef/fe de section", "italian"=>"Caposezione", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5696538", "surname"=>"Ott", "givenName"=>"Joachim", "email"=>nil, "phone"=>"+41 58 48 01123", "function"=>{"german"=>"Sachbearbeiter/in", "french"=>"Collaborateur/trice spécialisé/e", "italian"=>"Collaboratore/trice specialista", "english"=>"Sachbearbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008659", "label"=>{"german"=>"BAZG", "french"=>"OFDF", "italian"=>"UDSC", "english"=>"FOCBS"}, "name"=>{"german"=>"Bundesamt für Zoll und Grenzsicherheit", "french"=>"Office fédéral de la douane et de la sécurité des frontières", "italian"=>"Ufficio federale della dogana e della sicurezza dei confini", "english"=>"Federal Office for Customs and Border Security"}}, {"id"=>"10007200", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10007209", "label"=>{"german"=>"Direktionsbereich Unterstützung", "french"=>"Domaine de direction Soutien", "italian"=>"Ambito direzionale Supporto", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Unterstützung", "french"=>"Domaine de direction Soutien", "italian"=>"Ambito direzionale Supporto", "english"=>""}}, {"id"=>"10007224", "label"=>{"german"=>"Infrastruktur", "french"=>"Infrastructure", "italian"=>"Infrastruttura", "english"=>""}, "name"=>{"german"=>"Infrastruktur", "french"=>"Infrastructure", "italian"=>"Infrastruttura", "english"=>""}}, {"id"=>"20012257", "label"=>{"german"=>"Infrastrukturcenter II", "french"=>"Centre d'infrastructure II", "italian"=>"Centro infrastrutture II", "english"=>""}, "name"=>{"german"=>"Infrastrukturcenter II", "french"=>"Centre d'infrastructure II", "italian"=>"Centro infrastrutture II", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012257",
+  "name": {
+    "german": "Infrastrukturcenter II",
+    "french": "Centre d'infrastructure II",
+    "italian": "Centro infrastrutture II",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bahnhofstrasse 62",
+    "postalCode": "8201",
+    "location": "Schaffhausen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 480 11 19",
+    "fax": "",
+    "email": "schaffhausen.infrastruktur-center@bazg.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0534758",
+      "surname": "Ziegler",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 48 01119",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Chef/fe de section",
+        "italian": "Caposezione",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5696538",
+      "surname": "Ott",
+      "givenName": "Joachim",
+      "email": null,
+      "phone": "+41 58 48 01123",
+      "function": {
+        "german": "Sachbearbeiter/in",
+        "french": "Collaborateur/trice spécialisé/e",
+        "italian": "Collaboratore/trice specialista",
+        "english": "Sachbearbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008659",
+      "label": {
+        "german": "BAZG",
+        "french": "OFDF",
+        "italian": "UDSC",
+        "english": "FOCBS"
+      },
+      "name": {
+        "german": "Bundesamt für Zoll und Grenzsicherheit",
+        "french": "Office fédéral de la douane et de la sécurité des frontières",
+        "italian": "Ufficio federale della dogana e della sicurezza dei confini",
+        "english": "Federal Office for Customs and Border Security"
+      }
+    },
+    {
+      "id": "10007200",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007209",
+      "label": {
+        "german": "Direktionsbereich Unterstützung",
+        "french": "Domaine de direction Soutien",
+        "italian": "Ambito direzionale Supporto",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Unterstützung",
+        "french": "Domaine de direction Soutien",
+        "italian": "Ambito direzionale Supporto",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007224",
+      "label": {
+        "german": "Infrastruktur",
+        "french": "Infrastructure",
+        "italian": "Infrastruttura",
+        "english": ""
+      },
+      "name": {
+        "german": "Infrastruktur",
+        "french": "Infrastructure",
+        "italian": "Infrastruttura",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012257",
+      "label": {
+        "german": "Infrastrukturcenter II",
+        "french": "Centre d'infrastructure II",
+        "italian": "Centro infrastrutture II",
+        "english": ""
+      },
+      "name": {
+        "german": "Infrastrukturcenter II",
+        "french": "Centre d'infrastructure II",
+        "italian": "Centro infrastrutture II",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

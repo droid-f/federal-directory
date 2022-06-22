@@ -1,1 +1,268 @@
-{"id"=>"20009002", "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}, "nameAbbr"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 46 52626", "fax"=>"+41 58 46 52980", "email"=>"info@bvger.admin.ch", "homepage"=>{"german"=>"www.bvger.ch", "french"=>"www.bvger.ch", "italian"=>"www.bvger.ch", "english"=>""}}, "children"=>[{"id"=>"20014804", "name"=>{"german"=>"Präsidium", "french"=>"Présidence", "italian"=>"Presidenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20010731", "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014816", "name"=>{"german"=>"Abteilung I - Infrastruktur, Finanzen und Personal", "french"=>"Cour I - infrastructure, finances et personnel", "italian"=>"Corte I - infrastruttura, finanze e personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014817", "name"=>{"german"=>"Abteilung II - Wirtschaft, Bildung und Wettbewerb", "french"=>"Cour II - économie, formation et concurrence", "italian"=>"Corte II - economia, formazione e concorrenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014818", "name"=>{"german"=>"Abteilung III - Ausländer, Gesundheit und Sozialversicherungen", "french"=>"Cour III - étrangers, santé et assurances sociales", "italian"=>"Corte III - stranieri, salute e previdenza sociale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014851", "name"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014820", "name"=>{"german"=>"Abteilung V - Asyl", "french"=>"Cour V - asile", "italian"=>"Corte V - asilo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039952", "name"=>{"german"=>"Abteilung VI - Ausländer- und Bürgerrecht", "french"=>"Cour VI - droit des étrangers, droit de cité", "italian"=>"Corte VI - diritto stranieri e cittadinanza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5704741", "surname"=>"Valenti", "givenName"=>"Vito", "email"=>nil, "phone"=>"+41 58 46 52620", "function"=>{"german"=>"Präsident/in", "french"=>"Président", "italian"=>"Presidente", "english"=>"Präsident/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>497, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-4734066", "surname"=>"Dietrich", "givenName"=>"Kathrin", "email"=>nil, "phone"=>"+41 58 46 52560", "function"=>{"german"=>"Vizepräsident/in und Mitglied der Verwaltungskommission", "french"=>"Vice-président/e et membre de la Commision administrative", "italian"=>"Vice-presidente e membro della Commissione amministrativa", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>272, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-2096922", "surname"=>"Antoniazza-Hafner", "givenName"=>"Yannick", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Mitglied der Verwaltungskommission", "french"=>"Membre de la Commission administrative", "italian"=>"Membro della Commissione amministrativa", "english"=>""}, "isVisibleInEstKa"=>true}, {"functionId"=>270, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-1306960", "surname"=>"Cotting-Schalch", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Mitglied der Verwaltungskommission", "french"=>"Membre de la Commission administrative", "italian"=>"Membro della Commissione amministrativa", "english"=>""}, "isVisibleInEstKa"=>true}, {"functionId"=>271, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-8910672", "surname"=>"Lang", "givenName"=>"Walter", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Mitglied der Verwaltungskommission", "french"=>"Membre de la Commission administrative", "italian"=>"Membro della Commissione amministrativa", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009002",
+  "name": {
+    "german": "Bundesverwaltungsgericht",
+    "french": "Tribunal administratif fédéral",
+    "italian": "Tribunale amministrativo federale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BVGer",
+    "french": "BVGer",
+    "italian": "BVGer",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 46 52626",
+    "fax": "+41 58 46 52980",
+    "email": "info@bvger.admin.ch",
+    "homepage": {
+      "german": "www.bvger.ch",
+      "french": "www.bvger.ch",
+      "italian": "www.bvger.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20014804",
+      "name": {
+        "german": "Präsidium",
+        "french": "Présidence",
+        "italian": "Presidenza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010731",
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014816",
+      "name": {
+        "german": "Abteilung I - Infrastruktur, Finanzen und Personal",
+        "french": "Cour I - infrastructure, finances et personnel",
+        "italian": "Corte I - infrastruttura, finanze e personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014817",
+      "name": {
+        "german": "Abteilung II - Wirtschaft, Bildung und Wettbewerb",
+        "french": "Cour II - économie, formation et concurrence",
+        "italian": "Corte II - economia, formazione e concorrenza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014818",
+      "name": {
+        "german": "Abteilung III - Ausländer, Gesundheit und Sozialversicherungen",
+        "french": "Cour III - étrangers, santé et assurances sociales",
+        "italian": "Corte III - stranieri, salute e previdenza sociale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014851",
+      "name": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014820",
+      "name": {
+        "german": "Abteilung V - Asyl",
+        "french": "Cour V - asile",
+        "italian": "Corte V - asilo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039952",
+      "name": {
+        "german": "Abteilung VI - Ausländer- und Bürgerrecht",
+        "french": "Cour VI - droit des étrangers, droit de cité",
+        "italian": "Corte VI - diritto stranieri e cittadinanza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5704741",
+      "surname": "Valenti",
+      "givenName": "Vito",
+      "email": null,
+      "phone": "+41 58 46 52620",
+      "function": {
+        "german": "Präsident/in",
+        "french": "Président",
+        "italian": "Presidente",
+        "english": "Präsident/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 497,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-4734066",
+      "surname": "Dietrich",
+      "givenName": "Kathrin",
+      "email": null,
+      "phone": "+41 58 46 52560",
+      "function": {
+        "german": "Vizepräsident/in und Mitglied der Verwaltungskommission",
+        "french": "Vice-président/e et membre de la Commision administrative",
+        "italian": "Vice-presidente e membro della Commissione amministrativa",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 272,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-2096922",
+      "surname": "Antoniazza-Hafner",
+      "givenName": "Yannick",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Mitglied der Verwaltungskommission",
+        "french": "Membre de la Commission administrative",
+        "italian": "Membro della Commissione amministrativa",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 270,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-1306960",
+      "surname": "Cotting-Schalch",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Mitglied der Verwaltungskommission",
+        "french": "Membre de la Commission administrative",
+        "italian": "Membro della Commissione amministrativa",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 271,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-8910672",
+      "surname": "Lang",
+      "givenName": "Walter",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Mitglied der Verwaltungskommission",
+        "french": "Membre de la Commission administrative",
+        "italian": "Membro della Commissione amministrativa",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

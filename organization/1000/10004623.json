@@ -1,1 +1,245 @@
-{"id"=>"10004623", "name"=>{"german"=>"Sektion Personal", "french"=>"Section Personnel", "italian"=>"Sezione Personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20023051", "name"=>{"german"=>"Operatives Personalmanagement", "french"=>"Management opérationnel du personnel", "italian"=>"Gestione operativa del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004625", "name"=>{"german"=>"Personal- u. Organisationsentwicklung", "french"=>"Développement du personnel et de l'org.", "italian"=>"Sviluppo del personale e dell'organizza.", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048201", "name"=>{"german"=>"Personal Services", "french"=>"Comptabilité du personnel", "italian"=>"Contabilità del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043529", "name"=>{"german"=>"HR-Controlling", "french"=>"Controlling HR", "italian"=>"HR Controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20028076", "name"=>{"german"=>"POOL Temporär Personal", "french"=>"POOL", "italian"=>"POOL", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045853", "name"=>{"german"=>"Pool Extern Westschweiz", "french"=>"Pool Extern Westschweiz", "italian"=>"Pool Extern Westschweiz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2709275", "surname"=>"Maccecchini", "givenName"=>"Alfredo", "email"=>nil, "phone"=>"+41 58 46 68947", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10013375", "label"=>{"german"=>"Abteilung Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Abteilung Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10004623", "label"=>{"german"=>"Sektion Personal", "french"=>"Section Personnel", "italian"=>"Sezione Personale", "english"=>""}, "name"=>{"german"=>"Sektion Personal", "french"=>"Section Personnel", "italian"=>"Sezione Personale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004623",
+  "name": {
+    "german": "Sektion Personal",
+    "french": "Section Personnel",
+    "italian": "Sezione Personale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20023051",
+      "name": {
+        "german": "Operatives Personalmanagement",
+        "french": "Management opérationnel du personnel",
+        "italian": "Gestione operativa del personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004625",
+      "name": {
+        "german": "Personal- u. Organisationsentwicklung",
+        "french": "Développement du personnel et de l'org.",
+        "italian": "Sviluppo del personale e dell'organizza.",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048201",
+      "name": {
+        "german": "Personal Services",
+        "french": "Comptabilité du personnel",
+        "italian": "Contabilità del personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043529",
+      "name": {
+        "german": "HR-Controlling",
+        "french": "Controlling HR",
+        "italian": "HR Controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028076",
+      "name": {
+        "german": "POOL Temporär Personal",
+        "french": "POOL",
+        "italian": "POOL",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045853",
+      "name": {
+        "german": "Pool Extern Westschweiz",
+        "french": "Pool Extern Westschweiz",
+        "italian": "Pool Extern Westschweiz",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2709275",
+      "surname": "Maccecchini",
+      "givenName": "Alfredo",
+      "email": null,
+      "phone": "+41 58 46 68947",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013375",
+      "label": {
+        "german": "Abteilung Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004623",
+      "label": {
+        "german": "Sektion Personal",
+        "french": "Section Personnel",
+        "italian": "Sezione Personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Personal",
+        "french": "Section Personnel",
+        "italian": "Sezione Personale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

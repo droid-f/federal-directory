@@ -1,1 +1,186 @@
-{"id"=>"20027481", "name"=>{"german"=>"Kurse", "french"=>"Cours", "italian"=>"Corsi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kaserne", "postalCode"=>"6810", "location"=>"Isone", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0291287", "surname"=>"Molles", "givenName"=>"Alexandre", "email"=>nil, "phone"=>"+41 58 46 98182", "function"=>{"german"=>"Kommandant Komp Zen Fhr u Fach Syst", "french"=>"Cdt Cen comp des syst de cond et techn", "italian"=>"Comandante CC sist cond e spec", "english"=>"Kommandant Komp Zen Fhr u Fach Syst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20027389", "label"=>{"german"=>"KSK", "french"=>"KSK", "italian"=>"KSK", "english"=>""}, "name"=>{"german"=>"Kommando Spezialkräfte KSK", "french"=>"Commandement Forces spéciales CFS", "italian"=>"Comando forze speciali CFS", "english"=>""}}, {"id"=>"20004366", "label"=>{"german"=>"AZ Spezialkräfte / Waffenplatz Isone", "french"=>"Cen instr Forces spéc / pl armes Isone", "italian"=>"CIFS / piazza d'armi Isone", "english"=>""}, "name"=>{"german"=>"AZ Spezialkräfte / Waffenplatz Isone", "french"=>"Cen instr Forces spéc / pl armes Isone", "italian"=>"CIFS / piazza d'armi Isone", "english"=>""}}, {"id"=>"20027481", "label"=>{"german"=>"Kurse", "french"=>"Cours", "italian"=>"Corsi", "english"=>""}, "name"=>{"german"=>"Kurse", "french"=>"Cours", "italian"=>"Corsi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027481",
+  "name": {
+    "german": "Kurse",
+    "french": "Cours",
+    "italian": "Corsi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kaserne",
+    "postalCode": "6810",
+    "location": "Isone",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0291287",
+      "surname": "Molles",
+      "givenName": "Alexandre",
+      "email": null,
+      "phone": "+41 58 46 98182",
+      "function": {
+        "german": "Kommandant Komp Zen Fhr u Fach Syst",
+        "french": "Cdt Cen comp des syst de cond et techn",
+        "italian": "Comandante CC sist cond e spec",
+        "english": "Kommandant Komp Zen Fhr u Fach Syst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027389",
+      "label": {
+        "german": "KSK",
+        "french": "KSK",
+        "italian": "KSK",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Spezialkräfte KSK",
+        "french": "Commandement Forces spéciales CFS",
+        "italian": "Comando forze speciali CFS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004366",
+      "label": {
+        "german": "AZ Spezialkräfte / Waffenplatz Isone",
+        "french": "Cen instr Forces spéc / pl armes Isone",
+        "italian": "CIFS / piazza d'armi Isone",
+        "english": ""
+      },
+      "name": {
+        "german": "AZ Spezialkräfte / Waffenplatz Isone",
+        "french": "Cen instr Forces spéc / pl armes Isone",
+        "italian": "CIFS / piazza d'armi Isone",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027481",
+      "label": {
+        "german": "Kurse",
+        "french": "Cours",
+        "italian": "Corsi",
+        "english": ""
+      },
+      "name": {
+        "german": "Kurse",
+        "french": "Cours",
+        "italian": "Corsi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

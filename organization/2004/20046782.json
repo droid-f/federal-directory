@@ -1,1 +1,154 @@
-{"id"=>"20046782", "name"=>{"german"=>"Web Tech", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6764900", "surname"=>"Duplain Michel", "givenName"=>"Nathalie", "email"=>nil, "phone"=>"+41 58 46 42498", "function"=>{"german"=>"C Web VBS", "french"=>"C Web VBS", "italian"=>"C Web VBS", "english"=>"C Web VBS"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3931294", "surname"=>"Schönholzer", "givenName"=>"Sascha", "email"=>nil, "phone"=>"+41 58 48 42859", "function"=>{"german"=>"Anwendungsverantwortliche/r CMS VBS", "french"=>"Anwendungsverantwortliche/r CMS VBS", "italian"=>"Anwendungsverantwortliche/r CMS VBS", "english"=>"Anwendungsverantwortliche/r CMS VBS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003740", "label"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}, "name"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}}, {"id"=>"20046782", "label"=>{"german"=>"Web Tech", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "name"=>{"german"=>"Web Tech", "french"=>"Information", "italian"=>"Informazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046782",
+  "name": {
+    "german": "Web Tech",
+    "french": "Information",
+    "italian": "Informazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6764900",
+      "surname": "Duplain Michel",
+      "givenName": "Nathalie",
+      "email": null,
+      "phone": "+41 58 46 42498",
+      "function": {
+        "german": "C Web VBS",
+        "french": "C Web VBS",
+        "italian": "C Web VBS",
+        "english": "C Web VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3931294",
+      "surname": "Schönholzer",
+      "givenName": "Sascha",
+      "email": null,
+      "phone": "+41 58 48 42859",
+      "function": {
+        "german": "Anwendungsverantwortliche/r CMS VBS",
+        "french": "Anwendungsverantwortliche/r CMS VBS",
+        "italian": "Anwendungsverantwortliche/r CMS VBS",
+        "english": "Anwendungsverantwortliche/r CMS VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003740",
+      "label": {
+        "german": "Kommunikation VBS und GS VBS",
+        "french": "Communication DDPS et SG DDPS",
+        "italian": "Comunicazione DDPS e SG DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation VBS und GS VBS",
+        "french": "Communication DDPS et SG DDPS",
+        "italian": "Comunicazione DDPS e SG DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046782",
+      "label": {
+        "german": "Web Tech",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Web Tech",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

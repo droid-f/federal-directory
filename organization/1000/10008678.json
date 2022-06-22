@@ -1,1 +1,184 @@
-{"id"=>"10008678", "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}, "nameAbbr"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584676111", "fax"=>"+41584676404", "email"=>"", "homepage"=>{"german"=>"www.baspo.admin.ch", "french"=>"www.baspo.admin.ch", "italian"=>"www.baspo.admin.ch", "english"=>""}}, "children"=>[{"id"=>"10003790", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003800", "name"=>{"german"=>"Sportpolitik und Ressourcen", "french"=>"Politique du sport et ressources internes", "italian"=>"Politica dello sport e risorse interne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024530", "name"=>{"german"=>"Jugend-und Erwachsenensport", "french"=>"Sport des jeunes et des adultes", "italian"=>"Sport dei giovani e degli adulti", "english"=>""}, "nameAbbr"=>{"german"=>"JES", "french"=>"JES", "italian"=>"JES", "english"=>""}}, {"id"=>"10003803", "name"=>{"german"=>"Eidgenössische Hochschule für Sport Magglingen", "french"=>"Haute école fédérale de sport de Macolin", "italian"=>"Scuola universitaria federale dello sport di Macolin", "english"=>""}, "nameAbbr"=>{"german"=>"EHSM", "french"=>"EHSM", "italian"=>"EHSM", "english"=>""}}, {"id"=>"10003825", "name"=>{"german"=>"Nationales Sportzentrum Magglingen", "french"=>"Centre national de sport de Macolin", "italian"=>"Centro sportivo nazionale Macolin", "english"=>""}, "nameAbbr"=>{"german"=>"NSM", "french"=>"NSM", "italian"=>"NSM", "english"=>""}}, {"id"=>"10005075", "name"=>{"german"=>"Nationales Jugensportzentrum Tenero CST", "french"=>"Centre sportif national de la jeunesse Tenero CST", "italian"=>"Centro sportivo nazionale della gioventù Tenero CST", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10008678",
+  "name": {
+    "german": "Bundesamt für Sport",
+    "french": "Office fédéral du sport",
+    "italian": "Ufficio federale dello sport",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BASPO",
+    "french": "OFSPO",
+    "italian": "UF SPO",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584676111",
+    "fax": "+41584676404",
+    "email": "",
+    "homepage": {
+      "german": "www.baspo.admin.ch",
+      "french": "www.baspo.admin.ch",
+      "italian": "www.baspo.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10003790",
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003800",
+      "name": {
+        "german": "Sportpolitik und Ressourcen",
+        "french": "Politique du sport et ressources internes",
+        "italian": "Politica dello sport e risorse interne",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024530",
+      "name": {
+        "german": "Jugend-und Erwachsenensport",
+        "french": "Sport des jeunes et des adultes",
+        "italian": "Sport dei giovani e degli adulti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "JES",
+        "french": "JES",
+        "italian": "JES",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003803",
+      "name": {
+        "german": "Eidgenössische Hochschule für Sport Magglingen",
+        "french": "Haute école fédérale de sport de Macolin",
+        "italian": "Scuola universitaria federale dello sport di Macolin",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "EHSM",
+        "french": "EHSM",
+        "italian": "EHSM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003825",
+      "name": {
+        "german": "Nationales Sportzentrum Magglingen",
+        "french": "Centre national de sport de Macolin",
+        "italian": "Centro sportivo nazionale Macolin",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "NSM",
+        "french": "NSM",
+        "italian": "NSM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005075",
+      "name": {
+        "german": "Nationales Jugensportzentrum Tenero CST",
+        "french": "Centre sportif national de la jeunesse Tenero CST",
+        "italian": "Centro sportivo nazionale della gioventù Tenero CST",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

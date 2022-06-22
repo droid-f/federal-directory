@@ -1,1 +1,247 @@
-{"id"=>"10009329", "name"=>{"german"=>"Abteilung Steuerung, Planung und Stab BKP", "french"=>"Division Gestion, planification et État-major PJF", "italian"=>"Divisione Gestione, pianificazione e stato maggiore PGF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20047451", "name"=>{"german"=>"Bereich Administration und Ressourcen", "french"=>"Domaine Administration et Ressources", "italian"=>"Settore Amministrazione e Risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047452", "name"=>{"german"=>"Bereich Strategie BKP", "french"=>"Domaine Stratégie", "italian"=>"Settore Strategia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047453", "name"=>{"german"=>"Bereich Operationen", "french"=>"Domaine Opérations", "italian"=>"Settore Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047454", "name"=>{"german"=>"Bereich Innovation und IT-Unterstützung", "french"=>"Domaine Innovation et Appui TI", "italian"=>"Settore Innovazione e Supporto IT", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047455", "name"=>{"german"=>"Bereich Kripo-Ausbildung", "french"=>"Domaine Formation Police judiciaire", "italian"=>"Settore Formazione Polizia giudiziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6871210", "surname"=>"Aubry", "givenName"=>"Céline", "email"=>nil, "phone"=>"+41 58 46 34538", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8953155", "surname"=>"Claivaz", "givenName"=>"Lionel", "email"=>nil, "phone"=>"+41 58 46 73299", "function"=>{"german"=>"Stv AC / Bereichsleiter/in", "french"=>"Stv AC / Bereichsleiter/in", "italian"=>"Stv AC / Bereichsleiter/in", "english"=>"Stv AC / Bereichsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009328", "label"=>{"german"=>"BKP", "french"=>"PJF", "italian"=>"PGF", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundeskriminalpolizei", "french"=>"Domaine de direction Police judiciaire fédérale", "italian"=>"Ambito direzionale Polizia giudiziaria federale", "english"=>""}}, {"id"=>"10009329", "label"=>{"german"=>"Abteilung Steuerung, Planung und Stab BKP", "french"=>"Division Gestion, planification et État-major PJF", "italian"=>"Divisione Gestione, pianificazione e stato maggiore PGF", "english"=>""}, "name"=>{"german"=>"Abteilung Steuerung, Planung und Stab BKP", "french"=>"Division Gestion, planification et État-major PJF", "italian"=>"Divisione Gestione, pianificazione e stato maggiore PGF", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009329",
+  "name": {
+    "german": "Abteilung Steuerung, Planung und Stab BKP",
+    "french": "Division Gestion, planification et État-major PJF",
+    "italian": "Divisione Gestione, pianificazione e stato maggiore PGF",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20047451",
+      "name": {
+        "german": "Bereich Administration und Ressourcen",
+        "french": "Domaine Administration et Ressources",
+        "italian": "Settore Amministrazione e Risorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047452",
+      "name": {
+        "german": "Bereich Strategie BKP",
+        "french": "Domaine Stratégie",
+        "italian": "Settore Strategia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047453",
+      "name": {
+        "german": "Bereich Operationen",
+        "french": "Domaine Opérations",
+        "italian": "Settore Operazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047454",
+      "name": {
+        "german": "Bereich Innovation und IT-Unterstützung",
+        "french": "Domaine Innovation et Appui TI",
+        "italian": "Settore Innovazione e Supporto IT",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047455",
+      "name": {
+        "german": "Bereich Kripo-Ausbildung",
+        "french": "Domaine Formation Police judiciaire",
+        "italian": "Settore Formazione Polizia giudiziaria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6871210",
+      "surname": "Aubry",
+      "givenName": "Céline",
+      "email": null,
+      "phone": "+41 58 46 34538",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8953155",
+      "surname": "Claivaz",
+      "givenName": "Lionel",
+      "email": null,
+      "phone": "+41 58 46 73299",
+      "function": {
+        "german": "Stv AC / Bereichsleiter/in",
+        "french": "Stv AC / Bereichsleiter/in",
+        "italian": "Stv AC / Bereichsleiter/in",
+        "english": "Stv AC / Bereichsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009328",
+      "label": {
+        "german": "BKP",
+        "french": "PJF",
+        "italian": "PGF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundeskriminalpolizei",
+        "french": "Domaine de direction Police judiciaire fédérale",
+        "italian": "Ambito direzionale Polizia giudiziaria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009329",
+      "label": {
+        "german": "Abteilung Steuerung, Planung und Stab BKP",
+        "french": "Division Gestion, planification et État-major PJF",
+        "italian": "Divisione Gestione, pianificazione e stato maggiore PGF",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Steuerung, Planung und Stab BKP",
+        "french": "Division Gestion, planification et État-major PJF",
+        "italian": "Divisione Gestione, pianificazione e stato maggiore PGF",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

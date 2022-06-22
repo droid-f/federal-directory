@@ -1,1 +1,185 @@
-{"id"=>"20035879", "name"=>{"german"=>"Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)", "french"=>"Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire", "italian"=>"Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 68", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10002753", "name"=>{"german"=>"Abteilung Wasser", "french"=>"Division Eaux", "italian"=>"Divisione Acque", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027501", "name"=>{"german"=>"Abteilung Biodiversität und Landschaft", "french"=>"Division Biodiversité et paysage", "italian"=>"Divisione Biodiversità e paesaggio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002777", "name"=>{"german"=>"Abteilung Boden und Biotechnologie", "french"=>"Division Sols et biotechnologie", "italian"=>"Divisione Suolo e biotecnologia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7846838", "surname"=>"Schwarz", "givenName"=>"Franziska Vivica", "email"=>nil, "phone"=>"+41 58 46 26378", "function"=>{"german"=>"Vizedirektor/in", "french"=>"Vizedirektor/in", "italian"=>"Vizedirektor/in", "english"=>"Vizedirektor/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035879", "label"=>{"german"=>"Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)", "french"=>"Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire", "italian"=>"Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)", "french"=>"Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire", "italian"=>"Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035879",
+  "name": {
+    "german": "Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)",
+    "french": "Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire",
+    "italian": "Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 68",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10002753",
+      "name": {
+        "german": "Abteilung Wasser",
+        "french": "Division Eaux",
+        "italian": "Divisione Acque",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027501",
+      "name": {
+        "german": "Abteilung Biodiversität und Landschaft",
+        "french": "Division Biodiversité et paysage",
+        "italian": "Divisione Biodiversità e paesaggio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002777",
+      "name": {
+        "german": "Abteilung Boden und Biotechnologie",
+        "french": "Division Sols et biotechnologie",
+        "italian": "Divisione Suolo e biotecnologia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7846838",
+      "surname": "Schwarz",
+      "givenName": "Franziska Vivica",
+      "email": null,
+      "phone": "+41 58 46 26378",
+      "function": {
+        "german": "Vizedirektor/in",
+        "french": "Vizedirektor/in",
+        "italian": "Vizedirektor/in",
+        "english": "Vizedirektor/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035879",
+      "label": {
+        "german": "Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)",
+        "french": "Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire",
+        "italian": "Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)",
+        "french": "Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire",
+        "italian": "Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

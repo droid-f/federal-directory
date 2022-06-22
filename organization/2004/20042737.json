@@ -1,1 +1,227 @@
-{"id"=>"20042737", "name"=>{"german"=>"Sekretariat PAVV", "french"=>"Sekretariat PAVV", "italian"=>"Sekretariat PAVV", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9232347", "surname"=>"Boateng", "givenName"=>"Lindford", "email"=>nil, "phone"=>"+41 58 46 16943", "function"=>{"german"=>"Leiter/in Sekretariat PAVV/PAAM", "french"=>"Leiter/in Sekretariat PAVV/PAAM", "italian"=>"Leiter/in Sekretariat PAVV/PAAM", "english"=>"Leiter/in Sekretariat PAVV/PAAM"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3406481", "surname"=>"Enock", "givenName"=>"Delighty", "email"=>nil, "phone"=>"+41 58 46 14492", "function"=>{"german"=>"HMS-Praktikant/in PAVV", "french"=>"Lernende/r KV OAPE", "italian"=>"Lernende/r KV OAPE", "english"=>"HMS-Praktikant/in PAVV"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2537888", "surname"=>"Frey Wüthrich", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 58 46 33086", "function"=>{"german"=>"Sachbearbeiter/in PAVV/PAAM", "french"=>"Sachbearbeiter/in PAVV/PAAM", "italian"=>"Sachbearbeiter/in PAVV/PAAM", "english"=>"Sachbearbeiter/in PAVV/PAAM"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6295650", "surname"=>"Pereira", "givenName"=>"Alycia", "email"=>nil, "phone"=>"+41 58 46 14493", "function"=>{"german"=>"HMS-Praktikant/in PAVV", "french"=>"HMS-Praktikant/in PAVV", "italian"=>"HMS-Praktikant/in PAVV", "english"=>"HMS-Praktikant/in PAVV"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"20020076", "label"=>{"german"=>"Personenfreizügigkeit und Arbeitsbeziehungen", "french"=>"Libre circulation des personnes et Relations du travail", "italian"=>"Libera circolazione delle persone e Relazioni di lavoro", "english"=>"Libre circulation des personnes et Relations du travail"}, "name"=>{"german"=>"Personenfreizügigkeit und Arbeitsbeziehungen", "french"=>"Libre circulation des personnes et Relations du travail", "italian"=>"Libera circolazione delle persone e Relazioni di lavoro", "english"=>"Libre circulation des personnes et Relations du travail"}}, {"id"=>"20027962", "label"=>{"german"=>"Vermittlung und Verleih", "french"=>"Placement et location de services", "italian"=>"Collocamento e personale a prestito", "english"=>""}, "name"=>{"german"=>"Vermittlung und Verleih", "french"=>"Placement et location de services", "italian"=>"Collocamento e personale a prestito", "english"=>""}}, {"id"=>"20042737", "label"=>{"german"=>"Sekretariat PAVV", "french"=>"Sekretariat PAVV", "italian"=>"Sekretariat PAVV", "english"=>""}, "name"=>{"german"=>"Sekretariat PAVV", "french"=>"Sekretariat PAVV", "italian"=>"Sekretariat PAVV", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042737",
+  "name": {
+    "german": "Sekretariat PAVV",
+    "french": "Sekretariat PAVV",
+    "italian": "Sekretariat PAVV",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9232347",
+      "surname": "Boateng",
+      "givenName": "Lindford",
+      "email": null,
+      "phone": "+41 58 46 16943",
+      "function": {
+        "german": "Leiter/in Sekretariat PAVV/PAAM",
+        "french": "Leiter/in Sekretariat PAVV/PAAM",
+        "italian": "Leiter/in Sekretariat PAVV/PAAM",
+        "english": "Leiter/in Sekretariat PAVV/PAAM"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3406481",
+      "surname": "Enock",
+      "givenName": "Delighty",
+      "email": null,
+      "phone": "+41 58 46 14492",
+      "function": {
+        "german": "HMS-Praktikant/in PAVV",
+        "french": "Lernende/r KV OAPE",
+        "italian": "Lernende/r KV OAPE",
+        "english": "HMS-Praktikant/in PAVV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2537888",
+      "surname": "Frey Wüthrich",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 58 46 33086",
+      "function": {
+        "german": "Sachbearbeiter/in PAVV/PAAM",
+        "french": "Sachbearbeiter/in PAVV/PAAM",
+        "italian": "Sachbearbeiter/in PAVV/PAAM",
+        "english": "Sachbearbeiter/in PAVV/PAAM"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6295650",
+      "surname": "Pereira",
+      "givenName": "Alycia",
+      "email": null,
+      "phone": "+41 58 46 14493",
+      "function": {
+        "german": "HMS-Praktikant/in PAVV",
+        "french": "HMS-Praktikant/in PAVV",
+        "italian": "HMS-Praktikant/in PAVV",
+        "english": "HMS-Praktikant/in PAVV"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020076",
+      "label": {
+        "german": "Personenfreizügigkeit und Arbeitsbeziehungen",
+        "french": "Libre circulation des personnes et Relations du travail",
+        "italian": "Libera circolazione delle persone e Relazioni di lavoro",
+        "english": "Libre circulation des personnes et Relations du travail"
+      },
+      "name": {
+        "german": "Personenfreizügigkeit und Arbeitsbeziehungen",
+        "french": "Libre circulation des personnes et Relations du travail",
+        "italian": "Libera circolazione delle persone e Relazioni di lavoro",
+        "english": "Libre circulation des personnes et Relations du travail"
+      }
+    },
+    {
+      "id": "20027962",
+      "label": {
+        "german": "Vermittlung und Verleih",
+        "french": "Placement et location de services",
+        "italian": "Collocamento e personale a prestito",
+        "english": ""
+      },
+      "name": {
+        "german": "Vermittlung und Verleih",
+        "french": "Placement et location de services",
+        "italian": "Collocamento e personale a prestito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042737",
+      "label": {
+        "german": "Sekretariat PAVV",
+        "french": "Sekretariat PAVV",
+        "italian": "Sekretariat PAVV",
+        "english": ""
+      },
+      "name": {
+        "german": "Sekretariat PAVV",
+        "french": "Sekretariat PAVV",
+        "italian": "Sekretariat PAVV",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

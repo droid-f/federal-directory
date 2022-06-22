@@ -1,1 +1,198 @@
-{"id"=>"10008831", "name"=>{"german"=>"Restauration", "french"=>"Restauration", "italian"=>"Ristorazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20036353", "name"=>{"german"=>"Restaurant End der Welt", "french"=>"Restaurant End der Welt", "italian"=>"Restaurant End der Welt", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034097", "name"=>{"german"=>"Administration/Service", "french"=>"Administration/Service", "italian"=>"Amministrazione/Servizio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013753", "name"=>{"german"=>"Küche", "french"=>"Cuisine", "italian"=>"Cucina", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3214902", "surname"=>"Räber", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 76678", "function"=>{"german"=>"Leiter/in Restauration", "french"=>"Leiter/in Restauration", "italian"=>"Leiter/in Restauration", "english"=>"Leiter/in Restauration"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9912684", "surname"=>"Huret", "givenName"=>"Sabine", "email"=>nil, "phone"=>"+41 58 46 99081", "function"=>{"german"=>"Stv. Leiter/in Restauration", "french"=>"Leiter/in Restauration", "italian"=>"Leiter/in Restauration", "english"=>"Stv. Leiter/in Restauration"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003825", "label"=>{"german"=>"NSM", "french"=>"NSM", "italian"=>"NSM", "english"=>""}, "name"=>{"german"=>"Nationales Sportzentrum Magglingen", "french"=>"Centre national de sport de Macolin", "italian"=>"Centro sportivo nazionale Macolin", "english"=>""}}, {"id"=>"10008831", "label"=>{"german"=>"Restauration", "french"=>"Restauration", "italian"=>"Ristorazione", "english"=>""}, "name"=>{"german"=>"Restauration", "french"=>"Restauration", "italian"=>"Ristorazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10008831",
+  "name": {
+    "german": "Restauration",
+    "french": "Restauration",
+    "italian": "Ristorazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20036353",
+      "name": {
+        "german": "Restaurant End der Welt",
+        "french": "Restaurant End der Welt",
+        "italian": "Restaurant End der Welt",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034097",
+      "name": {
+        "german": "Administration/Service",
+        "french": "Administration/Service",
+        "italian": "Amministrazione/Servizio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013753",
+      "name": {
+        "german": "Küche",
+        "french": "Cuisine",
+        "italian": "Cucina",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3214902",
+      "surname": "Räber",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 76678",
+      "function": {
+        "german": "Leiter/in Restauration",
+        "french": "Leiter/in Restauration",
+        "italian": "Leiter/in Restauration",
+        "english": "Leiter/in Restauration"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9912684",
+      "surname": "Huret",
+      "givenName": "Sabine",
+      "email": null,
+      "phone": "+41 58 46 99081",
+      "function": {
+        "german": "Stv. Leiter/in Restauration",
+        "french": "Leiter/in Restauration",
+        "italian": "Leiter/in Restauration",
+        "english": "Stv. Leiter/in Restauration"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003825",
+      "label": {
+        "german": "NSM",
+        "french": "NSM",
+        "italian": "NSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationales Sportzentrum Magglingen",
+        "french": "Centre national de sport de Macolin",
+        "italian": "Centro sportivo nazionale Macolin",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008831",
+      "label": {
+        "german": "Restauration",
+        "french": "Restauration",
+        "italian": "Ristorazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Restauration",
+        "french": "Restauration",
+        "italian": "Ristorazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

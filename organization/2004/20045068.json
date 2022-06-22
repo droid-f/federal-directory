@@ -1,1 +1,188 @@
-{"id"=>"20045068", "name"=>{"german"=>"Dublin und Rückkehr TZCH", "french"=>"Dublin et retour TCHC", "italian"=>"Dublino e ritorno T-CH-C", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Via Milano 23", "postalCode"=>"6830", "location"=>"Chiasso", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4772506", "surname"=>"Cesaro", "givenName"=>"Luca", "email"=>nil, "phone"=>"+41 58 46 67018", "function"=>{"german"=>"Chef/in Sektion / Stv. Chef/in Region", "french"=>"Chef/in Sektion / Stv. Chef/in Region", "italian"=>"Chef/in Sektion / Stv. Chef/in Region", "english"=>"Chef/in Sektion / Stv. Chef/in Region"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2777690", "surname"=>"Bertini", "givenName"=>"Fabiano", "email"=>nil, "phone"=>"+41 58 48 08544", "function"=>{"german"=>"Fachreferent/in Dublin / Stv. C Sektion", "french"=>"Fachreferent/in Dublin / Stv. C Sektion", "italian"=>"Fachreferent/in Dublin / Stv. C Sektion", "english"=>"Fachreferent/in Dublin / Stv. C Sektion"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045064", "label"=>{"german"=>"Region Tessin und Zentralschweiz", "french"=>"Région Tessin et Suisse centrale", "italian"=>"Regione Ticino e Svizzera centrale", "english"=>""}, "name"=>{"german"=>"Region Tessin und Zentralschweiz", "french"=>"Région Tessin et Suisse centrale", "italian"=>"Regione Ticino e Svizzera centrale", "english"=>""}}, {"id"=>"20045068", "label"=>{"german"=>"Dublin und Rückkehr TZCH", "french"=>"Dublin et retour TCHC", "italian"=>"Dublino e ritorno T-CH-C", "english"=>""}, "name"=>{"german"=>"Dublin und Rückkehr TZCH", "french"=>"Dublin et retour TCHC", "italian"=>"Dublino e ritorno T-CH-C", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045068",
+  "name": {
+    "german": "Dublin und Rückkehr TZCH",
+    "french": "Dublin et retour TCHC",
+    "italian": "Dublino e ritorno T-CH-C",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Via Milano 23",
+    "postalCode": "6830",
+    "location": "Chiasso",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4772506",
+      "surname": "Cesaro",
+      "givenName": "Luca",
+      "email": null,
+      "phone": "+41 58 46 67018",
+      "function": {
+        "german": "Chef/in Sektion / Stv. Chef/in Region",
+        "french": "Chef/in Sektion / Stv. Chef/in Region",
+        "italian": "Chef/in Sektion / Stv. Chef/in Region",
+        "english": "Chef/in Sektion / Stv. Chef/in Region"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2777690",
+      "surname": "Bertini",
+      "givenName": "Fabiano",
+      "email": null,
+      "phone": "+41 58 48 08544",
+      "function": {
+        "german": "Fachreferent/in Dublin / Stv. C Sektion",
+        "french": "Fachreferent/in Dublin / Stv. C Sektion",
+        "italian": "Fachreferent/in Dublin / Stv. C Sektion",
+        "english": "Fachreferent/in Dublin / Stv. C Sektion"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045064",
+      "label": {
+        "german": "Region Tessin und Zentralschweiz",
+        "french": "Région Tessin et Suisse centrale",
+        "italian": "Regione Ticino e Svizzera centrale",
+        "english": ""
+      },
+      "name": {
+        "german": "Region Tessin und Zentralschweiz",
+        "french": "Région Tessin et Suisse centrale",
+        "italian": "Regione Ticino e Svizzera centrale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045068",
+      "label": {
+        "german": "Dublin und Rückkehr TZCH",
+        "french": "Dublin et retour TCHC",
+        "italian": "Dublino e ritorno T-CH-C",
+        "english": ""
+      },
+      "name": {
+        "german": "Dublin und Rückkehr TZCH",
+        "french": "Dublin et retour TCHC",
+        "italian": "Dublino e ritorno T-CH-C",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

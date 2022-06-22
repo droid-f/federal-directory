@@ -1,1 +1,170 @@
-{"id"=>"20042589", "name"=>{"german"=>"E-Learning", "french"=>"E-learning", "italian"=>"E-learning", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20042580", "label"=>{"german"=>"STABKDOAUSB", "french"=>"STABKDOAUSB", "italian"=>"STABKDOAUSB", "english"=>""}, "name"=>{"german"=>"Stab Kommando Ausbildung", "french"=>"Etat-major commandement Instruction", "italian"=>"SM Comando Istruzione", "english"=>""}}, {"id"=>"20042587", "label"=>{"german"=>"Ausbildungsunterstützung Kdo Ausbildung", "french"=>"Aide à l'instruction cdmt Instruction", "italian"=>"Supporto all'istruzione Cdo Istruzione", "english"=>""}, "name"=>{"german"=>"Ausbildungsunterstützung Kdo Ausbildung", "french"=>"Aide à l'instruction cdmt Instruction", "italian"=>"Supporto all'istruzione Cdo Istruzione", "english"=>""}}, {"id"=>"20042589", "label"=>{"german"=>"E-Learning", "french"=>"E-learning", "italian"=>"E-learning", "english"=>""}, "name"=>{"german"=>"E-Learning", "french"=>"E-learning", "italian"=>"E-learning", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042589",
+  "name": {
+    "german": "E-Learning",
+    "french": "E-learning",
+    "italian": "E-learning",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042580",
+      "label": {
+        "german": "STABKDOAUSB",
+        "french": "STABKDOAUSB",
+        "italian": "STABKDOAUSB",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Kommando Ausbildung",
+        "french": "Etat-major commandement Instruction",
+        "italian": "SM Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042587",
+      "label": {
+        "german": "Ausbildungsunterstützung Kdo Ausbildung",
+        "french": "Aide à l'instruction cdmt Instruction",
+        "italian": "Supporto all'istruzione Cdo Istruzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausbildungsunterstützung Kdo Ausbildung",
+        "french": "Aide à l'instruction cdmt Instruction",
+        "italian": "Supporto all'istruzione Cdo Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042589",
+      "label": {
+        "german": "E-Learning",
+        "french": "E-learning",
+        "italian": "E-learning",
+        "english": ""
+      },
+      "name": {
+        "german": "E-Learning",
+        "french": "E-learning",
+        "italian": "E-learning",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

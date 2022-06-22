@@ -1,1 +1,170 @@
-{"id"=>"60031803@11.05", "name"=>{"german"=>"Product Management", "french"=>"Product Management", "italian"=>"Product Management", "english"=>""}, "nameAbbr"=>{"german"=>"BAGPA", "french"=>"BAGPA", "italian"=>"BAGPA", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Allmendstrasse", "postalCode"=>"3600", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031751@11.05", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Business Area Ground", "french"=>"Business Area Ground", "italian"=>"Business Area Ground", "english"=>""}}, {"id"=>"60031763@11.05", "label"=>{"german"=>"BAGP", "french"=>"BAGP", "italian"=>"BAGP", "english"=>""}, "name"=>{"german"=>"Projects & Products", "french"=>"Projects & Products", "italian"=>"Projects & Products", "english"=>""}}, {"id"=>"60031803@11.05", "label"=>{"german"=>"BAGPA", "french"=>"BAGPA", "italian"=>"BAGPA", "english"=>""}, "name"=>{"german"=>"Product Management", "french"=>"Product Management", "italian"=>"Product Management", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60031803@11.05",
+  "name": {
+    "german": "Product Management",
+    "french": "Product Management",
+    "italian": "Product Management",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BAGPA",
+    "french": "BAGPA",
+    "italian": "BAGPA",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Allmendstrasse",
+    "postalCode": "3600",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031751@11.05",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Area Ground",
+        "french": "Business Area Ground",
+        "italian": "Business Area Ground",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031763@11.05",
+      "label": {
+        "german": "BAGP",
+        "french": "BAGP",
+        "italian": "BAGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Projects & Products",
+        "french": "Projects & Products",
+        "italian": "Projects & Products",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031803@11.05",
+      "label": {
+        "german": "BAGPA",
+        "french": "BAGPA",
+        "italian": "BAGPA",
+        "english": ""
+      },
+      "name": {
+        "german": "Product Management",
+        "french": "Product Management",
+        "italian": "Product Management",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

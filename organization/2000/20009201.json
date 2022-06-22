@@ -1,1 +1,232 @@
-{"id"=>"20009201", "name"=>{"german"=>"Sicherheit Infrastruktur", "french"=>"Sécurité des infrastructures", "italian"=>"Sicurezza delle infrastrutture", "english"=>"Sicherheit Infrastruktur"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20009202", "name"=>{"german"=>"Standardisierung und Sanktionswesen", "french"=>"Normalisation et sanctions", "italian"=>"Normalizzazione e sanzioni", "english"=>"Standardisierung und Sanktionswesen"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009203", "name"=>{"german"=>"Flugplätze und Luftfahrthindernisse", "french"=>"Aérodromes et obstacles à la navigation aérienne", "italian"=>"Aerodromi e ostacoli alla navigazione aerea", "english"=>"Flugplätze und Luftfahrthindernisse"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009204", "name"=>{"german"=>"Schutzmassnahmen", "french"=>"Mesures de sûreté", "italian"=>"Misure di sicurezza", "english"=>"Schutzmassnahmen"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009205", "name"=>{"german"=>"Flugsicherung", "french"=>"Services de la navigation aérienne", "italian"=>"Servizi della navigazione aerea", "english"=>"Flugsicherung"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009159", "name"=>{"german"=>"Luftraum", "french"=>"Espace aérien", "italian"=>"Spazio aereo", "english"=>"Luftraum"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3509298", "surname"=>"Bernegger", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 59093", "function"=>{"german"=>"Vizedirektor / Leiter SI", "french"=>"Vizedirektor / Leiter SI", "italian"=>"Vizedirektor / Leiter SI", "english"=>"Vizedirektor / Leiter SI"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9697499", "surname"=>"Waldner", "givenName"=>"Pascal", "email"=>nil, "phone"=>"+41 58 46 53013", "function"=>{"german"=>"Leiter Flugpl. und Luftfahrthindernisse", "french"=>"Leiter Flugpl. und Luftfahrthindernisse", "italian"=>"Leiter Flugpl. und Luftfahrthindernisse", "english"=>"Leiter Flugpl. und Luftfahrthindernisse"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009201", "label"=>{"german"=>"Sicherheit Infrastruktur", "french"=>"Sécurité des infrastructures", "italian"=>"Sicurezza delle infrastrutture", "english"=>"Sicherheit Infrastruktur"}, "name"=>{"german"=>"Sicherheit Infrastruktur", "french"=>"Sécurité des infrastructures", "italian"=>"Sicurezza delle infrastrutture", "english"=>"Sicherheit Infrastruktur"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009201",
+  "name": {
+    "german": "Sicherheit Infrastruktur",
+    "french": "Sécurité des infrastructures",
+    "italian": "Sicurezza delle infrastrutture",
+    "english": "Sicherheit Infrastruktur"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20009202",
+      "name": {
+        "german": "Standardisierung und Sanktionswesen",
+        "french": "Normalisation et sanctions",
+        "italian": "Normalizzazione e sanzioni",
+        "english": "Standardisierung und Sanktionswesen"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009203",
+      "name": {
+        "german": "Flugplätze und Luftfahrthindernisse",
+        "french": "Aérodromes et obstacles à la navigation aérienne",
+        "italian": "Aerodromi e ostacoli alla navigazione aerea",
+        "english": "Flugplätze und Luftfahrthindernisse"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009204",
+      "name": {
+        "german": "Schutzmassnahmen",
+        "french": "Mesures de sûreté",
+        "italian": "Misure di sicurezza",
+        "english": "Schutzmassnahmen"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009205",
+      "name": {
+        "german": "Flugsicherung",
+        "french": "Services de la navigation aérienne",
+        "italian": "Servizi della navigazione aerea",
+        "english": "Flugsicherung"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009159",
+      "name": {
+        "german": "Luftraum",
+        "french": "Espace aérien",
+        "italian": "Spazio aereo",
+        "english": "Luftraum"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3509298",
+      "surname": "Bernegger",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 59093",
+      "function": {
+        "german": "Vizedirektor / Leiter SI",
+        "french": "Vizedirektor / Leiter SI",
+        "italian": "Vizedirektor / Leiter SI",
+        "english": "Vizedirektor / Leiter SI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9697499",
+      "surname": "Waldner",
+      "givenName": "Pascal",
+      "email": null,
+      "phone": "+41 58 46 53013",
+      "function": {
+        "german": "Leiter Flugpl. und Luftfahrthindernisse",
+        "french": "Leiter Flugpl. und Luftfahrthindernisse",
+        "italian": "Leiter Flugpl. und Luftfahrthindernisse",
+        "english": "Leiter Flugpl. und Luftfahrthindernisse"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009201",
+      "label": {
+        "german": "Sicherheit Infrastruktur",
+        "french": "Sécurité des infrastructures",
+        "italian": "Sicurezza delle infrastrutture",
+        "english": "Sicherheit Infrastruktur"
+      },
+      "name": {
+        "german": "Sicherheit Infrastruktur",
+        "french": "Sécurité des infrastructures",
+        "italian": "Sicurezza delle infrastrutture",
+        "english": "Sicherheit Infrastruktur"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

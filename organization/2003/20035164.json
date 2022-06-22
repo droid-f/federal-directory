@@ -1,1 +1,213 @@
-{"id"=>"20035164", "name"=>{"german"=>"Tierschutz", "french"=>"Protection des animaux", "italian"=>"Protezione degli animali", "english"=>"Tierschutz"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035206", "name"=>{"german"=>"Tierversuche und Auswertungen", "french"=>"Expérimentation animale et évaluations", "italian"=>"Sperimentazione animale e valutazioni", "english"=>"Animal Experimentation and Evaluations"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035207", "name"=>{"german"=>"Nutztierhaltung", "french"=>"Détention des animaux de rente", "italian"=>"Detenzione degli animali da reddito", "english"=>"Keeping of Livestock"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035208", "name"=>{"german"=>"Umgang/Haltung Haus-/Wildtiere", "french"=>"Détention et traitement des animaux dom.", "italian"=>"Detenzione/trattamento degli animali dom", "english"=>"Keeping/Handling of Pets/Wild Animals"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035783", "name"=>{"german"=>"Konferenz Kantonstierärzteschaft", "french"=>"Conférence des vétérinaires cantonaux", "italian"=>"Conferenza dei veterinari cantonali", "english"=>"Konferenz Kantonstierärzteschaft"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1Y0H8F65H", "surname"=>"Reist", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 20253", "function"=>{"german"=>"Leiter/in Abteilung Tierschutz", "french"=>"Leiter/in Abteilung Tierschutz", "italian"=>"Leiter/in Abteilung Tierschutz", "english"=>"Leiter/in Abteilung Tierschutz"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6460301", "surname"=>"Berchtold Nägelin", "givenName"=>"Margot", "email"=>nil, "phone"=>"+41 58 46 91777", "function"=>{"german"=>"Abteilungsassistent/in", "french"=>"Abteilungsassistent/in", "italian"=>"Abteilungsassistent/in", "english"=>"Abteilungsassistent/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035164", "label"=>{"german"=>"Tierschutz", "french"=>"Protection des animaux", "italian"=>"Protezione degli animali", "english"=>"Tierschutz"}, "name"=>{"german"=>"Tierschutz", "french"=>"Protection des animaux", "italian"=>"Protezione degli animali", "english"=>"Tierschutz"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035164",
+  "name": {
+    "german": "Tierschutz",
+    "french": "Protection des animaux",
+    "italian": "Protezione degli animali",
+    "english": "Tierschutz"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035206",
+      "name": {
+        "german": "Tierversuche und Auswertungen",
+        "french": "Expérimentation animale et évaluations",
+        "italian": "Sperimentazione animale e valutazioni",
+        "english": "Animal Experimentation and Evaluations"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035207",
+      "name": {
+        "german": "Nutztierhaltung",
+        "french": "Détention des animaux de rente",
+        "italian": "Detenzione degli animali da reddito",
+        "english": "Keeping of Livestock"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035208",
+      "name": {
+        "german": "Umgang/Haltung Haus-/Wildtiere",
+        "french": "Détention et traitement des animaux dom.",
+        "italian": "Detenzione/trattamento degli animali dom",
+        "english": "Keeping/Handling of Pets/Wild Animals"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035783",
+      "name": {
+        "german": "Konferenz Kantonstierärzteschaft",
+        "french": "Conférence des vétérinaires cantonaux",
+        "italian": "Conferenza dei veterinari cantonali",
+        "english": "Konferenz Kantonstierärzteschaft"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1Y0H8F65H",
+      "surname": "Reist",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 20253",
+      "function": {
+        "german": "Leiter/in Abteilung Tierschutz",
+        "french": "Leiter/in Abteilung Tierschutz",
+        "italian": "Leiter/in Abteilung Tierschutz",
+        "english": "Leiter/in Abteilung Tierschutz"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6460301",
+      "surname": "Berchtold Nägelin",
+      "givenName": "Margot",
+      "email": null,
+      "phone": "+41 58 46 91777",
+      "function": {
+        "german": "Abteilungsassistent/in",
+        "french": "Abteilungsassistent/in",
+        "italian": "Abteilungsassistent/in",
+        "english": "Abteilungsassistent/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035164",
+      "label": {
+        "german": "Tierschutz",
+        "french": "Protection des animaux",
+        "italian": "Protezione degli animali",
+        "english": "Tierschutz"
+      },
+      "name": {
+        "german": "Tierschutz",
+        "french": "Protection des animaux",
+        "italian": "Protezione degli animali",
+        "english": "Tierschutz"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,170 @@
-{"id"=>"20031399", "name"=>{"german"=>"MDR - Radar, Satelliten, Nowcasting", "french"=>"Radar, satellites, nowcasting", "italian"=>"Radar, satelliti, nowcasting", "english"=>""}, "nameAbbr"=>{"german"=>"MDR", "french"=>"MDR", "italian"=>"MDR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Via ai Monti 146", "postalCode"=>"6605", "location"=>"Locarno Monti", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20043434", "name"=>{"german"=>"MDRD - Radar, Satelliten, Daten", "french"=>"Radar, satellites, nowcasting, données", "italian"=>"Radar, satelliti, nowcasting, dati", "english"=>""}, "nameAbbr"=>{"german"=>"MDRD", "french"=>"MDRD", "italian"=>"MDRD", "english"=>""}}, {"id"=>"20046738", "name"=>{"german"=>"MDRS Radar, Satelliten, Dienstleistungen", "french"=>"Radar, satellites, nowcasting, services", "italian"=>"Radar, satelliti, nowcasting, servizi", "english"=>""}, "nameAbbr"=>{"german"=>"MDRS", "french"=>"MDRS", "italian"=>"MDRS", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5862989", "surname"=>"Germann", "givenName"=>"Urs", "email"=>nil, "phone"=>"+41 58 46 09681", "function"=>{"german"=>"Capodivisione", "french"=>"Gestion Team radars/satellites", "italian"=>"Gestione Team radar e satelliti", "english"=>"Capodivisione"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20031386", "label"=>{"german"=>"MD", "french"=>"MD", "italian"=>"MD", "english"=>""}, "name"=>{"german"=>"MD - Messungen und Daten", "french"=>"Mesures et données", "italian"=>"Misure e dati", "english"=>""}}, {"id"=>"20031399", "label"=>{"german"=>"MDR", "french"=>"MDR", "italian"=>"MDR", "english"=>""}, "name"=>{"german"=>"MDR - Radar, Satelliten, Nowcasting", "french"=>"Radar, satellites, nowcasting", "italian"=>"Radar, satelliti, nowcasting", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031399",
+  "name": {
+    "german": "MDR - Radar, Satelliten, Nowcasting",
+    "french": "Radar, satellites, nowcasting",
+    "italian": "Radar, satelliti, nowcasting",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "MDR",
+    "french": "MDR",
+    "italian": "MDR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Via ai Monti 146",
+    "postalCode": "6605",
+    "location": "Locarno Monti",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20043434",
+      "name": {
+        "german": "MDRD - Radar, Satelliten, Daten",
+        "french": "Radar, satellites, nowcasting, données",
+        "italian": "Radar, satelliti, nowcasting, dati",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "MDRD",
+        "french": "MDRD",
+        "italian": "MDRD",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046738",
+      "name": {
+        "german": "MDRS Radar, Satelliten, Dienstleistungen",
+        "french": "Radar, satellites, nowcasting, services",
+        "italian": "Radar, satelliti, nowcasting, servizi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "MDRS",
+        "french": "MDRS",
+        "italian": "MDRS",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5862989",
+      "surname": "Germann",
+      "givenName": "Urs",
+      "email": null,
+      "phone": "+41 58 46 09681",
+      "function": {
+        "german": "Capodivisione",
+        "french": "Gestion Team radars/satellites",
+        "italian": "Gestione Team radar e satelliti",
+        "english": "Capodivisione"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20031386",
+      "label": {
+        "german": "MD",
+        "french": "MD",
+        "italian": "MD",
+        "english": ""
+      },
+      "name": {
+        "german": "MD - Messungen und Daten",
+        "french": "Mesures et données",
+        "italian": "Misure e dati",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031399",
+      "label": {
+        "german": "MDR",
+        "french": "MDR",
+        "italian": "MDR",
+        "english": ""
+      },
+      "name": {
+        "german": "MDR - Radar, Satelliten, Nowcasting",
+        "french": "Radar, satellites, nowcasting",
+        "italian": "Radar, satelliti, nowcasting",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

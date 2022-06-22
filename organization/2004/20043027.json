@@ -1,1 +1,155 @@
-{"id"=>"20043027", "name"=>{"german"=>"IT Management Externe", "french"=>"IT Management Externe", "italian"=>"IT Management Externe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009470", "label"=>{"german"=>"ISC-EJPD", "french"=>"CSI-DFJP", "italian"=>"CSI-DFGP", "english"=>""}, "name"=>{"german"=>"Informatik Service Center ISC-EJPD", "french"=>"Centre de services informatiques CSI-DFJP", "italian"=>"Centro servizi informatici CSI-DFGP", "english"=>""}}, {"id"=>"20015186", "label"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20015190", "label"=>{"german"=>"B<(>&<)>S", "french"=>"B<(>&<)>S", "italian"=>"B<(>&<)>S", "english"=>""}, "name"=>{"german"=>"Betrieb und Support", "french"=>"Exploitation et support", "italian"=>"Esercizio e supporto", "english"=>""}}, {"id"=>"20024827", "label"=>{"german"=>"ITM", "french"=>"ITM", "italian"=>"ITM", "english"=>""}, "name"=>{"german"=>"IT Management", "french"=>"Gestion des TI", "italian"=>"Gestione IT", "english"=>""}}, {"id"=>"20043027", "label"=>{"german"=>"IT Management Externe", "french"=>"IT Management Externe", "italian"=>"IT Management Externe", "english"=>""}, "name"=>{"german"=>"IT Management Externe", "french"=>"IT Management Externe", "italian"=>"IT Management Externe", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20043027",
+  "name": {
+    "german": "IT Management Externe",
+    "french": "IT Management Externe",
+    "italian": "IT Management Externe",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009470",
+      "label": {
+        "german": "ISC-EJPD",
+        "french": "CSI-DFJP",
+        "italian": "CSI-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik Service Center ISC-EJPD",
+        "french": "Centre de services informatiques CSI-DFJP",
+        "italian": "Centro servizi informatici CSI-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015186",
+      "label": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015190",
+      "label": {
+        "german": "B<(>&<)>S",
+        "french": "B<(>&<)>S",
+        "italian": "B<(>&<)>S",
+        "english": ""
+      },
+      "name": {
+        "german": "Betrieb und Support",
+        "french": "Exploitation et support",
+        "italian": "Esercizio e supporto",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024827",
+      "label": {
+        "german": "ITM",
+        "french": "ITM",
+        "italian": "ITM",
+        "english": ""
+      },
+      "name": {
+        "german": "IT Management",
+        "french": "Gestion des TI",
+        "italian": "Gestione IT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043027",
+      "label": {
+        "german": "IT Management Externe",
+        "french": "IT Management Externe",
+        "italian": "IT Management Externe",
+        "english": ""
+      },
+      "name": {
+        "german": "IT Management Externe",
+        "french": "IT Management Externe",
+        "italian": "IT Management Externe",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

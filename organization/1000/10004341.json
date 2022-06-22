@@ -1,1 +1,200 @@
-{"id"=>"10004341", "name"=>{"german"=>"Sektion Film", "french"=>"Section Cinéma", "italian"=>"Sezione cinema", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584629271", "fax"=>"", "email"=>"cinema.film@bak.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20041763", "name"=>{"german"=>"Fachstelle Grundlagen und Projekte", "french"=>"Service spécialisé Bases et projets", "italian"=>"Servizio specializzato Basi e progetti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021903", "name"=>{"german"=>"Dienst Filmförderung", "french"=>"Service Encouragement du cinéma", "italian"=>"Servizio Promozione cinematografica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041764", "name"=>{"german"=>"Fachstelle Auswertung und Angebotsvielfalt", "french"=>"Service spécialisé Exploitation et diversité de l'offre", "italian"=>"Servizio specializzato Commercializzazione e pluralità dell'offerta", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021904", "name"=>{"german"=>"Fachstelle Filmkultur", "french"=>"Service spécialisé Culture cinématographique", "italian"=>"Servizio specializzato Cultura cinematografica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3441784", "surname"=>"Kummer", "givenName"=>"Ivo", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Chef/in Sektion", "french"=>"Chef/fe de section", "italian"=>"Caposezione", "english"=>"Chef/in Sektion"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004326", "label"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}}, {"id"=>"10004341", "label"=>{"german"=>"Sektion Film", "french"=>"Section Cinéma", "italian"=>"Sezione cinema", "english"=>""}, "name"=>{"german"=>"Sektion Film", "french"=>"Section Cinéma", "italian"=>"Sezione cinema", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004341",
+  "name": {
+    "german": "Sektion Film",
+    "french": "Section Cinéma",
+    "italian": "Sezione cinema",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584629271",
+    "fax": "",
+    "email": "cinema.film@bak.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20041763",
+      "name": {
+        "german": "Fachstelle Grundlagen und Projekte",
+        "french": "Service spécialisé Bases et projets",
+        "italian": "Servizio specializzato Basi e progetti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021903",
+      "name": {
+        "german": "Dienst Filmförderung",
+        "french": "Service Encouragement du cinéma",
+        "italian": "Servizio Promozione cinematografica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041764",
+      "name": {
+        "german": "Fachstelle Auswertung und Angebotsvielfalt",
+        "french": "Service spécialisé Exploitation et diversité de l'offre",
+        "italian": "Servizio specializzato Commercializzazione e pluralità dell'offerta",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021904",
+      "name": {
+        "german": "Fachstelle Filmkultur",
+        "french": "Service spécialisé Culture cinématographique",
+        "italian": "Servizio specializzato Cultura cinematografica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3441784",
+      "surname": "Kummer",
+      "givenName": "Ivo",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Chef/in Sektion",
+        "french": "Chef/fe de section",
+        "italian": "Caposezione",
+        "english": "Chef/in Sektion"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004326",
+      "label": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004341",
+      "label": {
+        "german": "Sektion Film",
+        "french": "Section Cinéma",
+        "italian": "Sezione cinema",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Film",
+        "french": "Section Cinéma",
+        "italian": "Sezione cinema",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

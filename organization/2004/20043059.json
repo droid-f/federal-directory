@@ -1,1 +1,155 @@
-{"id"=>"20043059", "name"=>{"german"=>"Mediathek", "french"=>"Médiathèque", "italian"=>"Mediateca", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"biblio@baspo.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003803", "label"=>{"german"=>"EHSM", "french"=>"EHSM", "italian"=>"EHSM", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Sport Magglingen", "french"=>"Haute école fédérale de sport de Macolin", "italian"=>"Scuola universitaria federale dello sport di Macolin", "english"=>""}}, {"id"=>"20037460", "label"=>{"german"=>"Stab", "french"=>"Etat-major du rectorat", "italian"=>"Stato maggiore e rettorato", "english"=>""}, "name"=>{"german"=>"Stab", "french"=>"Etat-major du rectorat", "italian"=>"Stato maggiore e rettorato", "english"=>""}}, {"id"=>"20048029", "label"=>{"german"=>"Zentrale Dienste", "french"=>"Services centraux", "italian"=>"Servizi centrali", "english"=>""}, "name"=>{"german"=>"Zentrale Dienste", "french"=>"Services centraux", "italian"=>"Servizi centrali", "english"=>""}}, {"id"=>"20043059", "label"=>{"german"=>"Mediathek", "french"=>"Médiathèque", "italian"=>"Mediateca", "english"=>""}, "name"=>{"german"=>"Mediathek", "french"=>"Médiathèque", "italian"=>"Mediateca", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20043059",
+  "name": {
+    "german": "Mediathek",
+    "french": "Médiathèque",
+    "italian": "Mediateca",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "biblio@baspo.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003803",
+      "label": {
+        "german": "EHSM",
+        "french": "EHSM",
+        "italian": "EHSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Sport Magglingen",
+        "french": "Haute école fédérale de sport de Macolin",
+        "italian": "Scuola universitaria federale dello sport di Macolin",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037460",
+      "label": {
+        "german": "Stab",
+        "french": "Etat-major du rectorat",
+        "italian": "Stato maggiore e rettorato",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab",
+        "french": "Etat-major du rectorat",
+        "italian": "Stato maggiore e rettorato",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048029",
+      "label": {
+        "german": "Zentrale Dienste",
+        "french": "Services centraux",
+        "italian": "Servizi centrali",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Dienste",
+        "french": "Services centraux",
+        "italian": "Servizi centrali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043059",
+      "label": {
+        "german": "Mediathek",
+        "french": "Médiathèque",
+        "italian": "Mediateca",
+        "english": ""
+      },
+      "name": {
+        "german": "Mediathek",
+        "french": "Médiathèque",
+        "italian": "Mediateca",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,173 @@
-{"id"=>"20034534", "name"=>{"german"=>"Industrie und Dienstleistungen", "french"=>"Industrie et services", "italian"=>"Industria e servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5596726", "surname"=>"Phillips", "givenName"=>"Richard", "email"=>nil, "phone"=>"+41 58 46 32277", "function"=>{"german"=>"Leiter/in Industrie/Dienstleistungen", "french"=>"Leiter/in Industrie/Dienstleistungen", "italian"=>"Leiter/in Industrie/Dienstleistungen", "english"=>"Leiter/in Industrie/Dienstleistungen"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4043857", "surname"=>"Scheidegger", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 25554", "function"=>{"german"=>"Fachspezialist/in Industrie/DL / Stv.", "french"=>"Fachspezialist/in Industrie/DL / Stv.", "italian"=>"Fachspezialist/in Industrie/DL / Stv.", "english"=>"Fachspezialist/in Industrie/DL / Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002566", "label"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}, "name"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}}, {"id"=>"20034534", "label"=>{"german"=>"Industrie und Dienstleistungen", "french"=>"Industrie et services", "italian"=>"Industria e servizi", "english"=>""}, "name"=>{"german"=>"Industrie und Dienstleistungen", "french"=>"Industrie et services", "italian"=>"Industria e servizi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034534",
+  "name": {
+    "german": "Industrie und Dienstleistungen",
+    "french": "Industrie et services",
+    "italian": "Industria e servizi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5596726",
+      "surname": "Phillips",
+      "givenName": "Richard",
+      "email": null,
+      "phone": "+41 58 46 32277",
+      "function": {
+        "german": "Leiter/in Industrie/Dienstleistungen",
+        "french": "Leiter/in Industrie/Dienstleistungen",
+        "italian": "Leiter/in Industrie/Dienstleistungen",
+        "english": "Leiter/in Industrie/Dienstleistungen"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4043857",
+      "surname": "Scheidegger",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 25554",
+      "function": {
+        "german": "Fachspezialist/in Industrie/DL / Stv.",
+        "french": "Fachspezialist/in Industrie/DL / Stv.",
+        "italian": "Fachspezialist/in Industrie/DL / Stv.",
+        "english": "Fachspezialist/in Industrie/DL / Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002566",
+      "label": {
+        "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+        "french": "Division Efficacité énergétique et énergies renouvelables",
+        "italian": "Divisione Efficienza energetica e energie rinnovabili",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+        "french": "Division Efficacité énergétique et énergies renouvelables",
+        "italian": "Divisione Efficienza energetica e energie rinnovabili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034534",
+      "label": {
+        "german": "Industrie und Dienstleistungen",
+        "french": "Industrie et services",
+        "italian": "Industria e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Industrie und Dienstleistungen",
+        "french": "Industrie et services",
+        "italian": "Industria e servizi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

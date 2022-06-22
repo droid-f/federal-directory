@@ -1,1 +1,230 @@
-{"id"=>"20035159", "name"=>{"german"=>"Informatik und Logistik", "french"=>"Informatique et logistique", "italian"=>"Informatica e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037469", "name"=>{"german"=>"Fachanwendungen", "french"=>"Applications spécialisées", "italian"=>"Applicazioni specializzate", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044156", "name"=>{"german"=>"IT Governance", "french"=>"IT Governance", "italian"=>"IT Governance", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035169", "name"=>{"german"=>"Projekte und Entwicklung", "french"=>"Projets et développement", "italian"=>"Progetti e sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035219", "name"=>{"german"=>"Support und Infrastruktur", "french"=>"Support et Infrastructures", "italian"=>"Assistenza e Infrastruttura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0940331", "surname"=>"Quaglia", "givenName"=>"Massimo", "email"=>nil, "phone"=>"+41 58 46 05871", "function"=>{"german"=>"Leiter/in Abt. Informatik und Logistik", "french"=>"Leiter/in Abt. Informatik und Logistik", "italian"=>"Leiter/in Abt. Informatik und Logistik", "english"=>"Leiter/in Abt. Informatik und Logistik"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2149450", "surname"=>"Golomingi", "givenName"=>"Georges", "email"=>nil, "phone"=>"+41 58 46 38317", "function"=>{"german"=>"Leiter/in Gruppe IT Governance", "french"=>"Leiter/in Gruppe IT Governance", "italian"=>"Leiter/in Gruppe IT Governance", "english"=>"Leiter/in Gruppe IT Governance"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7756255", "surname"=>"Panizza", "givenName"=>"Tatjana", "email"=>nil, "phone"=>"+41 58 48 49924", "function"=>{"german"=>"Assistent/in", "french"=>"Assistent/in", "italian"=>"Assistent/in", "english"=>"Assistent/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035159", "label"=>{"german"=>"Informatik und Logistik", "french"=>"Informatique et logistique", "italian"=>"Informatica e logistica", "english"=>""}, "name"=>{"german"=>"Informatik und Logistik", "french"=>"Informatique et logistique", "italian"=>"Informatica e logistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035159",
+  "name": {
+    "german": "Informatik und Logistik",
+    "french": "Informatique et logistique",
+    "italian": "Informatica e logistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037469",
+      "name": {
+        "german": "Fachanwendungen",
+        "french": "Applications spécialisées",
+        "italian": "Applicazioni specializzate",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044156",
+      "name": {
+        "german": "IT Governance",
+        "french": "IT Governance",
+        "italian": "IT Governance",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035169",
+      "name": {
+        "german": "Projekte und Entwicklung",
+        "french": "Projets et développement",
+        "italian": "Progetti e sviluppo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035219",
+      "name": {
+        "german": "Support und Infrastruktur",
+        "french": "Support et Infrastructures",
+        "italian": "Assistenza e Infrastruttura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0940331",
+      "surname": "Quaglia",
+      "givenName": "Massimo",
+      "email": null,
+      "phone": "+41 58 46 05871",
+      "function": {
+        "german": "Leiter/in Abt. Informatik und Logistik",
+        "french": "Leiter/in Abt. Informatik und Logistik",
+        "italian": "Leiter/in Abt. Informatik und Logistik",
+        "english": "Leiter/in Abt. Informatik und Logistik"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2149450",
+      "surname": "Golomingi",
+      "givenName": "Georges",
+      "email": null,
+      "phone": "+41 58 46 38317",
+      "function": {
+        "german": "Leiter/in Gruppe IT Governance",
+        "french": "Leiter/in Gruppe IT Governance",
+        "italian": "Leiter/in Gruppe IT Governance",
+        "english": "Leiter/in Gruppe IT Governance"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7756255",
+      "surname": "Panizza",
+      "givenName": "Tatjana",
+      "email": null,
+      "phone": "+41 58 48 49924",
+      "function": {
+        "german": "Assistent/in",
+        "french": "Assistent/in",
+        "italian": "Assistent/in",
+        "english": "Assistent/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035159",
+      "label": {
+        "german": "Informatik und Logistik",
+        "french": "Informatique et logistique",
+        "italian": "Informatica e logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik und Logistik",
+        "french": "Informatique et logistique",
+        "italian": "Informatica e logistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

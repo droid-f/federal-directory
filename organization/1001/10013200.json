@@ -1,1 +1,156 @@
-{"id"=>"10013200", "name"=>{"german"=>"Dienst Sicherung und Archivierungslösungen", "french"=>"Service de la sécurisation et des solutions d'archivage", "italian"=>"Servizio salvaguardia e soluzioni di archiviazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Archivstrasse 24", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1047521", "surname"=>"Tar", "givenName"=>"Yves", "email"=>nil, "phone"=>"+41 58 48 13562", "function"=>{"german"=>"Dienstchef DSA", "french"=>"Dienstchef DSA", "italian"=>"Dienstchef DSA", "english"=>"Dienstchef DSA"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008653", "label"=>{"german"=>"BAR", "french"=>"BAR", "italian"=>"BAR", "english"=>""}, "name"=>{"german"=>"Schweizerisches Bundesarchiv", "french"=>"Archives fédérales suisses", "italian"=>"Archivio federale svizzero", "english"=>""}}, {"id"=>"10002220", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009613", "label"=>{"german"=>"Abteilung Informationsüberlieferung", "french"=>"Division de la pérennisation de l'information", "italian"=>"Divisione preservazione dell'informazione", "english"=>""}, "name"=>{"german"=>"Abteilung Informationsüberlieferung", "french"=>"Division de la pérennisation de l'information", "italian"=>"Divisione preservazione dell'informazione", "english"=>""}}, {"id"=>"10013200", "label"=>{"german"=>"Dienst Sicherung und Archivierungslösungen", "french"=>"Service de la sécurisation et des solutions d'archivage", "italian"=>"Servizio salvaguardia e soluzioni di archiviazione", "english"=>""}, "name"=>{"german"=>"Dienst Sicherung und Archivierungslösungen", "french"=>"Service de la sécurisation et des solutions d'archivage", "italian"=>"Servizio salvaguardia e soluzioni di archiviazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10013200",
+  "name": {
+    "german": "Dienst Sicherung und Archivierungslösungen",
+    "french": "Service de la sécurisation et des solutions d'archivage",
+    "italian": "Servizio salvaguardia e soluzioni di archiviazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Archivstrasse 24",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1047521",
+      "surname": "Tar",
+      "givenName": "Yves",
+      "email": null,
+      "phone": "+41 58 48 13562",
+      "function": {
+        "german": "Dienstchef DSA",
+        "french": "Dienstchef DSA",
+        "italian": "Dienstchef DSA",
+        "english": "Dienstchef DSA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008653",
+      "label": {
+        "german": "BAR",
+        "french": "BAR",
+        "italian": "BAR",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Bundesarchiv",
+        "french": "Archives fédérales suisses",
+        "italian": "Archivio federale svizzero",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002220",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009613",
+      "label": {
+        "german": "Abteilung Informationsüberlieferung",
+        "french": "Division de la pérennisation de l'information",
+        "italian": "Divisione preservazione dell'informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Informationsüberlieferung",
+        "french": "Division de la pérennisation de l'information",
+        "italian": "Divisione preservazione dell'informazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013200",
+      "label": {
+        "german": "Dienst Sicherung und Archivierungslösungen",
+        "french": "Service de la sécurisation et des solutions d'archivage",
+        "italian": "Servizio salvaguardia e soluzioni di archiviazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst Sicherung und Archivierungslösungen",
+        "french": "Service de la sécurisation et des solutions d'archivage",
+        "italian": "Servizio salvaguardia e soluzioni di archiviazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

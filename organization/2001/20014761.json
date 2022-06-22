@@ -1,1 +1,184 @@
-{"id"=>"20014761", "name"=>{"german"=>"OECD und G20", "french"=>"OCDE et G20", "italian"=>"OCSE e G20", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5283475", "surname"=>"Jordan Perrin", "givenName"=>"Dominique", "email"=>nil, "phone"=>"+41 58 46 40900", "function"=>{"german"=>"Ressortleiter/in OECD WHOE", "french"=>"Ressortleiter/in OECD WHOE", "italian"=>"Ressortleiter/in OECD WHOE", "english"=>"Ressortleiter/in OECD WHOE"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9729529", "surname"=>"Lusti", "givenName"=>"Sven", "email"=>nil, "phone"=>"+41 58 46 56708", "function"=>{"german"=>"Hochschulpraktikant/in WHOE", "french"=>"Hochschulpraktikant/in WHOE", "italian"=>"Hochschulpraktikant/in WHOE", "english"=>"Hochschulpraktikant/in WHOE"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"20004879", "label"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}, "name"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}}, {"id"=>"10004237", "label"=>{"german"=>"Welthandel", "french"=>"Commerce mondial", "italian"=>"Commercio mondiale", "english"=>""}, "name"=>{"german"=>"Welthandel", "french"=>"Commerce mondial", "italian"=>"Commercio mondiale", "english"=>""}}, {"id"=>"20014761", "label"=>{"german"=>"OECD und G20", "french"=>"OCDE et G20", "italian"=>"OCSE e G20", "english"=>""}, "name"=>{"german"=>"OECD und G20", "french"=>"OCDE et G20", "italian"=>"OCSE e G20", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014761",
+  "name": {
+    "german": "OECD und G20",
+    "french": "OCDE et G20",
+    "italian": "OCSE e G20",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5283475",
+      "surname": "Jordan Perrin",
+      "givenName": "Dominique",
+      "email": null,
+      "phone": "+41 58 46 40900",
+      "function": {
+        "german": "Ressortleiter/in OECD WHOE",
+        "french": "Ressortleiter/in OECD WHOE",
+        "italian": "Ressortleiter/in OECD WHOE",
+        "english": "Ressortleiter/in OECD WHOE"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9729529",
+      "surname": "Lusti",
+      "givenName": "Sven",
+      "email": null,
+      "phone": "+41 58 46 56708",
+      "function": {
+        "german": "Hochschulpraktikant/in WHOE",
+        "french": "Hochschulpraktikant/in WHOE",
+        "italian": "Hochschulpraktikant/in WHOE",
+        "english": "Hochschulpraktikant/in WHOE"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004879",
+      "label": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004237",
+      "label": {
+        "german": "Welthandel",
+        "french": "Commerce mondial",
+        "italian": "Commercio mondiale",
+        "english": ""
+      },
+      "name": {
+        "german": "Welthandel",
+        "french": "Commerce mondial",
+        "italian": "Commercio mondiale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014761",
+      "label": {
+        "german": "OECD und G20",
+        "french": "OCDE et G20",
+        "italian": "OCSE e G20",
+        "english": ""
+      },
+      "name": {
+        "german": "OECD und G20",
+        "french": "OCDE et G20",
+        "italian": "OCSE e G20",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

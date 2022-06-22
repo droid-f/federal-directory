@@ -1,1 +1,232 @@
-{"id"=>"20035211", "name"=>{"german"=>"Import / Export", "french"=>"Importations/exportations", "italian"=>"Importazioni/esportazioni", "english"=>"Import / Export"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20016076", "name"=>{"german"=>"Grenzkontrollstelle Genf", "french"=>"Poste de contrôle frontalier de Genève", "italian"=>"Posto di controllo frontaliero Ginevra", "english"=>"Border Control Point Geneva"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20016078", "name"=>{"german"=>"Grenzkontrollstelle Zürich", "french"=>"Poste de contrôle frontalier de Zurich", "italian"=>"Posto di controllo frontaliero Zurigo", "english"=>"Border Control Point Zurich"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039494", "name"=>{"german"=>"Grenzkontrollen Artenschutz", "french"=>"Conservation des espèces - contrôles aux", "italian"=>"Controlli di confine per la conservazion", "english"=>"Species Conservation Broder Controls"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039493", "name"=>{"german"=>"Drittlandhandel", "french"=>"Commerce avec les pays tiers", "italian"=>"Commercio con i Paesi terzi", "english"=>"Third Country Trade"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9756818", "surname"=>"Fröhlicher", "givenName"=>"Erik", "email"=>nil, "phone"=>"+41 58 46 91771", "function"=>{"german"=>"Leiter/in Fachbereich Import / Export", "french"=>"Leiter/in Fachbereich Import / Export", "italian"=>"Leiter/in Fachbereich Import / Export", "english"=>"Leiter/in Fachbereich Import / Export"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2944299", "surname"=>"von Deschwanden Steiner", "givenName"=>"Patricia", "email"=>nil, "phone"=>"+41 58 46 58096", "function"=>{"german"=>"Leit. Gr. Arten./Stv. Leit. FB Imp/Exp", "french"=>"Leit. Gr. Arten./Stv. Leit. FB Imp/Exp", "italian"=>"Leit. Gr. Arten./Stv. Leit. FB Imp/Exp", "english"=>"Leit. Gr. Arten./Stv. Leit. FB Imp/Exp"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035165", "label"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>"Internationales"}, "name"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>"Internationales"}}, {"id"=>"20035211", "label"=>{"german"=>"Import / Export", "french"=>"Importations/exportations", "italian"=>"Importazioni/esportazioni", "english"=>"Import / Export"}, "name"=>{"german"=>"Import / Export", "french"=>"Importations/exportations", "italian"=>"Importazioni/esportazioni", "english"=>"Import / Export"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035211",
+  "name": {
+    "german": "Import / Export",
+    "french": "Importations/exportations",
+    "italian": "Importazioni/esportazioni",
+    "english": "Import / Export"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20016076",
+      "name": {
+        "german": "Grenzkontrollstelle Genf",
+        "french": "Poste de contrôle frontalier de Genève",
+        "italian": "Posto di controllo frontaliero Ginevra",
+        "english": "Border Control Point Geneva"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016078",
+      "name": {
+        "german": "Grenzkontrollstelle Zürich",
+        "french": "Poste de contrôle frontalier de Zurich",
+        "italian": "Posto di controllo frontaliero Zurigo",
+        "english": "Border Control Point Zurich"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039494",
+      "name": {
+        "german": "Grenzkontrollen Artenschutz",
+        "french": "Conservation des espèces - contrôles aux",
+        "italian": "Controlli di confine per la conservazion",
+        "english": "Species Conservation Broder Controls"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039493",
+      "name": {
+        "german": "Drittlandhandel",
+        "french": "Commerce avec les pays tiers",
+        "italian": "Commercio con i Paesi terzi",
+        "english": "Third Country Trade"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9756818",
+      "surname": "Fröhlicher",
+      "givenName": "Erik",
+      "email": null,
+      "phone": "+41 58 46 91771",
+      "function": {
+        "german": "Leiter/in Fachbereich Import / Export",
+        "french": "Leiter/in Fachbereich Import / Export",
+        "italian": "Leiter/in Fachbereich Import / Export",
+        "english": "Leiter/in Fachbereich Import / Export"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2944299",
+      "surname": "von Deschwanden Steiner",
+      "givenName": "Patricia",
+      "email": null,
+      "phone": "+41 58 46 58096",
+      "function": {
+        "german": "Leit. Gr. Arten./Stv. Leit. FB Imp/Exp",
+        "french": "Leit. Gr. Arten./Stv. Leit. FB Imp/Exp",
+        "italian": "Leit. Gr. Arten./Stv. Leit. FB Imp/Exp",
+        "english": "Leit. Gr. Arten./Stv. Leit. FB Imp/Exp"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035165",
+      "label": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": "Internationales"
+      },
+      "name": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": "Internationales"
+      }
+    },
+    {
+      "id": "20035211",
+      "label": {
+        "german": "Import / Export",
+        "french": "Importations/exportations",
+        "italian": "Importazioni/esportazioni",
+        "english": "Import / Export"
+      },
+      "name": {
+        "german": "Import / Export",
+        "french": "Importations/exportations",
+        "italian": "Importazioni/esportazioni",
+        "english": "Import / Export"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,126 @@
-{"id"=>"20037343", "name"=>{"german"=>"Finanzen, Systeme und Administration", "french"=>"Finances, systèmes et administration", "italian"=>"Finanze, sistemi e amministrazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1535120", "surname"=>"Bachofner", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 32 29836", "function"=>{"german"=>"Leiter FI, Systeme u. Admin./Stv. RL", "french"=>"Leiter FI, Systeme u. Admin./Stv. RL", "italian"=>"Leiter FI, Systeme u. Admin./Stv. RL", "english"=>"Leiter FI, Systeme u. Admin./Stv. RL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037315", "label"=>{"german"=>"Human Resources und Finanzen", "french"=>"Ressources humaines et finances", "italian"=>"Risorse umane e finanze", "english"=>""}, "name"=>{"german"=>"Human Resources und Finanzen", "french"=>"Ressources humaines et finances", "italian"=>"Risorse umane e finanze", "english"=>""}}, {"id"=>"20037343", "label"=>{"german"=>"Finanzen, Systeme und Administration", "french"=>"Finances, systèmes et administration", "italian"=>"Finanze, sistemi e amministrazione", "english"=>""}, "name"=>{"german"=>"Finanzen, Systeme und Administration", "french"=>"Finances, systèmes et administration", "italian"=>"Finanze, sistemi e amministrazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037343",
+  "name": {
+    "german": "Finanzen, Systeme und Administration",
+    "french": "Finances, systèmes et administration",
+    "italian": "Finanze, sistemi e amministrazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1535120",
+      "surname": "Bachofner",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 32 29836",
+      "function": {
+        "german": "Leiter FI, Systeme u. Admin./Stv. RL",
+        "french": "Leiter FI, Systeme u. Admin./Stv. RL",
+        "italian": "Leiter FI, Systeme u. Admin./Stv. RL",
+        "english": "Leiter FI, Systeme u. Admin./Stv. RL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037315",
+      "label": {
+        "german": "Human Resources und Finanzen",
+        "french": "Ressources humaines et finances",
+        "italian": "Risorse umane e finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources und Finanzen",
+        "french": "Ressources humaines et finances",
+        "italian": "Risorse umane e finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037343",
+      "label": {
+        "german": "Finanzen, Systeme und Administration",
+        "french": "Finances, systèmes et administration",
+        "italian": "Finanze, sistemi e amministrazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen, Systeme und Administration",
+        "french": "Finances, systèmes et administration",
+        "italian": "Finanze, sistemi e amministrazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

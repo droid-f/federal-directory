@@ -1,1 +1,232 @@
-{"id"=>"20015189", "name"=>{"german"=>"Technologie", "french"=>"Technologie", "italian"=>"Tecnologia", "english"=>""}, "nameAbbr"=>{"german"=>"T", "french"=>"T", "italian"=>"T", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20026026", "name"=>{"german"=>"Architektur", "french"=>"Architecture", "italian"=>"Architettura", "english"=>""}, "nameAbbr"=>{"german"=>"AT", "french"=>"AT", "italian"=>"AT", "english"=>""}}, {"id"=>"20015192", "name"=>{"german"=>"Entwicklung 1", "french"=>"Développement", "italian"=>"Sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"EW1", "french"=>"EW1", "italian"=>"EW1", "english"=>""}}, {"id"=>"20039601", "name"=>{"german"=>"Entwicklung 2", "french"=>"Développement", "italian"=>"Sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"EW2", "french"=>"EW2", "italian"=>"EW2", "english"=>""}}, {"id"=>"20026028", "name"=>{"german"=>"Qualitäts- und Testmanagement", "french"=>"Gestion de la qualité et des tests", "italian"=>"Gestione qualità e test", "english"=>""}, "nameAbbr"=>{"german"=>"QT", "french"=>"QT", "italian"=>"QT", "english"=>""}}, {"id"=>"20026029", "name"=>{"german"=>"Environment und Deployment", "french"=>"Environnement et déploiement", "italian"=>"Environment e deployment", "english"=>""}, "nameAbbr"=>{"german"=>"ED", "french"=>"ED", "italian"=>"ED", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1113749", "surname"=>"Andres", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 37872", "function"=>{"german"=>"AL Technologie", "french"=>"AL Technologie", "italian"=>"AL Technologie", "english"=>"AL Technologie"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0946712", "surname"=>"Germann", "givenName"=>"Matthias", "email"=>nil, "phone"=>"+41 58 46 41522", "function"=>{"german"=>"Stv. AL T/BL A/Senior ICT Architekt", "french"=>"Stv. AL T/BL A/Senior ICT Architekt", "italian"=>"Stv. AL T/BL A/Senior ICT Architekt", "english"=>"Stv. AL T/BL A/Senior ICT Architekt"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009470", "label"=>{"german"=>"ISC-EJPD", "french"=>"CSI-DFJP", "italian"=>"CSI-DFGP", "english"=>""}, "name"=>{"german"=>"Informatik Service Center ISC-EJPD", "french"=>"Centre de services informatiques CSI-DFJP", "italian"=>"Centro servizi informatici CSI-DFGP", "english"=>""}}, {"id"=>"20015186", "label"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20015189", "label"=>{"german"=>"T", "french"=>"T", "italian"=>"T", "english"=>""}, "name"=>{"german"=>"Technologie", "french"=>"Technologie", "italian"=>"Tecnologia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20015189",
+  "name": {
+    "german": "Technologie",
+    "french": "Technologie",
+    "italian": "Tecnologia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "T",
+    "french": "T",
+    "italian": "T",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20026026",
+      "name": {
+        "german": "Architektur",
+        "french": "Architecture",
+        "italian": "Architettura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "AT",
+        "french": "AT",
+        "italian": "AT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015192",
+      "name": {
+        "german": "Entwicklung 1",
+        "french": "Développement",
+        "italian": "Sviluppo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "EW1",
+        "french": "EW1",
+        "italian": "EW1",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039601",
+      "name": {
+        "german": "Entwicklung 2",
+        "french": "Développement",
+        "italian": "Sviluppo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "EW2",
+        "french": "EW2",
+        "italian": "EW2",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026028",
+      "name": {
+        "german": "Qualitäts- und Testmanagement",
+        "french": "Gestion de la qualité et des tests",
+        "italian": "Gestione qualità e test",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "QT",
+        "french": "QT",
+        "italian": "QT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026029",
+      "name": {
+        "german": "Environment und Deployment",
+        "french": "Environnement et déploiement",
+        "italian": "Environment e deployment",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ED",
+        "french": "ED",
+        "italian": "ED",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1113749",
+      "surname": "Andres",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 37872",
+      "function": {
+        "german": "AL Technologie",
+        "french": "AL Technologie",
+        "italian": "AL Technologie",
+        "english": "AL Technologie"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0946712",
+      "surname": "Germann",
+      "givenName": "Matthias",
+      "email": null,
+      "phone": "+41 58 46 41522",
+      "function": {
+        "german": "Stv. AL T/BL A/Senior ICT Architekt",
+        "french": "Stv. AL T/BL A/Senior ICT Architekt",
+        "italian": "Stv. AL T/BL A/Senior ICT Architekt",
+        "english": "Stv. AL T/BL A/Senior ICT Architekt"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009470",
+      "label": {
+        "german": "ISC-EJPD",
+        "french": "CSI-DFJP",
+        "italian": "CSI-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik Service Center ISC-EJPD",
+        "french": "Centre de services informatiques CSI-DFJP",
+        "italian": "Centro servizi informatici CSI-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015186",
+      "label": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015189",
+      "label": {
+        "german": "T",
+        "french": "T",
+        "italian": "T",
+        "english": ""
+      },
+      "name": {
+        "german": "Technologie",
+        "french": "Technologie",
+        "italian": "Tecnologia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

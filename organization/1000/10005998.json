@@ -1,1 +1,245 @@
-{"id"=>"10005998", "name"=>{"german"=>"Objektmanagement", "french"=>"Gestion des ouvrages et des bâtiments", "italian"=>"Gestione delle opere e degli immobili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Fellerstrasse 21", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20019206", "name"=>{"german"=>"Support Objektmanagement", "french"=>"Assistance Gestion des ouvrages et des bâtiments", "italian"=>"Supporto Gestione delle opere e degli immobili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005734", "name"=>{"german"=>"Technisches Gebäudemanagement", "french"=>"Gestion technique des bâtiments", "italian"=>"Gestione tecnica degli edifici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10013901", "name"=>{"german"=>"Objektbewirtschaftung und -betrieb", "french"=>"Gestion et exploitation des bâtiments", "italian"=>"Gestione ed esercizio delle opere e degli immobili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000801", "name"=>{"german"=>"Anlässe", "french"=>"Réceptions officielles", "italian"=>"Eventi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10013908", "name"=>{"german"=>"Reinigung", "french"=>"Nettoyage", "italian"=>"Pulizia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10006029", "name"=>{"german"=>"Bundesgärtnerei", "french"=>"Établissement horticole de la Confédération", "italian"=>"Servizio di giardinaggio della Confederazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9463447", "surname"=>"Steiner", "givenName"=>"Theodor", "email"=>nil, "phone"=>"+41 58 46 28126", "function"=>{"german"=>"Leiter/in Objektmanagement", "french"=>"Responsable Gestion des ouvrages et des bâtiments", "italian"=>"Capo Gestione delle opere e degli immobili", "english"=>"Leiter/in Objektmanagement"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008670", "label"=>{"german"=>"BBL", "french"=>"OFCL", "italian"=>"UFCL", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bauten und Logistik", "french"=>"Office fédéral des constructions et de la logistique", "italian"=>"Ufficio federale delle costruzioni e della logistica", "english"=>""}}, {"id"=>"10005978", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20010028", "label"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}, "name"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}}, {"id"=>"10005998", "label"=>{"german"=>"Objektmanagement", "french"=>"Gestion des ouvrages et des bâtiments", "italian"=>"Gestione delle opere e degli immobili", "english"=>""}, "name"=>{"german"=>"Objektmanagement", "french"=>"Gestion des ouvrages et des bâtiments", "italian"=>"Gestione delle opere e degli immobili", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005998",
+  "name": {
+    "german": "Objektmanagement",
+    "french": "Gestion des ouvrages et des bâtiments",
+    "italian": "Gestione delle opere e degli immobili",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Fellerstrasse 21",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20019206",
+      "name": {
+        "german": "Support Objektmanagement",
+        "french": "Assistance Gestion des ouvrages et des bâtiments",
+        "italian": "Supporto Gestione delle opere e degli immobili",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005734",
+      "name": {
+        "german": "Technisches Gebäudemanagement",
+        "french": "Gestion technique des bâtiments",
+        "italian": "Gestione tecnica degli edifici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013901",
+      "name": {
+        "german": "Objektbewirtschaftung und -betrieb",
+        "french": "Gestion et exploitation des bâtiments",
+        "italian": "Gestione ed esercizio delle opere e degli immobili",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000801",
+      "name": {
+        "german": "Anlässe",
+        "french": "Réceptions officielles",
+        "italian": "Eventi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013908",
+      "name": {
+        "german": "Reinigung",
+        "french": "Nettoyage",
+        "italian": "Pulizia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006029",
+      "name": {
+        "german": "Bundesgärtnerei",
+        "french": "Établissement horticole de la Confédération",
+        "italian": "Servizio di giardinaggio della Confederazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9463447",
+      "surname": "Steiner",
+      "givenName": "Theodor",
+      "email": null,
+      "phone": "+41 58 46 28126",
+      "function": {
+        "german": "Leiter/in Objektmanagement",
+        "french": "Responsable Gestion des ouvrages et des bâtiments",
+        "italian": "Capo Gestione delle opere e degli immobili",
+        "english": "Leiter/in Objektmanagement"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008670",
+      "label": {
+        "german": "BBL",
+        "french": "OFCL",
+        "italian": "UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bauten und Logistik",
+        "french": "Office fédéral des constructions et de la logistique",
+        "italian": "Ufficio federale delle costruzioni e della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005978",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010028",
+      "label": {
+        "german": "Bauten",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Bauten",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005998",
+      "label": {
+        "german": "Objektmanagement",
+        "french": "Gestion des ouvrages et des bâtiments",
+        "italian": "Gestione delle opere e degli immobili",
+        "english": ""
+      },
+      "name": {
+        "german": "Objektmanagement",
+        "french": "Gestion des ouvrages et des bâtiments",
+        "italian": "Gestione delle opere e degli immobili",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

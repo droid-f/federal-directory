@@ -1,1 +1,273 @@
-{"id"=>"10002509", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20008001", "name"=>{"german"=>"Human Resources", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20008002", "name"=>{"german"=>"Interne Revision IR", "french"=>"Révision interne IR", "italian"=>"Revisione interna IR", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037552", "name"=>{"german"=>"Steuerung und Finanzen", "french"=>"Gestion et finances", "italian"=>"Gestione e finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20006330", "name"=>{"german"=>"Direktionsgeschäfte (DG)", "french"=>"Affaires de la direction", "italian"=>"Affari della direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20006331", "name"=>{"german"=>"Strassennetze (N)", "french"=>"Réseaux routiers", "italian"=>"Reti stradali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009553", "name"=>{"german"=>"Strasseninfrastruktur West", "french"=>"Infrastructure routière Ouest", "italian"=>"Infrastruttura stradale Ovest", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037554", "name"=>{"german"=>"Strasseninfrastruktur Ost", "french"=>"Infrastructure routière Est", "italian"=>"Infrastruttura stradale Est", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009562", "name"=>{"german"=>"Strassenverkehr (V)", "french"=>"Circulation routière", "italian"=>"Circolazione stradale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050462", "name"=>{"german"=>"Digital Services (DS)", "french"=>"Affaires de la direction", "italian"=>"Affari della direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3486682", "surname"=>"Röthlisberger", "givenName"=>"Jürg", "email"=>nil, "phone"=>"+41 58 46 39387", "function"=>{"german"=>"Direktor Bundesamt für Strassen", "french"=>"Direktor Bundesamt für Strassen", "italian"=>"Direktor Bundesamt für Strassen", "english"=>"Direktor Bundesamt für Strassen"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3475910", "surname"=>"Ebener", "givenName"=>"Petra", "email"=>nil, "phone"=>"+41 58 46 82466", "function"=>{"german"=>"Direktionsassistentin", "french"=>"Direktionsassistentin", "italian"=>"Direktionsassistentin", "english"=>"Direktionsassistentin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008759", "label"=>{"german"=>"ASTRA", "french"=>"OFROU", "italian"=>"USTRA", "english"=>""}, "name"=>{"german"=>"Bundesamt für Strassen", "french"=>"Office fédéral des routes", "italian"=>"Ufficio federale delle strade", "english"=>""}}, {"id"=>"10002509", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002509",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20008001",
+      "name": {
+        "german": "Human Resources",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008002",
+      "name": {
+        "german": "Interne Revision IR",
+        "french": "Révision interne IR",
+        "italian": "Revisione interna IR",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037552",
+      "name": {
+        "german": "Steuerung und Finanzen",
+        "french": "Gestion et finances",
+        "italian": "Gestione e finanze",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20006330",
+      "name": {
+        "german": "Direktionsgeschäfte (DG)",
+        "french": "Affaires de la direction",
+        "italian": "Affari della direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20006331",
+      "name": {
+        "german": "Strassennetze (N)",
+        "french": "Réseaux routiers",
+        "italian": "Reti stradali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009553",
+      "name": {
+        "german": "Strasseninfrastruktur West",
+        "french": "Infrastructure routière Ouest",
+        "italian": "Infrastruttura stradale Ovest",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037554",
+      "name": {
+        "german": "Strasseninfrastruktur Ost",
+        "french": "Infrastructure routière Est",
+        "italian": "Infrastruttura stradale Est",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009562",
+      "name": {
+        "german": "Strassenverkehr (V)",
+        "french": "Circulation routière",
+        "italian": "Circolazione stradale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050462",
+      "name": {
+        "german": "Digital Services (DS)",
+        "french": "Affaires de la direction",
+        "italian": "Affari della direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3486682",
+      "surname": "Röthlisberger",
+      "givenName": "Jürg",
+      "email": null,
+      "phone": "+41 58 46 39387",
+      "function": {
+        "german": "Direktor Bundesamt für Strassen",
+        "french": "Direktor Bundesamt für Strassen",
+        "italian": "Direktor Bundesamt für Strassen",
+        "english": "Direktor Bundesamt für Strassen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3475910",
+      "surname": "Ebener",
+      "givenName": "Petra",
+      "email": null,
+      "phone": "+41 58 46 82466",
+      "function": {
+        "german": "Direktionsassistentin",
+        "french": "Direktionsassistentin",
+        "italian": "Direktionsassistentin",
+        "english": "Direktionsassistentin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008759",
+      "label": {
+        "german": "ASTRA",
+        "french": "OFROU",
+        "italian": "USTRA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Strassen",
+        "french": "Office fédéral des routes",
+        "italian": "Ufficio federale delle strade",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002509",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

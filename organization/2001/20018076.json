@@ -1,1 +1,217 @@
-{"id"=>"20018076", "name"=>{"german"=>"Dienst Überwachung Post- und Fernmeldeverkehr", "french"=>"Service Surveillance de la correspondance par poste et télécommunication", "italian"=>"Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni", "english"=>""}, "nameAbbr"=>{"german"=>"ÜPF", "french"=>"ÜPF", "italian"=>"ÜPF", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20044985", "name"=>{"german"=>"Verwaltungsstrafverfahren", "french"=>"Procédures de droit pénal administratif", "italian"=>"Indagini diritto penale amministrativo", "english"=>""}, "nameAbbr"=>{"german"=>"VStrV", "french"=>"VStrV", "italian"=>"VStrV", "english"=>""}}, {"id"=>"20018077", "name"=>{"german"=>"Recht und Controlling", "french"=>"Droit et contrôle de gestion", "italian"=>"Diritto e controlling", "english"=>""}, "nameAbbr"=>{"german"=>"RC", "french"=>"RC", "italian"=>"RC", "english"=>""}}, {"id"=>"20018078", "name"=>{"german"=>"Überwachungsmanagement", "french"=>"Gestion de la surveillance", "italian"=>"Gestione della sorveglianza", "english"=>""}, "nameAbbr"=>{"german"=>"ÜM", "french"=>"ÜM", "italian"=>"ÜM", "english"=>""}}, {"id"=>"20018079", "name"=>{"german"=>"Providermanagement", "french"=>"Gestion des fournisseurs", "italian"=>"Gestione dei provider", "english"=>""}, "nameAbbr"=>{"german"=>"PRM", "french"=>"PRM", "italian"=>"PRM", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8141748", "surname"=>"Koch", "givenName"=>"René", "email"=>nil, "phone"=>"+41 58 46 24625", "function"=>{"german"=>"Leiter/in Dienst ÜPF", "french"=>"Leiter/in Dienst ÜPF", "italian"=>"Leiter/in Dienst ÜPF", "english"=>"Leiter/in Dienst ÜPF"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4772909", "surname"=>"Biberstein", "givenName"=>"Jean-Louis", "email"=>nil, "phone"=>"+41 58 46 22627", "function"=>{"german"=>"Stv. L D ÜPF/BL Recht und Controlling", "french"=>"Stv. L D ÜPF/BL Recht und Controlling", "italian"=>"Stv. L D ÜPF/BL Recht und Controlling", "english"=>"Stv. L D ÜPF/BL Recht und Controlling"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009470", "label"=>{"german"=>"ISC-EJPD", "french"=>"CSI-DFJP", "italian"=>"CSI-DFGP", "english"=>""}, "name"=>{"german"=>"Informatik Service Center ISC-EJPD", "french"=>"Centre de services informatiques CSI-DFJP", "italian"=>"Centro servizi informatici CSI-DFGP", "english"=>""}}, {"id"=>"20015186", "label"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20018076", "label"=>{"german"=>"ÜPF", "french"=>"ÜPF", "italian"=>"ÜPF", "english"=>""}, "name"=>{"german"=>"Dienst Überwachung Post- und Fernmeldeverkehr", "french"=>"Service Surveillance de la correspondance par poste et télécommunication", "italian"=>"Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018076",
+  "name": {
+    "german": "Dienst Überwachung Post- und Fernmeldeverkehr",
+    "french": "Service Surveillance de la correspondance par poste et télécommunication",
+    "italian": "Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ÜPF",
+    "french": "ÜPF",
+    "italian": "ÜPF",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20044985",
+      "name": {
+        "german": "Verwaltungsstrafverfahren",
+        "french": "Procédures de droit pénal administratif",
+        "italian": "Indagini diritto penale amministrativo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "VStrV",
+        "french": "VStrV",
+        "italian": "VStrV",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018077",
+      "name": {
+        "german": "Recht und Controlling",
+        "french": "Droit et contrôle de gestion",
+        "italian": "Diritto e controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RC",
+        "french": "RC",
+        "italian": "RC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018078",
+      "name": {
+        "german": "Überwachungsmanagement",
+        "french": "Gestion de la surveillance",
+        "italian": "Gestione della sorveglianza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ÜM",
+        "french": "ÜM",
+        "italian": "ÜM",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018079",
+      "name": {
+        "german": "Providermanagement",
+        "french": "Gestion des fournisseurs",
+        "italian": "Gestione dei provider",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "PRM",
+        "french": "PRM",
+        "italian": "PRM",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8141748",
+      "surname": "Koch",
+      "givenName": "René",
+      "email": null,
+      "phone": "+41 58 46 24625",
+      "function": {
+        "german": "Leiter/in Dienst ÜPF",
+        "french": "Leiter/in Dienst ÜPF",
+        "italian": "Leiter/in Dienst ÜPF",
+        "english": "Leiter/in Dienst ÜPF"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4772909",
+      "surname": "Biberstein",
+      "givenName": "Jean-Louis",
+      "email": null,
+      "phone": "+41 58 46 22627",
+      "function": {
+        "german": "Stv. L D ÜPF/BL Recht und Controlling",
+        "french": "Stv. L D ÜPF/BL Recht und Controlling",
+        "italian": "Stv. L D ÜPF/BL Recht und Controlling",
+        "english": "Stv. L D ÜPF/BL Recht und Controlling"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009470",
+      "label": {
+        "german": "ISC-EJPD",
+        "french": "CSI-DFJP",
+        "italian": "CSI-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik Service Center ISC-EJPD",
+        "french": "Centre de services informatiques CSI-DFJP",
+        "italian": "Centro servizi informatici CSI-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015186",
+      "label": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018076",
+      "label": {
+        "german": "ÜPF",
+        "french": "ÜPF",
+        "italian": "ÜPF",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst Überwachung Post- und Fernmeldeverkehr",
+        "french": "Service Surveillance de la correspondance par poste et télécommunication",
+        "italian": "Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

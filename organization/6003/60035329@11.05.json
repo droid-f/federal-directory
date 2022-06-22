@@ -1,1 +1,184 @@
-{"id"=>"60035329@11.05", "name"=>{"german"=>"Business Area Controlling GROUND", "french"=>"Business Area Controlling GROUND", "italian"=>"Business Area Controlling GROUND", "english"=>""}, "nameAbbr"=>{"german"=>"GFFC", "french"=>"GFFC", "italian"=>"GFFC", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Allmendstrasse", "postalCode"=>"3600", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"60035330@11.05", "name"=>{"german"=>"BA Controlling GROUND", "french"=>"BA Controlling GROUND", "italian"=>"BA Controlling GROUND", "english"=>""}, "nameAbbr"=>{"german"=>"GFFCA", "french"=>"GFFCA", "italian"=>"GFFCA", "english"=>""}}, {"id"=>"60035381@11.05", "name"=>{"german"=>"Central Controlling GROUND", "french"=>"Central Controlling GROUND", "italian"=>"Central Controlling GROUND", "english"=>""}, "nameAbbr"=>{"german"=>"GFFCA", "french"=>"GFFCA", "italian"=>"GFFCA", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031753@11.05", "label"=>{"german"=>"GFF", "french"=>"GFF", "italian"=>"GFF", "english"=>""}, "name"=>{"german"=>"Group Finance", "french"=>"Group Finance", "italian"=>"Group Finance", "english"=>""}}, {"id"=>"60035329@11.05", "label"=>{"german"=>"GFFC", "french"=>"GFFC", "italian"=>"GFFC", "english"=>""}, "name"=>{"german"=>"Business Area Controlling GROUND", "french"=>"Business Area Controlling GROUND", "italian"=>"Business Area Controlling GROUND", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60035329@11.05",
+  "name": {
+    "german": "Business Area Controlling GROUND",
+    "french": "Business Area Controlling GROUND",
+    "italian": "Business Area Controlling GROUND",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "GFFC",
+    "french": "GFFC",
+    "italian": "GFFC",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Allmendstrasse",
+    "postalCode": "3600",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "60035330@11.05",
+      "name": {
+        "german": "BA Controlling GROUND",
+        "french": "BA Controlling GROUND",
+        "italian": "BA Controlling GROUND",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFFCA",
+        "french": "GFFCA",
+        "italian": "GFFCA",
+        "english": ""
+      }
+    },
+    {
+      "id": "60035381@11.05",
+      "name": {
+        "german": "Central Controlling GROUND",
+        "french": "Central Controlling GROUND",
+        "italian": "Central Controlling GROUND",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GFFCA",
+        "french": "GFFCA",
+        "italian": "GFFCA",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031753@11.05",
+      "label": {
+        "german": "GFF",
+        "french": "GFF",
+        "italian": "GFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Group Finance",
+        "french": "Group Finance",
+        "italian": "Group Finance",
+        "english": ""
+      }
+    },
+    {
+      "id": "60035329@11.05",
+      "label": {
+        "german": "GFFC",
+        "french": "GFFC",
+        "italian": "GFFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Area Controlling GROUND",
+        "french": "Business Area Controlling GROUND",
+        "italian": "Business Area Controlling GROUND",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

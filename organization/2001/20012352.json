@@ -1,1 +1,215 @@
-{"id"=>"20012352", "name"=>{"german"=>"Fliegerärztliches Institut", "french"=>"Institut de médecine aéronautique", "italian"=>"Istituto di medicina aeronautica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bettlistrasse 16", "postalCode"=>"8600", "location"=>"Dübendorf", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10005976", "name"=>{"german"=>"Bereich Flugmedizin", "french"=>"Domaine Médecine aéronautique", "italian"=>"Settore Medicina aeronautica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000278", "name"=>{"german"=>"Bereich Administration FAI", "french"=>"Domaine Administration IMA", "italian"=>"Settore Amministrazione IMA", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005977", "name"=>{"german"=>"Bereich Flugpsychologie", "french"=>"Domaine Psychologie aéronautique", "italian"=>"Settore Psicologia aeronautica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0366964", "surname"=>"Kunz", "givenName"=>"Andres", "email"=>nil, "phone"=>"+41 58 46 02525", "function"=>{"german"=>"Chefarzt Fliegerärztliches Institut", "french"=>"Méd chef Institut médecine aéronautique", "italian"=>"Medico capo IMA", "english"=>"Chefarzt Fliegerärztliches Institut"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10008929", "label"=>{"german"=>"LW", "french"=>"LW", "italian"=>"LW", "english"=>""}, "name"=>{"german"=>"Luftwaffe", "french"=>"Forces aériennes", "italian"=>"Forze aeree", "english"=>""}}, {"id"=>"20012352", "label"=>{"german"=>"Fliegerärztliches Institut", "french"=>"Institut de médecine aéronautique", "italian"=>"Istituto di medicina aeronautica", "english"=>""}, "name"=>{"german"=>"Fliegerärztliches Institut", "french"=>"Institut de médecine aéronautique", "italian"=>"Istituto di medicina aeronautica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012352",
+  "name": {
+    "german": "Fliegerärztliches Institut",
+    "french": "Institut de médecine aéronautique",
+    "italian": "Istituto di medicina aeronautica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bettlistrasse 16",
+    "postalCode": "8600",
+    "location": "Dübendorf",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10005976",
+      "name": {
+        "german": "Bereich Flugmedizin",
+        "french": "Domaine Médecine aéronautique",
+        "italian": "Settore Medicina aeronautica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000278",
+      "name": {
+        "german": "Bereich Administration FAI",
+        "french": "Domaine Administration IMA",
+        "italian": "Settore Amministrazione IMA",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005977",
+      "name": {
+        "german": "Bereich Flugpsychologie",
+        "french": "Domaine Psychologie aéronautique",
+        "italian": "Settore Psicologia aeronautica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0366964",
+      "surname": "Kunz",
+      "givenName": "Andres",
+      "email": null,
+      "phone": "+41 58 46 02525",
+      "function": {
+        "german": "Chefarzt Fliegerärztliches Institut",
+        "french": "Méd chef Institut médecine aéronautique",
+        "italian": "Medico capo IMA",
+        "english": "Chefarzt Fliegerärztliches Institut"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008929",
+      "label": {
+        "german": "LW",
+        "french": "LW",
+        "italian": "LW",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftwaffe",
+        "french": "Forces aériennes",
+        "italian": "Forze aeree",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012352",
+      "label": {
+        "german": "Fliegerärztliches Institut",
+        "french": "Institut de médecine aéronautique",
+        "italian": "Istituto di medicina aeronautica",
+        "english": ""
+      },
+      "name": {
+        "german": "Fliegerärztliches Institut",
+        "french": "Institut de médecine aéronautique",
+        "italian": "Istituto di medicina aeronautica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

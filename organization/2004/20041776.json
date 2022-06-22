@@ -1,1 +1,155 @@
-{"id"=>"20041776", "name"=>{"german"=>"Finanzen, Personal, Administration", "french"=>"Finances, personnel, administration", "italian"=>"Finanze, personale, amministrazione", "english"=>"Finance, human resources, administration"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}, {"id"=>"10000714", "label"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}, "name"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}}, {"id"=>"10001755", "label"=>{"german"=>"Abteilung Europa, Asien und Amerika", "french"=>"Division Europe, Asie et Amérique", "italian"=>"Divisione Europa, Asia e America", "english"=>"Division Europe, Asia and Americas"}, "name"=>{"german"=>"Abteilung Europa, Asien und Amerika", "french"=>"Division Europe, Asie et Amérique", "italian"=>"Divisione Europa, Asia e America", "english"=>"Division Europe, Asia and Americas"}}, {"id"=>"10010780", "label"=>{"german"=>"Programmbüro Pjöngjang", "french"=>"Bureau de programme Pyongyang", "italian"=>"Ufficio di programma Pyongyang", "english"=>"Pyongyang Programme Office"}, "name"=>{"german"=>"Programmbüro Pjöngjang", "french"=>"Bureau de programme Pyongyang", "italian"=>"Ufficio di programma Pyongyang", "english"=>"Pyongyang Programme Office"}}, {"id"=>"20041776", "label"=>{"german"=>"Finanzen, Personal, Administration", "french"=>"Finances, personnel, administration", "italian"=>"Finanze, personale, amministrazione", "english"=>"Finance, human resources, administration"}, "name"=>{"german"=>"Finanzen, Personal, Administration", "french"=>"Finances, personnel, administration", "italian"=>"Finanze, personale, amministrazione", "english"=>"Finance, human resources, administration"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041776",
+  "name": {
+    "german": "Finanzen, Personal, Administration",
+    "french": "Finances, personnel, administration",
+    "italian": "Finanze, personale, amministrazione",
+    "english": "Finance, human resources, administration"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    },
+    {
+      "id": "10000714",
+      "label": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      },
+      "name": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      }
+    },
+    {
+      "id": "10001755",
+      "label": {
+        "german": "Abteilung Europa, Asien und Amerika",
+        "french": "Division Europe, Asie et Amérique",
+        "italian": "Divisione Europa, Asia e America",
+        "english": "Division Europe, Asia and Americas"
+      },
+      "name": {
+        "german": "Abteilung Europa, Asien und Amerika",
+        "french": "Division Europe, Asie et Amérique",
+        "italian": "Divisione Europa, Asia e America",
+        "english": "Division Europe, Asia and Americas"
+      }
+    },
+    {
+      "id": "10010780",
+      "label": {
+        "german": "Programmbüro Pjöngjang",
+        "french": "Bureau de programme Pyongyang",
+        "italian": "Ufficio di programma Pyongyang",
+        "english": "Pyongyang Programme Office"
+      },
+      "name": {
+        "german": "Programmbüro Pjöngjang",
+        "french": "Bureau de programme Pyongyang",
+        "italian": "Ufficio di programma Pyongyang",
+        "english": "Pyongyang Programme Office"
+      }
+    },
+    {
+      "id": "20041776",
+      "label": {
+        "german": "Finanzen, Personal, Administration",
+        "french": "Finances, personnel, administration",
+        "italian": "Finanze, personale, amministrazione",
+        "english": "Finance, human resources, administration"
+      },
+      "name": {
+        "german": "Finanzen, Personal, Administration",
+        "french": "Finances, personnel, administration",
+        "italian": "Finanze, personale, amministrazione",
+        "english": "Finance, human resources, administration"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

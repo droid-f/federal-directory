@@ -1,1 +1,275 @@
-{"id"=>"20015384", "name"=>{"german"=>"Operationen Süd/Ost", "french"=>"Opérations Sud/Est", "italian"=>"Operazioni Sud/Est", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10004207", "name"=>{"german"=>"Makroökonomische Unterstützung", "french"=>"Soutien macroéconomique", "italian"=>"Sostegno macroeconomico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004204", "name"=>{"german"=>"Infrastrukturfinanzierung", "french"=>"Financement d'infrastructures", "italian"=>"Finanziamento dell'infrastruttura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004201", "name"=>{"german"=>"Handelsförderung", "french"=>"Promotion commerciale", "italian"=>"Promozione commerciale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004202", "name"=>{"german"=>"Privatsektorförderung", "french"=>"Développement du secteur privé", "italian"=>"Sviluppo del settore privato", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034402", "name"=>{"german"=>"Länder und Globales", "french"=>"Pays et portefeuille global", "italian"=>"Paesi e portafoglio globale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5156677", "surname"=>"Saladin", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 41741", "function"=>{"german"=>"Leiter/in Oper. WEOP / stv. LB-Leiter/in", "french"=>"Leiter/in Operationen Süd/Ost WEOP", "italian"=>"Leiter/in Operationen Süd/Ost WEOP", "english"=>"Leiter/in Oper. WEOP / stv. LB-Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9474208", "surname"=>"Schrader", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 41751", "function"=>{"german"=>"Ressortleiter/in WELG / Stv. Leiter WEOP", "french"=>"Ressortleiter/in WELG / Stv. Leiter WEOP", "italian"=>"Ressortleiter/in WELG / Stv. Leiter WEOP", "english"=>"Ressortleiter/in WELG / Stv. Leiter WEOP"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2983195", "surname"=>"Piller", "givenName"=>"Brigitte", "email"=>nil, "phone"=>"+41 58 46 30556", "function"=>{"german"=>"Assistent/in WEOP", "french"=>"Assistent/in WEOP", "italian"=>"Assistent/in WEOP", "english"=>"Assistent/in WEOP"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"20004879", "label"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}, "name"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}}, {"id"=>"10004199", "label"=>{"german"=>"Wirtschaftliche Zusammenarbeit und Entwicklung", "french"=>"Coopération et développement économiques", "italian"=>"Cooperazione e sviluppo economici", "english"=>""}, "name"=>{"german"=>"Wirtschaftliche Zusammenarbeit und Entwicklung", "french"=>"Coopération et développement économiques", "italian"=>"Cooperazione e sviluppo economici", "english"=>""}}, {"id"=>"20015384", "label"=>{"german"=>"Operationen Süd/Ost", "french"=>"Opérations Sud/Est", "italian"=>"Operazioni Sud/Est", "english"=>""}, "name"=>{"german"=>"Operationen Süd/Ost", "french"=>"Opérations Sud/Est", "italian"=>"Operazioni Sud/Est", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20015384",
+  "name": {
+    "german": "Operationen Süd/Ost",
+    "french": "Opérations Sud/Est",
+    "italian": "Operazioni Sud/Est",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10004207",
+      "name": {
+        "german": "Makroökonomische Unterstützung",
+        "french": "Soutien macroéconomique",
+        "italian": "Sostegno macroeconomico",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004204",
+      "name": {
+        "german": "Infrastrukturfinanzierung",
+        "french": "Financement d'infrastructures",
+        "italian": "Finanziamento dell'infrastruttura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004201",
+      "name": {
+        "german": "Handelsförderung",
+        "french": "Promotion commerciale",
+        "italian": "Promozione commerciale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004202",
+      "name": {
+        "german": "Privatsektorförderung",
+        "french": "Développement du secteur privé",
+        "italian": "Sviluppo del settore privato",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034402",
+      "name": {
+        "german": "Länder und Globales",
+        "french": "Pays et portefeuille global",
+        "italian": "Paesi e portafoglio globale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5156677",
+      "surname": "Saladin",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 41741",
+      "function": {
+        "german": "Leiter/in Oper. WEOP / stv. LB-Leiter/in",
+        "french": "Leiter/in Operationen Süd/Ost WEOP",
+        "italian": "Leiter/in Operationen Süd/Ost WEOP",
+        "english": "Leiter/in Oper. WEOP / stv. LB-Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9474208",
+      "surname": "Schrader",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 41751",
+      "function": {
+        "german": "Ressortleiter/in WELG / Stv. Leiter WEOP",
+        "french": "Ressortleiter/in WELG / Stv. Leiter WEOP",
+        "italian": "Ressortleiter/in WELG / Stv. Leiter WEOP",
+        "english": "Ressortleiter/in WELG / Stv. Leiter WEOP"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2983195",
+      "surname": "Piller",
+      "givenName": "Brigitte",
+      "email": null,
+      "phone": "+41 58 46 30556",
+      "function": {
+        "german": "Assistent/in WEOP",
+        "french": "Assistent/in WEOP",
+        "italian": "Assistent/in WEOP",
+        "english": "Assistent/in WEOP"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004879",
+      "label": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004199",
+      "label": {
+        "german": "Wirtschaftliche Zusammenarbeit und Entwicklung",
+        "french": "Coopération et développement économiques",
+        "italian": "Cooperazione e sviluppo economici",
+        "english": ""
+      },
+      "name": {
+        "german": "Wirtschaftliche Zusammenarbeit und Entwicklung",
+        "french": "Coopération et développement économiques",
+        "italian": "Cooperazione e sviluppo economici",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015384",
+      "label": {
+        "german": "Operationen Süd/Ost",
+        "french": "Opérations Sud/Est",
+        "italian": "Operazioni Sud/Est",
+        "english": ""
+      },
+      "name": {
+        "german": "Operationen Süd/Ost",
+        "french": "Opérations Sud/Est",
+        "italian": "Operazioni Sud/Est",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

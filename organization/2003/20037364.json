@@ -1,1 +1,158 @@
-{"id"=>"20037364", "name"=>{"german"=>"Kommissionen für Rechtsfragen (RK)", "french"=>"Commissions des affaires juridiques (CAJ)", "italian"=>"Commissioni degli affari giuridici (CAG)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7643207", "surname"=>"Peter", "givenName"=>"Simone", "email"=>nil, "phone"=>"+41 58 32 29747", "function"=>{"german"=>"Kommissionssekretärin RK", "french"=>"Kommissionssekretärin RK", "italian"=>"Kommissionssekretärin RK", "english"=>"Kommissionssekretärin RK"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2799630", "surname"=>"Kohler", "givenName"=>"Theres", "email"=>nil, "phone"=>"+41 58 32 29761", "function"=>{"german"=>"Stv. Kommissionssekretärin", "french"=>"Stv. Kommissionssekretärin", "italian"=>"Stv. Kommissionssekretärin", "english"=>"Stv. Kommissionssekretärin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037307", "label"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}, "name"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}}, {"id"=>"20037323", "label"=>{"german"=>"Kommissionen Gruppe II", "french"=>"Commissions groupe II", "italian"=>"Commissioni gruppo II", "english"=>""}, "name"=>{"german"=>"Kommissionen Gruppe II", "french"=>"Commissions groupe II", "italian"=>"Commissioni gruppo II", "english"=>""}}, {"id"=>"20037364", "label"=>{"german"=>"Kommissionen für Rechtsfragen (RK)", "french"=>"Commissions des affaires juridiques (CAJ)", "italian"=>"Commissioni degli affari giuridici (CAG)", "english"=>""}, "name"=>{"german"=>"Kommissionen für Rechtsfragen (RK)", "french"=>"Commissions des affaires juridiques (CAJ)", "italian"=>"Commissioni degli affari giuridici (CAG)", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037364",
+  "name": {
+    "german": "Kommissionen für Rechtsfragen (RK)",
+    "french": "Commissions des affaires juridiques (CAJ)",
+    "italian": "Commissioni degli affari giuridici (CAG)",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7643207",
+      "surname": "Peter",
+      "givenName": "Simone",
+      "email": null,
+      "phone": "+41 58 32 29747",
+      "function": {
+        "german": "Kommissionssekretärin RK",
+        "french": "Kommissionssekretärin RK",
+        "italian": "Kommissionssekretärin RK",
+        "english": "Kommissionssekretärin RK"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2799630",
+      "surname": "Kohler",
+      "givenName": "Theres",
+      "email": null,
+      "phone": "+41 58 32 29761",
+      "function": {
+        "german": "Stv. Kommissionssekretärin",
+        "french": "Stv. Kommissionssekretärin",
+        "italian": "Stv. Kommissionssekretärin",
+        "english": "Stv. Kommissionssekretärin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037307",
+      "label": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037323",
+      "label": {
+        "german": "Kommissionen Gruppe II",
+        "french": "Commissions groupe II",
+        "italian": "Commissioni gruppo II",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen Gruppe II",
+        "french": "Commissions groupe II",
+        "italian": "Commissioni gruppo II",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037364",
+      "label": {
+        "german": "Kommissionen für Rechtsfragen (RK)",
+        "french": "Commissions des affaires juridiques (CAJ)",
+        "italian": "Commissioni degli affari giuridici (CAG)",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen für Rechtsfragen (RK)",
+        "french": "Commissions des affaires juridiques (CAJ)",
+        "italian": "Commissioni degli affari giuridici (CAG)",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

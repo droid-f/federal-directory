@@ -1,1 +1,156 @@
-{"id"=>"10003867", "name"=>{"german"=>"Prüfbereich 2 EDA/EJPD", "french"=>"Domaines d’examen 2 DFAE / DFJP", "italian"=>"Settori di controllo 2 DFAE / DFGP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 45", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 463 11 75", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2502230", "surname"=>"Meyer", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 31175", "function"=>{"german"=>"Mandatsleiter Prüfbereich 2", "french"=>"Mandatsleiter Prüfbereich 2", "italian"=>"Mandatsleiter Prüfbereich 2", "english"=>"Mandatsleiter Prüfbereich 2"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008752", "label"=>{"german"=>"EFK", "french"=>"CDF", "italian"=>"CDF", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzkontrolle", "french"=>"Contrôle fédéral des finances", "italian"=>"Controllo federale delle finanze", "english"=>""}}, {"id"=>"10003862", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003865", "label"=>{"german"=>"Prüfbereiche", "french"=>"Domaines d'examen", "italian"=>"Settori di controllo", "english"=>""}, "name"=>{"german"=>"Prüfbereiche", "french"=>"Domaines d'examen", "italian"=>"Settori di controllo", "english"=>""}}, {"id"=>"10003867", "label"=>{"german"=>"Prüfbereich 2 EDA/EJPD", "french"=>"Domaines d’examen 2 DFAE / DFJP", "italian"=>"Settori di controllo 2 DFAE / DFGP", "english"=>""}, "name"=>{"german"=>"Prüfbereich 2 EDA/EJPD", "french"=>"Domaines d’examen 2 DFAE / DFJP", "italian"=>"Settori di controllo 2 DFAE / DFGP", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003867",
+  "name": {
+    "german": "Prüfbereich 2 EDA/EJPD",
+    "french": "Domaines d’examen 2 DFAE / DFJP",
+    "italian": "Settori di controllo 2 DFAE / DFGP",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 45",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 463 11 75",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2502230",
+      "surname": "Meyer",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 31175",
+      "function": {
+        "german": "Mandatsleiter Prüfbereich 2",
+        "french": "Mandatsleiter Prüfbereich 2",
+        "italian": "Mandatsleiter Prüfbereich 2",
+        "english": "Mandatsleiter Prüfbereich 2"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008752",
+      "label": {
+        "german": "EFK",
+        "french": "CDF",
+        "italian": "CDF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzkontrolle",
+        "french": "Contrôle fédéral des finances",
+        "italian": "Controllo federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003862",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003865",
+      "label": {
+        "german": "Prüfbereiche",
+        "french": "Domaines d'examen",
+        "italian": "Settori di controllo",
+        "english": ""
+      },
+      "name": {
+        "german": "Prüfbereiche",
+        "french": "Domaines d'examen",
+        "italian": "Settori di controllo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003867",
+      "label": {
+        "german": "Prüfbereich 2 EDA/EJPD",
+        "french": "Domaines d’examen 2 DFAE / DFJP",
+        "italian": "Settori di controllo 2 DFAE / DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Prüfbereich 2 EDA/EJPD",
+        "french": "Domaines d’examen 2 DFAE / DFJP",
+        "italian": "Settori di controllo 2 DFAE / DFGP",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

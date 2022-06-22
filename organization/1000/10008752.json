@@ -1,1 +1,109 @@
-{"id"=>"10008752", "name"=>{"german"=>"Eidgenössische Finanzkontrolle", "french"=>"Contrôle fédéral des finances", "italian"=>"Controllo federale delle finanze", "english"=>""}, "nameAbbr"=>{"german"=>"EFK", "french"=>"CDF", "italian"=>"CDF", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 45", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 463 11 11", "fax"=>"+41 58 463 11 00", "email"=>"info@efk.admin.ch", "homepage"=>{"german"=>"www.efk.admin.ch", "french"=>"www.efk.admin.ch", "italian"=>"www.efk.admin.ch", "english"=>""}}, "children"=>[{"id"=>"10003862", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008752", "label"=>{"german"=>"EFK", "french"=>"CDF", "italian"=>"CDF", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzkontrolle", "french"=>"Contrôle fédéral des finances", "italian"=>"Controllo federale delle finanze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10008752",
+  "name": {
+    "german": "Eidgenössische Finanzkontrolle",
+    "french": "Contrôle fédéral des finances",
+    "italian": "Controllo federale delle finanze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "EFK",
+    "french": "CDF",
+    "italian": "CDF",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 45",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 463 11 11",
+    "fax": "+41 58 463 11 00",
+    "email": "info@efk.admin.ch",
+    "homepage": {
+      "german": "www.efk.admin.ch",
+      "french": "www.efk.admin.ch",
+      "italian": "www.efk.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10003862",
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008752",
+      "label": {
+        "german": "EFK",
+        "french": "CDF",
+        "italian": "CDF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzkontrolle",
+        "french": "Contrôle fédéral des finances",
+        "italian": "Controllo federale delle finanze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

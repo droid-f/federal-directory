@@ -1,1 +1,199 @@
-{"id"=>"20003651", "name"=>{"german"=>"Kdo Höherer Unteroffizierslehrgang 49", "french"=>"Cdmt SF sous-officiers supérieurs 49", "italian"=>"Cdo Cfo suff sup 49", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo höh Uof LG 49", "street"=>"MK der Berner Truppen", "postalCode"=>"3000", "location"=>"Bern 22", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20013398", "name"=>{"german"=>"Kdt Stv / Stab / Planung 49", "french"=>"Rempl cdt / EM / planification 49", "italian"=>"Sost cdt / SM / Pianif 49", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013399", "name"=>{"german"=>"Fachausbildung Einheitsfeldweibel", "french"=>"Instruction spéc sergent-major d'unité", "italian"=>"Istr spec sergente maggiore d'unità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013400", "name"=>{"german"=>"Fachausbildung Einheitsfourier", "french"=>"Instruction spéc fourrier d'unité", "italian"=>"Istr spec furiere d'unità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015872", "label"=>{"german"=>"LVBLOG", "french"=>"LVBLOG", "italian"=>"LVBLOG", "english"=>""}, "name"=>{"german"=>"Lehrverband Logistik", "french"=>"Formation d'application de la logistique", "italian"=>"FOA della logistica", "english"=>""}}, {"id"=>"20003651", "label"=>{"german"=>"Kdo Höherer Unteroffizierslehrgang 49", "french"=>"Cdmt SF sous-officiers supérieurs 49", "italian"=>"Cdo Cfo suff sup 49", "english"=>""}, "name"=>{"german"=>"Kdo Höherer Unteroffizierslehrgang 49", "french"=>"Cdmt SF sous-officiers supérieurs 49", "italian"=>"Cdo Cfo suff sup 49", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003651",
+  "name": {
+    "german": "Kdo Höherer Unteroffizierslehrgang 49",
+    "french": "Cdmt SF sous-officiers supérieurs 49",
+    "italian": "Cdo Cfo suff sup 49",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo höh Uof LG 49",
+    "street": "MK der Berner Truppen",
+    "postalCode": "3000",
+    "location": "Bern 22",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20013398",
+      "name": {
+        "german": "Kdt Stv / Stab / Planung 49",
+        "french": "Rempl cdt / EM / planification 49",
+        "italian": "Sost cdt / SM / Pianif 49",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013399",
+      "name": {
+        "german": "Fachausbildung Einheitsfeldweibel",
+        "french": "Instruction spéc sergent-major d'unité",
+        "italian": "Istr spec sergente maggiore d'unità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013400",
+      "name": {
+        "german": "Fachausbildung Einheitsfourier",
+        "french": "Instruction spéc fourrier d'unité",
+        "italian": "Istr spec furiere d'unità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015872",
+      "label": {
+        "german": "LVBLOG",
+        "french": "LVBLOG",
+        "italian": "LVBLOG",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Logistik",
+        "french": "Formation d'application de la logistique",
+        "italian": "FOA della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003651",
+      "label": {
+        "german": "Kdo Höherer Unteroffizierslehrgang 49",
+        "french": "Cdmt SF sous-officiers supérieurs 49",
+        "italian": "Cdo Cfo suff sup 49",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Höherer Unteroffizierslehrgang 49",
+        "french": "Cdmt SF sous-officiers supérieurs 49",
+        "italian": "Cdo Cfo suff sup 49",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

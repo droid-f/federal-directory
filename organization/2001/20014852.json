@@ -1,1 +1,111 @@
-{"id"=>"20014852", "name"=>{"german"=>"Kanzlei Abteilung IV", "french"=>"Chancellerie de Cour IV", "italian"=>"Cancelleria della Corte IV", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8298867", "surname"=>"Wagner", "givenName"=>"Simone", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Leiter/in Abteilungskanzlei IV", "french"=>"Chef/fe de la chancellerie Cour IV", "italian"=>"Capo di cancelleria Corte IV", "english"=>"Leiter/in Abteilungskanzlei IV"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014851", "label"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}, "name"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}}, {"id"=>"20014852", "label"=>{"german"=>"Kanzlei Abteilung IV", "french"=>"Chancellerie de Cour IV", "italian"=>"Cancelleria della Corte IV", "english"=>""}, "name"=>{"german"=>"Kanzlei Abteilung IV", "french"=>"Chancellerie de Cour IV", "italian"=>"Cancelleria della Corte IV", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014852",
+  "name": {
+    "german": "Kanzlei Abteilung IV",
+    "french": "Chancellerie de Cour IV",
+    "italian": "Cancelleria della Corte IV",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8298867",
+      "surname": "Wagner",
+      "givenName": "Simone",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Leiter/in Abteilungskanzlei IV",
+        "french": "Chef/fe de la chancellerie Cour IV",
+        "italian": "Capo di cancelleria Corte IV",
+        "english": "Leiter/in Abteilungskanzlei IV"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014851",
+      "label": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014852",
+      "label": {
+        "german": "Kanzlei Abteilung IV",
+        "french": "Chancellerie de Cour IV",
+        "italian": "Cancelleria della Corte IV",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanzlei Abteilung IV",
+        "french": "Chancellerie de Cour IV",
+        "italian": "Cancelleria della Corte IV",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

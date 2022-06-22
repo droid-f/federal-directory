@@ -1,1 +1,224 @@
-{"id"=>"12060409@12.06", "name"=>{"german"=>"Sprachdienst", "french"=>"Services linguistiques", "italian"=>"Servizi linguistici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>177, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-0050242", "surname"=>"Muther Devaud", "givenName"=>"Natascha", "email"=>nil, "phone"=>"+41 31 377 75 59", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1772669", "surname"=>"Balmelli", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 31 377 75 04", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-2116174", "surname"=>"Darbellay", "givenName"=>"Elisabeth", "email"=>nil, "phone"=>"+41 31 377 75 21", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-3493123", "surname"=>"Loftus", "givenName"=>"Noelle", "email"=>nil, "phone"=>"+41 31 377 75 12", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-0682702", "surname"=>"Margiaria", "givenName"=>"Giulia", "email"=>nil, "phone"=>"+41 31 377 75 24", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XKRW1LMH", "surname"=>"McLellan", "givenName"=>"Fiona", "email"=>nil, "phone"=>"+41 31 377 75 26", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XMQ764K7", "surname"=>"Tschannen", "givenName"=>"Mireille", "email"=>nil, "phone"=>"+41 31 377 75 49", "function"=>{"german"=>"Mitarbeit", "french"=>"Mitarbeit", "italian"=>"Mitarbeit", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060400@12.06", "label"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}}, {"id"=>"12060409@12.06", "label"=>{"german"=>"Sprachdienst", "french"=>"Services linguistiques", "italian"=>"Servizi linguistici", "english"=>""}, "name"=>{"german"=>"Sprachdienst", "french"=>"Services linguistiques", "italian"=>"Servizi linguistici", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060409@12.06",
+  "name": {
+    "german": "Sprachdienst",
+    "french": "Services linguistiques",
+    "italian": "Servizi linguistici",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 177,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-0050242",
+      "surname": "Muther Devaud",
+      "givenName": "Natascha",
+      "email": null,
+      "phone": "+41 31 377 75 59",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1772669",
+      "surname": "Balmelli",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 31 377 75 04",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2116174",
+      "surname": "Darbellay",
+      "givenName": "Elisabeth",
+      "email": null,
+      "phone": "+41 31 377 75 21",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3493123",
+      "surname": "Loftus",
+      "givenName": "Noelle",
+      "email": null,
+      "phone": "+41 31 377 75 12",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0682702",
+      "surname": "Margiaria",
+      "givenName": "Giulia",
+      "email": null,
+      "phone": "+41 31 377 75 24",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XKRW1LMH",
+      "surname": "McLellan",
+      "givenName": "Fiona",
+      "email": null,
+      "phone": "+41 31 377 75 26",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XMQ764K7",
+      "surname": "Tschannen",
+      "givenName": "Mireille",
+      "email": null,
+      "phone": "+41 31 377 75 49",
+      "function": {
+        "german": "Mitarbeit",
+        "french": "Mitarbeit",
+        "italian": "Mitarbeit",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060400@12.06",
+      "label": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060409@12.06",
+      "label": {
+        "german": "Sprachdienst",
+        "french": "Services linguistiques",
+        "italian": "Servizi linguistici",
+        "english": ""
+      },
+      "name": {
+        "german": "Sprachdienst",
+        "french": "Services linguistiques",
+        "italian": "Servizi linguistici",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

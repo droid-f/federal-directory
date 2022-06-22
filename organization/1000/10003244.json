@@ -1,1 +1,262 @@
-{"id"=>"10003244", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 46 22111", "fax"=>"", "email"=>"info@efv.admin.ch", "homepage"=>{"german"=>"www.efv.admin.ch", "french"=>"www.efv.admin.ch", "italian"=>"www.efv.admin.ch", "english"=>""}}, "children"=>[{"id"=>"10003245", "name"=>{"german"=>"Direktionssekretariat", "french"=>"Secrétariat de direction", "italian"=>"Segreteria di direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003246", "name"=>{"german"=>"Stab, Personal, Kommunikation", "french"=>"Etat-Major, personnel et information", "italian"=>"Stato Maggiore, personale e informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003254", "name"=>{"german"=>"Ökonomische Analyse und Beratung", "french"=>"Analyse et conseil économiques", "italian"=>"Analisi economica e consulenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003251", "name"=>{"german"=>"Bundestresorerie", "french"=>"Trésorerie fédérale", "italian"=>"Tesoreria federale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003259", "name"=>{"german"=>"Finanzpolitik, Finanzausgleich, Finanzstatistik", "french"=>"Politique budgétaire, péréquation financière, statistique financière", "italian"=>"Politica finanziaria, perequazione finanziaria, statistica finanziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003272", "name"=>{"german"=>"Finanz- und Rechnungswesen Bund", "french"=>"Finances et comptabilité de la", "italian"=>"Finanze e contabilità della Co", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003292", "name"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003299", "name"=>{"german"=>"Recht und Risikomanagement", "french"=>"Droit et gestion des risques", "italian"=>"Diritto e gestione dei rischi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0579851", "surname"=>"D'Amelio-Favez", "givenName"=>"Sabine", "email"=>nil, "phone"=>"+41 58 46 05686", "function"=>{"german"=>"Direktorin", "french"=>"Directrice", "italian"=>"Direttrice", "english"=>"Direktorin"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0422118", "surname"=>"Schwendener", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 26009", "function"=>{"german"=>"Stv. Direktor - Leiter Finanzpolitik, Finanzausgleich, Finanzstatistik", "french"=>"Vize-directeur - Chef Politique budgétaire, péréquation financière, statistique financière", "italian"=>"Vicedirettore - Capo Politica finanziaria, perequazione finanziaria, statistica finanziaria", "english"=>"Stv. Dir. - L Fipol. FiAusg., FiStat."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10003244",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "EFV",
+    "french": "AFF",
+    "italian": "AFF",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 46 22111",
+    "fax": "",
+    "email": "info@efv.admin.ch",
+    "homepage": {
+      "german": "www.efv.admin.ch",
+      "french": "www.efv.admin.ch",
+      "italian": "www.efv.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10003245",
+      "name": {
+        "german": "Direktionssekretariat",
+        "french": "Secrétariat de direction",
+        "italian": "Segreteria di direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003246",
+      "name": {
+        "german": "Stab, Personal, Kommunikation",
+        "french": "Etat-Major, personnel et information",
+        "italian": "Stato Maggiore, personale e informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003254",
+      "name": {
+        "german": "Ökonomische Analyse und Beratung",
+        "french": "Analyse et conseil économiques",
+        "italian": "Analisi economica e consulenza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003251",
+      "name": {
+        "german": "Bundestresorerie",
+        "french": "Trésorerie fédérale",
+        "italian": "Tesoreria federale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003259",
+      "name": {
+        "german": "Finanzpolitik, Finanzausgleich, Finanzstatistik",
+        "french": "Politique budgétaire, péréquation financière, statistique financière",
+        "italian": "Politica finanziaria, perequazione finanziaria, statistica finanziaria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003272",
+      "name": {
+        "german": "Finanz- und Rechnungswesen Bund",
+        "french": "Finances et comptabilité de la",
+        "italian": "Finanze e contabilità della Co",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003292",
+      "name": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003299",
+      "name": {
+        "german": "Recht und Risikomanagement",
+        "french": "Droit et gestion des risques",
+        "italian": "Diritto e gestione dei rischi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0579851",
+      "surname": "D'Amelio-Favez",
+      "givenName": "Sabine",
+      "email": null,
+      "phone": "+41 58 46 05686",
+      "function": {
+        "german": "Direktorin",
+        "french": "Directrice",
+        "italian": "Direttrice",
+        "english": "Direktorin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0422118",
+      "surname": "Schwendener",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 26009",
+      "function": {
+        "german": "Stv. Direktor - Leiter Finanzpolitik, Finanzausgleich, Finanzstatistik",
+        "french": "Vize-directeur - Chef Politique budgétaire, péréquation financière, statistique financière",
+        "italian": "Vicedirettore - Capo Politica finanziaria, perequazione finanziaria, statistica finanziaria",
+        "english": "Stv. Dir. - L Fipol. FiAusg., FiStat."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

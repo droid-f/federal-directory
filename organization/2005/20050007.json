@@ -1,1 +1,185 @@
-{"id"=>"20050007", "name"=>{"german"=>"Stab SDIS", "french"=>"État-major SDIS", "italian"=>"SM SDIS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Aérodrome Milit bâtiment admin", "postalCode"=>"1530", "location"=>"Payerne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10008929", "label"=>{"german"=>"LW", "french"=>"LW", "italian"=>"LW", "english"=>""}, "name"=>{"german"=>"Luftwaffe", "french"=>"Forces aériennes", "italian"=>"Forze aeree", "english"=>""}}, {"id"=>"10005883", "label"=>{"german"=>"Flugplatzkommando Payerne", "french"=>"Commandement base aérienne Payerne", "italian"=>"Comando d'aerodromo Payerne", "english"=>""}, "name"=>{"german"=>"Flugplatzkommando Payerne", "french"=>"Commandement base aérienne Payerne", "italian"=>"Comando d'aerodromo Payerne", "english"=>""}}, {"id"=>"20050006", "label"=>{"german"=>"Feuerwehr und Rettungsdienst SDIS", "french"=>"Pompiers et service de sauvetage SDIS", "italian"=>"Pompieri e servizio di soccorso SDIS", "english"=>""}, "name"=>{"german"=>"Feuerwehr und Rettungsdienst SDIS", "french"=>"Pompiers et service de sauvetage SDIS", "italian"=>"Pompieri e servizio di soccorso SDIS", "english"=>""}}, {"id"=>"20050007", "label"=>{"german"=>"Stab SDIS", "french"=>"État-major SDIS", "italian"=>"SM SDIS", "english"=>""}, "name"=>{"german"=>"Stab SDIS", "french"=>"État-major SDIS", "italian"=>"SM SDIS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050007",
+  "name": {
+    "german": "Stab SDIS",
+    "french": "État-major SDIS",
+    "italian": "SM SDIS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Aérodrome Milit bâtiment admin",
+    "postalCode": "1530",
+    "location": "Payerne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008929",
+      "label": {
+        "german": "LW",
+        "french": "LW",
+        "italian": "LW",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftwaffe",
+        "french": "Forces aériennes",
+        "italian": "Forze aeree",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005883",
+      "label": {
+        "german": "Flugplatzkommando Payerne",
+        "french": "Commandement base aérienne Payerne",
+        "italian": "Comando d'aerodromo Payerne",
+        "english": ""
+      },
+      "name": {
+        "german": "Flugplatzkommando Payerne",
+        "french": "Commandement base aérienne Payerne",
+        "italian": "Comando d'aerodromo Payerne",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050006",
+      "label": {
+        "german": "Feuerwehr und Rettungsdienst SDIS",
+        "french": "Pompiers et service de sauvetage SDIS",
+        "italian": "Pompieri e servizio di soccorso SDIS",
+        "english": ""
+      },
+      "name": {
+        "german": "Feuerwehr und Rettungsdienst SDIS",
+        "french": "Pompiers et service de sauvetage SDIS",
+        "italian": "Pompieri e servizio di soccorso SDIS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050007",
+      "label": {
+        "german": "Stab SDIS",
+        "french": "État-major SDIS",
+        "italian": "SM SDIS",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab SDIS",
+        "french": "État-major SDIS",
+        "italian": "SM SDIS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

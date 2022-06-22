@@ -1,1 +1,141 @@
-{"id"=>"10009637", "name"=>{"german"=>"Stabsstelle Kommunikation", "french"=>"État-major Communication", "italian"=>"Stato maggiore Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584627985", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3197511", "surname"=>"Weibel Burkhalter", "givenName"=>"Anne", "email"=>nil, "phone"=>"+41 58 46 27985", "function"=>{"german"=>"Leiter/in Stabsstelle", "french"=>"Chef/fe d'état-major", "italian"=>"Capo di stato maggiore", "english"=>"Leiter/in Stabsstelle"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004326", "label"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}}, {"id"=>"10009637", "label"=>{"german"=>"Stabsstelle Kommunikation", "french"=>"État-major Communication", "italian"=>"Stato maggiore Comunicazione", "english"=>""}, "name"=>{"german"=>"Stabsstelle Kommunikation", "french"=>"État-major Communication", "italian"=>"Stato maggiore Comunicazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009637",
+  "name": {
+    "german": "Stabsstelle Kommunikation",
+    "french": "État-major Communication",
+    "italian": "Stato maggiore Comunicazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584627985",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3197511",
+      "surname": "Weibel Burkhalter",
+      "givenName": "Anne",
+      "email": null,
+      "phone": "+41 58 46 27985",
+      "function": {
+        "german": "Leiter/in Stabsstelle",
+        "french": "Chef/fe d'état-major",
+        "italian": "Capo di stato maggiore",
+        "english": "Leiter/in Stabsstelle"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004326",
+      "label": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009637",
+      "label": {
+        "german": "Stabsstelle Kommunikation",
+        "french": "État-major Communication",
+        "italian": "Stato maggiore Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Stabsstelle Kommunikation",
+        "french": "État-major Communication",
+        "italian": "Stato maggiore Comunicazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

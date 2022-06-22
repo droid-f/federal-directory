@@ -1,1 +1,158 @@
-{"id"=>"10000661", "name"=>{"german"=>"Umwelt, Energie und Gesundheit", "french"=>"Environnement, énergie et santé", "italian"=>"Ambiente, energia e salute", "english"=>"Environment, Energy and Health"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 28", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7663756", "surname"=>"Menzi", "givenName"=>"Brigitte", "email"=>nil, "phone"=>"+41 58 48 01881", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6819559", "surname"=>"Krebs", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 20834", "function"=>{"german"=>"Wissenschaftliche/r Mitarbeiter/in", "french"=>"Wissenschaftliche/r Mitarbeiter/in", "italian"=>"Wissenschaftliche/r Mitarbeiter/in", "english"=>"Wissenschaftliche/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000617", "label"=>{"german"=>"Wohlstand und Nachhaltigkeit", "french"=>"Prospérité et durabilité", "italian"=>"Prosperità e sostenibilità", "english"=>"Prosperity and Sustainability"}, "name"=>{"german"=>"Wohlstand und Nachhaltigkeit", "french"=>"Prospérité et durabilité", "italian"=>"Prosperità e sostenibilità", "english"=>"Prosperity and Sustainability"}}, {"id"=>"10000661", "label"=>{"german"=>"Umwelt, Energie und Gesundheit", "french"=>"Environnement, énergie et santé", "italian"=>"Ambiente, energia e salute", "english"=>"Environment, Energy and Health"}, "name"=>{"german"=>"Umwelt, Energie und Gesundheit", "french"=>"Environnement, énergie et santé", "italian"=>"Ambiente, energia e salute", "english"=>"Environment, Energy and Health"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000661",
+  "name": {
+    "german": "Umwelt, Energie und Gesundheit",
+    "french": "Environnement, énergie et santé",
+    "italian": "Ambiente, energia e salute",
+    "english": "Environment, Energy and Health"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 28",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7663756",
+      "surname": "Menzi",
+      "givenName": "Brigitte",
+      "email": null,
+      "phone": "+41 58 48 01881",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6819559",
+      "surname": "Krebs",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 20834",
+      "function": {
+        "german": "Wissenschaftliche/r Mitarbeiter/in",
+        "french": "Wissenschaftliche/r Mitarbeiter/in",
+        "italian": "Wissenschaftliche/r Mitarbeiter/in",
+        "english": "Wissenschaftliche/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000617",
+      "label": {
+        "german": "Wohlstand und Nachhaltigkeit",
+        "french": "Prospérité et durabilité",
+        "italian": "Prosperità e sostenibilità",
+        "english": "Prosperity and Sustainability"
+      },
+      "name": {
+        "german": "Wohlstand und Nachhaltigkeit",
+        "french": "Prospérité et durabilité",
+        "italian": "Prosperità e sostenibilità",
+        "english": "Prosperity and Sustainability"
+      }
+    },
+    {
+      "id": "10000661",
+      "label": {
+        "german": "Umwelt, Energie und Gesundheit",
+        "french": "Environnement, énergie et santé",
+        "italian": "Ambiente, energia e salute",
+        "english": "Environment, Energy and Health"
+      },
+      "name": {
+        "german": "Umwelt, Energie und Gesundheit",
+        "french": "Environnement, énergie et santé",
+        "italian": "Ambiente, energia e salute",
+        "english": "Environment, Energy and Health"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

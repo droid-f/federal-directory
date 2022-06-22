@@ -1,1 +1,158 @@
-{"id"=>"10003405", "name"=>{"german"=>"Kandidaturen", "french"=>"Candidatures", "italian"=>"Candidature", "english"=>"Candidatures"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 28", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3255917", "surname"=>"Gubler", "givenName"=>"Florian", "email"=>nil, "phone"=>"+41 58 46 46902", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8474394", "surname"=>"Schmidt", "givenName"=>"François", "email"=>nil, "phone"=>"+41 58 48 22550", "function"=>{"german"=>"Fachspezialist/in Konsul./Betriebs./Fin.", "french"=>"Fachspezialist/in Konsul./Betriebs./Fin.", "italian"=>"Fachspezialist/in Konsul./Betriebs./Fin.", "english"=>"Fachspezialist/in Konsul./Betriebs./Fin."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000615", "label"=>{"german"=>"UNO", "french"=>"ONU", "italian"=>"ONU", "english"=>"UN"}, "name"=>{"german"=>"UNO", "french"=>"ONU", "italian"=>"ONU", "english"=>"UN"}}, {"id"=>"10003405", "label"=>{"german"=>"Kandidaturen", "french"=>"Candidatures", "italian"=>"Candidature", "english"=>"Candidatures"}, "name"=>{"german"=>"Kandidaturen", "french"=>"Candidatures", "italian"=>"Candidature", "english"=>"Candidatures"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003405",
+  "name": {
+    "german": "Kandidaturen",
+    "french": "Candidatures",
+    "italian": "Candidature",
+    "english": "Candidatures"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 28",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3255917",
+      "surname": "Gubler",
+      "givenName": "Florian",
+      "email": null,
+      "phone": "+41 58 46 46902",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8474394",
+      "surname": "Schmidt",
+      "givenName": "François",
+      "email": null,
+      "phone": "+41 58 48 22550",
+      "function": {
+        "german": "Fachspezialist/in Konsul./Betriebs./Fin.",
+        "french": "Fachspezialist/in Konsul./Betriebs./Fin.",
+        "italian": "Fachspezialist/in Konsul./Betriebs./Fin.",
+        "english": "Fachspezialist/in Konsul./Betriebs./Fin."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000615",
+      "label": {
+        "german": "UNO",
+        "french": "ONU",
+        "italian": "ONU",
+        "english": "UN"
+      },
+      "name": {
+        "german": "UNO",
+        "french": "ONU",
+        "italian": "ONU",
+        "english": "UN"
+      }
+    },
+    {
+      "id": "10003405",
+      "label": {
+        "german": "Kandidaturen",
+        "french": "Candidatures",
+        "italian": "Candidature",
+        "english": "Candidatures"
+      },
+      "name": {
+        "german": "Kandidaturen",
+        "french": "Candidatures",
+        "italian": "Candidature",
+        "english": "Candidatures"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

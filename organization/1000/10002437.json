@@ -1,1 +1,302 @@
-{"id"=>"10002437", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"+41584622045", "email"=>"", "homepage"=>{"german"=>"www.bj.admin.ch", "french"=>"www.bj.admin.ch", "italian"=>"www.bj.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20031027", "name"=>{"german"=>"FB Information und Kommunikation", "french"=>"Unité Information et communication", "italian"=>"Settore Informazione e comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"IK", "french"=>"IK", "italian"=>"IK", "english"=>""}}, {"id"=>"10002438", "name"=>{"german"=>"Direktionsbereich Zentrale Dienste", "french"=>"Domaine de direction Services centraux", "italian"=>"Ambito direzionale Servizi centrali", "english"=>""}, "nameAbbr"=>{"german"=>"ZD", "french"=>"ZD", "italian"=>"ZD", "english"=>""}}, {"id"=>"10002452", "name"=>{"german"=>"Direktionsbereich Öffentliches Recht", "french"=>"Domaine de direction Droit public", "italian"=>"Ambito direzionale Diritto pubblico", "english"=>""}, "nameAbbr"=>{"german"=>"ÖFFR", "french"=>"ÖFFR", "italian"=>"ÖFFR", "english"=>""}}, {"id"=>"10002456", "name"=>{"german"=>"Direktionsbereich Privatrecht", "french"=>"Domaine de direction Droit privé", "italian"=>"Ambito direzionale Diritto privato", "english"=>""}, "nameAbbr"=>{"german"=>"PRIVAT", "french"=>"PRIVAT", "italian"=>"PRIVAT", "english"=>""}}, {"id"=>"10002465", "name"=>{"german"=>"Direktionsbereich Strafrecht", "french"=>"Domaine de direction Droit pénal", "italian"=>"Ambito direzionale Diritto penale", "english"=>""}, "nameAbbr"=>{"german"=>"STRAFR", "french"=>"STRAFR", "italian"=>"STRAFR", "english"=>""}}, {"id"=>"10009007", "name"=>{"german"=>"Direktionsbereich Internationale Rechtshilfe", "french"=>"Domaine de direction Entraide judiciaire internationale", "italian"=>"Ambito direzionale Assistenza giudiziaria internazionale", "english"=>""}, "nameAbbr"=>{"german"=>"IRH", "french"=>"IRH", "italian"=>"IRH", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3621233", "surname"=>"Schöll", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 24101", "function"=>{"german"=>"Direktor", "french"=>"Directeur", "italian"=>"Direttore", "english"=>"Direktor"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6945543", "surname"=>"Kuster", "givenName"=>"Susanne", "email"=>nil, "phone"=>"+41 58 46 24684", "function"=>{"german"=>"Stv. Direktorin, Chefin ÖFFR", "french"=>"Directrice suppléante, cheffe ÖFFR", "italian"=>"Direttrice supplente, Capo ÖFFR", "english"=>"Stv. Direktorin, Chefin ÖFFR"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8344961", "surname"=>"Brodard", "givenName"=>"Alexandre", "email"=>nil, "phone"=>"+41 58 46 58861", "function"=>{"german"=>"Direktionsadjunkt", "french"=>"Adjoint de direction", "italian"=>"Aggiunto di direzione", "english"=>"Direktionsadjunkt"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8507672", "surname"=>"Gandolfo", "givenName"=>"Caterina", "email"=>nil, "phone"=>"+41 58 46 24143", "function"=>{"german"=>"Direktionsassistentin", "french"=>"Assistante de direction", "italian"=>"Assistente di direzione", "english"=>"Direktionsassistentin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7691868", "surname"=>"Schultheiss", "givenName"=>"Maria", "email"=>nil, "phone"=>"+41 58 48 36299", "function"=>{"german"=>"Direktionsadjunktin", "french"=>"Adjointe de direction", "italian"=>"Aggiunta di direzione", "english"=>"Direktionsadjunktin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[{"id"=>194, "name"=>{"german"=>"Direktionsstab", "french"=>"Etat-major de la direction", "italian"=>"Stato maggiore della direzione", "english"=>""}, "email"=>nil, "phone"=>"+41 58 481 34 92", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}, {"id"=>171, "name"=>{"german"=>"Vertretung der Schweiz vor dem Europäischen Gerichtshof für Menschenrechte und dem Ausschuss gegen Folter", "french"=>"Représentation de la Suisse devant la Cour européenne des droits de l'homme et le Comité contre la torture", "italian"=>"Rappresentanza della Svizzera davanti alla Corte europea dei diritti dell'uomo e al Comitato contro la tortura", "english"=>""}, "email"=>nil, "phone"=>"+41 58 462 40 92", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "10002437",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "DIR",
+    "french": "DIR",
+    "italian": "DIR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "+41584622045",
+    "email": "",
+    "homepage": {
+      "german": "www.bj.admin.ch",
+      "french": "www.bj.admin.ch",
+      "italian": "www.bj.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20031027",
+      "name": {
+        "german": "FB Information und Kommunikation",
+        "french": "Unité Information et communication",
+        "italian": "Settore Informazione e comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "IK",
+        "french": "IK",
+        "italian": "IK",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002438",
+      "name": {
+        "german": "Direktionsbereich Zentrale Dienste",
+        "french": "Domaine de direction Services centraux",
+        "italian": "Ambito direzionale Servizi centrali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZD",
+        "french": "ZD",
+        "italian": "ZD",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002452",
+      "name": {
+        "german": "Direktionsbereich Öffentliches Recht",
+        "french": "Domaine de direction Droit public",
+        "italian": "Ambito direzionale Diritto pubblico",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ÖFFR",
+        "french": "ÖFFR",
+        "italian": "ÖFFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002456",
+      "name": {
+        "german": "Direktionsbereich Privatrecht",
+        "french": "Domaine de direction Droit privé",
+        "italian": "Ambito direzionale Diritto privato",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "PRIVAT",
+        "french": "PRIVAT",
+        "italian": "PRIVAT",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002465",
+      "name": {
+        "german": "Direktionsbereich Strafrecht",
+        "french": "Domaine de direction Droit pénal",
+        "italian": "Ambito direzionale Diritto penale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "STRAFR",
+        "french": "STRAFR",
+        "italian": "STRAFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009007",
+      "name": {
+        "german": "Direktionsbereich Internationale Rechtshilfe",
+        "french": "Domaine de direction Entraide judiciaire internationale",
+        "italian": "Ambito direzionale Assistenza giudiziaria internazionale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "IRH",
+        "french": "IRH",
+        "italian": "IRH",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3621233",
+      "surname": "Schöll",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 24101",
+      "function": {
+        "german": "Direktor",
+        "french": "Directeur",
+        "italian": "Direttore",
+        "english": "Direktor"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6945543",
+      "surname": "Kuster",
+      "givenName": "Susanne",
+      "email": null,
+      "phone": "+41 58 46 24684",
+      "function": {
+        "german": "Stv. Direktorin, Chefin ÖFFR",
+        "french": "Directrice suppléante, cheffe ÖFFR",
+        "italian": "Direttrice supplente, Capo ÖFFR",
+        "english": "Stv. Direktorin, Chefin ÖFFR"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8344961",
+      "surname": "Brodard",
+      "givenName": "Alexandre",
+      "email": null,
+      "phone": "+41 58 46 58861",
+      "function": {
+        "german": "Direktionsadjunkt",
+        "french": "Adjoint de direction",
+        "italian": "Aggiunto di direzione",
+        "english": "Direktionsadjunkt"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8507672",
+      "surname": "Gandolfo",
+      "givenName": "Caterina",
+      "email": null,
+      "phone": "+41 58 46 24143",
+      "function": {
+        "german": "Direktionsassistentin",
+        "french": "Assistante de direction",
+        "italian": "Assistente di direzione",
+        "english": "Direktionsassistentin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7691868",
+      "surname": "Schultheiss",
+      "givenName": "Maria",
+      "email": null,
+      "phone": "+41 58 48 36299",
+      "function": {
+        "german": "Direktionsadjunktin",
+        "french": "Adjointe de direction",
+        "italian": "Aggiunta di direzione",
+        "english": "Direktionsadjunktin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 194,
+      "name": {
+        "german": "Direktionsstab",
+        "french": "Etat-major de la direction",
+        "italian": "Stato maggiore della direzione",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 481 34 92",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    },
+    {
+      "id": 171,
+      "name": {
+        "german": "Vertretung der Schweiz vor dem Europäischen Gerichtshof für Menschenrechte und dem Ausschuss gegen Folter",
+        "french": "Représentation de la Suisse devant la Cour européenne des droits de l'homme et le Comité contre la torture",
+        "italian": "Rappresentanza della Svizzera davanti alla Corte europea dei diritti dell'uomo e al Comitato contro la tortura",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 462 40 92",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

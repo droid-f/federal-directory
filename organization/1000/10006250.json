@@ -1,1 +1,230 @@
-{"id"=>"10006250", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Dorigny", "postalCode"=>"1015", "location"=>"Lausanne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20039105", "name"=>{"german"=>"Public Relations", "french"=>"Relations publiques", "italian"=>"Pubbliche relazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025153", "name"=>{"german"=>"Dienst für Informatik", "french"=>"Service informatique", "italian"=>"Servizio informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025152", "name"=>{"german"=>"Dienst Logistik, Sicherheit und Buchbinderei", "french"=>"Service logistique, sécurité et atelier de reliure", "italian"=>"Servizio logistica, sicurezza e rilegatura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10006251", "name"=>{"german"=>"Direktionsbereich Recht und Wissenschaft", "french"=>"Domaine de direction juridique et scientifique", "italian"=>"Ambito direzionale giuridico e scientifico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10006252", "name"=>{"german"=>"Direktionsbereich Bibliothek", "french"=>"Domaine de direction bibliothèque", "italian"=>"Ambito direzionale biblioteca", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0182654", "surname"=>"Schmid", "givenName"=>"Christina", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Direktorin", "french"=>"Directrice", "italian"=>"Direttrice", "english"=>"Direktorin"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9968368", "surname"=>"Heckendorn Urscheler", "givenName"=>"Lukas", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Direktor, Co-Chef Recht und Wissenschaft", "french"=>"Directeur suppléant, co-Chef juridique et scientifique", "italian"=>"Direttore supplente, co-Capo giuridico e scientifico", "english"=>"Stv. Direktor, Co-Chef Recht u. Wissens."}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3238621", "surname"=>"Herentrey", "givenName"=>"Barbara", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Personalchefin", "french"=>"Cheffe du personnel", "italian"=>"Capo personale", "english"=>"Personalchefin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008750", "label"=>{"german"=>"SIR", "french"=>"ISDC", "italian"=>"ISDC", "english"=>""}, "name"=>{"german"=>"Schweizerisches Institut für Rechtsvergleichung", "french"=>"Institut suisse de droit comparé", "italian"=>"Istituto svizzero di diritto comparato", "english"=>""}}, {"id"=>"10006250", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10006250",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Dorigny",
+    "postalCode": "1015",
+    "location": "Lausanne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20039105",
+      "name": {
+        "german": "Public Relations",
+        "french": "Relations publiques",
+        "italian": "Pubbliche relazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025153",
+      "name": {
+        "german": "Dienst für Informatik",
+        "french": "Service informatique",
+        "italian": "Servizio informatica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025152",
+      "name": {
+        "german": "Dienst Logistik, Sicherheit und Buchbinderei",
+        "french": "Service logistique, sécurité et atelier de reliure",
+        "italian": "Servizio logistica, sicurezza e rilegatura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006251",
+      "name": {
+        "german": "Direktionsbereich Recht und Wissenschaft",
+        "french": "Domaine de direction juridique et scientifique",
+        "italian": "Ambito direzionale giuridico e scientifico",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006252",
+      "name": {
+        "german": "Direktionsbereich Bibliothek",
+        "french": "Domaine de direction bibliothèque",
+        "italian": "Ambito direzionale biblioteca",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0182654",
+      "surname": "Schmid",
+      "givenName": "Christina",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Direktorin",
+        "french": "Directrice",
+        "italian": "Direttrice",
+        "english": "Direktorin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9968368",
+      "surname": "Heckendorn Urscheler",
+      "givenName": "Lukas",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Direktor, Co-Chef Recht und Wissenschaft",
+        "french": "Directeur suppléant, co-Chef juridique et scientifique",
+        "italian": "Direttore supplente, co-Capo giuridico e scientifico",
+        "english": "Stv. Direktor, Co-Chef Recht u. Wissens."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3238621",
+      "surname": "Herentrey",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Personalchefin",
+        "french": "Cheffe du personnel",
+        "italian": "Capo personale",
+        "english": "Personalchefin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008750",
+      "label": {
+        "german": "SIR",
+        "french": "ISDC",
+        "italian": "ISDC",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Institut für Rechtsvergleichung",
+        "french": "Institut suisse de droit comparé",
+        "italian": "Istituto svizzero di diritto comparato",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006250",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

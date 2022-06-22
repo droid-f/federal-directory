@@ -1,1 +1,229 @@
-{"id"=>"10004223", "name"=>{"german"=>"Amerika", "french"=>"Amériques", "italian"=>"Americhe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6189891", "surname"=>"Lohr", "givenName"=>"Hervé", "email"=>nil, "phone"=>"+41 58 46 91762", "function"=>{"german"=>"Ressortleiter/in / Co-Stv. LBL BWAM", "french"=>"Ressortleiter/in / Co-Stv. LBL BWAM", "italian"=>"Ressortleiter/in / Co-Stv. LBL BWAM", "english"=>"Ressortleiter/in / Co-Stv. LBL BWAM"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6498789", "surname"=>"Lionnet", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 40828", "function"=>{"german"=>"Wiss. Mitarbeiter/in / Stv. RL BWAM", "french"=>"Wiss. Mitarbeiter/in / Stv. RL BWAM", "italian"=>"Wiss. Mitarbeiter/in / Stv. RL BWAM", "english"=>"Wiss. Mitarbeiter/in / Stv. RL BWAM"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1XW6M75H9", "surname"=>"Brengard", "givenName"=>"Marcel", "email"=>nil, "phone"=>"+41 58 46 53158", "function"=>{"german"=>"Hochschulpraktikant/in BWAM", "french"=>"Hochschulpraktikant/in BWAM", "italian"=>"Hochschulpraktikant/in BWAM", "english"=>"Hochschulpraktikant/in BWAM"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1825277", "surname"=>"Heidenthal-König", "givenName"=>"Edith", "email"=>nil, "phone"=>"+41 58 46 96041", "function"=>{"german"=>"Sachbearbeiter/in BWAM", "french"=>"Sachbearbeiter/in BWAM", "italian"=>"Sachbearbeiter/in BWAM", "english"=>"Sachbearbeiter/in BWAM"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4479959", "surname"=>"Kienast", "givenName"=>"Kevin", "email"=>nil, "phone"=>"+41 58 46 71808", "function"=>{"german"=>"Wiss. Mitarbeiter/in BWAM", "french"=>"Wiss. Mitarbeiter/in BWAM", "italian"=>"Wiss. Mitarbeiter/in BWAM", "english"=>"Wiss. Mitarbeiter/in BWAM"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"20004879", "label"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}, "name"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}}, {"id"=>"10004222", "label"=>{"german"=>"Bilaterale Wirtschaftsbeziehungen", "french"=>"Relations économiques bilatérales", "italian"=>"Relazioni economiche bilaterali", "english"=>""}, "name"=>{"german"=>"Bilaterale Wirtschaftsbeziehungen", "french"=>"Relations économiques bilatérales", "italian"=>"Relazioni economiche bilaterali", "english"=>""}}, {"id"=>"10004223", "label"=>{"german"=>"Amerika", "french"=>"Amériques", "italian"=>"Americhe", "english"=>""}, "name"=>{"german"=>"Amerika", "french"=>"Amériques", "italian"=>"Americhe", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004223",
+  "name": {
+    "german": "Amerika",
+    "french": "Amériques",
+    "italian": "Americhe",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6189891",
+      "surname": "Lohr",
+      "givenName": "Hervé",
+      "email": null,
+      "phone": "+41 58 46 91762",
+      "function": {
+        "german": "Ressortleiter/in / Co-Stv. LBL BWAM",
+        "french": "Ressortleiter/in / Co-Stv. LBL BWAM",
+        "italian": "Ressortleiter/in / Co-Stv. LBL BWAM",
+        "english": "Ressortleiter/in / Co-Stv. LBL BWAM"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6498789",
+      "surname": "Lionnet",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 40828",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in / Stv. RL BWAM",
+        "french": "Wiss. Mitarbeiter/in / Stv. RL BWAM",
+        "italian": "Wiss. Mitarbeiter/in / Stv. RL BWAM",
+        "english": "Wiss. Mitarbeiter/in / Stv. RL BWAM"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1XW6M75H9",
+      "surname": "Brengard",
+      "givenName": "Marcel",
+      "email": null,
+      "phone": "+41 58 46 53158",
+      "function": {
+        "german": "Hochschulpraktikant/in BWAM",
+        "french": "Hochschulpraktikant/in BWAM",
+        "italian": "Hochschulpraktikant/in BWAM",
+        "english": "Hochschulpraktikant/in BWAM"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1825277",
+      "surname": "Heidenthal-König",
+      "givenName": "Edith",
+      "email": null,
+      "phone": "+41 58 46 96041",
+      "function": {
+        "german": "Sachbearbeiter/in BWAM",
+        "french": "Sachbearbeiter/in BWAM",
+        "italian": "Sachbearbeiter/in BWAM",
+        "english": "Sachbearbeiter/in BWAM"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4479959",
+      "surname": "Kienast",
+      "givenName": "Kevin",
+      "email": null,
+      "phone": "+41 58 46 71808",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in BWAM",
+        "french": "Wiss. Mitarbeiter/in BWAM",
+        "italian": "Wiss. Mitarbeiter/in BWAM",
+        "english": "Wiss. Mitarbeiter/in BWAM"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004879",
+      "label": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004222",
+      "label": {
+        "german": "Bilaterale Wirtschaftsbeziehungen",
+        "french": "Relations économiques bilatérales",
+        "italian": "Relazioni economiche bilaterali",
+        "english": ""
+      },
+      "name": {
+        "german": "Bilaterale Wirtschaftsbeziehungen",
+        "french": "Relations économiques bilatérales",
+        "italian": "Relazioni economiche bilaterali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004223",
+      "label": {
+        "german": "Amerika",
+        "french": "Amériques",
+        "italian": "Americhe",
+        "english": ""
+      },
+      "name": {
+        "german": "Amerika",
+        "french": "Amériques",
+        "italian": "Americhe",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

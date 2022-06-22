@@ -1,1 +1,156 @@
-{"id"=>"20035206", "name"=>{"german"=>"Tierversuche und Auswertungen", "french"=>"Expérimentation animale et évaluations", "italian"=>"Sperimentazione animale e valutazioni", "english"=>"Animal Experimentation and Evaluations"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9097640", "surname"=>"Maissen", "givenName"=>"Otto", "email"=>nil, "phone"=>"+41 58 48 10832", "function"=>{"german"=>"Leiter/in FB Tierversuche und Auswertung", "french"=>"Leiter/in FB Tierversuche und Auswertung", "italian"=>"Leiter/in FB Tierversuche und Auswertung", "english"=>"Leiter/in FB Tierversuche und Auswertung"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035164", "label"=>{"german"=>"Tierschutz", "french"=>"Protection des animaux", "italian"=>"Protezione degli animali", "english"=>"Tierschutz"}, "name"=>{"german"=>"Tierschutz", "french"=>"Protection des animaux", "italian"=>"Protezione degli animali", "english"=>"Tierschutz"}}, {"id"=>"20035206", "label"=>{"german"=>"Tierversuche und Auswertungen", "french"=>"Expérimentation animale et évaluations", "italian"=>"Sperimentazione animale e valutazioni", "english"=>"Animal Experimentation and Evaluations"}, "name"=>{"german"=>"Tierversuche und Auswertungen", "french"=>"Expérimentation animale et évaluations", "italian"=>"Sperimentazione animale e valutazioni", "english"=>"Animal Experimentation and Evaluations"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035206",
+  "name": {
+    "german": "Tierversuche und Auswertungen",
+    "french": "Expérimentation animale et évaluations",
+    "italian": "Sperimentazione animale e valutazioni",
+    "english": "Animal Experimentation and Evaluations"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9097640",
+      "surname": "Maissen",
+      "givenName": "Otto",
+      "email": null,
+      "phone": "+41 58 48 10832",
+      "function": {
+        "german": "Leiter/in FB Tierversuche und Auswertung",
+        "french": "Leiter/in FB Tierversuche und Auswertung",
+        "italian": "Leiter/in FB Tierversuche und Auswertung",
+        "english": "Leiter/in FB Tierversuche und Auswertung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035164",
+      "label": {
+        "german": "Tierschutz",
+        "french": "Protection des animaux",
+        "italian": "Protezione degli animali",
+        "english": "Tierschutz"
+      },
+      "name": {
+        "german": "Tierschutz",
+        "french": "Protection des animaux",
+        "italian": "Protezione degli animali",
+        "english": "Tierschutz"
+      }
+    },
+    {
+      "id": "20035206",
+      "label": {
+        "german": "Tierversuche und Auswertungen",
+        "french": "Expérimentation animale et évaluations",
+        "italian": "Sperimentazione animale e valutazioni",
+        "english": "Animal Experimentation and Evaluations"
+      },
+      "name": {
+        "german": "Tierversuche und Auswertungen",
+        "french": "Expérimentation animale et évaluations",
+        "italian": "Sperimentazione animale e valutazioni",
+        "english": "Animal Experimentation and Evaluations"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

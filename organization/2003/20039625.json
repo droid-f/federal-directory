@@ -1,1 +1,139 @@
-{"id"=>"20039625", "name"=>{"german"=>"Urteilsvollzug", "french"=>"Excécution des jugements", "italian"=>"Esecuzione delle sentenze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049586", "name"=>{"german"=>"Urteilsvollzug Sachbearbeitung", "french"=>"Urteilsvollzug Sachbearbeitung", "italian"=>"Urteilsvollzug Sachbearbeitung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20033178", "label"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"20000929", "label"=>{"german"=>"BA Services", "french"=>"MPC Services", "italian"=>"MPC Services", "english"=>""}, "name"=>{"german"=>"BA Services", "french"=>"MPC Services", "italian"=>"MPC Services", "english"=>""}}, {"id"=>"20039625", "label"=>{"german"=>"Urteilsvollzug", "french"=>"Excécution des jugements", "italian"=>"Esecuzione delle sentenze", "english"=>""}, "name"=>{"german"=>"Urteilsvollzug", "french"=>"Excécution des jugements", "italian"=>"Esecuzione delle sentenze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039625",
+  "name": {
+    "german": "Urteilsvollzug",
+    "french": "Excécution des jugements",
+    "italian": "Esecuzione delle sentenze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049586",
+      "name": {
+        "german": "Urteilsvollzug Sachbearbeitung",
+        "french": "Urteilsvollzug Sachbearbeitung",
+        "italian": "Urteilsvollzug Sachbearbeitung",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033178",
+      "label": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000929",
+      "label": {
+        "german": "BA Services",
+        "french": "MPC Services",
+        "italian": "MPC Services",
+        "english": ""
+      },
+      "name": {
+        "german": "BA Services",
+        "french": "MPC Services",
+        "italian": "MPC Services",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039625",
+      "label": {
+        "german": "Urteilsvollzug",
+        "french": "Excécution des jugements",
+        "italian": "Esecuzione delle sentenze",
+        "english": ""
+      },
+      "name": {
+        "german": "Urteilsvollzug",
+        "french": "Excécution des jugements",
+        "italian": "Esecuzione delle sentenze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

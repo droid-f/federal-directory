@@ -1,1 +1,171 @@
-{"id"=>"20018702", "name"=>{"german"=>"Integrationsmanagement", "french"=>"Gestion de l'intégration", "italian"=>"Gestione dell'integrazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 118", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1193078", "surname"=>"Garcia", "givenName"=>"Manuel", "email"=>nil, "phone"=>"+41 58 46 90749", "function"=>{"german"=>"Leiter Integrationsmanagement", "french"=>"Chef Gestion de l'intégration", "italian"=>"Capo Gestione dell'integrazione", "english"=>"Leiter Integrationsmanagement"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003272", "label"=>{"german"=>"Finanz- und Rechnungswesen Bund", "french"=>"Finances et comptabilité de la", "italian"=>"Finanze e contabilità della Co", "english"=>""}, "name"=>{"german"=>"Finanz- und Rechnungswesen Bund", "french"=>"Finances et comptabilité de la", "italian"=>"Finanze e contabilità della Co", "english"=>""}}, {"id"=>"10008779", "label"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}}, {"id"=>"20018702", "label"=>{"german"=>"Integrationsmanagement", "french"=>"Gestion de l'intégration", "italian"=>"Gestione dell'integrazione", "english"=>""}, "name"=>{"german"=>"Integrationsmanagement", "french"=>"Gestion de l'intégration", "italian"=>"Gestione dell'integrazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018702",
+  "name": {
+    "german": "Integrationsmanagement",
+    "french": "Gestion de l'intégration",
+    "italian": "Gestione dell'integrazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 118",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1193078",
+      "surname": "Garcia",
+      "givenName": "Manuel",
+      "email": null,
+      "phone": "+41 58 46 90749",
+      "function": {
+        "german": "Leiter Integrationsmanagement",
+        "french": "Chef Gestion de l'intégration",
+        "italian": "Capo Gestione dell'integrazione",
+        "english": "Leiter Integrationsmanagement"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003272",
+      "label": {
+        "german": "Finanz- und Rechnungswesen Bund",
+        "french": "Finances et comptabilité de la",
+        "italian": "Finanze e contabilità della Co",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanz- und Rechnungswesen Bund",
+        "french": "Finances et comptabilité de la",
+        "italian": "Finanze e contabilità della Co",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008779",
+      "label": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018702",
+      "label": {
+        "german": "Integrationsmanagement",
+        "french": "Gestion de l'intégration",
+        "italian": "Gestione dell'integrazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Integrationsmanagement",
+        "french": "Gestion de l'intégration",
+        "italian": "Gestione dell'integrazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

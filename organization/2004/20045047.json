@@ -1,1 +1,260 @@
-{"id"=>"20045047", "name"=>{"german"=>"Region Bern", "french"=>"Région Berne", "italian"=>"Regione Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Morillonstrasse 75", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20045048", "name"=>{"german"=>"Partner und Administration BE", "french"=>"Partenaires et administration BE", "italian"=>"Partner e amministrazione BE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045055", "name"=>{"german"=>"Dublin und Rückkehr BE", "french"=>"Dublin et retour BE", "italian"=>"Dublino e ritorno BE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045051", "name"=>{"german"=>"Asylverfahren BE 1", "french"=>"Procédure d'asile BE 1", "italian"=>"Procedura d'asilo BE 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045052", "name"=>{"german"=>"Asylverfahren BE 2", "french"=>"Procédure d'asile BE 2", "italian"=>"Procedura d'asilo BE 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045053", "name"=>{"german"=>"Unterbringung und Projekte Regionen", "french"=>"Hébergement et projets des régions", "italian"=>"Alloggio e progetti regioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9892650", "surname"=>"Keller", "givenName"=>"David", "email"=>nil, "phone"=>"+41 58 46 51432", "function"=>{"german"=>"Chef/in Region", "french"=>"Chef/in Region", "italian"=>"Chef/in Region", "english"=>"Chef/in Region"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6841564", "surname"=>"Rothen", "givenName"=>"Dominique", "email"=>nil, "phone"=>"+41 58 46 55359", "function"=>{"german"=>"Chef/in Sektion / Stv. Chef/in Region", "french"=>"Chef/in Sektion / Stv. Chef/in Region", "italian"=>"Chef/in Sektion / Stv. Chef/in Region", "english"=>"Chef/in Sektion / Stv. Chef/in Region"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2554310", "surname"=>"Jost", "givenName"=>"Christina", "email"=>nil, "phone"=>"+41 58 48 14037", "function"=>{"german"=>"Assistent/in Chef Region", "french"=>"Assistent/in Chef Region", "italian"=>"Assistent/in Chef Region", "english"=>"Assistent/in Chef Region"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045047", "label"=>{"german"=>"Region Bern", "french"=>"Région Berne", "italian"=>"Regione Berna", "english"=>""}, "name"=>{"german"=>"Region Bern", "french"=>"Région Berne", "italian"=>"Regione Berna", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045047",
+  "name": {
+    "german": "Region Bern",
+    "french": "Région Berne",
+    "italian": "Regione Berna",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Morillonstrasse 75",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20045048",
+      "name": {
+        "german": "Partner und Administration BE",
+        "french": "Partenaires et administration BE",
+        "italian": "Partner e amministrazione BE",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045055",
+      "name": {
+        "german": "Dublin und Rückkehr BE",
+        "french": "Dublin et retour BE",
+        "italian": "Dublino e ritorno BE",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045051",
+      "name": {
+        "german": "Asylverfahren BE 1",
+        "french": "Procédure d'asile BE 1",
+        "italian": "Procedura d'asilo BE 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045052",
+      "name": {
+        "german": "Asylverfahren BE 2",
+        "french": "Procédure d'asile BE 2",
+        "italian": "Procedura d'asilo BE 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045053",
+      "name": {
+        "german": "Unterbringung und Projekte Regionen",
+        "french": "Hébergement et projets des régions",
+        "italian": "Alloggio e progetti regioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9892650",
+      "surname": "Keller",
+      "givenName": "David",
+      "email": null,
+      "phone": "+41 58 46 51432",
+      "function": {
+        "german": "Chef/in Region",
+        "french": "Chef/in Region",
+        "italian": "Chef/in Region",
+        "english": "Chef/in Region"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6841564",
+      "surname": "Rothen",
+      "givenName": "Dominique",
+      "email": null,
+      "phone": "+41 58 46 55359",
+      "function": {
+        "german": "Chef/in Sektion / Stv. Chef/in Region",
+        "french": "Chef/in Sektion / Stv. Chef/in Region",
+        "italian": "Chef/in Sektion / Stv. Chef/in Region",
+        "english": "Chef/in Sektion / Stv. Chef/in Region"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2554310",
+      "surname": "Jost",
+      "givenName": "Christina",
+      "email": null,
+      "phone": "+41 58 48 14037",
+      "function": {
+        "german": "Assistent/in Chef Region",
+        "french": "Assistent/in Chef Region",
+        "italian": "Assistent/in Chef Region",
+        "english": "Assistent/in Chef Region"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045047",
+      "label": {
+        "german": "Region Bern",
+        "french": "Région Berne",
+        "italian": "Regione Berna",
+        "english": ""
+      },
+      "name": {
+        "german": "Region Bern",
+        "french": "Région Berne",
+        "italian": "Regione Berna",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

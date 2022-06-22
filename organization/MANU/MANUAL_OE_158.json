@@ -1,1 +1,110 @@
-{"id"=>"MANUAL_OE_158", "name"=>{"german"=>"Kanton Genf", "french"=>"Canton de Genève", "italian"=>"Cantone di Ginevra", "english"=>""}, "nameAbbr"=>{"german"=>"GE", "french"=>"GE", "italian"=>"GE", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"MANUAL_OE_2", "label"=>{"german"=>"BV", "french"=>"BV", "italian"=>"BV", "english"=>""}, "name"=>{"german"=>"Bundesversammlung", "french"=>"Assemblée fédérale", "italian"=>"Assemblea federale", "english"=>""}}, {"id"=>"MANUAL_OE_4", "label"=>{"german"=>"SR", "french"=>"SR", "italian"=>"SR", "english"=>""}, "name"=>{"german"=>"Ständerat", "french"=>"Conseil des Etats", "italian"=>"Consiglio degli Stati", "english"=>""}}, {"id"=>"MANUAL_OE_135", "label"=>{"german"=>"Mitglieder", "french"=>"Mitglieder", "italian"=>"Mitglieder", "english"=>""}, "name"=>{"german"=>"Mitglieder", "french"=>"Membres", "italian"=>"Membri", "english"=>""}}, {"id"=>"MANUAL_OE_158", "label"=>{"german"=>"GE", "french"=>"GE", "italian"=>"GE", "english"=>""}, "name"=>{"german"=>"Kanton Genf", "french"=>"Canton de Genève", "italian"=>"Cantone di Ginevra", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "MANUAL_OE_158",
+  "name": {
+    "german": "Kanton Genf",
+    "french": "Canton de Genève",
+    "italian": "Cantone di Ginevra",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "GE",
+    "french": "GE",
+    "italian": "GE",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "MANUAL_OE_2",
+      "label": {
+        "german": "BV",
+        "french": "BV",
+        "italian": "BV",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesversammlung",
+        "french": "Assemblée fédérale",
+        "italian": "Assemblea federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_4",
+      "label": {
+        "german": "SR",
+        "french": "SR",
+        "italian": "SR",
+        "english": ""
+      },
+      "name": {
+        "german": "Ständerat",
+        "french": "Conseil des Etats",
+        "italian": "Consiglio degli Stati",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_135",
+      "label": {
+        "german": "Mitglieder",
+        "french": "Mitglieder",
+        "italian": "Mitglieder",
+        "english": ""
+      },
+      "name": {
+        "german": "Mitglieder",
+        "french": "Membres",
+        "italian": "Membri",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_158",
+      "label": {
+        "german": "GE",
+        "french": "GE",
+        "italian": "GE",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanton Genf",
+        "french": "Canton de Genève",
+        "italian": "Cantone di Ginevra",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

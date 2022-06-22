@@ -1,1 +1,139 @@
-{"id"=>"10000555", "name"=>{"german"=>"Stab Staatssekretariat", "french"=>"État-major Secrétariat d'État", "italian"=>"Stato maggiore Segreteria di Stato", "english"=>"State Secretariat Staff Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4886321", "surname"=>"Benesch", "givenName"=>"Rebekka", "email"=>nil, "phone"=>"+41 58 48 01827", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2584217", "surname"=>"Bron", "givenName"=>"Jérémie", "email"=>nil, "phone"=>"+41 58 46 27871", "function"=>{"german"=>"Diplomatische/r Mitarbeiter/in", "french"=>"Diplomatische/r Mitarbeiter/in", "italian"=>"Diplomatische/r Mitarbeiter/in", "english"=>"Diplomatische/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000555", "label"=>{"german"=>"Stab Staatssekretariat", "french"=>"État-major Secrétariat d'État", "italian"=>"Stato maggiore Segreteria di Stato", "english"=>"State Secretariat Staff Office"}, "name"=>{"german"=>"Stab Staatssekretariat", "french"=>"État-major Secrétariat d'État", "italian"=>"Stato maggiore Segreteria di Stato", "english"=>"State Secretariat Staff Office"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000555",
+  "name": {
+    "german": "Stab Staatssekretariat",
+    "french": "État-major Secrétariat d'État",
+    "italian": "Stato maggiore Segreteria di Stato",
+    "english": "State Secretariat Staff Office"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4886321",
+      "surname": "Benesch",
+      "givenName": "Rebekka",
+      "email": null,
+      "phone": "+41 58 48 01827",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2584217",
+      "surname": "Bron",
+      "givenName": "Jérémie",
+      "email": null,
+      "phone": "+41 58 46 27871",
+      "function": {
+        "german": "Diplomatische/r Mitarbeiter/in",
+        "french": "Diplomatische/r Mitarbeiter/in",
+        "italian": "Diplomatische/r Mitarbeiter/in",
+        "english": "Diplomatische/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000555",
+      "label": {
+        "german": "Stab Staatssekretariat",
+        "french": "État-major Secrétariat d'État",
+        "italian": "Stato maggiore Segreteria di Stato",
+        "english": "State Secretariat Staff Office"
+      },
+      "name": {
+        "german": "Stab Staatssekretariat",
+        "french": "État-major Secrétariat d'État",
+        "italian": "Stato maggiore Segreteria di Stato",
+        "english": "State Secretariat Staff Office"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

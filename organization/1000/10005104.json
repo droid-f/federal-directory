@@ -1,1 +1,174 @@
-{"id"=>"10005104", "name"=>{"german"=>"Human Resources", "french"=>"Service des Ressources humaines", "italian"=>"Servizio delle Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"Human.Resources@bger.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20015142", "name"=>{"german"=>"Finanz- und HR-Dienst Luzern", "french"=>"Services des finances et RH Lucerne", "italian"=>"Servizio delle finanze e RU Lucerna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0940654", "surname"=>"Lanz", "givenName"=>"Andrea", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Leiterin HR-Dienst", "french"=>"Responsable du service RH", "italian"=>"Responsabile del servizio RU", "english"=>"Leiterin HR-Dienst"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0744725", "surname"=>"Lippuner", "givenName"=>"Silvana", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Leiterin HR-Dienst", "french"=>"Suppl. responsable du service RH", "italian"=>"Suppl. responsabile del servizio RU", "english"=>"Stv. Leiterin HR-Dienst"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2322141", "surname"=>"Parisod Staneczek", "givenName"=>"Sandrine", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Leiterin HR-Dienst", "french"=>"Suppl. responsable du service RH", "italian"=>"Suppl. responsabile del servizio RU", "english"=>"Stv. Leiterin HR-Dienst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005095", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}}, {"id"=>"20014861", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}}, {"id"=>"10005104", "label"=>{"german"=>"Human Resources", "french"=>"Service des Ressources humaines", "italian"=>"Servizio delle Risorse umane", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Service des Ressources humaines", "italian"=>"Servizio delle Risorse umane", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005104",
+  "name": {
+    "german": "Human Resources",
+    "french": "Service des Ressources humaines",
+    "italian": "Servizio delle Risorse umane",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "Human.Resources@bger.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20015142",
+      "name": {
+        "german": "Finanz- und HR-Dienst Luzern",
+        "french": "Services des finances et RH Lucerne",
+        "italian": "Servizio delle finanze e RU Lucerna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0940654",
+      "surname": "Lanz",
+      "givenName": "Andrea",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Leiterin HR-Dienst",
+        "french": "Responsable du service RH",
+        "italian": "Responsabile del servizio RU",
+        "english": "Leiterin HR-Dienst"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0744725",
+      "surname": "Lippuner",
+      "givenName": "Silvana",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Leiterin HR-Dienst",
+        "french": "Suppl. responsable du service RH",
+        "italian": "Suppl. responsabile del servizio RU",
+        "english": "Stv. Leiterin HR-Dienst"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2322141",
+      "surname": "Parisod Staneczek",
+      "givenName": "Sandrine",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Leiterin HR-Dienst",
+        "french": "Suppl. responsable du service RH",
+        "italian": "Suppl. responsabile del servizio RU",
+        "english": "Stv. Leiterin HR-Dienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005095",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014861",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005104",
+      "label": {
+        "german": "Human Resources",
+        "french": "Service des Ressources humaines",
+        "italian": "Servizio delle Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Service des Ressources humaines",
+        "italian": "Servizio delle Risorse umane",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

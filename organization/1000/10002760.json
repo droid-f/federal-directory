@@ -1,1 +1,168 @@
-{"id"=>"10002760", "name"=>{"german"=>"Sektion Wasserqualität", "french"=>"Section Qualité des eaux", "italian"=>"Sezione Qualità delle acque", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 40", "postalCode"=>"3011", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-9417733", "surname"=>"Chassot", "givenName"=>"Georges", "email"=>nil, "phone"=>"+41 58 46 47693", "function"=>{"german"=>"Wissenschaftliche/r Mitarbeiter/in", "french"=>"Wissenschaftliche/r Mitarbeiter/in", "italian"=>"Wissenschaftliche/r Mitarbeiter/in", "english"=>"Wissenschaftliche/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035879", "label"=>{"german"=>"Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)", "french"=>"Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire", "italian"=>"Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)", "french"=>"Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire", "italian"=>"Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio", "english"=>""}}, {"id"=>"10002753", "label"=>{"german"=>"Abteilung Wasser", "french"=>"Division Eaux", "italian"=>"Divisione Acque", "english"=>""}, "name"=>{"german"=>"Abteilung Wasser", "french"=>"Division Eaux", "italian"=>"Divisione Acque", "english"=>""}}, {"id"=>"10002760", "label"=>{"german"=>"Sektion Wasserqualität", "french"=>"Section Qualité des eaux", "italian"=>"Sezione Qualità delle acque", "english"=>""}, "name"=>{"german"=>"Sektion Wasserqualität", "french"=>"Section Qualité des eaux", "italian"=>"Sezione Qualità delle acque", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002760",
+  "name": {
+    "german": "Sektion Wasserqualität",
+    "french": "Section Qualité des eaux",
+    "italian": "Sezione Qualità delle acque",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 40",
+    "postalCode": "3011",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-9417733",
+      "surname": "Chassot",
+      "givenName": "Georges",
+      "email": null,
+      "phone": "+41 58 46 47693",
+      "function": {
+        "german": "Wissenschaftliche/r Mitarbeiter/in",
+        "french": "Wissenschaftliche/r Mitarbeiter/in",
+        "italian": "Wissenschaftliche/r Mitarbeiter/in",
+        "english": "Wissenschaftliche/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035879",
+      "label": {
+        "german": "Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)",
+        "french": "Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire",
+        "italian": "Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Wasser, Biodiversität & Landschaft, Boden & Biotechnologie)",
+        "french": "Eaux / Espèces, écosystèmes, paysages / Sols et biotechnologie / EIE et organisation du territoire",
+        "italian": "Acque / Specie, ecosistemi, paesaggi / Suolo e biotecnologia / EIA e ordinamento del territorio",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002753",
+      "label": {
+        "german": "Abteilung Wasser",
+        "french": "Division Eaux",
+        "italian": "Divisione Acque",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Wasser",
+        "french": "Division Eaux",
+        "italian": "Divisione Acque",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002760",
+      "label": {
+        "german": "Sektion Wasserqualität",
+        "french": "Section Qualité des eaux",
+        "italian": "Sezione Qualità delle acque",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Wasserqualität",
+        "french": "Section Qualité des eaux",
+        "italian": "Sezione Qualità delle acque",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

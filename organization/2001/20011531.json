@@ -1,1 +1,244 @@
-{"id"=>"20011531", "name"=>{"german"=>"Tech Werkstätte / Raupenfahrzeuge ALC G", "french"=>"Ateliers technique / vhc chenillés CLA-G", "italian"=>"Officine tecni/Veicoli cingolati CLEs G", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Route du PAA", "postalCode"=>"1772", "location"=>"Grolley", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20011533", "name"=>{"german"=>"Raupenfahrzeugwerkstatt ALC Grolley", "french"=>"Atelier véhicules chenillés CLA-G", "italian"=>"Officina veicoli cingolati CLEs Grolley", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021251", "name"=>{"german"=>"Geschütz und Waffenwerkstatt ALC G", "french"=>"Atelier pces art / armement CLA-G", "italian"=>"Officina pezzi e armi CLEs Grolley", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011529", "name"=>{"german"=>"Kommunikationswerkstatt ALC Grolley", "french"=>"Atelier COMCA CLA-G", "italian"=>"Officina comunicazioni CLEs Grolley", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011532", "name"=>{"german"=>"Gepanzerte Radfahrzeugwerkstatt ALC G", "french"=>"Atelier véhicules blindés à pneus CLA-G", "italian"=>"Officina veicoli blindati ruotati CLEs G", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011530", "name"=>{"german"=>"STINGER Werkstatt ALC Grolley", "french"=>"Atelier STINGER CLA-G", "italian"=>"Officina STINGER CLEs Grolley", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20011514", "label"=>{"german"=>"Armeelogistikcenter Grolley", "french"=>"Centre logistique de l'armée Grolley", "italian"=>"Centro logistico dell'esercito Grolley", "english"=>""}, "name"=>{"german"=>"Armeelogistikcenter Grolley", "french"=>"Centre logistique de l'armée Grolley", "italian"=>"Centro logistico dell'esercito Grolley", "english"=>""}}, {"id"=>"20011520", "label"=>{"german"=>"Instandhaltung ALC Grolley", "french"=>"Maintenance CLA-G", "italian"=>"Manutenzione CLEs Grolley", "english"=>""}, "name"=>{"german"=>"Instandhaltung ALC Grolley", "french"=>"Maintenance CLA-G", "italian"=>"Manutenzione CLEs Grolley", "english"=>""}}, {"id"=>"20011531", "label"=>{"german"=>"Tech Werkstätte / Raupenfahrzeuge ALC G", "french"=>"Ateliers technique / vhc chenillés CLA-G", "italian"=>"Officine tecni/Veicoli cingolati CLEs G", "english"=>""}, "name"=>{"german"=>"Tech Werkstätte / Raupenfahrzeuge ALC G", "french"=>"Ateliers technique / vhc chenillés CLA-G", "italian"=>"Officine tecni/Veicoli cingolati CLEs G", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011531",
+  "name": {
+    "german": "Tech Werkstätte / Raupenfahrzeuge ALC G",
+    "french": "Ateliers technique / vhc chenillés CLA-G",
+    "italian": "Officine tecni/Veicoli cingolati CLEs G",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Route du PAA",
+    "postalCode": "1772",
+    "location": "Grolley",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20011533",
+      "name": {
+        "german": "Raupenfahrzeugwerkstatt ALC Grolley",
+        "french": "Atelier véhicules chenillés CLA-G",
+        "italian": "Officina veicoli cingolati CLEs Grolley",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021251",
+      "name": {
+        "german": "Geschütz und Waffenwerkstatt ALC G",
+        "french": "Atelier pces art / armement CLA-G",
+        "italian": "Officina pezzi e armi CLEs Grolley",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011529",
+      "name": {
+        "german": "Kommunikationswerkstatt ALC Grolley",
+        "french": "Atelier COMCA CLA-G",
+        "italian": "Officina comunicazioni CLEs Grolley",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011532",
+      "name": {
+        "german": "Gepanzerte Radfahrzeugwerkstatt ALC G",
+        "french": "Atelier véhicules blindés à pneus CLA-G",
+        "italian": "Officina veicoli blindati ruotati CLEs G",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011530",
+      "name": {
+        "german": "STINGER Werkstatt ALC Grolley",
+        "french": "Atelier STINGER CLA-G",
+        "italian": "Officina STINGER CLEs Grolley",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011514",
+      "label": {
+        "german": "Armeelogistikcenter Grolley",
+        "french": "Centre logistique de l'armée Grolley",
+        "italian": "Centro logistico dell'esercito Grolley",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeelogistikcenter Grolley",
+        "french": "Centre logistique de l'armée Grolley",
+        "italian": "Centro logistico dell'esercito Grolley",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011520",
+      "label": {
+        "german": "Instandhaltung ALC Grolley",
+        "french": "Maintenance CLA-G",
+        "italian": "Manutenzione CLEs Grolley",
+        "english": ""
+      },
+      "name": {
+        "german": "Instandhaltung ALC Grolley",
+        "french": "Maintenance CLA-G",
+        "italian": "Manutenzione CLEs Grolley",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011531",
+      "label": {
+        "german": "Tech Werkstätte / Raupenfahrzeuge ALC G",
+        "french": "Ateliers technique / vhc chenillés CLA-G",
+        "italian": "Officine tecni/Veicoli cingolati CLEs G",
+        "english": ""
+      },
+      "name": {
+        "german": "Tech Werkstätte / Raupenfahrzeuge ALC G",
+        "french": "Ateliers technique / vhc chenillés CLA-G",
+        "italian": "Officine tecni/Veicoli cingolati CLEs G",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

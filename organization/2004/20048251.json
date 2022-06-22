@@ -1,1 +1,180 @@
-{"id"=>"20048251", "name"=>{"german"=>"Referenten", "french"=>"Conseillers spécialisés", "italian"=>"Referenten", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-2477745", "surname"=>"Bloch", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 23782", "function"=>{"german"=>"Referent", "french"=>"Conseiller spécialisé", "italian"=>"Relatore", "english"=>"Referent"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5474720", "surname"=>"Gracin", "givenName"=>"Sven", "email"=>nil, "phone"=>"+41 58 48 19659", "function"=>{"german"=>"Referent", "french"=>"Conseillèr/e spécialisé/e", "italian"=>"Relatore", "english"=>"Referent"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2775136", "surname"=>"Papon", "givenName"=>"Marie", "email"=>nil, "phone"=>"+41 58 48 49142", "function"=>{"german"=>"Referentin", "french"=>"Conseillère spécialisée", "italian"=>"Relatore", "english"=>"Referentin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6843074", "surname"=>"Sahlfeld", "givenName"=>"Konrad", "email"=>nil, "phone"=>"+41 58 46 08146", "function"=>{"german"=>"Referent", "french"=>"Conseiller spécialisé", "italian"=>"Relatore", "english"=>"Referent"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}, {"id"=>"20028230", "label"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}}, {"id"=>"20048251", "label"=>{"german"=>"Referenten", "french"=>"Conseillers spécialisés", "italian"=>"Referenten", "english"=>""}, "name"=>{"german"=>"Referenten", "french"=>"Conseillers spécialisés", "italian"=>"Referenten", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048251",
+  "name": {
+    "german": "Referenten",
+    "french": "Conseillers spécialisés",
+    "italian": "Referenten",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-2477745",
+      "surname": "Bloch",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 23782",
+      "function": {
+        "german": "Referent",
+        "french": "Conseiller spécialisé",
+        "italian": "Relatore",
+        "english": "Referent"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5474720",
+      "surname": "Gracin",
+      "givenName": "Sven",
+      "email": null,
+      "phone": "+41 58 48 19659",
+      "function": {
+        "german": "Referent",
+        "french": "Conseillèr/e spécialisé/e",
+        "italian": "Relatore",
+        "english": "Referent"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2775136",
+      "surname": "Papon",
+      "givenName": "Marie",
+      "email": null,
+      "phone": "+41 58 48 49142",
+      "function": {
+        "german": "Referentin",
+        "french": "Conseillère spécialisée",
+        "italian": "Relatore",
+        "english": "Referentin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6843074",
+      "surname": "Sahlfeld",
+      "givenName": "Konrad",
+      "email": null,
+      "phone": "+41 58 46 08146",
+      "function": {
+        "german": "Referent",
+        "french": "Conseiller spécialisé",
+        "italian": "Relatore",
+        "english": "Referent"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028230",
+      "label": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048251",
+      "label": {
+        "german": "Referenten",
+        "french": "Conseillers spécialisés",
+        "italian": "Referenten",
+        "english": ""
+      },
+      "name": {
+        "german": "Referenten",
+        "french": "Conseillers spécialisés",
+        "italian": "Referenten",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

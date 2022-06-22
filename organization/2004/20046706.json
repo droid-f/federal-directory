@@ -1,1 +1,140 @@
-{"id"=>"20046706", "name"=>{"german"=>"Text", "french"=>"Textes", "italian"=>"Testi", "english"=>"Text"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000530", "label"=>{"german"=>"GS-EDA", "french"=>"SG-DFAE", "italian"=>"SG-DFAE", "english"=>"FDFA-GS"}, "name"=>{"german"=>"Generalsekretariat EDA", "french"=>"Secrétariat général DFAE", "italian"=>"Segreteria generale DFAE", "english"=>"FDFA General Secretariat"}}, {"id"=>"10000543", "label"=>{"german"=>"Kommunikation EDA", "french"=>"Communication DFAE", "italian"=>"Comunicazione DFAE", "english"=>"FDFA Communication"}, "name"=>{"german"=>"Kommunikation EDA", "french"=>"Communication DFAE", "italian"=>"Comunicazione DFAE", "english"=>"FDFA Communication"}}, {"id"=>"10000731", "label"=>{"german"=>"Inhalte", "french"=>"Contenus", "italian"=>"Contenuti", "english"=>"Content"}, "name"=>{"german"=>"Inhalte", "french"=>"Contenus", "italian"=>"Contenuti", "english"=>"Content"}}, {"id"=>"20046706", "label"=>{"german"=>"Text", "french"=>"Textes", "italian"=>"Testi", "english"=>"Text"}, "name"=>{"german"=>"Text", "french"=>"Textes", "italian"=>"Testi", "english"=>"Text"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046706",
+  "name": {
+    "german": "Text",
+    "french": "Textes",
+    "italian": "Testi",
+    "english": "Text"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000530",
+      "label": {
+        "german": "GS-EDA",
+        "french": "SG-DFAE",
+        "italian": "SG-DFAE",
+        "english": "FDFA-GS"
+      },
+      "name": {
+        "german": "Generalsekretariat EDA",
+        "french": "Secrétariat général DFAE",
+        "italian": "Segreteria generale DFAE",
+        "english": "FDFA General Secretariat"
+      }
+    },
+    {
+      "id": "10000543",
+      "label": {
+        "german": "Kommunikation EDA",
+        "french": "Communication DFAE",
+        "italian": "Comunicazione DFAE",
+        "english": "FDFA Communication"
+      },
+      "name": {
+        "german": "Kommunikation EDA",
+        "french": "Communication DFAE",
+        "italian": "Comunicazione DFAE",
+        "english": "FDFA Communication"
+      }
+    },
+    {
+      "id": "10000731",
+      "label": {
+        "german": "Inhalte",
+        "french": "Contenus",
+        "italian": "Contenuti",
+        "english": "Content"
+      },
+      "name": {
+        "german": "Inhalte",
+        "french": "Contenus",
+        "italian": "Contenuti",
+        "english": "Content"
+      }
+    },
+    {
+      "id": "20046706",
+      "label": {
+        "german": "Text",
+        "french": "Textes",
+        "italian": "Testi",
+        "english": "Text"
+      },
+      "name": {
+        "german": "Text",
+        "french": "Textes",
+        "italian": "Testi",
+        "english": "Text"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

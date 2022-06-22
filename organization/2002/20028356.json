@@ -1,1 +1,173 @@
-{"id"=>"20028356", "name"=>{"german"=>"Safeguards", "french"=>"Safeguards", "italian"=>"Safeguards", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5973771", "surname"=>"Georg", "givenName"=>"Uwe", "email"=>nil, "phone"=>"+41 58 46 25642", "function"=>{"german"=>"Leiter/in Safeguards", "french"=>"Leiter/in Safeguards", "italian"=>"Leiter/in Safeguards", "english"=>"Leiter/in Safeguards"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9359038", "surname"=>"Medici", "givenName"=>"Fausto", "email"=>nil, "phone"=>"+41 58 46 25799", "function"=>{"german"=>"Fachspezialist/in Safeguards / Stv.", "french"=>"Fachspezialist/in Safeguards / Stv.", "italian"=>"Fachspezialist/in Safeguards / Stv.", "english"=>"Fachspezialist/in Safeguards / Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20034529", "label"=>{"german"=>"Abteilung Aufsicht und Sicherheit", "french"=>"Division Surveillance et sécurité", "italian"=>"Divisione Vigilanza e sicurezza", "english"=>""}, "name"=>{"german"=>"Abteilung Aufsicht und Sicherheit", "french"=>"Division Surveillance et sécurité", "italian"=>"Divisione Vigilanza e sicurezza", "english"=>""}}, {"id"=>"20028356", "label"=>{"german"=>"Safeguards", "french"=>"Safeguards", "italian"=>"Safeguards", "english"=>""}, "name"=>{"german"=>"Safeguards", "french"=>"Safeguards", "italian"=>"Safeguards", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20028356",
+  "name": {
+    "german": "Safeguards",
+    "french": "Safeguards",
+    "italian": "Safeguards",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5973771",
+      "surname": "Georg",
+      "givenName": "Uwe",
+      "email": null,
+      "phone": "+41 58 46 25642",
+      "function": {
+        "german": "Leiter/in Safeguards",
+        "french": "Leiter/in Safeguards",
+        "italian": "Leiter/in Safeguards",
+        "english": "Leiter/in Safeguards"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9359038",
+      "surname": "Medici",
+      "givenName": "Fausto",
+      "email": null,
+      "phone": "+41 58 46 25799",
+      "function": {
+        "german": "Fachspezialist/in Safeguards / Stv.",
+        "french": "Fachspezialist/in Safeguards / Stv.",
+        "italian": "Fachspezialist/in Safeguards / Stv.",
+        "english": "Fachspezialist/in Safeguards / Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034529",
+      "label": {
+        "german": "Abteilung Aufsicht und Sicherheit",
+        "french": "Division Surveillance et sécurité",
+        "italian": "Divisione Vigilanza e sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Aufsicht und Sicherheit",
+        "french": "Division Surveillance et sécurité",
+        "italian": "Divisione Vigilanza e sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028356",
+      "label": {
+        "german": "Safeguards",
+        "french": "Safeguards",
+        "italian": "Safeguards",
+        "english": ""
+      },
+      "name": {
+        "german": "Safeguards",
+        "french": "Safeguards",
+        "italian": "Safeguards",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

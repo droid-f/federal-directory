@@ -1,1 +1,247 @@
-{"id"=>"10002558", "name"=>{"german"=>"Abteilung Betriebswirtschaft und Organisation", "french"=>"Division Organisation et gestion administrative", "italian"=>"Divisione Economia aziendale e organizzazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10002560", "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037430", "name"=>{"german"=>"Logistik", "french"=>"Logistique", "italian"=>"Logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002559", "name"=>{"german"=>"Finanzen und Controlling", "french"=>"Finances et controlling", "italian"=>"Finanze e controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10013376", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20002452", "name"=>{"german"=>"Übersetzungsdienst Französisch", "french"=>"Service de traduction en langue française", "italian"=>"Servizio linguistico francese", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024051", "name"=>{"german"=>"Lernende", "french"=>"Apprentis/es", "italian"=>"Apprendisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2501972", "surname"=>"Bühlmann", "givenName"=>"Ralph", "email"=>nil, "phone"=>"+41 58 46 11260", "function"=>{"german"=>"Leiter/in BWO", "french"=>"Leiter/in BWO", "italian"=>"Leiter/in BWO", "english"=>"Leiter/in BWO"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1025789", "surname"=>"Miguez", "givenName"=>"Estefania", "email"=>nil, "phone"=>"+41 58 46 99169", "function"=>{"german"=>"Leiter/in Finanzen und Controll./Stv.BWO", "french"=>"Leiter/in Finanzen und Controll./Stv.BWO", "italian"=>"Leiter/in Finanzen und Controll./Stv.BWO", "english"=>"Leiter/in Finanzen und Controll./Stv.BWO"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002558", "label"=>{"german"=>"Abteilung Betriebswirtschaft und Organisation", "french"=>"Division Organisation et gestion administrative", "italian"=>"Divisione Economia aziendale e organizzazione", "english"=>""}, "name"=>{"german"=>"Abteilung Betriebswirtschaft und Organisation", "french"=>"Division Organisation et gestion administrative", "italian"=>"Divisione Economia aziendale e organizzazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002558",
+  "name": {
+    "german": "Abteilung Betriebswirtschaft und Organisation",
+    "french": "Division Organisation et gestion administrative",
+    "italian": "Divisione Economia aziendale e organizzazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10002560",
+      "name": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037430",
+      "name": {
+        "german": "Logistik",
+        "french": "Logistique",
+        "italian": "Logistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002559",
+      "name": {
+        "german": "Finanzen und Controlling",
+        "french": "Finances et controlling",
+        "italian": "Finanze e controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013376",
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002452",
+      "name": {
+        "german": "Übersetzungsdienst Französisch",
+        "french": "Service de traduction en langue française",
+        "italian": "Servizio linguistico francese",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024051",
+      "name": {
+        "german": "Lernende",
+        "french": "Apprentis/es",
+        "italian": "Apprendisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2501972",
+      "surname": "Bühlmann",
+      "givenName": "Ralph",
+      "email": null,
+      "phone": "+41 58 46 11260",
+      "function": {
+        "german": "Leiter/in BWO",
+        "french": "Leiter/in BWO",
+        "italian": "Leiter/in BWO",
+        "english": "Leiter/in BWO"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1025789",
+      "surname": "Miguez",
+      "givenName": "Estefania",
+      "email": null,
+      "phone": "+41 58 46 99169",
+      "function": {
+        "german": "Leiter/in Finanzen und Controll./Stv.BWO",
+        "french": "Leiter/in Finanzen und Controll./Stv.BWO",
+        "italian": "Leiter/in Finanzen und Controll./Stv.BWO",
+        "english": "Leiter/in Finanzen und Controll./Stv.BWO"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002558",
+      "label": {
+        "german": "Abteilung Betriebswirtschaft und Organisation",
+        "french": "Division Organisation et gestion administrative",
+        "italian": "Divisione Economia aziendale e organizzazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Betriebswirtschaft und Organisation",
+        "french": "Division Organisation et gestion administrative",
+        "italian": "Divisione Economia aziendale e organizzazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

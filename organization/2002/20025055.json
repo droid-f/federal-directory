@@ -1,1 +1,173 @@
-{"id"=>"20025055", "name"=>{"german"=>"Versicherungen und Risiken", "french"=>"Assurances et risques", "italian"=>"Assicurazioni e rischi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7545515", "surname"=>"Gerber", "givenName"=>"David", "email"=>nil, "phone"=>"+41 58 46 51528", "function"=>{"german"=>"Leiter/in Versicherungen und nachhaltige Finanzen", "french"=>"Leiter/in Versicherungen u. Risiken", "italian"=>"Leiter/in Versicherungen u. Risiken", "english"=>"Leiter/in Versicherungen u. Risiken"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2964920", "surname"=>"Baumann", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 48 56832", "function"=>{"german"=>"Leiter/in Taskforce Nachhaltige Finanzen", "french"=>"Stv. Leiter/in Versicherungen u. Risiken", "italian"=>"Stv. Leiter/in Versicherungen u. Risiken", "english"=>"Leiter/in Taskforce Nachhaltige Finanzen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"20025051", "label"=>{"german"=>"SIF", "french"=>"SFI", "italian"=>"SFI", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für internationale Finanzfragen", "french"=>"Secrétariat d'Etat aux questions financières internationales", "italian"=>"Segreteria di Stato per le questioni finanziarie internazionali", "english"=>""}}, {"id"=>"20041505", "label"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}, "name"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}}, {"id"=>"20025057", "label"=>{"german"=>"Finanzsystem und Finanzmärkte", "french"=>"Système financier et marchés financiers", "italian"=>"Sistema finanziario e mercati finanziari", "english"=>""}, "name"=>{"german"=>"Finanzsystem und Finanzmärkte", "french"=>"Système financier et marchés financiers", "italian"=>"Sistema finanziario e mercati finanziari", "english"=>""}}, {"id"=>"20025055", "label"=>{"german"=>"Versicherungen und Risiken", "french"=>"Assurances et risques", "italian"=>"Assicurazioni e rischi", "english"=>""}, "name"=>{"german"=>"Versicherungen und Risiken", "french"=>"Assurances et risques", "italian"=>"Assicurazioni e rischi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025055",
+  "name": {
+    "german": "Versicherungen und Risiken",
+    "french": "Assurances et risques",
+    "italian": "Assicurazioni e rischi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7545515",
+      "surname": "Gerber",
+      "givenName": "David",
+      "email": null,
+      "phone": "+41 58 46 51528",
+      "function": {
+        "german": "Leiter/in Versicherungen und nachhaltige Finanzen",
+        "french": "Leiter/in Versicherungen u. Risiken",
+        "italian": "Leiter/in Versicherungen u. Risiken",
+        "english": "Leiter/in Versicherungen u. Risiken"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2964920",
+      "surname": "Baumann",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 48 56832",
+      "function": {
+        "german": "Leiter/in Taskforce Nachhaltige Finanzen",
+        "french": "Stv. Leiter/in Versicherungen u. Risiken",
+        "italian": "Stv. Leiter/in Versicherungen u. Risiken",
+        "english": "Leiter/in Taskforce Nachhaltige Finanzen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025051",
+      "label": {
+        "german": "SIF",
+        "french": "SFI",
+        "italian": "SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für internationale Finanzfragen",
+        "french": "Secrétariat d'Etat aux questions financières internationales",
+        "italian": "Segreteria di Stato per le questioni finanziarie internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041505",
+      "label": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025057",
+      "label": {
+        "german": "Finanzsystem und Finanzmärkte",
+        "french": "Système financier et marchés financiers",
+        "italian": "Sistema finanziario e mercati finanziari",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzsystem und Finanzmärkte",
+        "french": "Système financier et marchés financiers",
+        "italian": "Sistema finanziario e mercati finanziari",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025055",
+      "label": {
+        "german": "Versicherungen und Risiken",
+        "french": "Assurances et risques",
+        "italian": "Assicurazioni e rischi",
+        "english": ""
+      },
+      "name": {
+        "german": "Versicherungen und Risiken",
+        "french": "Assurances et risques",
+        "italian": "Assicurazioni e rischi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

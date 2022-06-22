@@ -1,1 +1,277 @@
-{"id"=>"10003872", "name"=>{"german"=>"Fachbereiche", "french"=>"Centres de compétences", "italian"=>"Centri di competenze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 45", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 463 10 39", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10003873", "name"=>{"german"=>"Finanzaufsichtsprüfungen 1", "french"=>"Surveillance financière 1", "italian"=>"Verifiche vigilanza finanziaria 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003874", "name"=>{"german"=>"Finanzaufsichtsprüfungen 2", "french"=>"Surveillance financière 2", "italian"=>"Verifiche vigilanza finanziaria 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003875", "name"=>{"german"=>"Finanzaufsichtsprüfungen 3", "french"=>"Surveillance financière 3", "italian"=>"Verifiche vigilanza finanziaria 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003876", "name"=>{"german"=>"Finanzaufsichtsprüfungen 4", "french"=>"Surveillance financière 4", "italian"=>"Verifiche vigilanza finanziaria 4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003877", "name"=>{"german"=>"Bau- und Beschaffungsprüfungen", "french"=>"Audits des constructions et des achats", "italian"=>"Verifiche costruzioni e acquisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10013675", "name"=>{"german"=>"Evaluationen", "french"=>"Evaluations", "italian"=>"Valutazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035926", "name"=>{"german"=>"Projekt- und Organisationsprüfungen", "french"=>"Audits de projets et d’organisation", "italian"=>"Verifiche progetti e organizzazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043902", "name"=>{"german"=>"Informatikprüfungen", "french"=>"Audits informatiques", "italian"=>"Verifiche informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4486538", "surname"=>"Jeannet", "givenName"=>"Eric-Serge", "email"=>nil, "phone"=>"+41 58 46 31039", "function"=>{"german"=>"Vizedir. Fachbereiche", "french"=>"Vizedir. Fachbereiche", "italian"=>"Vizedir. Fachbereiche", "english"=>"Vizedir. Fachbereiche"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3151768", "surname"=>"Köhli", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 31068", "function"=>{"german"=>"Leiter. Fachber.Fiaufsicht 1", "french"=>"Leiter. Fachber.Fiaufsicht 1", "italian"=>"Leiter. Fachber.Fiaufsicht 1", "english"=>"Leiter. Fachber.Fiaufsicht 1"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008752", "label"=>{"german"=>"EFK", "french"=>"CDF", "italian"=>"CDF", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzkontrolle", "french"=>"Contrôle fédéral des finances", "italian"=>"Controllo federale delle finanze", "english"=>""}}, {"id"=>"10003862", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003872", "label"=>{"german"=>"Fachbereiche", "french"=>"Centres de compétences", "italian"=>"Centri di competenze", "english"=>""}, "name"=>{"german"=>"Fachbereiche", "french"=>"Centres de compétences", "italian"=>"Centri di competenze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003872",
+  "name": {
+    "german": "Fachbereiche",
+    "french": "Centres de compétences",
+    "italian": "Centri di competenze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 45",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 463 10 39",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10003873",
+      "name": {
+        "german": "Finanzaufsichtsprüfungen 1",
+        "french": "Surveillance financière 1",
+        "italian": "Verifiche vigilanza finanziaria 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003874",
+      "name": {
+        "german": "Finanzaufsichtsprüfungen 2",
+        "french": "Surveillance financière 2",
+        "italian": "Verifiche vigilanza finanziaria 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003875",
+      "name": {
+        "german": "Finanzaufsichtsprüfungen 3",
+        "french": "Surveillance financière 3",
+        "italian": "Verifiche vigilanza finanziaria 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003876",
+      "name": {
+        "german": "Finanzaufsichtsprüfungen 4",
+        "french": "Surveillance financière 4",
+        "italian": "Verifiche vigilanza finanziaria 4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003877",
+      "name": {
+        "german": "Bau- und Beschaffungsprüfungen",
+        "french": "Audits des constructions et des achats",
+        "italian": "Verifiche costruzioni e acquisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013675",
+      "name": {
+        "german": "Evaluationen",
+        "french": "Evaluations",
+        "italian": "Valutazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035926",
+      "name": {
+        "german": "Projekt- und Organisationsprüfungen",
+        "french": "Audits de projets et d’organisation",
+        "italian": "Verifiche progetti e organizzazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043902",
+      "name": {
+        "german": "Informatikprüfungen",
+        "french": "Audits informatiques",
+        "italian": "Verifiche informatica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4486538",
+      "surname": "Jeannet",
+      "givenName": "Eric-Serge",
+      "email": null,
+      "phone": "+41 58 46 31039",
+      "function": {
+        "german": "Vizedir. Fachbereiche",
+        "french": "Vizedir. Fachbereiche",
+        "italian": "Vizedir. Fachbereiche",
+        "english": "Vizedir. Fachbereiche"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3151768",
+      "surname": "Köhli",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 31068",
+      "function": {
+        "german": "Leiter. Fachber.Fiaufsicht 1",
+        "french": "Leiter. Fachber.Fiaufsicht 1",
+        "italian": "Leiter. Fachber.Fiaufsicht 1",
+        "english": "Leiter. Fachber.Fiaufsicht 1"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008752",
+      "label": {
+        "german": "EFK",
+        "french": "CDF",
+        "italian": "CDF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzkontrolle",
+        "french": "Contrôle fédéral des finances",
+        "italian": "Controllo federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003862",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003872",
+      "label": {
+        "german": "Fachbereiche",
+        "french": "Centres de compétences",
+        "italian": "Centri di competenze",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereiche",
+        "french": "Centres de compétences",
+        "italian": "Centri di competenze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

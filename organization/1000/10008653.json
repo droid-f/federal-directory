@@ -1,1 +1,109 @@
-{"id"=>"10008653", "name"=>{"german"=>"Schweizerisches Bundesarchiv", "french"=>"Archives fédérales suisses", "italian"=>"Archivio federale svizzero", "english"=>""}, "nameAbbr"=>{"german"=>"BAR", "french"=>"BAR", "italian"=>"BAR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Archivstrasse 24", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584628989", "fax"=>"", "email"=>"info@bar.admin.ch", "homepage"=>{"german"=>"www.bar.admin.ch", "french"=>"www.bar.admin.ch", "italian"=>"www.bar.admin.ch", "english"=>""}}, "children"=>[{"id"=>"10002220", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008653", "label"=>{"german"=>"BAR", "french"=>"BAR", "italian"=>"BAR", "english"=>""}, "name"=>{"german"=>"Schweizerisches Bundesarchiv", "french"=>"Archives fédérales suisses", "italian"=>"Archivio federale svizzero", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10008653",
+  "name": {
+    "german": "Schweizerisches Bundesarchiv",
+    "french": "Archives fédérales suisses",
+    "italian": "Archivio federale svizzero",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BAR",
+    "french": "BAR",
+    "italian": "BAR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Archivstrasse 24",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584628989",
+    "fax": "",
+    "email": "info@bar.admin.ch",
+    "homepage": {
+      "german": "www.bar.admin.ch",
+      "french": "www.bar.admin.ch",
+      "italian": "www.bar.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10002220",
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008653",
+      "label": {
+        "german": "BAR",
+        "french": "BAR",
+        "italian": "BAR",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Bundesarchiv",
+        "french": "Archives fédérales suisses",
+        "italian": "Archivio federale svizzero",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

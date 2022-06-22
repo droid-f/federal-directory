@@ -1,1 +1,262 @@
-{"id"=>"10011204", "name"=>{"german"=>"Abteilung Rechtshilfe, Terrorismus, Völkerstrafrecht", "french"=>"Division Entraide judiciaire, terrorisme, droit pénal international", "italian"=>"Divisione Assistenza giudiziaria, terrorismo, diritto penale internazionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10011214", "name"=>{"german"=>"Kommissariat RTV 1", "french"=>"Commissariat RTV 1", "italian"=>"Commissariato RTV 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10011215", "name"=>{"german"=>"Kommissariat RTV 2", "french"=>"Commissariat RTV 2", "italian"=>"Commissariato RTV 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005068", "name"=>{"german"=>"Kommissariat RTV 3", "french"=>"Commissariat RTV 3", "italian"=>"Commissariato RTV 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20001427", "name"=>{"german"=>"Kommissariat RTV 4", "french"=>"Commissariat RTV 4", "italian"=>"Commissariato RTV 4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039626", "name"=>{"german"=>"Kommissariat RTV 5", "french"=>"Commissariat RTV 5", "italian"=>"Commissariato RTV 5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027944", "name"=>{"german"=>"Kommissariat RTV 6", "french"=>"Commissariat RTV 6", "italian"=>"Commissariato RTV 6", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7611555", "surname"=>"Buschmann", "givenName"=>"Beate", "email"=>nil, "phone"=>"+41 58 46 41626", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2063912", "surname"=>"Reinhard", "givenName"=>"Manfred", "email"=>nil, "phone"=>"+41 58 46 42663", "function"=>{"german"=>"Stv AC / Kommissariatsleiter/in", "french"=>"Stv AC / Kommissariatsleiter/in", "italian"=>"Stv AC / Kommissariatsleiter/in", "english"=>"Stv AC / Kommissariatsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009328", "label"=>{"german"=>"BKP", "french"=>"PJF", "italian"=>"PGF", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundeskriminalpolizei", "french"=>"Domaine de direction Police judiciaire fédérale", "italian"=>"Ambito direzionale Polizia giudiziaria federale", "english"=>""}}, {"id"=>"10011204", "label"=>{"german"=>"Abteilung Rechtshilfe, Terrorismus, Völkerstrafrecht", "french"=>"Division Entraide judiciaire, terrorisme, droit pénal international", "italian"=>"Divisione Assistenza giudiziaria, terrorismo, diritto penale internazionale", "english"=>""}, "name"=>{"german"=>"Abteilung Rechtshilfe, Terrorismus, Völkerstrafrecht", "french"=>"Division Entraide judiciaire, terrorisme, droit pénal international", "italian"=>"Divisione Assistenza giudiziaria, terrorismo, diritto penale internazionale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10011204",
+  "name": {
+    "german": "Abteilung Rechtshilfe, Terrorismus, Völkerstrafrecht",
+    "french": "Division Entraide judiciaire, terrorisme, droit pénal international",
+    "italian": "Divisione Assistenza giudiziaria, terrorismo, diritto penale internazionale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10011214",
+      "name": {
+        "german": "Kommissariat RTV 1",
+        "french": "Commissariat RTV 1",
+        "italian": "Commissariato RTV 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011215",
+      "name": {
+        "german": "Kommissariat RTV 2",
+        "french": "Commissariat RTV 2",
+        "italian": "Commissariato RTV 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005068",
+      "name": {
+        "german": "Kommissariat RTV 3",
+        "french": "Commissariat RTV 3",
+        "italian": "Commissariato RTV 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20001427",
+      "name": {
+        "german": "Kommissariat RTV 4",
+        "french": "Commissariat RTV 4",
+        "italian": "Commissariato RTV 4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039626",
+      "name": {
+        "german": "Kommissariat RTV 5",
+        "french": "Commissariat RTV 5",
+        "italian": "Commissariato RTV 5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027944",
+      "name": {
+        "german": "Kommissariat RTV 6",
+        "french": "Commissariat RTV 6",
+        "italian": "Commissariato RTV 6",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7611555",
+      "surname": "Buschmann",
+      "givenName": "Beate",
+      "email": null,
+      "phone": "+41 58 46 41626",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2063912",
+      "surname": "Reinhard",
+      "givenName": "Manfred",
+      "email": null,
+      "phone": "+41 58 46 42663",
+      "function": {
+        "german": "Stv AC / Kommissariatsleiter/in",
+        "french": "Stv AC / Kommissariatsleiter/in",
+        "italian": "Stv AC / Kommissariatsleiter/in",
+        "english": "Stv AC / Kommissariatsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009328",
+      "label": {
+        "german": "BKP",
+        "french": "PJF",
+        "italian": "PGF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundeskriminalpolizei",
+        "french": "Domaine de direction Police judiciaire fédérale",
+        "italian": "Ambito direzionale Polizia giudiziaria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011204",
+      "label": {
+        "german": "Abteilung Rechtshilfe, Terrorismus, Völkerstrafrecht",
+        "french": "Division Entraide judiciaire, terrorisme, droit pénal international",
+        "italian": "Divisione Assistenza giudiziaria, terrorismo, diritto penale internazionale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Rechtshilfe, Terrorismus, Völkerstrafrecht",
+        "french": "Division Entraide judiciaire, terrorisme, droit pénal international",
+        "italian": "Divisione Assistenza giudiziaria, terrorismo, diritto penale internazionale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

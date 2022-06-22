@@ -1,1 +1,155 @@
-{"id"=>"20001378", "name"=>{"german"=>"Lernende", "french"=>"Service Apprentis", "italian"=>"Servizio Apprendisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009283", "label"=>{"german"=>"RMS", "french"=>"GRS", "italian"=>"GRS", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Ressourcenmanagement & Strategie", "french"=>"Domaine de direction gestion des ressources et stratégie", "italian"=>"Ambito direzionale gestione delle risorse e strategia", "english"=>""}}, {"id"=>"10009286", "label"=>{"german"=>"Bereich Personalmanagement", "french"=>"Domaine gestion des ressources humaines", "italian"=>"Settore gestione delle risorse umane", "english"=>""}, "name"=>{"german"=>"Bereich Personalmanagement", "french"=>"Domaine gestion des ressources humaines", "italian"=>"Settore gestione delle risorse umane", "english"=>""}}, {"id"=>"20001378", "label"=>{"german"=>"Lernende", "french"=>"Service Apprentis", "italian"=>"Servizio Apprendisti", "english"=>""}, "name"=>{"german"=>"Lernende", "french"=>"Service Apprentis", "italian"=>"Servizio Apprendisti", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20001378",
+  "name": {
+    "german": "Lernende",
+    "french": "Service Apprentis",
+    "italian": "Servizio Apprendisti",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009283",
+      "label": {
+        "german": "RMS",
+        "french": "GRS",
+        "italian": "GRS",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Ressourcenmanagement & Strategie",
+        "french": "Domaine de direction gestion des ressources et stratégie",
+        "italian": "Ambito direzionale gestione delle risorse e strategia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009286",
+      "label": {
+        "german": "Bereich Personalmanagement",
+        "french": "Domaine gestion des ressources humaines",
+        "italian": "Settore gestione delle risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Personalmanagement",
+        "french": "Domaine gestion des ressources humaines",
+        "italian": "Settore gestione delle risorse umane",
+        "english": ""
+      }
+    },
+    {
+      "id": "20001378",
+      "label": {
+        "german": "Lernende",
+        "french": "Service Apprentis",
+        "italian": "Servizio Apprendisti",
+        "english": ""
+      },
+      "name": {
+        "german": "Lernende",
+        "french": "Service Apprentis",
+        "italian": "Servizio Apprendisti",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

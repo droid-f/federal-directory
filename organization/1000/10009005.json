@@ -1,1 +1,200 @@
-{"id"=>"10009005", "name"=>{"german"=>"Logistik, Qualität und Sicherheit", "french"=>"Logistique, qualité et sécurité", "italian"=>"Logistica, qualità e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"LS/LQS", "french"=>"LS/LQS", "italian"=>"LS/LQS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Austrasse", "postalCode"=>"3700", "location"=>"Spiez", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10006156", "name"=>{"german"=>"Management Support", "french"=>"Management Support", "italian"=>"Management Support", "english"=>""}, "nameAbbr"=>{"german"=>"LS/LQS/MS", "french"=>"LS/LQS/MS", "italian"=>"LS/LQS/MS", "english"=>""}}, {"id"=>"20003708", "name"=>{"german"=>"Material, Finanzen und Controlling", "french"=>"Material, Finanzen und Controlling", "italian"=>"Material, Finanzen und Controlling", "english"=>""}, "nameAbbr"=>{"german"=>"LS/LQS/MAWI", "french"=>"LS/LQS/MAWI", "italian"=>"LS/LQS/MAWI", "english"=>""}}, {"id"=>"20003706", "name"=>{"german"=>"Messtechnik und Laborinformatik", "french"=>"Technique de mesure et IT laboratoire", "italian"=>"Messtechnik und Laborinformatik", "english"=>""}, "nameAbbr"=>{"german"=>"LS/LQS/IT LS", "french"=>"LS/LQS/IT LS", "italian"=>"LS/LQS/IT LS", "english"=>""}}, {"id"=>"20003707", "name"=>{"german"=>"Technik und Betrieb", "french"=>"Technik und Betrieb", "italian"=>"Technik und Betrieb", "english"=>""}, "nameAbbr"=>{"german"=>"LS/LQS/TuB", "french"=>"LS/LQS/TuB", "italian"=>"LS/LQS/TuB", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6437244", "surname"=>"Zanni", "givenName"=>"Mauro", "email"=>nil, "phone"=>"+41 58 46 81654", "function"=>{"german"=>"Chef Fachbereich LQS", "french"=>"Chef Fachbereich LQS", "italian"=>"Chef Fachbereich LQS", "english"=>"Chef Fachbereich LQS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"10006154", "label"=>{"german"=>"LS", "french"=>"LS", "italian"=>"LS", "english"=>""}, "name"=>{"german"=>"Labor Spiez", "french"=>"Laboratoire Spiez", "italian"=>"Laboratorio Spiez", "english"=>""}}, {"id"=>"10009005", "label"=>{"german"=>"LS/LQS", "french"=>"LS/LQS", "italian"=>"LS/LQS", "english"=>""}, "name"=>{"german"=>"Logistik, Qualität und Sicherheit", "french"=>"Logistique, qualité et sécurité", "italian"=>"Logistica, qualità e sicurezza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009005",
+  "name": {
+    "german": "Logistik, Qualität und Sicherheit",
+    "french": "Logistique, qualité et sécurité",
+    "italian": "Logistica, qualità e sicurezza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "LS/LQS",
+    "french": "LS/LQS",
+    "italian": "LS/LQS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Austrasse",
+    "postalCode": "3700",
+    "location": "Spiez",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10006156",
+      "name": {
+        "german": "Management Support",
+        "french": "Management Support",
+        "italian": "Management Support",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "LS/LQS/MS",
+        "french": "LS/LQS/MS",
+        "italian": "LS/LQS/MS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003708",
+      "name": {
+        "german": "Material, Finanzen und Controlling",
+        "french": "Material, Finanzen und Controlling",
+        "italian": "Material, Finanzen und Controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "LS/LQS/MAWI",
+        "french": "LS/LQS/MAWI",
+        "italian": "LS/LQS/MAWI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003706",
+      "name": {
+        "german": "Messtechnik und Laborinformatik",
+        "french": "Technique de mesure et IT laboratoire",
+        "italian": "Messtechnik und Laborinformatik",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "LS/LQS/IT LS",
+        "french": "LS/LQS/IT LS",
+        "italian": "LS/LQS/IT LS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003707",
+      "name": {
+        "german": "Technik und Betrieb",
+        "french": "Technik und Betrieb",
+        "italian": "Technik und Betrieb",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "LS/LQS/TuB",
+        "french": "LS/LQS/TuB",
+        "italian": "LS/LQS/TuB",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6437244",
+      "surname": "Zanni",
+      "givenName": "Mauro",
+      "email": null,
+      "phone": "+41 58 46 81654",
+      "function": {
+        "german": "Chef Fachbereich LQS",
+        "french": "Chef Fachbereich LQS",
+        "italian": "Chef Fachbereich LQS",
+        "english": "Chef Fachbereich LQS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006154",
+      "label": {
+        "german": "LS",
+        "french": "LS",
+        "italian": "LS",
+        "english": ""
+      },
+      "name": {
+        "german": "Labor Spiez",
+        "french": "Laboratoire Spiez",
+        "italian": "Laboratorio Spiez",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009005",
+      "label": {
+        "german": "LS/LQS",
+        "french": "LS/LQS",
+        "italian": "LS/LQS",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistik, Qualität und Sicherheit",
+        "french": "Logistique, qualité et sécurité",
+        "italian": "Logistica, qualità e sicurezza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

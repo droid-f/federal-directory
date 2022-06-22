@@ -1,1 +1,139 @@
-{"id"=>"20005536", "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}, "nameAbbr"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"info@armasuisse.ch", "homepage"=>{"german"=>"www.armasuisse.ch", "french"=>"www.armasuisse.ch", "italian"=>"www.armasuisse.ch", "english"=>""}}, "children"=>[{"id"=>"10008928", "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}, "nameAbbr"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}}, {"id"=>"20004094", "name"=>{"german"=>"Wissenschaft und Technologie", "french"=>"Sciences et technologies", "italian"=>"Scienza e tecnologia", "english"=>""}, "nameAbbr"=>{"german"=>"W+T", "french"=>"S+T", "italian"=>"S+T", "english"=>""}}, {"id"=>"20004155", "name"=>{"german"=>"armasuisse Immobilien", "french"=>"armasuisse Immobilier", "italian"=>"armasuisse Immobili", "english"=>""}, "nameAbbr"=>{"german"=>"ar IMMO", "french"=>"ar IMMO", "italian"=>"ar IMMO", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005536",
+  "name": {
+    "german": "Bundesamt für Rüstung - armasuisse",
+    "french": "Office fédéral de l'armement-armasuisse",
+    "italian": "Ufficio fed. dell'armamento - armasuisse",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ar",
+    "french": "ar",
+    "italian": "ar",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "info@armasuisse.ch",
+    "homepage": {
+      "german": "www.armasuisse.ch",
+      "french": "www.armasuisse.ch",
+      "italian": "www.armasuisse.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10008928",
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004094",
+      "name": {
+        "german": "Wissenschaft und Technologie",
+        "french": "Sciences et technologies",
+        "italian": "Scienza e tecnologia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "W+T",
+        "french": "S+T",
+        "italian": "S+T",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004155",
+      "name": {
+        "german": "armasuisse Immobilien",
+        "french": "armasuisse Immobilier",
+        "italian": "armasuisse Immobili",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ar IMMO",
+        "french": "ar IMMO",
+        "italian": "ar IMMO",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

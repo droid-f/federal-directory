@@ -1,1 +1,173 @@
-{"id"=>"10003533", "name"=>{"german"=>"Haupt- und Leihlager", "french"=>"Dépôt principal des cartes", "italian"=>"Deposito principale delle carte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0044269", "surname"=>"Kohli", "givenName"=>"Roman", "email"=>nil, "phone"=>"+41 58 46 90242", "function"=>{"german"=>"Leiter/in Haupt- und Leihlager/Stv. RL", "french"=>"Resp.de l'entrepôt pcpl,en prêt/suppl.RR", "italian"=>"R del magaz.princip.e a prestito/sup.RR", "english"=>"Leiter/in Haupt- und Leihlager/Stv. RL"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7061482", "surname"=>"Zehnder", "givenName"=>"Olivier", "email"=>nil, "phone"=>"+41 58 46 90165", "function"=>{"german"=>"Logistiker/in /Stv. L Haupt- u.Leihlager", "french"=>"Logis./Rs de l'entrepôt pcpl et prêt", "italian"=>"Operat. Log./Rs mag. Princ. e prestito", "english"=>"Logistiker/in /Stv. L Haupt- u.Leihlager"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"10003523", "label"=>{"german"=>"Support", "french"=>"Support", "italian"=>"Supporto", "english"=>""}, "name"=>{"german"=>"Support", "french"=>"Support", "italian"=>"Supporto", "english"=>""}}, {"id"=>"10003531", "label"=>{"german"=>"Logistik, Infra und Objektsicherheit", "french"=>"Logistique", "italian"=>"Logistica", "english"=>""}, "name"=>{"german"=>"Logistik, Infra und Objektsicherheit", "french"=>"Logistique", "italian"=>"Logistica", "english"=>""}}, {"id"=>"10003533", "label"=>{"german"=>"Haupt- und Leihlager", "french"=>"Dépôt principal des cartes", "italian"=>"Deposito principale delle carte", "english"=>""}, "name"=>{"german"=>"Haupt- und Leihlager", "french"=>"Dépôt principal des cartes", "italian"=>"Deposito principale delle carte", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003533",
+  "name": {
+    "german": "Haupt- und Leihlager",
+    "french": "Dépôt principal des cartes",
+    "italian": "Deposito principale delle carte",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0044269",
+      "surname": "Kohli",
+      "givenName": "Roman",
+      "email": null,
+      "phone": "+41 58 46 90242",
+      "function": {
+        "german": "Leiter/in Haupt- und Leihlager/Stv. RL",
+        "french": "Resp.de l'entrepôt pcpl,en prêt/suppl.RR",
+        "italian": "R del magaz.princip.e a prestito/sup.RR",
+        "english": "Leiter/in Haupt- und Leihlager/Stv. RL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7061482",
+      "surname": "Zehnder",
+      "givenName": "Olivier",
+      "email": null,
+      "phone": "+41 58 46 90165",
+      "function": {
+        "german": "Logistiker/in /Stv. L Haupt- u.Leihlager",
+        "french": "Logis./Rs de l'entrepôt pcpl et prêt",
+        "italian": "Operat. Log./Rs mag. Princ. e prestito",
+        "english": "Logistiker/in /Stv. L Haupt- u.Leihlager"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003523",
+      "label": {
+        "german": "Support",
+        "french": "Support",
+        "italian": "Supporto",
+        "english": ""
+      },
+      "name": {
+        "german": "Support",
+        "french": "Support",
+        "italian": "Supporto",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003531",
+      "label": {
+        "german": "Logistik, Infra und Objektsicherheit",
+        "french": "Logistique",
+        "italian": "Logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistik, Infra und Objektsicherheit",
+        "french": "Logistique",
+        "italian": "Logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003533",
+      "label": {
+        "german": "Haupt- und Leihlager",
+        "french": "Dépôt principal des cartes",
+        "italian": "Deposito principale delle carte",
+        "english": ""
+      },
+      "name": {
+        "german": "Haupt- und Leihlager",
+        "french": "Dépôt principal des cartes",
+        "italian": "Deposito principale delle carte",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

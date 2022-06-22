@@ -1,1 +1,138 @@
-{"id"=>"20037360", "name"=>{"german"=>"Gerichtskommission (GK)", "french"=>"Commission judiciaire (CJ)", "italian"=>"Commissione giudiziaria (CG) (CJ)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-1684749", "surname"=>"Dieu", "givenName"=>"Anne", "email"=>nil, "phone"=>"+41 58 32 29426", "function"=>{"german"=>"Kommissionssekretärin GK", "french"=>"Kommissionssekretärin GK", "italian"=>"Kommissionssekretärin GK", "english"=>"Kommissionssekretärin GK"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037307", "label"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}, "name"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}}, {"id"=>"20037322", "label"=>{"german"=>"Kommissionen Gruppe I", "french"=>"Commissions groupe I", "italian"=>"Commissioni gruppo I", "english"=>""}, "name"=>{"german"=>"Kommissionen Gruppe I", "french"=>"Commissions groupe I", "italian"=>"Commissioni gruppo I", "english"=>""}}, {"id"=>"20037360", "label"=>{"german"=>"Gerichtskommission (GK)", "french"=>"Commission judiciaire (CJ)", "italian"=>"Commissione giudiziaria (CG) (CJ)", "english"=>""}, "name"=>{"german"=>"Gerichtskommission (GK)", "french"=>"Commission judiciaire (CJ)", "italian"=>"Commissione giudiziaria (CG) (CJ)", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037360",
+  "name": {
+    "german": "Gerichtskommission (GK)",
+    "french": "Commission judiciaire (CJ)",
+    "italian": "Commissione giudiziaria (CG) (CJ)",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1684749",
+      "surname": "Dieu",
+      "givenName": "Anne",
+      "email": null,
+      "phone": "+41 58 32 29426",
+      "function": {
+        "german": "Kommissionssekretärin GK",
+        "french": "Kommissionssekretärin GK",
+        "italian": "Kommissionssekretärin GK",
+        "english": "Kommissionssekretärin GK"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037307",
+      "label": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037322",
+      "label": {
+        "german": "Kommissionen Gruppe I",
+        "french": "Commissions groupe I",
+        "italian": "Commissioni gruppo I",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen Gruppe I",
+        "french": "Commissions groupe I",
+        "italian": "Commissioni gruppo I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037360",
+      "label": {
+        "german": "Gerichtskommission (GK)",
+        "french": "Commission judiciaire (CJ)",
+        "italian": "Commissione giudiziaria (CG) (CJ)",
+        "english": ""
+      },
+      "name": {
+        "german": "Gerichtskommission (GK)",
+        "french": "Commission judiciaire (CJ)",
+        "italian": "Commissione giudiziaria (CG) (CJ)",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

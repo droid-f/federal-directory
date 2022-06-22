@@ -1,1 +1,155 @@
-{"id"=>"20050602", "name"=>{"german"=>"RM Region Mitte", "french"=>"RM Region Mitte", "italian"=>"RM Region Mitte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003994", "label"=>{"german"=>"Radio Monitoring und Anlagen", "french"=>"Radio monitoring et installations", "italian"=>"Radio monitoring e impianti", "english"=>""}, "name"=>{"german"=>"Radio Monitoring und Anlagen", "french"=>"Radio monitoring et installations", "italian"=>"Radio monitoring e impianti", "english"=>""}}, {"id"=>"10003998", "label"=>{"german"=>"Radio Monitoring", "french"=>"Radio monitoring", "italian"=>"Radio monitoring", "english"=>""}, "name"=>{"german"=>"Radio Monitoring", "french"=>"Radio monitoring", "italian"=>"Radio monitoring", "english"=>""}}, {"id"=>"20050602", "label"=>{"german"=>"RM Region Mitte", "french"=>"RM Region Mitte", "italian"=>"RM Region Mitte", "english"=>""}, "name"=>{"german"=>"RM Region Mitte", "french"=>"RM Region Mitte", "italian"=>"RM Region Mitte", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050602",
+  "name": {
+    "german": "RM Region Mitte",
+    "french": "RM Region Mitte",
+    "italian": "RM Region Mitte",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003994",
+      "label": {
+        "german": "Radio Monitoring und Anlagen",
+        "french": "Radio monitoring et installations",
+        "italian": "Radio monitoring e impianti",
+        "english": ""
+      },
+      "name": {
+        "german": "Radio Monitoring und Anlagen",
+        "french": "Radio monitoring et installations",
+        "italian": "Radio monitoring e impianti",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003998",
+      "label": {
+        "german": "Radio Monitoring",
+        "french": "Radio monitoring",
+        "italian": "Radio monitoring",
+        "english": ""
+      },
+      "name": {
+        "german": "Radio Monitoring",
+        "french": "Radio monitoring",
+        "italian": "Radio monitoring",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050602",
+      "label": {
+        "german": "RM Region Mitte",
+        "french": "RM Region Mitte",
+        "italian": "RM Region Mitte",
+        "english": ""
+      },
+      "name": {
+        "german": "RM Region Mitte",
+        "french": "RM Region Mitte",
+        "italian": "RM Region Mitte",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

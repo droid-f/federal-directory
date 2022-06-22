@@ -1,1 +1,217 @@
-{"id"=>"20015186", "name"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20015188", "name"=>{"german"=>"Projekte", "french"=>"Projets", "italian"=>"Progetti", "english"=>""}, "nameAbbr"=>{"german"=>"P", "french"=>"P", "italian"=>"P", "english"=>""}}, {"id"=>"20015189", "name"=>{"german"=>"Technologie", "french"=>"Technologie", "italian"=>"Tecnologia", "english"=>""}, "nameAbbr"=>{"german"=>"T", "french"=>"T", "italian"=>"T", "english"=>""}}, {"id"=>"20050494", "name"=>{"german"=>"Zentrale Dienste", "french"=>"Services centraux", "italian"=>"Servizi centrali", "english"=>""}, "nameAbbr"=>{"german"=>"ZD", "french"=>"ZD", "italian"=>"ZD", "english"=>""}}, {"id"=>"20015190", "name"=>{"german"=>"Betrieb und Support", "french"=>"Exploitation et support", "italian"=>"Esercizio e supporto", "english"=>""}, "nameAbbr"=>{"german"=>"B<(>&<)>S", "french"=>"B<(>&<)>S", "italian"=>"B<(>&<)>S", "english"=>""}}, {"id"=>"20018076", "name"=>{"german"=>"Dienst Überwachung Post- und Fernmeldeverkehr", "french"=>"Service Surveillance de la correspondance par poste et télécommunication", "italian"=>"Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni", "english"=>""}, "nameAbbr"=>{"german"=>"ÜPF", "french"=>"ÜPF", "italian"=>"ÜPF", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1051800", "surname"=>"Grüebler", "givenName"=>"Roman", "email"=>nil, "phone"=>"+41 58 46 05220", "function"=>{"german"=>"Leiter/in Informatik Service Center", "french"=>"Leiter/in Informatik Service Center", "italian"=>"Leiter/in Informatik Service Center", "english"=>"Leiter/in Informatik Service Center"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0558675", "surname"=>"Schneider", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 34976", "function"=>{"german"=>"AL Zentrale Dienste/Stv. L ISC-EJPD", "french"=>"AL Zentrale Dienste/Stv. L ISC-EJPD", "italian"=>"AL Zentrale Dienste/Stv. L ISC-EJPD", "english"=>"AL Zentrale Dienste/Stv. L ISC-EJPD"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009470", "label"=>{"german"=>"ISC-EJPD", "french"=>"CSI-DFJP", "italian"=>"CSI-DFGP", "english"=>""}, "name"=>{"german"=>"Informatik Service Center ISC-EJPD", "french"=>"Centre de services informatiques CSI-DFJP", "italian"=>"Centro servizi informatici CSI-DFGP", "english"=>""}}, {"id"=>"20015186", "label"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20015186",
+  "name": {
+    "german": "Leitung",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20015188",
+      "name": {
+        "german": "Projekte",
+        "french": "Projets",
+        "italian": "Progetti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "P",
+        "french": "P",
+        "italian": "P",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015189",
+      "name": {
+        "german": "Technologie",
+        "french": "Technologie",
+        "italian": "Tecnologia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "T",
+        "french": "T",
+        "italian": "T",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050494",
+      "name": {
+        "german": "Zentrale Dienste",
+        "french": "Services centraux",
+        "italian": "Servizi centrali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZD",
+        "french": "ZD",
+        "italian": "ZD",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015190",
+      "name": {
+        "german": "Betrieb und Support",
+        "french": "Exploitation et support",
+        "italian": "Esercizio e supporto",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "B<(>&<)>S",
+        "french": "B<(>&<)>S",
+        "italian": "B<(>&<)>S",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018076",
+      "name": {
+        "german": "Dienst Überwachung Post- und Fernmeldeverkehr",
+        "french": "Service Surveillance de la correspondance par poste et télécommunication",
+        "italian": "Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ÜPF",
+        "french": "ÜPF",
+        "italian": "ÜPF",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1051800",
+      "surname": "Grüebler",
+      "givenName": "Roman",
+      "email": null,
+      "phone": "+41 58 46 05220",
+      "function": {
+        "german": "Leiter/in Informatik Service Center",
+        "french": "Leiter/in Informatik Service Center",
+        "italian": "Leiter/in Informatik Service Center",
+        "english": "Leiter/in Informatik Service Center"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0558675",
+      "surname": "Schneider",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 34976",
+      "function": {
+        "german": "AL Zentrale Dienste/Stv. L ISC-EJPD",
+        "french": "AL Zentrale Dienste/Stv. L ISC-EJPD",
+        "italian": "AL Zentrale Dienste/Stv. L ISC-EJPD",
+        "english": "AL Zentrale Dienste/Stv. L ISC-EJPD"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009470",
+      "label": {
+        "german": "ISC-EJPD",
+        "french": "CSI-DFJP",
+        "italian": "CSI-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik Service Center ISC-EJPD",
+        "french": "Centre de services informatiques CSI-DFJP",
+        "italian": "Centro servizi informatici CSI-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015186",
+      "label": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

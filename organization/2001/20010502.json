@@ -1,1 +1,275 @@
-{"id"=>"20010502", "name"=>{"german"=>"Reinigungszenter 5", "french"=>"Centre de nettoyage 5", "italian"=>"Centro di pulizia 5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 40", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037888", "name"=>{"german"=>"Objektgruppe 5.100", "french"=>"Groupe Bâtiments 5.100", "italian"=>"Gruppo delle opere e degli immobili 5.100", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037889", "name"=>{"german"=>"Objektgruppe 5.200", "french"=>"Groupe Bâtiments 5.200", "italian"=>"Gruppo delle opere e degli immobili 5.200", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037890", "name"=>{"german"=>"Objektgruppe 5.300", "french"=>"Groupe Bâtiments 5.300", "italian"=>"Gruppo delle opere e degli immobili 5.300", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037891", "name"=>{"german"=>"Objektgruppe 5.400", "french"=>"Groupe 5.400", "italian"=>"Gruppo delle opere e degli immobili 5.400", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045302", "name"=>{"german"=>"Objektgruppe 5.500", "french"=>"Groupe Bâtiments 5.500", "italian"=>"Gruppo delle opere e degli immobili 5.500", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037893", "name"=>{"german"=>"Spezialreinigung", "french"=>"Nettoyage spécialisé", "italian"=>"Pulizie speciali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4098386", "surname"=>"Weiss-Rolli", "givenName"=>"Franziska", "email"=>nil, "phone"=>"+41 58 46 20877", "function"=>{"german"=>"Leiter/in Reinigungszenter", "french"=>"Responsable Centre de nettoyage", "italian"=>"Capo Centro di pulizia", "english"=>"Leiter/in Reinigungszenter"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008670", "label"=>{"german"=>"BBL", "french"=>"OFCL", "italian"=>"UFCL", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bauten und Logistik", "french"=>"Office fédéral des constructions et de la logistique", "italian"=>"Ufficio federale delle costruzioni e della logistica", "english"=>""}}, {"id"=>"10005978", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20010028", "label"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}, "name"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}}, {"id"=>"10005998", "label"=>{"german"=>"Objektmanagement", "french"=>"Gestion des ouvrages et des bâtiments", "italian"=>"Gestione delle opere e degli immobili", "english"=>""}, "name"=>{"german"=>"Objektmanagement", "french"=>"Gestion des ouvrages et des bâtiments", "italian"=>"Gestione delle opere e degli immobili", "english"=>""}}, {"id"=>"10013908", "label"=>{"german"=>"Reinigung", "french"=>"Nettoyage", "italian"=>"Pulizia", "english"=>""}, "name"=>{"german"=>"Reinigung", "french"=>"Nettoyage", "italian"=>"Pulizia", "english"=>""}}, {"id"=>"20010502", "label"=>{"german"=>"Reinigungszenter 5", "french"=>"Centre de nettoyage 5", "italian"=>"Centro di pulizia 5", "english"=>""}, "name"=>{"german"=>"Reinigungszenter 5", "french"=>"Centre de nettoyage 5", "italian"=>"Centro di pulizia 5", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20010502",
+  "name": {
+    "german": "Reinigungszenter 5",
+    "french": "Centre de nettoyage 5",
+    "italian": "Centro di pulizia 5",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 40",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037888",
+      "name": {
+        "german": "Objektgruppe 5.100",
+        "french": "Groupe Bâtiments 5.100",
+        "italian": "Gruppo delle opere e degli immobili 5.100",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037889",
+      "name": {
+        "german": "Objektgruppe 5.200",
+        "french": "Groupe Bâtiments 5.200",
+        "italian": "Gruppo delle opere e degli immobili 5.200",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037890",
+      "name": {
+        "german": "Objektgruppe 5.300",
+        "french": "Groupe Bâtiments 5.300",
+        "italian": "Gruppo delle opere e degli immobili 5.300",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037891",
+      "name": {
+        "german": "Objektgruppe 5.400",
+        "french": "Groupe 5.400",
+        "italian": "Gruppo delle opere e degli immobili 5.400",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045302",
+      "name": {
+        "german": "Objektgruppe 5.500",
+        "french": "Groupe Bâtiments 5.500",
+        "italian": "Gruppo delle opere e degli immobili 5.500",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037893",
+      "name": {
+        "german": "Spezialreinigung",
+        "french": "Nettoyage spécialisé",
+        "italian": "Pulizie speciali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4098386",
+      "surname": "Weiss-Rolli",
+      "givenName": "Franziska",
+      "email": null,
+      "phone": "+41 58 46 20877",
+      "function": {
+        "german": "Leiter/in Reinigungszenter",
+        "french": "Responsable Centre de nettoyage",
+        "italian": "Capo Centro di pulizia",
+        "english": "Leiter/in Reinigungszenter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008670",
+      "label": {
+        "german": "BBL",
+        "french": "OFCL",
+        "italian": "UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bauten und Logistik",
+        "french": "Office fédéral des constructions et de la logistique",
+        "italian": "Ufficio federale delle costruzioni e della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005978",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010028",
+      "label": {
+        "german": "Bauten",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Bauten",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005998",
+      "label": {
+        "german": "Objektmanagement",
+        "french": "Gestion des ouvrages et des bâtiments",
+        "italian": "Gestione delle opere e degli immobili",
+        "english": ""
+      },
+      "name": {
+        "german": "Objektmanagement",
+        "french": "Gestion des ouvrages et des bâtiments",
+        "italian": "Gestione delle opere e degli immobili",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013908",
+      "label": {
+        "german": "Reinigung",
+        "french": "Nettoyage",
+        "italian": "Pulizia",
+        "english": ""
+      },
+      "name": {
+        "german": "Reinigung",
+        "french": "Nettoyage",
+        "italian": "Pulizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010502",
+      "label": {
+        "german": "Reinigungszenter 5",
+        "french": "Centre de nettoyage 5",
+        "italian": "Centro di pulizia 5",
+        "english": ""
+      },
+      "name": {
+        "german": "Reinigungszenter 5",
+        "french": "Centre de nettoyage 5",
+        "italian": "Centro di pulizia 5",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

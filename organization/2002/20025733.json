@@ -1,1 +1,154 @@
-{"id"=>"20025733", "name"=>{"german"=>"Nationale Kommission zur Verhütung von Folter", "french"=>"Commission nationale de prévention de la torture", "italian"=>"Commissione nazionale per la prevenzione della tortura", "english"=>""}, "nameAbbr"=>{"german"=>"NKVF", "french"=>"CNPT", "italian"=>"CNPT", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwanengasse 2", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0197446", "surname"=>"Hadorn", "givenName"=>"Livia", "email"=>nil, "phone"=>"+41 58 46 76549", "function"=>{"german"=>"Geschäftsführerin Sekretariat NKVF", "french"=>"Responsable Secrétariat CNPT", "italian"=>"segretaria CNPT", "english"=>"Geschäftsführerin Sekretariat NKVF"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-10004323", "surname"=>"Panizzon", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 51512", "function"=>{"german"=>"Wiss. Mitarbeiter", "french"=>"Collaboratrice scientifique", "italian"=>"Collaboratrice scientifica", "english"=>"Wiss. Mitarbeiter"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}, {"id"=>"20028230", "label"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}}, {"id"=>"20025733", "label"=>{"german"=>"NKVF", "french"=>"CNPT", "italian"=>"CNPT", "english"=>""}, "name"=>{"german"=>"Nationale Kommission zur Verhütung von Folter", "french"=>"Commission nationale de prévention de la torture", "italian"=>"Commissione nazionale per la prevenzione della tortura", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025733",
+  "name": {
+    "german": "Nationale Kommission zur Verhütung von Folter",
+    "french": "Commission nationale de prévention de la torture",
+    "italian": "Commissione nazionale per la prevenzione della tortura",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "NKVF",
+    "french": "CNPT",
+    "italian": "CNPT",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwanengasse 2",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0197446",
+      "surname": "Hadorn",
+      "givenName": "Livia",
+      "email": null,
+      "phone": "+41 58 46 76549",
+      "function": {
+        "german": "Geschäftsführerin Sekretariat NKVF",
+        "french": "Responsable Secrétariat CNPT",
+        "italian": "segretaria CNPT",
+        "english": "Geschäftsführerin Sekretariat NKVF"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-10004323",
+      "surname": "Panizzon",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 51512",
+      "function": {
+        "german": "Wiss. Mitarbeiter",
+        "french": "Collaboratrice scientifique",
+        "italian": "Collaboratrice scientifica",
+        "english": "Wiss. Mitarbeiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028230",
+      "label": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025733",
+      "label": {
+        "german": "NKVF",
+        "french": "CNPT",
+        "italian": "CNPT",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationale Kommission zur Verhütung von Folter",
+        "french": "Commission nationale de prévention de la torture",
+        "italian": "Commissione nazionale per la prevenzione della tortura",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,185 @@
-{"id"=>"20003375", "name"=>{"german"=>"Mechanisierte Brigade 11", "french"=>"Brigade mécanisée 11", "italian"=>"Brigata meccanizzata 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kasernenstrasse, Geb. KO 108", "postalCode"=>"7000", "location"=>"Chur", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20017454", "name"=>{"german"=>"Dienst Mechanisierte Brigade 11", "french"=>"Service brigade mécanisée 11", "italian"=>"Servizio brigata meccanizzata 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7718380", "surname"=>"Metzler", "givenName"=>"Gregor", "email"=>nil, "phone"=>"+41 58 46 94604", "function"=>{"german"=>"Kommandant Mechanisierte Brigade 11", "french"=>"Commandant brigade mécanisée 11", "italian"=>"Comandante brigata meccanizzata 11", "english"=>"Kommandant Mechanisierte Brigade 11"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10000056", "label"=>{"german"=>"HEER", "french"=>"FT", "italian"=>"FT", "english"=>""}, "name"=>{"german"=>"Heer", "french"=>"Forces terrestres", "italian"=>"Forze terrestri", "english"=>""}}, {"id"=>"20003375", "label"=>{"german"=>"Mechanisierte Brigade 11", "french"=>"Brigade mécanisée 11", "italian"=>"Brigata meccanizzata 11", "english"=>""}, "name"=>{"german"=>"Mechanisierte Brigade 11", "french"=>"Brigade mécanisée 11", "italian"=>"Brigata meccanizzata 11", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003375",
+  "name": {
+    "german": "Mechanisierte Brigade 11",
+    "french": "Brigade mécanisée 11",
+    "italian": "Brigata meccanizzata 11",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kasernenstrasse, Geb. KO 108",
+    "postalCode": "7000",
+    "location": "Chur",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20017454",
+      "name": {
+        "german": "Dienst Mechanisierte Brigade 11",
+        "french": "Service brigade mécanisée 11",
+        "italian": "Servizio brigata meccanizzata 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7718380",
+      "surname": "Metzler",
+      "givenName": "Gregor",
+      "email": null,
+      "phone": "+41 58 46 94604",
+      "function": {
+        "german": "Kommandant Mechanisierte Brigade 11",
+        "french": "Commandant brigade mécanisée 11",
+        "italian": "Comandante brigata meccanizzata 11",
+        "english": "Kommandant Mechanisierte Brigade 11"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000056",
+      "label": {
+        "german": "HEER",
+        "french": "FT",
+        "italian": "FT",
+        "english": ""
+      },
+      "name": {
+        "german": "Heer",
+        "french": "Forces terrestres",
+        "italian": "Forze terrestri",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003375",
+      "label": {
+        "german": "Mechanisierte Brigade 11",
+        "french": "Brigade mécanisée 11",
+        "italian": "Brigata meccanizzata 11",
+        "english": ""
+      },
+      "name": {
+        "german": "Mechanisierte Brigade 11",
+        "french": "Brigade mécanisée 11",
+        "italian": "Brigata meccanizzata 11",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

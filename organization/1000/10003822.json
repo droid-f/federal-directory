@@ -1,1 +1,156 @@
-{"id"=>"10003822", "name"=>{"german"=>"Sportphysiotherapie und Sportmassage", "french"=>"Physiothérapie du sport et massage", "italian"=>"Fisioterapia dello sport e massaggio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2104776", "surname"=>"Meyer", "givenName"=>"Stephan", "email"=>nil, "phone"=>"+41 58 46 60744", "function"=>{"german"=>"Leiter/in Sportphysiotherapie/Sportmas.", "french"=>"Resp. Physiothérapie du sport et massage", "italian"=>"Resp Fisioterapia sport e massaggio", "english"=>"Leiter/in Sportphysiotherapie/Sportmas."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003803", "label"=>{"german"=>"EHSM", "french"=>"EHSM", "italian"=>"EHSM", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Sport Magglingen", "french"=>"Haute école fédérale de sport de Macolin", "italian"=>"Scuola universitaria federale dello sport di Macolin", "english"=>""}}, {"id"=>"10003819", "label"=>{"german"=>"Leistungssport", "french"=>"Sport d'élite", "italian"=>"Sport di prestazione", "english"=>""}, "name"=>{"german"=>"Leistungssport", "french"=>"Sport d'élite", "italian"=>"Sport di prestazione", "english"=>""}}, {"id"=>"10003822", "label"=>{"german"=>"Sportphysiotherapie und Sportmassage", "french"=>"Physiothérapie du sport et massage", "italian"=>"Fisioterapia dello sport e massaggio", "english"=>""}, "name"=>{"german"=>"Sportphysiotherapie und Sportmassage", "french"=>"Physiothérapie du sport et massage", "italian"=>"Fisioterapia dello sport e massaggio", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003822",
+  "name": {
+    "german": "Sportphysiotherapie und Sportmassage",
+    "french": "Physiothérapie du sport et massage",
+    "italian": "Fisioterapia dello sport e massaggio",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2104776",
+      "surname": "Meyer",
+      "givenName": "Stephan",
+      "email": null,
+      "phone": "+41 58 46 60744",
+      "function": {
+        "german": "Leiter/in Sportphysiotherapie/Sportmas.",
+        "french": "Resp. Physiothérapie du sport et massage",
+        "italian": "Resp Fisioterapia sport e massaggio",
+        "english": "Leiter/in Sportphysiotherapie/Sportmas."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003803",
+      "label": {
+        "german": "EHSM",
+        "french": "EHSM",
+        "italian": "EHSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Sport Magglingen",
+        "french": "Haute école fédérale de sport de Macolin",
+        "italian": "Scuola universitaria federale dello sport di Macolin",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003819",
+      "label": {
+        "german": "Leistungssport",
+        "french": "Sport d'élite",
+        "italian": "Sport di prestazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leistungssport",
+        "french": "Sport d'élite",
+        "italian": "Sport di prestazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003822",
+      "label": {
+        "german": "Sportphysiotherapie und Sportmassage",
+        "french": "Physiothérapie du sport et massage",
+        "italian": "Fisioterapia dello sport e massaggio",
+        "english": ""
+      },
+      "name": {
+        "german": "Sportphysiotherapie und Sportmassage",
+        "french": "Physiothérapie du sport et massage",
+        "italian": "Fisioterapia dello sport e massaggio",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

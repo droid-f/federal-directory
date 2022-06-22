@@ -1,1 +1,275 @@
-{"id"=>"20003771", "name"=>{"german"=>"Infanterie UOS/RS 11", "french"=>"ER/ESO infanterie 11", "italian"=>"SSU/SR della fanteria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo Inf UOS/RS 11", "street"=>"Kaserne", "postalCode"=>"9000", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20004264", "name"=>{"german"=>"Fhr Geh Kommandant Inf UOS/RS 11", "french"=>"Aide cdmt commandant ER/ESO inf 11", "italian"=>"Aiuto cdo comandante SSU/SR fant 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004263", "name"=>{"german"=>"Kdt Stv / Stab / Planung Inf UOS/RS 11", "french"=>"Rempl cdt / EM / planif ESO/ER inf 11", "italian"=>"Sost cdt/SM/Pianif SSU/SR fant 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026711", "name"=>{"german"=>"Kompanie 1 Inf UOS/RS 11", "french"=>"Compagnie 1 ER/ESO inf 11", "italian"=>"Compagnia 1 SSU/SR fant 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042812", "name"=>{"german"=>"Kompanie 2 Inf UOS/RS 11", "french"=>"Compagnie 2 ER/ESO inf 11", "italian"=>"Compagnia 2 SSU/SR fant 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042813", "name"=>{"german"=>"Kompanie 3 Inf UOS/RS 11", "french"=>"Compagnie 3 ESO/ER inf 11", "italian"=>"Compagnia 3 SSU/SR fant 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047887", "name"=>{"german"=>"Kompanie 4 Inf UOS/RS 11", "french"=>"Compagnie 4 ER/ESO inf 2", "italian"=>"Compagnia 4 SSU/SR fanteria 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042814", "name"=>{"german"=>"Kompanie 5 Inf UOS/RS 11", "french"=>"Compagnie 4 ESO/ER inf 11", "italian"=>"Compagnia 4 SSU/SR fant 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4196583", "surname"=>"Hobi", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 48 31129", "function"=>{"german"=>"Kommandant Infanterie UOS/RS 11", "french"=>"Commandant ER/ESO infanterie 11", "italian"=>"Comandante SSU/SR della fanteria 11", "english"=>"Kommandant Infanterie UOS/RS 11"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015869", "label"=>{"german"=>"LVBINF", "french"=>"LVBINF", "italian"=>"LVBINF", "english"=>""}, "name"=>{"german"=>"Lehrverband Infanterie", "french"=>"Formation d'application de l'infanterie", "italian"=>"Formazione d'addestramento fant", "english"=>""}}, {"id"=>"20003771", "label"=>{"german"=>"Infanterie UOS/RS 11", "french"=>"ER/ESO infanterie 11", "italian"=>"SSU/SR della fanteria", "english"=>""}, "name"=>{"german"=>"Infanterie UOS/RS 11", "french"=>"ER/ESO infanterie 11", "italian"=>"SSU/SR della fanteria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003771",
+  "name": {
+    "german": "Infanterie UOS/RS 11",
+    "french": "ER/ESO infanterie 11",
+    "italian": "SSU/SR della fanteria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo Inf UOS/RS 11",
+    "street": "Kaserne",
+    "postalCode": "9000",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20004264",
+      "name": {
+        "german": "Fhr Geh Kommandant Inf UOS/RS 11",
+        "french": "Aide cdmt commandant ER/ESO inf 11",
+        "italian": "Aiuto cdo comandante SSU/SR fant 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004263",
+      "name": {
+        "german": "Kdt Stv / Stab / Planung Inf UOS/RS 11",
+        "french": "Rempl cdt / EM / planif ESO/ER inf 11",
+        "italian": "Sost cdt/SM/Pianif SSU/SR fant 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026711",
+      "name": {
+        "german": "Kompanie 1 Inf UOS/RS 11",
+        "french": "Compagnie 1 ER/ESO inf 11",
+        "italian": "Compagnia 1 SSU/SR fant 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042812",
+      "name": {
+        "german": "Kompanie 2 Inf UOS/RS 11",
+        "french": "Compagnie 2 ER/ESO inf 11",
+        "italian": "Compagnia 2 SSU/SR fant 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042813",
+      "name": {
+        "german": "Kompanie 3 Inf UOS/RS 11",
+        "french": "Compagnie 3 ESO/ER inf 11",
+        "italian": "Compagnia 3 SSU/SR fant 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047887",
+      "name": {
+        "german": "Kompanie 4 Inf UOS/RS 11",
+        "french": "Compagnie 4 ER/ESO inf 2",
+        "italian": "Compagnia 4 SSU/SR fanteria 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042814",
+      "name": {
+        "german": "Kompanie 5 Inf UOS/RS 11",
+        "french": "Compagnie 4 ESO/ER inf 11",
+        "italian": "Compagnia 4 SSU/SR fant 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4196583",
+      "surname": "Hobi",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 48 31129",
+      "function": {
+        "german": "Kommandant Infanterie UOS/RS 11",
+        "french": "Commandant ER/ESO infanterie 11",
+        "italian": "Comandante SSU/SR della fanteria 11",
+        "english": "Kommandant Infanterie UOS/RS 11"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015869",
+      "label": {
+        "german": "LVBINF",
+        "french": "LVBINF",
+        "italian": "LVBINF",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Infanterie",
+        "french": "Formation d'application de l'infanterie",
+        "italian": "Formazione d'addestramento fant",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003771",
+      "label": {
+        "german": "Infanterie UOS/RS 11",
+        "french": "ER/ESO infanterie 11",
+        "italian": "SSU/SR della fanteria",
+        "english": ""
+      },
+      "name": {
+        "german": "Infanterie UOS/RS 11",
+        "french": "ER/ESO infanterie 11",
+        "italian": "SSU/SR della fanteria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

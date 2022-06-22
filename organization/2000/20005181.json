@@ -1,1 +1,108 @@
-{"id"=>"20005181", "name"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Viale Stefano Franscini 7", "postalCode"=>"6500", "location"=>"Bellinzona", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-7577581", "surname"=>"Dotta", "givenName"=>"Alberto", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Leiter/in Finanzdienst", "french"=>"Responsable des finances", "italian"=>"Responsabile finanze", "english"=>"Leiter/in Finanzdienst"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20004851", "label"=>{"german"=>"BStGer", "french"=>"BStGer", "italian"=>"BStGer", "english"=>""}, "name"=>{"german"=>"Bundesstrafgericht", "french"=>"Tribunal pénal fédéral", "italian"=>"Tribunale penale federale", "english"=>""}}, {"id"=>"20005201", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}}, {"id"=>"20005181", "label"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}, "name"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005181",
+  "name": {
+    "german": "Finanzdienst",
+    "french": "Service des finances",
+    "italian": "Servizio delle finanze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Viale Stefano Franscini 7",
+    "postalCode": "6500",
+    "location": "Bellinzona",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-7577581",
+      "surname": "Dotta",
+      "givenName": "Alberto",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Leiter/in Finanzdienst",
+        "french": "Responsable des finances",
+        "italian": "Responsabile finanze",
+        "english": "Leiter/in Finanzdienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20004851",
+      "label": {
+        "german": "BStGer",
+        "french": "BStGer",
+        "italian": "BStGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesstrafgericht",
+        "french": "Tribunal pénal fédéral",
+        "italian": "Tribunale penale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005201",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005181",
+      "label": {
+        "german": "Finanzdienst",
+        "french": "Service des finances",
+        "italian": "Servizio delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzdienst",
+        "french": "Service des finances",
+        "italian": "Servizio delle finanze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

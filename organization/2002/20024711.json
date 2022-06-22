@@ -1,1 +1,183 @@
-{"id"=>"20024711", "name"=>{"german"=>"Risk Profiling I", "french"=>"Risk Profiling", "italian"=>"Risk Profiling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-1XZM3FGT8", "surname"=>"Le Coultre", "givenName"=>"Micheline Joëlle", "email"=>nil, "phone"=>"+41 58 46 53624", "function"=>{"german"=>"Risk Profiler/in", "french"=>"Risk Profiler/in / Springer/in", "italian"=>"Risk Profiler/in / Springer/in", "english"=>"Risk Profiler/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"20024707", "label"=>{"german"=>"Fachstelle für Personensicherheitsprüfungen", "french"=>"Service spécialisé chargé des contrôles de sécurité relatifs aux personnes", "italian"=>"Servizio specializzato controlli di sicurezza relativi alle persone", "english"=>""}, "name"=>{"german"=>"Fachstelle für Personensicherheitsprüfungen", "french"=>"Service spécialisé chargé des contrôles de sécurité relatifs aux personnes", "italian"=>"Servizio specializzato controlli di sicurezza relativi alle persone", "english"=>""}}, {"id"=>"20024710", "label"=>{"german"=>"Personensicherheitsprüfungen Zentrale", "french"=>"Centrale des contrôles de sécurité relatifs aux personnes", "italian"=>"Centrale controlli di sicurezza relativi alle persone", "english"=>""}, "name"=>{"german"=>"Personensicherheitsprüfungen Zentrale", "french"=>"Centrale des contrôles de sécurité relatifs aux personnes", "italian"=>"Centrale controlli di sicurezza relativi alle persone", "english"=>""}}, {"id"=>"20024711", "label"=>{"german"=>"Risk Profiling I", "french"=>"Risk Profiling", "italian"=>"Risk Profiling", "english"=>""}, "name"=>{"german"=>"Risk Profiling I", "french"=>"Risk Profiling", "italian"=>"Risk Profiling", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20024711",
+  "name": {
+    "german": "Risk Profiling I",
+    "french": "Risk Profiling",
+    "italian": "Risk Profiling",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1XZM3FGT8",
+      "surname": "Le Coultre",
+      "givenName": "Micheline Joëlle",
+      "email": null,
+      "phone": "+41 58 46 53624",
+      "function": {
+        "german": "Risk Profiler/in",
+        "french": "Risk Profiler/in / Springer/in",
+        "italian": "Risk Profiler/in / Springer/in",
+        "english": "Risk Profiler/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024707",
+      "label": {
+        "german": "Fachstelle für Personensicherheitsprüfungen",
+        "french": "Service spécialisé chargé des contrôles de sécurité relatifs aux personnes",
+        "italian": "Servizio specializzato controlli di sicurezza relativi alle persone",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachstelle für Personensicherheitsprüfungen",
+        "french": "Service spécialisé chargé des contrôles de sécurité relatifs aux personnes",
+        "italian": "Servizio specializzato controlli di sicurezza relativi alle persone",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024710",
+      "label": {
+        "german": "Personensicherheitsprüfungen Zentrale",
+        "french": "Centrale des contrôles de sécurité relatifs aux personnes",
+        "italian": "Centrale controlli di sicurezza relativi alle persone",
+        "english": ""
+      },
+      "name": {
+        "german": "Personensicherheitsprüfungen Zentrale",
+        "french": "Centrale des contrôles de sécurité relatifs aux personnes",
+        "italian": "Centrale controlli di sicurezza relativi alle persone",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024711",
+      "label": {
+        "german": "Risk Profiling I",
+        "french": "Risk Profiling",
+        "italian": "Risk Profiling",
+        "english": ""
+      },
+      "name": {
+        "german": "Risk Profiling I",
+        "french": "Risk Profiling",
+        "italian": "Risk Profiling",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

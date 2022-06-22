@@ -1,1 +1,200 @@
-{"id"=>"20035013", "name"=>{"german"=>"Aus- und Weiterbildung Informatik", "french"=>"Formation et perfectionnement en informatique", "italian"=>"Formazione e perfezionamento in informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 71", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1644447", "surname"=>"Pritchard Di Dodo", "givenName"=>"Lesley Diane", "email"=>nil, "phone"=>"+41 58 46 39238", "function"=>{"german"=>"Leiterin Aus- und Weiterbildung Informatik", "french"=>"Leiterin Aus- und Weiterbildung Informatik", "italian"=>"Leiterin Aus- und Weiterbildung Informatik", "english"=>"Leiterin Aus- und Weiterbild. Informatik"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6068308", "surname"=>"Raich", "givenName"=>"Jan", "email"=>nil, "phone"=>"+41 58 46 44138", "function"=>{"german"=>"Fachexperte Digitales Lernen und Stellvertreter Leiterin Aus- und Weiterbildung Informatik", "french"=>"Fachexperte Digitales Lernen und Stellvertreter Leiterin Aus- und Weiterbildung Informatik", "italian"=>"Fachexperte Digitales Lernen und Stellvertreter Leiterin Aus- und Weiterbildung Informatik", "english"=>"Fachexperte Digitales Lernen und Stv RL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-0241772", "surname"=>"Berger", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 46 57335", "function"=>{"german"=>"Fachverantwortlicher Aus- und Weiterbildung in Internet, Programmierung, Grafik und Sicherheit", "french"=>"Fachverantwortlicher Aus- und Weiterbildung in Internet, Programmierung, Grafik und Sicherheit", "italian"=>"Fachverantwortlicher Aus- und Weiterbildung in Internet, Programmierung, Grafik und Sicherheit", "english"=>"Fachverantwortlicher IPGS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6839316", "surname"=>"Brülhart", "givenName"=>"Laurent", "email"=>nil, "phone"=>"+41 58 46 73643", "function"=>{"german"=>"Fachverantwortlicher Aus- und Weiterbildung Büroanwendungen und IKT- Grundkenntnisse", "french"=>"Fachverantwortlicher Aus- und Weiterbildung Büroanwendungen und IKT- Grundkenntnisse", "italian"=>"Fachverantwortlicher Aus- und Weiterbildung Büroanwendungen und IKT- Grundkenntnisse", "english"=>"Fachverantw. AWB Büroanwendungen"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10000034", "label"=>{"german"=>"EPA", "french"=>"OFPER", "italian"=>"UFPER", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Personalamt", "french"=>"Office fédéral du personnel", "italian"=>"Ufficio federale del personale", "english"=>""}}, {"id"=>"10001850", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10000494", "label"=>{"german"=>"Grundlagenentwicklung und Ausbildungszentrum", "french"=>"Développement des bases et centre de formation", "italian"=>"Sviluppo delle basi e Centro di formazione", "english"=>""}, "name"=>{"german"=>"Grundlagenentwicklung und Ausbildungszentrum", "french"=>"Développement des bases et centre de formation", "italian"=>"Sviluppo delle basi e Centro di formazione", "english"=>""}}, {"id"=>"20035013", "label"=>{"german"=>"Aus- und Weiterbildung Informatik", "french"=>"Formation et perfectionnement en informatique", "italian"=>"Formazione e perfezionamento in informatica", "english"=>""}, "name"=>{"german"=>"Aus- und Weiterbildung Informatik", "french"=>"Formation et perfectionnement en informatique", "italian"=>"Formazione e perfezionamento in informatica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035013",
+  "name": {
+    "german": "Aus- und Weiterbildung Informatik",
+    "french": "Formation et perfectionnement en informatique",
+    "italian": "Formazione e perfezionamento in informatica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 71",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1644447",
+      "surname": "Pritchard Di Dodo",
+      "givenName": "Lesley Diane",
+      "email": null,
+      "phone": "+41 58 46 39238",
+      "function": {
+        "german": "Leiterin Aus- und Weiterbildung Informatik",
+        "french": "Leiterin Aus- und Weiterbildung Informatik",
+        "italian": "Leiterin Aus- und Weiterbildung Informatik",
+        "english": "Leiterin Aus- und Weiterbild. Informatik"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6068308",
+      "surname": "Raich",
+      "givenName": "Jan",
+      "email": null,
+      "phone": "+41 58 46 44138",
+      "function": {
+        "german": "Fachexperte Digitales Lernen und Stellvertreter Leiterin Aus- und Weiterbildung Informatik",
+        "french": "Fachexperte Digitales Lernen und Stellvertreter Leiterin Aus- und Weiterbildung Informatik",
+        "italian": "Fachexperte Digitales Lernen und Stellvertreter Leiterin Aus- und Weiterbildung Informatik",
+        "english": "Fachexperte Digitales Lernen und Stv RL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-0241772",
+      "surname": "Berger",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 46 57335",
+      "function": {
+        "german": "Fachverantwortlicher Aus- und Weiterbildung in Internet, Programmierung, Grafik und Sicherheit",
+        "french": "Fachverantwortlicher Aus- und Weiterbildung in Internet, Programmierung, Grafik und Sicherheit",
+        "italian": "Fachverantwortlicher Aus- und Weiterbildung in Internet, Programmierung, Grafik und Sicherheit",
+        "english": "Fachverantwortlicher IPGS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6839316",
+      "surname": "Brülhart",
+      "givenName": "Laurent",
+      "email": null,
+      "phone": "+41 58 46 73643",
+      "function": {
+        "german": "Fachverantwortlicher Aus- und Weiterbildung Büroanwendungen und IKT- Grundkenntnisse",
+        "french": "Fachverantwortlicher Aus- und Weiterbildung Büroanwendungen und IKT- Grundkenntnisse",
+        "italian": "Fachverantwortlicher Aus- und Weiterbildung Büroanwendungen und IKT- Grundkenntnisse",
+        "english": "Fachverantw. AWB Büroanwendungen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000034",
+      "label": {
+        "german": "EPA",
+        "french": "OFPER",
+        "italian": "UFPER",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Personalamt",
+        "french": "Office fédéral du personnel",
+        "italian": "Ufficio federale del personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001850",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000494",
+      "label": {
+        "german": "Grundlagenentwicklung und Ausbildungszentrum",
+        "french": "Développement des bases et centre de formation",
+        "italian": "Sviluppo delle basi e Centro di formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Grundlagenentwicklung und Ausbildungszentrum",
+        "french": "Développement des bases et centre de formation",
+        "italian": "Sviluppo delle basi e Centro di formazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035013",
+      "label": {
+        "german": "Aus- und Weiterbildung Informatik",
+        "french": "Formation et perfectionnement en informatique",
+        "italian": "Formazione e perfezionamento in informatica",
+        "english": ""
+      },
+      "name": {
+        "german": "Aus- und Weiterbildung Informatik",
+        "french": "Formation et perfectionnement en informatique",
+        "italian": "Formazione e perfezionamento in informatica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

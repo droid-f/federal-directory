@@ -1,1 +1,181 @@
-{"id"=>"20045702", "name"=>{"german"=>"Information und Medien", "french"=>"Information et médias", "italian"=>"Informazione e media", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-4645800", "surname"=>"Arn", "givenName"=>"Karoline", "email"=>nil, "phone"=>"+41 58 46 57107", "function"=>{"german"=>"Mediensprecher/in", "french"=>"Mediensprecher/in", "italian"=>"Mediensprecher/in", "english"=>"Mediensprecher/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7338596", "surname"=>"Hain", "givenName"=>"Estelle", "email"=>nil, "phone"=>"+41 58 46 56219", "function"=>{"german"=>"Mediensprecher/in", "french"=>"Mediensprecher/in", "italian"=>"Mediensprecher/in", "english"=>"Mediensprecher/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4062606", "surname"=>"Schneeberger", "givenName"=>"Doris", "email"=>nil, "phone"=>"+41 58 46 38012", "function"=>{"german"=>"Wissenschaftliche/r Mitarbeiter/in", "french"=>"Wissenschaftliche/r Mitarbeiter/in", "italian"=>"Wissenschaftliche/r Mitarbeiter/in", "english"=>"Wissenschaftliche/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035160", "label"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}}, {"id"=>"20045702", "label"=>{"german"=>"Information und Medien", "french"=>"Information et médias", "italian"=>"Informazione e media", "english"=>""}, "name"=>{"german"=>"Information und Medien", "french"=>"Information et médias", "italian"=>"Informazione e media", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045702",
+  "name": {
+    "german": "Information und Medien",
+    "french": "Information et médias",
+    "italian": "Informazione e media",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-4645800",
+      "surname": "Arn",
+      "givenName": "Karoline",
+      "email": null,
+      "phone": "+41 58 46 57107",
+      "function": {
+        "german": "Mediensprecher/in",
+        "french": "Mediensprecher/in",
+        "italian": "Mediensprecher/in",
+        "english": "Mediensprecher/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7338596",
+      "surname": "Hain",
+      "givenName": "Estelle",
+      "email": null,
+      "phone": "+41 58 46 56219",
+      "function": {
+        "german": "Mediensprecher/in",
+        "french": "Mediensprecher/in",
+        "italian": "Mediensprecher/in",
+        "english": "Mediensprecher/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4062606",
+      "surname": "Schneeberger",
+      "givenName": "Doris",
+      "email": null,
+      "phone": "+41 58 46 38012",
+      "function": {
+        "german": "Wissenschaftliche/r Mitarbeiter/in",
+        "french": "Wissenschaftliche/r Mitarbeiter/in",
+        "italian": "Wissenschaftliche/r Mitarbeiter/in",
+        "english": "Wissenschaftliche/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035160",
+      "label": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045702",
+      "label": {
+        "german": "Information und Medien",
+        "french": "Information et médias",
+        "italian": "Informazione e media",
+        "english": ""
+      },
+      "name": {
+        "german": "Information und Medien",
+        "french": "Information et médias",
+        "italian": "Informazione e media",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

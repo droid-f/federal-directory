@@ -1,1 +1,170 @@
-{"id"=>"10003978", "name"=>{"german"=>"Informatik und Organisation", "french"=>"Informatique et organisation", "italian"=>"Informatica e organizzazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20047827", "name"=>{"german"=>"Externe Informatik", "french"=>"Externe Informatik", "italian"=>"Externe Informatik", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6488274", "surname"=>"Stegmann", "givenName"=>"Sacha", "email"=>nil, "phone"=>"+41 58 48 49709", "function"=>{"german"=>"Leiter Informatik und Organisation", "french"=>"Leiter Informatik und Organisation", "italian"=>"Leiter Informatik und Organisation", "english"=>"Leiter Informatik und Organisation"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003974", "label"=>{"german"=>"Betriebswirtschaft und Organisation", "french"=>"Ressources et organisation", "italian"=>"Risorse e organizzazione", "english"=>""}, "name"=>{"german"=>"Betriebswirtschaft und Organisation", "french"=>"Ressources et organisation", "italian"=>"Risorse e organizzazione", "english"=>""}}, {"id"=>"10003978", "label"=>{"german"=>"Informatik und Organisation", "french"=>"Informatique et organisation", "italian"=>"Informatica e organizzazione", "english"=>""}, "name"=>{"german"=>"Informatik und Organisation", "french"=>"Informatique et organisation", "italian"=>"Informatica e organizzazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003978",
+  "name": {
+    "german": "Informatik und Organisation",
+    "french": "Informatique et organisation",
+    "italian": "Informatica e organizzazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20047827",
+      "name": {
+        "german": "Externe Informatik",
+        "french": "Externe Informatik",
+        "italian": "Externe Informatik",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6488274",
+      "surname": "Stegmann",
+      "givenName": "Sacha",
+      "email": null,
+      "phone": "+41 58 48 49709",
+      "function": {
+        "german": "Leiter Informatik und Organisation",
+        "french": "Leiter Informatik und Organisation",
+        "italian": "Leiter Informatik und Organisation",
+        "english": "Leiter Informatik und Organisation"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003974",
+      "label": {
+        "german": "Betriebswirtschaft und Organisation",
+        "french": "Ressources et organisation",
+        "italian": "Risorse e organizzazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Betriebswirtschaft und Organisation",
+        "french": "Ressources et organisation",
+        "italian": "Risorse e organizzazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003978",
+      "label": {
+        "german": "Informatik und Organisation",
+        "french": "Informatique et organisation",
+        "italian": "Informatica e organizzazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik und Organisation",
+        "french": "Informatique et organisation",
+        "italian": "Informatica e organizzazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

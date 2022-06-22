@@ -1,1 +1,198 @@
-{"id"=>"20003509", "name"=>{"german"=>"Personalentwicklung", "french"=>"Développement du personnel", "italian"=>"Sviluppo del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20041902", "name"=>{"german"=>"SECO KV Lernende", "french"=>"SECO KV Lernende", "italian"=>"SECO KV Lernende", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0357912", "surname"=>"Boss Chikh", "givenName"=>"Sandra", "email"=>nil, "phone"=>"+41 58 46 51173", "function"=>{"german"=>"Gruppenleiter/in PE OAPE", "french"=>"Gruppenleiter/in PE OAPE", "italian"=>"Gruppenleiter/in PE OAPE", "english"=>"Gruppenleiter/in PE OAPE"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4548060", "surname"=>"Atik", "givenName"=>"Tunay", "email"=>nil, "phone"=>"+41 58 46 48445", "function"=>{"german"=>"Personalverantwortliche/r Internat. OAPE", "french"=>"Personalverantwortliche/r Internat. OAPE", "italian"=>"Personalverantwortliche/r Internat. OAPE", "english"=>"Personalverantwortliche/r Internat. OAPE"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004249", "label"=>{"german"=>"Organisation, Recht und Akkreditierung", "french"=>"Organisation, droit et accréditation", "italian"=>"Organizzazione, diritto e accreditamento", "english"=>""}, "name"=>{"german"=>"Organisation, Recht und Akkreditierung", "french"=>"Organisation, droit et accréditation", "italian"=>"Organizzazione, diritto e accreditamento", "english"=>""}}, {"id"=>"10004255", "label"=>{"german"=>"Personal", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}, "name"=>{"german"=>"Personal", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}}, {"id"=>"20003509", "label"=>{"german"=>"Personalentwicklung", "french"=>"Développement du personnel", "italian"=>"Sviluppo del personale", "english"=>""}, "name"=>{"german"=>"Personalentwicklung", "french"=>"Développement du personnel", "italian"=>"Sviluppo del personale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003509",
+  "name": {
+    "german": "Personalentwicklung",
+    "french": "Développement du personnel",
+    "italian": "Sviluppo del personale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20041902",
+      "name": {
+        "german": "SECO KV Lernende",
+        "french": "SECO KV Lernende",
+        "italian": "SECO KV Lernende",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0357912",
+      "surname": "Boss Chikh",
+      "givenName": "Sandra",
+      "email": null,
+      "phone": "+41 58 46 51173",
+      "function": {
+        "german": "Gruppenleiter/in PE OAPE",
+        "french": "Gruppenleiter/in PE OAPE",
+        "italian": "Gruppenleiter/in PE OAPE",
+        "english": "Gruppenleiter/in PE OAPE"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4548060",
+      "surname": "Atik",
+      "givenName": "Tunay",
+      "email": null,
+      "phone": "+41 58 46 48445",
+      "function": {
+        "german": "Personalverantwortliche/r Internat. OAPE",
+        "french": "Personalverantwortliche/r Internat. OAPE",
+        "italian": "Personalverantwortliche/r Internat. OAPE",
+        "english": "Personalverantwortliche/r Internat. OAPE"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004249",
+      "label": {
+        "german": "Organisation, Recht und Akkreditierung",
+        "french": "Organisation, droit et accréditation",
+        "italian": "Organizzazione, diritto e accreditamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Organisation, Recht und Akkreditierung",
+        "french": "Organisation, droit et accréditation",
+        "italian": "Organizzazione, diritto e accreditamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004255",
+      "label": {
+        "german": "Personal",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003509",
+      "label": {
+        "german": "Personalentwicklung",
+        "french": "Développement du personnel",
+        "italian": "Sviluppo del personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personalentwicklung",
+        "french": "Développement du personnel",
+        "italian": "Sviluppo del personale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

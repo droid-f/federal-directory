@@ -1,1 +1,170 @@
-{"id"=>"20008377", "name"=>{"german"=>"Finanzplanung und Steuerung LBA", "french"=>"Planification financière et gestion BLA", "italian"=>"Pianificazione e gest finanziaria BLEs", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Viktoriastrasse 85", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20021526", "label"=>{"german"=>"Stv Chef LBA", "french"=>"Suppléant du chef BLA", "italian"=>"Sost capo BLEs", "english"=>""}, "name"=>{"german"=>"Stv Chef LBA", "french"=>"Suppléant du chef BLA", "italian"=>"Sost capo BLEs", "english"=>""}}, {"id"=>"20008370", "label"=>{"german"=>"Finanzen LBA", "french"=>"Finances de la BLA", "italian"=>"Finanze BLEs", "english"=>""}, "name"=>{"german"=>"Finanzen LBA", "french"=>"Finances de la BLA", "italian"=>"Finanze BLEs", "english"=>""}}, {"id"=>"20008377", "label"=>{"german"=>"Finanzplanung und Steuerung LBA", "french"=>"Planification financière et gestion BLA", "italian"=>"Pianificazione e gest finanziaria BLEs", "english"=>""}, "name"=>{"german"=>"Finanzplanung und Steuerung LBA", "french"=>"Planification financière et gestion BLA", "italian"=>"Pianificazione e gest finanziaria BLEs", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20008377",
+  "name": {
+    "german": "Finanzplanung und Steuerung LBA",
+    "french": "Planification financière et gestion BLA",
+    "italian": "Pianificazione e gest finanziaria BLEs",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Viktoriastrasse 85",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021526",
+      "label": {
+        "german": "Stv Chef LBA",
+        "french": "Suppléant du chef BLA",
+        "italian": "Sost capo BLEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Stv Chef LBA",
+        "french": "Suppléant du chef BLA",
+        "italian": "Sost capo BLEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008370",
+      "label": {
+        "german": "Finanzen LBA",
+        "french": "Finances de la BLA",
+        "italian": "Finanze BLEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen LBA",
+        "french": "Finances de la BLA",
+        "italian": "Finanze BLEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008377",
+      "label": {
+        "german": "Finanzplanung und Steuerung LBA",
+        "french": "Planification financière et gestion BLA",
+        "italian": "Pianificazione e gest finanziaria BLEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzplanung und Steuerung LBA",
+        "french": "Planification financière et gestion BLA",
+        "italian": "Pianificazione e gest finanziaria BLEs",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

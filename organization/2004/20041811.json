@@ -1,1 +1,158 @@
-{"id"=>"20041811", "name"=>{"german"=>"Amtliche Vermessung u. ÖREB-Kataster", "french"=>"Mensuration officielle et cadastre RDPPF", "italian"=>"Misurazione ufficiale e catasto RDPP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9711055", "surname"=>"Käser", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 28614", "function"=>{"german"=>"PzL Amtl. Vermessung und ÖREB-Kataster", "french"=>"Rp Mensuration et cadastre RDPPF", "italian"=>"Rp Misurazione e Catasto RDPP", "english"=>"PzL Amtl. Vermessung und ÖREB-Kataster"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7652477", "surname"=>"Aström Boss", "givenName"=>"Helena", "email"=>nil, "phone"=>"+41 58 46 40421", "function"=>{"german"=>"Kantonsgeometer/in/Stv.PL", "french"=>"Géomètre cantonal/Resp. Supp.", "italian"=>"Geometra cantonale/Sost. resp.", "english"=>"Kantonsgeometer/in/Stv.PL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"20041602", "label"=>{"german"=>"Geodäsie und Eidg. Vermessungsdirektion", "french"=>"Géodésie et Direction fédérale des mensurations cadastrales", "italian"=>"Geodesia e Direzione federale delle misurazioni catastali", "english"=>""}, "name"=>{"german"=>"Geodäsie und Eidg. Vermessungsdirektion", "french"=>"Géodésie et Direction fédérale des mensurations cadastrales", "italian"=>"Geodesia e Direzione federale delle misurazioni catastali", "english"=>""}}, {"id"=>"20041811", "label"=>{"german"=>"Amtliche Vermessung u. ÖREB-Kataster", "french"=>"Mensuration officielle et cadastre RDPPF", "italian"=>"Misurazione ufficiale e catasto RDPP", "english"=>""}, "name"=>{"german"=>"Amtliche Vermessung u. ÖREB-Kataster", "french"=>"Mensuration officielle et cadastre RDPPF", "italian"=>"Misurazione ufficiale e catasto RDPP", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041811",
+  "name": {
+    "german": "Amtliche Vermessung u. ÖREB-Kataster",
+    "french": "Mensuration officielle et cadastre RDPPF",
+    "italian": "Misurazione ufficiale e catasto RDPP",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9711055",
+      "surname": "Käser",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 28614",
+      "function": {
+        "german": "PzL Amtl. Vermessung und ÖREB-Kataster",
+        "french": "Rp Mensuration et cadastre RDPPF",
+        "italian": "Rp Misurazione e Catasto RDPP",
+        "english": "PzL Amtl. Vermessung und ÖREB-Kataster"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7652477",
+      "surname": "Aström Boss",
+      "givenName": "Helena",
+      "email": null,
+      "phone": "+41 58 46 40421",
+      "function": {
+        "german": "Kantonsgeometer/in/Stv.PL",
+        "french": "Géomètre cantonal/Resp. Supp.",
+        "italian": "Geometra cantonale/Sost. resp.",
+        "english": "Kantonsgeometer/in/Stv.PL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041602",
+      "label": {
+        "german": "Geodäsie und Eidg. Vermessungsdirektion",
+        "french": "Géodésie et Direction fédérale des mensurations cadastrales",
+        "italian": "Geodesia e Direzione federale delle misurazioni catastali",
+        "english": ""
+      },
+      "name": {
+        "german": "Geodäsie und Eidg. Vermessungsdirektion",
+        "french": "Géodésie et Direction fédérale des mensurations cadastrales",
+        "italian": "Geodesia e Direzione federale delle misurazioni catastali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041811",
+      "label": {
+        "german": "Amtliche Vermessung u. ÖREB-Kataster",
+        "french": "Mensuration officielle et cadastre RDPPF",
+        "italian": "Misurazione ufficiale e catasto RDPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Amtliche Vermessung u. ÖREB-Kataster",
+        "french": "Mensuration officielle et cadastre RDPPF",
+        "italian": "Misurazione ufficiale e catasto RDPP",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

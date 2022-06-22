@@ -1,1 +1,188 @@
-{"id"=>"20045029", "name"=>{"german"=>"Dublin Office 2", "french"=>"Dublin Office 2", "italian"=>"Dublin Office 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5893211", "surname"=>"Horni", "givenName"=>"Jürg", "email"=>nil, "phone"=>"+41 58 46 59202", "function"=>{"german"=>"Chef/in Sektion / Stv. Chef/in Abteilung", "french"=>"Chef/in Sektion / Stv. Chef/in Abteilung", "italian"=>"Chef/in Sektion / Stv. Chef/in Abteilung", "english"=>"Chef/in Sektion / Stv. Chef/in Abteilung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6705426", "surname"=>"Cereghetti", "givenName"=>"Francesca", "email"=>nil, "phone"=>"+41 58 46 08159", "function"=>{"german"=>"Fachreferent/in Dublin / Stv. Chef/in", "french"=>"Fachreferent/in Dublin / Stv. Chef/in", "italian"=>"Fachreferent/in Dublin / Stv. Chef/in", "english"=>"Fachreferent/in Dublin / Stv. Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045027", "label"=>{"german"=>"Dublin, Aufenthalt und Resettlement", "french"=>"Dublin, séjour et réinstallation", "italian"=>"Dublino, soggiorno e reinsediamento", "english"=>""}, "name"=>{"german"=>"Dublin, Aufenthalt und Resettlement", "french"=>"Dublin, séjour et réinstallation", "italian"=>"Dublino, soggiorno e reinsediamento", "english"=>""}}, {"id"=>"20045029", "label"=>{"german"=>"Dublin Office 2", "french"=>"Dublin Office 2", "italian"=>"Dublin Office 2", "english"=>""}, "name"=>{"german"=>"Dublin Office 2", "french"=>"Dublin Office 2", "italian"=>"Dublin Office 2", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045029",
+  "name": {
+    "german": "Dublin Office 2",
+    "french": "Dublin Office 2",
+    "italian": "Dublin Office 2",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5893211",
+      "surname": "Horni",
+      "givenName": "Jürg",
+      "email": null,
+      "phone": "+41 58 46 59202",
+      "function": {
+        "german": "Chef/in Sektion / Stv. Chef/in Abteilung",
+        "french": "Chef/in Sektion / Stv. Chef/in Abteilung",
+        "italian": "Chef/in Sektion / Stv. Chef/in Abteilung",
+        "english": "Chef/in Sektion / Stv. Chef/in Abteilung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6705426",
+      "surname": "Cereghetti",
+      "givenName": "Francesca",
+      "email": null,
+      "phone": "+41 58 46 08159",
+      "function": {
+        "german": "Fachreferent/in Dublin / Stv. Chef/in",
+        "french": "Fachreferent/in Dublin / Stv. Chef/in",
+        "italian": "Fachreferent/in Dublin / Stv. Chef/in",
+        "english": "Fachreferent/in Dublin / Stv. Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045027",
+      "label": {
+        "german": "Dublin, Aufenthalt und Resettlement",
+        "french": "Dublin, séjour et réinstallation",
+        "italian": "Dublino, soggiorno e reinsediamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Dublin, Aufenthalt und Resettlement",
+        "french": "Dublin, séjour et réinstallation",
+        "italian": "Dublino, soggiorno e reinsediamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045029",
+      "label": {
+        "german": "Dublin Office 2",
+        "french": "Dublin Office 2",
+        "italian": "Dublin Office 2",
+        "english": ""
+      },
+      "name": {
+        "german": "Dublin Office 2",
+        "french": "Dublin Office 2",
+        "italian": "Dublin Office 2",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

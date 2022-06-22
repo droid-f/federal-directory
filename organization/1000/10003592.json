@@ -1,1 +1,217 @@
-{"id"=>"10003592", "name"=>{"german"=>"Geschäftsfeld Internationale Angelegenheiten", "french"=>"Domaine Affaires internationales", "italian"=>"Ambito Affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20019502", "name"=>{"german"=>"Stab INT", "french"=>"Etat-major INT", "italian"=>"Stato maggiore INT", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003593", "name"=>{"german"=>"Bereich Abkommen", "french"=>"Secteur Conventions", "italian"=>"Settore Convenzioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003594", "name"=>{"german"=>"Bereich Internationale Organisationen", "french"=>"Secteur Organisations internationales", "italian"=>"Settore Organizzazioni internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045102", "name"=>{"german"=>"Internationale Digitalisierung DIGINT", "french"=>"Digitalisation internationale DIGINT", "italian"=>"Digitalizzazione internazionale DIGINT", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8671629", "surname"=>"Cueni", "givenName"=>"Stephan", "email"=>nil, "phone"=>"+41 58 46 29228", "function"=>{"german"=>"Leiter/in Geschäftsfeld Internationale Angelegenheiten", "french"=>"Responsable du domaine", "italian"=>"Capo dell’Ambito", "english"=>"Leiter/in GF"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2614397", "surname"=>"Malär", "givenName"=>"Doris", "email"=>nil, "phone"=>"+41 58 46 28500", "function"=>{"german"=>"Jurist/in / Stv.", "french"=>"Juriste / suppléant/e", "italian"=>"Giurista suppl.", "english"=>"Jurist/in / Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008685", "label"=>{"german"=>"BSV", "french"=>"OFAS", "italian"=>"UFAS", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sozialversicherungen", "french"=>"Office fédéral des assurances sociales", "italian"=>"Ufficio federale delle assicurazioni sociali", "english"=>""}}, {"id"=>"10003540", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003592", "label"=>{"german"=>"Geschäftsfeld Internationale Angelegenheiten", "french"=>"Domaine Affaires internationales", "italian"=>"Ambito Affari internazionali", "english"=>""}, "name"=>{"german"=>"Geschäftsfeld Internationale Angelegenheiten", "french"=>"Domaine Affaires internationales", "italian"=>"Ambito Affari internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003592",
+  "name": {
+    "german": "Geschäftsfeld Internationale Angelegenheiten",
+    "french": "Domaine Affaires internationales",
+    "italian": "Ambito Affari internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20019502",
+      "name": {
+        "german": "Stab INT",
+        "french": "Etat-major INT",
+        "italian": "Stato maggiore INT",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003593",
+      "name": {
+        "german": "Bereich Abkommen",
+        "french": "Secteur Conventions",
+        "italian": "Settore Convenzioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003594",
+      "name": {
+        "german": "Bereich Internationale Organisationen",
+        "french": "Secteur Organisations internationales",
+        "italian": "Settore Organizzazioni internazionali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045102",
+      "name": {
+        "german": "Internationale Digitalisierung DIGINT",
+        "french": "Digitalisation internationale DIGINT",
+        "italian": "Digitalizzazione internazionale DIGINT",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8671629",
+      "surname": "Cueni",
+      "givenName": "Stephan",
+      "email": null,
+      "phone": "+41 58 46 29228",
+      "function": {
+        "german": "Leiter/in Geschäftsfeld Internationale Angelegenheiten",
+        "french": "Responsable du domaine",
+        "italian": "Capo dell’Ambito",
+        "english": "Leiter/in GF"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2614397",
+      "surname": "Malär",
+      "givenName": "Doris",
+      "email": null,
+      "phone": "+41 58 46 28500",
+      "function": {
+        "german": "Jurist/in / Stv.",
+        "french": "Juriste / suppléant/e",
+        "italian": "Giurista suppl.",
+        "english": "Jurist/in / Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008685",
+      "label": {
+        "german": "BSV",
+        "french": "OFAS",
+        "italian": "UFAS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sozialversicherungen",
+        "french": "Office fédéral des assurances sociales",
+        "italian": "Ufficio federale delle assicurazioni sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003540",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003592",
+      "label": {
+        "german": "Geschäftsfeld Internationale Angelegenheiten",
+        "french": "Domaine Affaires internationales",
+        "italian": "Ambito Affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsfeld Internationale Angelegenheiten",
+        "french": "Domaine Affaires internationales",
+        "italian": "Ambito Affari internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

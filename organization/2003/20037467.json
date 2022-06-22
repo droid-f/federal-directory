@@ -1,1 +1,152 @@
-{"id"=>"20037467", "name"=>{"german"=>"Bundesratsgeschäfte / Kommunikation", "french"=>"Affaires du Conseil fédéral / Communication", "italian"=>"Affari del Consiglio federale / Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-1676473", "surname"=>"Gerbex", "givenName"=>"Claude", "email"=>nil, "phone"=>"+41 58 46 23709", "function"=>{"german"=>"Informationsbeauftragte/r BR-Geschäfte", "french"=>"Informationsbeauftragte/r BR-Geschäfte", "italian"=>"Informationsbeauftragte/r BR-Geschäfte", "english"=>"Informationsbeauftragte/r BR-Geschäfte"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2515688", "surname"=>"Imbach", "givenName"=>"Florian", "email"=>nil, "phone"=>"+41 58 46 54740", "function"=>{"german"=>"Informationsbeauftragte/r DTI", "french"=>"Informationsbeauftragte/r DTI", "italian"=>"Informationsbeauftragte/r DTI", "english"=>"Informationsbeauftragte/r DTI"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002695", "label"=>{"german"=>"KS", "french"=>"KS", "italian"=>"KS", "english"=>""}, "name"=>{"german"=>"Bereich Kommunikation und Strategie", "french"=>"Secteur communication et stratégie", "italian"=>"Settore comunicazione e strategia", "english"=>""}}, {"id"=>"20035424", "label"=>{"german"=>"KOMM", "french"=>"KOMM", "italian"=>"KOMM", "english"=>""}, "name"=>{"german"=>"Sektion Kommunikation", "french"=>"Section communication", "italian"=>"Sezione comunicazione", "english"=>""}}, {"id"=>"20037467", "label"=>{"german"=>"Bundesratsgeschäfte / Kommunikation", "french"=>"Affaires du Conseil fédéral / Communication", "italian"=>"Affari del Consiglio federale / Comunicazione", "english"=>""}, "name"=>{"german"=>"Bundesratsgeschäfte / Kommunikation", "french"=>"Affaires du Conseil fédéral / Communication", "italian"=>"Affari del Consiglio federale / Comunicazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037467",
+  "name": {
+    "german": "Bundesratsgeschäfte / Kommunikation",
+    "french": "Affaires du Conseil fédéral / Communication",
+    "italian": "Affari del Consiglio federale / Comunicazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1676473",
+      "surname": "Gerbex",
+      "givenName": "Claude",
+      "email": null,
+      "phone": "+41 58 46 23709",
+      "function": {
+        "german": "Informationsbeauftragte/r BR-Geschäfte",
+        "french": "Informationsbeauftragte/r BR-Geschäfte",
+        "italian": "Informationsbeauftragte/r BR-Geschäfte",
+        "english": "Informationsbeauftragte/r BR-Geschäfte"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2515688",
+      "surname": "Imbach",
+      "givenName": "Florian",
+      "email": null,
+      "phone": "+41 58 46 54740",
+      "function": {
+        "german": "Informationsbeauftragte/r DTI",
+        "french": "Informationsbeauftragte/r DTI",
+        "italian": "Informationsbeauftragte/r DTI",
+        "english": "Informationsbeauftragte/r DTI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002695",
+      "label": {
+        "german": "KS",
+        "french": "KS",
+        "italian": "KS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Kommunikation und Strategie",
+        "french": "Secteur communication et stratégie",
+        "italian": "Settore comunicazione e strategia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035424",
+      "label": {
+        "german": "KOMM",
+        "french": "KOMM",
+        "italian": "KOMM",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Kommunikation",
+        "french": "Section communication",
+        "italian": "Sezione comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037467",
+      "label": {
+        "german": "Bundesratsgeschäfte / Kommunikation",
+        "french": "Affaires du Conseil fédéral / Communication",
+        "italian": "Affari del Consiglio federale / Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesratsgeschäfte / Kommunikation",
+        "french": "Affaires du Conseil fédéral / Communication",
+        "italian": "Affari del Consiglio federale / Comunicazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

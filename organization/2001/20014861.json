@@ -1,1 +1,167 @@
-{"id"=>"20014861", "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10005104", "name"=>{"german"=>"Human Resources", "french"=>"Service des Ressources humaines", "italian"=>"Servizio delle Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014863", "name"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4979079", "surname"=>"Egloff", "givenName"=>"Lorenzo", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Generalsekretär und Chef Ressourcen", "french"=>"Secr. général suppl. chef des ressources", "italian"=>"Segr. generale suppl. responsab. risorse", "english"=>"Stv. Generalsekretär und Chef Ressourcen"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2044319", "surname"=>"Perrinjaquet Stendardo", "givenName"=>"Alexandra", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Adjunktin Chef Human Resources", "french"=>"Adjointe chef des ressources humaines", "italian"=>"Aggiunta capo delle risorse umane", "english"=>"Adjunktin Chef Human Resources"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3097298", "surname"=>"Steiner", "givenName"=>"Siphra", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Adjunktin Chef Ressourcen", "french"=>"Adjointe chef des ressources", "italian"=>"Aggiunta capo delle risorse", "english"=>"Adjunktin Chef Ressourcen"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005095", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}}, {"id"=>"20014861", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014861",
+  "name": {
+    "german": "Ressourcen",
+    "french": "Ressources",
+    "italian": "Rissorce",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10005104",
+      "name": {
+        "german": "Human Resources",
+        "french": "Service des Ressources humaines",
+        "italian": "Servizio delle Risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014863",
+      "name": {
+        "german": "Finanzdienst",
+        "french": "Service des finances",
+        "italian": "Servizio delle finanze",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4979079",
+      "surname": "Egloff",
+      "givenName": "Lorenzo",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Generalsekretär und Chef Ressourcen",
+        "french": "Secr. général suppl. chef des ressources",
+        "italian": "Segr. generale suppl. responsab. risorse",
+        "english": "Stv. Generalsekretär und Chef Ressourcen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2044319",
+      "surname": "Perrinjaquet Stendardo",
+      "givenName": "Alexandra",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Adjunktin Chef Human Resources",
+        "french": "Adjointe chef des ressources humaines",
+        "italian": "Aggiunta capo delle risorse umane",
+        "english": "Adjunktin Chef Human Resources"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3097298",
+      "surname": "Steiner",
+      "givenName": "Siphra",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Adjunktin Chef Ressourcen",
+        "french": "Adjointe chef des ressources",
+        "italian": "Aggiunta capo delle risorse",
+        "english": "Adjunktin Chef Ressourcen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005095",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014861",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

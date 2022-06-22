@@ -1,1 +1,185 @@
-{"id"=>"20049434", "name"=>{"german"=>"Support Services", "french"=>"Support Services", "italian"=>"Support Services", "english"=>""}, "nameAbbr"=>{"german"=>"SUS", "french"=>"SUS", "italian"=>"SUS", "english"=>""}, "address"=>{"addressLine2"=>"Campus Meielen", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049435", "name"=>{"german"=>"Externe Support Services", "french"=>"Externe Support Services", "italian"=>"Externe Support Services", "english"=>""}, "nameAbbr"=>{"german"=>"SUS", "french"=>"SUS", "italian"=>"SUS", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2181514", "surname"=>"Gerber", "givenName"=>"Marco", "email"=>nil, "phone"=>"+41 58 46 33199", "function"=>{"german"=>"Head of Support Services", "french"=>"Head of Support Services", "italian"=>"Head of Support Services", "english"=>"Head of Support Services"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008669", "label"=>{"german"=>"BIT", "french"=>"OFIT", "italian"=>"UFIT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Informatik und Telekommunikation", "french"=>"Office fédéral de l’informatique et de la télécommunication", "italian"=>"Ufficio federale dell'informatica e della telecomunicazione", "english"=>""}}, {"id"=>"20012388", "label"=>{"german"=>"DI", "french"=>"DI", "italian"=>"DI", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direktion", "italian"=>"Direktion", "english"=>""}}, {"id"=>"20049426", "label"=>{"german"=>"DO", "french"=>"DO", "italian"=>"DO", "english"=>""}, "name"=>{"german"=>"Domestic Services", "french"=>"Domestic Services", "italian"=>"Domestic Services", "english"=>""}}, {"id"=>"20049427", "label"=>{"german"=>"DOC", "french"=>"DOC", "italian"=>"DOC", "english"=>""}, "name"=>{"german"=>"Chapter", "french"=>"Chapter", "italian"=>"Chapter", "english"=>""}}, {"id"=>"20049434", "label"=>{"german"=>"SUS", "french"=>"SUS", "italian"=>"SUS", "english"=>""}, "name"=>{"german"=>"Support Services", "french"=>"Support Services", "italian"=>"Support Services", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049434",
+  "name": {
+    "german": "Support Services",
+    "french": "Support Services",
+    "italian": "Support Services",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SUS",
+    "french": "SUS",
+    "italian": "SUS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Campus Meielen",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049435",
+      "name": {
+        "german": "Externe Support Services",
+        "french": "Externe Support Services",
+        "italian": "Externe Support Services",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SUS",
+        "french": "SUS",
+        "italian": "SUS",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2181514",
+      "surname": "Gerber",
+      "givenName": "Marco",
+      "email": null,
+      "phone": "+41 58 46 33199",
+      "function": {
+        "german": "Head of Support Services",
+        "french": "Head of Support Services",
+        "italian": "Head of Support Services",
+        "english": "Head of Support Services"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008669",
+      "label": {
+        "german": "BIT",
+        "french": "OFIT",
+        "italian": "UFIT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Informatik und Telekommunikation",
+        "french": "Office fédéral de l’informatique et de la télécommunication",
+        "italian": "Ufficio federale dell'informatica e della telecomunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012388",
+      "label": {
+        "german": "DI",
+        "french": "DI",
+        "italian": "DI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direktion",
+        "italian": "Direktion",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049426",
+      "label": {
+        "german": "DO",
+        "french": "DO",
+        "italian": "DO",
+        "english": ""
+      },
+      "name": {
+        "german": "Domestic Services",
+        "french": "Domestic Services",
+        "italian": "Domestic Services",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049427",
+      "label": {
+        "german": "DOC",
+        "french": "DOC",
+        "italian": "DOC",
+        "english": ""
+      },
+      "name": {
+        "german": "Chapter",
+        "french": "Chapter",
+        "italian": "Chapter",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049434",
+      "label": {
+        "german": "SUS",
+        "french": "SUS",
+        "italian": "SUS",
+        "english": ""
+      },
+      "name": {
+        "german": "Support Services",
+        "french": "Support Services",
+        "italian": "Support Services",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

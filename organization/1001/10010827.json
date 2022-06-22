@@ -1,1 +1,187 @@
-{"id"=>"10010827", "name"=>{"german"=>"Sektion Personal, Finanzen, Controlling", "french"=>"Section Personnel, finances, contrôle de gestion", "italian"=>"Sezione Personale, finanza, controlling", "english"=>""}, "nameAbbr"=>{"german"=>"PFC", "french"=>"PFC", "italian"=>"PFC", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Gurtengasse 5", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037456", "name"=>{"german"=>"Personal", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037457", "name"=>{"german"=>"Finanzen, Controlling", "french"=>"Finances, contrôle de gestion", "italian"=>"Finanza, controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20016529", "name"=>{"german"=>"Legalisationen", "french"=>"Légalisations", "italian"=>"Legalizzazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1620289", "surname"=>"Rüfenacht", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 27686", "function"=>{"german"=>"Co-Leiter/in", "french"=>"Co-Leiter/in", "italian"=>"Co-Leiter/in", "english"=>"Co-Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1939208", "surname"=>"Stöcklin", "givenName"=>"Denise", "email"=>nil, "phone"=>"+41 58 46 38128", "function"=>{"german"=>"Co-Leiter/in", "french"=>"Co-Leiter/in", "italian"=>"Co-Leiter/in", "english"=>"Co-Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10010826", "label"=>{"german"=>"R", "french"=>"R", "italian"=>"R", "english"=>""}, "name"=>{"german"=>"Bereich Ressourcen", "french"=>"Secteur Ressources", "italian"=>"Settore Risorse", "english"=>""}}, {"id"=>"10010827", "label"=>{"german"=>"PFC", "french"=>"PFC", "italian"=>"PFC", "english"=>""}, "name"=>{"german"=>"Sektion Personal, Finanzen, Controlling", "french"=>"Section Personnel, finances, contrôle de gestion", "italian"=>"Sezione Personale, finanza, controlling", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10010827",
+  "name": {
+    "german": "Sektion Personal, Finanzen, Controlling",
+    "french": "Section Personnel, finances, contrôle de gestion",
+    "italian": "Sezione Personale, finanza, controlling",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "PFC",
+    "french": "PFC",
+    "italian": "PFC",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Gurtengasse 5",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037456",
+      "name": {
+        "german": "Personal",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037457",
+      "name": {
+        "german": "Finanzen, Controlling",
+        "french": "Finances, contrôle de gestion",
+        "italian": "Finanza, controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016529",
+      "name": {
+        "german": "Legalisationen",
+        "french": "Légalisations",
+        "italian": "Legalizzazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1620289",
+      "surname": "Rüfenacht",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 27686",
+      "function": {
+        "german": "Co-Leiter/in",
+        "french": "Co-Leiter/in",
+        "italian": "Co-Leiter/in",
+        "english": "Co-Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1939208",
+      "surname": "Stöcklin",
+      "givenName": "Denise",
+      "email": null,
+      "phone": "+41 58 46 38128",
+      "function": {
+        "german": "Co-Leiter/in",
+        "french": "Co-Leiter/in",
+        "italian": "Co-Leiter/in",
+        "english": "Co-Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010826",
+      "label": {
+        "german": "R",
+        "french": "R",
+        "italian": "R",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Ressourcen",
+        "french": "Secteur Ressources",
+        "italian": "Settore Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010827",
+      "label": {
+        "german": "PFC",
+        "french": "PFC",
+        "italian": "PFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Personal, Finanzen, Controlling",
+        "french": "Section Personnel, finances, contrôle de gestion",
+        "italian": "Sezione Personale, finanza, controlling",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

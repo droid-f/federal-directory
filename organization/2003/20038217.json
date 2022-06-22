@@ -1,1 +1,289 @@
-{"id"=>"20038217", "name"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10000850", "name"=>{"german"=>"Konsulat Genua", "french"=>"Consulat de Gênes", "italian"=>"Consolato a Genova", "english"=>"Consulate in Genua"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000854", "name"=>{"german"=>"Konsulat Venedig", "french"=>"Consulat de Venise", "italian"=>"Consolato a Venezia", "english"=>"Consulate in Venice"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000894", "name"=>{"german"=>"Konsulat Bergamo", "french"=>"Consulat de Bergame", "italian"=>"Consolato a Bergamo", "english"=>"Consulate in Bergamo"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000895", "name"=>{"german"=>"Konsulat Bologna", "french"=>"Consulat de Bologne", "italian"=>"Consolato a Bologna", "english"=>"Consulate in Bologna"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000896", "name"=>{"german"=>"Konsulat Turin", "french"=>"Consulat de Turin", "italian"=>"Consolato a Torino", "english"=>"Consulate in Turin"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009047", "name"=>{"german"=>"Konsulat Padova", "french"=>"Consulat de Padova", "italian"=>"Consolato a Padova", "english"=>"Consulate in Padova"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035235", "label"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}, "name"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}}, {"id"=>"20035279", "label"=>{"german"=>"Italien", "french"=>"Italie", "italian"=>"Italia", "english"=>"Italy"}, "name"=>{"german"=>"Italien", "french"=>"Italie", "italian"=>"Italia", "english"=>"Italy"}}, {"id"=>"10000765", "label"=>{"german"=>"Botschaft Rom", "french"=>"Ambassade de Rome", "italian"=>"Ambasciata a Roma", "english"=>"Embassy in Rome"}, "name"=>{"german"=>"Botschaft Rom", "french"=>"Ambassade de Rome", "italian"=>"Ambasciata a Roma", "english"=>"Embassy in Rome"}}, {"id"=>"20038209", "label"=>{"german"=>"Konsularische Vertretungen", "french"=>"Représentations consulaires", "italian"=>"Rappresentanze consolari", "english"=>"Consular representations"}, "name"=>{"german"=>"Konsularische Vertretungen", "french"=>"Représentations consulaires", "italian"=>"Rappresentanze consolari", "english"=>"Consular representations"}}, {"id"=>"10000851", "label"=>{"german"=>"Generalkonsulat Mailand", "french"=>"Consulat général de Milan", "italian"=>"Consolato generale a Milano", "english"=>"Consulate General in Milan"}, "name"=>{"german"=>"Generalkonsulat Mailand", "french"=>"Consulat général de Milan", "italian"=>"Consolato generale a Milano", "english"=>"Consulate General in Milan"}}, {"id"=>"20038217", "label"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}, "name"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038217",
+  "name": {
+    "german": "Honorarvertretungen",
+    "french": "Représentations honoraires",
+    "italian": "Rappresentanze onorarie",
+    "english": "Honorary representations"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10000850",
+      "name": {
+        "german": "Konsulat Genua",
+        "french": "Consulat de Gênes",
+        "italian": "Consolato a Genova",
+        "english": "Consulate in Genua"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000854",
+      "name": {
+        "german": "Konsulat Venedig",
+        "french": "Consulat de Venise",
+        "italian": "Consolato a Venezia",
+        "english": "Consulate in Venice"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000894",
+      "name": {
+        "german": "Konsulat Bergamo",
+        "french": "Consulat de Bergame",
+        "italian": "Consolato a Bergamo",
+        "english": "Consulate in Bergamo"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000895",
+      "name": {
+        "german": "Konsulat Bologna",
+        "french": "Consulat de Bologne",
+        "italian": "Consolato a Bologna",
+        "english": "Consulate in Bologna"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000896",
+      "name": {
+        "german": "Konsulat Turin",
+        "french": "Consulat de Turin",
+        "italian": "Consolato a Torino",
+        "english": "Consulate in Turin"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009047",
+      "name": {
+        "german": "Konsulat Padova",
+        "french": "Consulat de Padova",
+        "italian": "Consolato a Padova",
+        "english": "Consulate in Padova"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035235",
+      "label": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      },
+      "name": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      }
+    },
+    {
+      "id": "20035279",
+      "label": {
+        "german": "Italien",
+        "french": "Italie",
+        "italian": "Italia",
+        "english": "Italy"
+      },
+      "name": {
+        "german": "Italien",
+        "french": "Italie",
+        "italian": "Italia",
+        "english": "Italy"
+      }
+    },
+    {
+      "id": "10000765",
+      "label": {
+        "german": "Botschaft Rom",
+        "french": "Ambassade de Rome",
+        "italian": "Ambasciata a Roma",
+        "english": "Embassy in Rome"
+      },
+      "name": {
+        "german": "Botschaft Rom",
+        "french": "Ambassade de Rome",
+        "italian": "Ambasciata a Roma",
+        "english": "Embassy in Rome"
+      }
+    },
+    {
+      "id": "20038209",
+      "label": {
+        "german": "Konsularische Vertretungen",
+        "french": "Représentations consulaires",
+        "italian": "Rappresentanze consolari",
+        "english": "Consular representations"
+      },
+      "name": {
+        "german": "Konsularische Vertretungen",
+        "french": "Représentations consulaires",
+        "italian": "Rappresentanze consolari",
+        "english": "Consular representations"
+      }
+    },
+    {
+      "id": "10000851",
+      "label": {
+        "german": "Generalkonsulat Mailand",
+        "french": "Consulat général de Milan",
+        "italian": "Consolato generale a Milano",
+        "english": "Consulate General in Milan"
+      },
+      "name": {
+        "german": "Generalkonsulat Mailand",
+        "french": "Consulat général de Milan",
+        "italian": "Consolato generale a Milano",
+        "english": "Consulate General in Milan"
+      }
+    },
+    {
+      "id": "20038217",
+      "label": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      },
+      "name": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,262 @@
-{"id"=>"20012388", "name"=>{"german"=>"Direktion", "french"=>"Direktion", "italian"=>"Direktion", "english"=>""}, "nameAbbr"=>{"german"=>"DI", "french"=>"DI", "italian"=>"DI", "english"=>""}, "address"=>{"addressLine2"=>"Campus Meielen", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20034103", "name"=>{"german"=>"Direktionsstab", "french"=>"Direktionsstab", "italian"=>"Direktionsstab", "english"=>""}, "nameAbbr"=>{"german"=>"DS", "french"=>"DS", "italian"=>"DS", "english"=>""}}, {"id"=>"20034454", "name"=>{"german"=>"Human Resources", "french"=>"Human Resources", "italian"=>"Human Resources", "english"=>""}, "nameAbbr"=>{"german"=>"HR", "french"=>"HR", "italian"=>"HR", "english"=>""}}, {"id"=>"20047905", "name"=>{"german"=>"Management Services", "french"=>"Management Services", "italian"=>"Management Services", "english"=>""}, "nameAbbr"=>{"german"=>"MS", "french"=>"MS", "italian"=>"MS", "english"=>""}}, {"id"=>"20049277", "name"=>{"german"=>"Business Solutions", "french"=>"Business Solutions", "italian"=>"Business Solutions", "english"=>""}, "nameAbbr"=>{"german"=>"BS", "french"=>"BS", "italian"=>"BS", "english"=>""}}, {"id"=>"20049677", "name"=>{"german"=>"Transformation", "french"=>"Transformation", "italian"=>"Transformation", "english"=>""}, "nameAbbr"=>{"german"=>"TR", "french"=>"TR", "italian"=>"TR", "english"=>""}}, {"id"=>"20049271", "name"=>{"german"=>"Platform Services", "french"=>"Platform Services", "italian"=>"Platform Services", "english"=>""}, "nameAbbr"=>{"german"=>"PS", "french"=>"PS", "italian"=>"PS", "english"=>""}}, {"id"=>"20049426", "name"=>{"german"=>"Domestic Services", "french"=>"Domestic Services", "italian"=>"Domestic Services", "english"=>""}, "nameAbbr"=>{"german"=>"DO", "french"=>"DO", "italian"=>"DO", "english"=>""}}, {"id"=>"20049455", "name"=>{"german"=>"Strategy and Innovation", "french"=>"Strategy and Innovation", "italian"=>"Strategy and Innovation", "english"=>""}, "nameAbbr"=>{"german"=>"SI", "french"=>"SI", "italian"=>"SI", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2013685", "surname"=>"Lindemann", "givenName"=>"Dirk", "email"=>nil, "phone"=>"+41 58 46 59020", "function"=>{"german"=>"Direktor/in", "french"=>"Direktor/in", "italian"=>"Direktor/in", "english"=>"Direktor/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8213552", "surname"=>"Voirol", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 74200", "function"=>{"german"=>"Stellvertretender Direktor, Leiter/in Strategy and Innovation", "french"=>"Vizedirektor/in, Leiter/in Strategy and", "italian"=>"Vizedirektor/in, Leiter/in Strategy and", "english"=>"Stv. Direktor/in, Leiter/in Strategy and"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008669", "label"=>{"german"=>"BIT", "french"=>"OFIT", "italian"=>"UFIT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Informatik und Telekommunikation", "french"=>"Office fédéral de l’informatique et de la télécommunication", "italian"=>"Ufficio federale dell'informatica e della telecomunicazione", "english"=>""}}, {"id"=>"20012388", "label"=>{"german"=>"DI", "french"=>"DI", "italian"=>"DI", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direktion", "italian"=>"Direktion", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012388",
+  "name": {
+    "german": "Direktion",
+    "french": "Direktion",
+    "italian": "Direktion",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "DI",
+    "french": "DI",
+    "italian": "DI",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Campus Meielen",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20034103",
+      "name": {
+        "german": "Direktionsstab",
+        "french": "Direktionsstab",
+        "italian": "Direktionsstab",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "DS",
+        "french": "DS",
+        "italian": "DS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034454",
+      "name": {
+        "german": "Human Resources",
+        "french": "Human Resources",
+        "italian": "Human Resources",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "HR",
+        "french": "HR",
+        "italian": "HR",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047905",
+      "name": {
+        "german": "Management Services",
+        "french": "Management Services",
+        "italian": "Management Services",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "MS",
+        "french": "MS",
+        "italian": "MS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049277",
+      "name": {
+        "german": "Business Solutions",
+        "french": "Business Solutions",
+        "italian": "Business Solutions",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BS",
+        "french": "BS",
+        "italian": "BS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049677",
+      "name": {
+        "german": "Transformation",
+        "french": "Transformation",
+        "italian": "Transformation",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TR",
+        "french": "TR",
+        "italian": "TR",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049271",
+      "name": {
+        "german": "Platform Services",
+        "french": "Platform Services",
+        "italian": "Platform Services",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "PS",
+        "french": "PS",
+        "italian": "PS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049426",
+      "name": {
+        "german": "Domestic Services",
+        "french": "Domestic Services",
+        "italian": "Domestic Services",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "DO",
+        "french": "DO",
+        "italian": "DO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049455",
+      "name": {
+        "german": "Strategy and Innovation",
+        "french": "Strategy and Innovation",
+        "italian": "Strategy and Innovation",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SI",
+        "french": "SI",
+        "italian": "SI",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2013685",
+      "surname": "Lindemann",
+      "givenName": "Dirk",
+      "email": null,
+      "phone": "+41 58 46 59020",
+      "function": {
+        "german": "Direktor/in",
+        "french": "Direktor/in",
+        "italian": "Direktor/in",
+        "english": "Direktor/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8213552",
+      "surname": "Voirol",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 74200",
+      "function": {
+        "german": "Stellvertretender Direktor, Leiter/in Strategy and Innovation",
+        "french": "Vizedirektor/in, Leiter/in Strategy and",
+        "italian": "Vizedirektor/in, Leiter/in Strategy and",
+        "english": "Stv. Direktor/in, Leiter/in Strategy and"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008669",
+      "label": {
+        "german": "BIT",
+        "french": "OFIT",
+        "italian": "UFIT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Informatik und Telekommunikation",
+        "french": "Office fédéral de l’informatique et de la télécommunication",
+        "italian": "Ufficio federale dell'informatica e della telecomunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012388",
+      "label": {
+        "german": "DI",
+        "french": "DI",
+        "italian": "DI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direktion",
+        "italian": "Direktion",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

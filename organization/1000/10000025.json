@@ -1,1 +1,297 @@
-{"id"=>"10000025", "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}, "nameAbbr"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584622111", "fax"=>"+41584631916", "email"=>"info@bk.admin.ch", "homepage"=>{"german"=>"www.bk.admin.ch", "french"=>"www.bk.admin.ch", "italian"=>"www.bk.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20019927", "name"=>{"german"=>"Stab Bundeskanzler", "french"=>"Etat-major du Chancelier", "italian"=>"Stato maggiore dei Cancelliere", "english"=>""}, "nameAbbr"=>{"german"=>"Stab", "french"=>"Stab", "italian"=>"Stab", "english"=>""}}, {"id"=>"10010826", "name"=>{"german"=>"Bereich Ressourcen", "french"=>"Secteur Ressources", "italian"=>"Settore Risorse", "english"=>""}, "nameAbbr"=>{"german"=>"R", "french"=>"R", "italian"=>"R", "english"=>""}}, {"id"=>"10010833", "name"=>{"german"=>"Bereich Bundeskanzler", "french"=>"Secteur Chancelier de la Confédération", "italian"=>"Settore Cancelliere della Confederazione", "english"=>""}, "nameAbbr"=>{"german"=>"BK", "french"=>"BK", "italian"=>"BK", "english"=>""}}, {"id"=>"10002674", "name"=>{"german"=>"Bereich Bundesrat", "french"=>"Secteur Conseil fédéral", "italian"=>"Settore Consiglio federale", "english"=>""}, "nameAbbr"=>{"german"=>"BR", "french"=>"BR", "italian"=>"BR", "english"=>""}}, {"id"=>"10002695", "name"=>{"german"=>"Bereich Kommunikation und Strategie", "french"=>"Secteur communication et stratégie", "italian"=>"Settore comunicazione e strategia", "english"=>""}, "nameAbbr"=>{"german"=>"KS", "french"=>"KS", "italian"=>"KS", "english"=>""}}, {"id"=>"20048177", "name"=>{"german"=>"Bereich Digitale Transformation und IKT-Lenkung", "french"=>"Secteur Transformation numérique et gouvernance de l’informatique", "italian"=>"Settore Trasformazione digitale e governance delle TIC", "english"=>""}, "nameAbbr"=>{"german"=>"DTI", "french"=>"TNI", "italian"=>"TDT", "english"=>""}}, {"id"=>"10002693", "name"=>{"german"=>"Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter", "french"=>"Préposé fédéral à la protection des données et à la transparence", "italian"=>"Incaricato federale della protezione dei dati e della trasparenza", "english"=>"EDÖB"}, "nameAbbr"=>{"german"=>"EDÖB", "french"=>"PFPDT", "italian"=>"IFPDT", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4000408", "surname"=>"Thurnherr", "givenName"=>"Walter", "email"=>nil, "phone"=>"+41 58 46 23701", "function"=>{"german"=>"Bundeskanzler/in", "french"=>"Bundeskanzler/in", "italian"=>"Bundeskanzler/in", "english"=>"Bundeskanzler/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>141, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-6819036", "surname"=>"Rossi", "givenName"=>"Viktor", "email"=>nil, "phone"=>"+41 58 46 23011", "function"=>{"german"=>"Vizekanzler/in", "french"=>"Vice-Chancelier", "italian"=>"Vice-Cancelliere", "english"=>""}, "isVisibleInEstKa"=>true}, {"functionId"=>142, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-0115118", "surname"=>"Simonazzi", "givenName"=>"André", "email"=>nil, "phone"=>"+41 58 46 23703", "function"=>{"german"=>"Vizekanzler/in / Bundesratssprecher/in", "french"=>"Vice-Chancelier / Porte-parole du Conseil fédéral", "italian"=>"Vice-Cancelliere / Portavoce del Consiglio federale", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>137, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-4306675", "surname"=>"De Bernardi", "givenName"=>"Jörg", "email"=>nil, "phone"=>"+41 58 46 05213", "function"=>{"german"=>"Mitglied der Geschäftsleitung", "french"=>"Membre de la direction", "italian"=>"Membro della direzione", "english"=>""}, "isVisibleInEstKa"=>true}, {"functionId"=>139, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-4902839", "surname"=>"Markwalder", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 20010", "function"=>{"german"=>"Mitglied der Geschäftsleitung", "french"=>"Membre de la direction", "italian"=>"Membro della direzione", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}], "contactPoints"=>[{"id"=>76, "name"=>{"german"=>"Hauszentrale", "french"=>"Centrale téléphonique", "italian"=>"Centralino", "english"=>""}, "email"=>nil, "phone"=>"+41 58 462 21 11", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}, {"id"=>77, "name"=>{"german"=>"Vorzimmer", "french"=>"Antichambre", "italian"=>"Anticamera", "english"=>""}, "email"=>nil, "phone"=>"+41 58 462 37 58", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[0]}
+{
+  "id": "10000025",
+  "name": {
+    "german": "Bundeskanzlei",
+    "french": "Chancellerie fédérale",
+    "italian": "Cancelleria federale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BK",
+    "french": "ChF",
+    "italian": "CaF",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584622111",
+    "fax": "+41584631916",
+    "email": "info@bk.admin.ch",
+    "homepage": {
+      "german": "www.bk.admin.ch",
+      "french": "www.bk.admin.ch",
+      "italian": "www.bk.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20019927",
+      "name": {
+        "german": "Stab Bundeskanzler",
+        "french": "Etat-major du Chancelier",
+        "italian": "Stato maggiore dei Cancelliere",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "Stab",
+        "french": "Stab",
+        "italian": "Stab",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010826",
+      "name": {
+        "german": "Bereich Ressourcen",
+        "french": "Secteur Ressources",
+        "italian": "Settore Risorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "R",
+        "french": "R",
+        "italian": "R",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010833",
+      "name": {
+        "german": "Bereich Bundeskanzler",
+        "french": "Secteur Chancelier de la Confédération",
+        "italian": "Settore Cancelliere della Confederazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BK",
+        "french": "BK",
+        "italian": "BK",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002674",
+      "name": {
+        "german": "Bereich Bundesrat",
+        "french": "Secteur Conseil fédéral",
+        "italian": "Settore Consiglio federale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BR",
+        "french": "BR",
+        "italian": "BR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002695",
+      "name": {
+        "german": "Bereich Kommunikation und Strategie",
+        "french": "Secteur communication et stratégie",
+        "italian": "Settore comunicazione e strategia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "KS",
+        "french": "KS",
+        "italian": "KS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048177",
+      "name": {
+        "german": "Bereich Digitale Transformation und IKT-Lenkung",
+        "french": "Secteur Transformation numérique et gouvernance de l’informatique",
+        "italian": "Settore Trasformazione digitale e governance delle TIC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "DTI",
+        "french": "TNI",
+        "italian": "TDT",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002693",
+      "name": {
+        "german": "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter",
+        "french": "Préposé fédéral à la protection des données et à la transparence",
+        "italian": "Incaricato federale della protezione dei dati e della trasparenza",
+        "english": "EDÖB"
+      },
+      "nameAbbr": {
+        "german": "EDÖB",
+        "french": "PFPDT",
+        "italian": "IFPDT",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4000408",
+      "surname": "Thurnherr",
+      "givenName": "Walter",
+      "email": null,
+      "phone": "+41 58 46 23701",
+      "function": {
+        "german": "Bundeskanzler/in",
+        "french": "Bundeskanzler/in",
+        "italian": "Bundeskanzler/in",
+        "english": "Bundeskanzler/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 141,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-6819036",
+      "surname": "Rossi",
+      "givenName": "Viktor",
+      "email": null,
+      "phone": "+41 58 46 23011",
+      "function": {
+        "german": "Vizekanzler/in",
+        "french": "Vice-Chancelier",
+        "italian": "Vice-Cancelliere",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 142,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-0115118",
+      "surname": "Simonazzi",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 58 46 23703",
+      "function": {
+        "german": "Vizekanzler/in / Bundesratssprecher/in",
+        "french": "Vice-Chancelier / Porte-parole du Conseil fédéral",
+        "italian": "Vice-Cancelliere / Portavoce del Consiglio federale",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 137,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-4306675",
+      "surname": "De Bernardi",
+      "givenName": "Jörg",
+      "email": null,
+      "phone": "+41 58 46 05213",
+      "function": {
+        "german": "Mitglied der Geschäftsleitung",
+        "french": "Membre de la direction",
+        "italian": "Membro della direzione",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 139,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-4902839",
+      "surname": "Markwalder",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 20010",
+      "function": {
+        "german": "Mitglied der Geschäftsleitung",
+        "french": "Membre de la direction",
+        "italian": "Membro della direzione",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 76,
+      "name": {
+        "german": "Hauszentrale",
+        "french": "Centrale téléphonique",
+        "italian": "Centralino",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 462 21 11",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    },
+    {
+      "id": 77,
+      "name": {
+        "german": "Vorzimmer",
+        "french": "Antichambre",
+        "italian": "Anticamera",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 462 37 58",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+    0
+  ]
+}

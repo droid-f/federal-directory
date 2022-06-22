@@ -1,1 +1,197 @@
-{"id"=>"20050079", "name"=>{"german"=>"HR GS-UVEK", "french"=>"HR GS-UVEK", "italian"=>"HR GS-UVEK", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6185459", "surname"=>"Tinner", "givenName"=>"Alfred", "email"=>nil, "phone"=>"+41 58 46 55022", "function"=>{"german"=>"Leiter HR GS UVEK / Leiter C.", "french"=>"Leiter HR GS UVEK / Leiter C.", "italian"=>"Leiter HR GS UVEK / Leiter C.", "english"=>"Leiter HR GS UVEK / Leiter C."}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4463906", "surname"=>"Oberli", "givenName"=>"Monika", "email"=>nil, "phone"=>"+41 58 46 47127", "function"=>{"german"=>"HR-Fachfrau/Berufsbildnerin", "french"=>"HR-Fachfrau/Berufsbildnerin", "italian"=>"HR-Fachfrau/Berufsbildnerin", "english"=>"HR-Fachfrau/Berufsbildnerin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6677623", "surname"=>"Rappo Conca", "givenName"=>"Sabine", "email"=>nil, "phone"=>"+41 58 46 57143", "function"=>{"german"=>"Fachspezialistin Personelles Rechnungsw.", "french"=>"Fachspezialistin Personelles Rechnungsw.", "italian"=>"Fachspezialistin Personelles Rechnungsw.", "english"=>"Fachspezialistin Personelles Rechnungsw."}, "isVisibleInEstKa"=>true}, {"id"=>"p-0446055", "surname"=>"Wüthrich", "givenName"=>"Corinne", "email"=>nil, "phone"=>"+41 58 46 30588", "function"=>{"german"=>"HR-Fachfrau", "french"=>"HR-Fachfrau", "italian"=>"HR-Fachfrau", "english"=>"HR-Fachfrau"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20027560", "label"=>{"german"=>"Ressourcen und Logistik, Rechtsdienst", "french"=>"Ressourcen und Logistik, Rechtsdienst", "italian"=>"Ressourcen und Logistik, Rechtsdienst", "english"=>""}, "name"=>{"german"=>"Ressourcen und Logistik, Rechtsdienst", "french"=>"Ressourcen und Logistik, Rechtsdienst", "italian"=>"Ressourcen und Logistik, Rechtsdienst", "english"=>""}}, {"id"=>"20027566", "label"=>{"german"=>"Human Resources UVEK", "french"=>"Ressources humaines DETEC", "italian"=>"Risorse umane DATEC", "english"=>""}, "name"=>{"german"=>"Human Resources UVEK", "french"=>"Ressources humaines DETEC", "italian"=>"Risorse umane DATEC", "english"=>""}}, {"id"=>"20050079", "label"=>{"german"=>"HR GS-UVEK", "french"=>"HR GS-UVEK", "italian"=>"HR GS-UVEK", "english"=>""}, "name"=>{"german"=>"HR GS-UVEK", "french"=>"HR GS-UVEK", "italian"=>"HR GS-UVEK", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050079",
+  "name": {
+    "german": "HR GS-UVEK",
+    "french": "HR GS-UVEK",
+    "italian": "HR GS-UVEK",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6185459",
+      "surname": "Tinner",
+      "givenName": "Alfred",
+      "email": null,
+      "phone": "+41 58 46 55022",
+      "function": {
+        "german": "Leiter HR GS UVEK / Leiter C.",
+        "french": "Leiter HR GS UVEK / Leiter C.",
+        "italian": "Leiter HR GS UVEK / Leiter C.",
+        "english": "Leiter HR GS UVEK / Leiter C."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4463906",
+      "surname": "Oberli",
+      "givenName": "Monika",
+      "email": null,
+      "phone": "+41 58 46 47127",
+      "function": {
+        "german": "HR-Fachfrau/Berufsbildnerin",
+        "french": "HR-Fachfrau/Berufsbildnerin",
+        "italian": "HR-Fachfrau/Berufsbildnerin",
+        "english": "HR-Fachfrau/Berufsbildnerin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6677623",
+      "surname": "Rappo Conca",
+      "givenName": "Sabine",
+      "email": null,
+      "phone": "+41 58 46 57143",
+      "function": {
+        "german": "Fachspezialistin Personelles Rechnungsw.",
+        "french": "Fachspezialistin Personelles Rechnungsw.",
+        "italian": "Fachspezialistin Personelles Rechnungsw.",
+        "english": "Fachspezialistin Personelles Rechnungsw."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0446055",
+      "surname": "Wüthrich",
+      "givenName": "Corinne",
+      "email": null,
+      "phone": "+41 58 46 30588",
+      "function": {
+        "german": "HR-Fachfrau",
+        "french": "HR-Fachfrau",
+        "italian": "HR-Fachfrau",
+        "english": "HR-Fachfrau"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027560",
+      "label": {
+        "german": "Ressourcen und Logistik, Rechtsdienst",
+        "french": "Ressourcen und Logistik, Rechtsdienst",
+        "italian": "Ressourcen und Logistik, Rechtsdienst",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen und Logistik, Rechtsdienst",
+        "french": "Ressourcen und Logistik, Rechtsdienst",
+        "italian": "Ressourcen und Logistik, Rechtsdienst",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027566",
+      "label": {
+        "german": "Human Resources UVEK",
+        "french": "Ressources humaines DETEC",
+        "italian": "Risorse umane DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources UVEK",
+        "french": "Ressources humaines DETEC",
+        "italian": "Risorse umane DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050079",
+      "label": {
+        "german": "HR GS-UVEK",
+        "french": "HR GS-UVEK",
+        "italian": "HR GS-UVEK",
+        "english": ""
+      },
+      "name": {
+        "german": "HR GS-UVEK",
+        "french": "HR GS-UVEK",
+        "italian": "HR GS-UVEK",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

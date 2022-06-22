@@ -1,1 +1,169 @@
-{"id"=>"20005132", "name"=>{"german"=>"FB Internationales Strafrecht", "french"=>"Unité Droit pénal international", "italian"=>"Settore Diritto penale internazionale", "english"=>""}, "nameAbbr"=>{"german"=>"ISTR", "french"=>"ISTR", "italian"=>"ISTR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"+41313121407", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>true, "id"=>"p-8153240", "surname"=>"Candrian", "givenName"=>"Andrea", "email"=>nil, "phone"=>"+41 58 46 29792", "function"=>{"german"=>"Chef ISTR", "french"=>"Chef ISTR", "italian"=>"Capo ISTR", "english"=>"Chef ISTR"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1115452", "surname"=>"Gonin", "givenName"=>"Olivier", "email"=>nil, "phone"=>"+41 58 46 30850", "function"=>{"german"=>"Stv. Chef ISTR", "french"=>"Chef suppléant ISTR", "italian"=>"Capo supplente ISTR", "english"=>"Stv. Chef ISTR"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002465", "label"=>{"german"=>"STRAFR", "french"=>"STRAFR", "italian"=>"STRAFR", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Strafrecht", "french"=>"Domaine de direction Droit pénal", "italian"=>"Ambito direzionale Diritto penale", "english"=>""}}, {"id"=>"20005132", "label"=>{"german"=>"ISTR", "french"=>"ISTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"FB Internationales Strafrecht", "french"=>"Unité Droit pénal international", "italian"=>"Settore Diritto penale internazionale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005132",
+  "name": {
+    "german": "FB Internationales Strafrecht",
+    "french": "Unité Droit pénal international",
+    "italian": "Settore Diritto penale internazionale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ISTR",
+    "french": "ISTR",
+    "italian": "ISTR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "+41313121407",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": true,
+      "id": "p-8153240",
+      "surname": "Candrian",
+      "givenName": "Andrea",
+      "email": null,
+      "phone": "+41 58 46 29792",
+      "function": {
+        "german": "Chef ISTR",
+        "french": "Chef ISTR",
+        "italian": "Capo ISTR",
+        "english": "Chef ISTR"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1115452",
+      "surname": "Gonin",
+      "givenName": "Olivier",
+      "email": null,
+      "phone": "+41 58 46 30850",
+      "function": {
+        "german": "Stv. Chef ISTR",
+        "french": "Chef suppléant ISTR",
+        "italian": "Capo supplente ISTR",
+        "english": "Stv. Chef ISTR"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002465",
+      "label": {
+        "german": "STRAFR",
+        "french": "STRAFR",
+        "italian": "STRAFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Strafrecht",
+        "french": "Domaine de direction Droit pénal",
+        "italian": "Ambito direzionale Diritto penale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005132",
+      "label": {
+        "german": "ISTR",
+        "french": "ISTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "FB Internationales Strafrecht",
+        "french": "Unité Droit pénal international",
+        "italian": "Settore Diritto penale internazionale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

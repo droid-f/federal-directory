@@ -1,1 +1,229 @@
-{"id"=>"60031819@11.05", "name"=>{"german"=>"Testing", "french"=>"Testing", "italian"=>"Testing", "english"=>""}, "nameAbbr"=>{"german"=>"BAGEE", "french"=>"BAGEE", "italian"=>"BAGEE", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse", "postalCode"=>"3000", "location"=>"Bern 22", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"60032003@11.05", "name"=>{"german"=>"Electromagnetic Compatibility", "french"=>"Electromagnetic Compatibility", "italian"=>"Electromagnetic Compatibility", "english"=>""}, "nameAbbr"=>{"german"=>"BAGEEB", "french"=>"BAGEEB", "italian"=>"BAGEEB", "english"=>""}}, {"id"=>"60032004@11.05", "name"=>{"german"=>"Environmental Simulation", "french"=>"Environmental Simulation", "italian"=>"Environmental Simulation", "english"=>""}, "nameAbbr"=>{"german"=>"BAGEEC", "french"=>"BAGEEC", "italian"=>"BAGEEC", "english"=>""}}, {"id"=>"60032005@11.05", "name"=>{"german"=>"Material Testing", "french"=>"Material Testing", "italian"=>"Material Testing", "english"=>""}, "nameAbbr"=>{"german"=>"BAGEED", "french"=>"BAGEED", "italian"=>"BAGEED", "english"=>""}}, {"id"=>"60032002@11.05", "name"=>{"german"=>"SW Testing", "french"=>"SW Testing", "italian"=>"SW Testing", "english"=>""}, "nameAbbr"=>{"german"=>"BAGEEA", "french"=>"BAGEEA", "italian"=>"BAGEEA", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031751@11.05", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Business Area Ground", "french"=>"Business Area Ground", "italian"=>"Business Area Ground", "english"=>""}}, {"id"=>"60031766@11.05", "label"=>{"german"=>"BAGE", "french"=>"BAGE", "italian"=>"BAGE", "english"=>""}, "name"=>{"german"=>"Engineering", "french"=>"Engineering", "italian"=>"Engineering", "english"=>""}}, {"id"=>"60031819@11.05", "label"=>{"german"=>"BAGEE", "french"=>"BAGEE", "italian"=>"BAGEE", "english"=>""}, "name"=>{"german"=>"Testing", "french"=>"Testing", "italian"=>"Testing", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60031819@11.05",
+  "name": {
+    "german": "Testing",
+    "french": "Testing",
+    "italian": "Testing",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BAGEE",
+    "french": "BAGEE",
+    "italian": "BAGEE",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse",
+    "postalCode": "3000",
+    "location": "Bern 22",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "60032003@11.05",
+      "name": {
+        "german": "Electromagnetic Compatibility",
+        "french": "Electromagnetic Compatibility",
+        "italian": "Electromagnetic Compatibility",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAGEEB",
+        "french": "BAGEEB",
+        "italian": "BAGEEB",
+        "english": ""
+      }
+    },
+    {
+      "id": "60032004@11.05",
+      "name": {
+        "german": "Environmental Simulation",
+        "french": "Environmental Simulation",
+        "italian": "Environmental Simulation",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAGEEC",
+        "french": "BAGEEC",
+        "italian": "BAGEEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "60032005@11.05",
+      "name": {
+        "german": "Material Testing",
+        "french": "Material Testing",
+        "italian": "Material Testing",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAGEED",
+        "french": "BAGEED",
+        "italian": "BAGEED",
+        "english": ""
+      }
+    },
+    {
+      "id": "60032002@11.05",
+      "name": {
+        "german": "SW Testing",
+        "french": "SW Testing",
+        "italian": "SW Testing",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAGEEA",
+        "french": "BAGEEA",
+        "italian": "BAGEEA",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031751@11.05",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Area Ground",
+        "french": "Business Area Ground",
+        "italian": "Business Area Ground",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031766@11.05",
+      "label": {
+        "german": "BAGE",
+        "french": "BAGE",
+        "italian": "BAGE",
+        "english": ""
+      },
+      "name": {
+        "german": "Engineering",
+        "french": "Engineering",
+        "italian": "Engineering",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031819@11.05",
+      "label": {
+        "german": "BAGEE",
+        "french": "BAGEE",
+        "italian": "BAGEE",
+        "english": ""
+      },
+      "name": {
+        "german": "Testing",
+        "french": "Testing",
+        "italian": "Testing",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

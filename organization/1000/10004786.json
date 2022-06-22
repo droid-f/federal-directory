@@ -1,1 +1,260 @@
-{"id"=>"10004786", "name"=>{"german"=>"Personalbewirtschaftung", "french"=>"Gestion du personnel", "italian"=>"Gestione del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Rodtmattstrasse 110", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20009434", "name"=>{"german"=>"Militärdienstpflicht Verfügungen", "french"=>"Obligations militaires décisions", "italian"=>"Obbligo di prestare S mil e decisioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004788", "name"=>{"german"=>"Kontrollführung Grundausbildungsdienste", "french"=>"Tenue des contrôles SIB", "italian"=>"Tenuta dei controlli SIB", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037231", "name"=>{"german"=>"Kontrollführung Offizierswesen", "french"=>"Tenue du contrôle des Officiers", "italian"=>"Tenuta dei controlli degli ufficiali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009433", "name"=>{"german"=>"KF FDT 1 / Kdo Op", "french"=>"Tenue des contrôles SP trp 1 / Cdmt Op", "italian"=>"Tenuta dei controlli SPT 1 / Cdo Op", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009432", "name"=>{"german"=>"KF FDT 2 / AStab/LBA/FUB/Kdo Ausb", "french"=>"TC SP trp 2 / EM A/BLA/BAC/Cdmt Instr", "italian"=>"TC SPT 2 / SMEs/BLEs/BAC/Cdo Istr", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042593", "name"=>{"german"=>"Ausbildungsgutschrift", "french"=>"Indemnité de formation", "italian"=>"Contributo per la formazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0906982", "surname"=>"Dalla Vecchia", "givenName"=>"Beat", "email"=>nil, "phone"=>"+41 58 46 31458", "function"=>{"german"=>"Chef/in Personalbewirtschaftung", "french"=>"Chef Gestion du personnel", "italian"=>"Capo Gestione del personale", "english"=>"Chef/in Personalbewirtschaftung"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"10004760", "label"=>{"german"=>"PERSA", "french"=>"PERSA", "italian"=>"PERSA", "english"=>""}, "name"=>{"german"=>"Personelles der Armee", "french"=>"Personnel de l'armée", "italian"=>"Personale dell'esercito", "english"=>""}}, {"id"=>"10004786", "label"=>{"german"=>"Personalbewirtschaftung", "french"=>"Gestion du personnel", "italian"=>"Gestione del personale", "english"=>""}, "name"=>{"german"=>"Personalbewirtschaftung", "french"=>"Gestion du personnel", "italian"=>"Gestione del personale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004786",
+  "name": {
+    "german": "Personalbewirtschaftung",
+    "french": "Gestion du personnel",
+    "italian": "Gestione del personale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Rodtmattstrasse 110",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20009434",
+      "name": {
+        "german": "Militärdienstpflicht Verfügungen",
+        "french": "Obligations militaires décisions",
+        "italian": "Obbligo di prestare S mil e decisioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004788",
+      "name": {
+        "german": "Kontrollführung Grundausbildungsdienste",
+        "french": "Tenue des contrôles SIB",
+        "italian": "Tenuta dei controlli SIB",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037231",
+      "name": {
+        "german": "Kontrollführung Offizierswesen",
+        "french": "Tenue du contrôle des Officiers",
+        "italian": "Tenuta dei controlli degli ufficiali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009433",
+      "name": {
+        "german": "KF FDT 1 / Kdo Op",
+        "french": "Tenue des contrôles SP trp 1 / Cdmt Op",
+        "italian": "Tenuta dei controlli SPT 1 / Cdo Op",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009432",
+      "name": {
+        "german": "KF FDT 2 / AStab/LBA/FUB/Kdo Ausb",
+        "french": "TC SP trp 2 / EM A/BLA/BAC/Cdmt Instr",
+        "italian": "TC SPT 2 / SMEs/BLEs/BAC/Cdo Istr",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042593",
+      "name": {
+        "german": "Ausbildungsgutschrift",
+        "french": "Indemnité de formation",
+        "italian": "Contributo per la formazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0906982",
+      "surname": "Dalla Vecchia",
+      "givenName": "Beat",
+      "email": null,
+      "phone": "+41 58 46 31458",
+      "function": {
+        "german": "Chef/in Personalbewirtschaftung",
+        "french": "Chef Gestion du personnel",
+        "italian": "Capo Gestione del personale",
+        "english": "Chef/in Personalbewirtschaftung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004760",
+      "label": {
+        "german": "PERSA",
+        "french": "PERSA",
+        "italian": "PERSA",
+        "english": ""
+      },
+      "name": {
+        "german": "Personelles der Armee",
+        "french": "Personnel de l'armée",
+        "italian": "Personale dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004786",
+      "label": {
+        "german": "Personalbewirtschaftung",
+        "french": "Gestion du personnel",
+        "italian": "Gestione del personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personalbewirtschaftung",
+        "french": "Gestion du personnel",
+        "italian": "Gestione del personale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

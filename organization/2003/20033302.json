@@ -1,1 +1,156 @@
-{"id"=>"20033302", "name"=>{"german"=>"Rechtsberatung EDA", "french"=>"Conseil juridique DFAE", "italian"=>"Consulenza giuridica DFAE", "english"=>"FDFA Legal Advisory Service"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2054227", "surname"=>"Mottet", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 23798", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20024457", "label"=>{"german"=>"Fachdienste EDA", "french"=>"Services spécialisés DFAE", "italian"=>"Servizi specializzati DFAE", "english"=>"FDFA Specialised Services"}, "name"=>{"german"=>"Fachdienste EDA", "french"=>"Services spécialisés DFAE", "italian"=>"Servizi specializzati DFAE", "english"=>"FDFA Specialised Services"}}, {"id"=>"20024458", "label"=>{"german"=>"Rechtsdienst EDA", "french"=>"Service juridique DFAE", "italian"=>"Servizio giuridico DFAE", "english"=>"FDFA Legal Services"}, "name"=>{"german"=>"Rechtsdienst EDA", "french"=>"Service juridique DFAE", "italian"=>"Servizio giuridico DFAE", "english"=>"FDFA Legal Services"}}, {"id"=>"20033302", "label"=>{"german"=>"Rechtsberatung EDA", "french"=>"Conseil juridique DFAE", "italian"=>"Consulenza giuridica DFAE", "english"=>"FDFA Legal Advisory Service"}, "name"=>{"german"=>"Rechtsberatung EDA", "french"=>"Conseil juridique DFAE", "italian"=>"Consulenza giuridica DFAE", "english"=>"FDFA Legal Advisory Service"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20033302",
+  "name": {
+    "german": "Rechtsberatung EDA",
+    "french": "Conseil juridique DFAE",
+    "italian": "Consulenza giuridica DFAE",
+    "english": "FDFA Legal Advisory Service"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2054227",
+      "surname": "Mottet",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 23798",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20024457",
+      "label": {
+        "german": "Fachdienste EDA",
+        "french": "Services spécialisés DFAE",
+        "italian": "Servizi specializzati DFAE",
+        "english": "FDFA Specialised Services"
+      },
+      "name": {
+        "german": "Fachdienste EDA",
+        "french": "Services spécialisés DFAE",
+        "italian": "Servizi specializzati DFAE",
+        "english": "FDFA Specialised Services"
+      }
+    },
+    {
+      "id": "20024458",
+      "label": {
+        "german": "Rechtsdienst EDA",
+        "french": "Service juridique DFAE",
+        "italian": "Servizio giuridico DFAE",
+        "english": "FDFA Legal Services"
+      },
+      "name": {
+        "german": "Rechtsdienst EDA",
+        "french": "Service juridique DFAE",
+        "italian": "Servizio giuridico DFAE",
+        "english": "FDFA Legal Services"
+      }
+    },
+    {
+      "id": "20033302",
+      "label": {
+        "german": "Rechtsberatung EDA",
+        "french": "Conseil juridique DFAE",
+        "italian": "Consulenza giuridica DFAE",
+        "english": "FDFA Legal Advisory Service"
+      },
+      "name": {
+        "german": "Rechtsberatung EDA",
+        "french": "Conseil juridique DFAE",
+        "italian": "Consulenza giuridica DFAE",
+        "english": "FDFA Legal Advisory Service"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

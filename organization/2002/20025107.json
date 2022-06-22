@@ -1,1 +1,141 @@
-{"id"=>"20025107", "name"=>{"german"=>"Revisionsgruppe Vertretungen", "french"=>"Groupe d'audit Représentations", "italian"=>"Gruppo di revisione Rappresentanze", "english"=>"Representations Audit Team"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4685364", "surname"=>"Nelson", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 48 00477", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000530", "label"=>{"german"=>"GS-EDA", "french"=>"SG-DFAE", "italian"=>"SG-DFAE", "english"=>"FDFA-GS"}, "name"=>{"german"=>"Generalsekretariat EDA", "french"=>"Secrétariat général DFAE", "italian"=>"Segreteria generale DFAE", "english"=>"FDFA General Secretariat"}}, {"id"=>"20011151", "label"=>{"german"=>"Interne Revision EDA", "french"=>"Audit interne DFAE", "italian"=>"Revisione interna DFAE", "english"=>"FDFA Internal Audit"}, "name"=>{"german"=>"Interne Revision EDA", "french"=>"Audit interne DFAE", "italian"=>"Revisione interna DFAE", "english"=>"FDFA Internal Audit"}}, {"id"=>"20025107", "label"=>{"german"=>"Revisionsgruppe Vertretungen", "french"=>"Groupe d'audit Représentations", "italian"=>"Gruppo di revisione Rappresentanze", "english"=>"Representations Audit Team"}, "name"=>{"german"=>"Revisionsgruppe Vertretungen", "french"=>"Groupe d'audit Représentations", "italian"=>"Gruppo di revisione Rappresentanze", "english"=>"Representations Audit Team"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025107",
+  "name": {
+    "german": "Revisionsgruppe Vertretungen",
+    "french": "Groupe d'audit Représentations",
+    "italian": "Gruppo di revisione Rappresentanze",
+    "english": "Representations Audit Team"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4685364",
+      "surname": "Nelson",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 48 00477",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000530",
+      "label": {
+        "german": "GS-EDA",
+        "french": "SG-DFAE",
+        "italian": "SG-DFAE",
+        "english": "FDFA-GS"
+      },
+      "name": {
+        "german": "Generalsekretariat EDA",
+        "french": "Secrétariat général DFAE",
+        "italian": "Segreteria generale DFAE",
+        "english": "FDFA General Secretariat"
+      }
+    },
+    {
+      "id": "20011151",
+      "label": {
+        "german": "Interne Revision EDA",
+        "french": "Audit interne DFAE",
+        "italian": "Revisione interna DFAE",
+        "english": "FDFA Internal Audit"
+      },
+      "name": {
+        "german": "Interne Revision EDA",
+        "french": "Audit interne DFAE",
+        "italian": "Revisione interna DFAE",
+        "english": "FDFA Internal Audit"
+      }
+    },
+    {
+      "id": "20025107",
+      "label": {
+        "german": "Revisionsgruppe Vertretungen",
+        "french": "Groupe d'audit Représentations",
+        "italian": "Gruppo di revisione Rappresentanze",
+        "english": "Representations Audit Team"
+      },
+      "name": {
+        "german": "Revisionsgruppe Vertretungen",
+        "french": "Groupe d'audit Représentations",
+        "italian": "Gruppo di revisione Rappresentanze",
+        "english": "Representations Audit Team"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

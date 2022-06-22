@@ -1,1 +1,181 @@
-{"id"=>"20030151", "name"=>{"german"=>"Abteilung VI Kammer 1.7", "french"=>"Cour VI Chambre 1.1", "italian"=>"Corte VI Camera 1.1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2212132", "surname"=>"Haefeli", "givenName"=>"Fulvio", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Richter/in Abteilung VI", "french"=>"Juge Cour VI", "italian"=>"Giudice Corte VI", "english"=>"Richter/in Abteilung VI"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3585677", "surname"=>"Brand", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung VI", "french"=>"Greffier/Greffière II Cour VI", "italian"=>"Cancelliere/a II Corte VI", "english"=>"Gerichtsschreiber/in II Abteilung VI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0835283", "surname"=>"Longauer", "givenName"=>"Julius", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung VI", "french"=>"Greffier/Greffière II Cour VI", "italian"=>"Cancelliere/a II Corte VI", "english"=>"Gerichtsschreiber/in II Abteilung VI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0331984", "surname"=>"Schnidrig", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung VI", "french"=>"Greffier/Greffière II Cour IV", "italian"=>"Cancelliere/a II Corte IV", "english"=>"Gerichtsschreiber/in II Abteilung VI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9372340", "surname"=>"Spring", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung VI", "french"=>"Greffier/Greffière II Cour VI", "italian"=>"Cancelliere/a II Corte VI", "english"=>"Gerichtsschreiber/in Abteilung VI"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20039952", "label"=>{"german"=>"Abteilung VI - Ausländer- und Bürgerrecht", "french"=>"Cour VI - droit des étrangers, droit de cité", "italian"=>"Corte VI - diritto stranieri e cittadinanza", "english"=>""}, "name"=>{"german"=>"Abteilung VI - Ausländer- und Bürgerrecht", "french"=>"Cour VI - droit des étrangers, droit de cité", "italian"=>"Corte VI - diritto stranieri e cittadinanza", "english"=>""}}, {"id"=>"20040076", "label"=>{"german"=>"Abteilung VI Kammer 1", "french"=>"Cour VI Chambre 1", "italian"=>"Corte VI Camera 1", "english"=>""}, "name"=>{"german"=>"Abteilung VI Kammer 1", "french"=>"Cour VI Chambre 1", "italian"=>"Corte VI Camera 1", "english"=>""}}, {"id"=>"20030151", "label"=>{"german"=>"Abteilung VI Kammer 1.7", "french"=>"Cour VI Chambre 1.1", "italian"=>"Corte VI Camera 1.1", "english"=>""}, "name"=>{"german"=>"Abteilung VI Kammer 1.7", "french"=>"Cour VI Chambre 1.1", "italian"=>"Corte VI Camera 1.1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030151",
+  "name": {
+    "german": "Abteilung VI Kammer 1.7",
+    "french": "Cour VI Chambre 1.1",
+    "italian": "Corte VI Camera 1.1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2212132",
+      "surname": "Haefeli",
+      "givenName": "Fulvio",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Richter/in Abteilung VI",
+        "french": "Juge Cour VI",
+        "italian": "Giudice Corte VI",
+        "english": "Richter/in Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3585677",
+      "surname": "Brand",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung VI",
+        "french": "Greffier/Greffière II Cour VI",
+        "italian": "Cancelliere/a II Corte VI",
+        "english": "Gerichtsschreiber/in II Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0835283",
+      "surname": "Longauer",
+      "givenName": "Julius",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung VI",
+        "french": "Greffier/Greffière II Cour VI",
+        "italian": "Cancelliere/a II Corte VI",
+        "english": "Gerichtsschreiber/in II Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0331984",
+      "surname": "Schnidrig",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung VI",
+        "french": "Greffier/Greffière II Cour IV",
+        "italian": "Cancelliere/a II Corte IV",
+        "english": "Gerichtsschreiber/in II Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9372340",
+      "surname": "Spring",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung VI",
+        "french": "Greffier/Greffière II Cour VI",
+        "italian": "Cancelliere/a II Corte VI",
+        "english": "Gerichtsschreiber/in Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039952",
+      "label": {
+        "german": "Abteilung VI - Ausländer- und Bürgerrecht",
+        "french": "Cour VI - droit des étrangers, droit de cité",
+        "italian": "Corte VI - diritto stranieri e cittadinanza",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung VI - Ausländer- und Bürgerrecht",
+        "french": "Cour VI - droit des étrangers, droit de cité",
+        "italian": "Corte VI - diritto stranieri e cittadinanza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040076",
+      "label": {
+        "german": "Abteilung VI Kammer 1",
+        "french": "Cour VI Chambre 1",
+        "italian": "Corte VI Camera 1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung VI Kammer 1",
+        "french": "Cour VI Chambre 1",
+        "italian": "Corte VI Camera 1",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030151",
+      "label": {
+        "german": "Abteilung VI Kammer 1.7",
+        "french": "Cour VI Chambre 1.1",
+        "italian": "Corte VI Camera 1.1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung VI Kammer 1.7",
+        "french": "Cour VI Chambre 1.1",
+        "italian": "Corte VI Camera 1.1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

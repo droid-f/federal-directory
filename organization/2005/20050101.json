@@ -1,1 +1,156 @@
-{"id"=>"20050101", "name"=>{"german"=>"Geschäfts-Architektur", "french"=>"Architecture d'entreprise", "italian"=>"Geschäfts-Architektur", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Inselgasse 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7677012", "surname"=>"Angelelli", "givenName"=>"Dino", "email"=>nil, "phone"=>"+41 58 46 05028", "function"=>{"german"=>"Geschäfts-Architekt/in und Business-Analyst/in Departement", "french"=>"Collaborateur/trice spécialisé/e Planification des affaires, innovation et architecture d'entreprise", "italian"=>"Collaboratore/trice specializzato/a Pianificazione degli affari, innovazione e architettura aziendale", "english"=>"Geschäfts-Architekt und Business-Analyst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"10002248", "label"=>{"german"=>"Geschäftsplanung, Innovation und Unternehmensarchitektur", "french"=>"Planification des affaires, innovation et architecture d'entreprise", "italian"=>"Pianificazione degli affari, innovazione e architettura aziendale", "english"=>""}, "name"=>{"german"=>"Geschäftsplanung, Innovation und Unternehmensarchitektur", "french"=>"Planification des affaires, innovation et architecture d'entreprise", "italian"=>"Pianificazione degli affari, innovazione e architettura aziendale", "english"=>""}}, {"id"=>"20050101", "label"=>{"german"=>"Geschäfts-Architektur", "french"=>"Architecture d'entreprise", "italian"=>"Geschäfts-Architektur", "english"=>""}, "name"=>{"german"=>"Geschäfts-Architektur", "french"=>"Architecture d'entreprise", "italian"=>"Geschäfts-Architektur", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050101",
+  "name": {
+    "german": "Geschäfts-Architektur",
+    "french": "Architecture d'entreprise",
+    "italian": "Geschäfts-Architektur",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Inselgasse 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7677012",
+      "surname": "Angelelli",
+      "givenName": "Dino",
+      "email": null,
+      "phone": "+41 58 46 05028",
+      "function": {
+        "german": "Geschäfts-Architekt/in und Business-Analyst/in Departement",
+        "french": "Collaborateur/trice spécialisé/e Planification des affaires, innovation et architecture d'entreprise",
+        "italian": "Collaboratore/trice specializzato/a Pianificazione degli affari, innovazione e architettura aziendale",
+        "english": "Geschäfts-Architekt und Business-Analyst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002248",
+      "label": {
+        "german": "Geschäftsplanung, Innovation und Unternehmensarchitektur",
+        "french": "Planification des affaires, innovation et architecture d'entreprise",
+        "italian": "Pianificazione degli affari, innovazione e architettura aziendale",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsplanung, Innovation und Unternehmensarchitektur",
+        "french": "Planification des affaires, innovation et architecture d'entreprise",
+        "italian": "Pianificazione degli affari, innovazione e architettura aziendale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050101",
+      "label": {
+        "german": "Geschäfts-Architektur",
+        "french": "Architecture d'entreprise",
+        "italian": "Geschäfts-Architektur",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäfts-Architektur",
+        "french": "Architecture d'entreprise",
+        "italian": "Geschäfts-Architektur",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

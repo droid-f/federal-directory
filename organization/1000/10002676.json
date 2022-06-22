@@ -1,1 +1,191 @@
-{"id"=>"10002676", "name"=>{"german"=>"Sektion Recht", "french"=>"Section du droit", "italian"=>"Sezione del diritto", "english"=>""}, "nameAbbr"=>{"german"=>"RECHT", "french"=>"RECHT", "italian"=>"RECHT", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0462058", "surname"=>"Tscherrig", "givenName"=>"Ulysse", "email"=>nil, "phone"=>"+41 58 46 23728", "function"=>{"german"=>"Jurist/in, Stv. Leiter/in", "french"=>"Jurist/in, Stv. Leiter/in", "italian"=>"Jurist/in, Stv. Leiter/in", "english"=>"Jurist/in, Stv. Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7341510", "surname"=>"Brunner Pohlenz", "givenName"=>"Stephan", "email"=>nil, "phone"=>"+41 58 46 24151", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>130, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7341510", "surname"=>"Brunner Pohlenz", "givenName"=>"Stephan", "email"=>nil, "phone"=>"+41 58 46 24151", "function"=>{"german"=>"Datenschutzberater/in und Beauftragte/r Öffentlichkeitsgesetz", "french"=>"Conseiller/e en protection des données et d'exécution loi sur la transp.", "italian"=>"Consulente in mat. di protez. dei dati e d'esecuz. legge sulla trasparenza", "english"=>""}, "isVisibleInEstKa"=>true}, {"functionId"=>516, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0462058", "surname"=>"Tscherrig", "givenName"=>"Ulysse", "email"=>nil, "phone"=>"+41 58 46 23728", "function"=>{"german"=>"Beauftragte/r Öffentlichkeitsgesetz", "french"=>"Conseiller/e d'exécution loi sur la transp.", "italian"=>"Consulente d'esecuz. legge sulla trasparenza", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002674", "label"=>{"german"=>"BR", "french"=>"BR", "italian"=>"BR", "english"=>""}, "name"=>{"german"=>"Bereich Bundesrat", "french"=>"Secteur Conseil fédéral", "italian"=>"Settore Consiglio federale", "english"=>""}}, {"id"=>"10002676", "label"=>{"german"=>"RECHT", "french"=>"RECHT", "italian"=>"RECHT", "english"=>""}, "name"=>{"german"=>"Sektion Recht", "french"=>"Section du droit", "italian"=>"Sezione del diritto", "english"=>""}}], "contactPoints"=>[{"id"=>97, "name"=>{"german"=>"Auskunft", "french"=>"Renseignements", "italian"=>"Informazione", "english"=>""}, "email"=>nil, "phone"=>"+41 58 462 37 41", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "10002676",
+  "name": {
+    "german": "Sektion Recht",
+    "french": "Section du droit",
+    "italian": "Sezione del diritto",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "RECHT",
+    "french": "RECHT",
+    "italian": "RECHT",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0462058",
+      "surname": "Tscherrig",
+      "givenName": "Ulysse",
+      "email": null,
+      "phone": "+41 58 46 23728",
+      "function": {
+        "german": "Jurist/in, Stv. Leiter/in",
+        "french": "Jurist/in, Stv. Leiter/in",
+        "italian": "Jurist/in, Stv. Leiter/in",
+        "english": "Jurist/in, Stv. Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7341510",
+      "surname": "Brunner Pohlenz",
+      "givenName": "Stephan",
+      "email": null,
+      "phone": "+41 58 46 24151",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 130,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7341510",
+      "surname": "Brunner Pohlenz",
+      "givenName": "Stephan",
+      "email": null,
+      "phone": "+41 58 46 24151",
+      "function": {
+        "german": "Datenschutzberater/in und Beauftragte/r Öffentlichkeitsgesetz",
+        "french": "Conseiller/e en protection des données et d'exécution loi sur la transp.",
+        "italian": "Consulente in mat. di protez. dei dati e d'esecuz. legge sulla trasparenza",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 516,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0462058",
+      "surname": "Tscherrig",
+      "givenName": "Ulysse",
+      "email": null,
+      "phone": "+41 58 46 23728",
+      "function": {
+        "german": "Beauftragte/r Öffentlichkeitsgesetz",
+        "french": "Conseiller/e d'exécution loi sur la transp.",
+        "italian": "Consulente d'esecuz. legge sulla trasparenza",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002674",
+      "label": {
+        "german": "BR",
+        "french": "BR",
+        "italian": "BR",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Bundesrat",
+        "french": "Secteur Conseil fédéral",
+        "italian": "Settore Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002676",
+      "label": {
+        "german": "RECHT",
+        "french": "RECHT",
+        "italian": "RECHT",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Recht",
+        "french": "Section du droit",
+        "italian": "Sezione del diritto",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 97,
+      "name": {
+        "german": "Auskunft",
+        "french": "Renseignements",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 462 37 41",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

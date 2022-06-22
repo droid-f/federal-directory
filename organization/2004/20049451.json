@@ -1,1 +1,169 @@
-{"id"=>"20049451", "name"=>{"german"=>"Account", "french"=>"Account", "italian"=>"Account", "english"=>""}, "nameAbbr"=>{"german"=>"ACC", "french"=>"ACC", "italian"=>"ACC", "english"=>""}, "address"=>{"addressLine2"=>"Campus Meielen", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2433625", "surname"=>"Kipfer", "givenName"=>"Roger", "email"=>nil, "phone"=>"+41 58 46 67991", "function"=>{"german"=>"BO Account", "french"=>"Business-Engineer III", "italian"=>"Business-Engineer III", "english"=>"BO Account"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2113991", "surname"=>"Ledl", "givenName"=>"Dieter", "email"=>nil, "phone"=>"+41 58 46 35653", "function"=>{"german"=>"Business-Engineer III", "french"=>"Business-Engineer III", "italian"=>"Business-Engineer III", "english"=>"Business-Engineer III"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008669", "label"=>{"german"=>"BIT", "french"=>"OFIT", "italian"=>"UFIT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Informatik und Telekommunikation", "french"=>"Office fédéral de l’informatique et de la télécommunication", "italian"=>"Ufficio federale dell'informatica e della telecomunicazione", "english"=>""}}, {"id"=>"20012388", "label"=>{"german"=>"DI", "french"=>"DI", "italian"=>"DI", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direktion", "italian"=>"Direktion", "english"=>""}}, {"id"=>"20049426", "label"=>{"german"=>"DO", "french"=>"DO", "italian"=>"DO", "english"=>""}, "name"=>{"german"=>"Domestic Services", "french"=>"Domestic Services", "italian"=>"Domestic Services", "english"=>""}}, {"id"=>"20049451", "label"=>{"german"=>"ACC", "french"=>"ACC", "italian"=>"ACC", "english"=>""}, "name"=>{"german"=>"Account", "french"=>"Account", "italian"=>"Account", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049451",
+  "name": {
+    "german": "Account",
+    "french": "Account",
+    "italian": "Account",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ACC",
+    "french": "ACC",
+    "italian": "ACC",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Campus Meielen",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2433625",
+      "surname": "Kipfer",
+      "givenName": "Roger",
+      "email": null,
+      "phone": "+41 58 46 67991",
+      "function": {
+        "german": "BO Account",
+        "french": "Business-Engineer III",
+        "italian": "Business-Engineer III",
+        "english": "BO Account"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2113991",
+      "surname": "Ledl",
+      "givenName": "Dieter",
+      "email": null,
+      "phone": "+41 58 46 35653",
+      "function": {
+        "german": "Business-Engineer III",
+        "french": "Business-Engineer III",
+        "italian": "Business-Engineer III",
+        "english": "Business-Engineer III"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008669",
+      "label": {
+        "german": "BIT",
+        "french": "OFIT",
+        "italian": "UFIT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Informatik und Telekommunikation",
+        "french": "Office fédéral de l’informatique et de la télécommunication",
+        "italian": "Ufficio federale dell'informatica e della telecomunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012388",
+      "label": {
+        "german": "DI",
+        "french": "DI",
+        "italian": "DI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direktion",
+        "italian": "Direktion",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049426",
+      "label": {
+        "german": "DO",
+        "french": "DO",
+        "italian": "DO",
+        "english": ""
+      },
+      "name": {
+        "german": "Domestic Services",
+        "french": "Domestic Services",
+        "italian": "Domestic Services",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049451",
+      "label": {
+        "german": "ACC",
+        "french": "ACC",
+        "italian": "ACC",
+        "english": ""
+      },
+      "name": {
+        "german": "Account",
+        "french": "Account",
+        "italian": "Account",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

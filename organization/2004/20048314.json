@@ -1,1 +1,155 @@
-{"id"=>"20048314", "name"=>{"german"=>"Sektion Hydrologische Grundl. Quantität", "french"=>"Section Prévisions hydrologiques", "italian"=>"Sezione Previsioni idrologiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 68", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035878", "label"=>{"german"=>"Direktionsbereich (Ökonomie & Innovation, Abfall & Rohstoffe, Hydrologie)", "french"=>"Climat / Hydrologie", "italian"=>"Clima / Idrologia", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Ökonomie & Innovation, Abfall & Rohstoffe, Hydrologie)", "french"=>"Climat / Hydrologie", "italian"=>"Clima / Idrologia", "english"=>""}}, {"id"=>"20012054", "label"=>{"german"=>"Abteilung Hydrologie", "french"=>"Division Hydrologie", "italian"=>"Divisione Idrologia", "english"=>""}, "name"=>{"german"=>"Abteilung Hydrologie", "french"=>"Division Hydrologie", "italian"=>"Divisione Idrologia", "english"=>""}}, {"id"=>"20048314", "label"=>{"german"=>"Sektion Hydrologische Grundl. Quantität", "french"=>"Section Prévisions hydrologiques", "italian"=>"Sezione Previsioni idrologiche", "english"=>""}, "name"=>{"german"=>"Sektion Hydrologische Grundl. Quantität", "french"=>"Section Prévisions hydrologiques", "italian"=>"Sezione Previsioni idrologiche", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048314",
+  "name": {
+    "german": "Sektion Hydrologische Grundl. Quantität",
+    "french": "Section Prévisions hydrologiques",
+    "italian": "Sezione Previsioni idrologiche",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 68",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035878",
+      "label": {
+        "german": "Direktionsbereich (Ökonomie & Innovation, Abfall & Rohstoffe, Hydrologie)",
+        "french": "Climat / Hydrologie",
+        "italian": "Clima / Idrologia",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Ökonomie & Innovation, Abfall & Rohstoffe, Hydrologie)",
+        "french": "Climat / Hydrologie",
+        "italian": "Clima / Idrologia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012054",
+      "label": {
+        "german": "Abteilung Hydrologie",
+        "french": "Division Hydrologie",
+        "italian": "Divisione Idrologia",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Hydrologie",
+        "french": "Division Hydrologie",
+        "italian": "Divisione Idrologia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048314",
+      "label": {
+        "german": "Sektion Hydrologische Grundl. Quantität",
+        "french": "Section Prévisions hydrologiques",
+        "italian": "Sezione Previsioni idrologiche",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Hydrologische Grundl. Quantität",
+        "french": "Section Prévisions hydrologiques",
+        "italian": "Sezione Previsioni idrologiche",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

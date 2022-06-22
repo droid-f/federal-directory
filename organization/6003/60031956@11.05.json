@@ -1,1 +1,229 @@
-{"id"=>"60031956@11.05", "name"=>{"german"=>"MRO ALP", "french"=>"MRO ALP", "italian"=>"MRO ALP", "english"=>""}, "nameAbbr"=>{"german"=>"BAAOBA", "french"=>"BAAOBA", "italian"=>"BAAOBA", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eichistrasse", "postalCode"=>"6055", "location"=>"Alpnach Dorf", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"60032084@11.05", "name"=>{"german"=>"Avionic", "french"=>"Avionic", "italian"=>"Avionic", "english"=>""}, "nameAbbr"=>{"german"=>"BAAOBAB", "french"=>"BAAOBAB", "italian"=>"BAAOBAB", "english"=>""}}, {"id"=>"60032083@11.05", "name"=>{"german"=>"MRO EC635", "french"=>"MRO EC635", "italian"=>"MRO EC635", "english"=>""}, "nameAbbr"=>{"german"=>"BAAOBAA", "french"=>"BAAOBAA", "italian"=>"BAAOBAA", "english"=>""}}, {"id"=>"60032085@11.05", "name"=>{"german"=>"Sheet Metal", "french"=>"Sheet Metal", "italian"=>"Sheet Metal", "english"=>""}, "nameAbbr"=>{"german"=>"BAAOBAC", "french"=>"BAAOBAC", "italian"=>"BAAOBAC", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031750@11.05", "label"=>{"german"=>"BAA", "french"=>"BAA", "italian"=>"BAA", "english"=>""}, "name"=>{"german"=>"Business Area Air", "french"=>"Business Area Air", "italian"=>"Business Area Air", "english"=>""}}, {"id"=>"60031760@11.05", "label"=>{"german"=>"BAAO", "french"=>"BAAO", "italian"=>"BAAO", "english"=>""}, "name"=>{"german"=>"Operations", "french"=>"Operations", "italian"=>"Operations", "english"=>""}}, {"id"=>"60031798@11.05", "label"=>{"german"=>"BAAOB", "french"=>"BAAOB", "italian"=>"BAAOB", "english"=>""}, "name"=>{"german"=>"Helicopter", "french"=>"Helicopter", "italian"=>"Helicopter", "english"=>""}}, {"id"=>"60031956@11.05", "label"=>{"german"=>"BAAOBA", "french"=>"BAAOBA", "italian"=>"BAAOBA", "english"=>""}, "name"=>{"german"=>"MRO ALP", "french"=>"MRO ALP", "italian"=>"MRO ALP", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60031956@11.05",
+  "name": {
+    "german": "MRO ALP",
+    "french": "MRO ALP",
+    "italian": "MRO ALP",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BAAOBA",
+    "french": "BAAOBA",
+    "italian": "BAAOBA",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eichistrasse",
+    "postalCode": "6055",
+    "location": "Alpnach Dorf",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "60032084@11.05",
+      "name": {
+        "german": "Avionic",
+        "french": "Avionic",
+        "italian": "Avionic",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAAOBAB",
+        "french": "BAAOBAB",
+        "italian": "BAAOBAB",
+        "english": ""
+      }
+    },
+    {
+      "id": "60032083@11.05",
+      "name": {
+        "german": "MRO EC635",
+        "french": "MRO EC635",
+        "italian": "MRO EC635",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAAOBAA",
+        "french": "BAAOBAA",
+        "italian": "BAAOBAA",
+        "english": ""
+      }
+    },
+    {
+      "id": "60032085@11.05",
+      "name": {
+        "german": "Sheet Metal",
+        "french": "Sheet Metal",
+        "italian": "Sheet Metal",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAAOBAC",
+        "french": "BAAOBAC",
+        "italian": "BAAOBAC",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031750@11.05",
+      "label": {
+        "german": "BAA",
+        "french": "BAA",
+        "italian": "BAA",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Area Air",
+        "french": "Business Area Air",
+        "italian": "Business Area Air",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031760@11.05",
+      "label": {
+        "german": "BAAO",
+        "french": "BAAO",
+        "italian": "BAAO",
+        "english": ""
+      },
+      "name": {
+        "german": "Operations",
+        "french": "Operations",
+        "italian": "Operations",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031798@11.05",
+      "label": {
+        "german": "BAAOB",
+        "french": "BAAOB",
+        "italian": "BAAOB",
+        "english": ""
+      },
+      "name": {
+        "german": "Helicopter",
+        "french": "Helicopter",
+        "italian": "Helicopter",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031956@11.05",
+      "label": {
+        "german": "BAAOBA",
+        "french": "BAAOBA",
+        "italian": "BAAOBA",
+        "english": ""
+      },
+      "name": {
+        "german": "MRO ALP",
+        "french": "MRO ALP",
+        "italian": "MRO ALP",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

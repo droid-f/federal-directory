@@ -1,1 +1,245 @@
-{"id"=>"20020076", "name"=>{"german"=>"Personenfreizügigkeit und Arbeitsbeziehungen", "french"=>"Libre circulation des personnes et Relations du travail", "italian"=>"Libera circolazione delle persone e Relazioni di lavoro", "english"=>"Libre circulation des personnes et Relations du travail"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20020080", "name"=>{"german"=>"Wirtschaftliche und internationale Fragen", "french"=>"Questions économiques et internationales", "italian"=>"Questioni economiche e internazionali", "english"=>"Economic and International Affairs"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027960", "name"=>{"german"=>"Gesamtarbeitsverträge", "french"=>"Conventions collectives de travail", "italian"=>"Contratti collettivi di lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027961", "name"=>{"german"=>"Arbeitsmarktaufsicht", "french"=>"Surveillance du marché du travail", "italian"=>"Sorveglianza del mercato di lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027962", "name"=>{"german"=>"Vermittlung und Verleih", "french"=>"Placement et location de services", "italian"=>"Collocamento e personale a prestito", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9492240", "surname"=>"Gasser", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 22840", "function"=>{"german"=>"Leiter/in PA/ Stv.Leiter/in Direktion DA", "french"=>"Leiter/in PA/ Stv.Leiter/in Direktion DA", "italian"=>"Leiter/in PA/ Stv.Leiter/in Direktion DA", "english"=>"Leiter/in PA/ Stv.Leiter/in Direktion DA"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4247535", "surname"=>"Jud Huwiler", "givenName"=>"Ursina", "email"=>nil, "phone"=>"+41 58 46 22142", "function"=>{"german"=>"Ressortleiter/in / Stv. LBL PA", "french"=>"Ressortleiter/in / Stv. LBL PA", "italian"=>"Ressortleiter/in / Stv. LBL PA", "english"=>"Ressortleiter/in / Stv. LBL PA"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3240714", "surname"=>"Ballmer", "givenName"=>"Yvonne", "email"=>nil, "phone"=>"+41 58 46 34508", "function"=>{"german"=>"Geschäftskoordinator/in PA", "french"=>"Geschäftskoordinator/in PA", "italian"=>"Geschäftskoordinator/in PA", "english"=>"Geschäftskoordinator/in PA"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"20020076", "label"=>{"german"=>"Personenfreizügigkeit und Arbeitsbeziehungen", "french"=>"Libre circulation des personnes et Relations du travail", "italian"=>"Libera circolazione delle persone e Relazioni di lavoro", "english"=>"Libre circulation des personnes et Relations du travail"}, "name"=>{"german"=>"Personenfreizügigkeit und Arbeitsbeziehungen", "french"=>"Libre circulation des personnes et Relations du travail", "italian"=>"Libera circolazione delle persone e Relazioni di lavoro", "english"=>"Libre circulation des personnes et Relations du travail"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20020076",
+  "name": {
+    "german": "Personenfreizügigkeit und Arbeitsbeziehungen",
+    "french": "Libre circulation des personnes et Relations du travail",
+    "italian": "Libera circolazione delle persone e Relazioni di lavoro",
+    "english": "Libre circulation des personnes et Relations du travail"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20020080",
+      "name": {
+        "german": "Wirtschaftliche und internationale Fragen",
+        "french": "Questions économiques et internationales",
+        "italian": "Questioni economiche e internazionali",
+        "english": "Economic and International Affairs"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027960",
+      "name": {
+        "german": "Gesamtarbeitsverträge",
+        "french": "Conventions collectives de travail",
+        "italian": "Contratti collettivi di lavoro",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027961",
+      "name": {
+        "german": "Arbeitsmarktaufsicht",
+        "french": "Surveillance du marché du travail",
+        "italian": "Sorveglianza del mercato di lavoro",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027962",
+      "name": {
+        "german": "Vermittlung und Verleih",
+        "french": "Placement et location de services",
+        "italian": "Collocamento e personale a prestito",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9492240",
+      "surname": "Gasser",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 22840",
+      "function": {
+        "german": "Leiter/in PA/ Stv.Leiter/in Direktion DA",
+        "french": "Leiter/in PA/ Stv.Leiter/in Direktion DA",
+        "italian": "Leiter/in PA/ Stv.Leiter/in Direktion DA",
+        "english": "Leiter/in PA/ Stv.Leiter/in Direktion DA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4247535",
+      "surname": "Jud Huwiler",
+      "givenName": "Ursina",
+      "email": null,
+      "phone": "+41 58 46 22142",
+      "function": {
+        "german": "Ressortleiter/in / Stv. LBL PA",
+        "french": "Ressortleiter/in / Stv. LBL PA",
+        "italian": "Ressortleiter/in / Stv. LBL PA",
+        "english": "Ressortleiter/in / Stv. LBL PA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3240714",
+      "surname": "Ballmer",
+      "givenName": "Yvonne",
+      "email": null,
+      "phone": "+41 58 46 34508",
+      "function": {
+        "german": "Geschäftskoordinator/in PA",
+        "french": "Geschäftskoordinator/in PA",
+        "italian": "Geschäftskoordinator/in PA",
+        "english": "Geschäftskoordinator/in PA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020076",
+      "label": {
+        "german": "Personenfreizügigkeit und Arbeitsbeziehungen",
+        "french": "Libre circulation des personnes et Relations du travail",
+        "italian": "Libera circolazione delle persone e Relazioni di lavoro",
+        "english": "Libre circulation des personnes et Relations du travail"
+      },
+      "name": {
+        "german": "Personenfreizügigkeit und Arbeitsbeziehungen",
+        "french": "Libre circulation des personnes et Relations du travail",
+        "italian": "Libera circolazione delle persone e Relazioni di lavoro",
+        "english": "Libre circulation des personnes et Relations du travail"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

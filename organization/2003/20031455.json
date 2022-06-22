@@ -1,1 +1,210 @@
-{"id"=>"20031455", "name"=>{"german"=>"PKS - Sicherheit und Qualität", "french"=>"Securité et qualité", "italian"=>"Sicurezza e qualità", "english"=>""}, "nameAbbr"=>{"german"=>"PKS", "french"=>"PKS", "italian"=>"PKS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1785153", "surname"=>"Sandmeier", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 09216", "function"=>{"german"=>"Abteilungsleiter", "french"=>"Chef(fe) de service", "italian"=>"Capo dipartimento", "english"=>"Abteilungsleiter"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-10001403", "surname"=>"Binggeli", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 09733", "function"=>{"german"=>"ArchitekturManagementTool", "french"=>"Stv. OCK W / Wiss.Mitarbeiter", "italian"=>"Stv. OCK W / Wiss.Mitarbeiter", "english"=>"ArchitekturManagementTool"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4114820", "surname"=>"Bucher-Studer", "givenName"=>"Kaspar", "email"=>nil, "phone"=>"+41 58 46 09736", "function"=>{"german"=>"Wissenschaftlicher Mitarbeiter", "french"=>"Gestion du processus météo aéronautique", "italian"=>"Gestione del processo meteo aeronautica", "english"=>"Wissenschaftlicher Mitarbeiter"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4500908", "surname"=>"Lorrai", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 58 46 09357", "function"=>{"german"=>"EO Met und BCM Verantwortlicher", "french"=>"Stv. OCK W / Wiss.Mitarbeiter", "italian"=>"Stv. OCK W / Wiss.Mitarbeiter", "english"=>"EO Met und BCM Verantwortlicher"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9764931", "surname"=>"Streule", "givenName"=>"Catherine", "email"=>nil, "phone"=>"+41 58 46 09345", "function"=>{"german"=>"Compliance / Safety Manager", "french"=>"Stv. OCK W / Wiss.Mitarbeiter", "italian"=>"Stv. OCK W / Wiss.Mitarbeiter", "english"=>"Compliance / Safety Manager"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1067345", "surname"=>"Suter", "givenName"=>"Martin", "email"=>nil, "phone"=>"", "function"=>{"german"=>"PMO-Verantwortlicher", "french"=>"Stv. OCK W / Wiss.Mitarbeiter", "italian"=>"Stv. OCK W / Wiss.Mitarbeiter", "english"=>"PMO-Verantwortlicher"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20031387", "label"=>{"german"=>"PK", "french"=>"PK", "italian"=>"PK", "english"=>""}, "name"=>{"german"=>"PK - Planung und Kundenbeziehungen", "french"=>"Planification et relations avec les clie", "italian"=>"Pianificazione e relazioni con la client", "english"=>""}}, {"id"=>"20031455", "label"=>{"german"=>"PKS", "french"=>"PKS", "italian"=>"PKS", "english"=>""}, "name"=>{"german"=>"PKS - Sicherheit und Qualität", "french"=>"Securité et qualité", "italian"=>"Sicurezza e qualità", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031455",
+  "name": {
+    "german": "PKS - Sicherheit und Qualität",
+    "french": "Securité et qualité",
+    "italian": "Sicurezza e qualità",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "PKS",
+    "french": "PKS",
+    "italian": "PKS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1785153",
+      "surname": "Sandmeier",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 09216",
+      "function": {
+        "german": "Abteilungsleiter",
+        "french": "Chef(fe) de service",
+        "italian": "Capo dipartimento",
+        "english": "Abteilungsleiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-10001403",
+      "surname": "Binggeli",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 09733",
+      "function": {
+        "german": "ArchitekturManagementTool",
+        "french": "Stv. OCK W / Wiss.Mitarbeiter",
+        "italian": "Stv. OCK W / Wiss.Mitarbeiter",
+        "english": "ArchitekturManagementTool"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4114820",
+      "surname": "Bucher-Studer",
+      "givenName": "Kaspar",
+      "email": null,
+      "phone": "+41 58 46 09736",
+      "function": {
+        "german": "Wissenschaftlicher Mitarbeiter",
+        "french": "Gestion du processus météo aéronautique",
+        "italian": "Gestione del processo meteo aeronautica",
+        "english": "Wissenschaftlicher Mitarbeiter"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4500908",
+      "surname": "Lorrai",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 58 46 09357",
+      "function": {
+        "german": "EO Met und BCM Verantwortlicher",
+        "french": "Stv. OCK W / Wiss.Mitarbeiter",
+        "italian": "Stv. OCK W / Wiss.Mitarbeiter",
+        "english": "EO Met und BCM Verantwortlicher"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9764931",
+      "surname": "Streule",
+      "givenName": "Catherine",
+      "email": null,
+      "phone": "+41 58 46 09345",
+      "function": {
+        "german": "Compliance / Safety Manager",
+        "french": "Stv. OCK W / Wiss.Mitarbeiter",
+        "italian": "Stv. OCK W / Wiss.Mitarbeiter",
+        "english": "Compliance / Safety Manager"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1067345",
+      "surname": "Suter",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "PMO-Verantwortlicher",
+        "french": "Stv. OCK W / Wiss.Mitarbeiter",
+        "italian": "Stv. OCK W / Wiss.Mitarbeiter",
+        "english": "PMO-Verantwortlicher"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20031387",
+      "label": {
+        "german": "PK",
+        "french": "PK",
+        "italian": "PK",
+        "english": ""
+      },
+      "name": {
+        "german": "PK - Planung und Kundenbeziehungen",
+        "french": "Planification et relations avec les clie",
+        "italian": "Pianificazione e relazioni con la client",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031455",
+      "label": {
+        "german": "PKS",
+        "french": "PKS",
+        "italian": "PKS",
+        "english": ""
+      },
+      "name": {
+        "german": "PKS - Sicherheit und Qualität",
+        "french": "Securité et qualité",
+        "italian": "Sicurezza e qualità",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

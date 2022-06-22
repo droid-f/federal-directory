@@ -1,1 +1,125 @@
-{"id"=>"20018326", "name"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Christoffelgasse 5", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20030369", "label"=>{"german"=>"RegInfra", "french"=>"RegInfra", "italian"=>"RegInfra", "english"=>""}, "name"=>{"german"=>"Regulierungsbehörden Infrastruktur", "french"=>"Autorités de régulation des infrastructures", "italian"=>"Autorità di regolazione delle infrastrutture", "english"=>""}}, {"id"=>"20030954", "label"=>{"german"=>"ElCom", "french"=>"ElCom", "italian"=>"ElCom", "english"=>""}, "name"=>{"german"=>"Eidgenössische Elektrizitätskommission", "french"=>"Commission fédérale de l'électricité", "italian"=>"Commissione federale dell'energia elettrica", "english"=>""}}, {"id"=>"20018326", "label"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}, "name"=>{"german"=>"Recht", "french"=>"Droit", "italian"=>"Diritto", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018326",
+  "name": {
+    "german": "Recht",
+    "french": "Droit",
+    "italian": "Diritto",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Christoffelgasse 5",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030369",
+      "label": {
+        "german": "RegInfra",
+        "french": "RegInfra",
+        "italian": "RegInfra",
+        "english": ""
+      },
+      "name": {
+        "german": "Regulierungsbehörden Infrastruktur",
+        "french": "Autorités de régulation des infrastructures",
+        "italian": "Autorità di regolazione delle infrastrutture",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030954",
+      "label": {
+        "german": "ElCom",
+        "french": "ElCom",
+        "italian": "ElCom",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Elektrizitätskommission",
+        "french": "Commission fédérale de l'électricité",
+        "italian": "Commissione federale dell'energia elettrica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018326",
+      "label": {
+        "german": "Recht",
+        "french": "Droit",
+        "italian": "Diritto",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht",
+        "french": "Droit",
+        "italian": "Diritto",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

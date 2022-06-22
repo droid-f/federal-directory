@@ -1,1 +1,198 @@
-{"id"=>"10003911", "name"=>{"german"=>"Digitale Produktion", "french"=>"Production numérique", "italian"=>"Produzione digitale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Tänikon 1", "postalCode"=>"8356", "location"=>"Ettenhausen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2183274", "surname"=>"Anken", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 48 03352", "function"=>{"german"=>"Forschungsgruppenleiter/in", "french"=>"Responsable de groupe de recherche", "italian"=>"Forschungsgruppenleiter/in", "english"=>"Forschungsgruppenleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7927661", "surname"=>"Hatt", "givenName"=>"Matthias", "email"=>nil, "phone"=>"+41 58 48 03332", "function"=>{"german"=>"Landwirtschaftlich-technische/r Mitarbeiter/in", "french"=>"Collaborateur/trice technico-agricole", "italian"=>"Collaboratore/trice tecnico-agricolo/a", "english"=>"Landw.-technische/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9195588", "surname"=>"Keck", "givenName"=>"Margret", "email"=>nil, "phone"=>"+41 58 48 03312", "function"=>{"german"=>"Wissenschaftliche/r Mitarbeiter/in", "french"=>"Collaborateur/trice scientifique", "italian"=>"Collaboratore/trice scientifico/a", "english"=>"Wissenschaftliche/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003634", "label"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}, "name"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}}, {"id"=>"10004120", "label"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}, "name"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}}, {"id"=>"20041530", "label"=>{"german"=>"Nachhaltigkeitsbewertung und Agrarmanagement", "french"=>"Compétitivité et évaluation des systèmes", "italian"=>"Competitività e valutazione del sistema", "english"=>""}, "name"=>{"german"=>"Nachhaltigkeitsbewertung und Agrarmanagement", "french"=>"Compétitivité et évaluation des systèmes", "italian"=>"Competitività e valutazione del sistema", "english"=>""}}, {"id"=>"10003911", "label"=>{"german"=>"Digitale Produktion", "french"=>"Production numérique", "italian"=>"Produzione digitale", "english"=>""}, "name"=>{"german"=>"Digitale Produktion", "french"=>"Production numérique", "italian"=>"Produzione digitale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003911",
+  "name": {
+    "german": "Digitale Produktion",
+    "french": "Production numérique",
+    "italian": "Produzione digitale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Tänikon 1",
+    "postalCode": "8356",
+    "location": "Ettenhausen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2183274",
+      "surname": "Anken",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 48 03352",
+      "function": {
+        "german": "Forschungsgruppenleiter/in",
+        "french": "Responsable de groupe de recherche",
+        "italian": "Forschungsgruppenleiter/in",
+        "english": "Forschungsgruppenleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7927661",
+      "surname": "Hatt",
+      "givenName": "Matthias",
+      "email": null,
+      "phone": "+41 58 48 03332",
+      "function": {
+        "german": "Landwirtschaftlich-technische/r Mitarbeiter/in",
+        "french": "Collaborateur/trice technico-agricole",
+        "italian": "Collaboratore/trice tecnico-agricolo/a",
+        "english": "Landw.-technische/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9195588",
+      "surname": "Keck",
+      "givenName": "Margret",
+      "email": null,
+      "phone": "+41 58 48 03312",
+      "function": {
+        "german": "Wissenschaftliche/r Mitarbeiter/in",
+        "french": "Collaborateur/trice scientifique",
+        "italian": "Collaboratore/trice scientifico/a",
+        "english": "Wissenschaftliche/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003634",
+      "label": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004120",
+      "label": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041530",
+      "label": {
+        "german": "Nachhaltigkeitsbewertung und Agrarmanagement",
+        "french": "Compétitivité et évaluation des systèmes",
+        "italian": "Competitività e valutazione del sistema",
+        "english": ""
+      },
+      "name": {
+        "german": "Nachhaltigkeitsbewertung und Agrarmanagement",
+        "french": "Compétitivité et évaluation des systèmes",
+        "italian": "Competitività e valutazione del sistema",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003911",
+      "label": {
+        "german": "Digitale Produktion",
+        "french": "Production numérique",
+        "italian": "Produzione digitale",
+        "english": ""
+      },
+      "name": {
+        "german": "Digitale Produktion",
+        "french": "Production numérique",
+        "italian": "Produzione digitale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

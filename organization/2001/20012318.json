@@ -1,1 +1,156 @@
-{"id"=>"20012318", "name"=>{"german"=>"Baumanagement West", "french"=>"Management de projets de constructions Ouest", "italian"=>"Gestione delle costruzioni Ovest", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"bd de Grancy 37", "postalCode"=>"1006", "location"=>"Lausanne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3979106", "surname"=>"Gosteli", "givenName"=>"Frédéric", "email"=>nil, "phone"=>"+41 58 46 11066", "function"=>{"german"=>"Leiter FB Baumanagement West", "french"=>"Chef du DS Management de projets de construction ouest", "italian"=>"Capo SS Gestione delle costruzioni Ovest", "english"=>"Leiter Fachbereich BM West"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004155", "label"=>{"german"=>"ar IMMO", "french"=>"ar IMMO", "italian"=>"ar IMMO", "english"=>""}, "name"=>{"german"=>"armasuisse Immobilien", "french"=>"armasuisse Immobilier", "italian"=>"armasuisse Immobili", "english"=>""}}, {"id"=>"20012316", "label"=>{"german"=>"Baumanagement", "french"=>"Management de projets de construction", "italian"=>"Gestione delle costruzioni", "english"=>""}, "name"=>{"german"=>"Baumanagement", "french"=>"Management de projets de construction", "italian"=>"Gestione delle costruzioni", "english"=>""}}, {"id"=>"20012318", "label"=>{"german"=>"Baumanagement West", "french"=>"Management de projets de constructions Ouest", "italian"=>"Gestione delle costruzioni Ovest", "english"=>""}, "name"=>{"german"=>"Baumanagement West", "french"=>"Management de projets de constructions Ouest", "italian"=>"Gestione delle costruzioni Ovest", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012318",
+  "name": {
+    "german": "Baumanagement West",
+    "french": "Management de projets de constructions Ouest",
+    "italian": "Gestione delle costruzioni Ovest",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "bd de Grancy 37",
+    "postalCode": "1006",
+    "location": "Lausanne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3979106",
+      "surname": "Gosteli",
+      "givenName": "Frédéric",
+      "email": null,
+      "phone": "+41 58 46 11066",
+      "function": {
+        "german": "Leiter FB Baumanagement West",
+        "french": "Chef du DS Management de projets de construction ouest",
+        "italian": "Capo SS Gestione delle costruzioni Ovest",
+        "english": "Leiter Fachbereich BM West"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004155",
+      "label": {
+        "german": "ar IMMO",
+        "french": "ar IMMO",
+        "italian": "ar IMMO",
+        "english": ""
+      },
+      "name": {
+        "german": "armasuisse Immobilien",
+        "french": "armasuisse Immobilier",
+        "italian": "armasuisse Immobili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012316",
+      "label": {
+        "german": "Baumanagement",
+        "french": "Management de projets de construction",
+        "italian": "Gestione delle costruzioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Baumanagement",
+        "french": "Management de projets de construction",
+        "italian": "Gestione delle costruzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012318",
+      "label": {
+        "german": "Baumanagement West",
+        "french": "Management de projets de constructions Ouest",
+        "italian": "Gestione delle costruzioni Ovest",
+        "english": ""
+      },
+      "name": {
+        "german": "Baumanagement West",
+        "french": "Management de projets de constructions Ouest",
+        "italian": "Gestione delle costruzioni Ovest",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

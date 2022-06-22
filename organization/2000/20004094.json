@@ -1,1 +1,262 @@
-{"id"=>"20004094", "name"=>{"german"=>"Wissenschaft und Technologie", "french"=>"Sciences et technologies", "italian"=>"Scienza e tecnologia", "english"=>""}, "nameAbbr"=>{"german"=>"W+T", "french"=>"S+T", "italian"=>"S+T", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Feuerwerkerstrasse 39", "postalCode"=>"3602", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584682800", "fax"=>"", "email"=>"Wissenschaft-und-Technologie@ar.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20004095", "name"=>{"german"=>"Assistenz", "french"=>"Assistance", "italian"=>"Assistenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004125", "name"=>{"german"=>"Cyber Sicherheit und Data Science", "french"=>"Cybersécurité et Data Science", "italian"=>"Cybersicurezza e Data Science", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004133", "name"=>{"german"=>"Explosivstoffe und Munitionsüberwachung", "french"=>"Matières explosives et Surveillance des munitions", "italian"=>"Esplosivi e Sorveglianza delle munizioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004096", "name"=>{"german"=>"Forschungsmanagement und Operations Research", "french"=>"Gestion de la recherche et recherche opérationelle", "italian"=>"Gestione della ricerca e ricerca operativa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004107", "name"=>{"german"=>"Innovation und Prozesse", "french"=>"Innovation et processus", "italian"=>"Innovazione e processi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004122", "name"=>{"german"=>"Kommunikation und elektromagnetischer Schutz", "french"=>"Communication et protection électromagnétique", "italian"=>"Comunicazione e protezione elettromagnetica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004118", "name"=>{"german"=>"Sensorik", "french"=>"Technologie des senseurs", "italian"=>"Tecnologia dei sensori", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004129", "name"=>{"german"=>"Testcenter", "french"=>"Centre de tests", "italian"=>"Centro prove", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6329540", "surname"=>"Rothacher", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 82619", "function"=>{"german"=>"Leiter KB Wissenschaft und Technologie / Stv. Rüstungschef", "french"=>"Chef du domaine de compétences sciences et technologies / Remp. du directeur général de l'armement", "italian"=>"Capo SC Scienza e Tecnologia / vice capo dell’armamento", "english"=>"Stv RC / Leiter Kompetenzbereich"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4370970", "surname"=>"Bircher", "givenName"=>"Johann Rudolf", "email"=>nil, "phone"=>"+41 58 46 83003", "function"=>{"german"=>"Leiter FB Forschungsmanagement und Operations Research / Stv. Leiter KB Wissenschaft und Technologie", "french"=>"Chef du DS gestion de la recherche et recherche opérationnelle / Remp. du chef du DC sciences et technologies", "italian"=>"Capo SS Gestione della ricerca e ricerca operativa / vice capo SS scienza e tecnologia", "english"=>"Stv L W u. T/ Leiter Fachbereich WTF"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004094", "label"=>{"german"=>"W+T", "french"=>"S+T", "italian"=>"S+T", "english"=>""}, "name"=>{"german"=>"Wissenschaft und Technologie", "french"=>"Sciences et technologies", "italian"=>"Scienza e tecnologia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20004094",
+  "name": {
+    "german": "Wissenschaft und Technologie",
+    "french": "Sciences et technologies",
+    "italian": "Scienza e tecnologia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "W+T",
+    "french": "S+T",
+    "italian": "S+T",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Feuerwerkerstrasse 39",
+    "postalCode": "3602",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584682800",
+    "fax": "",
+    "email": "Wissenschaft-und-Technologie@ar.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20004095",
+      "name": {
+        "german": "Assistenz",
+        "french": "Assistance",
+        "italian": "Assistenza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004125",
+      "name": {
+        "german": "Cyber Sicherheit und Data Science",
+        "french": "Cybersécurité et Data Science",
+        "italian": "Cybersicurezza e Data Science",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004133",
+      "name": {
+        "german": "Explosivstoffe und Munitionsüberwachung",
+        "french": "Matières explosives et Surveillance des munitions",
+        "italian": "Esplosivi e Sorveglianza delle munizioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004096",
+      "name": {
+        "german": "Forschungsmanagement und Operations Research",
+        "french": "Gestion de la recherche et recherche opérationelle",
+        "italian": "Gestione della ricerca e ricerca operativa",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004107",
+      "name": {
+        "german": "Innovation und Prozesse",
+        "french": "Innovation et processus",
+        "italian": "Innovazione e processi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004122",
+      "name": {
+        "german": "Kommunikation und elektromagnetischer Schutz",
+        "french": "Communication et protection électromagnétique",
+        "italian": "Comunicazione e protezione elettromagnetica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004118",
+      "name": {
+        "german": "Sensorik",
+        "french": "Technologie des senseurs",
+        "italian": "Tecnologia dei sensori",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004129",
+      "name": {
+        "german": "Testcenter",
+        "french": "Centre de tests",
+        "italian": "Centro prove",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6329540",
+      "surname": "Rothacher",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 82619",
+      "function": {
+        "german": "Leiter KB Wissenschaft und Technologie / Stv. Rüstungschef",
+        "french": "Chef du domaine de compétences sciences et technologies / Remp. du directeur général de l'armement",
+        "italian": "Capo SC Scienza e Tecnologia / vice capo dell’armamento",
+        "english": "Stv RC / Leiter Kompetenzbereich"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4370970",
+      "surname": "Bircher",
+      "givenName": "Johann Rudolf",
+      "email": null,
+      "phone": "+41 58 46 83003",
+      "function": {
+        "german": "Leiter FB Forschungsmanagement und Operations Research / Stv. Leiter KB Wissenschaft und Technologie",
+        "french": "Chef du DS gestion de la recherche et recherche opérationnelle / Remp. du chef du DC sciences et technologies",
+        "italian": "Capo SS Gestione della ricerca e ricerca operativa / vice capo SS scienza e tecnologia",
+        "english": "Stv L W u. T/ Leiter Fachbereich WTF"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004094",
+      "label": {
+        "german": "W+T",
+        "french": "S+T",
+        "italian": "S+T",
+        "english": ""
+      },
+      "name": {
+        "german": "Wissenschaft und Technologie",
+        "french": "Sciences et technologies",
+        "italian": "Scienza e tecnologia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

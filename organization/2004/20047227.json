@@ -1,1 +1,143 @@
-{"id"=>"20047227", "name"=>{"german"=>"Konsularischer Schutz", "french"=>"Protection consulaire", "italian"=>"Protezione consolare", "english"=>"Consular Protection"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1056271", "surname"=>"Périllard", "givenName"=>"Stéphanie", "email"=>nil, "phone"=>"+41 58 46 30093", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5647007", "surname"=>"Heiniger", "givenName"=>"Hans Peter", "email"=>nil, "phone"=>"+41 58 46 53567", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20028753", "label"=>{"german"=>"KD", "french"=>"DC", "italian"=>"DC", "english"=>"CD"}, "name"=>{"german"=>"Konsularische Direktion", "french"=>"Direction consulaire", "italian"=>"Direzione consolare", "english"=>"Consular Directorate"}}, {"id"=>"20047227", "label"=>{"german"=>"Konsularischer Schutz", "french"=>"Protection consulaire", "italian"=>"Protezione consolare", "english"=>"Consular Protection"}, "name"=>{"german"=>"Konsularischer Schutz", "french"=>"Protection consulaire", "italian"=>"Protezione consolare", "english"=>"Consular Protection"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20047227",
+  "name": {
+    "german": "Konsularischer Schutz",
+    "french": "Protection consulaire",
+    "italian": "Protezione consolare",
+    "english": "Consular Protection"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1056271",
+      "surname": "Périllard",
+      "givenName": "Stéphanie",
+      "email": null,
+      "phone": "+41 58 46 30093",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5647007",
+      "surname": "Heiniger",
+      "givenName": "Hans Peter",
+      "email": null,
+      "phone": "+41 58 46 53567",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20028753",
+      "label": {
+        "german": "KD",
+        "french": "DC",
+        "italian": "DC",
+        "english": "CD"
+      },
+      "name": {
+        "german": "Konsularische Direktion",
+        "french": "Direction consulaire",
+        "italian": "Direzione consolare",
+        "english": "Consular Directorate"
+      }
+    },
+    {
+      "id": "20047227",
+      "label": {
+        "german": "Konsularischer Schutz",
+        "french": "Protection consulaire",
+        "italian": "Protezione consolare",
+        "english": "Consular Protection"
+      },
+      "name": {
+        "german": "Konsularischer Schutz",
+        "french": "Protection consulaire",
+        "italian": "Protezione consolare",
+        "english": "Consular Protection"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

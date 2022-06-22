@@ -1,1 +1,226 @@
-{"id"=>"20019251", "name"=>{"german"=>"Personaladministration", "french"=>"Administration personnel", "italian"=>"Administrazione del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8718227", "surname"=>"Marti", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 90715", "function"=>{"german"=>"Gruppenleiter/in PA / Controlling OAPE", "french"=>"Gruppenleiter/in PA / Controlling OAPE", "italian"=>"Gruppenleiter/in PA / Controlling OAPE", "english"=>"Gruppenleiter/in PA / Controlling OAPE"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7463830", "surname"=>"Eicher", "givenName"=>"Esther", "email"=>nil, "phone"=>"+41 58 46 55864", "function"=>{"german"=>"Sachbearbeiter/in PA OAPE", "french"=>"Sachbearbeiter/in PA OAPE", "italian"=>"Sachbearbeiter/in PA OAPE", "english"=>"Sachbearbeiter/in PA OAPE"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5374782", "surname"=>"Elezova", "givenName"=>"Elena", "email"=>nil, "phone"=>"+41 58 46 74253", "function"=>{"german"=>"Sachbearbeiter/in PA OAPE", "french"=>"Sachbearbeiter/in PA OAPE", "italian"=>"Sachbearbeiter/in PA OAPE", "english"=>"Sachbearbeiter/in PA OAPE"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2687194", "surname"=>"Kobel", "givenName"=>"Samuel", "email"=>nil, "phone"=>"+41 58 46 22930", "function"=>{"german"=>"Sachbearbeiter/in PA OAPE", "french"=>"Sachbearbeiter/in PA OAPE", "italian"=>"Sachbearbeiter/in PA OAPE", "english"=>"Sachbearbeiter/in PA OAPE"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XHMH15Q3", "surname"=>"Lomello", "givenName"=>"Luana", "email"=>nil, "phone"=>"+41 58 48 00110", "function"=>{"german"=>"Sachbearbeiter/in PA OAPE", "french"=>"Sachbearbeiter/in PA OAPE", "italian"=>"Sachbearbeiter/in PA OAPE", "english"=>"Sachbearbeiter/in PA OAPE"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004249", "label"=>{"german"=>"Organisation, Recht und Akkreditierung", "french"=>"Organisation, droit et accréditation", "italian"=>"Organizzazione, diritto e accreditamento", "english"=>""}, "name"=>{"german"=>"Organisation, Recht und Akkreditierung", "french"=>"Organisation, droit et accréditation", "italian"=>"Organizzazione, diritto e accreditamento", "english"=>""}}, {"id"=>"10004255", "label"=>{"german"=>"Personal", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}, "name"=>{"german"=>"Personal", "french"=>"Personnel", "italian"=>"Personale", "english"=>""}}, {"id"=>"20019251", "label"=>{"german"=>"Personaladministration", "french"=>"Administration personnel", "italian"=>"Administrazione del personale", "english"=>""}, "name"=>{"german"=>"Personaladministration", "french"=>"Administration personnel", "italian"=>"Administrazione del personale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20019251",
+  "name": {
+    "german": "Personaladministration",
+    "french": "Administration personnel",
+    "italian": "Administrazione del personale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8718227",
+      "surname": "Marti",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 90715",
+      "function": {
+        "german": "Gruppenleiter/in PA / Controlling OAPE",
+        "french": "Gruppenleiter/in PA / Controlling OAPE",
+        "italian": "Gruppenleiter/in PA / Controlling OAPE",
+        "english": "Gruppenleiter/in PA / Controlling OAPE"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7463830",
+      "surname": "Eicher",
+      "givenName": "Esther",
+      "email": null,
+      "phone": "+41 58 46 55864",
+      "function": {
+        "german": "Sachbearbeiter/in PA OAPE",
+        "french": "Sachbearbeiter/in PA OAPE",
+        "italian": "Sachbearbeiter/in PA OAPE",
+        "english": "Sachbearbeiter/in PA OAPE"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5374782",
+      "surname": "Elezova",
+      "givenName": "Elena",
+      "email": null,
+      "phone": "+41 58 46 74253",
+      "function": {
+        "german": "Sachbearbeiter/in PA OAPE",
+        "french": "Sachbearbeiter/in PA OAPE",
+        "italian": "Sachbearbeiter/in PA OAPE",
+        "english": "Sachbearbeiter/in PA OAPE"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2687194",
+      "surname": "Kobel",
+      "givenName": "Samuel",
+      "email": null,
+      "phone": "+41 58 46 22930",
+      "function": {
+        "german": "Sachbearbeiter/in PA OAPE",
+        "french": "Sachbearbeiter/in PA OAPE",
+        "italian": "Sachbearbeiter/in PA OAPE",
+        "english": "Sachbearbeiter/in PA OAPE"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XHMH15Q3",
+      "surname": "Lomello",
+      "givenName": "Luana",
+      "email": null,
+      "phone": "+41 58 48 00110",
+      "function": {
+        "german": "Sachbearbeiter/in PA OAPE",
+        "french": "Sachbearbeiter/in PA OAPE",
+        "italian": "Sachbearbeiter/in PA OAPE",
+        "english": "Sachbearbeiter/in PA OAPE"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004249",
+      "label": {
+        "german": "Organisation, Recht und Akkreditierung",
+        "french": "Organisation, droit et accréditation",
+        "italian": "Organizzazione, diritto e accreditamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Organisation, Recht und Akkreditierung",
+        "french": "Organisation, droit et accréditation",
+        "italian": "Organizzazione, diritto e accreditamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004255",
+      "label": {
+        "german": "Personal",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal",
+        "french": "Personnel",
+        "italian": "Personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20019251",
+      "label": {
+        "german": "Personaladministration",
+        "french": "Administration personnel",
+        "italian": "Administrazione del personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Personaladministration",
+        "french": "Administration personnel",
+        "italian": "Administrazione del personale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

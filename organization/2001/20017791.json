@@ -1,1 +1,200 @@
-{"id"=>"20017791", "name"=>{"german"=>"Fachbereich Führungssysteme", "french"=>"Dom spéc Systèmes de conduite", "italian"=>"Sett spec Sistemi di condotta", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo Ih Schule 43", "street"=>"Kaserne", "postalCode"=>"3250", "location"=>"Lyss", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015872", "label"=>{"german"=>"LVBLOG", "french"=>"LVBLOG", "italian"=>"LVBLOG", "english"=>""}, "name"=>{"german"=>"Lehrverband Logistik", "french"=>"Formation d'application de la logistique", "italian"=>"FOA della logistica", "english"=>""}}, {"id"=>"20003594", "label"=>{"german"=>"Kdo Instandhaltung UOS/RS 43", "french"=>"Cdmt ER/ESO maintenance 43", "italian"=>"Cdo SSU/SR di manutenzione 43", "english"=>""}, "name"=>{"german"=>"Kdo Instandhaltung UOS/RS 43", "french"=>"Cdmt ER/ESO maintenance 43", "italian"=>"Cdo SSU/SR di manutenzione 43", "english"=>""}}, {"id"=>"20013438", "label"=>{"german"=>"Ausbildung Instandhaltung UOS/RS 43", "french"=>"Instruction ER/ESO maintenance 43", "italian"=>"Istruzione SSU/SR di manutenzione 43", "english"=>""}, "name"=>{"german"=>"Ausbildung Instandhaltung UOS/RS 43", "french"=>"Instruction ER/ESO maintenance 43", "italian"=>"Istruzione SSU/SR di manutenzione 43", "english"=>""}}, {"id"=>"20017784", "label"=>{"german"=>"Fachausbildung Elektronik", "french"=>"Instruction spéc électronique", "italian"=>"Istruzione specialistica elettronica", "english"=>""}, "name"=>{"german"=>"Fachausbildung Elektronik", "french"=>"Instruction spéc électronique", "italian"=>"Istruzione specialistica elettronica", "english"=>""}}, {"id"=>"20017791", "label"=>{"german"=>"Fachbereich Führungssysteme", "french"=>"Dom spéc Systèmes de conduite", "italian"=>"Sett spec Sistemi di condotta", "english"=>""}, "name"=>{"german"=>"Fachbereich Führungssysteme", "french"=>"Dom spéc Systèmes de conduite", "italian"=>"Sett spec Sistemi di condotta", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20017791",
+  "name": {
+    "german": "Fachbereich Führungssysteme",
+    "french": "Dom spéc Systèmes de conduite",
+    "italian": "Sett spec Sistemi di condotta",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo Ih Schule 43",
+    "street": "Kaserne",
+    "postalCode": "3250",
+    "location": "Lyss",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015872",
+      "label": {
+        "german": "LVBLOG",
+        "french": "LVBLOG",
+        "italian": "LVBLOG",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Logistik",
+        "french": "Formation d'application de la logistique",
+        "italian": "FOA della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003594",
+      "label": {
+        "german": "Kdo Instandhaltung UOS/RS 43",
+        "french": "Cdmt ER/ESO maintenance 43",
+        "italian": "Cdo SSU/SR di manutenzione 43",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Instandhaltung UOS/RS 43",
+        "french": "Cdmt ER/ESO maintenance 43",
+        "italian": "Cdo SSU/SR di manutenzione 43",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013438",
+      "label": {
+        "german": "Ausbildung Instandhaltung UOS/RS 43",
+        "french": "Instruction ER/ESO maintenance 43",
+        "italian": "Istruzione SSU/SR di manutenzione 43",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausbildung Instandhaltung UOS/RS 43",
+        "french": "Instruction ER/ESO maintenance 43",
+        "italian": "Istruzione SSU/SR di manutenzione 43",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017784",
+      "label": {
+        "german": "Fachausbildung Elektronik",
+        "french": "Instruction spéc électronique",
+        "italian": "Istruzione specialistica elettronica",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachausbildung Elektronik",
+        "french": "Instruction spéc électronique",
+        "italian": "Istruzione specialistica elettronica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017791",
+      "label": {
+        "german": "Fachbereich Führungssysteme",
+        "french": "Dom spéc Systèmes de conduite",
+        "italian": "Sett spec Sistemi di condotta",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Führungssysteme",
+        "french": "Dom spéc Systèmes de conduite",
+        "italian": "Sett spec Sistemi di condotta",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

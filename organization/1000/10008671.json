@@ -1,1 +1,124 @@
-{"id"=>"10008671", "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}, "nameAbbr"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 46 33033", "fax"=>"+41 58 46 38570", "email"=>"info@blv.admin.ch", "homepage"=>{"german"=>"www.blv.admin.ch", "french"=>"www.blv.admin.ch", "italian"=>"www.blv.admin.ch", "english"=>""}}, "children"=>[{"id"=>"10004157", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10008677", "name"=>{"german"=>"Institut für Virologie und Immunologie", "french"=>"Institut de virologie et d'immunologie", "italian"=>"Istituto di virologia e di immunologia", "english"=>""}, "nameAbbr"=>{"german"=>"IVI", "french"=>"IVI", "italian"=>"IVI", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10008671",
+  "name": {
+    "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+    "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+    "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+    "english": "Federal Food Safety and Veterinary"
+  },
+  "nameAbbr": {
+    "german": "BLV",
+    "french": "BLV",
+    "italian": "BLV",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 46 33033",
+    "fax": "+41 58 46 38570",
+    "email": "info@blv.admin.ch",
+    "homepage": {
+      "german": "www.blv.admin.ch",
+      "french": "www.blv.admin.ch",
+      "italian": "www.blv.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10004157",
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008677",
+      "name": {
+        "german": "Institut für Virologie und Immunologie",
+        "french": "Institut de virologie et d'immunologie",
+        "italian": "Istituto di virologia e di immunologia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "IVI",
+        "french": "IVI",
+        "italian": "IVI",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

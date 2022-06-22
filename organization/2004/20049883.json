@@ -1,1 +1,96 @@
-{"id"=>"20049883", "name"=>{"german"=>"Vizepräsident", "french"=>"Vice-président", "italian"=>"Vicepresidente", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>334, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-9918714", "surname"=>"Donzallaz", "givenName"=>"Yves", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Vizepräsident", "french"=>"Vice-président", "italian"=>"Vicepresidente", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"20049883", "label"=>{"german"=>"Vizepräsident", "french"=>"Vice-président", "italian"=>"Vicepresidente", "english"=>""}, "name"=>{"german"=>"Vizepräsident", "french"=>"Vice-président", "italian"=>"Vicepresidente", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049883",
+  "name": {
+    "german": "Vizepräsident",
+    "french": "Vice-président",
+    "italian": "Vicepresidente",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 334,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-9918714",
+      "surname": "Donzallaz",
+      "givenName": "Yves",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Vizepräsident",
+        "french": "Vice-président",
+        "italian": "Vicepresidente",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049883",
+      "label": {
+        "german": "Vizepräsident",
+        "french": "Vice-président",
+        "italian": "Vicepresidente",
+        "english": ""
+      },
+      "name": {
+        "german": "Vizepräsident",
+        "french": "Vice-président",
+        "italian": "Vicepresidente",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

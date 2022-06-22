@@ -1,1 +1,128 @@
-{"id"=>"10005120", "name"=>{"german"=>"Abteilungskanzlei", "french"=>"Chancellerie de cour", "italian"=>"Cancelleria della corte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6038924", "surname"=>"Brillet", "givenName"=>"Theres", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Chefin der Abteilungskanzlei", "french"=>"Cheffe de chancellerie de cour", "italian"=>"Responsabile della cancelleria", "english"=>"Chefin der Abteilungskanzlei"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2149386", "surname"=>"Huber", "givenName"=>"Mario", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Chef der Abteilungskanzlei", "french"=>"Suppléant de la cheffe de chancellerie", "italian"=>"Supplente della responsabile cancelleria", "english"=>"Stv. Chef der Abteilungskanzlei"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005119", "label"=>{"german"=>"Strafrechtliche Abteilung", "french"=>"Cour de droit pénal", "italian"=>"Corte di diritto penale", "english"=>""}, "name"=>{"german"=>"Strafrechtliche Abteilung", "french"=>"Cour de droit pénal", "italian"=>"Corte di diritto penale", "english"=>""}}, {"id"=>"10005120", "label"=>{"german"=>"Abteilungskanzlei", "french"=>"Chancellerie de cour", "italian"=>"Cancelleria della corte", "english"=>""}, "name"=>{"german"=>"Abteilungskanzlei", "french"=>"Chancellerie de cour", "italian"=>"Cancelleria della corte", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005120",
+  "name": {
+    "german": "Abteilungskanzlei",
+    "french": "Chancellerie de cour",
+    "italian": "Cancelleria della corte",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6038924",
+      "surname": "Brillet",
+      "givenName": "Theres",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Chefin der Abteilungskanzlei",
+        "french": "Cheffe de chancellerie de cour",
+        "italian": "Responsabile della cancelleria",
+        "english": "Chefin der Abteilungskanzlei"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2149386",
+      "surname": "Huber",
+      "givenName": "Mario",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Chef der Abteilungskanzlei",
+        "french": "Suppléant de la cheffe de chancellerie",
+        "italian": "Supplente della responsabile cancelleria",
+        "english": "Stv. Chef der Abteilungskanzlei"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005119",
+      "label": {
+        "german": "Strafrechtliche Abteilung",
+        "french": "Cour de droit pénal",
+        "italian": "Corte di diritto penale",
+        "english": ""
+      },
+      "name": {
+        "german": "Strafrechtliche Abteilung",
+        "french": "Cour de droit pénal",
+        "italian": "Corte di diritto penale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005120",
+      "label": {
+        "german": "Abteilungskanzlei",
+        "french": "Chancellerie de cour",
+        "italian": "Cancelleria della corte",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilungskanzlei",
+        "french": "Chancellerie de cour",
+        "italian": "Cancelleria della corte",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

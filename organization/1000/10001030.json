@@ -1,1 +1,215 @@
-{"id"=>"10001030", "name"=>{"german"=>"Konsulat Belo Horizonte", "french"=>"Consulat de Belo Horizonte", "italian"=>"Consolato a Belo Horizonte", "english"=>"Consulate in Belo Horizonte"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035236", "label"=>{"german"=>"Amerika", "french"=>"Amérique", "italian"=>"America", "english"=>"America"}, "name"=>{"german"=>"Amerika", "french"=>"Amérique", "italian"=>"America", "english"=>"America"}}, {"id"=>"20035321", "label"=>{"german"=>"Brasilien", "french"=>"Brésil", "italian"=>"Brasile", "english"=>"Brazil"}, "name"=>{"german"=>"Brasilien", "french"=>"Brésil", "italian"=>"Brasile", "english"=>"Brazil"}}, {"id"=>"10000820", "label"=>{"german"=>"Botschaft Brasilia", "french"=>"Ambassade de Brasilia", "italian"=>"Ambasciata a Brasilia", "english"=>"Embassy in Brasilia"}, "name"=>{"german"=>"Botschaft Brasilia", "french"=>"Ambassade de Brasilia", "italian"=>"Ambasciata a Brasilia", "english"=>"Embassy in Brasilia"}}, {"id"=>"20039226", "label"=>{"german"=>"Konsularische Vertretungen", "french"=>"Représentations consulaires", "italian"=>"Rappresentanze consolari", "english"=>"Consular representations"}, "name"=>{"german"=>"Konsularische Vertretungen", "french"=>"Représentations consulaires", "italian"=>"Rappresentanze consolari", "english"=>"Consular representations"}}, {"id"=>"10000948", "label"=>{"german"=>"Generalkonsulat Rio de Janeiro", "french"=>"Consulat général de Rio de Janeiro", "italian"=>"Consolato generale a Rio de Janeiro", "english"=>"Consulate General in Rio de Janeiro"}, "name"=>{"german"=>"Generalkonsulat Rio de Janeiro", "french"=>"Consulat général de Rio de Janeiro", "italian"=>"Consolato generale a Rio de Janeiro", "english"=>"Consulate General in Rio de Janeiro"}}, {"id"=>"20039233", "label"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}, "name"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}}, {"id"=>"10001030", "label"=>{"german"=>"Konsulat Belo Horizonte", "french"=>"Consulat de Belo Horizonte", "italian"=>"Consolato a Belo Horizonte", "english"=>"Consulate in Belo Horizonte"}, "name"=>{"german"=>"Konsulat Belo Horizonte", "french"=>"Consulat de Belo Horizonte", "italian"=>"Consolato a Belo Horizonte", "english"=>"Consulate in Belo Horizonte"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10001030",
+  "name": {
+    "german": "Konsulat Belo Horizonte",
+    "french": "Consulat de Belo Horizonte",
+    "italian": "Consolato a Belo Horizonte",
+    "english": "Consulate in Belo Horizonte"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035236",
+      "label": {
+        "german": "Amerika",
+        "french": "Amérique",
+        "italian": "America",
+        "english": "America"
+      },
+      "name": {
+        "german": "Amerika",
+        "french": "Amérique",
+        "italian": "America",
+        "english": "America"
+      }
+    },
+    {
+      "id": "20035321",
+      "label": {
+        "german": "Brasilien",
+        "french": "Brésil",
+        "italian": "Brasile",
+        "english": "Brazil"
+      },
+      "name": {
+        "german": "Brasilien",
+        "french": "Brésil",
+        "italian": "Brasile",
+        "english": "Brazil"
+      }
+    },
+    {
+      "id": "10000820",
+      "label": {
+        "german": "Botschaft Brasilia",
+        "french": "Ambassade de Brasilia",
+        "italian": "Ambasciata a Brasilia",
+        "english": "Embassy in Brasilia"
+      },
+      "name": {
+        "german": "Botschaft Brasilia",
+        "french": "Ambassade de Brasilia",
+        "italian": "Ambasciata a Brasilia",
+        "english": "Embassy in Brasilia"
+      }
+    },
+    {
+      "id": "20039226",
+      "label": {
+        "german": "Konsularische Vertretungen",
+        "french": "Représentations consulaires",
+        "italian": "Rappresentanze consolari",
+        "english": "Consular representations"
+      },
+      "name": {
+        "german": "Konsularische Vertretungen",
+        "french": "Représentations consulaires",
+        "italian": "Rappresentanze consolari",
+        "english": "Consular representations"
+      }
+    },
+    {
+      "id": "10000948",
+      "label": {
+        "german": "Generalkonsulat Rio de Janeiro",
+        "french": "Consulat général de Rio de Janeiro",
+        "italian": "Consolato generale a Rio de Janeiro",
+        "english": "Consulate General in Rio de Janeiro"
+      },
+      "name": {
+        "german": "Generalkonsulat Rio de Janeiro",
+        "french": "Consulat général de Rio de Janeiro",
+        "italian": "Consolato generale a Rio de Janeiro",
+        "english": "Consulate General in Rio de Janeiro"
+      }
+    },
+    {
+      "id": "20039233",
+      "label": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      },
+      "name": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      }
+    },
+    {
+      "id": "10001030",
+      "label": {
+        "german": "Konsulat Belo Horizonte",
+        "french": "Consulat de Belo Horizonte",
+        "italian": "Consolato a Belo Horizonte",
+        "english": "Consulate in Belo Horizonte"
+      },
+      "name": {
+        "german": "Konsulat Belo Horizonte",
+        "french": "Consulat de Belo Horizonte",
+        "italian": "Consolato a Belo Horizonte",
+        "english": "Consulate in Belo Horizonte"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

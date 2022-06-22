@@ -1,1 +1,170 @@
-{"id"=>"20011836", "name"=>{"german"=>"MMR Payerne", "french"=>"Région médicale militaire de Payerne", "italian"=>"RMM Payerne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Route de Grandcour 54", "postalCode"=>"1530", "location"=>"Payerne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20003026", "label"=>{"german"=>"ASTAB", "french"=>"EMA", "italian"=>"SMEs", "english"=>""}, "name"=>{"german"=>"Armeestab", "french"=>"Etat-major de l'armée", "italian"=>"Stato maggiore dell'esercito", "english"=>""}}, {"id"=>"20008451", "label"=>{"german"=>"Sanität", "french"=>"Affaires sanitaires", "italian"=>"Sanità militare", "english"=>""}, "name"=>{"german"=>"Sanität", "french"=>"Affaires sanitaires", "italian"=>"Sanità militare", "english"=>""}}, {"id"=>"20011829", "label"=>{"german"=>"Pflegedienst der Armee", "french"=>"Service des soins de l'armée", "italian"=>"Servizio cure dell'esercito", "english"=>""}, "name"=>{"german"=>"Pflegedienst der Armee", "french"=>"Service des soins de l'armée", "italian"=>"Servizio cure dell'esercito", "english"=>""}}, {"id"=>"20011836", "label"=>{"german"=>"MMR Payerne", "french"=>"Région médicale militaire de Payerne", "italian"=>"RMM Payerne", "english"=>""}, "name"=>{"german"=>"MMR Payerne", "french"=>"Région médicale militaire de Payerne", "italian"=>"RMM Payerne", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011836",
+  "name": {
+    "german": "MMR Payerne",
+    "french": "Région médicale militaire de Payerne",
+    "italian": "RMM Payerne",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Route de Grandcour 54",
+    "postalCode": "1530",
+    "location": "Payerne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003026",
+      "label": {
+        "german": "ASTAB",
+        "french": "EMA",
+        "italian": "SMEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeestab",
+        "french": "Etat-major de l'armée",
+        "italian": "Stato maggiore dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008451",
+      "label": {
+        "german": "Sanität",
+        "french": "Affaires sanitaires",
+        "italian": "Sanità militare",
+        "english": ""
+      },
+      "name": {
+        "german": "Sanität",
+        "french": "Affaires sanitaires",
+        "italian": "Sanità militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011829",
+      "label": {
+        "german": "Pflegedienst der Armee",
+        "french": "Service des soins de l'armée",
+        "italian": "Servizio cure dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Pflegedienst der Armee",
+        "french": "Service des soins de l'armée",
+        "italian": "Servizio cure dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011836",
+      "label": {
+        "german": "MMR Payerne",
+        "french": "Région médicale militaire de Payerne",
+        "italian": "RMM Payerne",
+        "english": ""
+      },
+      "name": {
+        "german": "MMR Payerne",
+        "french": "Région médicale militaire de Payerne",
+        "italian": "RMM Payerne",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

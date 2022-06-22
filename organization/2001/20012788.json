@@ -1,1 +1,158 @@
-{"id"=>"20012788", "name"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestrasse 6", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>true, "id"=>"p-2366176", "surname"=>"Aeschlimann", "givenName"=>"Anna Lena", "email"=>nil, "phone"=>"+41 58 46 31197", "function"=>{"german"=>"Sektionschef/in Co-Leitung", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in Co-Leitung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>true, "id"=>"p-5809304", "surname"=>"Felder", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 90840", "function"=>{"german"=>"Sektionschef/in Co-Leitung", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in Co-Leitung"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008753", "label"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}}, {"id"=>"20012767", "label"=>{"german"=>"Politik", "french"=>"Politique", "italian"=>"Politica", "english"=>""}, "name"=>{"german"=>"Politik", "french"=>"Politique", "italian"=>"Politica", "english"=>""}}, {"id"=>"20012788", "label"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>""}, "name"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012788",
+  "name": {
+    "german": "Internationales",
+    "french": "Affaires internationales",
+    "italian": "Affari internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestrasse 6",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": true,
+      "id": "p-2366176",
+      "surname": "Aeschlimann",
+      "givenName": "Anna Lena",
+      "email": null,
+      "phone": "+41 58 46 31197",
+      "function": {
+        "german": "Sektionschef/in Co-Leitung",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in Co-Leitung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": true,
+      "id": "p-5809304",
+      "surname": "Felder",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 90840",
+      "function": {
+        "german": "Sektionschef/in Co-Leitung",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in Co-Leitung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "label": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012767",
+      "label": {
+        "german": "Politik",
+        "french": "Politique",
+        "italian": "Politica",
+        "english": ""
+      },
+      "name": {
+        "german": "Politik",
+        "french": "Politique",
+        "italian": "Politica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012788",
+      "label": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

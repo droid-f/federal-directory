@@ -1,1 +1,185 @@
-{"id"=>"20042475", "name"=>{"german"=>"Verpflegungszentrum SWISSINT", "french"=>"Centre de subsistance SWISSINT", "italian"=>"Centro di sussistenza SWISSINT", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kasernenstrasse 8", "postalCode"=>"6370", "location"=>"Stans-Oberdorf", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20003085", "label"=>{"german"=>"SWISSINT", "french"=>"SWISSINT", "italian"=>"SWISSINT", "english"=>""}, "name"=>{"german"=>"Kompetenzzentrum SWISSINT", "french"=>"Centre de compétences SWISSINT", "italian"=>"Centro di competenza SWISSINT", "english"=>""}}, {"id"=>"20003101", "label"=>{"german"=>"Ausbildungszentrum / Waffenplatz Stans", "french"=>"Centre instruction / place d'armes Stans", "italian"=>"Centro d'istruzione/piazza d'armi Stans", "english"=>""}, "name"=>{"german"=>"Ausbildungszentrum / Waffenplatz Stans", "french"=>"Centre instruction / place d'armes Stans", "italian"=>"Centro d'istruzione/piazza d'armi Stans", "english"=>""}}, {"id"=>"20004334", "label"=>{"german"=>"Support Ausbildungszentrum/Wpl Stans", "french"=>"Support centre instr / pl armes Stans", "italian"=>"Supporto Cen istr/pz armi Stans", "english"=>""}, "name"=>{"german"=>"Support Ausbildungszentrum/Wpl Stans", "french"=>"Support centre instr / pl armes Stans", "italian"=>"Supporto Cen istr/pz armi Stans", "english"=>""}}, {"id"=>"20042475", "label"=>{"german"=>"Verpflegungszentrum SWISSINT", "french"=>"Centre de subsistance SWISSINT", "italian"=>"Centro di sussistenza SWISSINT", "english"=>""}, "name"=>{"german"=>"Verpflegungszentrum SWISSINT", "french"=>"Centre de subsistance SWISSINT", "italian"=>"Centro di sussistenza SWISSINT", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042475",
+  "name": {
+    "german": "Verpflegungszentrum SWISSINT",
+    "french": "Centre de subsistance SWISSINT",
+    "italian": "Centro di sussistenza SWISSINT",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kasernenstrasse 8",
+    "postalCode": "6370",
+    "location": "Stans-Oberdorf",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003085",
+      "label": {
+        "german": "SWISSINT",
+        "french": "SWISSINT",
+        "italian": "SWISSINT",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompetenzzentrum SWISSINT",
+        "french": "Centre de compétences SWISSINT",
+        "italian": "Centro di competenza SWISSINT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003101",
+      "label": {
+        "german": "Ausbildungszentrum / Waffenplatz Stans",
+        "french": "Centre instruction / place d'armes Stans",
+        "italian": "Centro d'istruzione/piazza d'armi Stans",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausbildungszentrum / Waffenplatz Stans",
+        "french": "Centre instruction / place d'armes Stans",
+        "italian": "Centro d'istruzione/piazza d'armi Stans",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004334",
+      "label": {
+        "german": "Support Ausbildungszentrum/Wpl Stans",
+        "french": "Support centre instr / pl armes Stans",
+        "italian": "Supporto Cen istr/pz armi Stans",
+        "english": ""
+      },
+      "name": {
+        "german": "Support Ausbildungszentrum/Wpl Stans",
+        "french": "Support centre instr / pl armes Stans",
+        "italian": "Supporto Cen istr/pz armi Stans",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042475",
+      "label": {
+        "german": "Verpflegungszentrum SWISSINT",
+        "french": "Centre de subsistance SWISSINT",
+        "italian": "Centro di sussistenza SWISSINT",
+        "english": ""
+      },
+      "name": {
+        "german": "Verpflegungszentrum SWISSINT",
+        "french": "Centre de subsistance SWISSINT",
+        "italian": "Centro di sussistenza SWISSINT",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

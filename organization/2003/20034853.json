@@ -1,1 +1,158 @@
-{"id"=>"20034853", "name"=>{"german"=>"Vorzimmer Departementsvorsteher", "french"=>"Antichambre chef du département", "italian"=>"Anticamera del capodipartimento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Inselgasse 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6923471", "surname"=>"Noti Erpen", "givenName"=>"Ursula", "email"=>nil, "phone"=>"+41 58 46 11401", "function"=>{"german"=>"Sekretariat Departementsvorsteher/in", "french"=>"Secrétariat du chef du département", "italian"=>"Segreteria del capodipartimento", "english"=>"Sekretariat Departementsvorsteher/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2677509", "surname"=>"Rey", "givenName"=>"Valérie", "email"=>nil, "phone"=>"+41 58 46 11402", "function"=>{"german"=>"Sekretariat Departementsvorsteher/in", "french"=>"Secrétariat du chef du département", "italian"=>"Segreteria del capodipartimento", "english"=>"Sekretariat Departementsvorsteher/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"20034853", "label"=>{"german"=>"Vorzimmer Departementsvorsteher", "french"=>"Antichambre chef du département", "italian"=>"Anticamera del capodipartimento", "english"=>""}, "name"=>{"german"=>"Vorzimmer Departementsvorsteher", "french"=>"Antichambre chef du département", "italian"=>"Anticamera del capodipartimento", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034853",
+  "name": {
+    "german": "Vorzimmer Departementsvorsteher",
+    "french": "Antichambre chef du département",
+    "italian": "Anticamera del capodipartimento",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Inselgasse 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6923471",
+      "surname": "Noti Erpen",
+      "givenName": "Ursula",
+      "email": null,
+      "phone": "+41 58 46 11401",
+      "function": {
+        "german": "Sekretariat Departementsvorsteher/in",
+        "french": "Secrétariat du chef du département",
+        "italian": "Segreteria del capodipartimento",
+        "english": "Sekretariat Departementsvorsteher/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2677509",
+      "surname": "Rey",
+      "givenName": "Valérie",
+      "email": null,
+      "phone": "+41 58 46 11402",
+      "function": {
+        "german": "Sekretariat Departementsvorsteher/in",
+        "french": "Secrétariat du chef du département",
+        "italian": "Segreteria del capodipartimento",
+        "english": "Sekretariat Departementsvorsteher/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034853",
+      "label": {
+        "german": "Vorzimmer Departementsvorsteher",
+        "french": "Antichambre chef du département",
+        "italian": "Anticamera del capodipartimento",
+        "english": ""
+      },
+      "name": {
+        "german": "Vorzimmer Departementsvorsteher",
+        "french": "Antichambre chef du département",
+        "italian": "Anticamera del capodipartimento",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

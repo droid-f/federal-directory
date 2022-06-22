@@ -1,1 +1,187 @@
-{"id"=>"10003299", "name"=>{"german"=>"Recht und Risikomanagement", "french"=>"Droit et gestion des risques", "italian"=>"Diritto e gestione dei rischi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10003300", "name"=>{"german"=>"Allgemeines Recht", "french"=>"Droit général", "italian"=>"Diritto generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003301", "name"=>{"german"=>"Risikomanagement und Versicherungspolitik", "french"=>"Gestion des risques et politique en matière d'assurance", "italian"=>"Gestione dei rischi e politica in materia di assicurazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1087698", "surname"=>"Gerszt", "givenName"=>"Arie", "email"=>nil, "phone"=>"+41 58 46 73319", "function"=>{"german"=>"Vizedirektor - Leiter Recht und Risikomanagement", "french"=>"Vice-directeur - Chef Service juridique et gesiton des risques", "italian"=>"Vicedirettore - Capo Servizio legale e gestione dei rischi", "english"=>"Vizedirektor - Recht und Risikomanag."}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1288982", "surname"=>"Künzler", "givenName"=>"Eugen", "email"=>nil, "phone"=>"+41 58 46 26015", "function"=>{"german"=>"Stv. Abteilungsleiter - Leiter Allgemeines Recht", "french"=>"Chef suppléant de la division - Chef Droit général", "italian"=>"Capo sostituto della divisione - Capo diritto generale", "english"=>"stv. Abt.L. - Leiter Allg. Recht"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003299", "label"=>{"german"=>"Recht und Risikomanagement", "french"=>"Droit et gestion des risques", "italian"=>"Diritto e gestione dei rischi", "english"=>""}, "name"=>{"german"=>"Recht und Risikomanagement", "french"=>"Droit et gestion des risques", "italian"=>"Diritto e gestione dei rischi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003299",
+  "name": {
+    "german": "Recht und Risikomanagement",
+    "french": "Droit et gestion des risques",
+    "italian": "Diritto e gestione dei rischi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10003300",
+      "name": {
+        "german": "Allgemeines Recht",
+        "french": "Droit général",
+        "italian": "Diritto generale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003301",
+      "name": {
+        "german": "Risikomanagement und Versicherungspolitik",
+        "french": "Gestion des risques et politique en matière d'assurance",
+        "italian": "Gestione dei rischi e politica in materia di assicurazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1087698",
+      "surname": "Gerszt",
+      "givenName": "Arie",
+      "email": null,
+      "phone": "+41 58 46 73319",
+      "function": {
+        "german": "Vizedirektor - Leiter Recht und Risikomanagement",
+        "french": "Vice-directeur - Chef Service juridique et gesiton des risques",
+        "italian": "Vicedirettore - Capo Servizio legale e gestione dei rischi",
+        "english": "Vizedirektor - Recht und Risikomanag."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1288982",
+      "surname": "Künzler",
+      "givenName": "Eugen",
+      "email": null,
+      "phone": "+41 58 46 26015",
+      "function": {
+        "german": "Stv. Abteilungsleiter - Leiter Allgemeines Recht",
+        "french": "Chef suppléant de la division - Chef Droit général",
+        "italian": "Capo sostituto della divisione - Capo diritto generale",
+        "english": "stv. Abt.L. - Leiter Allg. Recht"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003299",
+      "label": {
+        "german": "Recht und Risikomanagement",
+        "french": "Droit et gestion des risques",
+        "italian": "Diritto e gestione dei rischi",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht und Risikomanagement",
+        "french": "Droit et gestion des risques",
+        "italian": "Diritto e gestione dei rischi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

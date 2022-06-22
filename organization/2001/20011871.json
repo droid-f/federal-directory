@@ -1,1 +1,199 @@
-{"id"=>"20011871", "name"=>{"german"=>"Schadenwehr Süd", "french"=>"Service d'intervention Sud", "italian"=>"CIG sud", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"CLEs Monteceneri", "street"=>"Via della Stazione 2", "postalCode"=>"6780", "location"=>"Airolo", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20044354", "name"=>{"german"=>"Zug 1 Süd", "french"=>"Section 1 Sud", "italian"=>"Sezione 1 Süd", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044355", "name"=>{"german"=>"Zug 2 Süd", "french"=>"Section 2 Sud", "italian"=>"Sezione 2 Süd", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20011567", "label"=>{"german"=>"Armeelogistikcenter Monteceneri", "french"=>"Centre logistique de l'armée Monteceneri", "italian"=>"Centro log dell'esercito Monteceneri", "english"=>""}, "name"=>{"german"=>"Armeelogistikcenter Monteceneri", "french"=>"Centre logistique de l'armée Monteceneri", "italian"=>"Centro log dell'esercito Monteceneri", "english"=>""}}, {"id"=>"20011869", "label"=>{"german"=>"Schadenwehr Gotthard", "french"=>"Service d'intervention du Gotthard", "italian"=>"Centro d'intervento del San Gottardo", "english"=>""}, "name"=>{"german"=>"Schadenwehr Gotthard", "french"=>"Service d'intervention du Gotthard", "italian"=>"Centro d'intervento del San Gottardo", "english"=>""}}, {"id"=>"20011871", "label"=>{"german"=>"Schadenwehr Süd", "french"=>"Service d'intervention Sud", "italian"=>"CIG sud", "english"=>""}, "name"=>{"german"=>"Schadenwehr Süd", "french"=>"Service d'intervention Sud", "italian"=>"CIG sud", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011871",
+  "name": {
+    "german": "Schadenwehr Süd",
+    "french": "Service d'intervention Sud",
+    "italian": "CIG sud",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "CLEs Monteceneri",
+    "street": "Via della Stazione 2",
+    "postalCode": "6780",
+    "location": "Airolo",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20044354",
+      "name": {
+        "german": "Zug 1 Süd",
+        "french": "Section 1 Sud",
+        "italian": "Sezione 1 Süd",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044355",
+      "name": {
+        "german": "Zug 2 Süd",
+        "french": "Section 2 Sud",
+        "italian": "Sezione 2 Süd",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011567",
+      "label": {
+        "german": "Armeelogistikcenter Monteceneri",
+        "french": "Centre logistique de l'armée Monteceneri",
+        "italian": "Centro log dell'esercito Monteceneri",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeelogistikcenter Monteceneri",
+        "french": "Centre logistique de l'armée Monteceneri",
+        "italian": "Centro log dell'esercito Monteceneri",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011869",
+      "label": {
+        "german": "Schadenwehr Gotthard",
+        "french": "Service d'intervention du Gotthard",
+        "italian": "Centro d'intervento del San Gottardo",
+        "english": ""
+      },
+      "name": {
+        "german": "Schadenwehr Gotthard",
+        "french": "Service d'intervention du Gotthard",
+        "italian": "Centro d'intervento del San Gottardo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011871",
+      "label": {
+        "german": "Schadenwehr Süd",
+        "french": "Service d'intervention Sud",
+        "italian": "CIG sud",
+        "english": ""
+      },
+      "name": {
+        "german": "Schadenwehr Süd",
+        "french": "Service d'intervention Sud",
+        "italian": "CIG sud",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

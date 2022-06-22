@@ -1,1 +1,232 @@
-{"id"=>"20024651", "name"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20032681", "name"=>{"german"=>"Immobilien EDA", "french"=>"Immobilier DFAE", "italian"=>"Immobili DFAE", "english"=>"FDFA Real Estate"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037722", "name"=>{"german"=>"Bundesreisezentrale", "french"=>"Centrale des voyages de la Confédération", "italian"=>"Centrale viaggi della Confederazione", "english"=>"Swiss Government Travel Centre"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039752", "name"=>{"german"=>"Rechnungswesen", "french"=>"Comptabilité", "italian"=>"Contabilità", "english"=>"Accounting"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024652", "name"=>{"german"=>"Finanzplanung, Beratung und Berichterstattung", "french"=>"Planification financière, conseil et rapports financiers", "italian"=>"Pianificazione finanziaria, consulenza e resoconti", "english"=>"Financial Planning, Advisory Services and Reporting"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025761", "name"=>{"german"=>"SAP-Dienste", "french"=>"Services SAP", "italian"=>"Servizi SAP", "english"=>"SAP Services"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003403", "name"=>{"german"=>"Finanzen und Administration AFM", "french"=>"Finances et administration DPDH", "italian"=>"Finanze e amministrazione DPDU", "english"=>"Finance and Administration PHRD"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>true, "id"=>"p-8786448", "surname"=>"Uña", "givenName"=>"Ruben", "email"=>nil, "phone"=>"+41 58 46 91742", "function"=>{"german"=>"Chef/in a.i.", "french"=>"Chef/in a.i.", "italian"=>"Chef/in a.i.", "english"=>"Chef/in a.i."}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3425030", "surname"=>"Puente Buitrago", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 23244", "function"=>{"german"=>"Chef/in a.i.", "french"=>"Chef/in a.i.", "italian"=>"Chef/in a.i.", "english"=>"Chef/in a.i."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20024651", "label"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}, "name"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20024651",
+  "name": {
+    "german": "Finanzen EDA",
+    "french": "Finances DFAE",
+    "italian": "Finanze DFAE",
+    "english": "FDFA Finance"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20032681",
+      "name": {
+        "german": "Immobilien EDA",
+        "french": "Immobilier DFAE",
+        "italian": "Immobili DFAE",
+        "english": "FDFA Real Estate"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037722",
+      "name": {
+        "german": "Bundesreisezentrale",
+        "french": "Centrale des voyages de la Confédération",
+        "italian": "Centrale viaggi della Confederazione",
+        "english": "Swiss Government Travel Centre"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039752",
+      "name": {
+        "german": "Rechnungswesen",
+        "french": "Comptabilité",
+        "italian": "Contabilità",
+        "english": "Accounting"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024652",
+      "name": {
+        "german": "Finanzplanung, Beratung und Berichterstattung",
+        "french": "Planification financière, conseil et rapports financiers",
+        "italian": "Pianificazione finanziaria, consulenza e resoconti",
+        "english": "Financial Planning, Advisory Services and Reporting"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025761",
+      "name": {
+        "german": "SAP-Dienste",
+        "french": "Services SAP",
+        "italian": "Servizi SAP",
+        "english": "SAP Services"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003403",
+      "name": {
+        "german": "Finanzen und Administration AFM",
+        "french": "Finances et administration DPDH",
+        "italian": "Finanze e amministrazione DPDU",
+        "english": "Finance and Administration PHRD"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": true,
+      "id": "p-8786448",
+      "surname": "Uña",
+      "givenName": "Ruben",
+      "email": null,
+      "phone": "+41 58 46 91742",
+      "function": {
+        "german": "Chef/in a.i.",
+        "french": "Chef/in a.i.",
+        "italian": "Chef/in a.i.",
+        "english": "Chef/in a.i."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3425030",
+      "surname": "Puente Buitrago",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 23244",
+      "function": {
+        "german": "Chef/in a.i.",
+        "french": "Chef/in a.i.",
+        "italian": "Chef/in a.i.",
+        "english": "Chef/in a.i."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20024651",
+      "label": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      },
+      "name": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

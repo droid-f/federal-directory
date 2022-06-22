@@ -1,1 +1,257 @@
-{"id"=>"20003084", "name"=>{"german"=>"SC Kommando Operationen", "french"=>"CEM commandement des Opérations", "italian"=>"CSM Comando Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"SCOP", "french"=>"SCOP", "italian"=>"SCOP", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003095", "name"=>{"german"=>"Stabssteuerung Kommando Operationen", "french"=>"Pilotage EM commandement des Opérations", "italian"=>"Gest SM Cdo Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046032", "name"=>{"german"=>"Interne Ausbildung Kdo Op", "french"=>"Instruction interne cdmt Op", "italian"=>"Istruzione interna Cdo Op", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042340", "name"=>{"german"=>"Mil Geo Informationsdienst V", "french"=>"Service d'information géo mil D", "italian"=>"Servizio informazioni Geo mil D", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042345", "name"=>{"german"=>"Führungsgrundgebiet 1", "french"=>"Domaine de base de conduite 1", "italian"=>"Ambito fondamentale di condotta 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017137", "name"=>{"german"=>"Führungsgrundgebiet 3/9", "french"=>"Domaine de base de conduite 3/9", "italian"=>"Ambito fondamentale di condotta 3/9", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003089", "name"=>{"german"=>"Führungsgrundgebiet 4/6", "french"=>"Domaine de base de conduite 4/6", "italian"=>"Ambito fondamentale di condotta 4/6", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003092", "name"=>{"german"=>"Führungsgrundgebiet 5/7", "french"=>"Domaine de base de conduite 5/7", "italian"=>"Ambito fondamentale di condotta 5/7", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-6391883", "surname"=>"Ahuja", "givenName"=>"Karvin", "email"=>nil, "phone"=>"+41 58 48 54325", "function"=>{"german"=>"L Int/Op Ausb u Entw des op Denkens", "french"=>"Resp de l’instr int/op et dévelop pensée", "italian"=>"Resp istr int/op ed svilup pensiero op", "english"=>"L Int/Op Ausb u Entw des op Denkens"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20003084", "label"=>{"german"=>"SCOP", "french"=>"SCOP", "italian"=>"SCOP", "english"=>""}, "name"=>{"german"=>"SC Kommando Operationen", "french"=>"CEM commandement des Opérations", "italian"=>"CSM Comando Operazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003084",
+  "name": {
+    "german": "SC Kommando Operationen",
+    "french": "CEM commandement des Opérations",
+    "italian": "CSM Comando Operazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SCOP",
+    "french": "SCOP",
+    "italian": "SCOP",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003095",
+      "name": {
+        "german": "Stabssteuerung Kommando Operationen",
+        "french": "Pilotage EM commandement des Opérations",
+        "italian": "Gest SM Cdo Operazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046032",
+      "name": {
+        "german": "Interne Ausbildung Kdo Op",
+        "french": "Instruction interne cdmt Op",
+        "italian": "Istruzione interna Cdo Op",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042340",
+      "name": {
+        "german": "Mil Geo Informationsdienst V",
+        "french": "Service d'information géo mil D",
+        "italian": "Servizio informazioni Geo mil D",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042345",
+      "name": {
+        "german": "Führungsgrundgebiet 1",
+        "french": "Domaine de base de conduite 1",
+        "italian": "Ambito fondamentale di condotta 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017137",
+      "name": {
+        "german": "Führungsgrundgebiet 3/9",
+        "french": "Domaine de base de conduite 3/9",
+        "italian": "Ambito fondamentale di condotta 3/9",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003089",
+      "name": {
+        "german": "Führungsgrundgebiet 4/6",
+        "french": "Domaine de base de conduite 4/6",
+        "italian": "Ambito fondamentale di condotta 4/6",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003092",
+      "name": {
+        "german": "Führungsgrundgebiet 5/7",
+        "french": "Domaine de base de conduite 5/7",
+        "italian": "Ambito fondamentale di condotta 5/7",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-6391883",
+      "surname": "Ahuja",
+      "givenName": "Karvin",
+      "email": null,
+      "phone": "+41 58 48 54325",
+      "function": {
+        "german": "L Int/Op Ausb u Entw des op Denkens",
+        "french": "Resp de l’instr int/op et dévelop pensée",
+        "italian": "Resp istr int/op ed svilup pensiero op",
+        "english": "L Int/Op Ausb u Entw des op Denkens"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003084",
+      "label": {
+        "german": "SCOP",
+        "french": "SCOP",
+        "italian": "SCOP",
+        "english": ""
+      },
+      "name": {
+        "german": "SC Kommando Operationen",
+        "french": "CEM commandement des Opérations",
+        "italian": "CSM Comando Operazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

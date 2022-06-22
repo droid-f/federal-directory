@@ -1,1 +1,126 @@
-{"id"=>"20042201", "name"=>{"german"=>"Direktionsbereich Öffentlichkeitsprinzip", "french"=>"Domaine de direction Principe de la transparence", "italian"=>"Ambito direzionale Principio di trasparenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Feldeggweg 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3509798", "surname"=>"Ammann", "givenName"=>"Reto", "email"=>nil, "phone"=>"+41 58 46 58498", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002693", "label"=>{"german"=>"EDÖB", "french"=>"PFPDT", "italian"=>"IFPDT", "english"=>"EDÖB"}, "name"=>{"german"=>"Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter", "french"=>"Préposé fédéral à la protection des données et à la transparence", "italian"=>"Incaricato federale della protezione dei dati e della trasparenza", "english"=>"EDÖB"}}, {"id"=>"20042201", "label"=>{"german"=>"Direktionsbereich Öffentlichkeitsprinzip", "french"=>"Domaine de direction Principe de la transparence", "italian"=>"Ambito direzionale Principio di trasparenza", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Öffentlichkeitsprinzip", "french"=>"Domaine de direction Principe de la transparence", "italian"=>"Ambito direzionale Principio di trasparenza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042201",
+  "name": {
+    "german": "Direktionsbereich Öffentlichkeitsprinzip",
+    "french": "Domaine de direction Principe de la transparence",
+    "italian": "Ambito direzionale Principio di trasparenza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Feldeggweg 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3509798",
+      "surname": "Ammann",
+      "givenName": "Reto",
+      "email": null,
+      "phone": "+41 58 46 58498",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002693",
+      "label": {
+        "german": "EDÖB",
+        "french": "PFPDT",
+        "italian": "IFPDT",
+        "english": "EDÖB"
+      },
+      "name": {
+        "german": "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter",
+        "french": "Préposé fédéral à la protection des données et à la transparence",
+        "italian": "Incaricato federale della protezione dei dati e della trasparenza",
+        "english": "EDÖB"
+      }
+    },
+    {
+      "id": "20042201",
+      "label": {
+        "german": "Direktionsbereich Öffentlichkeitsprinzip",
+        "french": "Domaine de direction Principe de la transparence",
+        "italian": "Ambito direzionale Principio di trasparenza",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Öffentlichkeitsprinzip",
+        "french": "Domaine de direction Principe de la transparence",
+        "italian": "Ambito direzionale Principio di trasparenza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

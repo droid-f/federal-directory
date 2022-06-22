@@ -1,1 +1,247 @@
-{"id"=>"10004326", "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584629266", "fax"=>"+41584629273", "email"=>"info@bak.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009637", "name"=>{"german"=>"Stabsstelle Kommunikation", "french"=>"État-major Communication", "italian"=>"Stato maggiore Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20010076", "name"=>{"german"=>"Stellvertretende Direktion BAK", "french"=>"Direction suppléante OFC", "italian"=>"Direzione supplente UFC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021435", "name"=>{"german"=>"Sektion Museen und Sammlungen", "french"=>"Section Musées et collections", "italian"=>"Sezione Musei e collezioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004344", "name"=>{"german"=>"Sektion Baukultur", "french"=>"Section Culture du bâti", "italian"=>"Sezione Cultura della costruzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004331", "name"=>{"german"=>"Sektion Kulturschaffen", "french"=>"Section création culturelle", "italian"=>"Sezione creazione culturale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004341", "name"=>{"german"=>"Sektion Film", "french"=>"Section Cinéma", "italian"=>"Sezione cinema", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009652", "name"=>{"german"=>"Sektion Kultur und Gesellschaft", "french"=>"Section culture et société", "italian"=>"Sezione cultura e società", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1XK5SD66G", "surname"=>"Bachmann", "givenName"=>"Carine", "email"=>nil, "phone"=>"+41 58 46 96907", "function"=>{"german"=>"Direktor/in BAK", "french"=>"Directeur/trice OFC", "italian"=>"Direttore/trice UFC", "english"=>"Direktor/in BAK"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3982996", "surname"=>"Fischer", "givenName"=>"Yves", "email"=>nil, "phone"=>"+41 58 46 29262", "function"=>{"german"=>"Stellvertretende/r Direktor/in BAK", "french"=>"Directeur/trice suppléant/e OFC", "italian"=>"Direttore/trice supplente UFC", "english"=>"Stellvertretende/r Direktor/in BAK"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004326", "label"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10004326",
+  "name": {
+    "german": "Direktion BAK",
+    "french": "Direction OFC",
+    "italian": "Direzione UFC",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584629266",
+    "fax": "+41584629273",
+    "email": "info@bak.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009637",
+      "name": {
+        "german": "Stabsstelle Kommunikation",
+        "french": "État-major Communication",
+        "italian": "Stato maggiore Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010076",
+      "name": {
+        "german": "Stellvertretende Direktion BAK",
+        "french": "Direction suppléante OFC",
+        "italian": "Direzione supplente UFC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021435",
+      "name": {
+        "german": "Sektion Museen und Sammlungen",
+        "french": "Section Musées et collections",
+        "italian": "Sezione Musei e collezioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004344",
+      "name": {
+        "german": "Sektion Baukultur",
+        "french": "Section Culture du bâti",
+        "italian": "Sezione Cultura della costruzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004331",
+      "name": {
+        "german": "Sektion Kulturschaffen",
+        "french": "Section création culturelle",
+        "italian": "Sezione creazione culturale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004341",
+      "name": {
+        "german": "Sektion Film",
+        "french": "Section Cinéma",
+        "italian": "Sezione cinema",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009652",
+      "name": {
+        "german": "Sektion Kultur und Gesellschaft",
+        "french": "Section culture et société",
+        "italian": "Sezione cultura e società",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1XK5SD66G",
+      "surname": "Bachmann",
+      "givenName": "Carine",
+      "email": null,
+      "phone": "+41 58 46 96907",
+      "function": {
+        "german": "Direktor/in BAK",
+        "french": "Directeur/trice OFC",
+        "italian": "Direttore/trice UFC",
+        "english": "Direktor/in BAK"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3982996",
+      "surname": "Fischer",
+      "givenName": "Yves",
+      "email": null,
+      "phone": "+41 58 46 29262",
+      "function": {
+        "german": "Stellvertretende/r Direktor/in BAK",
+        "french": "Directeur/trice suppléant/e OFC",
+        "italian": "Direttore/trice supplente UFC",
+        "english": "Stellvertretende/r Direktor/in BAK"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004326",
+      "label": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

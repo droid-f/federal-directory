@@ -1,1 +1,154 @@
-{"id"=>"20036401", "name"=>{"german"=>"Planung und Steuerung", "french"=>"Planification et pilotage", "italian"=>"Planificazione e gestione", "english"=>""}, "nameAbbr"=>{"german"=>"NAZ/PLS", "french"=>"NAZ/PLS", "italian"=>"NAZ/PLS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1B", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1149360", "surname"=>"Bialek", "givenName"=>"Roland", "email"=>nil, "phone"=>"+41 58 46 64922", "function"=>{"german"=>"C Planung u. Steuerung und Stv C GB NAZ", "french"=>"C Planung u. Steuerung und Stv C GB NAZ", "italian"=>"C Planung u. Steuerung und Stv C GB NAZ", "english"=>"C Planung u. Steuerung und Stv C GB NAZ"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-0623604", "surname"=>"Frischknecht", "givenName"=>"Annina", "email"=>nil, "phone"=>"+41 58 48 38419", "function"=>{"german"=>"WiMi und Leiterin int. Zusammenarbeit", "french"=>"WiMi und Leiterin int. Zusammenarbeit", "italian"=>"WiMi und Leiterin int. Zusammenarbeit", "english"=>"WiMi und Leiterin int. Zusammenarbeit"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"20005626", "label"=>{"german"=>"NAZ", "french"=>"NAZ", "italian"=>"NAZ", "english"=>""}, "name"=>{"german"=>"Nationale Alarmzentrale", "french"=>"Centrale nationale d'alarme", "italian"=>"Centrale nazionale d'allarme", "english"=>""}}, {"id"=>"20036401", "label"=>{"german"=>"NAZ/PLS", "french"=>"NAZ/PLS", "italian"=>"NAZ/PLS", "english"=>""}, "name"=>{"german"=>"Planung und Steuerung", "french"=>"Planification et pilotage", "italian"=>"Planificazione e gestione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20036401",
+  "name": {
+    "german": "Planung und Steuerung",
+    "french": "Planification et pilotage",
+    "italian": "Planificazione e gestione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "NAZ/PLS",
+    "french": "NAZ/PLS",
+    "italian": "NAZ/PLS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1B",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1149360",
+      "surname": "Bialek",
+      "givenName": "Roland",
+      "email": null,
+      "phone": "+41 58 46 64922",
+      "function": {
+        "german": "C Planung u. Steuerung und Stv C GB NAZ",
+        "french": "C Planung u. Steuerung und Stv C GB NAZ",
+        "italian": "C Planung u. Steuerung und Stv C GB NAZ",
+        "english": "C Planung u. Steuerung und Stv C GB NAZ"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-0623604",
+      "surname": "Frischknecht",
+      "givenName": "Annina",
+      "email": null,
+      "phone": "+41 58 48 38419",
+      "function": {
+        "german": "WiMi und Leiterin int. Zusammenarbeit",
+        "french": "WiMi und Leiterin int. Zusammenarbeit",
+        "italian": "WiMi und Leiterin int. Zusammenarbeit",
+        "english": "WiMi und Leiterin int. Zusammenarbeit"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005626",
+      "label": {
+        "german": "NAZ",
+        "french": "NAZ",
+        "italian": "NAZ",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationale Alarmzentrale",
+        "french": "Centrale nationale d'alarme",
+        "italian": "Centrale nazionale d'allarme",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036401",
+      "label": {
+        "german": "NAZ/PLS",
+        "french": "NAZ/PLS",
+        "italian": "NAZ/PLS",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung und Steuerung",
+        "french": "Planification et pilotage",
+        "italian": "Planificazione e gestione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

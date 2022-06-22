@@ -1,1 +1,184 @@
-{"id"=>"20034603", "name"=>{"german"=>"Produktion", "french"=>"Produktion", "italian"=>"Produktion", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Rothenburgstrasse 25", "postalCode"=>"6020", "location"=>"Emmenbrücke", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20034577", "name"=>{"german"=>"Gruppe 1", "french"=>"Gruppe 1", "italian"=>"Gruppe 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041785", "name"=>{"german"=>"Gruppe 2", "french"=>"Gruppe 2", "italian"=>"Gruppe 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008759", "label"=>{"german"=>"ASTRA", "french"=>"OFROU", "italian"=>"USTRA", "english"=>""}, "name"=>{"german"=>"Bundesamt für Strassen", "french"=>"Office fédéral des routes", "italian"=>"Ufficio federale delle strade", "english"=>""}}, {"id"=>"10002509", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20006331", "label"=>{"german"=>"Strassennetze (N)", "french"=>"Réseaux routiers", "italian"=>"Reti stradali", "english"=>""}, "name"=>{"german"=>"Strassennetze (N)", "french"=>"Réseaux routiers", "italian"=>"Reti stradali", "english"=>""}}, {"id"=>"20016351", "label"=>{"german"=>"Verkehrsmanagement-Zentrale CH", "french"=>"Centrale de gestion du trafic CH", "italian"=>"Centrale di gestione del traffico CH", "english"=>""}, "name"=>{"german"=>"Verkehrsmanagement-Zentrale CH", "french"=>"Centrale de gestion du trafic CH", "italian"=>"Centrale di gestione del traffico CH", "english"=>""}}, {"id"=>"20034603", "label"=>{"german"=>"Produktion", "french"=>"Produktion", "italian"=>"Produktion", "english"=>""}, "name"=>{"german"=>"Produktion", "french"=>"Produktion", "italian"=>"Produktion", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034603",
+  "name": {
+    "german": "Produktion",
+    "french": "Produktion",
+    "italian": "Produktion",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Rothenburgstrasse 25",
+    "postalCode": "6020",
+    "location": "Emmenbrücke",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20034577",
+      "name": {
+        "german": "Gruppe 1",
+        "french": "Gruppe 1",
+        "italian": "Gruppe 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041785",
+      "name": {
+        "german": "Gruppe 2",
+        "french": "Gruppe 2",
+        "italian": "Gruppe 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008759",
+      "label": {
+        "german": "ASTRA",
+        "french": "OFROU",
+        "italian": "USTRA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Strassen",
+        "french": "Office fédéral des routes",
+        "italian": "Ufficio federale delle strade",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002509",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20006331",
+      "label": {
+        "german": "Strassennetze (N)",
+        "french": "Réseaux routiers",
+        "italian": "Reti stradali",
+        "english": ""
+      },
+      "name": {
+        "german": "Strassennetze (N)",
+        "french": "Réseaux routiers",
+        "italian": "Reti stradali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016351",
+      "label": {
+        "german": "Verkehrsmanagement-Zentrale CH",
+        "french": "Centrale de gestion du trafic CH",
+        "italian": "Centrale di gestione del traffico CH",
+        "english": ""
+      },
+      "name": {
+        "german": "Verkehrsmanagement-Zentrale CH",
+        "french": "Centrale de gestion du trafic CH",
+        "italian": "Centrale di gestione del traffico CH",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034603",
+      "label": {
+        "german": "Produktion",
+        "french": "Produktion",
+        "italian": "Produktion",
+        "english": ""
+      },
+      "name": {
+        "german": "Produktion",
+        "french": "Produktion",
+        "italian": "Produktion",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

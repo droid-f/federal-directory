@@ -1,1 +1,170 @@
-{"id"=>"20011205", "name"=>{"german"=>"Einsatz LVb Logistik", "french"=>"Engagement FOAP de la logistique", "italian"=>"Impiego FOA della logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Malerweg 6", "postalCode"=>"3602", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015872", "label"=>{"german"=>"LVBLOG", "french"=>"LVBLOG", "italian"=>"LVBLOG", "english"=>""}, "name"=>{"german"=>"Lehrverband Logistik", "french"=>"Formation d'application de la logistique", "italian"=>"FOA della logistica", "english"=>""}}, {"id"=>"20003493", "label"=>{"german"=>"Stab LVb Logistik", "french"=>"EM FOAP logistique", "italian"=>"SM FOA della logistica", "english"=>""}, "name"=>{"german"=>"Stab LVb Logistik", "french"=>"EM FOAP logistique", "italian"=>"SM FOA della logistica", "english"=>""}}, {"id"=>"20011205", "label"=>{"german"=>"Einsatz LVb Logistik", "french"=>"Engagement FOAP de la logistique", "italian"=>"Impiego FOA della logistica", "english"=>""}, "name"=>{"german"=>"Einsatz LVb Logistik", "french"=>"Engagement FOAP de la logistique", "italian"=>"Impiego FOA della logistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011205",
+  "name": {
+    "german": "Einsatz LVb Logistik",
+    "french": "Engagement FOAP de la logistique",
+    "italian": "Impiego FOA della logistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Malerweg 6",
+    "postalCode": "3602",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015872",
+      "label": {
+        "german": "LVBLOG",
+        "french": "LVBLOG",
+        "italian": "LVBLOG",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Logistik",
+        "french": "Formation d'application de la logistique",
+        "italian": "FOA della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003493",
+      "label": {
+        "german": "Stab LVb Logistik",
+        "french": "EM FOAP logistique",
+        "italian": "SM FOA della logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab LVb Logistik",
+        "french": "EM FOAP logistique",
+        "italian": "SM FOA della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011205",
+      "label": {
+        "german": "Einsatz LVb Logistik",
+        "french": "Engagement FOAP de la logistique",
+        "italian": "Impiego FOA della logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Einsatz LVb Logistik",
+        "french": "Engagement FOAP de la logistique",
+        "italian": "Impiego FOA della logistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

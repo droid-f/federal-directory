@@ -1,1 +1,168 @@
-{"id"=>"10010901", "name"=>{"german"=>"Corporate Publishing", "french"=>"Conseils en communication, publications et Internet", "italian"=>"Consulenza comunicativa, pubblicazioni e Internet", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 68", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-1XZ104QNR", "surname"=>"Laville", "givenName"=>"Lauriane", "email"=>nil, "phone"=>"+41 58 46 53836", "function"=>{"german"=>"Verantwortliche/r interne Kommunikation", "french"=>"Verantwortliche/r interne Kommunikation", "italian"=>"Verantwortliche/r interne Kommunikation", "english"=>"Verantwortliche/r interne Kommunikation"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035876", "label"=>{"german"=>"Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)", "french"=>"Affaires internationales / Communication", "italian"=>"Affari internazionali / Comunicazione", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)", "french"=>"Affaires internationales / Communication", "italian"=>"Affari internazionali / Comunicazione", "english"=>""}}, {"id"=>"10002706", "label"=>{"german"=>"Abteilung Kommunikation", "french"=>"Division Communication", "italian"=>"Divisione Comunicazione", "english"=>""}, "name"=>{"german"=>"Abteilung Kommunikation", "french"=>"Division Communication", "italian"=>"Divisione Comunicazione", "english"=>""}}, {"id"=>"10010901", "label"=>{"german"=>"Corporate Publishing", "french"=>"Conseils en communication, publications et Internet", "italian"=>"Consulenza comunicativa, pubblicazioni e Internet", "english"=>""}, "name"=>{"german"=>"Corporate Publishing", "french"=>"Conseils en communication, publications et Internet", "italian"=>"Consulenza comunicativa, pubblicazioni e Internet", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10010901",
+  "name": {
+    "german": "Corporate Publishing",
+    "french": "Conseils en communication, publications et Internet",
+    "italian": "Consulenza comunicativa, pubblicazioni e Internet",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 68",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1XZ104QNR",
+      "surname": "Laville",
+      "givenName": "Lauriane",
+      "email": null,
+      "phone": "+41 58 46 53836",
+      "function": {
+        "german": "Verantwortliche/r interne Kommunikation",
+        "french": "Verantwortliche/r interne Kommunikation",
+        "italian": "Verantwortliche/r interne Kommunikation",
+        "english": "Verantwortliche/r interne Kommunikation"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035876",
+      "label": {
+        "german": "Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)",
+        "french": "Affaires internationales / Communication",
+        "italian": "Affari internazionali / Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)",
+        "french": "Affaires internationales / Communication",
+        "italian": "Affari internazionali / Comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002706",
+      "label": {
+        "german": "Abteilung Kommunikation",
+        "french": "Division Communication",
+        "italian": "Divisione Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Kommunikation",
+        "french": "Division Communication",
+        "italian": "Divisione Comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010901",
+      "label": {
+        "german": "Corporate Publishing",
+        "french": "Conseils en communication, publications et Internet",
+        "italian": "Consulenza comunicativa, pubblicazioni e Internet",
+        "english": ""
+      },
+      "name": {
+        "german": "Corporate Publishing",
+        "french": "Conseils en communication, publications et Internet",
+        "italian": "Consulenza comunicativa, pubblicazioni e Internet",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

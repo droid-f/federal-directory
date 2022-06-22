@@ -1,1 +1,232 @@
-{"id"=>"10004687", "name"=>{"german"=>"Sektion Mobilität", "french"=>"Section Mobilité", "italian"=>"Sezione Mobilità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20005933", "name"=>{"german"=>"Diffusion, Analyse und Querschnittaufgaben", "french"=>"Diffusion, analyse et tâches transversales", "italian"=>"Diffusione, analisi e compiti trasversali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005934", "name"=>{"german"=>"Personen- und öffentlicher Verkehr", "french"=>"Transport de personnes et transports publics", "italian"=>"Traffico passeggeri e trasporti pubblici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000051", "name"=>{"german"=>"Güterverkehr", "french"=>"Transport de marchandises", "italian"=>"Trasporto di merci", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005950", "name"=>{"german"=>"Verkehrsträgerrechnung", "french"=>"Compte des transports", "italian"=>"Conto generale dei trasporti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7743086", "surname"=>"Reinhard", "givenName"=>"Mark", "email"=>nil, "phone"=>"+41 58 46 36064", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5026175", "surname"=>"Marti", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 36211", "function"=>{"german"=>"Gruppenleiter/in", "french"=>"Gruppenleiter/in", "italian"=>"Gruppenleiter/in", "english"=>"Gruppenleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20002656", "label"=>{"german"=>"Abteilung Raum und Umwelt", "french"=>"Division Territoire et environnement", "italian"=>"Divisione Territorio e ambiente", "english"=>""}, "name"=>{"german"=>"Abteilung Raum und Umwelt", "french"=>"Division Territoire et environnement", "italian"=>"Divisione Territorio e ambiente", "english"=>""}}, {"id"=>"10004687", "label"=>{"german"=>"Sektion Mobilität", "french"=>"Section Mobilité", "italian"=>"Sezione Mobilità", "english"=>""}, "name"=>{"german"=>"Sektion Mobilität", "french"=>"Section Mobilité", "italian"=>"Sezione Mobilità", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004687",
+  "name": {
+    "german": "Sektion Mobilität",
+    "french": "Section Mobilité",
+    "italian": "Sezione Mobilità",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20005933",
+      "name": {
+        "german": "Diffusion, Analyse und Querschnittaufgaben",
+        "french": "Diffusion, analyse et tâches transversales",
+        "italian": "Diffusione, analisi e compiti trasversali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005934",
+      "name": {
+        "german": "Personen- und öffentlicher Verkehr",
+        "french": "Transport de personnes et transports publics",
+        "italian": "Traffico passeggeri e trasporti pubblici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000051",
+      "name": {
+        "german": "Güterverkehr",
+        "french": "Transport de marchandises",
+        "italian": "Trasporto di merci",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005950",
+      "name": {
+        "german": "Verkehrsträgerrechnung",
+        "french": "Compte des transports",
+        "italian": "Conto generale dei trasporti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7743086",
+      "surname": "Reinhard",
+      "givenName": "Mark",
+      "email": null,
+      "phone": "+41 58 46 36064",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5026175",
+      "surname": "Marti",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 36211",
+      "function": {
+        "german": "Gruppenleiter/in",
+        "french": "Gruppenleiter/in",
+        "italian": "Gruppenleiter/in",
+        "english": "Gruppenleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002656",
+      "label": {
+        "german": "Abteilung Raum und Umwelt",
+        "french": "Division Territoire et environnement",
+        "italian": "Divisione Territorio e ambiente",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Raum und Umwelt",
+        "french": "Division Territoire et environnement",
+        "italian": "Divisione Territorio e ambiente",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004687",
+      "label": {
+        "german": "Sektion Mobilität",
+        "french": "Section Mobilité",
+        "italian": "Sezione Mobilità",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Mobilität",
+        "french": "Section Mobilité",
+        "italian": "Sezione Mobilità",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,110 @@
-{"id"=>"MANUAL_OE_116", "name"=>{"german"=>"Kanton Basel-Landschaft", "french"=>"Canton de Bâle-Campagne", "italian"=>"Cantone di Basilea Campagna", "english"=>""}, "nameAbbr"=>{"german"=>"BL", "french"=>"BL", "italian"=>"BL", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"MANUAL_OE_2", "label"=>{"german"=>"BV", "french"=>"BV", "italian"=>"BV", "english"=>""}, "name"=>{"german"=>"Bundesversammlung", "french"=>"Assemblée fédérale", "italian"=>"Assemblea federale", "english"=>""}}, {"id"=>"MANUAL_OE_3", "label"=>{"german"=>"NR", "french"=>"NR", "italian"=>"NR", "english"=>""}, "name"=>{"german"=>"Nationalrat", "french"=>"Conseil national", "italian"=>"Consiglio nazionale", "english"=>""}}, {"id"=>"MANUAL_OE_107", "label"=>{"german"=>"Mitglieder", "french"=>"Mitglieder", "italian"=>"Mitglieder", "english"=>""}, "name"=>{"german"=>"Mitglieder", "french"=>"Membres", "italian"=>"Membri", "english"=>""}}, {"id"=>"MANUAL_OE_116", "label"=>{"german"=>"BL", "french"=>"BL", "italian"=>"BL", "english"=>""}, "name"=>{"german"=>"Kanton Basel-Landschaft", "french"=>"Canton de Bâle-Campagne", "italian"=>"Cantone di Basilea Campagna", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "MANUAL_OE_116",
+  "name": {
+    "german": "Kanton Basel-Landschaft",
+    "french": "Canton de Bâle-Campagne",
+    "italian": "Cantone di Basilea Campagna",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BL",
+    "french": "BL",
+    "italian": "BL",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "MANUAL_OE_2",
+      "label": {
+        "german": "BV",
+        "french": "BV",
+        "italian": "BV",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesversammlung",
+        "french": "Assemblée fédérale",
+        "italian": "Assemblea federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_3",
+      "label": {
+        "german": "NR",
+        "french": "NR",
+        "italian": "NR",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationalrat",
+        "french": "Conseil national",
+        "italian": "Consiglio nazionale",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_107",
+      "label": {
+        "german": "Mitglieder",
+        "french": "Mitglieder",
+        "italian": "Mitglieder",
+        "english": ""
+      },
+      "name": {
+        "german": "Mitglieder",
+        "french": "Membres",
+        "italian": "Membri",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_116",
+      "label": {
+        "german": "BL",
+        "french": "BL",
+        "italian": "BL",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanton Basel-Landschaft",
+        "french": "Canton de Bâle-Campagne",
+        "italian": "Cantone di Basilea Campagna",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

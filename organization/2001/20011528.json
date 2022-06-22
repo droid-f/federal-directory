@@ -1,1 +1,185 @@
-{"id"=>"20011528", "name"=>{"german"=>"Carrosserie Werkstatt ALC Grolley", "french"=>"Atelier de carrosserie CLA-G", "italian"=>"Carrozzeria officina CLEs Grolley", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Route du PAA", "postalCode"=>"1772", "location"=>"Grolley", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20011514", "label"=>{"german"=>"Armeelogistikcenter Grolley", "french"=>"Centre logistique de l'armée Grolley", "italian"=>"Centro logistico dell'esercito Grolley", "english"=>""}, "name"=>{"german"=>"Armeelogistikcenter Grolley", "french"=>"Centre logistique de l'armée Grolley", "italian"=>"Centro logistico dell'esercito Grolley", "english"=>""}}, {"id"=>"20011520", "label"=>{"german"=>"Instandhaltung ALC Grolley", "french"=>"Maintenance CLA-G", "italian"=>"Manutenzione CLEs Grolley", "english"=>""}, "name"=>{"german"=>"Instandhaltung ALC Grolley", "french"=>"Maintenance CLA-G", "italian"=>"Manutenzione CLEs Grolley", "english"=>""}}, {"id"=>"20011521", "label"=>{"german"=>"Radfahrzeuge ALC Grolley", "french"=>"Véhicules à pneus CLA-G", "italian"=>"Veicoli ruotati CLEs Grolley", "english"=>""}, "name"=>{"german"=>"Radfahrzeuge ALC Grolley", "french"=>"Véhicules à pneus CLA-G", "italian"=>"Veicoli ruotati CLEs Grolley", "english"=>""}}, {"id"=>"20011528", "label"=>{"german"=>"Carrosserie Werkstatt ALC Grolley", "french"=>"Atelier de carrosserie CLA-G", "italian"=>"Carrozzeria officina CLEs Grolley", "english"=>""}, "name"=>{"german"=>"Carrosserie Werkstatt ALC Grolley", "french"=>"Atelier de carrosserie CLA-G", "italian"=>"Carrozzeria officina CLEs Grolley", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011528",
+  "name": {
+    "german": "Carrosserie Werkstatt ALC Grolley",
+    "french": "Atelier de carrosserie CLA-G",
+    "italian": "Carrozzeria officina CLEs Grolley",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Route du PAA",
+    "postalCode": "1772",
+    "location": "Grolley",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011514",
+      "label": {
+        "german": "Armeelogistikcenter Grolley",
+        "french": "Centre logistique de l'armée Grolley",
+        "italian": "Centro logistico dell'esercito Grolley",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeelogistikcenter Grolley",
+        "french": "Centre logistique de l'armée Grolley",
+        "italian": "Centro logistico dell'esercito Grolley",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011520",
+      "label": {
+        "german": "Instandhaltung ALC Grolley",
+        "french": "Maintenance CLA-G",
+        "italian": "Manutenzione CLEs Grolley",
+        "english": ""
+      },
+      "name": {
+        "german": "Instandhaltung ALC Grolley",
+        "french": "Maintenance CLA-G",
+        "italian": "Manutenzione CLEs Grolley",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011521",
+      "label": {
+        "german": "Radfahrzeuge ALC Grolley",
+        "french": "Véhicules à pneus CLA-G",
+        "italian": "Veicoli ruotati CLEs Grolley",
+        "english": ""
+      },
+      "name": {
+        "german": "Radfahrzeuge ALC Grolley",
+        "french": "Véhicules à pneus CLA-G",
+        "italian": "Veicoli ruotati CLEs Grolley",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011528",
+      "label": {
+        "german": "Carrosserie Werkstatt ALC Grolley",
+        "french": "Atelier de carrosserie CLA-G",
+        "italian": "Carrozzeria officina CLEs Grolley",
+        "english": ""
+      },
+      "name": {
+        "german": "Carrosserie Werkstatt ALC Grolley",
+        "french": "Atelier de carrosserie CLA-G",
+        "italian": "Carrozzeria officina CLEs Grolley",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

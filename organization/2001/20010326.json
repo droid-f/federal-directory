@@ -1,1 +1,153 @@
-{"id"=>"20010326", "name"=>{"german"=>"Fachstelle Extremismus in der Armee", "french"=>"Service spécialisé Extrémisme dans l'armée", "italian"=>"Servizio specializzato Estremismo nell'esercito", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Inselgasse", "postalCode"=>"", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-3029977", "surname"=>"Joris", "givenName"=>"Vincent", "email"=>nil, "phone"=>"+41 58 46 35598", "function"=>{"german"=>"Leiter/in", "french"=>"Responsable", "italian"=>"Responsabile", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"10010975", "label"=>{"german"=>"Fachstelle für Rassismusbekämpfung und Eidg. Kommission gegen Rassismus", "french"=>"Service de lutte contre le racisme", "italian"=>"Servizio per la lotta al razzismo", "english"=>""}, "name"=>{"german"=>"Fachstelle für Rassismusbekämpfung und Eidg. Kommission gegen Rassismus", "french"=>"Service de lutte contre le racisme", "italian"=>"Servizio per la lotta al razzismo", "english"=>""}}, {"id"=>"20010326", "label"=>{"german"=>"Fachstelle Extremismus in der Armee", "french"=>"Service spécialisé Extrémisme dans l'armée", "italian"=>"Servizio specializzato Estremismo nell'esercito", "english"=>""}, "name"=>{"german"=>"Fachstelle Extremismus in der Armee", "french"=>"Service spécialisé Extrémisme dans l'armée", "italian"=>"Servizio specializzato Estremismo nell'esercito", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20010326",
+  "name": {
+    "german": "Fachstelle Extremismus in der Armee",
+    "french": "Service spécialisé Extrémisme dans l'armée",
+    "italian": "Servizio specializzato Estremismo nell'esercito",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Inselgasse",
+    "postalCode": "",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-3029977",
+      "surname": "Joris",
+      "givenName": "Vincent",
+      "email": null,
+      "phone": "+41 58 46 35598",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Responsable",
+        "italian": "Responsabile",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010975",
+      "label": {
+        "german": "Fachstelle für Rassismusbekämpfung und Eidg. Kommission gegen Rassismus",
+        "french": "Service de lutte contre le racisme",
+        "italian": "Servizio per la lotta al razzismo",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachstelle für Rassismusbekämpfung und Eidg. Kommission gegen Rassismus",
+        "french": "Service de lutte contre le racisme",
+        "italian": "Servizio per la lotta al razzismo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010326",
+      "label": {
+        "german": "Fachstelle Extremismus in der Armee",
+        "french": "Service spécialisé Extrémisme dans l'armée",
+        "italian": "Servizio specializzato Estremismo nell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachstelle Extremismus in der Armee",
+        "french": "Service spécialisé Extrémisme dans l'armée",
+        "italian": "Servizio specializzato Estremismo nell'esercito",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

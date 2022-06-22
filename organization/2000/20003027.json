@@ -1,1 +1,247 @@
-{"id"=>"20003027", "name"=>{"german"=>"Internationale Beziehungen V", "french"=>"Relations internationales D", "italian"=>"Relazioni internazionali D", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Rodtmattstrasse 110", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003041", "name"=>{"german"=>"Stab Internationale Beziehungen V", "french"=>"EM des Relations internationales D", "italian"=>"SM Relazioni internazionali Difesa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003042", "name"=>{"german"=>"Multilaterale Verträge u Streitkräftebez", "french"=>"Contrats multi et rel avec les FA", "italian"=>"Trattati multilaterali /relazioni tra FA", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003043", "name"=>{"german"=>"Euroatlantische Sicherheitskooperation", "french"=>"Coop euro-atlantique en mat de séc", "italian"=>"Coop euro-atlantica in materia di sic", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003045", "name"=>{"german"=>"Einsatz Verteidigungsattachés", "french"=>"Engagement des attachés de déf", "italian"=>"Impiego degli addetti alla dif", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003044", "name"=>{"german"=>"Korps der Verteidigungsattachés", "french"=>"Corps des attachés de défense", "italian"=>"Corpo degli addetti alla difesa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2539539", "surname"=>"Mäder", "givenName"=>"Markus A.", "email"=>nil, "phone"=>"+41 58 46 45304", "function"=>{"german"=>"Chef Internationale Beziehungen V", "french"=>"Chef des Relations internationales D", "italian"=>"Capo Relazioni internazionali D", "english"=>"Chef Internationale Beziehungen V"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0024740", "surname"=>"Diethelm", "givenName"=>"Robert", "email"=>nil, "phone"=>"+41 58 46 40127", "function"=>{"german"=>"Chef/in MVS / Stv C", "french"=>"Chef MVS / rempl c", "italian"=>"Capo Trattati mult relaz tra FA / sost C", "english"=>"Chef/in MVS / Stv C"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20003026", "label"=>{"german"=>"ASTAB", "french"=>"EMA", "italian"=>"SMEs", "english"=>""}, "name"=>{"german"=>"Armeestab", "french"=>"Etat-major de l'armée", "italian"=>"Stato maggiore dell'esercito", "english"=>""}}, {"id"=>"20003027", "label"=>{"german"=>"Internationale Beziehungen V", "french"=>"Relations internationales D", "italian"=>"Relazioni internazionali D", "english"=>""}, "name"=>{"german"=>"Internationale Beziehungen V", "french"=>"Relations internationales D", "italian"=>"Relazioni internazionali D", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003027",
+  "name": {
+    "german": "Internationale Beziehungen V",
+    "french": "Relations internationales D",
+    "italian": "Relazioni internazionali D",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Rodtmattstrasse 110",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003041",
+      "name": {
+        "german": "Stab Internationale Beziehungen V",
+        "french": "EM des Relations internationales D",
+        "italian": "SM Relazioni internazionali Difesa",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003042",
+      "name": {
+        "german": "Multilaterale Verträge u Streitkräftebez",
+        "french": "Contrats multi et rel avec les FA",
+        "italian": "Trattati multilaterali /relazioni tra FA",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003043",
+      "name": {
+        "german": "Euroatlantische Sicherheitskooperation",
+        "french": "Coop euro-atlantique en mat de séc",
+        "italian": "Coop euro-atlantica in materia di sic",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003045",
+      "name": {
+        "german": "Einsatz Verteidigungsattachés",
+        "french": "Engagement des attachés de déf",
+        "italian": "Impiego degli addetti alla dif",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003044",
+      "name": {
+        "german": "Korps der Verteidigungsattachés",
+        "french": "Corps des attachés de défense",
+        "italian": "Corpo degli addetti alla difesa",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2539539",
+      "surname": "Mäder",
+      "givenName": "Markus A.",
+      "email": null,
+      "phone": "+41 58 46 45304",
+      "function": {
+        "german": "Chef Internationale Beziehungen V",
+        "french": "Chef des Relations internationales D",
+        "italian": "Capo Relazioni internazionali D",
+        "english": "Chef Internationale Beziehungen V"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0024740",
+      "surname": "Diethelm",
+      "givenName": "Robert",
+      "email": null,
+      "phone": "+41 58 46 40127",
+      "function": {
+        "german": "Chef/in MVS / Stv C",
+        "french": "Chef MVS / rempl c",
+        "italian": "Capo Trattati mult relaz tra FA / sost C",
+        "english": "Chef/in MVS / Stv C"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003026",
+      "label": {
+        "german": "ASTAB",
+        "french": "EMA",
+        "italian": "SMEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeestab",
+        "french": "Etat-major de l'armée",
+        "italian": "Stato maggiore dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003027",
+      "label": {
+        "german": "Internationale Beziehungen V",
+        "french": "Relations internationales D",
+        "italian": "Relazioni internazionali D",
+        "english": ""
+      },
+      "name": {
+        "german": "Internationale Beziehungen V",
+        "french": "Relations internationales D",
+        "italian": "Relazioni internazionali D",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

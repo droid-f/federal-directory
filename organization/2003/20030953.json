@@ -1,1 +1,181 @@
-{"id"=>"20030953", "name"=>{"german"=>"Eidgenössische Kommunikationskommission", "french"=>"Commission fédérale de la communication", "italian"=>"Commissione federale delle comunicazioni", "english"=>""}, "nameAbbr"=>{"german"=>"ComCom", "french"=>"ComCom", "italian"=>"ComCom", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Christoffelgasse 5", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 46 35290", "fax"=>"", "email"=>"comcom@comcom.admin.ch", "homepage"=>{"german"=>"www.comcom.admin.ch", "french"=>"www.comcom.admin.ch", "italian"=>"www.comcom.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20046735", "name"=>{"german"=>"Kommission", "french"=>"Kommission", "italian"=>"Kommission", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0079380", "surname"=>"Bär", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 35689", "function"=>{"german"=>"Sekretär ComCom", "french"=>"Sekretär ComCom", "italian"=>"Sekretär ComCom", "english"=>"Sekretär ComCom"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4738912", "surname"=>"Corboud Fumagalli", "givenName"=>"Adrienne", "email"=>nil, "phone"=>"+41 58 46 73164", "function"=>{"german"=>"Präsidentin ComCom", "french"=>"Präsidentin ComCom", "italian"=>"Präsidentin ComCom", "english"=>"Präsidentin ComCom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1967705", "surname"=>"Fischer Pulfer", "givenName"=>"Jacqueline", "email"=>nil, "phone"=>"+41 58 46 11732", "function"=>{"german"=>"Assistentin", "french"=>"Assistentin", "italian"=>"Assistentin", "english"=>"Assistentin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3361067", "surname"=>"Zinck", "givenName"=>"Pierre", "email"=>nil, "phone"=>"+41 58 46 55685", "function"=>{"german"=>"Wissenschaftlicher Mitarbeiter Webmaster", "french"=>"Wissenschaftlicher Mitarbeiter Webmaster", "italian"=>"Wissenschaftlicher Mitarbeiter Webmaster", "english"=>"Wissenschaftlicher Mitarbeiter Webmaster"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20030369", "label"=>{"german"=>"RegInfra", "french"=>"RegInfra", "italian"=>"RegInfra", "english"=>""}, "name"=>{"german"=>"Regulierungsbehörden Infrastruktur", "french"=>"Autorités de régulation des infrastructures", "italian"=>"Autorità di regolazione delle infrastrutture", "english"=>""}}, {"id"=>"20030953", "label"=>{"german"=>"ComCom", "french"=>"ComCom", "italian"=>"ComCom", "english"=>""}, "name"=>{"german"=>"Eidgenössische Kommunikationskommission", "french"=>"Commission fédérale de la communication", "italian"=>"Commissione federale delle comunicazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030953",
+  "name": {
+    "german": "Eidgenössische Kommunikationskommission",
+    "french": "Commission fédérale de la communication",
+    "italian": "Commissione federale delle comunicazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ComCom",
+    "french": "ComCom",
+    "italian": "ComCom",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Christoffelgasse 5",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 46 35290",
+    "fax": "",
+    "email": "comcom@comcom.admin.ch",
+    "homepage": {
+      "german": "www.comcom.admin.ch",
+      "french": "www.comcom.admin.ch",
+      "italian": "www.comcom.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046735",
+      "name": {
+        "german": "Kommission",
+        "french": "Kommission",
+        "italian": "Kommission",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0079380",
+      "surname": "Bär",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 35689",
+      "function": {
+        "german": "Sekretär ComCom",
+        "french": "Sekretär ComCom",
+        "italian": "Sekretär ComCom",
+        "english": "Sekretär ComCom"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4738912",
+      "surname": "Corboud Fumagalli",
+      "givenName": "Adrienne",
+      "email": null,
+      "phone": "+41 58 46 73164",
+      "function": {
+        "german": "Präsidentin ComCom",
+        "french": "Präsidentin ComCom",
+        "italian": "Präsidentin ComCom",
+        "english": "Präsidentin ComCom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1967705",
+      "surname": "Fischer Pulfer",
+      "givenName": "Jacqueline",
+      "email": null,
+      "phone": "+41 58 46 11732",
+      "function": {
+        "german": "Assistentin",
+        "french": "Assistentin",
+        "italian": "Assistentin",
+        "english": "Assistentin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3361067",
+      "surname": "Zinck",
+      "givenName": "Pierre",
+      "email": null,
+      "phone": "+41 58 46 55685",
+      "function": {
+        "german": "Wissenschaftlicher Mitarbeiter Webmaster",
+        "french": "Wissenschaftlicher Mitarbeiter Webmaster",
+        "italian": "Wissenschaftlicher Mitarbeiter Webmaster",
+        "english": "Wissenschaftlicher Mitarbeiter Webmaster"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030369",
+      "label": {
+        "german": "RegInfra",
+        "french": "RegInfra",
+        "italian": "RegInfra",
+        "english": ""
+      },
+      "name": {
+        "german": "Regulierungsbehörden Infrastruktur",
+        "french": "Autorités de régulation des infrastructures",
+        "italian": "Autorità di regolazione delle infrastrutture",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030953",
+      "label": {
+        "german": "ComCom",
+        "french": "ComCom",
+        "italian": "ComCom",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Kommunikationskommission",
+        "french": "Commission fédérale de la communication",
+        "italian": "Commissione federale delle comunicazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

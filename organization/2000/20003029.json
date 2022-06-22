@@ -1,1 +1,290 @@
-{"id"=>"20003029", "name"=>{"german"=>"Personal V", "french"=>"Personnel D", "italian"=>"Personale D", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bolligenstrasse 56", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003153", "name"=>{"german"=>"Personalrekrutierung und POE V", "french"=>"Recrutement et dév du pers et org D", "italian"=>"Reclutamento e svil del pers e org D", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027941", "name"=>{"german"=>"HR-Strategie und Personalplanung V", "french"=>"Strat RH et planification personnel D", "italian"=>"Strat HR e pianificazione personale D", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037703", "name"=>{"german"=>"HR-Vorgaben und Steuerung V", "french"=>"Directives RH et pilotage D", "italian"=>"Criteri RH e Pilotaggio D", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014730", "name"=>{"german"=>"HR Service Center V", "french"=>"Centre des services RH D", "italian"=>"Centro servizi HR", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042311", "name"=>{"german"=>"Vorgaben und Laufbahnplanung BM", "french"=>"Dir et plan de carr des mil de carr", "italian"=>"Criteri e pian carriere dei mil di pof", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20043977", "name"=>{"german"=>"Personalrecht Verteidigung", "french"=>"Etat-major Personnel D", "italian"=>"SM Personale Difesa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047803", "name"=>{"german"=>"Einsatz- u Laufbahnsteuerung Armee", "french"=>"Gestion engagement carrière armée", "italian"=>"Gestione impieghi e carriere Es", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20010651", "name"=>{"german"=>"Pool V", "french"=>"Pool D", "italian"=>"Pool D", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20020026", "name"=>{"german"=>"Vorruhestand", "french"=>"Congé de préretraite", "italian"=>"Congedo di prepensionamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5972221", "surname"=>"Gafner", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 47362", "function"=>{"german"=>"Personalchef/in V", "french"=>"Chef Personnel de la Défense", "italian"=>"Capo Personale Difesa", "english"=>"Personalchef/in V"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20003026", "label"=>{"german"=>"ASTAB", "french"=>"EMA", "italian"=>"SMEs", "english"=>""}, "name"=>{"german"=>"Armeestab", "french"=>"Etat-major de l'armée", "italian"=>"Stato maggiore dell'esercito", "english"=>""}}, {"id"=>"20003029", "label"=>{"german"=>"Personal V", "french"=>"Personnel D", "italian"=>"Personale D", "english"=>""}, "name"=>{"german"=>"Personal V", "french"=>"Personnel D", "italian"=>"Personale D", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003029",
+  "name": {
+    "german": "Personal V",
+    "french": "Personnel D",
+    "italian": "Personale D",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bolligenstrasse 56",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003153",
+      "name": {
+        "german": "Personalrekrutierung und POE V",
+        "french": "Recrutement et dév du pers et org D",
+        "italian": "Reclutamento e svil del pers e org D",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027941",
+      "name": {
+        "german": "HR-Strategie und Personalplanung V",
+        "french": "Strat RH et planification personnel D",
+        "italian": "Strat HR e pianificazione personale D",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037703",
+      "name": {
+        "german": "HR-Vorgaben und Steuerung V",
+        "french": "Directives RH et pilotage D",
+        "italian": "Criteri RH e Pilotaggio D",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014730",
+      "name": {
+        "german": "HR Service Center V",
+        "french": "Centre des services RH D",
+        "italian": "Centro servizi HR",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042311",
+      "name": {
+        "german": "Vorgaben und Laufbahnplanung BM",
+        "french": "Dir et plan de carr des mil de carr",
+        "italian": "Criteri e pian carriere dei mil di pof",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043977",
+      "name": {
+        "german": "Personalrecht Verteidigung",
+        "french": "Etat-major Personnel D",
+        "italian": "SM Personale Difesa",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047803",
+      "name": {
+        "german": "Einsatz- u Laufbahnsteuerung Armee",
+        "french": "Gestion engagement carrière armée",
+        "italian": "Gestione impieghi e carriere Es",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010651",
+      "name": {
+        "german": "Pool V",
+        "french": "Pool D",
+        "italian": "Pool D",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020026",
+      "name": {
+        "german": "Vorruhestand",
+        "french": "Congé de préretraite",
+        "italian": "Congedo di prepensionamento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5972221",
+      "surname": "Gafner",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 47362",
+      "function": {
+        "german": "Personalchef/in V",
+        "french": "Chef Personnel de la Défense",
+        "italian": "Capo Personale Difesa",
+        "english": "Personalchef/in V"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003026",
+      "label": {
+        "german": "ASTAB",
+        "french": "EMA",
+        "italian": "SMEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeestab",
+        "french": "Etat-major de l'armée",
+        "italian": "Stato maggiore dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003029",
+      "label": {
+        "german": "Personal V",
+        "french": "Personnel D",
+        "italian": "Personale D",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal V",
+        "french": "Personnel D",
+        "italian": "Personale D",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

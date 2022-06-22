@@ -1,1 +1,158 @@
-{"id"=>"20021756", "name"=>{"german"=>"Technik und Innovation", "french"=>"Technique et innovation", "italian"=>"Tecnologia e innovazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1607045", "surname"=>"Käuferle", "givenName"=>"Dominik", "email"=>nil, "phone"=>"+41 58 46 90407", "function"=>{"german"=>"PzL Technik u. Innovation/Stv. BL Karto", "french"=>"Rp Technique et innovation/Resp suppl.", "italian"=>"Rp tecnologia e innovazione/Sost. resp.", "english"=>"PzL Technik u. Innovation/Stv. BL Karto"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4571529", "surname"=>"Denier", "givenName"=>"Sebastian", "email"=>nil, "phone"=>"+41 58 46 90612", "function"=>{"german"=>"Fachspezialist/in Kartografie / Stv. PzL", "french"=>"Spécialiste cartographie SIG/ Rp. suppl.", "italian"=>"Specialista cartografia / Sost. Resp.", "english"=>"Fachspezialist/in Kartografie / Stv. PzL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"10003495", "label"=>{"german"=>"Kartografie", "french"=>"Cartographie", "italian"=>"Cartografia", "english"=>""}, "name"=>{"german"=>"Kartografie", "french"=>"Cartographie", "italian"=>"Cartografia", "english"=>""}}, {"id"=>"20021756", "label"=>{"german"=>"Technik und Innovation", "french"=>"Technique et innovation", "italian"=>"Tecnologia e innovazione", "english"=>""}, "name"=>{"german"=>"Technik und Innovation", "french"=>"Technique et innovation", "italian"=>"Tecnologia e innovazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021756",
+  "name": {
+    "german": "Technik und Innovation",
+    "french": "Technique et innovation",
+    "italian": "Tecnologia e innovazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1607045",
+      "surname": "Käuferle",
+      "givenName": "Dominik",
+      "email": null,
+      "phone": "+41 58 46 90407",
+      "function": {
+        "german": "PzL Technik u. Innovation/Stv. BL Karto",
+        "french": "Rp Technique et innovation/Resp suppl.",
+        "italian": "Rp tecnologia e innovazione/Sost. resp.",
+        "english": "PzL Technik u. Innovation/Stv. BL Karto"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4571529",
+      "surname": "Denier",
+      "givenName": "Sebastian",
+      "email": null,
+      "phone": "+41 58 46 90612",
+      "function": {
+        "german": "Fachspezialist/in Kartografie / Stv. PzL",
+        "french": "Spécialiste cartographie SIG/ Rp. suppl.",
+        "italian": "Specialista cartografia / Sost. Resp.",
+        "english": "Fachspezialist/in Kartografie / Stv. PzL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003495",
+      "label": {
+        "german": "Kartografie",
+        "french": "Cartographie",
+        "italian": "Cartografia",
+        "english": ""
+      },
+      "name": {
+        "german": "Kartografie",
+        "french": "Cartographie",
+        "italian": "Cartografia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021756",
+      "label": {
+        "german": "Technik und Innovation",
+        "french": "Technique et innovation",
+        "italian": "Tecnologia e innovazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Technik und Innovation",
+        "french": "Technique et innovation",
+        "italian": "Tecnologia e innovazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,277 @@
-{"id"=>"10009328", "name"=>{"german"=>"Direktionsbereich Bundeskriminalpolizei", "french"=>"Domaine de direction Police judiciaire fédérale", "italian"=>"Ambito direzionale Polizia giudiziaria federale", "english"=>""}, "nameAbbr"=>{"german"=>"BKP", "french"=>"PJF", "italian"=>"PGF", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009329", "name"=>{"german"=>"Abteilung Steuerung, Planung und Stab BKP", "french"=>"Division Gestion, planification et État-major PJF", "italian"=>"Divisione Gestione, pianificazione e stato maggiore PGF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10011202", "name"=>{"german"=>"Abteilung Staatschutz, Kriminelle Organisationen", "french"=>"Division Protection de l'État, organisations criminelles", "italian"=>"Divisione Protezione dello Stato, organizzazioni criminali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009338", "name"=>{"german"=>"Abteilung Wirtschaftskriminalität", "french"=>"Division Criminalité économique", "italian"=>"Divisione Criminalità economica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10011204", "name"=>{"german"=>"Abteilung Rechtshilfe, Terrorismus, Völkerstrafrecht", "french"=>"Division Entraide judiciaire, terrorisme, droit pénal international", "italian"=>"Divisione Assistenza giudiziaria, terrorismo, diritto penale internazionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009345", "name"=>{"german"=>"Abteilung IT-Forensik, Cybercrime", "french"=>"Division Forensique TI, CyberCrime", "italian"=>"Divisione Informatica forense, cibercriminalità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009331", "name"=>{"german"=>"Abteilung OSE", "french"=>"Division OSE", "italian"=>"Divisione OSE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021391", "name"=>{"german"=>"Abteilung Kriminalanalyse", "french"=>"Division Analyse criminelle", "italian"=>"Divisione Analisi criminale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012753", "name"=>{"german"=>"Abteilung Koordination", "french"=>"Division Coordination", "italian"=>"Divisione Coordinazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2376930", "surname"=>"Callandret", "givenName"=>"Yanis", "email"=>nil, "phone"=>"+41 58 46 20048", "function"=>{"german"=>"Chef/in BKP / Vizedirektor/in", "french"=>"Chef/in BKP / Vizedirektor/in", "italian"=>"Chef/in BKP / Vizedirektor/in", "english"=>"Chef/in BKP / Vizedirektor/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2687918", "surname"=>"Kühner", "givenName"=>"Fabian", "email"=>nil, "phone"=>"+41 58 46 56251", "function"=>{"german"=>"Stv Chef/in BKP / Chef/in Operationen", "french"=>"Stv Chef/in BKP / Chef/in Operationen", "italian"=>"Stv Chef/in BKP / Chef/in Operationen", "english"=>"Stv Chef/in BKP / Chef/in Operationen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009328", "label"=>{"german"=>"BKP", "french"=>"PJF", "italian"=>"PGF", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundeskriminalpolizei", "french"=>"Domaine de direction Police judiciaire fédérale", "italian"=>"Ambito direzionale Polizia giudiziaria federale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009328",
+  "name": {
+    "german": "Direktionsbereich Bundeskriminalpolizei",
+    "french": "Domaine de direction Police judiciaire fédérale",
+    "italian": "Ambito direzionale Polizia giudiziaria federale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BKP",
+    "french": "PJF",
+    "italian": "PGF",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009329",
+      "name": {
+        "german": "Abteilung Steuerung, Planung und Stab BKP",
+        "french": "Division Gestion, planification et État-major PJF",
+        "italian": "Divisione Gestione, pianificazione e stato maggiore PGF",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011202",
+      "name": {
+        "german": "Abteilung Staatschutz, Kriminelle Organisationen",
+        "french": "Division Protection de l'État, organisations criminelles",
+        "italian": "Divisione Protezione dello Stato, organizzazioni criminali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009338",
+      "name": {
+        "german": "Abteilung Wirtschaftskriminalität",
+        "french": "Division Criminalité économique",
+        "italian": "Divisione Criminalità economica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011204",
+      "name": {
+        "german": "Abteilung Rechtshilfe, Terrorismus, Völkerstrafrecht",
+        "french": "Division Entraide judiciaire, terrorisme, droit pénal international",
+        "italian": "Divisione Assistenza giudiziaria, terrorismo, diritto penale internazionale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009345",
+      "name": {
+        "german": "Abteilung IT-Forensik, Cybercrime",
+        "french": "Division Forensique TI, CyberCrime",
+        "italian": "Divisione Informatica forense, cibercriminalità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009331",
+      "name": {
+        "german": "Abteilung OSE",
+        "french": "Division OSE",
+        "italian": "Divisione OSE",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021391",
+      "name": {
+        "german": "Abteilung Kriminalanalyse",
+        "french": "Division Analyse criminelle",
+        "italian": "Divisione Analisi criminale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012753",
+      "name": {
+        "german": "Abteilung Koordination",
+        "french": "Division Coordination",
+        "italian": "Divisione Coordinazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2376930",
+      "surname": "Callandret",
+      "givenName": "Yanis",
+      "email": null,
+      "phone": "+41 58 46 20048",
+      "function": {
+        "german": "Chef/in BKP / Vizedirektor/in",
+        "french": "Chef/in BKP / Vizedirektor/in",
+        "italian": "Chef/in BKP / Vizedirektor/in",
+        "english": "Chef/in BKP / Vizedirektor/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2687918",
+      "surname": "Kühner",
+      "givenName": "Fabian",
+      "email": null,
+      "phone": "+41 58 46 56251",
+      "function": {
+        "german": "Stv Chef/in BKP / Chef/in Operationen",
+        "french": "Stv Chef/in BKP / Chef/in Operationen",
+        "italian": "Stv Chef/in BKP / Chef/in Operationen",
+        "english": "Stv Chef/in BKP / Chef/in Operationen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009328",
+      "label": {
+        "german": "BKP",
+        "french": "PJF",
+        "italian": "PGF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundeskriminalpolizei",
+        "french": "Domaine de direction Police judiciaire fédérale",
+        "italian": "Ambito direzionale Polizia giudiziaria federale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

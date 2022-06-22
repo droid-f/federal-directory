@@ -1,1 +1,188 @@
-{"id"=>"10013303", "name"=>{"german"=>"Prävention in der Gesundheitsversorgung", "french"=>"Section Prévention dans le domaine des soins", "italian"=>"Sezione prevenzione nell'ambito delle cure", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 4638755", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7296428", "surname"=>"Marcacci", "givenName"=>"Alberto", "email"=>nil, "phone"=>"+41 58 46 26441", "function"=>{"german"=>"Stv. Abteilungsleiter/in u. Leiter/in", "french"=>"Stv. Abteilungsleiter/in u. Leiter/in", "italian"=>"Stv. Abteilungsleiter/in u. Leiter/in", "english"=>"Stv. Abteilungsleiter/in u. Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4717537", "surname"=>"Bonvin", "givenName"=>"Antoine", "email"=>nil, "phone"=>"+41 58 46 53457", "function"=>{"german"=>"Stv. Sektionsleiter/in u Wiss. MA", "french"=>"Stv. Sektionsleiter/in u Wiss. MA", "italian"=>"Stv. Sektionsleiter/in u Wiss. MA", "english"=>"Stv. Sektionsleiter/in u Wiss. MA"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004560", "label"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}}, {"id"=>"10004570", "label"=>{"german"=>"Abteilung Prävention nichtübertragbarer Krankheiten", "french"=>"Division Prévention des maladies non transmissibles", "italian"=>"Divisione prevenzione delle malattie non trasmissibili", "english"=>""}, "name"=>{"german"=>"Abteilung Prävention nichtübertragbarer Krankheiten", "french"=>"Division Prévention des maladies non transmissibles", "italian"=>"Divisione prevenzione delle malattie non trasmissibili", "english"=>""}}, {"id"=>"10013303", "label"=>{"german"=>"Prävention in der Gesundheitsversorgung", "french"=>"Section Prévention dans le domaine des soins", "italian"=>"Sezione prevenzione nell'ambito delle cure", "english"=>""}, "name"=>{"german"=>"Prävention in der Gesundheitsversorgung", "french"=>"Section Prévention dans le domaine des soins", "italian"=>"Sezione prevenzione nell'ambito delle cure", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10013303",
+  "name": {
+    "german": "Prävention in der Gesundheitsversorgung",
+    "french": "Section Prévention dans le domaine des soins",
+    "italian": "Sezione prevenzione nell'ambito delle cure",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 4638755",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7296428",
+      "surname": "Marcacci",
+      "givenName": "Alberto",
+      "email": null,
+      "phone": "+41 58 46 26441",
+      "function": {
+        "german": "Stv. Abteilungsleiter/in u. Leiter/in",
+        "french": "Stv. Abteilungsleiter/in u. Leiter/in",
+        "italian": "Stv. Abteilungsleiter/in u. Leiter/in",
+        "english": "Stv. Abteilungsleiter/in u. Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4717537",
+      "surname": "Bonvin",
+      "givenName": "Antoine",
+      "email": null,
+      "phone": "+41 58 46 53457",
+      "function": {
+        "german": "Stv. Sektionsleiter/in u Wiss. MA",
+        "french": "Stv. Sektionsleiter/in u Wiss. MA",
+        "italian": "Stv. Sektionsleiter/in u Wiss. MA",
+        "english": "Stv. Sektionsleiter/in u Wiss. MA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004560",
+      "label": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004570",
+      "label": {
+        "german": "Abteilung Prävention nichtübertragbarer Krankheiten",
+        "french": "Division Prévention des maladies non transmissibles",
+        "italian": "Divisione prevenzione delle malattie non trasmissibili",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Prävention nichtübertragbarer Krankheiten",
+        "french": "Division Prévention des maladies non transmissibles",
+        "italian": "Divisione prevenzione delle malattie non trasmissibili",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013303",
+      "label": {
+        "german": "Prävention in der Gesundheitsversorgung",
+        "french": "Section Prévention dans le domaine des soins",
+        "italian": "Sezione prevenzione nell'ambito delle cure",
+        "english": ""
+      },
+      "name": {
+        "german": "Prävention in der Gesundheitsversorgung",
+        "french": "Section Prévention dans le domaine des soins",
+        "italian": "Sezione prevenzione nell'ambito delle cure",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

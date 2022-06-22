@@ -1,1 +1,217 @@
-{"id"=>"10000543", "name"=>{"german"=>"Kommunikation EDA", "french"=>"Communication DFAE", "italian"=>"Comunicazione DFAE", "english"=>"FDFA Communication"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20034019", "name"=>{"german"=>"Analysen", "french"=>"Analyses", "italian"=>"Analisi", "english"=>"Analysis"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000730", "name"=>{"german"=>"Medien", "french"=>"Médias", "italian"=>"Media", "english"=>"Media"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000731", "name"=>{"german"=>"Inhalte", "french"=>"Contenus", "italian"=>"Contenuti", "english"=>"Content"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035047", "name"=>{"german"=>"Kanäle", "french"=>"Canaux", "italian"=>"Canali", "english"=>"Channels"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050493", "name"=>{"german"=>"Stab Kommunikation EDA", "french"=>"État-major Communication DFAE", "italian"=>"Stato Maggiore Comunicazione DFAE", "english"=>"FDFA Communication Staff Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1203269", "surname"=>"Düggeli", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 76672", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9708846", "surname"=>"Renz Schwalbach", "givenName"=>"Marcus Tilman", "email"=>nil, "phone"=>"+41 58 46 53783", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000530", "label"=>{"german"=>"GS-EDA", "french"=>"SG-DFAE", "italian"=>"SG-DFAE", "english"=>"FDFA-GS"}, "name"=>{"german"=>"Generalsekretariat EDA", "french"=>"Secrétariat général DFAE", "italian"=>"Segreteria generale DFAE", "english"=>"FDFA General Secretariat"}}, {"id"=>"10000543", "label"=>{"german"=>"Kommunikation EDA", "french"=>"Communication DFAE", "italian"=>"Comunicazione DFAE", "english"=>"FDFA Communication"}, "name"=>{"german"=>"Kommunikation EDA", "french"=>"Communication DFAE", "italian"=>"Comunicazione DFAE", "english"=>"FDFA Communication"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000543",
+  "name": {
+    "german": "Kommunikation EDA",
+    "french": "Communication DFAE",
+    "italian": "Comunicazione DFAE",
+    "english": "FDFA Communication"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20034019",
+      "name": {
+        "german": "Analysen",
+        "french": "Analyses",
+        "italian": "Analisi",
+        "english": "Analysis"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000730",
+      "name": {
+        "german": "Medien",
+        "french": "Médias",
+        "italian": "Media",
+        "english": "Media"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000731",
+      "name": {
+        "german": "Inhalte",
+        "french": "Contenus",
+        "italian": "Contenuti",
+        "english": "Content"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035047",
+      "name": {
+        "german": "Kanäle",
+        "french": "Canaux",
+        "italian": "Canali",
+        "english": "Channels"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050493",
+      "name": {
+        "german": "Stab Kommunikation EDA",
+        "french": "État-major Communication DFAE",
+        "italian": "Stato Maggiore Comunicazione DFAE",
+        "english": "FDFA Communication Staff Office"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1203269",
+      "surname": "Düggeli",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 76672",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9708846",
+      "surname": "Renz Schwalbach",
+      "givenName": "Marcus Tilman",
+      "email": null,
+      "phone": "+41 58 46 53783",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000530",
+      "label": {
+        "german": "GS-EDA",
+        "french": "SG-DFAE",
+        "italian": "SG-DFAE",
+        "english": "FDFA-GS"
+      },
+      "name": {
+        "german": "Generalsekretariat EDA",
+        "french": "Secrétariat général DFAE",
+        "italian": "Segreteria generale DFAE",
+        "english": "FDFA General Secretariat"
+      }
+    },
+    {
+      "id": "10000543",
+      "label": {
+        "german": "Kommunikation EDA",
+        "french": "Communication DFAE",
+        "italian": "Comunicazione DFAE",
+        "english": "FDFA Communication"
+      },
+      "name": {
+        "german": "Kommunikation EDA",
+        "french": "Communication DFAE",
+        "italian": "Comunicazione DFAE",
+        "english": "FDFA Communication"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,227 @@
-{"id"=>"10002505", "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 4", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8751791", "surname"=>"Brunner", "givenName"=>"René", "email"=>nil, "phone"=>"+41 58 46 49611", "function"=>{"german"=>"Leiter/in Ressourcen / Mitglied GL", "french"=>"Chef/fe Ressources / Membre GL", "italian"=>"Capo Risorse / Membro GL", "english"=>"Leiter/in Ressourcen / Mitglied GL"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7823523", "surname"=>"Tummarello", "givenName"=>"Antonio", "email"=>nil, "phone"=>"+41 58 46 49670", "function"=>{"german"=>"Integrationsmanager/in / Stv. L Ress.", "french"=>"Integrationsmanager/in / Supp. chef R.", "italian"=>"Integrationsmanager/in / Supp. capo R.", "english"=>"Integrationsmanager/in / Stv. L Ress."}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3344029", "surname"=>"Aeberhard", "givenName"=>"Verena", "email"=>nil, "phone"=>"+41 58 46 50562", "function"=>{"german"=>"Spezialist/in Finanzen", "french"=>"Spécialiste Finances", "italian"=>"Specialista finanze", "english"=>"Spezialist/in Finanzen"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4981485", "surname"=>"Brechbühl", "givenName"=>"Christof", "email"=>nil, "phone"=>"+41 58 48 30649", "function"=>{"german"=>"Sachbearbeiter/in Registratur u Logistik", "french"=>"Collaborateur/trice Enregistr./Logist.", "italian"=>"Collaboratore/trice Registrazione/Logist", "english"=>"Sachbearbeiter/in Registratur u Logistik"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9210749", "surname"=>"Descloux", "givenName"=>"Sacha", "email"=>nil, "phone"=>"+41 58 46 32242", "function"=>{"german"=>"Sachbearbeiter/in Registratur u Logistik", "french"=>"Collaborateur/trice Enregistr./Logist.", "italian"=>"Collaboratore/trice Registrazione/Logist", "english"=>"Sachbearbeiter/in Registratur u Logistik"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9564279", "surname"=>"Schneider", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 55392", "function"=>{"german"=>"Spezialist/in Finanzen und Controlling", "french"=>"Spécialiste Finances et controlling", "italian"=>"Specialista finanze e Controlling", "english"=>"Spezialist/in Finanzen und Controlling"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1258804", "surname"=>"Schütz", "givenName"=>"Ursula", "email"=>nil, "phone"=>"+41 58 46 49681", "function"=>{"german"=>"Leiter/in Registratur und Dokumentation", "french"=>"Responsable de l'enregistrement/docum.", "italian"=>"Responsabile de", "english"=>"Leiter/in Registratur und Dokumentation"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008676", "label"=>{"german"=>"WEKO", "french"=>"WEKO", "italian"=>"WEKO", "english"=>""}, "name"=>{"german"=>"Wettbewerbskommission", "french"=>"Commission de la concurrence", "italian"=>"Commissione della concorrenza", "english"=>""}}, {"id"=>"10002501", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Comité de direction", "italian"=>"Comitato di direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Comité de direction", "italian"=>"Comitato di direzione", "english"=>""}}, {"id"=>"10002505", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002505",
+  "name": {
+    "german": "Ressourcen",
+    "french": "Ressources",
+    "italian": "Risorse",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 4",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8751791",
+      "surname": "Brunner",
+      "givenName": "René",
+      "email": null,
+      "phone": "+41 58 46 49611",
+      "function": {
+        "german": "Leiter/in Ressourcen / Mitglied GL",
+        "french": "Chef/fe Ressources / Membre GL",
+        "italian": "Capo Risorse / Membro GL",
+        "english": "Leiter/in Ressourcen / Mitglied GL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7823523",
+      "surname": "Tummarello",
+      "givenName": "Antonio",
+      "email": null,
+      "phone": "+41 58 46 49670",
+      "function": {
+        "german": "Integrationsmanager/in / Stv. L Ress.",
+        "french": "Integrationsmanager/in / Supp. chef R.",
+        "italian": "Integrationsmanager/in / Supp. capo R.",
+        "english": "Integrationsmanager/in / Stv. L Ress."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3344029",
+      "surname": "Aeberhard",
+      "givenName": "Verena",
+      "email": null,
+      "phone": "+41 58 46 50562",
+      "function": {
+        "german": "Spezialist/in Finanzen",
+        "french": "Spécialiste Finances",
+        "italian": "Specialista finanze",
+        "english": "Spezialist/in Finanzen"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4981485",
+      "surname": "Brechbühl",
+      "givenName": "Christof",
+      "email": null,
+      "phone": "+41 58 48 30649",
+      "function": {
+        "german": "Sachbearbeiter/in Registratur u Logistik",
+        "french": "Collaborateur/trice Enregistr./Logist.",
+        "italian": "Collaboratore/trice Registrazione/Logist",
+        "english": "Sachbearbeiter/in Registratur u Logistik"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9210749",
+      "surname": "Descloux",
+      "givenName": "Sacha",
+      "email": null,
+      "phone": "+41 58 46 32242",
+      "function": {
+        "german": "Sachbearbeiter/in Registratur u Logistik",
+        "french": "Collaborateur/trice Enregistr./Logist.",
+        "italian": "Collaboratore/trice Registrazione/Logist",
+        "english": "Sachbearbeiter/in Registratur u Logistik"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9564279",
+      "surname": "Schneider",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 55392",
+      "function": {
+        "german": "Spezialist/in Finanzen und Controlling",
+        "french": "Spécialiste Finances et controlling",
+        "italian": "Specialista finanze e Controlling",
+        "english": "Spezialist/in Finanzen und Controlling"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1258804",
+      "surname": "Schütz",
+      "givenName": "Ursula",
+      "email": null,
+      "phone": "+41 58 46 49681",
+      "function": {
+        "german": "Leiter/in Registratur und Dokumentation",
+        "french": "Responsable de l'enregistrement/docum.",
+        "italian": "Responsabile de",
+        "english": "Leiter/in Registratur und Dokumentation"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008676",
+      "label": {
+        "german": "WEKO",
+        "french": "WEKO",
+        "italian": "WEKO",
+        "english": ""
+      },
+      "name": {
+        "german": "Wettbewerbskommission",
+        "french": "Commission de la concurrence",
+        "italian": "Commissione della concorrenza",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002501",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Comité de direction",
+        "italian": "Comitato di direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Comité de direction",
+        "italian": "Comitato di direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002505",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

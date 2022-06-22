@@ -1,1 +1,275 @@
-{"id"=>"20045038", "name"=>{"german"=>"Region Westschweiz", "french"=>"Région Suisse romande", "italian"=>"Regione Svizzera romanda", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Rue de l'Hôpital 60", "postalCode"=>"2017", "location"=>"Boudry", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20045039", "name"=>{"german"=>"Partner und Administration WCH", "french"=>"Partenaires et administration CHR", "italian"=>"Partner e amministrazione CH-R", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045042", "name"=>{"german"=>"Dublin und Rückkehr WCH", "french"=>"Dublin et retour CHR", "italian"=>"Dublino e ritorno CH-R", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045043", "name"=>{"german"=>"Asylverfahren WCH 1", "french"=>"Procédure d'asile CHR 1", "italian"=>"Procedura d'asilo CH-R 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045044", "name"=>{"german"=>"Asylverfahren WCH 2", "french"=>"Procédure d'asile CHR 2", "italian"=>"Procedura d'asilo CH-R 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045045", "name"=>{"german"=>"Asylverfahren WCH 3", "french"=>"Procédure d'asile CHR 3", "italian"=>"Procedura d'asilo CH-R 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045046", "name"=>{"german"=>"Asylverfahren WCH 4", "french"=>"Procédure d'asile CHR 4", "italian"=>"Procedura d'asilo CH-R 4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1549728", "surname"=>"Ruffieux", "givenName"=>"Pierre-Alain", "email"=>nil, "phone"=>"+41 58 46 58463", "function"=>{"german"=>"Chef/in Region / Stv. C DB", "french"=>"Chef/in Region / Stv. C DB", "italian"=>"Chef/in Region / Stv. C DB", "english"=>"Chef/in Region / Stv. C DB"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3826394", "surname"=>"Miceli", "givenName"=>"Maurizio", "email"=>nil, "phone"=>"+41 58 46 16803", "function"=>{"german"=>"Chef/in Sektion / Stv. Chef/in Region", "french"=>"Chef/in Sektion / Stv. Chef/in Region", "italian"=>"Chef/in Sektion / Stv. Chef/in Region", "english"=>"Chef/in Sektion / Stv. Chef/in Region"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7709261", "surname"=>"Maître", "givenName"=>"Elisabeth", "email"=>nil, "phone"=>"+41 58 46 58352", "function"=>{"german"=>"Assistent/in Chef Region", "french"=>"Assistent/in Chef Region", "italian"=>"Assistent/in Chef Region", "english"=>"Assistent/in Chef Region"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045038", "label"=>{"german"=>"Region Westschweiz", "french"=>"Région Suisse romande", "italian"=>"Regione Svizzera romanda", "english"=>""}, "name"=>{"german"=>"Region Westschweiz", "french"=>"Région Suisse romande", "italian"=>"Regione Svizzera romanda", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045038",
+  "name": {
+    "german": "Region Westschweiz",
+    "french": "Région Suisse romande",
+    "italian": "Regione Svizzera romanda",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Rue de l'Hôpital 60",
+    "postalCode": "2017",
+    "location": "Boudry",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20045039",
+      "name": {
+        "german": "Partner und Administration WCH",
+        "french": "Partenaires et administration CHR",
+        "italian": "Partner e amministrazione CH-R",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045042",
+      "name": {
+        "german": "Dublin und Rückkehr WCH",
+        "french": "Dublin et retour CHR",
+        "italian": "Dublino e ritorno CH-R",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045043",
+      "name": {
+        "german": "Asylverfahren WCH 1",
+        "french": "Procédure d'asile CHR 1",
+        "italian": "Procedura d'asilo CH-R 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045044",
+      "name": {
+        "german": "Asylverfahren WCH 2",
+        "french": "Procédure d'asile CHR 2",
+        "italian": "Procedura d'asilo CH-R 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045045",
+      "name": {
+        "german": "Asylverfahren WCH 3",
+        "french": "Procédure d'asile CHR 3",
+        "italian": "Procedura d'asilo CH-R 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045046",
+      "name": {
+        "german": "Asylverfahren WCH 4",
+        "french": "Procédure d'asile CHR 4",
+        "italian": "Procedura d'asilo CH-R 4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1549728",
+      "surname": "Ruffieux",
+      "givenName": "Pierre-Alain",
+      "email": null,
+      "phone": "+41 58 46 58463",
+      "function": {
+        "german": "Chef/in Region / Stv. C DB",
+        "french": "Chef/in Region / Stv. C DB",
+        "italian": "Chef/in Region / Stv. C DB",
+        "english": "Chef/in Region / Stv. C DB"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3826394",
+      "surname": "Miceli",
+      "givenName": "Maurizio",
+      "email": null,
+      "phone": "+41 58 46 16803",
+      "function": {
+        "german": "Chef/in Sektion / Stv. Chef/in Region",
+        "french": "Chef/in Sektion / Stv. Chef/in Region",
+        "italian": "Chef/in Sektion / Stv. Chef/in Region",
+        "english": "Chef/in Sektion / Stv. Chef/in Region"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7709261",
+      "surname": "Maître",
+      "givenName": "Elisabeth",
+      "email": null,
+      "phone": "+41 58 46 58352",
+      "function": {
+        "german": "Assistent/in Chef Region",
+        "french": "Assistent/in Chef Region",
+        "italian": "Assistent/in Chef Region",
+        "english": "Assistent/in Chef Region"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045038",
+      "label": {
+        "german": "Region Westschweiz",
+        "french": "Région Suisse romande",
+        "italian": "Regione Svizzera romanda",
+        "english": ""
+      },
+      "name": {
+        "german": "Region Westschweiz",
+        "french": "Région Suisse romande",
+        "italian": "Regione Svizzera romanda",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,109 @@
-{"id"=>"MANUAL_OE_3", "name"=>{"german"=>"Nationalrat", "french"=>"Conseil national", "italian"=>"Consiglio nazionale", "english"=>""}, "nameAbbr"=>{"german"=>"NR", "french"=>"NR", "italian"=>"NR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"MANUAL_OE_108", "name"=>{"german"=>"Büro", "french"=>"Bureau", "italian"=>"Ufficio", "english"=>""}, "nameAbbr"=>{"german"=>"Büro", "french"=>"Büro", "italian"=>"Büro", "english"=>""}}, {"id"=>"MANUAL_OE_107", "name"=>{"german"=>"Mitglieder", "french"=>"Membres", "italian"=>"Membri", "english"=>""}, "nameAbbr"=>{"german"=>"Mitglieder", "french"=>"Mitglieder", "italian"=>"Mitglieder", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"MANUAL_OE_2", "label"=>{"german"=>"BV", "french"=>"BV", "italian"=>"BV", "english"=>""}, "name"=>{"german"=>"Bundesversammlung", "french"=>"Assemblée fédérale", "italian"=>"Assemblea federale", "english"=>""}}, {"id"=>"MANUAL_OE_3", "label"=>{"german"=>"NR", "french"=>"NR", "italian"=>"NR", "english"=>""}, "name"=>{"german"=>"Nationalrat", "french"=>"Conseil national", "italian"=>"Consiglio nazionale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "MANUAL_OE_3",
+  "name": {
+    "german": "Nationalrat",
+    "french": "Conseil national",
+    "italian": "Consiglio nazionale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "NR",
+    "french": "NR",
+    "italian": "NR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "MANUAL_OE_108",
+      "name": {
+        "german": "Büro",
+        "french": "Bureau",
+        "italian": "Ufficio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "Büro",
+        "french": "Büro",
+        "italian": "Büro",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_107",
+      "name": {
+        "german": "Mitglieder",
+        "french": "Membres",
+        "italian": "Membri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "Mitglieder",
+        "french": "Mitglieder",
+        "italian": "Mitglieder",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "MANUAL_OE_2",
+      "label": {
+        "german": "BV",
+        "french": "BV",
+        "italian": "BV",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesversammlung",
+        "french": "Assemblée fédérale",
+        "italian": "Assemblea federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_3",
+      "label": {
+        "german": "NR",
+        "french": "NR",
+        "italian": "NR",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationalrat",
+        "french": "Conseil national",
+        "italian": "Consiglio nazionale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,126 @@
-{"id"=>"20037577", "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1XK8S9MDN", "surname"=>"Sigrist", "givenName"=>"Daniela", "email"=>nil, "phone"=>"+41 58 46 59449", "function"=>{"german"=>"Informationschefin", "french"=>"Chef de l'information", "italian"=>"Capo Informazione", "english"=>"Informationschefin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20039609", "label"=>{"german"=>"Büro des Bundesanwalts", "french"=>"Bureau du Procureur général", "italian"=>"Ufficio del Procuratore generale", "english"=>""}, "name"=>{"german"=>"Büro des Bundesanwalts", "french"=>"Bureau du Procureur général", "italian"=>"Ufficio del Procuratore generale", "english"=>""}}, {"id"=>"20037577", "label"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037577",
+  "name": {
+    "german": "Kommunikation",
+    "french": "Communication",
+    "italian": "Comunicazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1XK8S9MDN",
+      "surname": "Sigrist",
+      "givenName": "Daniela",
+      "email": null,
+      "phone": "+41 58 46 59449",
+      "function": {
+        "german": "Informationschefin",
+        "french": "Chef de l'information",
+        "italian": "Capo Informazione",
+        "english": "Informationschefin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039609",
+      "label": {
+        "german": "Büro des Bundesanwalts",
+        "french": "Bureau du Procureur général",
+        "italian": "Ufficio del Procuratore generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Büro des Bundesanwalts",
+        "french": "Bureau du Procureur général",
+        "italian": "Ufficio del Procuratore generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037577",
+      "label": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

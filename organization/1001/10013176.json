@@ -1,1 +1,155 @@
-{"id"=>"10013176", "name"=>{"german"=>"Bereich Gefährdungslage", "french"=>"Domaine Évaluation de la menace", "italian"=>"Settore Situazione della minaccia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009355", "label"=>{"german"=>"BSD", "french"=>"SFS", "italian"=>"SFS", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundessicherheitsdienst", "french"=>"Domaine de direction Service fédéral de sécurité", "italian"=>"Ambito direzionale Servizio federale di sicurezza", "english"=>""}}, {"id"=>"10009356", "label"=>{"german"=>"Abteilung Steuerung, Lage und Stab BSD", "french"=>"Division Gestion, situation et état-major du SFS", "italian"=>"Divisione Coordinazione, situazione e stato maggiore SFS", "english"=>""}, "name"=>{"german"=>"Abteilung Steuerung, Lage und Stab BSD", "french"=>"Division Gestion, situation et état-major du SFS", "italian"=>"Divisione Coordinazione, situazione e stato maggiore SFS", "english"=>""}}, {"id"=>"10013176", "label"=>{"german"=>"Bereich Gefährdungslage", "french"=>"Domaine Évaluation de la menace", "italian"=>"Settore Situazione della minaccia", "english"=>""}, "name"=>{"german"=>"Bereich Gefährdungslage", "french"=>"Domaine Évaluation de la menace", "italian"=>"Settore Situazione della minaccia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10013176",
+  "name": {
+    "german": "Bereich Gefährdungslage",
+    "french": "Domaine Évaluation de la menace",
+    "italian": "Settore Situazione della minaccia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009355",
+      "label": {
+        "german": "BSD",
+        "french": "SFS",
+        "italian": "SFS",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundessicherheitsdienst",
+        "french": "Domaine de direction Service fédéral de sécurité",
+        "italian": "Ambito direzionale Servizio federale di sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009356",
+      "label": {
+        "german": "Abteilung Steuerung, Lage und Stab BSD",
+        "french": "Division Gestion, situation et état-major du SFS",
+        "italian": "Divisione Coordinazione, situazione e stato maggiore SFS",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Steuerung, Lage und Stab BSD",
+        "french": "Division Gestion, situation et état-major du SFS",
+        "italian": "Divisione Coordinazione, situazione e stato maggiore SFS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013176",
+      "label": {
+        "german": "Bereich Gefährdungslage",
+        "french": "Domaine Évaluation de la menace",
+        "italian": "Settore Situazione della minaccia",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Gefährdungslage",
+        "french": "Domaine Évaluation de la menace",
+        "italian": "Settore Situazione della minaccia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

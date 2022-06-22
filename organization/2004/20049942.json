@@ -1,1 +1,170 @@
-{"id"=>"20049942", "name"=>{"german"=>"SW Paketierung", "french"=>"Paquets SW", "italian"=>"Packaging SW", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Waffenplatzareal, Gebäude 861", "postalCode"=>"3609", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"10009869", "label"=>{"german"=>"FUB", "french"=>"BAC", "italian"=>"BAC", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbasis", "french"=>"Base d'aide au commandement", "italian"=>"Base d'aiuto alla condotta", "english"=>""}}, {"id"=>"20038128", "label"=>{"german"=>"Betrieb", "french"=>"Exploitation", "italian"=>"Aziendia", "english"=>""}, "name"=>{"german"=>"Betrieb", "french"=>"Exploitation", "italian"=>"Aziendia", "english"=>""}}, {"id"=>"20049939", "label"=>{"german"=>"Enduser IT Services EITS", "french"=>"Enduser IT Services EITS", "italian"=>"Enduser IT Services EITS", "english"=>""}, "name"=>{"german"=>"Enduser IT Services EITS", "french"=>"Enduser IT Services EITS", "italian"=>"Enduser IT Services EITS", "english"=>""}}, {"id"=>"20049942", "label"=>{"german"=>"SW Paketierung", "french"=>"Paquets SW", "italian"=>"Packaging SW", "english"=>""}, "name"=>{"german"=>"SW Paketierung", "french"=>"Paquets SW", "italian"=>"Packaging SW", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049942",
+  "name": {
+    "german": "SW Paketierung",
+    "french": "Paquets SW",
+    "italian": "Packaging SW",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Waffenplatzareal, Gebäude 861",
+    "postalCode": "3609",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009869",
+      "label": {
+        "german": "FUB",
+        "french": "BAC",
+        "italian": "BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbasis",
+        "french": "Base d'aide au commandement",
+        "italian": "Base d'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038128",
+      "label": {
+        "german": "Betrieb",
+        "french": "Exploitation",
+        "italian": "Aziendia",
+        "english": ""
+      },
+      "name": {
+        "german": "Betrieb",
+        "french": "Exploitation",
+        "italian": "Aziendia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049939",
+      "label": {
+        "german": "Enduser IT Services EITS",
+        "french": "Enduser IT Services EITS",
+        "italian": "Enduser IT Services EITS",
+        "english": ""
+      },
+      "name": {
+        "german": "Enduser IT Services EITS",
+        "french": "Enduser IT Services EITS",
+        "italian": "Enduser IT Services EITS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049942",
+      "label": {
+        "german": "SW Paketierung",
+        "french": "Paquets SW",
+        "italian": "Packaging SW",
+        "english": ""
+      },
+      "name": {
+        "german": "SW Paketierung",
+        "french": "Paquets SW",
+        "italian": "Packaging SW",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

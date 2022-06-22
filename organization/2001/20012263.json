@@ -1,1 +1,184 @@
-{"id"=>"20012263", "name"=>{"german"=>"HR-Center Lugano", "french"=>"Centre RH Lugano", "italian"=>"Centro HR Lugano", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Via Pioda 10", "postalCode"=>"6900", "location"=>"Lugano", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 469 48 22", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2923979", "surname"=>"Pietra", "givenName"=>"Renato", "email"=>nil, "phone"=>"+41 58 46 99822", "function"=>{"german"=>"Dienstchef/in", "french"=>"Chef/fe de service", "italian"=>"Caposervizio", "english"=>"Dienstchef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5405978", "surname"=>"Paganoni", "givenName"=>"Damiano", "email"=>nil, "phone"=>"+41 58 46 99819", "function"=>{"german"=>"Fachspezialist/in + Stv", "french"=>"Spécialiste + rempl", "italian"=>"Specialista + sost", "english"=>"Fachspezialist/in + Stv"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008659", "label"=>{"german"=>"BAZG", "french"=>"OFDF", "italian"=>"UDSC", "english"=>"FOCBS"}, "name"=>{"german"=>"Bundesamt für Zoll und Grenzsicherheit", "french"=>"Office fédéral de la douane et de la sécurité des frontières", "italian"=>"Ufficio federale della dogana e della sicurezza dei confini", "english"=>"Federal Office for Customs and Border Security"}}, {"id"=>"10007200", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20046701", "label"=>{"german"=>"Direktionsbereich Planung und Steuerung", "french"=>"Domaine de direction Planification et pilotage", "italian"=>"Ambito direzionale Pianificazione e gestione", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Planung und Steuerung", "french"=>"Domaine de direction Planification et pilotage", "italian"=>"Ambito direzionale Pianificazione e gestione", "english"=>""}}, {"id"=>"10007281", "label"=>{"german"=>"Personal und Ausbildung", "french"=>"Personnel et formation", "italian"=>"Personale e formazione", "english"=>""}, "name"=>{"german"=>"Personal und Ausbildung", "french"=>"Personnel et formation", "italian"=>"Personale e formazione", "english"=>""}}, {"id"=>"20012263", "label"=>{"german"=>"HR-Center Lugano", "french"=>"Centre RH Lugano", "italian"=>"Centro HR Lugano", "english"=>""}, "name"=>{"german"=>"HR-Center Lugano", "french"=>"Centre RH Lugano", "italian"=>"Centro HR Lugano", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012263",
+  "name": {
+    "german": "HR-Center Lugano",
+    "french": "Centre RH Lugano",
+    "italian": "Centro HR Lugano",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Via Pioda 10",
+    "postalCode": "6900",
+    "location": "Lugano",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 469 48 22",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2923979",
+      "surname": "Pietra",
+      "givenName": "Renato",
+      "email": null,
+      "phone": "+41 58 46 99822",
+      "function": {
+        "german": "Dienstchef/in",
+        "french": "Chef/fe de service",
+        "italian": "Caposervizio",
+        "english": "Dienstchef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5405978",
+      "surname": "Paganoni",
+      "givenName": "Damiano",
+      "email": null,
+      "phone": "+41 58 46 99819",
+      "function": {
+        "german": "Fachspezialist/in + Stv",
+        "french": "Spécialiste + rempl",
+        "italian": "Specialista + sost",
+        "english": "Fachspezialist/in + Stv"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008659",
+      "label": {
+        "german": "BAZG",
+        "french": "OFDF",
+        "italian": "UDSC",
+        "english": "FOCBS"
+      },
+      "name": {
+        "german": "Bundesamt für Zoll und Grenzsicherheit",
+        "french": "Office fédéral de la douane et de la sécurité des frontières",
+        "italian": "Ufficio federale della dogana e della sicurezza dei confini",
+        "english": "Federal Office for Customs and Border Security"
+      }
+    },
+    {
+      "id": "10007200",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046701",
+      "label": {
+        "german": "Direktionsbereich Planung und Steuerung",
+        "french": "Domaine de direction Planification et pilotage",
+        "italian": "Ambito direzionale Pianificazione e gestione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Planung und Steuerung",
+        "french": "Domaine de direction Planification et pilotage",
+        "italian": "Ambito direzionale Pianificazione e gestione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007281",
+      "label": {
+        "german": "Personal und Ausbildung",
+        "french": "Personnel et formation",
+        "italian": "Personale e formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal und Ausbildung",
+        "french": "Personnel et formation",
+        "italian": "Personale e formazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012263",
+      "label": {
+        "german": "HR-Center Lugano",
+        "french": "Centre RH Lugano",
+        "italian": "Centro HR Lugano",
+        "english": ""
+      },
+      "name": {
+        "german": "HR-Center Lugano",
+        "french": "Centre RH Lugano",
+        "italian": "Centro HR Lugano",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

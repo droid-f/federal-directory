@@ -1,1 +1,156 @@
-{"id"=>"10003228", "name"=>{"german"=>"Fachbereich Direktzahlungsgrundlagen", "french"=>"Secteur Paiements directs - Bases", "italian"=>"Settore Pagamenti diretti Basi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 165", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8397553", "surname"=>"Hasler", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 46 30291", "function"=>{"german"=>"Fachbereichsleiter/in / Stv. Dir.BL", "french"=>"Responsable du sect / Suppl. Resp. UD", "italian"=>"Responsabile nel Sett. / Suppl. Resp. UD", "english"=>"Fachbereichsleiter/in / Stv. Dir.BL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003196", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Direktion BLW", "french"=>"Direction OFAG", "italian"=>"Direzione UFAG", "english"=>"Direktion BLW"}}, {"id"=>"10003224", "label"=>{"german"=>"Direktionsbereich Direktzahlungen und Ländliche Entwicklung", "french"=>"Unité de direction Paiements directs et développement rural", "italian"=>"Unità di direzione Pagamenti diretti e sviluppo rurale", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Direktzahlungen und Ländliche Entwicklung", "french"=>"Unité de direction Paiements directs et développement rural", "italian"=>"Unità di direzione Pagamenti diretti e sviluppo rurale", "english"=>""}}, {"id"=>"10003228", "label"=>{"german"=>"Fachbereich Direktzahlungsgrundlagen", "french"=>"Secteur Paiements directs - Bases", "italian"=>"Settore Pagamenti diretti Basi", "english"=>""}, "name"=>{"german"=>"Fachbereich Direktzahlungsgrundlagen", "french"=>"Secteur Paiements directs - Bases", "italian"=>"Settore Pagamenti diretti Basi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003228",
+  "name": {
+    "german": "Fachbereich Direktzahlungsgrundlagen",
+    "french": "Secteur Paiements directs - Bases",
+    "italian": "Settore Pagamenti diretti Basi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 165",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8397553",
+      "surname": "Hasler",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 46 30291",
+      "function": {
+        "german": "Fachbereichsleiter/in / Stv. Dir.BL",
+        "french": "Responsable du sect / Suppl. Resp. UD",
+        "italian": "Responsabile nel Sett. / Suppl. Resp. UD",
+        "english": "Fachbereichsleiter/in / Stv. Dir.BL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003196",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Direktion BLW",
+        "french": "Direction OFAG",
+        "italian": "Direzione UFAG",
+        "english": "Direktion BLW"
+      }
+    },
+    {
+      "id": "10003224",
+      "label": {
+        "german": "Direktionsbereich Direktzahlungen und Ländliche Entwicklung",
+        "french": "Unité de direction Paiements directs et développement rural",
+        "italian": "Unità di direzione Pagamenti diretti e sviluppo rurale",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Direktzahlungen und Ländliche Entwicklung",
+        "french": "Unité de direction Paiements directs et développement rural",
+        "italian": "Unità di direzione Pagamenti diretti e sviluppo rurale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003228",
+      "label": {
+        "german": "Fachbereich Direktzahlungsgrundlagen",
+        "french": "Secteur Paiements directs - Bases",
+        "italian": "Settore Pagamenti diretti Basi",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Direktzahlungsgrundlagen",
+        "french": "Secteur Paiements directs - Bases",
+        "italian": "Settore Pagamenti diretti Basi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,156 @@
-{"id"=>"10003207", "name"=>{"german"=>"Fachbereich Recht und Verfahren", "french"=>"Secteur Droit et procédures", "italian"=>"Settore Diritto e procedure", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 165", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0082397", "surname"=>"Sohm", "givenName"=>"Regula", "email"=>nil, "phone"=>"+41 58 46 20893", "function"=>{"german"=>"Fachbereichsleiter/in / Stv. DBL", "french"=>"Responsable du sect / Suppl. Resp. UD", "italian"=>"Responsabile nel Sett. / Suppl. Resp. UD", "english"=>"Fachbereichsleiter/in / Stv. DBL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003196", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Direktion BLW", "french"=>"Direction OFAG", "italian"=>"Direzione UFAG", "english"=>"Direktion BLW"}}, {"id"=>"20012618", "label"=>{"german"=>"Direktionsbereich Politik, Recht und Ressourcen", "french"=>"Unité de direction Politique, évaluation, droit et ressources humaines", "italian"=>"Unità di dir. Politica, valutazione, diritto e risorse umane", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Politik, Recht und Ressourcen", "french"=>"Unité de direction Politique, évaluation, droit et ressources humaines", "italian"=>"Unità di dir. Politica, valutazione, diritto e risorse umane", "english"=>""}}, {"id"=>"10003207", "label"=>{"german"=>"Fachbereich Recht und Verfahren", "french"=>"Secteur Droit et procédures", "italian"=>"Settore Diritto e procedure", "english"=>""}, "name"=>{"german"=>"Fachbereich Recht und Verfahren", "french"=>"Secteur Droit et procédures", "italian"=>"Settore Diritto e procedure", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003207",
+  "name": {
+    "german": "Fachbereich Recht und Verfahren",
+    "french": "Secteur Droit et procédures",
+    "italian": "Settore Diritto e procedure",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 165",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0082397",
+      "surname": "Sohm",
+      "givenName": "Regula",
+      "email": null,
+      "phone": "+41 58 46 20893",
+      "function": {
+        "german": "Fachbereichsleiter/in / Stv. DBL",
+        "french": "Responsable du sect / Suppl. Resp. UD",
+        "italian": "Responsabile nel Sett. / Suppl. Resp. UD",
+        "english": "Fachbereichsleiter/in / Stv. DBL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003196",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Direktion BLW",
+        "french": "Direction OFAG",
+        "italian": "Direzione UFAG",
+        "english": "Direktion BLW"
+      }
+    },
+    {
+      "id": "20012618",
+      "label": {
+        "german": "Direktionsbereich Politik, Recht und Ressourcen",
+        "french": "Unité de direction Politique, évaluation, droit et ressources humaines",
+        "italian": "Unità di dir. Politica, valutazione, diritto e risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Politik, Recht und Ressourcen",
+        "french": "Unité de direction Politique, évaluation, droit et ressources humaines",
+        "italian": "Unità di dir. Politica, valutazione, diritto e risorse umane",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003207",
+      "label": {
+        "german": "Fachbereich Recht und Verfahren",
+        "french": "Secteur Droit et procédures",
+        "italian": "Settore Diritto e procedure",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Recht und Verfahren",
+        "french": "Secteur Droit et procédures",
+        "italian": "Settore Diritto e procedure",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

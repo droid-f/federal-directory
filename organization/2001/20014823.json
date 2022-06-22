@@ -1,1 +1,111 @@
-{"id"=>"20014823", "name"=>{"german"=>"Kanzlei Abteilung III", "french"=>"Chancellerie de cour III", "italian"=>"Cancelleria della corte III", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1682219", "surname"=>"Ostojic", "givenName"=>"Spomenka", "email"=>nil, "phone"=>"+41 58 46 52620", "function"=>{"german"=>"Leiter/in Abteilungskanzlei III", "french"=>"Chef/fe de la chancellerie Cour III", "italian"=>"Capo di cancelleria Corte III", "english"=>"Leiter/in Abteilungskanzlei III"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014818", "label"=>{"german"=>"Abteilung III - Ausländer, Gesundheit und Sozialversicherungen", "french"=>"Cour III - étrangers, santé et assurances sociales", "italian"=>"Corte III - stranieri, salute e previdenza sociale", "english"=>""}, "name"=>{"german"=>"Abteilung III - Ausländer, Gesundheit und Sozialversicherungen", "french"=>"Cour III - étrangers, santé et assurances sociales", "italian"=>"Corte III - stranieri, salute e previdenza sociale", "english"=>""}}, {"id"=>"20014823", "label"=>{"german"=>"Kanzlei Abteilung III", "french"=>"Chancellerie de cour III", "italian"=>"Cancelleria della corte III", "english"=>""}, "name"=>{"german"=>"Kanzlei Abteilung III", "french"=>"Chancellerie de cour III", "italian"=>"Cancelleria della corte III", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014823",
+  "name": {
+    "german": "Kanzlei Abteilung III",
+    "french": "Chancellerie de cour III",
+    "italian": "Cancelleria della corte III",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1682219",
+      "surname": "Ostojic",
+      "givenName": "Spomenka",
+      "email": null,
+      "phone": "+41 58 46 52620",
+      "function": {
+        "german": "Leiter/in Abteilungskanzlei III",
+        "french": "Chef/fe de la chancellerie Cour III",
+        "italian": "Capo di cancelleria Corte III",
+        "english": "Leiter/in Abteilungskanzlei III"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014818",
+      "label": {
+        "german": "Abteilung III - Ausländer, Gesundheit und Sozialversicherungen",
+        "french": "Cour III - étrangers, santé et assurances sociales",
+        "italian": "Corte III - stranieri, salute e previdenza sociale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung III - Ausländer, Gesundheit und Sozialversicherungen",
+        "french": "Cour III - étrangers, santé et assurances sociales",
+        "italian": "Corte III - stranieri, salute e previdenza sociale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014823",
+      "label": {
+        "german": "Kanzlei Abteilung III",
+        "french": "Chancellerie de cour III",
+        "italian": "Cancelleria della corte III",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanzlei Abteilung III",
+        "french": "Chancellerie de cour III",
+        "italian": "Cancelleria della corte III",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

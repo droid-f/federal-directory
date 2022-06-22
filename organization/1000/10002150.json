@@ -1,1 +1,257 @@
-{"id"=>"10002150", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bernastrasse 28", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584622141", "fax"=>"", "email"=>"info@bwl.admin.ch", "homepage"=>{"german"=>"www.bwl.admin.ch", "french"=>"www.bwl.admin.ch", "italian"=>"www.bwl.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20010176", "name"=>{"german"=>"Kantone und Kommunikation", "french"=>"Cantons et communication", "italian"=>"Cantoni e Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041817", "name"=>{"german"=>"Recht und Compliance", "french"=>"Droit et déontologie", "italian"=>"Servizio giuridico e deontologia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20010177", "name"=>{"german"=>"Geschäftsstelle Ernährung", "french"=>"Secrétariats des domaines alimentation / produits thérapeutiques", "italian"=>"Segreterie Alimentazione / Agenti terapeutici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20010178", "name"=>{"german"=>"Geschäftsstellen Logistik und IKT", "french"=>"Secrétariats des domaines logistique / TIC", "italian"=>"Segreterie Logistica / TIC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050509", "name"=>{"german"=>"Geschäftsstelle Heilmittel", "french"=>"Secrétariats des domaines alimentation / produits thérapeutiques", "italian"=>"Segreterie Alimentazione / Agenti terapeutici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040286", "name"=>{"german"=>"Geschäftsstellen Energie und Industrie", "french"=>"Secrétariats des domaines énergie / industrie", "italian"=>"Segreterie Energia / Industria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002156", "name"=>{"german"=>"Sektion Vorratshaltung", "french"=>"Section stockage", "italian"=>"Sezione delle Scorte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1358067", "surname"=>"Meier", "givenName"=>"Werner", "email"=>nil, "phone"=>"+41 58 46 22161", "function"=>{"german"=>"Delegierte/r für wirt. Landesversorgung", "french"=>"Délégué/e à l’approv. économique du pays", "italian"=>"Delegato all’appr. economico del Paese", "english"=>"Delegierte/r für wirt. Landesversorgung"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4510728", "surname"=>"Lauber", "givenName"=>"Anton", "email"=>nil, "phone"=>"+41 58 46 22169", "function"=>{"german"=>"Leiter/in Krisenmgmt und Ressourcen", "french"=>"Chef/fe Gestion de crise et ressources", "italian"=>"Capo Gestione delle crisi e risorse", "english"=>"Leiter/in Krisenmgmt und Ressourcen"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8949873", "surname"=>"Lutz", "givenName"=>"Corinne", "email"=>nil, "phone"=>"+41 58 46 22141", "function"=>{"german"=>"Direktionssekretär/in", "french"=>"Secrétaire de direction", "italian"=>"Segretario/a di direzione", "english"=>"Direktionssekretär/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008673", "label"=>{"german"=>"BWL", "french"=>"OFAE", "italian"=>"UFAE", "english"=>""}, "name"=>{"german"=>"Bundesamt für wirtschaftliche Landesversorgung", "french"=>"Office fédéral pour l'approvisionnement économique du pays", "italian"=>"Ufficio federale per l'approvvigionamento economico del Paese", "english"=>""}}, {"id"=>"10002150", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10002150",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bernastrasse 28",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584622141",
+    "fax": "",
+    "email": "info@bwl.admin.ch",
+    "homepage": {
+      "german": "www.bwl.admin.ch",
+      "french": "www.bwl.admin.ch",
+      "italian": "www.bwl.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20010176",
+      "name": {
+        "german": "Kantone und Kommunikation",
+        "french": "Cantons et communication",
+        "italian": "Cantoni e Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041817",
+      "name": {
+        "german": "Recht und Compliance",
+        "french": "Droit et déontologie",
+        "italian": "Servizio giuridico e deontologia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010177",
+      "name": {
+        "german": "Geschäftsstelle Ernährung",
+        "french": "Secrétariats des domaines alimentation / produits thérapeutiques",
+        "italian": "Segreterie Alimentazione / Agenti terapeutici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010178",
+      "name": {
+        "german": "Geschäftsstellen Logistik und IKT",
+        "french": "Secrétariats des domaines logistique / TIC",
+        "italian": "Segreterie Logistica / TIC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050509",
+      "name": {
+        "german": "Geschäftsstelle Heilmittel",
+        "french": "Secrétariats des domaines alimentation / produits thérapeutiques",
+        "italian": "Segreterie Alimentazione / Agenti terapeutici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040286",
+      "name": {
+        "german": "Geschäftsstellen Energie und Industrie",
+        "french": "Secrétariats des domaines énergie / industrie",
+        "italian": "Segreterie Energia / Industria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002156",
+      "name": {
+        "german": "Sektion Vorratshaltung",
+        "french": "Section stockage",
+        "italian": "Sezione delle Scorte",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1358067",
+      "surname": "Meier",
+      "givenName": "Werner",
+      "email": null,
+      "phone": "+41 58 46 22161",
+      "function": {
+        "german": "Delegierte/r für wirt. Landesversorgung",
+        "french": "Délégué/e à l’approv. économique du pays",
+        "italian": "Delegato all’appr. economico del Paese",
+        "english": "Delegierte/r für wirt. Landesversorgung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4510728",
+      "surname": "Lauber",
+      "givenName": "Anton",
+      "email": null,
+      "phone": "+41 58 46 22169",
+      "function": {
+        "german": "Leiter/in Krisenmgmt und Ressourcen",
+        "french": "Chef/fe Gestion de crise et ressources",
+        "italian": "Capo Gestione delle crisi e risorse",
+        "english": "Leiter/in Krisenmgmt und Ressourcen"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8949873",
+      "surname": "Lutz",
+      "givenName": "Corinne",
+      "email": null,
+      "phone": "+41 58 46 22141",
+      "function": {
+        "german": "Direktionssekretär/in",
+        "french": "Secrétaire de direction",
+        "italian": "Segretario/a di direzione",
+        "english": "Direktionssekretär/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008673",
+      "label": {
+        "german": "BWL",
+        "french": "OFAE",
+        "italian": "UFAE",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für wirtschaftliche Landesversorgung",
+        "french": "Office fédéral pour l'approvisionnement économique du pays",
+        "italian": "Ufficio federale per l'approvvigionamento economico del Paese",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002150",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

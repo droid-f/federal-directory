@@ -1,1 +1,200 @@
-{"id"=>"10000508", "name"=>{"german"=>"Berufliche Grundbildung", "french"=>"Formation professionnelle initiale", "italian"=>"Formazione professionale di base", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 71", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7243997", "surname"=>"Haldemann", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 25498", "function"=>{"german"=>"Leiter Berufliche Grundbildung Bundesverwaltung", "french"=>"Leiter Berufliche Grundbildung Bundesverwaltung", "italian"=>"Leiter Berufliche Grundbildung Bundesverwaltung", "english"=>"Leiter Berufliche Grundbildung BVerw"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3597412", "surname"=>"Meienberg", "givenName"=>"David", "email"=>nil, "phone"=>"+41 58 46 50979", "function"=>{"german"=>"Spezialist Berufliche Grundbildung und Stellvertreter Leiter Berufliche Grundbildung Bundesverwaltung", "french"=>"Spezialist Berufliche Grundbildung und Stellvertreter Leiter Berufliche Grundbildung Bundesverwaltung", "italian"=>"Spezialist Berufliche Grundbildung und Stellvertreter Leiter Berufliche Grundbildung Bundesverwaltung", "english"=>"Spezialist Berufl. Grundbild. und Stv RL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9653535", "surname"=>"Vincent Hofer", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 34529", "function"=>{"german"=>"Spezialistin Berufliche Grundbildung", "french"=>"Spezialistin Berufliche Grundbildung", "italian"=>"Spezialistin Berufliche Grundbildung", "english"=>"Spezialistin Berufliche Grundbildung"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6868708", "surname"=>"von Ballmoos", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 58 46 11952", "function"=>{"german"=>"Spezialistin Berufliche Grundbildung", "french"=>"Spezialistin Berufliche Grundbildung", "italian"=>"Spezialistin Berufliche Grundbildung", "english"=>"Spezialistin Berufliche Grundbildung"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10000034", "label"=>{"german"=>"EPA", "french"=>"OFPER", "italian"=>"UFPER", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Personalamt", "french"=>"Office fédéral du personnel", "italian"=>"Ufficio federale del personale", "english"=>""}}, {"id"=>"10001850", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10000494", "label"=>{"german"=>"Grundlagenentwicklung und Ausbildungszentrum", "french"=>"Développement des bases et centre de formation", "italian"=>"Sviluppo delle basi e Centro di formazione", "english"=>""}, "name"=>{"german"=>"Grundlagenentwicklung und Ausbildungszentrum", "french"=>"Développement des bases et centre de formation", "italian"=>"Sviluppo delle basi e Centro di formazione", "english"=>""}}, {"id"=>"10000508", "label"=>{"german"=>"Berufliche Grundbildung", "french"=>"Formation professionnelle initiale", "italian"=>"Formazione professionale di base", "english"=>""}, "name"=>{"german"=>"Berufliche Grundbildung", "french"=>"Formation professionnelle initiale", "italian"=>"Formazione professionale di base", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000508",
+  "name": {
+    "german": "Berufliche Grundbildung",
+    "french": "Formation professionnelle initiale",
+    "italian": "Formazione professionale di base",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 71",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7243997",
+      "surname": "Haldemann",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 25498",
+      "function": {
+        "german": "Leiter Berufliche Grundbildung Bundesverwaltung",
+        "french": "Leiter Berufliche Grundbildung Bundesverwaltung",
+        "italian": "Leiter Berufliche Grundbildung Bundesverwaltung",
+        "english": "Leiter Berufliche Grundbildung BVerw"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3597412",
+      "surname": "Meienberg",
+      "givenName": "David",
+      "email": null,
+      "phone": "+41 58 46 50979",
+      "function": {
+        "german": "Spezialist Berufliche Grundbildung und Stellvertreter Leiter Berufliche Grundbildung Bundesverwaltung",
+        "french": "Spezialist Berufliche Grundbildung und Stellvertreter Leiter Berufliche Grundbildung Bundesverwaltung",
+        "italian": "Spezialist Berufliche Grundbildung und Stellvertreter Leiter Berufliche Grundbildung Bundesverwaltung",
+        "english": "Spezialist Berufl. Grundbild. und Stv RL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9653535",
+      "surname": "Vincent Hofer",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 34529",
+      "function": {
+        "german": "Spezialistin Berufliche Grundbildung",
+        "french": "Spezialistin Berufliche Grundbildung",
+        "italian": "Spezialistin Berufliche Grundbildung",
+        "english": "Spezialistin Berufliche Grundbildung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6868708",
+      "surname": "von Ballmoos",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 58 46 11952",
+      "function": {
+        "german": "Spezialistin Berufliche Grundbildung",
+        "french": "Spezialistin Berufliche Grundbildung",
+        "italian": "Spezialistin Berufliche Grundbildung",
+        "english": "Spezialistin Berufliche Grundbildung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000034",
+      "label": {
+        "german": "EPA",
+        "french": "OFPER",
+        "italian": "UFPER",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Personalamt",
+        "french": "Office fédéral du personnel",
+        "italian": "Ufficio federale del personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001850",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000494",
+      "label": {
+        "german": "Grundlagenentwicklung und Ausbildungszentrum",
+        "french": "Développement des bases et centre de formation",
+        "italian": "Sviluppo delle basi e Centro di formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Grundlagenentwicklung und Ausbildungszentrum",
+        "french": "Développement des bases et centre de formation",
+        "italian": "Sviluppo delle basi e Centro di formazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000508",
+      "label": {
+        "german": "Berufliche Grundbildung",
+        "french": "Formation professionnelle initiale",
+        "italian": "Formazione professionale di base",
+        "english": ""
+      },
+      "name": {
+        "german": "Berufliche Grundbildung",
+        "french": "Formation professionnelle initiale",
+        "italian": "Formazione professionale di base",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

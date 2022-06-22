@@ -1,1 +1,291 @@
-{"id"=>"10002438", "name"=>{"german"=>"Direktionsbereich Zentrale Dienste", "french"=>"Domaine de direction Services centraux", "italian"=>"Ambito direzionale Servizi centrali", "english"=>""}, "nameAbbr"=>{"german"=>"ZD", "french"=>"ZD", "italian"=>"ZD", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"+41584635152", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20006127", "name"=>{"german"=>"FB Rechtsinformatik", "french"=>"Unité Informatique juridique", "italian"=>"Settore Informatica del diritto", "english"=>""}, "nameAbbr"=>{"german"=>"RI", "french"=>"RI", "italian"=>"RI", "english"=>""}}, {"id"=>"20022502", "name"=>{"german"=>"FB Human Resources", "french"=>"Unité Ressources humaines", "italian"=>"Settore Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"HR", "french"=>"HR", "italian"=>"HR", "english"=>""}}, {"id"=>"20021308", "name"=>{"german"=>"FB Finanzen und Controlling", "french"=>"Unité Finances et controlling", "italian"=>"Settore Finanze e controlling", "english"=>""}, "nameAbbr"=>{"german"=>"FICO", "french"=>"FICO", "italian"=>"FICO", "english"=>""}}, {"id"=>"10002440", "name"=>{"german"=>"FB Informatik", "french"=>"Unité Informatique", "italian"=>"Settore Informatica", "english"=>""}, "nameAbbr"=>{"german"=>"IT", "french"=>"IT", "italian"=>"IT", "english"=>""}}, {"id"=>"20048852", "name"=>{"german"=>"FB Logistik und Sicherheit", "french"=>"Unité Logistique et sécurité", "italian"=>"Settore Logistica e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"LS", "french"=>"LS", "italian"=>"LS", "english"=>""}}, {"id"=>"20021393", "name"=>{"german"=>"FB Sprachdienst Französisch", "french"=>"Unité Service linguistique français", "italian"=>"Settore Servizio linguistico francese", "english"=>""}, "nameAbbr"=>{"german"=>"SLF", "french"=>"SLF", "italian"=>"SLF", "english"=>""}}, {"id"=>"20000880", "name"=>{"german"=>"FB Gever Services", "french"=>"Unité Gever Services", "italian"=>"Settore Gever Services", "english"=>""}, "nameAbbr"=>{"german"=>"GESE", "french"=>"GESE", "italian"=>"GESE", "english"=>""}}, {"id"=>"20000881", "name"=>{"german"=>"FB Trova Services", "french"=>"Unité Trova Services", "italian"=>"Settore Trova Services", "english"=>""}, "nameAbbr"=>{"german"=>"TS", "french"=>"TS", "italian"=>"TS", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4848634", "surname"=>"Gruber", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 24135", "function"=>{"german"=>"Chef ZD, Vizedirektor", "french"=>"Chef ZD, Sous-directeur", "italian"=>"Capo ZD, Vicedirettore", "english"=>"Chef ZD, Vizedirektor"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2767325", "surname"=>"Holenstein", "givenName"=>"Urs Paul", "email"=>nil, "phone"=>"+41 58 46 35336", "function"=>{"german"=>"Chef RI  / Stv. Chef ZD", "french"=>"Chef RI  / Chef suppléant ZD", "italian"=>"Capo RI  / Capo supplente ZD", "english"=>"Chef RI  / Stv. Chef ZD"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002438", "label"=>{"german"=>"ZD", "french"=>"ZD", "italian"=>"ZD", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Zentrale Dienste", "french"=>"Domaine de direction Services centraux", "italian"=>"Ambito direzionale Servizi centrali", "english"=>""}}], "contactPoints"=>[{"id"=>172, "name"=>{"german"=>"Bibliothek", "french"=>"Bibliothèque", "italian"=>"Biblioteca", "english"=>""}, "email"=>nil, "phone"=>"+41 58 462 41 42", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "10002438",
+  "name": {
+    "german": "Direktionsbereich Zentrale Dienste",
+    "french": "Domaine de direction Services centraux",
+    "italian": "Ambito direzionale Servizi centrali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ZD",
+    "french": "ZD",
+    "italian": "ZD",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "+41584635152",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20006127",
+      "name": {
+        "german": "FB Rechtsinformatik",
+        "french": "Unité Informatique juridique",
+        "italian": "Settore Informatica del diritto",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RI",
+        "french": "RI",
+        "italian": "RI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022502",
+      "name": {
+        "german": "FB Human Resources",
+        "french": "Unité Ressources humaines",
+        "italian": "Settore Risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "HR",
+        "french": "HR",
+        "italian": "HR",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021308",
+      "name": {
+        "german": "FB Finanzen und Controlling",
+        "french": "Unité Finances et controlling",
+        "italian": "Settore Finanze e controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "FICO",
+        "french": "FICO",
+        "italian": "FICO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002440",
+      "name": {
+        "german": "FB Informatik",
+        "french": "Unité Informatique",
+        "italian": "Settore Informatica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "IT",
+        "french": "IT",
+        "italian": "IT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048852",
+      "name": {
+        "german": "FB Logistik und Sicherheit",
+        "french": "Unité Logistique et sécurité",
+        "italian": "Settore Logistica e sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "LS",
+        "french": "LS",
+        "italian": "LS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021393",
+      "name": {
+        "german": "FB Sprachdienst Französisch",
+        "french": "Unité Service linguistique français",
+        "italian": "Settore Servizio linguistico francese",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SLF",
+        "french": "SLF",
+        "italian": "SLF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000880",
+      "name": {
+        "german": "FB Gever Services",
+        "french": "Unité Gever Services",
+        "italian": "Settore Gever Services",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GESE",
+        "french": "GESE",
+        "italian": "GESE",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000881",
+      "name": {
+        "german": "FB Trova Services",
+        "french": "Unité Trova Services",
+        "italian": "Settore Trova Services",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TS",
+        "french": "TS",
+        "italian": "TS",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4848634",
+      "surname": "Gruber",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 24135",
+      "function": {
+        "german": "Chef ZD, Vizedirektor",
+        "french": "Chef ZD, Sous-directeur",
+        "italian": "Capo ZD, Vicedirettore",
+        "english": "Chef ZD, Vizedirektor"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2767325",
+      "surname": "Holenstein",
+      "givenName": "Urs Paul",
+      "email": null,
+      "phone": "+41 58 46 35336",
+      "function": {
+        "german": "Chef RI  / Stv. Chef ZD",
+        "french": "Chef RI  / Chef suppléant ZD",
+        "italian": "Capo RI  / Capo supplente ZD",
+        "english": "Chef RI  / Stv. Chef ZD"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002438",
+      "label": {
+        "german": "ZD",
+        "french": "ZD",
+        "italian": "ZD",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Zentrale Dienste",
+        "french": "Domaine de direction Services centraux",
+        "italian": "Ambito direzionale Servizi centrali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 172,
+      "name": {
+        "german": "Bibliothek",
+        "french": "Bibliothèque",
+        "italian": "Biblioteca",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 462 41 42",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

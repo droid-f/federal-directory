@@ -1,1 +1,169 @@
-{"id"=>"20018079", "name"=>{"german"=>"Providermanagement", "french"=>"Gestion des fournisseurs", "italian"=>"Gestione dei provider", "english"=>""}, "nameAbbr"=>{"german"=>"PRM", "french"=>"PRM", "italian"=>"PRM", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9746163", "surname"=>"Suter", "givenName"=>"Alexandre", "email"=>nil, "phone"=>"+41 58 46 53081", "function"=>{"german"=>"BL PRM", "french"=>"BL PRM", "italian"=>"BL PRM", "english"=>"BL PRM"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7204163", "surname"=>"Chavanne", "givenName"=>"Jean-Pascal", "email"=>nil, "phone"=>"+41 58 46 30119", "function"=>{"german"=>"Senior Telekomingenieur/in Rechtsetzung", "french"=>"Senior Telekomingenieur/in Rechtsetzung", "italian"=>"Senior Telekomingenieur/in Rechtsetzung", "english"=>"Senior Telekomingenieur/in Rechtsetzung"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009470", "label"=>{"german"=>"ISC-EJPD", "french"=>"CSI-DFJP", "italian"=>"CSI-DFGP", "english"=>""}, "name"=>{"german"=>"Informatik Service Center ISC-EJPD", "french"=>"Centre de services informatiques CSI-DFJP", "italian"=>"Centro servizi informatici CSI-DFGP", "english"=>""}}, {"id"=>"20015186", "label"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20018076", "label"=>{"german"=>"ÜPF", "french"=>"ÜPF", "italian"=>"ÜPF", "english"=>""}, "name"=>{"german"=>"Dienst Überwachung Post- und Fernmeldeverkehr", "french"=>"Service Surveillance de la correspondance par poste et télécommunication", "italian"=>"Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni", "english"=>""}}, {"id"=>"20018079", "label"=>{"german"=>"PRM", "french"=>"PRM", "italian"=>"PRM", "english"=>""}, "name"=>{"german"=>"Providermanagement", "french"=>"Gestion des fournisseurs", "italian"=>"Gestione dei provider", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018079",
+  "name": {
+    "german": "Providermanagement",
+    "french": "Gestion des fournisseurs",
+    "italian": "Gestione dei provider",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "PRM",
+    "french": "PRM",
+    "italian": "PRM",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9746163",
+      "surname": "Suter",
+      "givenName": "Alexandre",
+      "email": null,
+      "phone": "+41 58 46 53081",
+      "function": {
+        "german": "BL PRM",
+        "french": "BL PRM",
+        "italian": "BL PRM",
+        "english": "BL PRM"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7204163",
+      "surname": "Chavanne",
+      "givenName": "Jean-Pascal",
+      "email": null,
+      "phone": "+41 58 46 30119",
+      "function": {
+        "german": "Senior Telekomingenieur/in Rechtsetzung",
+        "french": "Senior Telekomingenieur/in Rechtsetzung",
+        "italian": "Senior Telekomingenieur/in Rechtsetzung",
+        "english": "Senior Telekomingenieur/in Rechtsetzung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009470",
+      "label": {
+        "german": "ISC-EJPD",
+        "french": "CSI-DFJP",
+        "italian": "CSI-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik Service Center ISC-EJPD",
+        "french": "Centre de services informatiques CSI-DFJP",
+        "italian": "Centro servizi informatici CSI-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015186",
+      "label": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018076",
+      "label": {
+        "german": "ÜPF",
+        "french": "ÜPF",
+        "italian": "ÜPF",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst Überwachung Post- und Fernmeldeverkehr",
+        "french": "Service Surveillance de la correspondance par poste et télécommunication",
+        "italian": "Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018079",
+      "label": {
+        "german": "PRM",
+        "french": "PRM",
+        "italian": "PRM",
+        "english": ""
+      },
+      "name": {
+        "german": "Providermanagement",
+        "french": "Gestion des fournisseurs",
+        "italian": "Gestione dei provider",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

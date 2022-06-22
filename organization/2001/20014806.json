@@ -1,1 +1,168 @@
-{"id"=>"20014806", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20033693", "name"=>{"german"=>"Personalentwicklung/Berufsbildung", "french"=>"Développement du personnel", "italian"=>"Sviluppo del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20036526", "name"=>{"german"=>"HR Services + Support", "french"=>"HR Services & Support / formation profes", "italian"=>"HR Services & Support / formazione profe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048952", "name"=>{"german"=>"Scan-Center", "french"=>"Suppl. Secrétaire général/e", "italian"=>"Suppl. Segretario/a generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7267229", "surname"=>"Rielle La Bella", "givenName"=>"Stephanie", "email"=>nil, "phone"=>"+41 58 46 52705", "function"=>{"german"=>"Generalsekretär/in", "french"=>"Secrétaire général/e", "italian"=>"Segretario/a generale", "english"=>"Generalsekretär/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1455630", "surname"=>"Facchin", "givenName"=>"Mirco", "email"=>nil, "phone"=>"+41 58 46 52535", "function"=>{"german"=>"Personalbereichsleiter/in", "french"=>"Resp. du domaine du personnel", "italian"=>"Caposett. Servizio del personale", "english"=>"Personalbereichsleiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20010731", "label"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}}, {"id"=>"20014806", "label"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014806",
+  "name": {
+    "german": "Human Resources",
+    "french": "Ressources humaines",
+    "italian": "Risorse umane",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20033693",
+      "name": {
+        "german": "Personalentwicklung/Berufsbildung",
+        "french": "Développement du personnel",
+        "italian": "Sviluppo del personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036526",
+      "name": {
+        "german": "HR Services + Support",
+        "french": "HR Services & Support / formation profes",
+        "italian": "HR Services & Support / formazione profe",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048952",
+      "name": {
+        "german": "Scan-Center",
+        "french": "Suppl. Secrétaire général/e",
+        "italian": "Suppl. Segretario/a generale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7267229",
+      "surname": "Rielle La Bella",
+      "givenName": "Stephanie",
+      "email": null,
+      "phone": "+41 58 46 52705",
+      "function": {
+        "german": "Generalsekretär/in",
+        "french": "Secrétaire général/e",
+        "italian": "Segretario/a generale",
+        "english": "Generalsekretär/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1455630",
+      "surname": "Facchin",
+      "givenName": "Mirco",
+      "email": null,
+      "phone": "+41 58 46 52535",
+      "function": {
+        "german": "Personalbereichsleiter/in",
+        "french": "Resp. du domaine du personnel",
+        "italian": "Caposett. Servizio del personale",
+        "english": "Personalbereichsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010731",
+      "label": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014806",
+      "label": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

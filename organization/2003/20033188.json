@@ -1,1 +1,208 @@
-{"id"=>"20033188", "name"=>{"german"=>"Staatsanwälte WIKRI Bern", "french"=>"Procureurs fédéraux WIKRI Berne", "italian"=>"Procuratori federali WIKRI Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-0953736", "surname"=>"Beckers", "givenName"=>"Simone", "email"=>nil, "phone"=>"+41 58 48 36375", "function"=>{"german"=>"Staatsanwalt des Bundes / Verantwortlicher Allg. Wirtschaftskriminalität", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3857656", "surname"=>"de Chambrier", "givenName"=>"Alice", "email"=>nil, "phone"=>"+41 58 46 25044", "function"=>{"german"=>"Staatsanwältin des Bundes", "french"=>"Procureure fédérale", "italian"=>"Procuratrice federale", "english"=>"Staatsanwältin des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2183461", "surname"=>"Eichenberger", "givenName"=>"René", "email"=>nil, "phone"=>"+41 58 46 20664", "function"=>{"german"=>"Staatsanwalt des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3616798", "surname"=>"Kohler", "givenName"=>"Diane", "email"=>nil, "phone"=>"+41 58 46 24503", "function"=>{"german"=>"Staatsanwalt des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwältin des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0102931", "surname"=>"Köhli", "givenName"=>"Urs", "email"=>nil, "phone"=>"+41 58 46 48625", "function"=>{"german"=>"Staatsanwalt des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8382721", "surname"=>"Pfister", "givenName"=>"Werner", "email"=>nil, "phone"=>"+41 58 46 58009", "function"=>{"german"=>"Staatsanwalt des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20009577", "label"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}, "name"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}}, {"id"=>"20039704", "label"=>{"german"=>"WIKRI Standort Bern", "french"=>"WIKRI Site de Berne", "italian"=>"WIKRI Sede di Berna", "english"=>""}, "name"=>{"german"=>"WIKRI Standort Bern", "french"=>"WIKRI Site de Berne", "italian"=>"WIKRI Sede di Berna", "english"=>""}}, {"id"=>"20033188", "label"=>{"german"=>"Staatsanwälte WIKRI Bern", "french"=>"Procureurs fédéraux WIKRI Berne", "italian"=>"Procuratori federali WIKRI Berna", "english"=>""}, "name"=>{"german"=>"Staatsanwälte WIKRI Bern", "french"=>"Procureurs fédéraux WIKRI Berne", "italian"=>"Procuratori federali WIKRI Berna", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20033188",
+  "name": {
+    "german": "Staatsanwälte WIKRI Bern",
+    "french": "Procureurs fédéraux WIKRI Berne",
+    "italian": "Procuratori federali WIKRI Berna",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-0953736",
+      "surname": "Beckers",
+      "givenName": "Simone",
+      "email": null,
+      "phone": "+41 58 48 36375",
+      "function": {
+        "german": "Staatsanwalt des Bundes / Verantwortlicher Allg. Wirtschaftskriminalität",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3857656",
+      "surname": "de Chambrier",
+      "givenName": "Alice",
+      "email": null,
+      "phone": "+41 58 46 25044",
+      "function": {
+        "german": "Staatsanwältin des Bundes",
+        "french": "Procureure fédérale",
+        "italian": "Procuratrice federale",
+        "english": "Staatsanwältin des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2183461",
+      "surname": "Eichenberger",
+      "givenName": "René",
+      "email": null,
+      "phone": "+41 58 46 20664",
+      "function": {
+        "german": "Staatsanwalt des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3616798",
+      "surname": "Kohler",
+      "givenName": "Diane",
+      "email": null,
+      "phone": "+41 58 46 24503",
+      "function": {
+        "german": "Staatsanwalt des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwältin des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0102931",
+      "surname": "Köhli",
+      "givenName": "Urs",
+      "email": null,
+      "phone": "+41 58 46 48625",
+      "function": {
+        "german": "Staatsanwalt des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8382721",
+      "surname": "Pfister",
+      "givenName": "Werner",
+      "email": null,
+      "phone": "+41 58 46 58009",
+      "function": {
+        "german": "Staatsanwalt des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009577",
+      "label": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039704",
+      "label": {
+        "german": "WIKRI Standort Bern",
+        "french": "WIKRI Site de Berne",
+        "italian": "WIKRI Sede di Berna",
+        "english": ""
+      },
+      "name": {
+        "german": "WIKRI Standort Bern",
+        "french": "WIKRI Site de Berne",
+        "italian": "WIKRI Sede di Berna",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033188",
+      "label": {
+        "german": "Staatsanwälte WIKRI Bern",
+        "french": "Procureurs fédéraux WIKRI Berne",
+        "italian": "Procuratori federali WIKRI Berna",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatsanwälte WIKRI Bern",
+        "french": "Procureurs fédéraux WIKRI Berne",
+        "italian": "Procuratori federali WIKRI Berna",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

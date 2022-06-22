@@ -1,1 +1,198 @@
-{"id"=>"20025060", "name"=>{"german"=>"Steuern", "french"=>"Fiscalité", "italian"=>"Fiscalità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046709", "name"=>{"german"=>"Bilat. Steuerfragen u. Doppelbesteuerung", "french"=>"Quest. fisc. bilat. et conv. doubl. impo", "italian"=>"Quest. fisc. bilat. et conv. doppie impo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025061", "name"=>{"german"=>"Unternehmenssteuerpolitik", "french"=>"Politique fiscale des entreprises", "italian"=>"Politica fiscale delle società", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030203", "name"=>{"german"=>"Informationsaustausch und Individualbesteuerung", "french"=>"Echange de renseignements et fiscalité des personnes physiques", "italian"=>"Scambio d'informazioni e imposizione delle persone fisiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6352713", "surname"=>"Pfammatter", "givenName"=>"Tamara", "email"=>nil, "phone"=>"+41 58 48 19343", "function"=>{"german"=>"Leiter/in Steuern, Botschafter/in", "french"=>"Leiter/in Steuern", "italian"=>"Leiter/in Steuern", "english"=>"Leiter/in Steuern"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1628477", "surname"=>"Sahgal", "givenName"=>"Rahul", "email"=>nil, "phone"=>"+41 58 48 14587", "function"=>{"german"=>"Stv. Leiter/in Steuern, Botschafter/in", "french"=>"Stv. Abteilungsleiter/in Steuern", "italian"=>"Stv. Abteilungsleiter/in Steuern", "english"=>"Stv. Abteilungsleiter/in Steuern"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"20025051", "label"=>{"german"=>"SIF", "french"=>"SFI", "italian"=>"SFI", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für internationale Finanzfragen", "french"=>"Secrétariat d'Etat aux questions financières internationales", "italian"=>"Segreteria di Stato per le questioni finanziarie internazionali", "english"=>""}}, {"id"=>"20041505", "label"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}, "name"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}}, {"id"=>"20025060", "label"=>{"german"=>"Steuern", "french"=>"Fiscalité", "italian"=>"Fiscalità", "english"=>""}, "name"=>{"german"=>"Steuern", "french"=>"Fiscalité", "italian"=>"Fiscalità", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025060",
+  "name": {
+    "german": "Steuern",
+    "french": "Fiscalité",
+    "italian": "Fiscalità",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046709",
+      "name": {
+        "german": "Bilat. Steuerfragen u. Doppelbesteuerung",
+        "french": "Quest. fisc. bilat. et conv. doubl. impo",
+        "italian": "Quest. fisc. bilat. et conv. doppie impo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025061",
+      "name": {
+        "german": "Unternehmenssteuerpolitik",
+        "french": "Politique fiscale des entreprises",
+        "italian": "Politica fiscale delle società",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030203",
+      "name": {
+        "german": "Informationsaustausch und Individualbesteuerung",
+        "french": "Echange de renseignements et fiscalité des personnes physiques",
+        "italian": "Scambio d'informazioni e imposizione delle persone fisiche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6352713",
+      "surname": "Pfammatter",
+      "givenName": "Tamara",
+      "email": null,
+      "phone": "+41 58 48 19343",
+      "function": {
+        "german": "Leiter/in Steuern, Botschafter/in",
+        "french": "Leiter/in Steuern",
+        "italian": "Leiter/in Steuern",
+        "english": "Leiter/in Steuern"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1628477",
+      "surname": "Sahgal",
+      "givenName": "Rahul",
+      "email": null,
+      "phone": "+41 58 48 14587",
+      "function": {
+        "german": "Stv. Leiter/in Steuern, Botschafter/in",
+        "french": "Stv. Abteilungsleiter/in Steuern",
+        "italian": "Stv. Abteilungsleiter/in Steuern",
+        "english": "Stv. Abteilungsleiter/in Steuern"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025051",
+      "label": {
+        "german": "SIF",
+        "french": "SFI",
+        "italian": "SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für internationale Finanzfragen",
+        "french": "Secrétariat d'Etat aux questions financières internationales",
+        "italian": "Segreteria di Stato per le questioni finanziarie internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041505",
+      "label": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025060",
+      "label": {
+        "german": "Steuern",
+        "french": "Fiscalité",
+        "italian": "Fiscalità",
+        "english": ""
+      },
+      "name": {
+        "german": "Steuern",
+        "french": "Fiscalité",
+        "italian": "Fiscalità",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

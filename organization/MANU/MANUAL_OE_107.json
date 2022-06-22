@@ -1,1 +1,484 @@
-{"id"=>"MANUAL_OE_107", "name"=>{"german"=>"Mitglieder", "french"=>"Membres", "italian"=>"Membri", "english"=>""}, "nameAbbr"=>{"german"=>"Mitglieder", "french"=>"Mitglieder", "italian"=>"Mitglieder", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"MANUAL_OE_124", "name"=>{"german"=>"Kanton Aargau", "french"=>"Canton d'Argovie", "italian"=>"Cantone di Argovia", "english"=>""}, "nameAbbr"=>{"german"=>"AG", "french"=>"AG", "italian"=>"AG", "english"=>""}}, {"id"=>"MANUAL_OE_133", "name"=>{"german"=>"Kanton Appenzell A.-Rh.", "french"=>"Canton d'Appenzell Rh.-Ext.", "italian"=>"Cantone di Appenzello Esterno", "english"=>""}, "nameAbbr"=>{"german"=>"AR", "french"=>"AR", "italian"=>"AR", "english"=>""}}, {"id"=>"MANUAL_OE_111", "name"=>{"german"=>"Kanton Appenzell I.-Rh.", "french"=>"Canton d'Appenzell Rh.-Int.", "italian"=>"Cantone di Appenzello Interno", "english"=>""}, "nameAbbr"=>{"german"=>"AI", "french"=>"AI", "italian"=>"AI", "english"=>""}}, {"id"=>"MANUAL_OE_116", "name"=>{"german"=>"Kanton Basel-Landschaft", "french"=>"Canton de Bâle-Campagne", "italian"=>"Cantone di Basilea Campagna", "english"=>""}, "nameAbbr"=>{"german"=>"BL", "french"=>"BL", "italian"=>"BL", "english"=>""}}, {"id"=>"MANUAL_OE_125", "name"=>{"german"=>"Kanton Basel-Stadt", "french"=>"Canton de Bâle-Ville", "italian"=>"Cantone di Basilea Città", "english"=>""}, "nameAbbr"=>{"german"=>"BS", "french"=>"BS", "italian"=>"BS", "english"=>""}}, {"id"=>"MANUAL_OE_110", "name"=>{"german"=>"Kanton Bern", "french"=>"Canton de Berne", "italian"=>"Cantone di Berna", "english"=>""}, "nameAbbr"=>{"german"=>"BE", "french"=>"BE", "italian"=>"BE", "english"=>""}}, {"id"=>"MANUAL_OE_120", "name"=>{"german"=>"Kanton Freiburg", "french"=>"Canton de Fribourg", "italian"=>"Cantone di Friburgo", "english"=>""}, "nameAbbr"=>{"german"=>"FR", "french"=>"FR", "italian"=>"FR", "english"=>""}}, {"id"=>"MANUAL_OE_131", "name"=>{"german"=>"Kanton Genf", "french"=>"Canton de Genève", "italian"=>"Cantone di Ginevra", "english"=>""}, "nameAbbr"=>{"german"=>"GE", "french"=>"GE", "italian"=>"GE", "english"=>""}}, {"id"=>"MANUAL_OE_113", "name"=>{"german"=>"Kanton Glarus", "french"=>"Canton de Glaris", "italian"=>"Cantone di Glarona", "english"=>""}, "nameAbbr"=>{"german"=>"GL", "french"=>"GL", "italian"=>"GL", "english"=>""}}, {"id"=>"MANUAL_OE_119", "name"=>{"german"=>"Kanton Graubünden", "french"=>"Canton des Grisons", "italian"=>"Cantone dei Grigioni", "english"=>""}, "nameAbbr"=>{"german"=>"GR", "french"=>"GR", "italian"=>"GR", "english"=>""}}, {"id"=>"MANUAL_OE_118", "name"=>{"german"=>"Kanton Jura", "french"=>"Canton du Jura", "italian"=>"Cantone del Giura", "english"=>""}, "nameAbbr"=>{"german"=>"JU", "french"=>"JU", "italian"=>"JU", "english"=>""}}, {"id"=>"MANUAL_OE_122", "name"=>{"german"=>"Kanton Luzern", "french"=>"Canton de Lucerne", "italian"=>"Cantone di Lucerna", "english"=>""}, "nameAbbr"=>{"german"=>"LU", "french"=>"LU", "italian"=>"LU", "english"=>""}}, {"id"=>"MANUAL_OE_129", "name"=>{"german"=>"Kanton Neuenburg", "french"=>"Canton de Neuchâtel", "italian"=>"Cantone di Neuchâtel", "english"=>""}, "nameAbbr"=>{"german"=>"NE", "french"=>"NE", "italian"=>"NE", "english"=>""}}, {"id"=>"MANUAL_OE_117", "name"=>{"german"=>"Kanton Schaffhausen", "french"=>"Canton de Schaffhouse", "italian"=>"Cantone di Sciaffusa", "english"=>""}, "nameAbbr"=>{"german"=>"SH", "french"=>"SH", "italian"=>"SH", "english"=>""}}, {"id"=>"MANUAL_OE_123", "name"=>{"german"=>"Kanton Schwyz", "french"=>"Canton de Schwyz", "italian"=>"Cantone di Svitto", "english"=>""}, "nameAbbr"=>{"german"=>"SZ", "french"=>"SZ", "italian"=>"SZ", "english"=>""}}, {"id"=>"MANUAL_OE_121", "name"=>{"german"=>"Kanton Solothurn", "french"=>"Canton de Soleure", "italian"=>"Cantone di Soletta", "english"=>""}, "nameAbbr"=>{"german"=>"SO", "french"=>"SO", "italian"=>"SO", "english"=>""}}, {"id"=>"MANUAL_OE_127", "name"=>{"german"=>"Kanton St. Gallen", "french"=>"Canton de Saint-Gall", "italian"=>"Cantone di San Gallo", "english"=>""}, "nameAbbr"=>{"german"=>"SG", "french"=>"SG", "italian"=>"SG", "english"=>""}}, {"id"=>"MANUAL_OE_128", "name"=>{"german"=>"Kanton Tessin", "french"=>"Canton du Tessin", "italian"=>"Cantone Ticino", "english"=>""}, "nameAbbr"=>{"german"=>"TI", "french"=>"TI", "italian"=>"TI", "english"=>""}}, {"id"=>"MANUAL_OE_115", "name"=>{"german"=>"Kanton Thurgau", "french"=>"Canton de Thurgovie", "italian"=>"Cantone di Turgovia", "english"=>""}, "nameAbbr"=>{"german"=>"TG", "french"=>"TG", "italian"=>"TG", "english"=>""}}, {"id"=>"MANUAL_OE_109", "name"=>{"german"=>"Kanton Unterwalden nid dem Wald", "french"=>"Canton d'Unterwald-le-Bas", "italian"=>"Cantone di Untervaldo Sottoselva", "english"=>""}, "nameAbbr"=>{"german"=>"NW", "french"=>"NW", "italian"=>"NW", "english"=>""}}, {"id"=>"MANUAL_OE_134", "name"=>{"german"=>"Kanton Unterwalden ob dem Wald", "french"=>"Canton d'Unterwald-le-Haut", "italian"=>"Cantone di Untervaldo Soprasselva", "english"=>""}, "nameAbbr"=>{"german"=>"OW", "french"=>"OW", "italian"=>"OW", "english"=>""}}, {"id"=>"MANUAL_OE_126", "name"=>{"german"=>"Kanton Uri", "french"=>"Canton d'Uri", "italian"=>"Cantone di Uri", "english"=>""}, "nameAbbr"=>{"german"=>"UR", "french"=>"UR", "italian"=>"UR", "english"=>""}}, {"id"=>"MANUAL_OE_112", "name"=>{"german"=>"Kanton Waadt", "french"=>"Canton de Vaud", "italian"=>"Cantone di Vaud", "english"=>""}, "nameAbbr"=>{"german"=>"VD", "french"=>"VD", "italian"=>"VD", "english"=>""}}, {"id"=>"MANUAL_OE_130", "name"=>{"german"=>"Kanton Wallis", "french"=>"Canton du Valais", "italian"=>"Cantone del Vallese", "english"=>""}, "nameAbbr"=>{"german"=>"VS", "french"=>"VS", "italian"=>"VS", "english"=>""}}, {"id"=>"MANUAL_OE_114", "name"=>{"german"=>"Kanton Zug", "french"=>"Canton de Zoug", "italian"=>"Cantone di Zugo", "english"=>""}, "nameAbbr"=>{"german"=>"ZG", "french"=>"ZG", "italian"=>"ZG", "english"=>""}}, {"id"=>"MANUAL_OE_132", "name"=>{"german"=>"Kanton Zürich", "french"=>"Canton de Zurich", "italian"=>"Cantone di Zurigo", "english"=>""}, "nameAbbr"=>{"german"=>"ZH", "french"=>"ZH", "italian"=>"ZH", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"MANUAL_OE_2", "label"=>{"german"=>"BV", "french"=>"BV", "italian"=>"BV", "english"=>""}, "name"=>{"german"=>"Bundesversammlung", "french"=>"Assemblée fédérale", "italian"=>"Assemblea federale", "english"=>""}}, {"id"=>"MANUAL_OE_3", "label"=>{"german"=>"NR", "french"=>"NR", "italian"=>"NR", "english"=>""}, "name"=>{"german"=>"Nationalrat", "french"=>"Conseil national", "italian"=>"Consiglio nazionale", "english"=>""}}, {"id"=>"MANUAL_OE_107", "label"=>{"german"=>"Mitglieder", "french"=>"Mitglieder", "italian"=>"Mitglieder", "english"=>""}, "name"=>{"german"=>"Mitglieder", "french"=>"Membres", "italian"=>"Membri", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "MANUAL_OE_107",
+  "name": {
+    "german": "Mitglieder",
+    "french": "Membres",
+    "italian": "Membri",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "Mitglieder",
+    "french": "Mitglieder",
+    "italian": "Mitglieder",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "MANUAL_OE_124",
+      "name": {
+        "german": "Kanton Aargau",
+        "french": "Canton d'Argovie",
+        "italian": "Cantone di Argovia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "AG",
+        "french": "AG",
+        "italian": "AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_133",
+      "name": {
+        "german": "Kanton Appenzell A.-Rh.",
+        "french": "Canton d'Appenzell Rh.-Ext.",
+        "italian": "Cantone di Appenzello Esterno",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "AR",
+        "french": "AR",
+        "italian": "AR",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_111",
+      "name": {
+        "german": "Kanton Appenzell I.-Rh.",
+        "french": "Canton d'Appenzell Rh.-Int.",
+        "italian": "Cantone di Appenzello Interno",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "AI",
+        "french": "AI",
+        "italian": "AI",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_116",
+      "name": {
+        "german": "Kanton Basel-Landschaft",
+        "french": "Canton de Bâle-Campagne",
+        "italian": "Cantone di Basilea Campagna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BL",
+        "french": "BL",
+        "italian": "BL",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_125",
+      "name": {
+        "german": "Kanton Basel-Stadt",
+        "french": "Canton de Bâle-Ville",
+        "italian": "Cantone di Basilea Città",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BS",
+        "french": "BS",
+        "italian": "BS",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_110",
+      "name": {
+        "german": "Kanton Bern",
+        "french": "Canton de Berne",
+        "italian": "Cantone di Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BE",
+        "french": "BE",
+        "italian": "BE",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_120",
+      "name": {
+        "german": "Kanton Freiburg",
+        "french": "Canton de Fribourg",
+        "italian": "Cantone di Friburgo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "FR",
+        "french": "FR",
+        "italian": "FR",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_131",
+      "name": {
+        "german": "Kanton Genf",
+        "french": "Canton de Genève",
+        "italian": "Cantone di Ginevra",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GE",
+        "french": "GE",
+        "italian": "GE",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_113",
+      "name": {
+        "german": "Kanton Glarus",
+        "french": "Canton de Glaris",
+        "italian": "Cantone di Glarona",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GL",
+        "french": "GL",
+        "italian": "GL",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_119",
+      "name": {
+        "german": "Kanton Graubünden",
+        "french": "Canton des Grisons",
+        "italian": "Cantone dei Grigioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "GR",
+        "french": "GR",
+        "italian": "GR",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_118",
+      "name": {
+        "german": "Kanton Jura",
+        "french": "Canton du Jura",
+        "italian": "Cantone del Giura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "JU",
+        "french": "JU",
+        "italian": "JU",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_122",
+      "name": {
+        "german": "Kanton Luzern",
+        "french": "Canton de Lucerne",
+        "italian": "Cantone di Lucerna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "LU",
+        "french": "LU",
+        "italian": "LU",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_129",
+      "name": {
+        "german": "Kanton Neuenburg",
+        "french": "Canton de Neuchâtel",
+        "italian": "Cantone di Neuchâtel",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "NE",
+        "french": "NE",
+        "italian": "NE",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_117",
+      "name": {
+        "german": "Kanton Schaffhausen",
+        "french": "Canton de Schaffhouse",
+        "italian": "Cantone di Sciaffusa",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SH",
+        "french": "SH",
+        "italian": "SH",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_123",
+      "name": {
+        "german": "Kanton Schwyz",
+        "french": "Canton de Schwyz",
+        "italian": "Cantone di Svitto",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SZ",
+        "french": "SZ",
+        "italian": "SZ",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_121",
+      "name": {
+        "german": "Kanton Solothurn",
+        "french": "Canton de Soleure",
+        "italian": "Cantone di Soletta",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SO",
+        "french": "SO",
+        "italian": "SO",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_127",
+      "name": {
+        "german": "Kanton St. Gallen",
+        "french": "Canton de Saint-Gall",
+        "italian": "Cantone di San Gallo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SG",
+        "french": "SG",
+        "italian": "SG",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_128",
+      "name": {
+        "german": "Kanton Tessin",
+        "french": "Canton du Tessin",
+        "italian": "Cantone Ticino",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TI",
+        "french": "TI",
+        "italian": "TI",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_115",
+      "name": {
+        "german": "Kanton Thurgau",
+        "french": "Canton de Thurgovie",
+        "italian": "Cantone di Turgovia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TG",
+        "french": "TG",
+        "italian": "TG",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_109",
+      "name": {
+        "german": "Kanton Unterwalden nid dem Wald",
+        "french": "Canton d'Unterwald-le-Bas",
+        "italian": "Cantone di Untervaldo Sottoselva",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "NW",
+        "french": "NW",
+        "italian": "NW",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_134",
+      "name": {
+        "german": "Kanton Unterwalden ob dem Wald",
+        "french": "Canton d'Unterwald-le-Haut",
+        "italian": "Cantone di Untervaldo Soprasselva",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "OW",
+        "french": "OW",
+        "italian": "OW",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_126",
+      "name": {
+        "german": "Kanton Uri",
+        "french": "Canton d'Uri",
+        "italian": "Cantone di Uri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "UR",
+        "french": "UR",
+        "italian": "UR",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_112",
+      "name": {
+        "german": "Kanton Waadt",
+        "french": "Canton de Vaud",
+        "italian": "Cantone di Vaud",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "VD",
+        "french": "VD",
+        "italian": "VD",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_130",
+      "name": {
+        "german": "Kanton Wallis",
+        "french": "Canton du Valais",
+        "italian": "Cantone del Vallese",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "VS",
+        "french": "VS",
+        "italian": "VS",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_114",
+      "name": {
+        "german": "Kanton Zug",
+        "french": "Canton de Zoug",
+        "italian": "Cantone di Zugo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZG",
+        "french": "ZG",
+        "italian": "ZG",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_132",
+      "name": {
+        "german": "Kanton Zürich",
+        "french": "Canton de Zurich",
+        "italian": "Cantone di Zurigo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZH",
+        "french": "ZH",
+        "italian": "ZH",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "MANUAL_OE_2",
+      "label": {
+        "german": "BV",
+        "french": "BV",
+        "italian": "BV",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesversammlung",
+        "french": "Assemblée fédérale",
+        "italian": "Assemblea federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_3",
+      "label": {
+        "german": "NR",
+        "french": "NR",
+        "italian": "NR",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationalrat",
+        "french": "Conseil national",
+        "italian": "Consiglio nazionale",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_107",
+      "label": {
+        "german": "Mitglieder",
+        "french": "Mitglieder",
+        "italian": "Mitglieder",
+        "english": ""
+      },
+      "name": {
+        "german": "Mitglieder",
+        "french": "Membres",
+        "italian": "Membri",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

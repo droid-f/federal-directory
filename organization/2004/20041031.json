@@ -1,1 +1,185 @@
-{"id"=>"20041031", "name"=>{"german"=>"Offerten Management", "french"=>"Offerten Management", "italian"=>"Offerten Management", "english"=>""}, "nameAbbr"=>{"german"=>"OFM", "french"=>"OFM", "italian"=>"OFM", "english"=>""}, "address"=>{"addressLine2"=>"Campus Meielen", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20047676", "name"=>{"german"=>"Externe Offerten Management", "french"=>"Externe Offerten Management", "italian"=>"Externe Offerten Management", "english"=>""}, "nameAbbr"=>{"german"=>"OFM", "french"=>"OFM", "italian"=>"OFM", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5368982", "surname"=>"Petersen", "givenName"=>"Björn", "email"=>nil, "phone"=>"+41 58 46 53462", "function"=>{"german"=>"Leiter/in Offerten Management", "french"=>"Leiter/in Offerten Management", "italian"=>"Leiter/in Offerten Management", "english"=>"Leiter/in Offerten Management"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008669", "label"=>{"german"=>"BIT", "french"=>"OFIT", "italian"=>"UFIT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Informatik und Telekommunikation", "french"=>"Office fédéral de l’informatique et de la télécommunication", "italian"=>"Ufficio federale dell'informatica e della telecomunicazione", "english"=>""}}, {"id"=>"20012388", "label"=>{"german"=>"DI", "french"=>"DI", "italian"=>"DI", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direktion", "italian"=>"Direktion", "english"=>""}}, {"id"=>"20047905", "label"=>{"german"=>"MS", "french"=>"MS", "italian"=>"MS", "english"=>""}, "name"=>{"german"=>"Management Services", "french"=>"Management Services", "italian"=>"Management Services", "english"=>""}}, {"id"=>"20034117", "label"=>{"german"=>"OPP", "french"=>"OPP", "italian"=>"OPP", "english"=>""}, "name"=>{"german"=>"Offering Portfolio und Proposal Management", "french"=>"Offering Portfolio und Proposal Management", "italian"=>"Offering Portfolio und Proposal Management", "english"=>""}}, {"id"=>"20041031", "label"=>{"german"=>"OFM", "french"=>"OFM", "italian"=>"OFM", "english"=>""}, "name"=>{"german"=>"Offerten Management", "french"=>"Offerten Management", "italian"=>"Offerten Management", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041031",
+  "name": {
+    "german": "Offerten Management",
+    "french": "Offerten Management",
+    "italian": "Offerten Management",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "OFM",
+    "french": "OFM",
+    "italian": "OFM",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Campus Meielen",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20047676",
+      "name": {
+        "german": "Externe Offerten Management",
+        "french": "Externe Offerten Management",
+        "italian": "Externe Offerten Management",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "OFM",
+        "french": "OFM",
+        "italian": "OFM",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5368982",
+      "surname": "Petersen",
+      "givenName": "Björn",
+      "email": null,
+      "phone": "+41 58 46 53462",
+      "function": {
+        "german": "Leiter/in Offerten Management",
+        "french": "Leiter/in Offerten Management",
+        "italian": "Leiter/in Offerten Management",
+        "english": "Leiter/in Offerten Management"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008669",
+      "label": {
+        "german": "BIT",
+        "french": "OFIT",
+        "italian": "UFIT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Informatik und Telekommunikation",
+        "french": "Office fédéral de l’informatique et de la télécommunication",
+        "italian": "Ufficio federale dell'informatica e della telecomunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012388",
+      "label": {
+        "german": "DI",
+        "french": "DI",
+        "italian": "DI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direktion",
+        "italian": "Direktion",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047905",
+      "label": {
+        "german": "MS",
+        "french": "MS",
+        "italian": "MS",
+        "english": ""
+      },
+      "name": {
+        "german": "Management Services",
+        "french": "Management Services",
+        "italian": "Management Services",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034117",
+      "label": {
+        "german": "OPP",
+        "french": "OPP",
+        "italian": "OPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Offering Portfolio und Proposal Management",
+        "french": "Offering Portfolio und Proposal Management",
+        "italian": "Offering Portfolio und Proposal Management",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041031",
+      "label": {
+        "german": "OFM",
+        "french": "OFM",
+        "italian": "OFM",
+        "english": ""
+      },
+      "name": {
+        "german": "Offerten Management",
+        "french": "Offerten Management",
+        "italian": "Offerten Management",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

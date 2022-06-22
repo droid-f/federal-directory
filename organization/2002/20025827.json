@@ -1,1 +1,234 @@
-{"id"=>"20025827", "name"=>{"german"=>"Berufliche Grundbildung", "french"=>"Formation professionnelle initiale", "italian"=>"Formazione professionale di base", "english"=>"Vocational Education and Training"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20025901", "name"=>{"german"=>"Lernende", "french"=>"Apprentis/es", "italian"=>"Apprendisti", "english"=>"Apprentices"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025902", "name"=>{"german"=>"Praktika", "french"=>"Stages", "italian"=>"Stage", "english"=>"Internships"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8924662", "surname"=>"Krebs", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 46 35802", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1823166", "surname"=>"Kobler Hammond", "givenName"=>"Regula", "email"=>nil, "phone"=>"+41 58 46 23222", "function"=>{"german"=>"HR-Spezialist/in", "french"=>"HR-Spezialist/in", "italian"=>"HR-Spezialist/in", "english"=>"HR-Spezialist/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0228716", "surname"=>"Gass", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 23356", "function"=>{"german"=>"HR-Spezialist/in", "french"=>"HR-Spezialist/in", "italian"=>"HR-Spezialist/in", "english"=>"HR-Spezialist/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"10000584", "label"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}, "name"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}}, {"id"=>"20000334", "label"=>{"german"=>"HR-Entwicklung", "french"=>"Développement RH", "italian"=>"Sviluppo RU", "english"=>"HR Development"}, "name"=>{"german"=>"HR-Entwicklung", "french"=>"Développement RH", "italian"=>"Sviluppo RU", "english"=>"HR Development"}}, {"id"=>"20000336", "label"=>{"german"=>"Bildung und Entwicklung", "french"=>"Formation et développement", "italian"=>"Formazione e sviluppo", "english"=>"Education and Development"}, "name"=>{"german"=>"Bildung und Entwicklung", "french"=>"Formation et développement", "italian"=>"Formazione e sviluppo", "english"=>"Education and Development"}}, {"id"=>"20025827", "label"=>{"german"=>"Berufliche Grundbildung", "french"=>"Formation professionnelle initiale", "italian"=>"Formazione professionale di base", "english"=>"Vocational Education and Training"}, "name"=>{"german"=>"Berufliche Grundbildung", "french"=>"Formation professionnelle initiale", "italian"=>"Formazione professionale di base", "english"=>"Vocational Education and Training"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025827",
+  "name": {
+    "german": "Berufliche Grundbildung",
+    "french": "Formation professionnelle initiale",
+    "italian": "Formazione professionale di base",
+    "english": "Vocational Education and Training"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20025901",
+      "name": {
+        "german": "Lernende",
+        "french": "Apprentis/es",
+        "italian": "Apprendisti",
+        "english": "Apprentices"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025902",
+      "name": {
+        "german": "Praktika",
+        "french": "Stages",
+        "italian": "Stage",
+        "english": "Internships"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8924662",
+      "surname": "Krebs",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 46 35802",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1823166",
+      "surname": "Kobler Hammond",
+      "givenName": "Regula",
+      "email": null,
+      "phone": "+41 58 46 23222",
+      "function": {
+        "german": "HR-Spezialist/in",
+        "french": "HR-Spezialist/in",
+        "italian": "HR-Spezialist/in",
+        "english": "HR-Spezialist/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0228716",
+      "surname": "Gass",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 23356",
+      "function": {
+        "german": "HR-Spezialist/in",
+        "french": "HR-Spezialist/in",
+        "italian": "HR-Spezialist/in",
+        "english": "HR-Spezialist/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "10000584",
+      "label": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      },
+      "name": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      }
+    },
+    {
+      "id": "20000334",
+      "label": {
+        "german": "HR-Entwicklung",
+        "french": "Développement RH",
+        "italian": "Sviluppo RU",
+        "english": "HR Development"
+      },
+      "name": {
+        "german": "HR-Entwicklung",
+        "french": "Développement RH",
+        "italian": "Sviluppo RU",
+        "english": "HR Development"
+      }
+    },
+    {
+      "id": "20000336",
+      "label": {
+        "german": "Bildung und Entwicklung",
+        "french": "Formation et développement",
+        "italian": "Formazione e sviluppo",
+        "english": "Education and Development"
+      },
+      "name": {
+        "german": "Bildung und Entwicklung",
+        "french": "Formation et développement",
+        "italian": "Formazione e sviluppo",
+        "english": "Education and Development"
+      }
+    },
+    {
+      "id": "20025827",
+      "label": {
+        "german": "Berufliche Grundbildung",
+        "french": "Formation professionnelle initiale",
+        "italian": "Formazione professionale di base",
+        "english": "Vocational Education and Training"
+      },
+      "name": {
+        "german": "Berufliche Grundbildung",
+        "french": "Formation professionnelle initiale",
+        "italian": "Formazione professionale di base",
+        "english": "Vocational Education and Training"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

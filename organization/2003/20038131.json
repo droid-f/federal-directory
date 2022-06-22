@@ -1,1 +1,230 @@
-{"id"=>"20038131", "name"=>{"german"=>"Erneuerung", "french"=>"Renouvellement", "italian"=>"Rinnovamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20038162", "name"=>{"german"=>"Stv C Erneuerung / BSC", "french"=>"Rempl C renouvellement", "italian"=>"Sost C rinnovamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20038160", "name"=>{"german"=>"Planung und Steuerung", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e gestione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20038161", "name"=>{"german"=>"Service Design", "french"=>"Service Design", "italian"=>"Service Design", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20038204", "name"=>{"german"=>"Service Entwicklung", "french"=>"Service développement", "italian"=>"Servizio sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20038203", "name"=>{"german"=>"Project Management", "french"=>"Project Management", "italian"=>"Project Management", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7229260", "surname"=>"Antoniolli", "givenName"=>"Luca Davide", "email"=>nil, "phone"=>"+41 58 48 36943", "function"=>{"german"=>"Chef/in Erneuerung", "french"=>"Chef renouvellement", "italian"=>"Capo rinnovamento", "english"=>"Chef/in Erneuerung"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"10009869", "label"=>{"german"=>"FUB", "french"=>"BAC", "italian"=>"BAC", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbasis", "french"=>"Base d'aide au commandement", "italian"=>"Base d'aiuto alla condotta", "english"=>""}}, {"id"=>"20038131", "label"=>{"german"=>"Erneuerung", "french"=>"Renouvellement", "italian"=>"Rinnovamento", "english"=>""}, "name"=>{"german"=>"Erneuerung", "french"=>"Renouvellement", "italian"=>"Rinnovamento", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038131",
+  "name": {
+    "german": "Erneuerung",
+    "french": "Renouvellement",
+    "italian": "Rinnovamento",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20038162",
+      "name": {
+        "german": "Stv C Erneuerung / BSC",
+        "french": "Rempl C renouvellement",
+        "italian": "Sost C rinnovamento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038160",
+      "name": {
+        "german": "Planung und Steuerung",
+        "french": "Planification et pilotage",
+        "italian": "Pianificazione e gestione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038161",
+      "name": {
+        "german": "Service Design",
+        "french": "Service Design",
+        "italian": "Service Design",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038204",
+      "name": {
+        "german": "Service Entwicklung",
+        "french": "Service développement",
+        "italian": "Servizio sviluppo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038203",
+      "name": {
+        "german": "Project Management",
+        "french": "Project Management",
+        "italian": "Project Management",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7229260",
+      "surname": "Antoniolli",
+      "givenName": "Luca Davide",
+      "email": null,
+      "phone": "+41 58 48 36943",
+      "function": {
+        "german": "Chef/in Erneuerung",
+        "french": "Chef renouvellement",
+        "italian": "Capo rinnovamento",
+        "english": "Chef/in Erneuerung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009869",
+      "label": {
+        "german": "FUB",
+        "french": "BAC",
+        "italian": "BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbasis",
+        "french": "Base d'aide au commandement",
+        "italian": "Base d'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038131",
+      "label": {
+        "german": "Erneuerung",
+        "french": "Renouvellement",
+        "italian": "Rinnovamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Erneuerung",
+        "french": "Renouvellement",
+        "italian": "Rinnovamento",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

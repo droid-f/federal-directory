@@ -1,1 +1,213 @@
-{"id"=>"20012269", "name"=>{"german"=>"Informations- und Dokumentationsservices", "french"=>"Services d'information et de documentation", "italian"=>"Servizi di informazione e documentazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 21 A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5414904", "surname"=>"Müller", "givenName"=>"Philippe Daniel", "email"=>nil, "phone"=>"+41 58 46 45095", "function"=>{"german"=>"Leiter/in Informations-/Dokumentationss", "french"=>"Leiter/in Informations-/Dokumentationss", "italian"=>"Leiter/in Informations-/Dokumentationss", "english"=>"Leiter/in Informations-/Dokumentationss"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4715255", "surname"=>"Albert", "givenName"=>"Cornelia", "email"=>nil, "phone"=>"+41 58 46 43827", "function"=>{"german"=>"Fachspezialist/in RMS/L Archivdienst VBS", "french"=>"Fachspezialist/in RMS/L Archivdienst VBS", "italian"=>"Fachspezialist/in RMS/L Archivdienst VBS", "english"=>"Fachspezialist/in RMS/L Archivdienst VBS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3069610", "surname"=>"Hadorn", "givenName"=>"Walter", "email"=>nil, "phone"=>"+41 58 46 45933", "function"=>{"german"=>"Fachspezialist/in RMS", "french"=>"Fachspezialist/in RMS", "italian"=>"Fachspezialist/in RMS", "english"=>"Fachspezialist/in RMS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"10012587", "label"=>{"german"=>"Dienste GS-VBS", "french"=>"Services centraux du SG-DDPS", "italian"=>"Servizi centrali della SG-DDPS", "english"=>""}, "name"=>{"german"=>"Dienste GS-VBS", "french"=>"Services centraux du SG-DDPS", "italian"=>"Servizi centrali della SG-DDPS", "english"=>""}}, {"id"=>"10003741", "label"=>{"german"=>"Bibliothek am Guisanplatz BiG", "french"=>"Bibliothèque Am Guisanplatz BiG", "italian"=>"Biblioteca Am Guisanplatz BiG", "english"=>""}, "name"=>{"german"=>"Bibliothek am Guisanplatz BiG", "french"=>"Bibliothèque Am Guisanplatz BiG", "italian"=>"Biblioteca Am Guisanplatz BiG", "english"=>""}}, {"id"=>"20012269", "label"=>{"german"=>"Informations- und Dokumentationsservices", "french"=>"Services d'information et de documentation", "italian"=>"Servizi di informazione e documentazione", "english"=>""}, "name"=>{"german"=>"Informations- und Dokumentationsservices", "french"=>"Services d'information et de documentation", "italian"=>"Servizi di informazione e documentazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012269",
+  "name": {
+    "german": "Informations- und Dokumentationsservices",
+    "french": "Services d'information et de documentation",
+    "italian": "Servizi di informazione e documentazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 21 A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5414904",
+      "surname": "Müller",
+      "givenName": "Philippe Daniel",
+      "email": null,
+      "phone": "+41 58 46 45095",
+      "function": {
+        "german": "Leiter/in Informations-/Dokumentationss",
+        "french": "Leiter/in Informations-/Dokumentationss",
+        "italian": "Leiter/in Informations-/Dokumentationss",
+        "english": "Leiter/in Informations-/Dokumentationss"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4715255",
+      "surname": "Albert",
+      "givenName": "Cornelia",
+      "email": null,
+      "phone": "+41 58 46 43827",
+      "function": {
+        "german": "Fachspezialist/in RMS/L Archivdienst VBS",
+        "french": "Fachspezialist/in RMS/L Archivdienst VBS",
+        "italian": "Fachspezialist/in RMS/L Archivdienst VBS",
+        "english": "Fachspezialist/in RMS/L Archivdienst VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3069610",
+      "surname": "Hadorn",
+      "givenName": "Walter",
+      "email": null,
+      "phone": "+41 58 46 45933",
+      "function": {
+        "german": "Fachspezialist/in RMS",
+        "french": "Fachspezialist/in RMS",
+        "italian": "Fachspezialist/in RMS",
+        "english": "Fachspezialist/in RMS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012587",
+      "label": {
+        "german": "Dienste GS-VBS",
+        "french": "Services centraux du SG-DDPS",
+        "italian": "Servizi centrali della SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienste GS-VBS",
+        "french": "Services centraux du SG-DDPS",
+        "italian": "Servizi centrali della SG-DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003741",
+      "label": {
+        "german": "Bibliothek am Guisanplatz BiG",
+        "french": "Bibliothèque Am Guisanplatz BiG",
+        "italian": "Biblioteca Am Guisanplatz BiG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bibliothek am Guisanplatz BiG",
+        "french": "Bibliothèque Am Guisanplatz BiG",
+        "italian": "Biblioteca Am Guisanplatz BiG",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012269",
+      "label": {
+        "german": "Informations- und Dokumentationsservices",
+        "french": "Services d'information et de documentation",
+        "italian": "Servizi di informazione e documentazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Informations- und Dokumentationsservices",
+        "french": "Services d'information et de documentation",
+        "italian": "Servizi di informazione e documentazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,203 @@
-{"id"=>"20045081", "name"=>{"german"=>"Administration OCH", "french"=>"Administration CHO", "italian"=>"Amministrazione CH-O", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bleichemühlistrasse 6", "postalCode"=>"9450", "location"=>"Altstätten", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4278755", "surname"=>"Vinci", "givenName"=>"Nicoletta", "email"=>nil, "phone"=>"+41 58 48 05349", "function"=>{"german"=>"Chef/in Fachbereich", "french"=>"Chef/in Fachbereich", "italian"=>"Chef/in Fachbereich", "english"=>"Chef/in Fachbereich"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0805312", "surname"=>"Terrell", "givenName"=>"Gudrun", "email"=>nil, "phone"=>"+41 58 46 87765", "function"=>{"german"=>"Admin Personalienaufnahme / Stv. C FB", "french"=>"Admin Personalienaufnahme / Stv. C FB", "italian"=>"Admin Personalienaufnahme / Stv. C FB", "english"=>"Admin Personalienaufnahme / Stv. C FB"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045079", "label"=>{"german"=>"Region Ostschweiz", "french"=>"Région Suisse orientale", "italian"=>"Regione Svizzera orientale", "english"=>""}, "name"=>{"german"=>"Region Ostschweiz", "french"=>"Région Suisse orientale", "italian"=>"Regione Svizzera orientale", "english"=>""}}, {"id"=>"20045080", "label"=>{"german"=>"Partner und Administration OCH", "french"=>"Partenaires et administration CHO", "italian"=>"Partner e amministrazione CH-O", "english"=>""}, "name"=>{"german"=>"Partner und Administration OCH", "french"=>"Partenaires et administration CHO", "italian"=>"Partner e amministrazione CH-O", "english"=>""}}, {"id"=>"20045081", "label"=>{"german"=>"Administration OCH", "french"=>"Administration CHO", "italian"=>"Amministrazione CH-O", "english"=>""}, "name"=>{"german"=>"Administration OCH", "french"=>"Administration CHO", "italian"=>"Amministrazione CH-O", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045081",
+  "name": {
+    "german": "Administration OCH",
+    "french": "Administration CHO",
+    "italian": "Amministrazione CH-O",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bleichemühlistrasse 6",
+    "postalCode": "9450",
+    "location": "Altstätten",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4278755",
+      "surname": "Vinci",
+      "givenName": "Nicoletta",
+      "email": null,
+      "phone": "+41 58 48 05349",
+      "function": {
+        "german": "Chef/in Fachbereich",
+        "french": "Chef/in Fachbereich",
+        "italian": "Chef/in Fachbereich",
+        "english": "Chef/in Fachbereich"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0805312",
+      "surname": "Terrell",
+      "givenName": "Gudrun",
+      "email": null,
+      "phone": "+41 58 46 87765",
+      "function": {
+        "german": "Admin Personalienaufnahme / Stv. C FB",
+        "french": "Admin Personalienaufnahme / Stv. C FB",
+        "italian": "Admin Personalienaufnahme / Stv. C FB",
+        "english": "Admin Personalienaufnahme / Stv. C FB"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045079",
+      "label": {
+        "german": "Region Ostschweiz",
+        "french": "Région Suisse orientale",
+        "italian": "Regione Svizzera orientale",
+        "english": ""
+      },
+      "name": {
+        "german": "Region Ostschweiz",
+        "french": "Région Suisse orientale",
+        "italian": "Regione Svizzera orientale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045080",
+      "label": {
+        "german": "Partner und Administration OCH",
+        "french": "Partenaires et administration CHO",
+        "italian": "Partner e amministrazione CH-O",
+        "english": ""
+      },
+      "name": {
+        "german": "Partner und Administration OCH",
+        "french": "Partenaires et administration CHO",
+        "italian": "Partner e amministrazione CH-O",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045081",
+      "label": {
+        "german": "Administration OCH",
+        "french": "Administration CHO",
+        "italian": "Amministrazione CH-O",
+        "english": ""
+      },
+      "name": {
+        "german": "Administration OCH",
+        "french": "Administration CHO",
+        "italian": "Amministrazione CH-O",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,185 @@
-{"id"=>"20042029", "name"=>{"german"=>"Generalkonsulat Nuku'alofa", "french"=>"Consulat général de Nuku'alofa", "italian"=>"Consolato generale a Nuku'alofa", "english"=>"Consulate General in Nukuʻalofa"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035239", "label"=>{"german"=>"Ozeanien", "french"=>"Océanie", "italian"=>"Oceania", "english"=>"Oceania"}, "name"=>{"german"=>"Ozeanien", "french"=>"Océanie", "italian"=>"Oceania", "english"=>"Oceania"}}, {"id"=>"20035376", "label"=>{"german"=>"Neuseeland", "french"=>"Nouvelle-Zélande", "italian"=>"Nuova Zelanda", "english"=>"New Zealand"}, "name"=>{"german"=>"Neuseeland", "french"=>"Nouvelle-Zélande", "italian"=>"Nuova Zelanda", "english"=>"New Zealand"}}, {"id"=>"10000933", "label"=>{"german"=>"Botschaft Wellington", "french"=>"Ambassade de Wellington", "italian"=>"Ambasciata a Wellington", "english"=>"Embassy in Wellington"}, "name"=>{"german"=>"Botschaft Wellington", "french"=>"Ambassade de Wellington", "italian"=>"Ambasciata a Wellington", "english"=>"Embassy in Wellington"}}, {"id"=>"20039426", "label"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}, "name"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}}, {"id"=>"20042029", "label"=>{"german"=>"Generalkonsulat Nuku'alofa", "french"=>"Consulat général de Nuku'alofa", "italian"=>"Consolato generale a Nuku'alofa", "english"=>"Consulate General in Nukuʻalofa"}, "name"=>{"german"=>"Generalkonsulat Nuku'alofa", "french"=>"Consulat général de Nuku'alofa", "italian"=>"Consolato generale a Nuku'alofa", "english"=>"Consulate General in Nukuʻalofa"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042029",
+  "name": {
+    "german": "Generalkonsulat Nuku'alofa",
+    "french": "Consulat général de Nuku'alofa",
+    "italian": "Consolato generale a Nuku'alofa",
+    "english": "Consulate General in Nukuʻalofa"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035239",
+      "label": {
+        "german": "Ozeanien",
+        "french": "Océanie",
+        "italian": "Oceania",
+        "english": "Oceania"
+      },
+      "name": {
+        "german": "Ozeanien",
+        "french": "Océanie",
+        "italian": "Oceania",
+        "english": "Oceania"
+      }
+    },
+    {
+      "id": "20035376",
+      "label": {
+        "german": "Neuseeland",
+        "french": "Nouvelle-Zélande",
+        "italian": "Nuova Zelanda",
+        "english": "New Zealand"
+      },
+      "name": {
+        "german": "Neuseeland",
+        "french": "Nouvelle-Zélande",
+        "italian": "Nuova Zelanda",
+        "english": "New Zealand"
+      }
+    },
+    {
+      "id": "10000933",
+      "label": {
+        "german": "Botschaft Wellington",
+        "french": "Ambassade de Wellington",
+        "italian": "Ambasciata a Wellington",
+        "english": "Embassy in Wellington"
+      },
+      "name": {
+        "german": "Botschaft Wellington",
+        "french": "Ambassade de Wellington",
+        "italian": "Ambasciata a Wellington",
+        "english": "Embassy in Wellington"
+      }
+    },
+    {
+      "id": "20039426",
+      "label": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      },
+      "name": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      }
+    },
+    {
+      "id": "20042029",
+      "label": {
+        "german": "Generalkonsulat Nuku'alofa",
+        "french": "Consulat général de Nuku'alofa",
+        "italian": "Consolato generale a Nuku'alofa",
+        "english": "Consulate General in Nukuʻalofa"
+      },
+      "name": {
+        "german": "Generalkonsulat Nuku'alofa",
+        "french": "Consulat général de Nuku'alofa",
+        "italian": "Consolato generale a Nuku'alofa",
+        "english": "Consulate General in Nukuʻalofa"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

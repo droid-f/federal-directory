@@ -1,1 +1,201 @@
-{"id"=>"20035424", "name"=>{"german"=>"Sektion Kommunikation", "french"=>"Section communication", "italian"=>"Sezione comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"KOMM", "french"=>"KOMM", "italian"=>"KOMM", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037467", "name"=>{"german"=>"Bundesratsgeschäfte / Kommunikation", "french"=>"Affaires du Conseil fédéral / Communication", "italian"=>"Affari del Consiglio federale / Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035454", "name"=>{"german"=>"Entwicklung", "french"=>"Développement", "italian"=>"Sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035452", "name"=>{"german"=>"Redaktion", "french"=>"Rédaction", "italian"=>"Redazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8859031", "surname"=>"Eggenberger", "givenName"=>"Ursula", "email"=>nil, "phone"=>"+41 58 46 23763", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7031365", "surname"=>"Bruderer von Arx", "givenName"=>"Urs", "email"=>nil, "phone"=>"+41 58 48 39969", "function"=>{"german"=>"Redaktionsleiter/in Tagesgeschäft, Stv. Leiter/in Kommunikation", "french"=>"RedaktionsL TagesG, Stv. Leiter/in Komm", "italian"=>"RedaktionsL TagesG, Stv. Leiter/in Komm", "english"=>"RedaktionsL TagesG, Stv. Leiter/in Komm"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002695", "label"=>{"german"=>"KS", "french"=>"KS", "italian"=>"KS", "english"=>""}, "name"=>{"german"=>"Bereich Kommunikation und Strategie", "french"=>"Secteur communication et stratégie", "italian"=>"Settore comunicazione e strategia", "english"=>""}}, {"id"=>"20035424", "label"=>{"german"=>"KOMM", "french"=>"KOMM", "italian"=>"KOMM", "english"=>""}, "name"=>{"german"=>"Sektion Kommunikation", "french"=>"Section communication", "italian"=>"Sezione comunicazione", "english"=>""}}], "contactPoints"=>[{"id"=>88, "name"=>{"german"=>"Auskunft", "french"=>"Renseignements", "italian"=>"Informazione", "english"=>""}, "email"=>nil, "phone"=>"+41 58 462 37 91", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "20035424",
+  "name": {
+    "german": "Sektion Kommunikation",
+    "french": "Section communication",
+    "italian": "Sezione comunicazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "KOMM",
+    "french": "KOMM",
+    "italian": "KOMM",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037467",
+      "name": {
+        "german": "Bundesratsgeschäfte / Kommunikation",
+        "french": "Affaires du Conseil fédéral / Communication",
+        "italian": "Affari del Consiglio federale / Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035454",
+      "name": {
+        "german": "Entwicklung",
+        "french": "Développement",
+        "italian": "Sviluppo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035452",
+      "name": {
+        "german": "Redaktion",
+        "french": "Rédaction",
+        "italian": "Redazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8859031",
+      "surname": "Eggenberger",
+      "givenName": "Ursula",
+      "email": null,
+      "phone": "+41 58 46 23763",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7031365",
+      "surname": "Bruderer von Arx",
+      "givenName": "Urs",
+      "email": null,
+      "phone": "+41 58 48 39969",
+      "function": {
+        "german": "Redaktionsleiter/in Tagesgeschäft, Stv. Leiter/in Kommunikation",
+        "french": "RedaktionsL TagesG, Stv. Leiter/in Komm",
+        "italian": "RedaktionsL TagesG, Stv. Leiter/in Komm",
+        "english": "RedaktionsL TagesG, Stv. Leiter/in Komm"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002695",
+      "label": {
+        "german": "KS",
+        "french": "KS",
+        "italian": "KS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Kommunikation und Strategie",
+        "french": "Secteur communication et stratégie",
+        "italian": "Settore comunicazione e strategia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035424",
+      "label": {
+        "german": "KOMM",
+        "french": "KOMM",
+        "italian": "KOMM",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Kommunikation",
+        "french": "Section communication",
+        "italian": "Sezione comunicazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 88,
+      "name": {
+        "german": "Auskunft",
+        "french": "Renseignements",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 462 37 91",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

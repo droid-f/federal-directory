@@ -1,1 +1,292 @@
-{"id"=>"10003466", "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}, "nameAbbr"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584690111", "fax"=>"+41584690459", "email"=>"info@swisstopo.ch", "homepage"=>{"german"=>"www.swisstopo.admin.ch", "french"=>"www.swisstopo.admin.ch", "italian"=>"www.swisstopo.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20045929", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse Umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041854", "name"=>{"german"=>"Stab Direktion", "french"=>"Etat-major direction", "italian"=>"Stato maggiore direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041855", "name"=>{"german"=>"Ressort Rechtsdienst swisstopo", "french"=>"Ressort service juridique swisstopo", "italian"=>"Reparto servizio giuridico swisstopo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030531", "name"=>{"german"=>"Ressort Kommunikation und Web", "french"=>"Ressort communication et web", "italian"=>"Reparto comunicazione e web", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044277", "name"=>{"german"=>"Militärgeografisches Institut (MILGEO)", "french"=>"Institut géographique militaire (MilGeo)", "italian"=>"Instituto geografico militare (MilGeo)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041602", "name"=>{"german"=>"Geodäsie und Eidg. Vermessungsdirektion", "french"=>"Géodésie et Direction fédérale des mensurations cadastrales", "italian"=>"Geodesia e Direzione federale delle misurazioni catastali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003486", "name"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003495", "name"=>{"german"=>"Kartografie", "french"=>"Cartographie", "italian"=>"Cartografia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012532", "name"=>{"german"=>"Landesgeologie", "french"=>"Service géologique national", "italian"=>"Servizio geologico nazionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040051", "name"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003523", "name"=>{"german"=>"Support", "french"=>"Support", "italian"=>"Supporto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1803359", "surname"=>"Wicki", "givenName"=>"Fridolin", "email"=>nil, "phone"=>"+41 58 46 90310", "function"=>{"german"=>"Direktor/in swisstopo", "french"=>"Directeur/trice swisstopo", "italian"=>"Direttore/Direttrice swisstopo", "english"=>"Direktor/in swisstopo"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8492582", "surname"=>"Buogo", "givenName"=>"Alain", "email"=>nil, "phone"=>"+41 58 46 90401", "function"=>{"german"=>"Stv. Direktor/in und BL KOGIS", "french"=>"Ds et Resp. du domaine COSIG", "italian"=>"Direttore/direttrice supplente e R di CO", "english"=>"Stv. Direktor/in und BL KOGIS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10003466",
+  "name": {
+    "german": "Bundesamt für Landestopografie swisstopo",
+    "french": "Office fédéral de topographie swisstopo",
+    "italian": "Ufficio federale di topografia swisstopo",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "swisstopo",
+    "french": "swisstopo",
+    "italian": "swisstopo",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584690111",
+    "fax": "+41584690459",
+    "email": "info@swisstopo.ch",
+    "homepage": {
+      "german": "www.swisstopo.admin.ch",
+      "french": "www.swisstopo.admin.ch",
+      "italian": "www.swisstopo.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20045929",
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse Umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041854",
+      "name": {
+        "german": "Stab Direktion",
+        "french": "Etat-major direction",
+        "italian": "Stato maggiore direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041855",
+      "name": {
+        "german": "Ressort Rechtsdienst swisstopo",
+        "french": "Ressort service juridique swisstopo",
+        "italian": "Reparto servizio giuridico swisstopo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030531",
+      "name": {
+        "german": "Ressort Kommunikation und Web",
+        "french": "Ressort communication et web",
+        "italian": "Reparto comunicazione e web",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044277",
+      "name": {
+        "german": "Militärgeografisches Institut (MILGEO)",
+        "french": "Institut géographique militaire (MilGeo)",
+        "italian": "Instituto geografico militare (MilGeo)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041602",
+      "name": {
+        "german": "Geodäsie und Eidg. Vermessungsdirektion",
+        "french": "Géodésie et Direction fédérale des mensurations cadastrales",
+        "italian": "Geodesia e Direzione federale delle misurazioni catastali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003486",
+      "name": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003495",
+      "name": {
+        "german": "Kartografie",
+        "french": "Cartographie",
+        "italian": "Cartografia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012532",
+      "name": {
+        "german": "Landesgeologie",
+        "french": "Service géologique national",
+        "italian": "Servizio geologico nazionale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040051",
+      "name": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003523",
+      "name": {
+        "german": "Support",
+        "french": "Support",
+        "italian": "Supporto",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1803359",
+      "surname": "Wicki",
+      "givenName": "Fridolin",
+      "email": null,
+      "phone": "+41 58 46 90310",
+      "function": {
+        "german": "Direktor/in swisstopo",
+        "french": "Directeur/trice swisstopo",
+        "italian": "Direttore/Direttrice swisstopo",
+        "english": "Direktor/in swisstopo"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8492582",
+      "surname": "Buogo",
+      "givenName": "Alain",
+      "email": null,
+      "phone": "+41 58 46 90401",
+      "function": {
+        "german": "Stv. Direktor/in und BL KOGIS",
+        "french": "Ds et Resp. du domaine COSIG",
+        "italian": "Direttore/direttrice supplente e R di CO",
+        "english": "Stv. Direktor/in und BL KOGIS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

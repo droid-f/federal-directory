@@ -1,1 +1,168 @@
-{"id"=>"20037497", "name"=>{"german"=>"HR GS EJPD", "french"=>"RH SG DFJP", "italian"=>"RU SG DFGP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwanengasse 2", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-9517582", "surname"=>"Wenger", "givenName"=>"Christa", "email"=>nil, "phone"=>"+41 58 46 33987", "function"=>{"german"=>"Stv. HR-Chefin GS", "french"=>"cheffe suppl. RH SG", "italian"=>"Capo supplente RU SG", "english"=>"Stv. HR-Chefin GS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}, {"id"=>"20028230", "label"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}}, {"id"=>"20019579", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10000653", "label"=>{"german"=>"Human Resources EJPD", "french"=>"Ressources humaines DFJP", "italian"=>"Risorse umane DFGP", "english"=>""}, "name"=>{"german"=>"Human Resources EJPD", "french"=>"Ressources humaines DFJP", "italian"=>"Risorse umane DFGP", "english"=>""}}, {"id"=>"20037497", "label"=>{"german"=>"HR GS EJPD", "french"=>"RH SG DFJP", "italian"=>"RU SG DFGP", "english"=>""}, "name"=>{"german"=>"HR GS EJPD", "french"=>"RH SG DFJP", "italian"=>"RU SG DFGP", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037497",
+  "name": {
+    "german": "HR GS EJPD",
+    "french": "RH SG DFJP",
+    "italian": "RU SG DFGP",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwanengasse 2",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-9517582",
+      "surname": "Wenger",
+      "givenName": "Christa",
+      "email": null,
+      "phone": "+41 58 46 33987",
+      "function": {
+        "german": "Stv. HR-Chefin GS",
+        "french": "cheffe suppl. RH SG",
+        "italian": "Capo supplente RU SG",
+        "english": "Stv. HR-Chefin GS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028230",
+      "label": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20019579",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000653",
+      "label": {
+        "german": "Human Resources EJPD",
+        "french": "Ressources humaines DFJP",
+        "italian": "Risorse umane DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources EJPD",
+        "french": "Ressources humaines DFJP",
+        "italian": "Risorse umane DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037497",
+      "label": {
+        "german": "HR GS EJPD",
+        "french": "RH SG DFJP",
+        "italian": "RU SG DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "HR GS EJPD",
+        "french": "RH SG DFJP",
+        "italian": "RU SG DFGP",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

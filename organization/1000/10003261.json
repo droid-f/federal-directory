@@ -1,1 +1,200 @@
-{"id"=>"10003261", "name"=>{"german"=>"Finanzstatistik", "french"=>"Statistique financière", "italian"=>"Statistica finanziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 118", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20023276", "name"=>{"german"=>"Statistische Produktion", "french"=>"Produits statistiques", "italian"=>"Prodotti statistici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003262", "name"=>{"german"=>"Datenbearbeitung", "french"=>"Traitement des données", "italian"=>"Elaborazione dati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046190", "name"=>{"german"=>"Digitalisierung", "french"=>"Numérisation", "italian"=>"Digitalizzazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5766354", "surname"=>"Chatagny", "givenName"=>"Florian", "email"=>nil, "phone"=>"+41 58 46 78791", "function"=>{"german"=>"Leiter Finanzstatistik", "french"=>"Chef Statistique financière", "italian"=>"Capo Statistica finanziaria", "english"=>"Leiter Finanzstatistik"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003259", "label"=>{"german"=>"Finanzpolitik, Finanzausgleich, Finanzstatistik", "french"=>"Politique budgétaire, péréquation financière, statistique financière", "italian"=>"Politica finanziaria, perequazione finanziaria, statistica finanziaria", "english"=>""}, "name"=>{"german"=>"Finanzpolitik, Finanzausgleich, Finanzstatistik", "french"=>"Politique budgétaire, péréquation financière, statistique financière", "italian"=>"Politica finanziaria, perequazione finanziaria, statistica finanziaria", "english"=>""}}, {"id"=>"10003261", "label"=>{"german"=>"Finanzstatistik", "french"=>"Statistique financière", "italian"=>"Statistica finanziaria", "english"=>""}, "name"=>{"german"=>"Finanzstatistik", "french"=>"Statistique financière", "italian"=>"Statistica finanziaria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003261",
+  "name": {
+    "german": "Finanzstatistik",
+    "french": "Statistique financière",
+    "italian": "Statistica finanziaria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 118",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20023276",
+      "name": {
+        "german": "Statistische Produktion",
+        "french": "Produits statistiques",
+        "italian": "Prodotti statistici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003262",
+      "name": {
+        "german": "Datenbearbeitung",
+        "french": "Traitement des données",
+        "italian": "Elaborazione dati",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046190",
+      "name": {
+        "german": "Digitalisierung",
+        "french": "Numérisation",
+        "italian": "Digitalizzazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5766354",
+      "surname": "Chatagny",
+      "givenName": "Florian",
+      "email": null,
+      "phone": "+41 58 46 78791",
+      "function": {
+        "german": "Leiter Finanzstatistik",
+        "french": "Chef Statistique financière",
+        "italian": "Capo Statistica finanziaria",
+        "english": "Leiter Finanzstatistik"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003259",
+      "label": {
+        "german": "Finanzpolitik, Finanzausgleich, Finanzstatistik",
+        "french": "Politique budgétaire, péréquation financière, statistique financière",
+        "italian": "Politica finanziaria, perequazione finanziaria, statistica finanziaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzpolitik, Finanzausgleich, Finanzstatistik",
+        "french": "Politique budgétaire, péréquation financière, statistique financière",
+        "italian": "Politica finanziaria, perequazione finanziaria, statistica finanziaria",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003261",
+      "label": {
+        "german": "Finanzstatistik",
+        "french": "Statistique financière",
+        "italian": "Statistica finanziaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzstatistik",
+        "french": "Statistique financière",
+        "italian": "Statistica finanziaria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

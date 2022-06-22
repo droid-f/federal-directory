@@ -1,1 +1,96 @@
-{"id"=>"20049882", "name"=>{"german"=>"Präsidentin", "french"=>"Présidente", "italian"=>"Presidente", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>333, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-2369012", "surname"=>"Niquille", "givenName"=>"Martha", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Präsidentin", "french"=>"Présidente", "italian"=>"Presidente", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"20049882", "label"=>{"german"=>"Präsidentin", "french"=>"Présidente", "italian"=>"Presidente", "english"=>""}, "name"=>{"german"=>"Präsidentin", "french"=>"Présidente", "italian"=>"Presidente", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049882",
+  "name": {
+    "german": "Präsidentin",
+    "french": "Présidente",
+    "italian": "Presidente",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 333,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-2369012",
+      "surname": "Niquille",
+      "givenName": "Martha",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Präsidentin",
+        "french": "Présidente",
+        "italian": "Presidente",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049882",
+      "label": {
+        "german": "Präsidentin",
+        "french": "Présidente",
+        "italian": "Presidente",
+        "english": ""
+      },
+      "name": {
+        "german": "Präsidentin",
+        "french": "Présidente",
+        "italian": "Presidente",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

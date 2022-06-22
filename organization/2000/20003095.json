@@ -1,1 +1,215 @@
-{"id"=>"20003095", "name"=>{"german"=>"Stabssteuerung Kommando Operationen", "french"=>"Pilotage EM commandement des Opérations", "italian"=>"Gest SM Cdo Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042341", "name"=>{"german"=>"Führungsinformationssysteme Kdo Op", "french"=>"Systèmes conduite et information cdmt Op", "italian"=>"Sistemi info e di cond Cdo Op", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042342", "name"=>{"german"=>"Führungsdienst Kdo Operationen", "french"=>"Service de commandement cdmt Op", "italian"=>"Servizio di condotta Cdo Op", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024626", "name"=>{"german"=>"Betrieb HQ A", "french"=>"Exploitation QG A", "italian"=>"Esercizio QG Es", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8319543", "surname"=>"Wüthrich", "givenName"=>"René", "email"=>nil, "phone"=>"+41 58 46 42439", "function"=>{"german"=>"Chef/in Stabssteuerung Kdo Operationen", "french"=>"Chef Gestion EM cdmt Opérations", "italian"=>"Capo Gest SM Cdo Operazioni", "english"=>"Chef/in Stabssteuerung Kdo Operationen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20003084", "label"=>{"german"=>"SCOP", "french"=>"SCOP", "italian"=>"SCOP", "english"=>""}, "name"=>{"german"=>"SC Kommando Operationen", "french"=>"CEM commandement des Opérations", "italian"=>"CSM Comando Operazioni", "english"=>""}}, {"id"=>"20003095", "label"=>{"german"=>"Stabssteuerung Kommando Operationen", "french"=>"Pilotage EM commandement des Opérations", "italian"=>"Gest SM Cdo Operazioni", "english"=>""}, "name"=>{"german"=>"Stabssteuerung Kommando Operationen", "french"=>"Pilotage EM commandement des Opérations", "italian"=>"Gest SM Cdo Operazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003095",
+  "name": {
+    "german": "Stabssteuerung Kommando Operationen",
+    "french": "Pilotage EM commandement des Opérations",
+    "italian": "Gest SM Cdo Operazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042341",
+      "name": {
+        "german": "Führungsinformationssysteme Kdo Op",
+        "french": "Systèmes conduite et information cdmt Op",
+        "italian": "Sistemi info e di cond Cdo Op",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042342",
+      "name": {
+        "german": "Führungsdienst Kdo Operationen",
+        "french": "Service de commandement cdmt Op",
+        "italian": "Servizio di condotta Cdo Op",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024626",
+      "name": {
+        "german": "Betrieb HQ A",
+        "french": "Exploitation QG A",
+        "italian": "Esercizio QG Es",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8319543",
+      "surname": "Wüthrich",
+      "givenName": "René",
+      "email": null,
+      "phone": "+41 58 46 42439",
+      "function": {
+        "german": "Chef/in Stabssteuerung Kdo Operationen",
+        "french": "Chef Gestion EM cdmt Opérations",
+        "italian": "Capo Gest SM Cdo Operazioni",
+        "english": "Chef/in Stabssteuerung Kdo Operationen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003084",
+      "label": {
+        "german": "SCOP",
+        "french": "SCOP",
+        "italian": "SCOP",
+        "english": ""
+      },
+      "name": {
+        "german": "SC Kommando Operationen",
+        "french": "CEM commandement des Opérations",
+        "italian": "CSM Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003095",
+      "label": {
+        "german": "Stabssteuerung Kommando Operationen",
+        "french": "Pilotage EM commandement des Opérations",
+        "italian": "Gest SM Cdo Operazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Stabssteuerung Kommando Operationen",
+        "french": "Pilotage EM commandement des Opérations",
+        "italian": "Gest SM Cdo Operazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

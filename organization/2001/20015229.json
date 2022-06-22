@@ -1,1 +1,140 @@
-{"id"=>"20015229", "name"=>{"german"=>"Team 2 WBF/EDI/UVEK/VBS/EJPD", "french"=>"Team 2 DEFR/DFI/DETEC/DDPS/DFJP", "italian"=>"Team 2 DEFR/DFI/DATEC/DDPS/DFGP", "english"=>"Team 2 EAER/FDHA/DETEC/DDPS/FDJP"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 32", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20024651", "label"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}, "name"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}}, {"id"=>"20037722", "label"=>{"german"=>"Bundesreisezentrale", "french"=>"Centrale des voyages de la Confédération", "italian"=>"Centrale viaggi della Confederazione", "english"=>"Swiss Government Travel Centre"}, "name"=>{"german"=>"Bundesreisezentrale", "french"=>"Centrale des voyages de la Confédération", "italian"=>"Centrale viaggi della Confederazione", "english"=>"Swiss Government Travel Centre"}}, {"id"=>"20015229", "label"=>{"german"=>"Team 2 WBF/EDI/UVEK/VBS/EJPD", "french"=>"Team 2 DEFR/DFI/DETEC/DDPS/DFJP", "italian"=>"Team 2 DEFR/DFI/DATEC/DDPS/DFGP", "english"=>"Team 2 EAER/FDHA/DETEC/DDPS/FDJP"}, "name"=>{"german"=>"Team 2 WBF/EDI/UVEK/VBS/EJPD", "french"=>"Team 2 DEFR/DFI/DETEC/DDPS/DFJP", "italian"=>"Team 2 DEFR/DFI/DATEC/DDPS/DFGP", "english"=>"Team 2 EAER/FDHA/DETEC/DDPS/FDJP"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20015229",
+  "name": {
+    "german": "Team 2 WBF/EDI/UVEK/VBS/EJPD",
+    "french": "Team 2 DEFR/DFI/DETEC/DDPS/DFJP",
+    "italian": "Team 2 DEFR/DFI/DATEC/DDPS/DFGP",
+    "english": "Team 2 EAER/FDHA/DETEC/DDPS/FDJP"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 32",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20024651",
+      "label": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      },
+      "name": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      }
+    },
+    {
+      "id": "20037722",
+      "label": {
+        "german": "Bundesreisezentrale",
+        "french": "Centrale des voyages de la Confédération",
+        "italian": "Centrale viaggi della Confederazione",
+        "english": "Swiss Government Travel Centre"
+      },
+      "name": {
+        "german": "Bundesreisezentrale",
+        "french": "Centrale des voyages de la Confédération",
+        "italian": "Centrale viaggi della Confederazione",
+        "english": "Swiss Government Travel Centre"
+      }
+    },
+    {
+      "id": "20015229",
+      "label": {
+        "german": "Team 2 WBF/EDI/UVEK/VBS/EJPD",
+        "french": "Team 2 DEFR/DFI/DETEC/DDPS/DFJP",
+        "italian": "Team 2 DEFR/DFI/DATEC/DDPS/DFGP",
+        "english": "Team 2 EAER/FDHA/DETEC/DDPS/FDJP"
+      },
+      "name": {
+        "german": "Team 2 WBF/EDI/UVEK/VBS/EJPD",
+        "french": "Team 2 DEFR/DFI/DETEC/DDPS/DFJP",
+        "italian": "Team 2 DEFR/DFI/DATEC/DDPS/DFGP",
+        "english": "Team 2 EAER/FDHA/DETEC/DDPS/FDJP"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

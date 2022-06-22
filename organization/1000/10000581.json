@@ -1,1 +1,172 @@
-{"id"=>"10000581", "name"=>{"german"=>"Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten", "french"=>"Commission arbitrale fédérale pour la gestion de droits d'auteurs et de droits voisins", "italian"=>"Commissione arbitrale federale per la gestione dei diritti d'autore e dei diritti affini", "english"=>""}, "nameAbbr"=>{"german"=>"ESchK", "french"=>"CAF", "italian"=>"CAF", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwanengasse 2", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20009513", "name"=>{"german"=>"ESchK Kommissonsmitglieder", "french"=>"ESchK Kommissonsmitglieder", "italian"=>"ESchK Kommissonsmitglieder", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3951089", "surname"=>"Cloux", "givenName"=>"Lorenz", "email"=>nil, "phone"=>"+41 58 46 35081", "function"=>{"german"=>"Kommissionssekretär", "french"=>"Secrétaire scientifique CAF", "italian"=>"Segretario scientifico CAF", "english"=>"Kommissionssekretär"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9946957", "surname"=>"Castiglione", "givenName"=>"Alexandra", "email"=>nil, "phone"=>"+41 58 46 11293", "function"=>{"german"=>"Kommissionssekretärin", "french"=>"Secrétaire scientifique CAF", "italian"=>"Segretaria scientifico CAF", "english"=>"Kommissionssekretärin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}, {"id"=>"20028230", "label"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}}, {"id"=>"10000581", "label"=>{"german"=>"ESchK", "french"=>"CAF", "italian"=>"CAF", "english"=>""}, "name"=>{"german"=>"Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten", "french"=>"Commission arbitrale fédérale pour la gestion de droits d'auteurs et de droits voisins", "italian"=>"Commissione arbitrale federale per la gestione dei diritti d'autore e dei diritti affini", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000581",
+  "name": {
+    "german": "Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten",
+    "french": "Commission arbitrale fédérale pour la gestion de droits d'auteurs et de droits voisins",
+    "italian": "Commissione arbitrale federale per la gestione dei diritti d'autore e dei diritti affini",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ESchK",
+    "french": "CAF",
+    "italian": "CAF",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwanengasse 2",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20009513",
+      "name": {
+        "german": "ESchK Kommissonsmitglieder",
+        "french": "ESchK Kommissonsmitglieder",
+        "italian": "ESchK Kommissonsmitglieder",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3951089",
+      "surname": "Cloux",
+      "givenName": "Lorenz",
+      "email": null,
+      "phone": "+41 58 46 35081",
+      "function": {
+        "german": "Kommissionssekretär",
+        "french": "Secrétaire scientifique CAF",
+        "italian": "Segretario scientifico CAF",
+        "english": "Kommissionssekretär"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9946957",
+      "surname": "Castiglione",
+      "givenName": "Alexandra",
+      "email": null,
+      "phone": "+41 58 46 11293",
+      "function": {
+        "german": "Kommissionssekretärin",
+        "french": "Secrétaire scientifique CAF",
+        "italian": "Segretaria scientifico CAF",
+        "english": "Kommissionssekretärin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028230",
+      "label": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000581",
+      "label": {
+        "german": "ESchK",
+        "french": "CAF",
+        "italian": "CAF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten",
+        "french": "Commission arbitrale fédérale pour la gestion de droits d'auteurs et de droits voisins",
+        "italian": "Commissione arbitrale federale per la gestione dei diritti d'autore e dei diritti affini",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

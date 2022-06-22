@@ -1,1 +1,200 @@
-{"id"=>"10004657", "name"=>{"german"=>"Sozialwissenschaftliche Befragungen", "french"=>"Enquêtes en sciences sociales", "italian"=>"Inchieste sulle scienze sociali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20034201", "name"=>{"german"=>"Gesundheitsbefragung", "french"=>"Enquête sur la santé", "italian"=>"Indagine sulla salute", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034203", "name"=>{"german"=>"Menschen mit Behinderungen", "french"=>"Personnes handicapées", "italian"=>"Persone con disabilità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1871819", "surname"=>"Storni", "givenName"=>"Marco", "email"=>nil, "phone"=>"+41 58 46 36563", "function"=>{"german"=>"Gruppenleiter/in, Stv SC", "french"=>"Gruppenleiter/in, Stv SC", "italian"=>"Gruppenleiter/in, Stv SC", "english"=>"Gruppenleiter/in, Stv SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20002655", "label"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}, "name"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}}, {"id"=>"20041054", "label"=>{"german"=>"Sektion Gesundheit der Bevölkerung", "french"=>"Section Santé de la population", "italian"=>"Sezione Salute della popolazione", "english"=>""}, "name"=>{"german"=>"Sektion Gesundheit der Bevölkerung", "french"=>"Section Santé de la population", "italian"=>"Sezione Salute della popolazione", "english"=>""}}, {"id"=>"10004657", "label"=>{"german"=>"Sozialwissenschaftliche Befragungen", "french"=>"Enquêtes en sciences sociales", "italian"=>"Inchieste sulle scienze sociali", "english"=>""}, "name"=>{"german"=>"Sozialwissenschaftliche Befragungen", "french"=>"Enquêtes en sciences sociales", "italian"=>"Inchieste sulle scienze sociali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004657",
+  "name": {
+    "german": "Sozialwissenschaftliche Befragungen",
+    "french": "Enquêtes en sciences sociales",
+    "italian": "Inchieste sulle scienze sociali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20034201",
+      "name": {
+        "german": "Gesundheitsbefragung",
+        "french": "Enquête sur la santé",
+        "italian": "Indagine sulla salute",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034203",
+      "name": {
+        "german": "Menschen mit Behinderungen",
+        "french": "Personnes handicapées",
+        "italian": "Persone con disabilità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1871819",
+      "surname": "Storni",
+      "givenName": "Marco",
+      "email": null,
+      "phone": "+41 58 46 36563",
+      "function": {
+        "german": "Gruppenleiter/in, Stv SC",
+        "french": "Gruppenleiter/in, Stv SC",
+        "italian": "Gruppenleiter/in, Stv SC",
+        "english": "Gruppenleiter/in, Stv SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002655",
+      "label": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041054",
+      "label": {
+        "german": "Sektion Gesundheit der Bevölkerung",
+        "french": "Section Santé de la population",
+        "italian": "Sezione Salute della popolazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Gesundheit der Bevölkerung",
+        "french": "Section Santé de la population",
+        "italian": "Sezione Salute della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004657",
+      "label": {
+        "german": "Sozialwissenschaftliche Befragungen",
+        "french": "Enquêtes en sciences sociales",
+        "italian": "Inchieste sulle scienze sociali",
+        "english": ""
+      },
+      "name": {
+        "german": "Sozialwissenschaftliche Befragungen",
+        "french": "Enquêtes en sciences sociales",
+        "italian": "Inchieste sulle scienze sociali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

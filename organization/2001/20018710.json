@@ -1,1 +1,173 @@
-{"id"=>"20018710", "name"=>{"german"=>"Flugdienst", "french"=>"Service de vol", "italian"=>"Servizio di volo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Flugdienst", "street"=>"Militärflugplatz", "postalCode"=>"8600", "location"=>"Dübendorf", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0840735", "surname"=>"Heid", "givenName"=>"Michael", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"TPzL Flugdienst", "french"=>"Rpp Service de vol", "italian"=>"Rpp servizio di volo", "english"=>"TPzL Flugdienst"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8004225", "surname"=>"Bosco", "givenName"=>"Carlo", "email"=>nil, "phone"=>"+41 58 46 33109", "function"=>{"german"=>"Ingenieur/in Flugdienst Stv. TPzL", "french"=>"Ing. Service de vol Rspp", "italian"=>"Ing. del servizio di volo Rspp", "english"=>"Ingenieur/in Flugdienst Stv. TPzL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"10003486", "label"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}, "name"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}}, {"id"=>"20018705", "label"=>{"german"=>"Bilddaten und Kriseninformation", "french"=>"Données d'images et information de crise", "italian"=>"Immagini e informatione di crisi", "english"=>""}, "name"=>{"german"=>"Bilddaten und Kriseninformation", "french"=>"Données d'images et information de crise", "italian"=>"Immagini e informatione di crisi", "english"=>""}}, {"id"=>"20018710", "label"=>{"german"=>"Flugdienst", "french"=>"Service de vol", "italian"=>"Servizio di volo", "english"=>""}, "name"=>{"german"=>"Flugdienst", "french"=>"Service de vol", "italian"=>"Servizio di volo", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20018710",
+  "name": {
+    "german": "Flugdienst",
+    "french": "Service de vol",
+    "italian": "Servizio di volo",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Flugdienst",
+    "street": "Militärflugplatz",
+    "postalCode": "8600",
+    "location": "Dübendorf",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0840735",
+      "surname": "Heid",
+      "givenName": "Michael",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "TPzL Flugdienst",
+        "french": "Rpp Service de vol",
+        "italian": "Rpp servizio di volo",
+        "english": "TPzL Flugdienst"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8004225",
+      "surname": "Bosco",
+      "givenName": "Carlo",
+      "email": null,
+      "phone": "+41 58 46 33109",
+      "function": {
+        "german": "Ingenieur/in Flugdienst Stv. TPzL",
+        "french": "Ing. Service de vol Rspp",
+        "italian": "Ing. del servizio di volo Rspp",
+        "english": "Ingenieur/in Flugdienst Stv. TPzL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003486",
+      "label": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      },
+      "name": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018705",
+      "label": {
+        "german": "Bilddaten und Kriseninformation",
+        "french": "Données d'images et information de crise",
+        "italian": "Immagini e informatione di crisi",
+        "english": ""
+      },
+      "name": {
+        "german": "Bilddaten und Kriseninformation",
+        "french": "Données d'images et information de crise",
+        "italian": "Immagini e informatione di crisi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018710",
+      "label": {
+        "german": "Flugdienst",
+        "french": "Service de vol",
+        "italian": "Servizio di volo",
+        "english": ""
+      },
+      "name": {
+        "german": "Flugdienst",
+        "french": "Service de vol",
+        "italian": "Servizio di volo",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

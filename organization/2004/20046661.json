@@ -1,1 +1,183 @@
-{"id"=>"20046661", "name"=>{"german"=>"Technologische Services Betrieb", "french"=>"Technologie et Exploitation", "italian"=>"Tecnologia ed esercizio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6916584", "surname"=>"Waber", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 48 39580", "function"=>{"german"=>"Leiter Technologische Services Betrieb", "french"=>"Leiter Technologische Services Betrieb", "italian"=>"Leiter Technologische Services Betrieb", "english"=>"Leiter Technologische Services Betrieb"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1258399", "surname"=>"Bur", "givenName"=>"Sereina", "email"=>nil, "phone"=>"+41 58 48 56576", "function"=>{"german"=>"Service Manager GEVER UVEK", "french"=>"Service Manager GEVER UVEK", "italian"=>"Service Manager GEVER UVEK", "english"=>"Service Manager GEVER UVEK"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8188089", "surname"=>"Podbreznik", "givenName"=>"Danijel", "email"=>nil, "phone"=>"+41 58 48 15405", "function"=>{"german"=>"Service Manager E-GOV UVEK", "french"=>"Service Manager E-GOV UVEK", "italian"=>"Service Manager E-GOV UVEK", "english"=>"Service Manager E-GOV UVEK"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20027560", "label"=>{"german"=>"Ressourcen und Logistik, Rechtsdienst", "french"=>"Ressourcen und Logistik, Rechtsdienst", "italian"=>"Ressourcen und Logistik, Rechtsdienst", "english"=>""}, "name"=>{"german"=>"Ressourcen und Logistik, Rechtsdienst", "french"=>"Ressourcen und Logistik, Rechtsdienst", "italian"=>"Ressourcen und Logistik, Rechtsdienst", "english"=>""}}, {"id"=>"20027569", "label"=>{"german"=>"Digital Services", "french"=>"Digital Services", "italian"=>"Digital Services", "english"=>""}, "name"=>{"german"=>"Digital Services", "french"=>"Digital Services", "italian"=>"Digital Services", "english"=>""}}, {"id"=>"20046661", "label"=>{"german"=>"Technologische Services Betrieb", "french"=>"Technologie et Exploitation", "italian"=>"Tecnologia ed esercizio", "english"=>""}, "name"=>{"german"=>"Technologische Services Betrieb", "french"=>"Technologie et Exploitation", "italian"=>"Tecnologia ed esercizio", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046661",
+  "name": {
+    "german": "Technologische Services Betrieb",
+    "french": "Technologie et Exploitation",
+    "italian": "Tecnologia ed esercizio",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6916584",
+      "surname": "Waber",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 48 39580",
+      "function": {
+        "german": "Leiter Technologische Services Betrieb",
+        "french": "Leiter Technologische Services Betrieb",
+        "italian": "Leiter Technologische Services Betrieb",
+        "english": "Leiter Technologische Services Betrieb"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1258399",
+      "surname": "Bur",
+      "givenName": "Sereina",
+      "email": null,
+      "phone": "+41 58 48 56576",
+      "function": {
+        "german": "Service Manager GEVER UVEK",
+        "french": "Service Manager GEVER UVEK",
+        "italian": "Service Manager GEVER UVEK",
+        "english": "Service Manager GEVER UVEK"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8188089",
+      "surname": "Podbreznik",
+      "givenName": "Danijel",
+      "email": null,
+      "phone": "+41 58 48 15405",
+      "function": {
+        "german": "Service Manager E-GOV UVEK",
+        "french": "Service Manager E-GOV UVEK",
+        "italian": "Service Manager E-GOV UVEK",
+        "english": "Service Manager E-GOV UVEK"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027560",
+      "label": {
+        "german": "Ressourcen und Logistik, Rechtsdienst",
+        "french": "Ressourcen und Logistik, Rechtsdienst",
+        "italian": "Ressourcen und Logistik, Rechtsdienst",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen und Logistik, Rechtsdienst",
+        "french": "Ressourcen und Logistik, Rechtsdienst",
+        "italian": "Ressourcen und Logistik, Rechtsdienst",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027569",
+      "label": {
+        "german": "Digital Services",
+        "french": "Digital Services",
+        "italian": "Digital Services",
+        "english": ""
+      },
+      "name": {
+        "german": "Digital Services",
+        "french": "Digital Services",
+        "italian": "Digital Services",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046661",
+      "label": {
+        "german": "Technologische Services Betrieb",
+        "french": "Technologie et Exploitation",
+        "italian": "Tecnologia ed esercizio",
+        "english": ""
+      },
+      "name": {
+        "german": "Technologische Services Betrieb",
+        "french": "Technologie et Exploitation",
+        "italian": "Tecnologia ed esercizio",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

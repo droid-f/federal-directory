@@ -1,1 +1,277 @@
-{"id"=>"10003819", "name"=>{"german"=>"Leistungssport", "french"=>"Sport d'élite", "italian"=>"Sport di prestazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10003821", "name"=>{"german"=>"Sportmedizin", "french"=>"Médecine du sport", "italian"=>"Medicina dello sport", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048027", "name"=>{"german"=>"Technik und Taktik", "french"=>"Technique et tactique", "italian"=>"Tecnica e tattica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041976", "name"=>{"german"=>"Sportphysiologie Spielsport", "french"=>"Physiologie du sport Sports de jeu", "italian"=>"Fisiologia dello sport Gioco sport", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20033684", "name"=>{"german"=>"Sportphysiologie Kraft", "french"=>"Physiologie du sport Force", "italian"=>"Fisiologia dello sport Forza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003824", "name"=>{"german"=>"Sportpsychologie", "french"=>"Psychologie du sport", "italian"=>"Psicologia dello sport", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015494", "name"=>{"german"=>"Trainingswissenschaft", "french"=>"Science de l'entraînement", "italian"=>"Scienza dell'allenamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10003822", "name"=>{"german"=>"Sportphysiotherapie und Sportmassage", "french"=>"Physiothérapie du sport et massage", "italian"=>"Fisioterapia dello sport e massaggio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013778", "name"=>{"german"=>"Sportphysiologie Ausdauer", "french"=>"Physiologie du sport endurance", "italian"=>"Fisiologia dello sport resistenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9860342", "surname"=>"Lorenzetti", "givenName"=>"Silvio", "email"=>nil, "phone"=>"+41 58 46 78795", "function"=>{"german"=>"Leiter/in Leistungssport", "french"=>"Responsable sport d'élite", "italian"=>"Responsabile sport di prestazione", "english"=>"Leiter/in Leistungssport"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0110359", "surname"=>"Birrer", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 76263", "function"=>{"german"=>"Stv. Leiter/in Leistungssport", "french"=>"Rempl. Resp. Sport d'élite", "italian"=>"Supp. Resp. Sport di prestazione", "english"=>"Stv. Leiter/in Leistungssport"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003803", "label"=>{"german"=>"EHSM", "french"=>"EHSM", "italian"=>"EHSM", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Sport Magglingen", "french"=>"Haute école fédérale de sport de Macolin", "italian"=>"Scuola universitaria federale dello sport di Macolin", "english"=>""}}, {"id"=>"10003819", "label"=>{"german"=>"Leistungssport", "french"=>"Sport d'élite", "italian"=>"Sport di prestazione", "english"=>""}, "name"=>{"german"=>"Leistungssport", "french"=>"Sport d'élite", "italian"=>"Sport di prestazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003819",
+  "name": {
+    "german": "Leistungssport",
+    "french": "Sport d'élite",
+    "italian": "Sport di prestazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10003821",
+      "name": {
+        "german": "Sportmedizin",
+        "french": "Médecine du sport",
+        "italian": "Medicina dello sport",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048027",
+      "name": {
+        "german": "Technik und Taktik",
+        "french": "Technique et tactique",
+        "italian": "Tecnica e tattica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041976",
+      "name": {
+        "german": "Sportphysiologie Spielsport",
+        "french": "Physiologie du sport Sports de jeu",
+        "italian": "Fisiologia dello sport Gioco sport",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033684",
+      "name": {
+        "german": "Sportphysiologie Kraft",
+        "french": "Physiologie du sport Force",
+        "italian": "Fisiologia dello sport Forza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003824",
+      "name": {
+        "german": "Sportpsychologie",
+        "french": "Psychologie du sport",
+        "italian": "Psicologia dello sport",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015494",
+      "name": {
+        "german": "Trainingswissenschaft",
+        "french": "Science de l'entraînement",
+        "italian": "Scienza dell'allenamento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003822",
+      "name": {
+        "german": "Sportphysiotherapie und Sportmassage",
+        "french": "Physiothérapie du sport et massage",
+        "italian": "Fisioterapia dello sport e massaggio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013778",
+      "name": {
+        "german": "Sportphysiologie Ausdauer",
+        "french": "Physiologie du sport endurance",
+        "italian": "Fisiologia dello sport resistenza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9860342",
+      "surname": "Lorenzetti",
+      "givenName": "Silvio",
+      "email": null,
+      "phone": "+41 58 46 78795",
+      "function": {
+        "german": "Leiter/in Leistungssport",
+        "french": "Responsable sport d'élite",
+        "italian": "Responsabile sport di prestazione",
+        "english": "Leiter/in Leistungssport"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0110359",
+      "surname": "Birrer",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 76263",
+      "function": {
+        "german": "Stv. Leiter/in Leistungssport",
+        "french": "Rempl. Resp. Sport d'élite",
+        "italian": "Supp. Resp. Sport di prestazione",
+        "english": "Stv. Leiter/in Leistungssport"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003803",
+      "label": {
+        "german": "EHSM",
+        "french": "EHSM",
+        "italian": "EHSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Sport Magglingen",
+        "french": "Haute école fédérale de sport de Macolin",
+        "italian": "Scuola universitaria federale dello sport di Macolin",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003819",
+      "label": {
+        "german": "Leistungssport",
+        "french": "Sport d'élite",
+        "italian": "Sport di prestazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leistungssport",
+        "french": "Sport d'élite",
+        "italian": "Sport di prestazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

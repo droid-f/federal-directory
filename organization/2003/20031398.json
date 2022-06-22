@@ -1,1 +1,156 @@
-{"id"=>"20031398", "name"=>{"german"=>"APSP - Prognose Süd", "french"=>"Centre Régional Sud, Prévision", "italian"=>"Centro Regionale Sud, Previsioni", "english"=>""}, "nameAbbr"=>{"german"=>"APSP", "french"=>"APSP", "italian"=>"APSP", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Via ai Monti 146", "postalCode"=>"6605", "location"=>"Locarno Monti", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1131530", "surname"=>"Zanini", "givenName"=>"Stefano", "email"=>nil, "phone"=>"+41 58 46 09688", "function"=>{"german"=>"Capoteam", "french"=>"Collaboration Pévisions Météo Locarno", "italian"=>"Collaborazione Previsioni Meteo Locarno", "english"=>"Capoteam"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20031384", "label"=>{"german"=>"AP", "french"=>"AP", "italian"=>"AP", "english"=>""}, "name"=>{"german"=>"AP - Analyse und Prognose", "french"=>"Analyse et prévision", "italian"=>"Analisi e previsioni", "english"=>""}}, {"id"=>"20031397", "label"=>{"german"=>"APS", "french"=>"APS", "italian"=>"APS", "english"=>""}, "name"=>{"german"=>"APS - Regionalzentrale Süd", "french"=>"Centre régional Sud", "italian"=>"Centro regionale Sud", "english"=>""}}, {"id"=>"20031398", "label"=>{"german"=>"APSP", "french"=>"APSP", "italian"=>"APSP", "english"=>""}, "name"=>{"german"=>"APSP - Prognose Süd", "french"=>"Centre Régional Sud, Prévision", "italian"=>"Centro Regionale Sud, Previsioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031398",
+  "name": {
+    "german": "APSP - Prognose Süd",
+    "french": "Centre Régional Sud, Prévision",
+    "italian": "Centro Regionale Sud, Previsioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "APSP",
+    "french": "APSP",
+    "italian": "APSP",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Via ai Monti 146",
+    "postalCode": "6605",
+    "location": "Locarno Monti",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1131530",
+      "surname": "Zanini",
+      "givenName": "Stefano",
+      "email": null,
+      "phone": "+41 58 46 09688",
+      "function": {
+        "german": "Capoteam",
+        "french": "Collaboration Pévisions Météo Locarno",
+        "italian": "Collaborazione Previsioni Meteo Locarno",
+        "english": "Capoteam"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20031384",
+      "label": {
+        "german": "AP",
+        "french": "AP",
+        "italian": "AP",
+        "english": ""
+      },
+      "name": {
+        "german": "AP - Analyse und Prognose",
+        "french": "Analyse et prévision",
+        "italian": "Analisi e previsioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031397",
+      "label": {
+        "german": "APS",
+        "french": "APS",
+        "italian": "APS",
+        "english": ""
+      },
+      "name": {
+        "german": "APS - Regionalzentrale Süd",
+        "french": "Centre régional Sud",
+        "italian": "Centro regionale Sud",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031398",
+      "label": {
+        "german": "APSP",
+        "french": "APSP",
+        "italian": "APSP",
+        "english": ""
+      },
+      "name": {
+        "german": "APSP - Prognose Süd",
+        "french": "Centre Régional Sud, Prévision",
+        "italian": "Centro Regionale Sud, Previsioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

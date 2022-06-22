@@ -1,1 +1,185 @@
-{"id"=>"20042840", "name"=>{"german"=>"Fachbereich Klasse 2 MP UOS/RS 19", "french"=>"Domaine spéc classe 2 ER/ESO PM 19", "italian"=>"Sett spec classe 2 SSU/SR PM 19", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo MP Schule 19", "street"=>"Caserne", "postalCode"=>"1950", "location"=>"Sion", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015869", "label"=>{"german"=>"LVBINF", "french"=>"LVBINF", "italian"=>"LVBINF", "english"=>""}, "name"=>{"german"=>"Lehrverband Infanterie", "french"=>"Formation d'application de l'infanterie", "italian"=>"Formazione d'addestramento fant", "english"=>""}}, {"id"=>"20042771", "label"=>{"german"=>"Militärpolizei UOS / RS 19", "french"=>"ER/ESO police militaire 19", "italian"=>"SSU/SR della polizia militare 19", "english"=>""}, "name"=>{"german"=>"Militärpolizei UOS / RS 19", "french"=>"ER/ESO police militaire 19", "italian"=>"SSU/SR della polizia militare 19", "english"=>""}}, {"id"=>"20042836", "label"=>{"german"=>"Kompanie 2 MP UOS/RS 19", "french"=>"Compagnie 2 ER/ESO PM 19", "italian"=>"Compagnia 2 SSU/SR PM 19", "english"=>""}, "name"=>{"german"=>"Kompanie 2 MP UOS/RS 19", "french"=>"Compagnie 2 ER/ESO PM 19", "italian"=>"Compagnia 2 SSU/SR PM 19", "english"=>""}}, {"id"=>"20042840", "label"=>{"german"=>"Fachbereich Klasse 2 MP UOS/RS 19", "french"=>"Domaine spéc classe 2 ER/ESO PM 19", "italian"=>"Sett spec classe 2 SSU/SR PM 19", "english"=>""}, "name"=>{"german"=>"Fachbereich Klasse 2 MP UOS/RS 19", "french"=>"Domaine spéc classe 2 ER/ESO PM 19", "italian"=>"Sett spec classe 2 SSU/SR PM 19", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042840",
+  "name": {
+    "german": "Fachbereich Klasse 2 MP UOS/RS 19",
+    "french": "Domaine spéc classe 2 ER/ESO PM 19",
+    "italian": "Sett spec classe 2 SSU/SR PM 19",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo MP Schule 19",
+    "street": "Caserne",
+    "postalCode": "1950",
+    "location": "Sion",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015869",
+      "label": {
+        "german": "LVBINF",
+        "french": "LVBINF",
+        "italian": "LVBINF",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Infanterie",
+        "french": "Formation d'application de l'infanterie",
+        "italian": "Formazione d'addestramento fant",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042771",
+      "label": {
+        "german": "Militärpolizei UOS / RS 19",
+        "french": "ER/ESO police militaire 19",
+        "italian": "SSU/SR della polizia militare 19",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärpolizei UOS / RS 19",
+        "french": "ER/ESO police militaire 19",
+        "italian": "SSU/SR della polizia militare 19",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042836",
+      "label": {
+        "german": "Kompanie 2 MP UOS/RS 19",
+        "french": "Compagnie 2 ER/ESO PM 19",
+        "italian": "Compagnia 2 SSU/SR PM 19",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompanie 2 MP UOS/RS 19",
+        "french": "Compagnie 2 ER/ESO PM 19",
+        "italian": "Compagnia 2 SSU/SR PM 19",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042840",
+      "label": {
+        "german": "Fachbereich Klasse 2 MP UOS/RS 19",
+        "french": "Domaine spéc classe 2 ER/ESO PM 19",
+        "italian": "Sett spec classe 2 SSU/SR PM 19",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Klasse 2 MP UOS/RS 19",
+        "french": "Domaine spéc classe 2 ER/ESO PM 19",
+        "italian": "Sett spec classe 2 SSU/SR PM 19",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

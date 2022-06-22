@@ -1,1 +1,229 @@
-{"id"=>"20011423", "name"=>{"german"=>"Textilcenter ALC Thun", "french"=>"Centre textile CLA-T", "italian"=>"Centro tessili CLEs Thun", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Textilgebäude", "street"=>"Allmendstrasse 96", "postalCode"=>"3602", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20011424", "name"=>{"german"=>"Wäscherei ALC Thun", "french"=>"Blanchisserie CLA-T", "italian"=>"Lavanderia CLEs Thun", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011425", "name"=>{"german"=>"Schneiderei ALC Thun", "french"=>"Atelier de couture CLA-T", "italian"=>"Sartoria CLEs Thun", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011676", "name"=>{"german"=>"Sattlerei ALC Thun", "french"=>"Sellerie CLA-T", "italian"=>"Selleria CLEs Thun", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040751", "name"=>{"german"=>"Textilpool ALC Thun", "french"=>"Centre textile CLA-T", "italian"=>"Pool tessili CLEs Thun", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20011661", "label"=>{"german"=>"Armeelogistikcenter Thun", "french"=>"Centre logistique de l'armée de Thoune", "italian"=>"Centro logistico dell'esercito Thun", "english"=>""}, "name"=>{"german"=>"Armeelogistikcenter Thun", "french"=>"Centre logistique de l'armée de Thoune", "italian"=>"Centro logistico dell'esercito Thun", "english"=>""}}, {"id"=>"20011667", "label"=>{"german"=>"Instandhaltung ALC Thun", "french"=>"Maintenance CLA-T", "italian"=>"Manutenzione CLEs Thun", "english"=>""}, "name"=>{"german"=>"Instandhaltung ALC Thun", "french"=>"Maintenance CLA-T", "italian"=>"Manutenzione CLEs Thun", "english"=>""}}, {"id"=>"20011423", "label"=>{"german"=>"Textilcenter ALC Thun", "french"=>"Centre textile CLA-T", "italian"=>"Centro tessili CLEs Thun", "english"=>""}, "name"=>{"german"=>"Textilcenter ALC Thun", "french"=>"Centre textile CLA-T", "italian"=>"Centro tessili CLEs Thun", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011423",
+  "name": {
+    "german": "Textilcenter ALC Thun",
+    "french": "Centre textile CLA-T",
+    "italian": "Centro tessili CLEs Thun",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Textilgebäude",
+    "street": "Allmendstrasse 96",
+    "postalCode": "3602",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20011424",
+      "name": {
+        "german": "Wäscherei ALC Thun",
+        "french": "Blanchisserie CLA-T",
+        "italian": "Lavanderia CLEs Thun",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011425",
+      "name": {
+        "german": "Schneiderei ALC Thun",
+        "french": "Atelier de couture CLA-T",
+        "italian": "Sartoria CLEs Thun",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011676",
+      "name": {
+        "german": "Sattlerei ALC Thun",
+        "french": "Sellerie CLA-T",
+        "italian": "Selleria CLEs Thun",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040751",
+      "name": {
+        "german": "Textilpool ALC Thun",
+        "french": "Centre textile CLA-T",
+        "italian": "Pool tessili CLEs Thun",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011661",
+      "label": {
+        "german": "Armeelogistikcenter Thun",
+        "french": "Centre logistique de l'armée de Thoune",
+        "italian": "Centro logistico dell'esercito Thun",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeelogistikcenter Thun",
+        "french": "Centre logistique de l'armée de Thoune",
+        "italian": "Centro logistico dell'esercito Thun",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011667",
+      "label": {
+        "german": "Instandhaltung ALC Thun",
+        "french": "Maintenance CLA-T",
+        "italian": "Manutenzione CLEs Thun",
+        "english": ""
+      },
+      "name": {
+        "german": "Instandhaltung ALC Thun",
+        "french": "Maintenance CLA-T",
+        "italian": "Manutenzione CLEs Thun",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011423",
+      "label": {
+        "german": "Textilcenter ALC Thun",
+        "french": "Centre textile CLA-T",
+        "italian": "Centro tessili CLEs Thun",
+        "english": ""
+      },
+      "name": {
+        "german": "Textilcenter ALC Thun",
+        "french": "Centre textile CLA-T",
+        "italian": "Centro tessili CLEs Thun",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

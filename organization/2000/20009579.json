@@ -1,1 +1,169 @@
-{"id"=>"20009579", "name"=>{"german"=>"WIKRI Standort Lugano", "french"=>"WIKRI Site de Lugano", "italian"=>"WIKRI Sede di Lugano", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Via Sorengo 3", "postalCode"=>"6900", "location"=>"Lugano", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20000986", "name"=>{"german"=>"Staatsanwälte WIKRI Lugano", "french"=>"Procureurs fédéraux WIKRI Lugano", "italian"=>"Procuratori federali WIKRI Lugano", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000980", "name"=>{"german"=>"Assistenz-Staatsanwälte WIKRI Lugano", "french"=>"Procureurs fédér.assistants WIKRI Lugano", "italian"=>"Assist. procurat. federali WIKRI Lugano", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034809", "name"=>{"german"=>"Verfahrensassistenz WIKRI Lugano", "french"=>"Chancellerie WIKRI Lugano", "italian"=>"Cancelleria WIKRI Lugano", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047477", "name"=>{"german"=>"Juristische Praktikanten WIKRI Lugano", "french"=>"Stagiaires juridiques WIKRI Zurich", "italian"=>"Stagisti giuridici WIKRI Zurigo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20009577", "label"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}, "name"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}}, {"id"=>"20009579", "label"=>{"german"=>"WIKRI Standort Lugano", "french"=>"WIKRI Site de Lugano", "italian"=>"WIKRI Sede di Lugano", "english"=>""}, "name"=>{"german"=>"WIKRI Standort Lugano", "french"=>"WIKRI Site de Lugano", "italian"=>"WIKRI Sede di Lugano", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009579",
+  "name": {
+    "german": "WIKRI Standort Lugano",
+    "french": "WIKRI Site de Lugano",
+    "italian": "WIKRI Sede di Lugano",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Via Sorengo 3",
+    "postalCode": "6900",
+    "location": "Lugano",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20000986",
+      "name": {
+        "german": "Staatsanwälte WIKRI Lugano",
+        "french": "Procureurs fédéraux WIKRI Lugano",
+        "italian": "Procuratori federali WIKRI Lugano",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000980",
+      "name": {
+        "german": "Assistenz-Staatsanwälte WIKRI Lugano",
+        "french": "Procureurs fédér.assistants WIKRI Lugano",
+        "italian": "Assist. procurat. federali WIKRI Lugano",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034809",
+      "name": {
+        "german": "Verfahrensassistenz WIKRI Lugano",
+        "french": "Chancellerie WIKRI Lugano",
+        "italian": "Cancelleria WIKRI Lugano",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047477",
+      "name": {
+        "german": "Juristische Praktikanten WIKRI Lugano",
+        "french": "Stagiaires juridiques WIKRI Zurich",
+        "italian": "Stagisti giuridici WIKRI Zurigo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009577",
+      "label": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009579",
+      "label": {
+        "german": "WIKRI Standort Lugano",
+        "french": "WIKRI Site de Lugano",
+        "italian": "WIKRI Sede di Lugano",
+        "english": ""
+      },
+      "name": {
+        "german": "WIKRI Standort Lugano",
+        "french": "WIKRI Site de Lugano",
+        "italian": "WIKRI Sede di Lugano",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

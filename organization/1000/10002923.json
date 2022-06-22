@@ -1,1 +1,202 @@
-{"id"=>"10002923", "name"=>{"german"=>"Zivilschutz", "french"=>"Protection civile", "italian"=>"Protezione civile", "english"=>""}, "nameAbbr"=>{"german"=>"ZS", "french"=>"ZS", "italian"=>"ZS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1B", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003329", "name"=>{"german"=>"Planung und Steuerung", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e gestione", "english"=>""}, "nameAbbr"=>{"german"=>"ZS/PuS", "french"=>"ZS/PuS", "italian"=>"ZS/PuS", "english"=>""}}, {"id"=>"20045156", "name"=>{"german"=>"Personelles Zivilschutz", "french"=>"Personnel Protection civile", "italian"=>"Personale della protezione civile", "english"=>""}, "nameAbbr"=>{"german"=>"ZS/Pers ZV", "french"=>"ZS/Pers ZV", "italian"=>"ZS/Pers ZV", "english"=>""}}, {"id"=>"10002934", "name"=>{"german"=>"Kulturgüterschutz", "french"=>"Protection des biens culturels", "italian"=>"Protezione dei beni culturali", "english"=>""}, "nameAbbr"=>{"german"=>"ZS/KGS", "french"=>"ZS/KGS", "italian"=>"ZS/KGS", "english"=>""}}, {"id"=>"20045157", "name"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}, "nameAbbr"=>{"german"=>"ZS/BAU", "french"=>"ZS/BAU", "italian"=>"ZS/BAU", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1097638", "surname"=>"Flury", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 27641", "function"=>{"german"=>"Chef GB Zivilschutz/Vizedirektor", "french"=>"Chef GB Zivilschutz/Vizedirektor", "italian"=>"Chef GB Zivilschutz/Vizedirektor", "english"=>"Chef GB Zivilschutz/Vizedirektor"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9460783", "surname"=>"Meier", "givenName"=>"Nikolaus", "email"=>nil, "phone"=>"+41 58 46 25138", "function"=>{"german"=>"Chef Planung und Steuerung und Stv C GB", "french"=>"Chef Planung und Steuerung und Stv C GB", "italian"=>"Chef Planung und Steuerung und Stv C GB", "english"=>"Chef Planung und Steuerung und Stv C GB"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"10002923", "label"=>{"german"=>"ZS", "french"=>"ZS", "italian"=>"ZS", "english"=>""}, "name"=>{"german"=>"Zivilschutz", "french"=>"Protection civile", "italian"=>"Protezione civile", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002923",
+  "name": {
+    "german": "Zivilschutz",
+    "french": "Protection civile",
+    "italian": "Protezione civile",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ZS",
+    "french": "ZS",
+    "italian": "ZS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1B",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003329",
+      "name": {
+        "german": "Planung und Steuerung",
+        "french": "Planification et pilotage",
+        "italian": "Pianificazione e gestione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZS/PuS",
+        "french": "ZS/PuS",
+        "italian": "ZS/PuS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045156",
+      "name": {
+        "german": "Personelles Zivilschutz",
+        "french": "Personnel Protection civile",
+        "italian": "Personale della protezione civile",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZS/Pers ZV",
+        "french": "ZS/Pers ZV",
+        "italian": "ZS/Pers ZV",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002934",
+      "name": {
+        "german": "Kulturgüterschutz",
+        "french": "Protection des biens culturels",
+        "italian": "Protezione dei beni culturali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZS/KGS",
+        "french": "ZS/KGS",
+        "italian": "ZS/KGS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045157",
+      "name": {
+        "german": "Bauten",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZS/BAU",
+        "french": "ZS/BAU",
+        "italian": "ZS/BAU",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1097638",
+      "surname": "Flury",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 27641",
+      "function": {
+        "german": "Chef GB Zivilschutz/Vizedirektor",
+        "french": "Chef GB Zivilschutz/Vizedirektor",
+        "italian": "Chef GB Zivilschutz/Vizedirektor",
+        "english": "Chef GB Zivilschutz/Vizedirektor"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9460783",
+      "surname": "Meier",
+      "givenName": "Nikolaus",
+      "email": null,
+      "phone": "+41 58 46 25138",
+      "function": {
+        "german": "Chef Planung und Steuerung und Stv C GB",
+        "french": "Chef Planung und Steuerung und Stv C GB",
+        "italian": "Chef Planung und Steuerung und Stv C GB",
+        "english": "Chef Planung und Steuerung und Stv C GB"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002923",
+      "label": {
+        "german": "ZS",
+        "french": "ZS",
+        "italian": "ZS",
+        "english": ""
+      },
+      "name": {
+        "german": "Zivilschutz",
+        "french": "Protection civile",
+        "italian": "Protezione civile",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

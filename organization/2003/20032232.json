@@ -1,1 +1,185 @@
-{"id"=>"20032232", "name"=>{"german"=>"SI Projet et architecture", "french"=>"SI Projet et architecture", "italian"=>"Unternehmens-Architektur", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Av. Edmond Vaucher 18, CP 3000", "postalCode"=>"1211", "location"=>"Genève 2", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046777", "name"=>{"german"=>"SI Unternehmensarchitektur", "french"=>"SI Architecture d'Entreprises AE", "italian"=>"SI Unternehmensarchitektur", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039603", "name"=>{"german"=>"SI Projekte", "french"=>"SI Projets", "italian"=>"SI Projekte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2849560", "surname"=>"Jeandupeux", "givenName"=>"Olivier", "email"=>nil, "phone"=>"+41 58 46 19231", "function"=>{"german"=>"Bereichsleiter/in UA", "french"=>"Chef/fe domaine projets et architecture", "italian"=>"Bereichsleiter/in UA", "english"=>"Bereichsleiter/in UA"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10001950", "label"=>{"german"=>"ZAS", "french"=>"CdC", "italian"=>"UCC", "english"=>""}, "name"=>{"german"=>"Zentrale Ausgleichsstelle", "french"=>"Centrale de compensation", "italian"=>"Ufficio centrale di compensazione", "english"=>""}}, {"id"=>"10008880", "label"=>{"german"=>"Informatiksysteme IS", "french"=>"SI-Systèmes d'information", "italian"=>"Governanza aziendale e TI", "english"=>""}, "name"=>{"german"=>"Informatiksysteme IS", "french"=>"SI-Systèmes d'information", "italian"=>"Governanza aziendale e TI", "english"=>""}}, {"id"=>"20032232", "label"=>{"german"=>"SI Projet et architecture", "french"=>"SI Projet et architecture", "italian"=>"Unternehmens-Architektur", "english"=>""}, "name"=>{"german"=>"SI Projet et architecture", "french"=>"SI Projet et architecture", "italian"=>"Unternehmens-Architektur", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20032232",
+  "name": {
+    "german": "SI Projet et architecture",
+    "french": "SI Projet et architecture",
+    "italian": "Unternehmens-Architektur",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Av. Edmond Vaucher 18, CP 3000",
+    "postalCode": "1211",
+    "location": "Genève 2",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046777",
+      "name": {
+        "german": "SI Unternehmensarchitektur",
+        "french": "SI Architecture d'Entreprises AE",
+        "italian": "SI Unternehmensarchitektur",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039603",
+      "name": {
+        "german": "SI Projekte",
+        "french": "SI Projets",
+        "italian": "SI Projekte",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2849560",
+      "surname": "Jeandupeux",
+      "givenName": "Olivier",
+      "email": null,
+      "phone": "+41 58 46 19231",
+      "function": {
+        "german": "Bereichsleiter/in UA",
+        "french": "Chef/fe domaine projets et architecture",
+        "italian": "Bereichsleiter/in UA",
+        "english": "Bereichsleiter/in UA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001950",
+      "label": {
+        "german": "ZAS",
+        "french": "CdC",
+        "italian": "UCC",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Ausgleichsstelle",
+        "french": "Centrale de compensation",
+        "italian": "Ufficio centrale di compensazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008880",
+      "label": {
+        "german": "Informatiksysteme IS",
+        "french": "SI-Systèmes d'information",
+        "italian": "Governanza aziendale e TI",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatiksysteme IS",
+        "french": "SI-Systèmes d'information",
+        "italian": "Governanza aziendale e TI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032232",
+      "label": {
+        "german": "SI Projet et architecture",
+        "french": "SI Projet et architecture",
+        "italian": "Unternehmens-Architektur",
+        "english": ""
+      },
+      "name": {
+        "german": "SI Projet et architecture",
+        "french": "SI Projet et architecture",
+        "italian": "Unternehmens-Architektur",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

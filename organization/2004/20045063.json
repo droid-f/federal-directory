@@ -1,1 +1,171 @@
-{"id"=>"20045063", "name"=>{"german"=>"Asylverfahren NWCH 3", "french"=>"Procédure d'asile CHNO 3", "italian"=>"Procedura d'asilo CH-N-O 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgerstrasse 50", "postalCode"=>"4057", "location"=>"Basel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4525025", "surname"=>"Rennard", "givenName"=>"Debra", "email"=>nil, "phone"=>"+41 58 48 21290", "function"=>{"german"=>"Chef/in Sektion", "french"=>"Chef/in Sektion", "italian"=>"Chef/in Sektion", "english"=>"Chef/in Sektion"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045056", "label"=>{"german"=>"Region Nordwestschweiz", "french"=>"Région Suisse du Nord-Ouest", "italian"=>"Regione Svizzera nord-occidentale", "english"=>""}, "name"=>{"german"=>"Region Nordwestschweiz", "french"=>"Région Suisse du Nord-Ouest", "italian"=>"Regione Svizzera nord-occidentale", "english"=>""}}, {"id"=>"20045063", "label"=>{"german"=>"Asylverfahren NWCH 3", "french"=>"Procédure d'asile CHNO 3", "italian"=>"Procedura d'asilo CH-N-O 3", "english"=>""}, "name"=>{"german"=>"Asylverfahren NWCH 3", "french"=>"Procédure d'asile CHNO 3", "italian"=>"Procedura d'asilo CH-N-O 3", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045063",
+  "name": {
+    "german": "Asylverfahren NWCH 3",
+    "french": "Procédure d'asile CHNO 3",
+    "italian": "Procedura d'asilo CH-N-O 3",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgerstrasse 50",
+    "postalCode": "4057",
+    "location": "Basel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4525025",
+      "surname": "Rennard",
+      "givenName": "Debra",
+      "email": null,
+      "phone": "+41 58 48 21290",
+      "function": {
+        "german": "Chef/in Sektion",
+        "french": "Chef/in Sektion",
+        "italian": "Chef/in Sektion",
+        "english": "Chef/in Sektion"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045056",
+      "label": {
+        "german": "Region Nordwestschweiz",
+        "french": "Région Suisse du Nord-Ouest",
+        "italian": "Regione Svizzera nord-occidentale",
+        "english": ""
+      },
+      "name": {
+        "german": "Region Nordwestschweiz",
+        "french": "Région Suisse du Nord-Ouest",
+        "italian": "Regione Svizzera nord-occidentale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045063",
+      "label": {
+        "german": "Asylverfahren NWCH 3",
+        "french": "Procédure d'asile CHNO 3",
+        "italian": "Procedura d'asilo CH-N-O 3",
+        "english": ""
+      },
+      "name": {
+        "german": "Asylverfahren NWCH 3",
+        "french": "Procédure d'asile CHNO 3",
+        "italian": "Procedura d'asilo CH-N-O 3",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

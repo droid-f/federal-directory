@@ -1,1 +1,244 @@
-{"id"=>"20003387", "name"=>{"german"=>"Kdo Artillerie / Aufklärung UOS/RS 31", "french"=>"Cdmt ER/ESO art/expl 31", "italian"=>"Cdo SSU/SR art/espl 31", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Cdmt ESO/ER art 31", "street"=>"Caserne", "postalCode"=>"1145", "location"=>"Bière", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20012806", "name"=>{"german"=>"Kdt Stv / Stab/Plan Art/Aufkl UOS/RS 31", "french"=>"rempl Cdt / EM / plan ER/ESO art/expl 31", "italian"=>"sost cdt/SM/pianif SSU/SR art/espl 31", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003424", "name"=>{"german"=>"Fhr Geh Kdt Art / Aufkl UOS/RS 31", "french"=>"Aide cdmt cdt ER/ESO art/expl 31", "italian"=>"Aiuto cdo cdt SSU/SR art/espl 31", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20028010", "name"=>{"german"=>"Kompanie 1 Art / Aufkl UOS/RS 31", "french"=>"Compagnie 1 art/expl ER/ESO 31", "italian"=>"Compagnia 1 SSU/SR art/espl 31", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20028016", "name"=>{"german"=>"Kompanie 2 Art / Aufkl UOS/RS 31", "french"=>"Compagnie 2 art/expl ER/ESO 31", "italian"=>"Compagnia 2 SSU/SR art/espl 31", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20028011", "name"=>{"german"=>"Kompanie 3 Art / Aufkl UOS/RS 31", "french"=>"Compagnie 3 art/expl ER/ESO 31", "italian"=>"Compagnia 3 SSU/SR art/espl 31", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20028015", "name"=>{"german"=>"Kompanie 4 Art / Aufkl UOS/RS 31", "french"=>"Compagnie 4 art/expl ER/ESO 31", "italian"=>"Compagnia 4 SSU/SR art/espl 31", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015870", "label"=>{"german"=>"LVBPZART", "french"=>"LVBPZART", "italian"=>"LVBPZART", "english"=>""}, "name"=>{"german"=>"Lehrverband Panzer und Artillerie", "french"=>"FOAP blindés et artillerie", "italian"=>"FOA dei blindati e dell'artiglieria", "english"=>""}}, {"id"=>"20003387", "label"=>{"german"=>"Kdo Artillerie / Aufklärung UOS/RS 31", "french"=>"Cdmt ER/ESO art/expl 31", "italian"=>"Cdo SSU/SR art/espl 31", "english"=>""}, "name"=>{"german"=>"Kdo Artillerie / Aufklärung UOS/RS 31", "french"=>"Cdmt ER/ESO art/expl 31", "italian"=>"Cdo SSU/SR art/espl 31", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003387",
+  "name": {
+    "german": "Kdo Artillerie / Aufklärung UOS/RS 31",
+    "french": "Cdmt ER/ESO art/expl 31",
+    "italian": "Cdo SSU/SR art/espl 31",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Cdmt ESO/ER art 31",
+    "street": "Caserne",
+    "postalCode": "1145",
+    "location": "Bière",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20012806",
+      "name": {
+        "german": "Kdt Stv / Stab/Plan Art/Aufkl UOS/RS 31",
+        "french": "rempl Cdt / EM / plan ER/ESO art/expl 31",
+        "italian": "sost cdt/SM/pianif SSU/SR art/espl 31",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003424",
+      "name": {
+        "german": "Fhr Geh Kdt Art / Aufkl UOS/RS 31",
+        "french": "Aide cdmt cdt ER/ESO art/expl 31",
+        "italian": "Aiuto cdo cdt SSU/SR art/espl 31",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028010",
+      "name": {
+        "german": "Kompanie 1 Art / Aufkl UOS/RS 31",
+        "french": "Compagnie 1 art/expl ER/ESO 31",
+        "italian": "Compagnia 1 SSU/SR art/espl 31",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028016",
+      "name": {
+        "german": "Kompanie 2 Art / Aufkl UOS/RS 31",
+        "french": "Compagnie 2 art/expl ER/ESO 31",
+        "italian": "Compagnia 2 SSU/SR art/espl 31",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028011",
+      "name": {
+        "german": "Kompanie 3 Art / Aufkl UOS/RS 31",
+        "french": "Compagnie 3 art/expl ER/ESO 31",
+        "italian": "Compagnia 3 SSU/SR art/espl 31",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028015",
+      "name": {
+        "german": "Kompanie 4 Art / Aufkl UOS/RS 31",
+        "french": "Compagnie 4 art/expl ER/ESO 31",
+        "italian": "Compagnia 4 SSU/SR art/espl 31",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015870",
+      "label": {
+        "german": "LVBPZART",
+        "french": "LVBPZART",
+        "italian": "LVBPZART",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Panzer und Artillerie",
+        "french": "FOAP blindés et artillerie",
+        "italian": "FOA dei blindati e dell'artiglieria",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003387",
+      "label": {
+        "german": "Kdo Artillerie / Aufklärung UOS/RS 31",
+        "french": "Cdmt ER/ESO art/expl 31",
+        "italian": "Cdo SSU/SR art/espl 31",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Artillerie / Aufklärung UOS/RS 31",
+        "french": "Cdmt ER/ESO art/expl 31",
+        "italian": "Cdo SSU/SR art/espl 31",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

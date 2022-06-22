@@ -1,1 +1,307 @@
-{"id"=>"20012766", "name"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestrasse 6", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20012780", "name"=>{"german"=>"Umwelt", "french"=>"Environnement", "italian"=>"Ambiente", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012781", "name"=>{"german"=>"Bautechnik", "french"=>"Technique de construction", "italian"=>"Tecnica delle costruzioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012782", "name"=>{"german"=>"Sicherheitstechnik", "french"=>"Technique de sécurité", "italian"=>"Tecnica di sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012783", "name"=>{"german"=>"Elektrische Anlagen", "french"=>"Installations électriques", "italian"=>"Impianti elettrici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012784", "name"=>{"german"=>"Fahrzeuge", "french"=>"Véhicules", "italian"=>"Veicoli", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012785", "name"=>{"german"=>"Bahnbetrieb", "french"=>"Exploitation ferroviaire", "italian"=>"Esercizio ferroviario", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012769", "name"=>{"german"=>"Sicherheitsüberwachung", "french"=>"Surveillance de la sécurité", "italian"=>"Vigilanza sulla sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012771", "name"=>{"german"=>"Schifffahrt", "french"=>"Navigation", "italian"=>"Navigazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20032076", "name"=>{"german"=>"Seilbahntechnik", "french"=>"Technique des installations à câbles", "italian"=>"Tecnica impianti a fune", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20033426", "name"=>{"german"=>"Grundlagen", "french"=>"Bases scientifiques", "italian"=>"Basi scientifiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049829", "name"=>{"german"=>"Fahrbahn und Publikumsanlagen", "french"=>"Voie et installationsd’accueil", "italian"=>"Sede ferroviaria e installazioni per il", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6411774", "surname"=>"Sperlich", "givenName"=>"Rudolf", "email"=>nil, "phone"=>"+41 58 46 50066", "function"=>{"german"=>"Vizedirektor/in, Leiter/in Sicherheit", "french"=>"Vizedirektor/in, Leiter/in Sicherheit", "italian"=>"Vizedirektor/in, Leiter/in Sicherheit", "english"=>"Vizedirektor/in, Leiter/in Sicherheit"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7278314", "surname"=>"Revelin", "givenName"=>"Bruno", "email"=>nil, "phone"=>"+41 58 46 31233", "function"=>{"german"=>"Stv. Abteilungschef SI / Sektionschef/in", "french"=>"Stv. Abteilungschef SI / Sektionschef/in", "italian"=>"Stv. Abteilungschef SI / Sektionschef/in", "english"=>"Stv. Abteilungschef SI / Sektionschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008753", "label"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}}, {"id"=>"20012766", "label"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>""}, "name"=>{"german"=>"Sicherheit", "french"=>"Sécurité", "italian"=>"Sicurezza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012766",
+  "name": {
+    "german": "Sicherheit",
+    "french": "Sécurité",
+    "italian": "Sicurezza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestrasse 6",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20012780",
+      "name": {
+        "german": "Umwelt",
+        "french": "Environnement",
+        "italian": "Ambiente",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012781",
+      "name": {
+        "german": "Bautechnik",
+        "french": "Technique de construction",
+        "italian": "Tecnica delle costruzioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012782",
+      "name": {
+        "german": "Sicherheitstechnik",
+        "french": "Technique de sécurité",
+        "italian": "Tecnica di sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012783",
+      "name": {
+        "german": "Elektrische Anlagen",
+        "french": "Installations électriques",
+        "italian": "Impianti elettrici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012784",
+      "name": {
+        "german": "Fahrzeuge",
+        "french": "Véhicules",
+        "italian": "Veicoli",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012785",
+      "name": {
+        "german": "Bahnbetrieb",
+        "french": "Exploitation ferroviaire",
+        "italian": "Esercizio ferroviario",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012769",
+      "name": {
+        "german": "Sicherheitsüberwachung",
+        "french": "Surveillance de la sécurité",
+        "italian": "Vigilanza sulla sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012771",
+      "name": {
+        "german": "Schifffahrt",
+        "french": "Navigation",
+        "italian": "Navigazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032076",
+      "name": {
+        "german": "Seilbahntechnik",
+        "french": "Technique des installations à câbles",
+        "italian": "Tecnica impianti a fune",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033426",
+      "name": {
+        "german": "Grundlagen",
+        "french": "Bases scientifiques",
+        "italian": "Basi scientifiche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049829",
+      "name": {
+        "german": "Fahrbahn und Publikumsanlagen",
+        "french": "Voie et installationsd’accueil",
+        "italian": "Sede ferroviaria e installazioni per il",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6411774",
+      "surname": "Sperlich",
+      "givenName": "Rudolf",
+      "email": null,
+      "phone": "+41 58 46 50066",
+      "function": {
+        "german": "Vizedirektor/in, Leiter/in Sicherheit",
+        "french": "Vizedirektor/in, Leiter/in Sicherheit",
+        "italian": "Vizedirektor/in, Leiter/in Sicherheit",
+        "english": "Vizedirektor/in, Leiter/in Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7278314",
+      "surname": "Revelin",
+      "givenName": "Bruno",
+      "email": null,
+      "phone": "+41 58 46 31233",
+      "function": {
+        "german": "Stv. Abteilungschef SI / Sektionschef/in",
+        "french": "Stv. Abteilungschef SI / Sektionschef/in",
+        "italian": "Stv. Abteilungschef SI / Sektionschef/in",
+        "english": "Stv. Abteilungschef SI / Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "label": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012766",
+      "label": {
+        "german": "Sicherheit",
+        "french": "Sécurité",
+        "italian": "Sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Sicherheit",
+        "french": "Sécurité",
+        "italian": "Sicurezza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

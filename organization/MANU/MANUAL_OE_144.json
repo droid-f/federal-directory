@@ -1,1 +1,110 @@
-{"id"=>"MANUAL_OE_144", "name"=>{"german"=>"Kanton Schaffhausen", "french"=>"Canton de Schaffhouse", "italian"=>"Cantone di Sciaffusa", "english"=>""}, "nameAbbr"=>{"german"=>"SH", "french"=>"SH", "italian"=>"SH", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"MANUAL_OE_2", "label"=>{"german"=>"BV", "french"=>"BV", "italian"=>"BV", "english"=>""}, "name"=>{"german"=>"Bundesversammlung", "french"=>"Assemblée fédérale", "italian"=>"Assemblea federale", "english"=>""}}, {"id"=>"MANUAL_OE_4", "label"=>{"german"=>"SR", "french"=>"SR", "italian"=>"SR", "english"=>""}, "name"=>{"german"=>"Ständerat", "french"=>"Conseil des Etats", "italian"=>"Consiglio degli Stati", "english"=>""}}, {"id"=>"MANUAL_OE_135", "label"=>{"german"=>"Mitglieder", "french"=>"Mitglieder", "italian"=>"Mitglieder", "english"=>""}, "name"=>{"german"=>"Mitglieder", "french"=>"Membres", "italian"=>"Membri", "english"=>""}}, {"id"=>"MANUAL_OE_144", "label"=>{"german"=>"SH", "french"=>"SH", "italian"=>"SH", "english"=>""}, "name"=>{"german"=>"Kanton Schaffhausen", "french"=>"Canton de Schaffhouse", "italian"=>"Cantone di Sciaffusa", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "MANUAL_OE_144",
+  "name": {
+    "german": "Kanton Schaffhausen",
+    "french": "Canton de Schaffhouse",
+    "italian": "Cantone di Sciaffusa",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SH",
+    "french": "SH",
+    "italian": "SH",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "MANUAL_OE_2",
+      "label": {
+        "german": "BV",
+        "french": "BV",
+        "italian": "BV",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesversammlung",
+        "french": "Assemblée fédérale",
+        "italian": "Assemblea federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_4",
+      "label": {
+        "german": "SR",
+        "french": "SR",
+        "italian": "SR",
+        "english": ""
+      },
+      "name": {
+        "german": "Ständerat",
+        "french": "Conseil des Etats",
+        "italian": "Consiglio degli Stati",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_135",
+      "label": {
+        "german": "Mitglieder",
+        "french": "Mitglieder",
+        "italian": "Mitglieder",
+        "english": ""
+      },
+      "name": {
+        "german": "Mitglieder",
+        "french": "Membres",
+        "italian": "Membri",
+        "english": ""
+      }
+    },
+    {
+      "id": "MANUAL_OE_144",
+      "label": {
+        "german": "SH",
+        "french": "SH",
+        "italian": "SH",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanton Schaffhausen",
+        "french": "Canton de Schaffhouse",
+        "italian": "Cantone di Sciaffusa",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

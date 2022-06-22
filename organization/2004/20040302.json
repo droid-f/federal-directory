@@ -1,1 +1,197 @@
-{"id"=>"20040302", "name"=>{"german"=>"Zentrale Dienste / Kanzlei", "french"=>"Services centraux / Chancellerie", "italian"=>"Servizi centrali / cancelleria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20050584", "name"=>{"german"=>"Sekretariat ESA", "french"=>"Secrétariat SFF", "italian"=>"Segreteria VFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4396034", "surname"=>"Schröder Santschi", "givenName"=>"Saskia", "email"=>nil, "phone"=>"+41 58 46 71041", "function"=>{"german"=>"Leiter/in Zentale Dienste/Kanzlei", "french"=>"Resp. Services centraux/Chancellerie", "italian"=>"Resp. servizi centrali / cancelleria", "english"=>"Leiter/in Zentale Dienste/Kanzlei"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8476901", "surname"=>"Imhof", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 46 97609", "function"=>{"german"=>"Revisor/in ESA", "french"=>"Réviseur/se ASF", "italian"=>"Revisore AVF", "english"=>"Revisor/in ESA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0206149", "surname"=>"Zimmermann", "givenName"=>"Nathalie", "email"=>nil, "phone"=>"+41 58 46 26700", "function"=>{"german"=>"Revisor/in ESA", "french"=>"Réviseur/se ASF", "italian"=>"Revisore AVF", "english"=>"Revisor/in ESA"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"20035564", "label"=>{"german"=>"ESA", "french"=>"ESA", "italian"=>"ESA", "english"=>""}, "name"=>{"german"=>"Eidgenössische Stiftungsaufsicht", "french"=>"Surveillance fédérale des fondations SFF", "italian"=>"Vigilanza federale sulle fondazioni VFF", "english"=>""}}, {"id"=>"20040302", "label"=>{"german"=>"Zentrale Dienste / Kanzlei", "french"=>"Services centraux / Chancellerie", "italian"=>"Servizi centrali / cancelleria", "english"=>""}, "name"=>{"german"=>"Zentrale Dienste / Kanzlei", "french"=>"Services centraux / Chancellerie", "italian"=>"Servizi centrali / cancelleria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20040302",
+  "name": {
+    "german": "Zentrale Dienste / Kanzlei",
+    "french": "Services centraux / Chancellerie",
+    "italian": "Servizi centrali / cancelleria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20050584",
+      "name": {
+        "german": "Sekretariat ESA",
+        "french": "Secrétariat SFF",
+        "italian": "Segreteria VFF",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4396034",
+      "surname": "Schröder Santschi",
+      "givenName": "Saskia",
+      "email": null,
+      "phone": "+41 58 46 71041",
+      "function": {
+        "german": "Leiter/in Zentale Dienste/Kanzlei",
+        "french": "Resp. Services centraux/Chancellerie",
+        "italian": "Resp. servizi centrali / cancelleria",
+        "english": "Leiter/in Zentale Dienste/Kanzlei"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8476901",
+      "surname": "Imhof",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 46 97609",
+      "function": {
+        "german": "Revisor/in ESA",
+        "french": "Réviseur/se ASF",
+        "italian": "Revisore AVF",
+        "english": "Revisor/in ESA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0206149",
+      "surname": "Zimmermann",
+      "givenName": "Nathalie",
+      "email": null,
+      "phone": "+41 58 46 26700",
+      "function": {
+        "german": "Revisor/in ESA",
+        "french": "Réviseur/se ASF",
+        "italian": "Revisore AVF",
+        "english": "Revisor/in ESA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035564",
+      "label": {
+        "german": "ESA",
+        "french": "ESA",
+        "italian": "ESA",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Stiftungsaufsicht",
+        "french": "Surveillance fédérale des fondations SFF",
+        "italian": "Vigilanza federale sulle fondazioni VFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040302",
+      "label": {
+        "german": "Zentrale Dienste / Kanzlei",
+        "french": "Services centraux / Chancellerie",
+        "italian": "Servizi centrali / cancelleria",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Dienste / Kanzlei",
+        "french": "Services centraux / Chancellerie",
+        "italian": "Servizi centrali / cancelleria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

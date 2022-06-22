@@ -1,1 +1,153 @@
-{"id"=>"10010828", "name"=>{"german"=>"Sektion Digitale Dienste", "french"=>"Section Services numériques", "italian"=>"Sezione Servizi digitali", "english"=>""}, "nameAbbr"=>{"german"=>"DD", "french"=>"DD", "italian"=>"DD", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Gurtengasse 5", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"ikt@bk.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5573116", "surname"=>"Gautschi", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 31328", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3989097", "surname"=>"Glauser", "givenName"=>"Joëlle", "email"=>nil, "phone"=>"+41 58 46 51399", "function"=>{"german"=>"Business Analyst/in, Stv. Leiter/in", "french"=>"Business Analyst/in, Stv. Leiter/in", "italian"=>"Business Analyst/in, Stv. Leiter/in", "english"=>"Business Analyst/in, Stv. Leiter/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1026151", "surname"=>"Uhrmann", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 56379", "function"=>{"german"=>"IKT-Projektleiter/in", "french"=>"IKT-Projektleiter/in", "italian"=>"IKT-Projektleiter/in", "english"=>"IKT-Projektleiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10010826", "label"=>{"german"=>"R", "french"=>"R", "italian"=>"R", "english"=>""}, "name"=>{"german"=>"Bereich Ressourcen", "french"=>"Secteur Ressources", "italian"=>"Settore Risorse", "english"=>""}}, {"id"=>"10010828", "label"=>{"german"=>"DD", "french"=>"DD", "italian"=>"DD", "english"=>""}, "name"=>{"german"=>"Sektion Digitale Dienste", "french"=>"Section Services numériques", "italian"=>"Sezione Servizi digitali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10010828",
+  "name": {
+    "german": "Sektion Digitale Dienste",
+    "french": "Section Services numériques",
+    "italian": "Sezione Servizi digitali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "DD",
+    "french": "DD",
+    "italian": "DD",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Gurtengasse 5",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "ikt@bk.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5573116",
+      "surname": "Gautschi",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 31328",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3989097",
+      "surname": "Glauser",
+      "givenName": "Joëlle",
+      "email": null,
+      "phone": "+41 58 46 51399",
+      "function": {
+        "german": "Business Analyst/in, Stv. Leiter/in",
+        "french": "Business Analyst/in, Stv. Leiter/in",
+        "italian": "Business Analyst/in, Stv. Leiter/in",
+        "english": "Business Analyst/in, Stv. Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1026151",
+      "surname": "Uhrmann",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 56379",
+      "function": {
+        "german": "IKT-Projektleiter/in",
+        "french": "IKT-Projektleiter/in",
+        "italian": "IKT-Projektleiter/in",
+        "english": "IKT-Projektleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010826",
+      "label": {
+        "german": "R",
+        "french": "R",
+        "italian": "R",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Ressourcen",
+        "french": "Secteur Ressources",
+        "italian": "Settore Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010828",
+      "label": {
+        "german": "DD",
+        "french": "DD",
+        "italian": "DD",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Digitale Dienste",
+        "french": "Section Services numériques",
+        "italian": "Sezione Servizi digitali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

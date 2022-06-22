@@ -1,1 +1,230 @@
-{"id"=>"20049944", "name"=>{"german"=>"Geschäftssteuerung KS", "french"=>"Gestion des affaires SC", "italian"=>"Gestione degli affari SC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046227", "name"=>{"german"=>"Organisationsmanagement KS", "french"=>"Gestion de l'organisation SC", "italian"=>"Gestione dell'organizzazione SC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049945", "name"=>{"german"=>"Projekte u Änderungsmanagement", "french"=>"Projets et gestions des changements", "italian"=>"Progetti e gestione delle modifiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049947", "name"=>{"german"=>"Operatives Beschaffungsmanagement", "french"=>"Gestion opérative des acquisitions", "italian"=>"Gestione operativa degli acquisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20038140", "name"=>{"german"=>"Lieferantenmanagement", "french"=>"Gestion des fournisseurs", "italian"=>"Gestione dei fornitori", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9776045", "surname"=>"Blatter", "givenName"=>"Pascal", "email"=>nil, "phone"=>"+41 58 48 36440", "function"=>{"german"=>"Chef/in Geschäftssteuerung KS / Stv C", "french"=>"Chef Gestion des affaires SC / rempl C", "italian"=>"Capo Gestione degli affari KS / Sost C", "english"=>"Chef/in Geschäftssteuerung KS / Stv C"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"10009869", "label"=>{"german"=>"FUB", "french"=>"BAC", "italian"=>"BAC", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbasis", "french"=>"Base d'aide au commandement", "italian"=>"Base d'aiuto alla condotta", "english"=>""}}, {"id"=>"20038130", "label"=>{"german"=>"Kundenservices", "french"=>"Service clients", "italian"=>"Servizio clienti", "english"=>""}, "name"=>{"german"=>"Kundenservices", "french"=>"Service clients", "italian"=>"Servizio clienti", "english"=>""}}, {"id"=>"20049944", "label"=>{"german"=>"Geschäftssteuerung KS", "french"=>"Gestion des affaires SC", "italian"=>"Gestione degli affari SC", "english"=>""}, "name"=>{"german"=>"Geschäftssteuerung KS", "french"=>"Gestion des affaires SC", "italian"=>"Gestione degli affari SC", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049944",
+  "name": {
+    "german": "Geschäftssteuerung KS",
+    "french": "Gestion des affaires SC",
+    "italian": "Gestione degli affari SC",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046227",
+      "name": {
+        "german": "Organisationsmanagement KS",
+        "french": "Gestion de l'organisation SC",
+        "italian": "Gestione dell'organizzazione SC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049945",
+      "name": {
+        "german": "Projekte u Änderungsmanagement",
+        "french": "Projets et gestions des changements",
+        "italian": "Progetti e gestione delle modifiche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049947",
+      "name": {
+        "german": "Operatives Beschaffungsmanagement",
+        "french": "Gestion opérative des acquisitions",
+        "italian": "Gestione operativa degli acquisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038140",
+      "name": {
+        "german": "Lieferantenmanagement",
+        "french": "Gestion des fournisseurs",
+        "italian": "Gestione dei fornitori",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9776045",
+      "surname": "Blatter",
+      "givenName": "Pascal",
+      "email": null,
+      "phone": "+41 58 48 36440",
+      "function": {
+        "german": "Chef/in Geschäftssteuerung KS / Stv C",
+        "french": "Chef Gestion des affaires SC / rempl C",
+        "italian": "Capo Gestione degli affari KS / Sost C",
+        "english": "Chef/in Geschäftssteuerung KS / Stv C"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009869",
+      "label": {
+        "german": "FUB",
+        "french": "BAC",
+        "italian": "BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbasis",
+        "french": "Base d'aide au commandement",
+        "italian": "Base d'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038130",
+      "label": {
+        "german": "Kundenservices",
+        "french": "Service clients",
+        "italian": "Servizio clienti",
+        "english": ""
+      },
+      "name": {
+        "german": "Kundenservices",
+        "french": "Service clients",
+        "italian": "Servizio clienti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049944",
+      "label": {
+        "german": "Geschäftssteuerung KS",
+        "french": "Gestion des affaires SC",
+        "italian": "Gestione degli affari SC",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftssteuerung KS",
+        "french": "Gestion des affaires SC",
+        "italian": "Gestione degli affari SC",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

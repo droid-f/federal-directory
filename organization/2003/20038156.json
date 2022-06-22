@@ -1,1 +1,215 @@
-{"id"=>"20038156", "name"=>{"german"=>"Business IT Services KSBITS", "french"=>"Business IT Services KSBITS", "italian"=>"Business IT Services KSBITS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037252", "name"=>{"german"=>"User Infrastructure Services UIS", "french"=>"User Infrastructure Services UIS", "italian"=>"User Infrastructure Services UIS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046231", "name"=>{"german"=>"Communication Services CS", "french"=>"Communication Services CS", "italian"=>"Communication Services CS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030723", "name"=>{"german"=>"Air Ground and Logistics Services AGLS", "french"=>"Air Ground and Logistics Services AGLS", "italian"=>"Air Ground and Logistics Services AGLS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0577819", "surname"=>"Stebler", "givenName"=>"Simone", "email"=>nil, "phone"=>"+41 58 48 57732", "function"=>{"german"=>"C Air Ground and Log Services AGLS/Stv C", "french"=>"C Air Ground and Log Serv AGLS/rempl C", "italian"=>"C Air Ground and Log Serv AGLS/sost C", "english"=>"C Air Ground and Log Services AGLS/Stv C"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"10009869", "label"=>{"german"=>"FUB", "french"=>"BAC", "italian"=>"BAC", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbasis", "french"=>"Base d'aide au commandement", "italian"=>"Base d'aiuto alla condotta", "english"=>""}}, {"id"=>"20038130", "label"=>{"german"=>"Kundenservices", "french"=>"Service clients", "italian"=>"Servizio clienti", "english"=>""}, "name"=>{"german"=>"Kundenservices", "french"=>"Service clients", "italian"=>"Servizio clienti", "english"=>""}}, {"id"=>"20038156", "label"=>{"german"=>"Business IT Services KSBITS", "french"=>"Business IT Services KSBITS", "italian"=>"Business IT Services KSBITS", "english"=>""}, "name"=>{"german"=>"Business IT Services KSBITS", "french"=>"Business IT Services KSBITS", "italian"=>"Business IT Services KSBITS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038156",
+  "name": {
+    "german": "Business IT Services KSBITS",
+    "french": "Business IT Services KSBITS",
+    "italian": "Business IT Services KSBITS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037252",
+      "name": {
+        "german": "User Infrastructure Services UIS",
+        "french": "User Infrastructure Services UIS",
+        "italian": "User Infrastructure Services UIS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046231",
+      "name": {
+        "german": "Communication Services CS",
+        "french": "Communication Services CS",
+        "italian": "Communication Services CS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030723",
+      "name": {
+        "german": "Air Ground and Logistics Services AGLS",
+        "french": "Air Ground and Logistics Services AGLS",
+        "italian": "Air Ground and Logistics Services AGLS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0577819",
+      "surname": "Stebler",
+      "givenName": "Simone",
+      "email": null,
+      "phone": "+41 58 48 57732",
+      "function": {
+        "german": "C Air Ground and Log Services AGLS/Stv C",
+        "french": "C Air Ground and Log Serv AGLS/rempl C",
+        "italian": "C Air Ground and Log Serv AGLS/sost C",
+        "english": "C Air Ground and Log Services AGLS/Stv C"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009869",
+      "label": {
+        "german": "FUB",
+        "french": "BAC",
+        "italian": "BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbasis",
+        "french": "Base d'aide au commandement",
+        "italian": "Base d'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038130",
+      "label": {
+        "german": "Kundenservices",
+        "french": "Service clients",
+        "italian": "Servizio clienti",
+        "english": ""
+      },
+      "name": {
+        "german": "Kundenservices",
+        "french": "Service clients",
+        "italian": "Servizio clienti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038156",
+      "label": {
+        "german": "Business IT Services KSBITS",
+        "french": "Business IT Services KSBITS",
+        "italian": "Business IT Services KSBITS",
+        "english": ""
+      },
+      "name": {
+        "german": "Business IT Services KSBITS",
+        "french": "Business IT Services KSBITS",
+        "italian": "Business IT Services KSBITS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

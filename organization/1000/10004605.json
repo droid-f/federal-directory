@@ -1,1 +1,201 @@
-{"id"=>"10004605", "name"=>{"german"=>"Sektion Biozide", "french"=>"Section Biocides", "italian"=>"Sezione biocidi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8052165", "surname"=>"Crettaz", "givenName"=>"Pierre", "email"=>nil, "phone"=>"+41 58 46 29631", "function"=>{"german"=>"Ltg. Biozide", "french"=>"Ltg. Biozide", "italian"=>"Ltg. Biozide", "english"=>"Ltg. Biozide"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2819283", "surname"=>"Rossier", "givenName"=>"Nadine", "email"=>nil, "phone"=>"+41 58 46 97980", "function"=>{"german"=>"Stv. u. Wiss. Mitarbeiter/in", "french"=>"Stv. u. Wiss. Mitarbeiter/in", "italian"=>"Stv. u. Wiss. Mitarbeiter/in", "english"=>"Stv. u. Wiss. Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3646842", "surname"=>"Meier", "givenName"=>"Margrith", "email"=>nil, "phone"=>"+41 58 46 76766", "function"=>{"german"=>"Wiss. Mitarbeiter/in", "french"=>"Wiss. Mitarbeiter/in", "italian"=>"Wiss. Mitarbeiter/in", "english"=>"Wiss. Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004593", "label"=>{"german"=>"Direktionsbereich Gesundheitsschutz", "french"=>"Unité de direction Protection de la santé", "italian"=>"Unità di direzione Protezione della salute", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Gesundheitsschutz", "french"=>"Unité de direction Protection de la santé", "italian"=>"Unità di direzione Protezione della salute", "english"=>""}}, {"id"=>"10004602", "label"=>{"german"=>"Abteilung Chemikalien", "french"=>"Division Produits chimiques", "italian"=>"Divisione prodotti chimici", "english"=>""}, "name"=>{"german"=>"Abteilung Chemikalien", "french"=>"Division Produits chimiques", "italian"=>"Divisione prodotti chimici", "english"=>""}}, {"id"=>"10004605", "label"=>{"german"=>"Sektion Biozide", "french"=>"Section Biocides", "italian"=>"Sezione biocidi", "english"=>""}, "name"=>{"german"=>"Sektion Biozide", "french"=>"Section Biocides", "italian"=>"Sezione biocidi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004605",
+  "name": {
+    "german": "Sektion Biozide",
+    "french": "Section Biocides",
+    "italian": "Sezione biocidi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8052165",
+      "surname": "Crettaz",
+      "givenName": "Pierre",
+      "email": null,
+      "phone": "+41 58 46 29631",
+      "function": {
+        "german": "Ltg. Biozide",
+        "french": "Ltg. Biozide",
+        "italian": "Ltg. Biozide",
+        "english": "Ltg. Biozide"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2819283",
+      "surname": "Rossier",
+      "givenName": "Nadine",
+      "email": null,
+      "phone": "+41 58 46 97980",
+      "function": {
+        "german": "Stv. u. Wiss. Mitarbeiter/in",
+        "french": "Stv. u. Wiss. Mitarbeiter/in",
+        "italian": "Stv. u. Wiss. Mitarbeiter/in",
+        "english": "Stv. u. Wiss. Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3646842",
+      "surname": "Meier",
+      "givenName": "Margrith",
+      "email": null,
+      "phone": "+41 58 46 76766",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in",
+        "french": "Wiss. Mitarbeiter/in",
+        "italian": "Wiss. Mitarbeiter/in",
+        "english": "Wiss. Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004593",
+      "label": {
+        "german": "Direktionsbereich Gesundheitsschutz",
+        "french": "Unité de direction Protection de la santé",
+        "italian": "Unità di direzione Protezione della salute",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Gesundheitsschutz",
+        "french": "Unité de direction Protection de la santé",
+        "italian": "Unità di direzione Protezione della salute",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004602",
+      "label": {
+        "german": "Abteilung Chemikalien",
+        "french": "Division Produits chimiques",
+        "italian": "Divisione prodotti chimici",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Chemikalien",
+        "french": "Division Produits chimiques",
+        "italian": "Divisione prodotti chimici",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004605",
+      "label": {
+        "german": "Sektion Biozide",
+        "french": "Section Biocides",
+        "italian": "Sezione biocidi",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Biozide",
+        "french": "Section Biocides",
+        "italian": "Sezione biocidi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

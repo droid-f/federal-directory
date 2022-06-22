@@ -1,1 +1,153 @@
-{"id"=>"20028903", "name"=>{"german"=>"Frieden - Afrika", "french"=>"Paix - Afrique", "italian"=>"Pace - Africa", "english"=>"Peace - Africa"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 32", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-5436121", "surname"=>"Scherer", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 76729", "function"=>{"german"=>"Programmbeauftragte/r", "french"=>"Programmbeauftragte/r", "italian"=>"Programmbeauftragte/r", "english"=>"Programmbeauftragte/r"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000616", "label"=>{"german"=>"Frieden und Menschenrechte", "french"=>"Paix et droits de l’homme", "italian"=>"Pace e diritti umani", "english"=>"Peace and Human Rights"}, "name"=>{"german"=>"Frieden und Menschenrechte", "french"=>"Paix et droits de l’homme", "italian"=>"Pace e diritti umani", "english"=>"Peace and Human Rights"}}, {"id"=>"20037001", "label"=>{"german"=>"Frieden und Menschenrechte - Geografisch", "french"=>"Paix et droits de l'homme - Géographique", "italian"=>"Pace e diritti umani - Geografico", "english"=>"Peace and Human Rights - Geographical"}, "name"=>{"german"=>"Frieden und Menschenrechte - Geografisch", "french"=>"Paix et droits de l'homme - Géographique", "italian"=>"Pace e diritti umani - Geografico", "english"=>"Peace and Human Rights - Geographical"}}, {"id"=>"20028903", "label"=>{"german"=>"Frieden - Afrika", "french"=>"Paix - Afrique", "italian"=>"Pace - Africa", "english"=>"Peace - Africa"}, "name"=>{"german"=>"Frieden - Afrika", "french"=>"Paix - Afrique", "italian"=>"Pace - Africa", "english"=>"Peace - Africa"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20028903",
+  "name": {
+    "german": "Frieden - Afrika",
+    "french": "Paix - Afrique",
+    "italian": "Pace - Africa",
+    "english": "Peace - Africa"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 32",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-5436121",
+      "surname": "Scherer",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 76729",
+      "function": {
+        "german": "Programmbeauftragte/r",
+        "french": "Programmbeauftragte/r",
+        "italian": "Programmbeauftragte/r",
+        "english": "Programmbeauftragte/r"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000616",
+      "label": {
+        "german": "Frieden und Menschenrechte",
+        "french": "Paix et droits de l’homme",
+        "italian": "Pace e diritti umani",
+        "english": "Peace and Human Rights"
+      },
+      "name": {
+        "german": "Frieden und Menschenrechte",
+        "french": "Paix et droits de l’homme",
+        "italian": "Pace e diritti umani",
+        "english": "Peace and Human Rights"
+      }
+    },
+    {
+      "id": "20037001",
+      "label": {
+        "german": "Frieden und Menschenrechte - Geografisch",
+        "french": "Paix et droits de l'homme - Géographique",
+        "italian": "Pace e diritti umani - Geografico",
+        "english": "Peace and Human Rights - Geographical"
+      },
+      "name": {
+        "german": "Frieden und Menschenrechte - Geografisch",
+        "french": "Paix et droits de l'homme - Géographique",
+        "italian": "Pace e diritti umani - Geografico",
+        "english": "Peace and Human Rights - Geographical"
+      }
+    },
+    {
+      "id": "20028903",
+      "label": {
+        "german": "Frieden - Afrika",
+        "french": "Paix - Afrique",
+        "italian": "Pace - Africa",
+        "english": "Peace - Africa"
+      },
+      "name": {
+        "german": "Frieden - Afrika",
+        "french": "Paix - Afrique",
+        "italian": "Pace - Africa",
+        "english": "Peace - Africa"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

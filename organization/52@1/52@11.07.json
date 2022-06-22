@@ -1,1 +1,110 @@
-{"id"=>"52@11.07", "name"=>{"german"=>"VWR", "french"=>"VWR", "italian"=>"VWR", "english"=>""}, "nameAbbr"=>{"german"=>"VWR", "french"=>"VWR", "italian"=>"VWR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 18", "postalCode"=>"3000", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 31 560 22 22", "fax"=>"+41 31 560 22 23", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"46@11.07", "label"=>{"german"=>"Revisionsaufsichtsbehörde", "french"=>"Revisionsaufsichtsbehörde", "italian"=>"Revisionsaufsichtsbehörde", "english"=>""}, "name"=>{"german"=>"Revisionsaufsichtsbehörde", "french"=>"Revisionsaufsichtsbehörde", "italian"=>"Revisionsaufsichtsbehörde", "english"=>""}}, {"id"=>"52@11.07", "label"=>{"german"=>"VWR", "french"=>"VWR", "italian"=>"VWR", "english"=>""}, "name"=>{"german"=>"VWR", "french"=>"VWR", "italian"=>"VWR", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "52@11.07",
+  "name": {
+    "german": "VWR",
+    "french": "VWR",
+    "italian": "VWR",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "VWR",
+    "french": "VWR",
+    "italian": "VWR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 18",
+    "postalCode": "3000",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 31 560 22 22",
+    "fax": "+41 31 560 22 23",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "46@11.07",
+      "label": {
+        "german": "Revisionsaufsichtsbehörde",
+        "french": "Revisionsaufsichtsbehörde",
+        "italian": "Revisionsaufsichtsbehörde",
+        "english": ""
+      },
+      "name": {
+        "german": "Revisionsaufsichtsbehörde",
+        "french": "Revisionsaufsichtsbehörde",
+        "italian": "Revisionsaufsichtsbehörde",
+        "english": ""
+      }
+    },
+    {
+      "id": "52@11.07",
+      "label": {
+        "german": "VWR",
+        "french": "VWR",
+        "italian": "VWR",
+        "english": ""
+      },
+      "name": {
+        "german": "VWR",
+        "french": "VWR",
+        "italian": "VWR",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

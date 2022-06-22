@@ -1,1 +1,158 @@
-{"id"=>"20045001", "name"=>{"german"=>"UAS Bewilligung und Aufsicht", "french"=>"UAS autorisation et supervision", "italian"=>"UAS Autorizzazione e supervisione", "english"=>"UAS Authorization and Oversight"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2082062", "surname"=>"Bodmer", "givenName"=>"Sandra", "email"=>nil, "phone"=>"+41 58 46 97877", "function"=>{"german"=>"Co-Leiterin UAS", "french"=>"Co-Leiterin a.i.", "italian"=>"Co-Leiterin a.i.", "english"=>"Co-Leiterin a.i."}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9658063", "surname"=>"Perca", "givenName"=>"Andreea", "email"=>nil, "phone"=>"+41 58 46 99131", "function"=>{"german"=>"Co-Leiterin UAS", "french"=>"Co-Leiterin a.i.", "italian"=>"Co-Leiterin a.i.", "english"=>"Co-Leiterin a.i."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20045001", "label"=>{"german"=>"UAS Bewilligung und Aufsicht", "french"=>"UAS autorisation et supervision", "italian"=>"UAS Autorizzazione e supervisione", "english"=>"UAS Authorization and Oversight"}, "name"=>{"german"=>"UAS Bewilligung und Aufsicht", "french"=>"UAS autorisation et supervision", "italian"=>"UAS Autorizzazione e supervisione", "english"=>"UAS Authorization and Oversight"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045001",
+  "name": {
+    "german": "UAS Bewilligung und Aufsicht",
+    "french": "UAS autorisation et supervision",
+    "italian": "UAS Autorizzazione e supervisione",
+    "english": "UAS Authorization and Oversight"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2082062",
+      "surname": "Bodmer",
+      "givenName": "Sandra",
+      "email": null,
+      "phone": "+41 58 46 97877",
+      "function": {
+        "german": "Co-Leiterin UAS",
+        "french": "Co-Leiterin a.i.",
+        "italian": "Co-Leiterin a.i.",
+        "english": "Co-Leiterin a.i."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9658063",
+      "surname": "Perca",
+      "givenName": "Andreea",
+      "email": null,
+      "phone": "+41 58 46 99131",
+      "function": {
+        "german": "Co-Leiterin UAS",
+        "french": "Co-Leiterin a.i.",
+        "italian": "Co-Leiterin a.i.",
+        "english": "Co-Leiterin a.i."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20045001",
+      "label": {
+        "german": "UAS Bewilligung und Aufsicht",
+        "french": "UAS autorisation et supervision",
+        "italian": "UAS Autorizzazione e supervisione",
+        "english": "UAS Authorization and Oversight"
+      },
+      "name": {
+        "german": "UAS Bewilligung und Aufsicht",
+        "french": "UAS autorisation et supervision",
+        "italian": "UAS Autorizzazione e supervisione",
+        "english": "UAS Authorization and Oversight"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

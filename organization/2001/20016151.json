@@ -1,1 +1,185 @@
-{"id"=>"20016151", "name"=>{"german"=>"Vorort Instandhaltung Fahrzeuge Emmen", "french"=>"Maintenance sur site vhc Emmen", "italian"=>"Manutenzione sul posto veicoli Emmen", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schürstrasse 58", "postalCode"=>"6020", "location"=>"Emmenbrücke 2", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20011431", "label"=>{"german"=>"Armeelogistikcenter Othmarsingen", "french"=>"CLA Othmarsingen", "italian"=>"Centro log dell'esercito Othmarsingen", "english"=>""}, "name"=>{"german"=>"Armeelogistikcenter Othmarsingen", "french"=>"CLA Othmarsingen", "italian"=>"Centro log dell'esercito Othmarsingen", "english"=>""}}, {"id"=>"20011437", "label"=>{"german"=>"Instandhaltung ALC Othmarsingen", "french"=>"Maintenance CLA-O", "italian"=>"Manutenzione CLEs Othmarsingen", "english"=>""}, "name"=>{"german"=>"Instandhaltung ALC Othmarsingen", "french"=>"Maintenance CLA-O", "italian"=>"Manutenzione CLEs Othmarsingen", "english"=>""}}, {"id"=>"20011451", "label"=>{"german"=>"Rad u Raupenfahrzeuge / Techn Material", "french"=>"Spécialiste du S préposé aux automobiles", "italian"=>"Collab spec Servizio prep alle autovett", "english"=>""}, "name"=>{"german"=>"Rad u Raupenfahrzeuge / Techn Material", "french"=>"Spécialiste du S préposé aux automobiles", "italian"=>"Collab spec Servizio prep alle autovett", "english"=>""}}, {"id"=>"20016151", "label"=>{"german"=>"Vorort Instandhaltung Fahrzeuge Emmen", "french"=>"Maintenance sur site vhc Emmen", "italian"=>"Manutenzione sul posto veicoli Emmen", "english"=>""}, "name"=>{"german"=>"Vorort Instandhaltung Fahrzeuge Emmen", "french"=>"Maintenance sur site vhc Emmen", "italian"=>"Manutenzione sul posto veicoli Emmen", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20016151",
+  "name": {
+    "german": "Vorort Instandhaltung Fahrzeuge Emmen",
+    "french": "Maintenance sur site vhc Emmen",
+    "italian": "Manutenzione sul posto veicoli Emmen",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schürstrasse 58",
+    "postalCode": "6020",
+    "location": "Emmenbrücke 2",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011431",
+      "label": {
+        "german": "Armeelogistikcenter Othmarsingen",
+        "french": "CLA Othmarsingen",
+        "italian": "Centro log dell'esercito Othmarsingen",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeelogistikcenter Othmarsingen",
+        "french": "CLA Othmarsingen",
+        "italian": "Centro log dell'esercito Othmarsingen",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011437",
+      "label": {
+        "german": "Instandhaltung ALC Othmarsingen",
+        "french": "Maintenance CLA-O",
+        "italian": "Manutenzione CLEs Othmarsingen",
+        "english": ""
+      },
+      "name": {
+        "german": "Instandhaltung ALC Othmarsingen",
+        "french": "Maintenance CLA-O",
+        "italian": "Manutenzione CLEs Othmarsingen",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011451",
+      "label": {
+        "german": "Rad u Raupenfahrzeuge / Techn Material",
+        "french": "Spécialiste du S préposé aux automobiles",
+        "italian": "Collab spec Servizio prep alle autovett",
+        "english": ""
+      },
+      "name": {
+        "german": "Rad u Raupenfahrzeuge / Techn Material",
+        "french": "Spécialiste du S préposé aux automobiles",
+        "italian": "Collab spec Servizio prep alle autovett",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016151",
+      "label": {
+        "german": "Vorort Instandhaltung Fahrzeuge Emmen",
+        "french": "Maintenance sur site vhc Emmen",
+        "italian": "Manutenzione sul posto veicoli Emmen",
+        "english": ""
+      },
+      "name": {
+        "german": "Vorort Instandhaltung Fahrzeuge Emmen",
+        "french": "Maintenance sur site vhc Emmen",
+        "italian": "Manutenzione sul posto veicoli Emmen",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

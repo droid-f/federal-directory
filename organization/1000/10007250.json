@@ -1,1 +1,200 @@
-{"id"=>"10007250", "name"=>{"german"=>"Strafentscheide", "french"=>"Décisions pénales", "italian"=>"Decisioni penali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Taubenstrasse 16", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10007252", "name"=>{"german"=>"Rechtsmittel und Anklagen", "french"=>"Moyens de droit et Accusations", "italian"=>"Rimedi giuridici e Accusa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10007253", "name"=>{"german"=>"Ordentliche Verfahren", "french"=>"Procédure ordinaire", "italian"=>"Procedura ordinaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044804", "name"=>{"german"=>"Amts- und Rechtshilfe", "french"=>"Assistance administrative/judicaire", "italian"=>"Assistenza amministrativa/giudiziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9807278", "surname"=>"Deville", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 26617", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Chef/fe de division", "italian"=>"Capodivisione", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008659", "label"=>{"german"=>"BAZG", "french"=>"OFDF", "italian"=>"UDSC", "english"=>"FOCBS"}, "name"=>{"german"=>"Bundesamt für Zoll und Grenzsicherheit", "french"=>"Office fédéral de la douane et de la sécurité des frontières", "italian"=>"Ufficio federale della dogana e della sicurezza dei confini", "english"=>"Federal Office for Customs and Border Security"}}, {"id"=>"10007200", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20044752", "label"=>{"german"=>"Direktionsbereich Strafverfolgung", "french"=>"Domaine de direction Poursuites pénales", "italian"=>"Ambito direzionale Perseguimento penale", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Strafverfolgung", "french"=>"Domaine de direction Poursuites pénales", "italian"=>"Ambito direzionale Perseguimento penale", "english"=>""}}, {"id"=>"10007250", "label"=>{"german"=>"Strafentscheide", "french"=>"Décisions pénales", "italian"=>"Decisioni penali", "english"=>""}, "name"=>{"german"=>"Strafentscheide", "french"=>"Décisions pénales", "italian"=>"Decisioni penali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10007250",
+  "name": {
+    "german": "Strafentscheide",
+    "french": "Décisions pénales",
+    "italian": "Decisioni penali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Taubenstrasse 16",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10007252",
+      "name": {
+        "german": "Rechtsmittel und Anklagen",
+        "french": "Moyens de droit et Accusations",
+        "italian": "Rimedi giuridici e Accusa",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007253",
+      "name": {
+        "german": "Ordentliche Verfahren",
+        "french": "Procédure ordinaire",
+        "italian": "Procedura ordinaria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044804",
+      "name": {
+        "german": "Amts- und Rechtshilfe",
+        "french": "Assistance administrative/judicaire",
+        "italian": "Assistenza amministrativa/giudiziaria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9807278",
+      "surname": "Deville",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 26617",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Chef/fe de division",
+        "italian": "Capodivisione",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008659",
+      "label": {
+        "german": "BAZG",
+        "french": "OFDF",
+        "italian": "UDSC",
+        "english": "FOCBS"
+      },
+      "name": {
+        "german": "Bundesamt für Zoll und Grenzsicherheit",
+        "french": "Office fédéral de la douane et de la sécurité des frontières",
+        "italian": "Ufficio federale della dogana e della sicurezza dei confini",
+        "english": "Federal Office for Customs and Border Security"
+      }
+    },
+    {
+      "id": "10007200",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044752",
+      "label": {
+        "german": "Direktionsbereich Strafverfolgung",
+        "french": "Domaine de direction Poursuites pénales",
+        "italian": "Ambito direzionale Perseguimento penale",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Strafverfolgung",
+        "french": "Domaine de direction Poursuites pénales",
+        "italian": "Ambito direzionale Perseguimento penale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10007250",
+      "label": {
+        "german": "Strafentscheide",
+        "french": "Décisions pénales",
+        "italian": "Decisioni penali",
+        "english": ""
+      },
+      "name": {
+        "german": "Strafentscheide",
+        "french": "Décisions pénales",
+        "italian": "Decisioni penali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

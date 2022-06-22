@@ -1,1 +1,214 @@
-{"id"=>"20026026", "name"=>{"german"=>"Architektur", "french"=>"Architecture", "italian"=>"Architettura", "english"=>""}, "nameAbbr"=>{"german"=>"AT", "french"=>"AT", "italian"=>"AT", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035828", "name"=>{"german"=>"Architektur Externe", "french"=>"Architektur Externe", "italian"=>"Architektur Externe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0946712", "surname"=>"Germann", "givenName"=>"Matthias", "email"=>nil, "phone"=>"+41 58 46 41522", "function"=>{"german"=>"Stv. AL T/BL A/Senior ICT Architekt", "french"=>"Stv. AL T/BL A/Senior ICT Architekt", "italian"=>"Stv. AL T/BL A/Senior ICT Architekt", "english"=>"Stv. AL T/BL A/Senior ICT Architekt"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5134779", "surname"=>"Amport", "givenName"=>"André", "email"=>nil, "phone"=>"+41 58 46 20695", "function"=>{"german"=>"Stv. BL A/Senior ICT Architekt/in D+SWA", "french"=>"Stv. BL A/Senior ICT Architekt/in D+SWA", "italian"=>"Stv. BL A/Senior ICT Architekt/in D+SWA", "english"=>"Stv. BL A/Senior ICT Architekt/in D+SWA"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3125963", "surname"=>"Früh", "givenName"=>"Marcel", "email"=>nil, "phone"=>"+41 58 46 37876", "function"=>{"german"=>"Senior ICT Architekt/in ISA", "french"=>"Senior ICT Architekt/in ISA", "italian"=>"Senior ICT Architekt/in ISA", "english"=>"Senior ICT Architekt/in ISA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7387034", "surname"=>"Iseli", "givenName"=>"André", "email"=>nil, "phone"=>"+41 58 46 37853", "function"=>{"german"=>"Senior ICT Architekt/in NA", "french"=>"Senior ICT Architekt/in NA", "italian"=>"Senior ICT Architekt/in NA", "english"=>"Senior ICT Architekt/in NA"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009470", "label"=>{"german"=>"ISC-EJPD", "french"=>"CSI-DFJP", "italian"=>"CSI-DFGP", "english"=>""}, "name"=>{"german"=>"Informatik Service Center ISC-EJPD", "french"=>"Centre de services informatiques CSI-DFJP", "italian"=>"Centro servizi informatici CSI-DFGP", "english"=>""}}, {"id"=>"20015186", "label"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Leitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20015189", "label"=>{"german"=>"T", "french"=>"T", "italian"=>"T", "english"=>""}, "name"=>{"german"=>"Technologie", "french"=>"Technologie", "italian"=>"Tecnologia", "english"=>""}}, {"id"=>"20026026", "label"=>{"german"=>"AT", "french"=>"AT", "italian"=>"AT", "english"=>""}, "name"=>{"german"=>"Architektur", "french"=>"Architecture", "italian"=>"Architettura", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026026",
+  "name": {
+    "german": "Architektur",
+    "french": "Architecture",
+    "italian": "Architettura",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "AT",
+    "french": "AT",
+    "italian": "AT",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035828",
+      "name": {
+        "german": "Architektur Externe",
+        "french": "Architektur Externe",
+        "italian": "Architektur Externe",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0946712",
+      "surname": "Germann",
+      "givenName": "Matthias",
+      "email": null,
+      "phone": "+41 58 46 41522",
+      "function": {
+        "german": "Stv. AL T/BL A/Senior ICT Architekt",
+        "french": "Stv. AL T/BL A/Senior ICT Architekt",
+        "italian": "Stv. AL T/BL A/Senior ICT Architekt",
+        "english": "Stv. AL T/BL A/Senior ICT Architekt"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5134779",
+      "surname": "Amport",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 58 46 20695",
+      "function": {
+        "german": "Stv. BL A/Senior ICT Architekt/in D+SWA",
+        "french": "Stv. BL A/Senior ICT Architekt/in D+SWA",
+        "italian": "Stv. BL A/Senior ICT Architekt/in D+SWA",
+        "english": "Stv. BL A/Senior ICT Architekt/in D+SWA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3125963",
+      "surname": "Früh",
+      "givenName": "Marcel",
+      "email": null,
+      "phone": "+41 58 46 37876",
+      "function": {
+        "german": "Senior ICT Architekt/in ISA",
+        "french": "Senior ICT Architekt/in ISA",
+        "italian": "Senior ICT Architekt/in ISA",
+        "english": "Senior ICT Architekt/in ISA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7387034",
+      "surname": "Iseli",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 58 46 37853",
+      "function": {
+        "german": "Senior ICT Architekt/in NA",
+        "french": "Senior ICT Architekt/in NA",
+        "italian": "Senior ICT Architekt/in NA",
+        "english": "Senior ICT Architekt/in NA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009470",
+      "label": {
+        "german": "ISC-EJPD",
+        "french": "CSI-DFJP",
+        "italian": "CSI-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik Service Center ISC-EJPD",
+        "french": "Centre de services informatiques CSI-DFJP",
+        "italian": "Centro servizi informatici CSI-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015186",
+      "label": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015189",
+      "label": {
+        "german": "T",
+        "french": "T",
+        "italian": "T",
+        "english": ""
+      },
+      "name": {
+        "german": "Technologie",
+        "french": "Technologie",
+        "italian": "Tecnologia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026026",
+      "label": {
+        "german": "AT",
+        "french": "AT",
+        "italian": "AT",
+        "english": ""
+      },
+      "name": {
+        "german": "Architektur",
+        "french": "Architecture",
+        "italian": "Architettura",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

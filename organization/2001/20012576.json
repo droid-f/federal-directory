@@ -1,1 +1,185 @@
-{"id"=>"20012576", "name"=>{"german"=>"Fachausbildung FU UOS/RS 63", "french"=>"Instr spéc ER/ESO aide cdmt 63", "italian"=>"Istr spec SSU/SR aiuto cond 63", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kdo FU UOS/RS 63, Kaserne", "postalCode"=>"8180", "location"=>"Bülach", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20004496", "label"=>{"german"=>"LVBFU", "french"=>"LVBFU", "italian"=>"LVBFU", "english"=>""}, "name"=>{"german"=>"Lehrverband Führungsunterstützung", "french"=>"Formation d'application aide cdmt", "italian"=>"FOA dell'aiuto alla condotta", "english"=>""}}, {"id"=>"20005378", "label"=>{"german"=>"Führungsunterstützung UOS/RS 63", "french"=>"ER/ESO aide au commandement 63", "italian"=>"SSU/SR dell'aiuto alla condotta 63", "english"=>""}, "name"=>{"german"=>"Führungsunterstützung UOS/RS 63", "french"=>"ER/ESO aide au commandement 63", "italian"=>"SSU/SR dell'aiuto alla condotta 63", "english"=>""}}, {"id"=>"20015136", "label"=>{"german"=>"Kdt Stv / Stab / Planung FU UOS/RS 63", "french"=>"Rempl cdt/EM/planif ER/ESO aide cdmt 63", "italian"=>"Sost cdt/SM/Pianif SSU/SR aiuto cond 63", "english"=>""}, "name"=>{"german"=>"Kdt Stv / Stab / Planung FU UOS/RS 63", "french"=>"Rempl cdt/EM/planif ER/ESO aide cdmt 63", "italian"=>"Sost cdt/SM/Pianif SSU/SR aiuto cond 63", "english"=>""}}, {"id"=>"20012576", "label"=>{"german"=>"Fachausbildung FU UOS/RS 63", "french"=>"Instr spéc ER/ESO aide cdmt 63", "italian"=>"Istr spec SSU/SR aiuto cond 63", "english"=>""}, "name"=>{"german"=>"Fachausbildung FU UOS/RS 63", "french"=>"Instr spéc ER/ESO aide cdmt 63", "italian"=>"Istr spec SSU/SR aiuto cond 63", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012576",
+  "name": {
+    "german": "Fachausbildung FU UOS/RS 63",
+    "french": "Instr spéc ER/ESO aide cdmt 63",
+    "italian": "Istr spec SSU/SR aiuto cond 63",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kdo FU UOS/RS 63, Kaserne",
+    "postalCode": "8180",
+    "location": "Bülach",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004496",
+      "label": {
+        "german": "LVBFU",
+        "french": "LVBFU",
+        "italian": "LVBFU",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Führungsunterstützung",
+        "french": "Formation d'application aide cdmt",
+        "italian": "FOA dell'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005378",
+      "label": {
+        "german": "Führungsunterstützung UOS/RS 63",
+        "french": "ER/ESO aide au commandement 63",
+        "italian": "SSU/SR dell'aiuto alla condotta 63",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützung UOS/RS 63",
+        "french": "ER/ESO aide au commandement 63",
+        "italian": "SSU/SR dell'aiuto alla condotta 63",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015136",
+      "label": {
+        "german": "Kdt Stv / Stab / Planung FU UOS/RS 63",
+        "french": "Rempl cdt/EM/planif ER/ESO aide cdmt 63",
+        "italian": "Sost cdt/SM/Pianif SSU/SR aiuto cond 63",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdt Stv / Stab / Planung FU UOS/RS 63",
+        "french": "Rempl cdt/EM/planif ER/ESO aide cdmt 63",
+        "italian": "Sost cdt/SM/Pianif SSU/SR aiuto cond 63",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012576",
+      "label": {
+        "german": "Fachausbildung FU UOS/RS 63",
+        "french": "Instr spéc ER/ESO aide cdmt 63",
+        "italian": "Istr spec SSU/SR aiuto cond 63",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachausbildung FU UOS/RS 63",
+        "french": "Instr spéc ER/ESO aide cdmt 63",
+        "italian": "Istr spec SSU/SR aiuto cond 63",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,173 @@
-{"id"=>"20030201", "name"=>{"german"=>"Finanzmarktintegrität", "french"=>"Intégrité des marchés financiers", "italian"=>"Integrità dei mercati finanziari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7544944", "surname"=>"Sansonetti", "givenName"=>"Riccardo", "email"=>nil, "phone"=>"+41 58 46 26207", "function"=>{"german"=>"Leiter/in Finanzmarktintegrität", "french"=>"Leiter/in Finanzmarktintegrität", "italian"=>"Leiter/in Finanzmarktintegrität", "english"=>"Leiter/in Finanzmarktintegrität"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1883188", "surname"=>"Matthews-Steck", "givenName"=>"Patricia", "email"=>nil, "phone"=>"+41 58 46 47552", "function"=>{"german"=>"Stv. Leiter/in Finanzmarktintegrität", "french"=>"Stv. Leiter/in Finanzmarktintegrität", "italian"=>"Stv. Leiter/in Finanzmarktintegrität", "english"=>"Stv. Leiter/in Finanzmarktintegrität"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"20025051", "label"=>{"german"=>"SIF", "french"=>"SFI", "italian"=>"SFI", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für internationale Finanzfragen", "french"=>"Secrétariat d'Etat aux questions financières internationales", "italian"=>"Segreteria di Stato per le questioni finanziarie internazionali", "english"=>""}}, {"id"=>"20041505", "label"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}, "name"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}}, {"id"=>"20025057", "label"=>{"german"=>"Finanzsystem und Finanzmärkte", "french"=>"Système financier et marchés financiers", "italian"=>"Sistema finanziario e mercati finanziari", "english"=>""}, "name"=>{"german"=>"Finanzsystem und Finanzmärkte", "french"=>"Système financier et marchés financiers", "italian"=>"Sistema finanziario e mercati finanziari", "english"=>""}}, {"id"=>"20030201", "label"=>{"german"=>"Finanzmarktintegrität", "french"=>"Intégrité des marchés financiers", "italian"=>"Integrità dei mercati finanziari", "english"=>""}, "name"=>{"german"=>"Finanzmarktintegrität", "french"=>"Intégrité des marchés financiers", "italian"=>"Integrità dei mercati finanziari", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030201",
+  "name": {
+    "german": "Finanzmarktintegrität",
+    "french": "Intégrité des marchés financiers",
+    "italian": "Integrità dei mercati finanziari",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7544944",
+      "surname": "Sansonetti",
+      "givenName": "Riccardo",
+      "email": null,
+      "phone": "+41 58 46 26207",
+      "function": {
+        "german": "Leiter/in Finanzmarktintegrität",
+        "french": "Leiter/in Finanzmarktintegrität",
+        "italian": "Leiter/in Finanzmarktintegrität",
+        "english": "Leiter/in Finanzmarktintegrität"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1883188",
+      "surname": "Matthews-Steck",
+      "givenName": "Patricia",
+      "email": null,
+      "phone": "+41 58 46 47552",
+      "function": {
+        "german": "Stv. Leiter/in Finanzmarktintegrität",
+        "french": "Stv. Leiter/in Finanzmarktintegrität",
+        "italian": "Stv. Leiter/in Finanzmarktintegrität",
+        "english": "Stv. Leiter/in Finanzmarktintegrität"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025051",
+      "label": {
+        "german": "SIF",
+        "french": "SFI",
+        "italian": "SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für internationale Finanzfragen",
+        "french": "Secrétariat d'Etat aux questions financières internationales",
+        "italian": "Segreteria di Stato per le questioni finanziarie internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041505",
+      "label": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025057",
+      "label": {
+        "german": "Finanzsystem und Finanzmärkte",
+        "french": "Système financier et marchés financiers",
+        "italian": "Sistema finanziario e mercati finanziari",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzsystem und Finanzmärkte",
+        "french": "Système financier et marchés financiers",
+        "italian": "Sistema finanziario e mercati finanziari",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030201",
+      "label": {
+        "german": "Finanzmarktintegrität",
+        "french": "Intégrité des marchés financiers",
+        "italian": "Integrità dei mercati finanziari",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzmarktintegrität",
+        "french": "Intégrité des marchés financiers",
+        "italian": "Integrità dei mercati finanziari",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

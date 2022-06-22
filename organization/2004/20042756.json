@@ -1,1 +1,185 @@
-{"id"=>"20042756", "name"=>{"german"=>"Fachbereich Kompanie 1 Pz UOS/RS 21", "french"=>"Dom spéc compagnie 1 ER/ESO chars 21", "italian"=>"Sett spec compagnia 1 SSU/SR bl 21", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo Pz S 21", "street"=>"Kaserne", "postalCode"=>"3609", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015870", "label"=>{"german"=>"LVBPZART", "french"=>"LVBPZART", "italian"=>"LVBPZART", "english"=>""}, "name"=>{"german"=>"Lehrverband Panzer und Artillerie", "french"=>"FOAP blindés et artillerie", "italian"=>"FOA dei blindati e dell'artiglieria", "english"=>""}}, {"id"=>"20003447", "label"=>{"german"=>"Kdo Panzer UOS/RS 21", "french"=>"Cdmt ER/ESO chars 21", "italian"=>"Cdo SSU/SR dei blindati 21", "english"=>""}, "name"=>{"german"=>"Kdo Panzer UOS/RS 21", "french"=>"Cdmt ER/ESO chars 21", "italian"=>"Cdo SSU/SR dei blindati 21", "english"=>""}}, {"id"=>"20028003", "label"=>{"german"=>"Kompanie 1 Panzer UOS/RS 21", "french"=>"Compagnie 1 ER/ESO chars 21", "italian"=>"Compagnia 1 SSU/SR dei blindati 21", "english"=>""}, "name"=>{"german"=>"Kompanie 1 Panzer UOS/RS 21", "french"=>"Compagnie 1 ER/ESO chars 21", "italian"=>"Compagnia 1 SSU/SR dei blindati 21", "english"=>""}}, {"id"=>"20042756", "label"=>{"german"=>"Fachbereich Kompanie 1 Pz UOS/RS 21", "french"=>"Dom spéc compagnie 1 ER/ESO chars 21", "italian"=>"Sett spec compagnia 1 SSU/SR bl 21", "english"=>""}, "name"=>{"german"=>"Fachbereich Kompanie 1 Pz UOS/RS 21", "french"=>"Dom spéc compagnie 1 ER/ESO chars 21", "italian"=>"Sett spec compagnia 1 SSU/SR bl 21", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042756",
+  "name": {
+    "german": "Fachbereich Kompanie 1 Pz UOS/RS 21",
+    "french": "Dom spéc compagnie 1 ER/ESO chars 21",
+    "italian": "Sett spec compagnia 1 SSU/SR bl 21",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo Pz S 21",
+    "street": "Kaserne",
+    "postalCode": "3609",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015870",
+      "label": {
+        "german": "LVBPZART",
+        "french": "LVBPZART",
+        "italian": "LVBPZART",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Panzer und Artillerie",
+        "french": "FOAP blindés et artillerie",
+        "italian": "FOA dei blindati e dell'artiglieria",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003447",
+      "label": {
+        "german": "Kdo Panzer UOS/RS 21",
+        "french": "Cdmt ER/ESO chars 21",
+        "italian": "Cdo SSU/SR dei blindati 21",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Panzer UOS/RS 21",
+        "french": "Cdmt ER/ESO chars 21",
+        "italian": "Cdo SSU/SR dei blindati 21",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028003",
+      "label": {
+        "german": "Kompanie 1 Panzer UOS/RS 21",
+        "french": "Compagnie 1 ER/ESO chars 21",
+        "italian": "Compagnia 1 SSU/SR dei blindati 21",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompanie 1 Panzer UOS/RS 21",
+        "french": "Compagnie 1 ER/ESO chars 21",
+        "italian": "Compagnia 1 SSU/SR dei blindati 21",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042756",
+      "label": {
+        "german": "Fachbereich Kompanie 1 Pz UOS/RS 21",
+        "french": "Dom spéc compagnie 1 ER/ESO chars 21",
+        "italian": "Sett spec compagnia 1 SSU/SR bl 21",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Kompanie 1 Pz UOS/RS 21",
+        "french": "Dom spéc compagnie 1 ER/ESO chars 21",
+        "italian": "Sett spec compagnia 1 SSU/SR bl 21",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

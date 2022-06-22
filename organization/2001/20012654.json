@@ -1,1 +1,152 @@
-{"id"=>"20012654", "name"=>{"german"=>"Finanzinspektorat", "french"=>"Inspection financière", "italian"=>"Ispettorato delle finanze", "english"=>""}, "nameAbbr"=>{"german"=>"FISP", "french"=>"FISP", "italian"=>"FISP", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwanengasse 2", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-1760754", "surname"=>"Jost", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 58819", "function"=>{"german"=>"Finanzinspektor", "french"=>"Inspecteur Finances", "italian"=>"Ispettore finanziario", "english"=>"Finanzinspektor"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9447179", "surname"=>"Kneubühl", "givenName"=>"Marcel", "email"=>nil, "phone"=>"+41 58 46 54208", "function"=>{"german"=>"Finanzinspektor", "french"=>"Inspecteur Finances", "italian"=>"Ispettore finanziario", "english"=>"Finanzinspektor"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}, {"id"=>"20028230", "label"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}}, {"id"=>"20012654", "label"=>{"german"=>"FISP", "french"=>"FISP", "italian"=>"FISP", "english"=>""}, "name"=>{"german"=>"Finanzinspektorat", "french"=>"Inspection financière", "italian"=>"Ispettorato delle finanze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012654",
+  "name": {
+    "german": "Finanzinspektorat",
+    "french": "Inspection financière",
+    "italian": "Ispettorato delle finanze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "FISP",
+    "french": "FISP",
+    "italian": "FISP",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwanengasse 2",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1760754",
+      "surname": "Jost",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 58819",
+      "function": {
+        "german": "Finanzinspektor",
+        "french": "Inspecteur Finances",
+        "italian": "Ispettore finanziario",
+        "english": "Finanzinspektor"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9447179",
+      "surname": "Kneubühl",
+      "givenName": "Marcel",
+      "email": null,
+      "phone": "+41 58 46 54208",
+      "function": {
+        "german": "Finanzinspektor",
+        "french": "Inspecteur Finances",
+        "italian": "Ispettore finanziario",
+        "english": "Finanzinspektor"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028230",
+      "label": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012654",
+      "label": {
+        "german": "FISP",
+        "french": "FISP",
+        "italian": "FISP",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzinspektorat",
+        "french": "Inspection financière",
+        "italian": "Ispettorato delle finanze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

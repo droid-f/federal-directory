@@ -1,1 +1,167 @@
-{"id"=>"12090130@12.09", "name"=>{"german"=>"Weiterbildung", "french"=>"Formation continue", "italian"=>"Formazione continua", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kirchlindachstrasse 79", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 458 27 00", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>423, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-10002073", "surname"=>"Perdrizat", "givenName"=>"Jean-Pierre", "email"=>nil, "phone"=>"+41 58 458 22 53", "function"=>{"german"=>"Nationaler Leiter Weiterbildung a.i.", "french"=>"Nationaler Leiter Weiterbildung a.i.", "italian"=>"Nationaler Leiter Weiterbildung a.i.", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-10002066", "surname"=>"Alberton", "givenName"=>"Siegfried", "email"=>nil, "phone"=>"+41 58 458 25 59", "function"=>{"german"=>"Responsabile regionale Lugano", "french"=>"Responsabile regionale Lugano", "italian"=>"Responsabile regionale Lugano", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002068", "surname"=>"Haselbach", "givenName"=>"Max", "email"=>nil, "phone"=>"+41 58 458 28 85", "function"=>{"german"=>"Regionaler Leiter Zollikofen", "french"=>"Regionaler Leiter Zollikofen", "italian"=>"Regionaler Leiter Zollikofen", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002070", "surname"=>"Wurlod", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 458 22 61", "function"=>{"german"=>"Responable régional Lausanne", "french"=>"Responable régional Lausanne", "italian"=>"Responable régional Lausanne", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"12090100@12.09", "label"=>{"german"=>"EHB", "french"=>"HEFP", "italian"=>"SUFFP", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Berufsbildung", "french"=>"Haute école fédérale en formation professionnelle", "italian"=>"Scuola universitaria federale per la formazione professionale", "english"=>""}}, {"id"=>"12090130@12.09", "label"=>{"german"=>"Weiterbildung", "french"=>"Formation continue", "italian"=>"Formazione continua", "english"=>""}, "name"=>{"german"=>"Weiterbildung", "french"=>"Formation continue", "italian"=>"Formazione continua", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12090130@12.09",
+  "name": {
+    "german": "Weiterbildung",
+    "french": "Formation continue",
+    "italian": "Formazione continua",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kirchlindachstrasse 79",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 458 27 00",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 423,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-10002073",
+      "surname": "Perdrizat",
+      "givenName": "Jean-Pierre",
+      "email": null,
+      "phone": "+41 58 458 22 53",
+      "function": {
+        "german": "Nationaler Leiter Weiterbildung a.i.",
+        "french": "Nationaler Leiter Weiterbildung a.i.",
+        "italian": "Nationaler Leiter Weiterbildung a.i.",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-10002066",
+      "surname": "Alberton",
+      "givenName": "Siegfried",
+      "email": null,
+      "phone": "+41 58 458 25 59",
+      "function": {
+        "german": "Responsabile regionale Lugano",
+        "french": "Responsabile regionale Lugano",
+        "italian": "Responsabile regionale Lugano",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002068",
+      "surname": "Haselbach",
+      "givenName": "Max",
+      "email": null,
+      "phone": "+41 58 458 28 85",
+      "function": {
+        "german": "Regionaler Leiter Zollikofen",
+        "french": "Regionaler Leiter Zollikofen",
+        "italian": "Regionaler Leiter Zollikofen",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002070",
+      "surname": "Wurlod",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 458 22 61",
+      "function": {
+        "german": "Responable régional Lausanne",
+        "french": "Responable régional Lausanne",
+        "italian": "Responable régional Lausanne",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "12090100@12.09",
+      "label": {
+        "german": "EHB",
+        "french": "HEFP",
+        "italian": "SUFFP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Berufsbildung",
+        "french": "Haute école fédérale en formation professionnelle",
+        "italian": "Scuola universitaria federale per la formazione professionale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12090130@12.09",
+      "label": {
+        "german": "Weiterbildung",
+        "french": "Formation continue",
+        "italian": "Formazione continua",
+        "english": ""
+      },
+      "name": {
+        "german": "Weiterbildung",
+        "french": "Formation continue",
+        "italian": "Formazione continua",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

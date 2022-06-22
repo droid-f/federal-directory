@@ -1,1 +1,171 @@
-{"id"=>"10005995", "name"=>{"german"=>"Fachberatung", "french"=>"Conseil", "italian"=>"Consulenza tecnica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Fellerstrasse 21", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6183107", "surname"=>"Gamper", "givenName"=>"Felix", "email"=>nil, "phone"=>"+41 58 46 28540", "function"=>{"german"=>"Leiter/in Fachberatung", "french"=>"Responsable Conseil technique", "italian"=>"Capo Consulenza tecnica", "english"=>"Leiter/in Fachberatung"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008670", "label"=>{"german"=>"BBL", "french"=>"OFCL", "italian"=>"UFCL", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bauten und Logistik", "french"=>"Office fédéral des constructions et de la logistique", "italian"=>"Ufficio federale delle costruzioni e della logistica", "english"=>""}}, {"id"=>"10005978", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20010028", "label"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}, "name"=>{"german"=>"Bauten", "french"=>"Constructions", "italian"=>"Costruzioni", "english"=>""}}, {"id"=>"10005988", "label"=>{"german"=>"Projektmanagement", "french"=>"Gestion de projets", "italian"=>"Gestione di progetti", "english"=>""}, "name"=>{"german"=>"Projektmanagement", "french"=>"Gestion de projets", "italian"=>"Gestione di progetti", "english"=>""}}, {"id"=>"10005995", "label"=>{"german"=>"Fachberatung", "french"=>"Conseil", "italian"=>"Consulenza tecnica", "english"=>""}, "name"=>{"german"=>"Fachberatung", "french"=>"Conseil", "italian"=>"Consulenza tecnica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005995",
+  "name": {
+    "german": "Fachberatung",
+    "french": "Conseil",
+    "italian": "Consulenza tecnica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Fellerstrasse 21",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6183107",
+      "surname": "Gamper",
+      "givenName": "Felix",
+      "email": null,
+      "phone": "+41 58 46 28540",
+      "function": {
+        "german": "Leiter/in Fachberatung",
+        "french": "Responsable Conseil technique",
+        "italian": "Capo Consulenza tecnica",
+        "english": "Leiter/in Fachberatung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008670",
+      "label": {
+        "german": "BBL",
+        "french": "OFCL",
+        "italian": "UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bauten und Logistik",
+        "french": "Office fédéral des constructions et de la logistique",
+        "italian": "Ufficio federale delle costruzioni e della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005978",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010028",
+      "label": {
+        "german": "Bauten",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Bauten",
+        "french": "Constructions",
+        "italian": "Costruzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005988",
+      "label": {
+        "german": "Projektmanagement",
+        "french": "Gestion de projets",
+        "italian": "Gestione di progetti",
+        "english": ""
+      },
+      "name": {
+        "german": "Projektmanagement",
+        "french": "Gestion de projets",
+        "italian": "Gestione di progetti",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005995",
+      "label": {
+        "german": "Fachberatung",
+        "french": "Conseil",
+        "italian": "Consulenza tecnica",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachberatung",
+        "french": "Conseil",
+        "italian": "Consulenza tecnica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,226 @@
-{"id"=>"20048309", "name"=>{"german"=>"Unfall- und Schadenmanagement", "french"=>"Unfall- und Schadenmanagement", "italian"=>"Unfall- und Schadenmanagement", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Maulbeerstrasse 9", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6652909", "surname"=>"Dapp", "givenName"=>"Edgar", "email"=>nil, "phone"=>"+41 58 46 34586", "function"=>{"german"=>"Leiter/in Unfall- und Schadenmanagement", "french"=>"Leiter/in Unfall- und Schadenmanagement", "italian"=>"Leiter/in Unfall- und Schadenmanagement", "english"=>"Leiter/in Unfall- und Schadenmanagement"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8964346", "surname"=>"Aeby", "givenName"=>"Sandra", "email"=>nil, "phone"=>"+41 58 46 51252", "function"=>{"german"=>"SB Unfall- und Schadenmanagement", "french"=>"SB Unfall- und Schadenmanagement", "italian"=>"SB Unfall- und Schadenmanagement", "english"=>"SB Unfall- und Schadenmanagement"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7119970", "surname"=>"Röthlisberger", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 58 48 42623", "function"=>{"german"=>"SB Unfall- und Schadenmanagement", "french"=>"SB Unfall- und Schadenmanagement", "italian"=>"SB Unfall- und Schadenmanagement", "english"=>"SB Unfall- und Schadenmanagement"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5940109", "surname"=>"Staub", "givenName"=>"Susanne", "email"=>nil, "phone"=>"+41 58 46 45114", "function"=>{"german"=>"SB Unfall- und Schadenmanagement", "french"=>"SB Unfall- und Schadenmanagement", "italian"=>"SB Unfall- und Schadenmanagement", "english"=>"SB Unfall- und Schadenmanagement"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XS00KZPL", "surname"=>"Taddei", "givenName"=>"Ugo", "email"=>nil, "phone"=>"+41 58 46 73453", "function"=>{"german"=>"SB Unfall- und Schadenmanagement", "french"=>"SB Unfall- und Schadenmanagement", "italian"=>"SB Unfall- und Schadenmanagement", "english"=>"SB Unfall- und Schadenmanagement"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003762", "label"=>{"german"=>"Raum und Umwelt VBS", "french"=>"Territoire et environnement DDPS", "italian"=>"Territorio e ambiente DDPS", "english"=>""}, "name"=>{"german"=>"Raum und Umwelt VBS", "french"=>"Territoire et environnement DDPS", "italian"=>"Territorio e ambiente DDPS", "english"=>""}}, {"id"=>"10003737", "label"=>{"german"=>"Schadenzentrum VBS", "french"=>"Centre de dommages DDPS", "italian"=>"Centro danni DDPS", "english"=>""}, "name"=>{"german"=>"Schadenzentrum VBS", "french"=>"Centre de dommages DDPS", "italian"=>"Centro danni DDPS", "english"=>""}}, {"id"=>"20048309", "label"=>{"german"=>"Unfall- und Schadenmanagement", "french"=>"Unfall- und Schadenmanagement", "italian"=>"Unfall- und Schadenmanagement", "english"=>""}, "name"=>{"german"=>"Unfall- und Schadenmanagement", "french"=>"Unfall- und Schadenmanagement", "italian"=>"Unfall- und Schadenmanagement", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048309",
+  "name": {
+    "german": "Unfall- und Schadenmanagement",
+    "french": "Unfall- und Schadenmanagement",
+    "italian": "Unfall- und Schadenmanagement",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Maulbeerstrasse 9",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6652909",
+      "surname": "Dapp",
+      "givenName": "Edgar",
+      "email": null,
+      "phone": "+41 58 46 34586",
+      "function": {
+        "german": "Leiter/in Unfall- und Schadenmanagement",
+        "french": "Leiter/in Unfall- und Schadenmanagement",
+        "italian": "Leiter/in Unfall- und Schadenmanagement",
+        "english": "Leiter/in Unfall- und Schadenmanagement"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8964346",
+      "surname": "Aeby",
+      "givenName": "Sandra",
+      "email": null,
+      "phone": "+41 58 46 51252",
+      "function": {
+        "german": "SB Unfall- und Schadenmanagement",
+        "french": "SB Unfall- und Schadenmanagement",
+        "italian": "SB Unfall- und Schadenmanagement",
+        "english": "SB Unfall- und Schadenmanagement"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7119970",
+      "surname": "Röthlisberger",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 58 48 42623",
+      "function": {
+        "german": "SB Unfall- und Schadenmanagement",
+        "french": "SB Unfall- und Schadenmanagement",
+        "italian": "SB Unfall- und Schadenmanagement",
+        "english": "SB Unfall- und Schadenmanagement"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5940109",
+      "surname": "Staub",
+      "givenName": "Susanne",
+      "email": null,
+      "phone": "+41 58 46 45114",
+      "function": {
+        "german": "SB Unfall- und Schadenmanagement",
+        "french": "SB Unfall- und Schadenmanagement",
+        "italian": "SB Unfall- und Schadenmanagement",
+        "english": "SB Unfall- und Schadenmanagement"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XS00KZPL",
+      "surname": "Taddei",
+      "givenName": "Ugo",
+      "email": null,
+      "phone": "+41 58 46 73453",
+      "function": {
+        "german": "SB Unfall- und Schadenmanagement",
+        "french": "SB Unfall- und Schadenmanagement",
+        "italian": "SB Unfall- und Schadenmanagement",
+        "english": "SB Unfall- und Schadenmanagement"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003762",
+      "label": {
+        "german": "Raum und Umwelt VBS",
+        "french": "Territoire et environnement DDPS",
+        "italian": "Territorio e ambiente DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Raum und Umwelt VBS",
+        "french": "Territoire et environnement DDPS",
+        "italian": "Territorio e ambiente DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003737",
+      "label": {
+        "german": "Schadenzentrum VBS",
+        "french": "Centre de dommages DDPS",
+        "italian": "Centro danni DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Schadenzentrum VBS",
+        "french": "Centre de dommages DDPS",
+        "italian": "Centro danni DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048309",
+      "label": {
+        "german": "Unfall- und Schadenmanagement",
+        "french": "Unfall- und Schadenmanagement",
+        "italian": "Unfall- und Schadenmanagement",
+        "english": ""
+      },
+      "name": {
+        "german": "Unfall- und Schadenmanagement",
+        "french": "Unfall- und Schadenmanagement",
+        "italian": "Unfall- und Schadenmanagement",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

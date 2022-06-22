@@ -1,1 +1,187 @@
-{"id"=>"20017664", "name"=>{"german"=>"Direktionsbereich Datenschutz", "french"=>"Domaine de direction Protection des données", "italian"=>"Ambito direzionale Protezione dei Dati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Feldeggweg 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042209", "name"=>{"german"=>"Team 1", "french"=>"Team 1", "italian"=>"Team 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042210", "name"=>{"german"=>"Team 2", "french"=>"Team 2", "italian"=>"Team 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042211", "name"=>{"german"=>"Team 3", "french"=>"Team 3", "italian"=>"Team 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4774076", "surname"=>"Dzamko", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 76779", "function"=>{"german"=>"Leiter/in, Stv. EDÖB a.i.", "french"=>"Leiter/in, Stv. EDÖB a.i.", "italian"=>"Leiter/in, Stv. EDÖB a.i.", "english"=>"Leiter/in, Stv. EDÖB a.i."}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7074259", "surname"=>"Haag", "givenName"=>"Sophie", "email"=>nil, "phone"=>"+41 58 46 22836", "function"=>{"german"=>"Leiter/in, Stv. Leiter/in Datenschutz", "french"=>"Leiter/in, Stv. Leiter/in Datenschutz", "italian"=>"Leiter/in, Stv. Leiter/in Datenschutz", "english"=>"Leiter/in, Stv. Leiter/in Datenschutz"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002693", "label"=>{"german"=>"EDÖB", "french"=>"PFPDT", "italian"=>"IFPDT", "english"=>"EDÖB"}, "name"=>{"german"=>"Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter", "french"=>"Préposé fédéral à la protection des données et à la transparence", "italian"=>"Incaricato federale della protezione dei dati e della trasparenza", "english"=>"EDÖB"}}, {"id"=>"20017664", "label"=>{"german"=>"Direktionsbereich Datenschutz", "french"=>"Domaine de direction Protection des données", "italian"=>"Ambito direzionale Protezione dei Dati", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Datenschutz", "french"=>"Domaine de direction Protection des données", "italian"=>"Ambito direzionale Protezione dei Dati", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20017664",
+  "name": {
+    "german": "Direktionsbereich Datenschutz",
+    "french": "Domaine de direction Protection des données",
+    "italian": "Ambito direzionale Protezione dei Dati",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Feldeggweg 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042209",
+      "name": {
+        "german": "Team 1",
+        "french": "Team 1",
+        "italian": "Team 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042210",
+      "name": {
+        "german": "Team 2",
+        "french": "Team 2",
+        "italian": "Team 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042211",
+      "name": {
+        "german": "Team 3",
+        "french": "Team 3",
+        "italian": "Team 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4774076",
+      "surname": "Dzamko",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 76779",
+      "function": {
+        "german": "Leiter/in, Stv. EDÖB a.i.",
+        "french": "Leiter/in, Stv. EDÖB a.i.",
+        "italian": "Leiter/in, Stv. EDÖB a.i.",
+        "english": "Leiter/in, Stv. EDÖB a.i."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7074259",
+      "surname": "Haag",
+      "givenName": "Sophie",
+      "email": null,
+      "phone": "+41 58 46 22836",
+      "function": {
+        "german": "Leiter/in, Stv. Leiter/in Datenschutz",
+        "french": "Leiter/in, Stv. Leiter/in Datenschutz",
+        "italian": "Leiter/in, Stv. Leiter/in Datenschutz",
+        "english": "Leiter/in, Stv. Leiter/in Datenschutz"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002693",
+      "label": {
+        "german": "EDÖB",
+        "french": "PFPDT",
+        "italian": "IFPDT",
+        "english": "EDÖB"
+      },
+      "name": {
+        "german": "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter",
+        "french": "Préposé fédéral à la protection des données et à la transparence",
+        "italian": "Incaricato federale della protezione dei dati e della trasparenza",
+        "english": "EDÖB"
+      }
+    },
+    {
+      "id": "20017664",
+      "label": {
+        "german": "Direktionsbereich Datenschutz",
+        "french": "Domaine de direction Protection des données",
+        "italian": "Ambito direzionale Protezione dei Dati",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Datenschutz",
+        "french": "Domaine de direction Protection des données",
+        "italian": "Ambito direzionale Protezione dei Dati",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

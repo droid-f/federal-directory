@@ -1,1 +1,124 @@
-{"id"=>"10003314", "name"=>{"german"=>"Eidgenössische Münzstätte Swissmint", "french"=>"Monnaie fédérale Swissmint", "italian"=>"Zecca federale Swissmint", "english"=>""}, "nameAbbr"=>{"german"=>"SMT", "french"=>"SMT", "italian"=>"SMT", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bernastrasse 28", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 4 800 800", "fax"=>"+41 58 462 60 07", "email"=>"info@swissmint.ch", "homepage"=>{"german"=>"www.swissmnt.ch", "french"=>"www.swissmnt.ch", "italian"=>"www.swissmnt.ch", "english"=>""}}, "children"=>[{"id"=>"20031379", "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003314", "label"=>{"german"=>"SMT", "french"=>"SMT", "italian"=>"SMT", "english"=>""}, "name"=>{"german"=>"Eidgenössische Münzstätte Swissmint", "french"=>"Monnaie fédérale Swissmint", "italian"=>"Zecca federale Swissmint", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003314",
+  "name": {
+    "german": "Eidgenössische Münzstätte Swissmint",
+    "french": "Monnaie fédérale Swissmint",
+    "italian": "Zecca federale Swissmint",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SMT",
+    "french": "SMT",
+    "italian": "SMT",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bernastrasse 28",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 4 800 800",
+    "fax": "+41 58 462 60 07",
+    "email": "info@swissmint.ch",
+    "homepage": {
+      "german": "www.swissmnt.ch",
+      "french": "www.swissmnt.ch",
+      "italian": "www.swissmnt.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20031379",
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003314",
+      "label": {
+        "german": "SMT",
+        "french": "SMT",
+        "italian": "SMT",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Münzstätte Swissmint",
+        "french": "Monnaie fédérale Swissmint",
+        "italian": "Zecca federale Swissmint",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

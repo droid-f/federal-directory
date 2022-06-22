@@ -1,1 +1,141 @@
-{"id"=>"20048179", "name"=>{"german"=>"Strategie und Innovation", "french"=>"Stratégie et innovation", "italian"=>"Strategia e innovazione", "english"=>""}, "nameAbbr"=>{"german"=>"SI", "french"=>"SI", "italian"=>"SI", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 91", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1518794", "surname"=>"Heck", "givenName"=>"Uwe", "email"=>nil, "phone"=>"+41 58 46 78890", "function"=>{"german"=>"Unternehmensarch., Fachexp., Stv. Leit.", "french"=>"Unternehmensarch., Fachexp., Stv. Leit.", "italian"=>"Unternehmensarch., Fachexp., Stv. Leit.", "english"=>"Unternehmensarch., Fachexp., Stv. Leit."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"20048177", "label"=>{"german"=>"DTI", "french"=>"TNI", "italian"=>"TDT", "english"=>""}, "name"=>{"german"=>"Bereich Digitale Transformation und IKT-Lenkung", "french"=>"Secteur Transformation numérique et gouvernance de l’informatique", "italian"=>"Settore Trasformazione digitale e governance delle TIC", "english"=>""}}, {"id"=>"20048178", "label"=>{"german"=>"TI", "french"=>"TI", "italian"=>"TI", "english"=>""}, "name"=>{"german"=>"Transformation und Interoperabilität", "french"=>"Transformation et interopérabilité", "italian"=>"Trasformazione e interoperabilità", "english"=>""}}, {"id"=>"20048179", "label"=>{"german"=>"SI", "french"=>"SI", "italian"=>"SI", "english"=>""}, "name"=>{"german"=>"Strategie und Innovation", "french"=>"Stratégie et innovation", "italian"=>"Strategia e innovazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048179",
+  "name": {
+    "german": "Strategie und Innovation",
+    "french": "Stratégie et innovation",
+    "italian": "Strategia e innovazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SI",
+    "french": "SI",
+    "italian": "SI",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 91",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1518794",
+      "surname": "Heck",
+      "givenName": "Uwe",
+      "email": null,
+      "phone": "+41 58 46 78890",
+      "function": {
+        "german": "Unternehmensarch., Fachexp., Stv. Leit.",
+        "french": "Unternehmensarch., Fachexp., Stv. Leit.",
+        "italian": "Unternehmensarch., Fachexp., Stv. Leit.",
+        "english": "Unternehmensarch., Fachexp., Stv. Leit."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048177",
+      "label": {
+        "german": "DTI",
+        "french": "TNI",
+        "italian": "TDT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Digitale Transformation und IKT-Lenkung",
+        "french": "Secteur Transformation numérique et gouvernance de l’informatique",
+        "italian": "Settore Trasformazione digitale e governance delle TIC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048178",
+      "label": {
+        "german": "TI",
+        "french": "TI",
+        "italian": "TI",
+        "english": ""
+      },
+      "name": {
+        "german": "Transformation und Interoperabilität",
+        "french": "Transformation et interopérabilité",
+        "italian": "Trasformazione e interoperabilità",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048179",
+      "label": {
+        "german": "SI",
+        "french": "SI",
+        "italian": "SI",
+        "english": ""
+      },
+      "name": {
+        "german": "Strategie und Innovation",
+        "french": "Stratégie et innovation",
+        "italian": "Strategia e innovazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

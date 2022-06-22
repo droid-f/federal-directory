@@ -1,1 +1,214 @@
-{"id"=>"10003296", "name"=>{"german"=>"Finanzdienst IV - Bildung, Forschung, Kultur und Internationales", "french"=>"Service financier IV - Formation, recherche, culture et affaires internationales", "italian"=>"Servizio finanziario IV - Formazione, ricerca, cultura e affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7227863", "surname"=>"Affolter", "givenName"=>"Katharina", "email"=>nil, "phone"=>"+41 58 46 26208", "function"=>{"german"=>"Leiterin Finanzdienst IV", "french"=>"Cheffe Service financier IV", "italian"=>"Capo Servizio finanziario IV", "english"=>"Leiterin Finanzdienst IV"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6736973", "surname"=>"Howald", "givenName"=>"Matthias", "email"=>nil, "phone"=>"+41 58 46 26084", "function"=>{"german"=>"stv. Leiter", "french"=>"Chef suppléant", "italian"=>"Capo sostituto", "english"=>"stv. Leiter"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6475227", "surname"=>"Golliard", "givenName"=>"Mélanie", "email"=>nil, "phone"=>"+41 58 46 21659", "function"=>{"german"=>"Oekonomin", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonomin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7141304", "surname"=>"Reichmuth", "givenName"=>"Lukas", "email"=>nil, "phone"=>"+41 58 46 78788", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5765598", "surname"=>"Ruedin", "givenName"=>"Julie", "email"=>nil, "phone"=>"+41 58 48 13460", "function"=>{"german"=>"Oekonomin", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonomin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003292", "label"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}, "name"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}}, {"id"=>"10003296", "label"=>{"german"=>"Finanzdienst IV - Bildung, Forschung, Kultur und Internationales", "french"=>"Service financier IV - Formation, recherche, culture et affaires internationales", "italian"=>"Servizio finanziario IV - Formazione, ricerca, cultura e affari internazionali", "english"=>""}, "name"=>{"german"=>"Finanzdienst IV - Bildung, Forschung, Kultur und Internationales", "french"=>"Service financier IV - Formation, recherche, culture et affaires internationales", "italian"=>"Servizio finanziario IV - Formazione, ricerca, cultura e affari internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003296",
+  "name": {
+    "german": "Finanzdienst IV - Bildung, Forschung, Kultur und Internationales",
+    "french": "Service financier IV - Formation, recherche, culture et affaires internationales",
+    "italian": "Servizio finanziario IV - Formazione, ricerca, cultura e affari internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7227863",
+      "surname": "Affolter",
+      "givenName": "Katharina",
+      "email": null,
+      "phone": "+41 58 46 26208",
+      "function": {
+        "german": "Leiterin Finanzdienst IV",
+        "french": "Cheffe Service financier IV",
+        "italian": "Capo Servizio finanziario IV",
+        "english": "Leiterin Finanzdienst IV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6736973",
+      "surname": "Howald",
+      "givenName": "Matthias",
+      "email": null,
+      "phone": "+41 58 46 26084",
+      "function": {
+        "german": "stv. Leiter",
+        "french": "Chef suppléant",
+        "italian": "Capo sostituto",
+        "english": "stv. Leiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6475227",
+      "surname": "Golliard",
+      "givenName": "Mélanie",
+      "email": null,
+      "phone": "+41 58 46 21659",
+      "function": {
+        "german": "Oekonomin",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonomin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7141304",
+      "surname": "Reichmuth",
+      "givenName": "Lukas",
+      "email": null,
+      "phone": "+41 58 46 78788",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5765598",
+      "surname": "Ruedin",
+      "givenName": "Julie",
+      "email": null,
+      "phone": "+41 58 48 13460",
+      "function": {
+        "german": "Oekonomin",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonomin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003292",
+      "label": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003296",
+      "label": {
+        "german": "Finanzdienst IV - Bildung, Forschung, Kultur und Internationales",
+        "french": "Service financier IV - Formation, recherche, culture et affaires internationales",
+        "italian": "Servizio finanziario IV - Formazione, ricerca, cultura e affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzdienst IV - Bildung, Forschung, Kultur und Internationales",
+        "french": "Service financier IV - Formation, recherche, culture et affaires internationales",
+        "italian": "Servizio finanziario IV - Formazione, ricerca, cultura e affari internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

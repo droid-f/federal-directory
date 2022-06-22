@@ -1,1 +1,140 @@
-{"id"=>"10000632", "name"=>{"german"=>"Dienst für Fremde Interessen", "french"=>"Service des intérêts étrangers", "italian"=>"Servizio degli interessi stranieri", "english"=>"Foreign Interests Service"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Nord", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10013477", "label"=>{"german"=>"Amerikas", "french"=>"Amériques", "italian"=>"Americhe", "english"=>"Americas"}, "name"=>{"german"=>"Amerikas", "french"=>"Amériques", "italian"=>"Americhe", "english"=>"Americas"}}, {"id"=>"20027931", "label"=>{"german"=>"Regionalkoordination Nord- und Zentralamerika", "french"=>"Coordination régionale Amérique du Nord et centrale", "italian"=>"Coordinamento regionale America del Nord e centrale", "english"=>"Regional Coordination North and Central America"}, "name"=>{"german"=>"Regionalkoordination Nord- und Zentralamerika", "french"=>"Coordination régionale Amérique du Nord et centrale", "italian"=>"Coordinamento regionale America del Nord e centrale", "english"=>"Regional Coordination North and Central America"}}, {"id"=>"10000632", "label"=>{"german"=>"Dienst für Fremde Interessen", "french"=>"Service des intérêts étrangers", "italian"=>"Servizio degli interessi stranieri", "english"=>"Foreign Interests Service"}, "name"=>{"german"=>"Dienst für Fremde Interessen", "french"=>"Service des intérêts étrangers", "italian"=>"Servizio degli interessi stranieri", "english"=>"Foreign Interests Service"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000632",
+  "name": {
+    "german": "Dienst für Fremde Interessen",
+    "french": "Service des intérêts étrangers",
+    "italian": "Servizio degli interessi stranieri",
+    "english": "Foreign Interests Service"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Nord",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10013477",
+      "label": {
+        "german": "Amerikas",
+        "french": "Amériques",
+        "italian": "Americhe",
+        "english": "Americas"
+      },
+      "name": {
+        "german": "Amerikas",
+        "french": "Amériques",
+        "italian": "Americhe",
+        "english": "Americas"
+      }
+    },
+    {
+      "id": "20027931",
+      "label": {
+        "german": "Regionalkoordination Nord- und Zentralamerika",
+        "french": "Coordination régionale Amérique du Nord et centrale",
+        "italian": "Coordinamento regionale America del Nord e centrale",
+        "english": "Regional Coordination North and Central America"
+      },
+      "name": {
+        "german": "Regionalkoordination Nord- und Zentralamerika",
+        "french": "Coordination régionale Amérique du Nord et centrale",
+        "italian": "Coordinamento regionale America del Nord e centrale",
+        "english": "Regional Coordination North and Central America"
+      }
+    },
+    {
+      "id": "10000632",
+      "label": {
+        "german": "Dienst für Fremde Interessen",
+        "french": "Service des intérêts étrangers",
+        "italian": "Servizio degli interessi stranieri",
+        "english": "Foreign Interests Service"
+      },
+      "name": {
+        "german": "Dienst für Fremde Interessen",
+        "french": "Service des intérêts étrangers",
+        "italian": "Servizio degli interessi stranieri",
+        "english": "Foreign Interests Service"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

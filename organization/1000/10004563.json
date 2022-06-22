@@ -1,1 +1,215 @@
-{"id"=>"10004563", "name"=>{"german"=>"Sektion Vollzug Gesundheitsberufe", "french"=>"Section Exécution professions de la santé", "italian"=>"Sezione esecuzione professioni sanitarie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 4629483", "fax"=>"+41 58 4630009", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9199213", "surname"=>"Frey", "givenName"=>"Priska", "email"=>nil, "phone"=>"+41 58 46 30203", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7090483", "surname"=>"Stalder", "givenName"=>"Melanie", "email"=>nil, "phone"=>"+41 58 46 97619", "function"=>{"german"=>"Stv. Sektionsleiter/in und Wiss. MA", "french"=>"Stv. Sektionsleiter/in und Wiss. MA", "italian"=>"Stv. Sektionsleiter/in und Wiss. MA", "english"=>"Stv. Sektionsleiter/in und Wiss. MA"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5180200", "surname"=>"Berger", "givenName"=>"Remigius", "email"=>nil, "phone"=>"+41 58 46 51008", "function"=>{"german"=>"Wiss. Mitarbeiter/in", "french"=>"Wiss. Mitarbeiter/in Vollzug GB", "italian"=>"Wiss. Mitarbeiter/in Vollzug GB", "english"=>"Wiss. Mitarbeiter/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7135584", "surname"=>"Hofer", "givenName"=>"Marlen", "email"=>nil, "phone"=>"+41 58 46 97071", "function"=>{"german"=>"Wiss. Mitarbeiter/in Vollzug GB", "french"=>"Wiss. Mitarbeiter/in Vollzug GB", "italian"=>"Wiss. Mitarbeiter/in Vollzug GB", "english"=>"Wiss. Mitarbeiter/in Vollzug GB"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004560", "label"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}}, {"id"=>"10004562", "label"=>{"german"=>"Abteilung Gesundheitsberufe", "french"=>"Division Professions de la santé", "italian"=>"Divisione professioni sanitarie", "english"=>""}, "name"=>{"german"=>"Abteilung Gesundheitsberufe", "french"=>"Division Professions de la santé", "italian"=>"Divisione professioni sanitarie", "english"=>""}}, {"id"=>"10004563", "label"=>{"german"=>"Sektion Vollzug Gesundheitsberufe", "french"=>"Section Exécution professions de la santé", "italian"=>"Sezione esecuzione professioni sanitarie", "english"=>""}, "name"=>{"german"=>"Sektion Vollzug Gesundheitsberufe", "french"=>"Section Exécution professions de la santé", "italian"=>"Sezione esecuzione professioni sanitarie", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004563",
+  "name": {
+    "german": "Sektion Vollzug Gesundheitsberufe",
+    "french": "Section Exécution professions de la santé",
+    "italian": "Sezione esecuzione professioni sanitarie",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 4629483",
+    "fax": "+41 58 4630009",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9199213",
+      "surname": "Frey",
+      "givenName": "Priska",
+      "email": null,
+      "phone": "+41 58 46 30203",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7090483",
+      "surname": "Stalder",
+      "givenName": "Melanie",
+      "email": null,
+      "phone": "+41 58 46 97619",
+      "function": {
+        "german": "Stv. Sektionsleiter/in und Wiss. MA",
+        "french": "Stv. Sektionsleiter/in und Wiss. MA",
+        "italian": "Stv. Sektionsleiter/in und Wiss. MA",
+        "english": "Stv. Sektionsleiter/in und Wiss. MA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5180200",
+      "surname": "Berger",
+      "givenName": "Remigius",
+      "email": null,
+      "phone": "+41 58 46 51008",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in",
+        "french": "Wiss. Mitarbeiter/in Vollzug GB",
+        "italian": "Wiss. Mitarbeiter/in Vollzug GB",
+        "english": "Wiss. Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7135584",
+      "surname": "Hofer",
+      "givenName": "Marlen",
+      "email": null,
+      "phone": "+41 58 46 97071",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in Vollzug GB",
+        "french": "Wiss. Mitarbeiter/in Vollzug GB",
+        "italian": "Wiss. Mitarbeiter/in Vollzug GB",
+        "english": "Wiss. Mitarbeiter/in Vollzug GB"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004560",
+      "label": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004562",
+      "label": {
+        "german": "Abteilung Gesundheitsberufe",
+        "french": "Division Professions de la santé",
+        "italian": "Divisione professioni sanitarie",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Gesundheitsberufe",
+        "french": "Division Professions de la santé",
+        "italian": "Divisione professioni sanitarie",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004563",
+      "label": {
+        "german": "Sektion Vollzug Gesundheitsberufe",
+        "french": "Section Exécution professions de la santé",
+        "italian": "Sezione esecuzione professioni sanitarie",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Vollzug Gesundheitsberufe",
+        "french": "Section Exécution professions de la santé",
+        "italian": "Sezione esecuzione professioni sanitarie",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

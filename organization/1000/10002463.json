@@ -1,1 +1,187 @@
-{"id"=>"10002463", "name"=>{"german"=>"Eidgenössisches Amt für das Handelsregister", "french"=>"Office fédéral du registre du commerce", "italian"=>"Ufficio federale del registro di commercio", "english"=>"Federal Commercial Registry Office"}, "nameAbbr"=>{"german"=>"EHRA", "french"=>"EHRA", "italian"=>"EHRA", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584624196", "fax"=>"", "email"=>"ehra@bj.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3433725", "surname"=>"Turin", "givenName"=>"Nicholas", "email"=>nil, "phone"=>"+41 58 46 24192", "function"=>{"german"=>"Vorsteher EHRA", "french"=>"Chef OFRC", "italian"=>"Capo UFRC", "english"=>"Vorsteher EHRA"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3111108", "surname"=>"Siffert", "givenName"=>"Rino", "email"=>nil, "phone"=>"+41 58 46 24188", "function"=>{"german"=>"Stv. Vorsteher EHRA", "french"=>"Chef suppléant OFRC", "italian"=>"Capo supplente UFRC", "english"=>"Stv. Vorsteher EHRA"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002456", "label"=>{"german"=>"PRIVAT", "french"=>"PRIVAT", "italian"=>"PRIVAT", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Privatrecht", "french"=>"Domaine de direction Droit privé", "italian"=>"Ambito direzionale Diritto privato", "english"=>""}}, {"id"=>"10002463", "label"=>{"german"=>"EHRA", "french"=>"EHRA", "italian"=>"EHRA", "english"=>"Federal Commercial Registry Office"}, "name"=>{"german"=>"Eidgenössisches Amt für das Handelsregister", "french"=>"Office fédéral du registre du commerce", "italian"=>"Ufficio federale del registro di commercio", "english"=>"Federal Commercial Registry Office"}}], "contactPoints"=>[{"id"=>181, "name"=>{"german"=>"Zentralregister", "french"=>"Registre central", "italian"=>"Registro centrale", "english"=>""}, "email"=>nil, "phone"=>"+41 58 463 21 02", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[0]}
+{
+  "id": "10002463",
+  "name": {
+    "german": "Eidgenössisches Amt für das Handelsregister",
+    "french": "Office fédéral du registre du commerce",
+    "italian": "Ufficio federale del registro di commercio",
+    "english": "Federal Commercial Registry Office"
+  },
+  "nameAbbr": {
+    "german": "EHRA",
+    "french": "EHRA",
+    "italian": "EHRA",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584624196",
+    "fax": "",
+    "email": "ehra@bj.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3433725",
+      "surname": "Turin",
+      "givenName": "Nicholas",
+      "email": null,
+      "phone": "+41 58 46 24192",
+      "function": {
+        "german": "Vorsteher EHRA",
+        "french": "Chef OFRC",
+        "italian": "Capo UFRC",
+        "english": "Vorsteher EHRA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3111108",
+      "surname": "Siffert",
+      "givenName": "Rino",
+      "email": null,
+      "phone": "+41 58 46 24188",
+      "function": {
+        "german": "Stv. Vorsteher EHRA",
+        "french": "Chef suppléant OFRC",
+        "italian": "Capo supplente UFRC",
+        "english": "Stv. Vorsteher EHRA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002456",
+      "label": {
+        "german": "PRIVAT",
+        "french": "PRIVAT",
+        "italian": "PRIVAT",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Privatrecht",
+        "french": "Domaine de direction Droit privé",
+        "italian": "Ambito direzionale Diritto privato",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002463",
+      "label": {
+        "german": "EHRA",
+        "french": "EHRA",
+        "italian": "EHRA",
+        "english": "Federal Commercial Registry Office"
+      },
+      "name": {
+        "german": "Eidgenössisches Amt für das Handelsregister",
+        "french": "Office fédéral du registre du commerce",
+        "italian": "Ufficio federale del registro di commercio",
+        "english": "Federal Commercial Registry Office"
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 181,
+      "name": {
+        "german": "Zentralregister",
+        "french": "Registre central",
+        "italian": "Registro centrale",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 463 21 02",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+    0
+  ]
+}

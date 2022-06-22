@@ -1,1 +1,155 @@
-{"id"=>"20037828", "name"=>{"german"=>"Zentrale", "french"=>"Centrale", "italian"=>"Centrale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 118", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008603", "label"=>{"german"=>"GS-EFD", "french"=>"SG-DFF", "italian"=>"SG-DFF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EFD", "french"=>"Secrétariat général DFF", "italian"=>"Segreteria generale DFF", "english"=>""}}, {"id"=>"20041576", "label"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}, "name"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}}, {"id"=>"10003843", "label"=>{"german"=>"Ressourcen EFD", "french"=>"Ressources DFF", "italian"=>"Risorse DFF", "english"=>""}, "name"=>{"german"=>"Ressourcen EFD", "french"=>"Ressources DFF", "italian"=>"Risorse DFF", "english"=>""}}, {"id"=>"10003847", "label"=>{"german"=>"Sprachdienste EFD", "french"=>"Services linguistiques DFF", "italian"=>"Servizi linguistici DFF", "english"=>""}, "name"=>{"german"=>"Sprachdienste EFD", "french"=>"Services linguistiques DFF", "italian"=>"Servizi linguistici DFF", "english"=>""}}, {"id"=>"20037828", "label"=>{"german"=>"Zentrale", "french"=>"Centrale", "italian"=>"Centrale", "english"=>""}, "name"=>{"german"=>"Zentrale", "french"=>"Centrale", "italian"=>"Centrale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037828",
+  "name": {
+    "german": "Zentrale",
+    "french": "Centrale",
+    "italian": "Centrale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 118",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008603",
+      "label": {
+        "german": "GS-EFD",
+        "french": "SG-DFF",
+        "italian": "SG-DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EFD",
+        "french": "Secrétariat général DFF",
+        "italian": "Segreteria generale DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041576",
+      "label": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003843",
+      "label": {
+        "german": "Ressourcen EFD",
+        "french": "Ressources DFF",
+        "italian": "Risorse DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen EFD",
+        "french": "Ressources DFF",
+        "italian": "Risorse DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003847",
+      "label": {
+        "german": "Sprachdienste EFD",
+        "french": "Services linguistiques DFF",
+        "italian": "Servizi linguistici DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Sprachdienste EFD",
+        "french": "Services linguistiques DFF",
+        "italian": "Servizi linguistici DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037828",
+      "label": {
+        "german": "Zentrale",
+        "french": "Centrale",
+        "italian": "Centrale",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale",
+        "french": "Centrale",
+        "italian": "Centrale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

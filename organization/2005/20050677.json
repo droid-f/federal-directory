@@ -1,1 +1,154 @@
-{"id"=>"20050677", "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 66", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009460", "name"=>{"german"=>"Informatik extern", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10009450", "label"=>{"german"=>"ARE", "french"=>"ARE", "italian"=>"ARE", "english"=>""}, "name"=>{"german"=>"Bundesamt für Raumentwicklung", "french"=>"Office fédéral du développement territorial", "italian"=>"Ufficio federale dello sviluppo territoriale", "english"=>""}}, {"id"=>"10009451", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20032784", "label"=>{"german"=>"Sektion Direktionsgeschäfte", "french"=>"Section Affaires de la direction", "italian"=>"Sezione Affari della direzione", "english"=>""}, "name"=>{"german"=>"Sektion Direktionsgeschäfte", "french"=>"Section Affaires de la direction", "italian"=>"Sezione Affari della direzione", "english"=>""}}, {"id"=>"20050677", "label"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050677",
+  "name": {
+    "german": "Informatik",
+    "french": "Informatique",
+    "italian": "Informatica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 66",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009460",
+      "name": {
+        "german": "Informatik extern",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009450",
+      "label": {
+        "german": "ARE",
+        "french": "ARE",
+        "italian": "ARE",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Raumentwicklung",
+        "french": "Office fédéral du développement territorial",
+        "italian": "Ufficio federale dello sviluppo territoriale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009451",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032784",
+      "label": {
+        "german": "Sektion Direktionsgeschäfte",
+        "french": "Section Affaires de la direction",
+        "italian": "Sezione Affari della direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Direktionsgeschäfte",
+        "french": "Section Affaires de la direction",
+        "italian": "Sezione Affari della direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050677",
+      "label": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

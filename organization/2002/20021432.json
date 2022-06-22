@@ -1,1 +1,232 @@
-{"id"=>"20021432", "name"=>{"german"=>"Abteilung Steuerung, Planung & Stab PSI", "french"=>"Division Gestion, planification et État-major SPI", "italian"=>"Divisione Coordinazione, pianificazione e stato maggiore SPI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046576", "name"=>{"german"=>"Stab PSI", "french"=>"État-major", "italian"=>"Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20044076", "name"=>{"german"=>"Bereich Strategie PSI", "french"=>"Service Stratégie", "italian"=>"Servizio Strategia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046577", "name"=>{"german"=>"Bereich Fahndungen RIPOL", "french"=>"Service Recherches RIPOL", "italian"=>"Servizio Ricerche RIPOL", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048981", "name"=>{"german"=>"Bereich Datengovernance und Ausbildung", "french"=>"Service Gouvernance des données et formation", "italian"=>"Settore Governance dei dati dei sistemi di polizia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3010914", "surname"=>"Brönnimann", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 24254", "function"=>{"german"=>"Stv Chef/in PSI / Abteilungschef/in", "french"=>"Stv Chef/in PSI / Abteilungschef/in", "italian"=>"Stv Chef/in PSI / Abteilungschef/in", "english"=>"Stv Chef/in PSI / Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6874853", "surname"=>"Nikles", "givenName"=>"Martina", "email"=>nil, "phone"=>"+41 58 48 03973", "function"=>{"german"=>"Stv AC / Bereichsleiter/in", "french"=>"Stv AC / Bereichsleiter/in", "italian"=>"Stv AC / Bereichsleiter/in", "english"=>"Stv AC / Bereichsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009366", "label"=>{"german"=>"PSI", "french"=>"SPI", "italian"=>"SPI", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Polizeisysteme & Identifikation", "french"=>"Domaine de direction systèmes de police et identification", "italian"=>"Ambito direzionale sistemi di polizia e identificazione", "english"=>""}}, {"id"=>"20021432", "label"=>{"german"=>"Abteilung Steuerung, Planung & Stab PSI", "french"=>"Division Gestion, planification et État-major SPI", "italian"=>"Divisione Coordinazione, pianificazione e stato maggiore SPI", "english"=>""}, "name"=>{"german"=>"Abteilung Steuerung, Planung & Stab PSI", "french"=>"Division Gestion, planification et État-major SPI", "italian"=>"Divisione Coordinazione, pianificazione e stato maggiore SPI", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021432",
+  "name": {
+    "german": "Abteilung Steuerung, Planung & Stab PSI",
+    "french": "Division Gestion, planification et État-major SPI",
+    "italian": "Divisione Coordinazione, pianificazione e stato maggiore SPI",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046576",
+      "name": {
+        "german": "Stab PSI",
+        "french": "État-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044076",
+      "name": {
+        "german": "Bereich Strategie PSI",
+        "french": "Service Stratégie",
+        "italian": "Servizio Strategia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046577",
+      "name": {
+        "german": "Bereich Fahndungen RIPOL",
+        "french": "Service Recherches RIPOL",
+        "italian": "Servizio Ricerche RIPOL",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048981",
+      "name": {
+        "german": "Bereich Datengovernance und Ausbildung",
+        "french": "Service Gouvernance des données et formation",
+        "italian": "Settore Governance dei dati dei sistemi di polizia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3010914",
+      "surname": "Brönnimann",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 24254",
+      "function": {
+        "german": "Stv Chef/in PSI / Abteilungschef/in",
+        "french": "Stv Chef/in PSI / Abteilungschef/in",
+        "italian": "Stv Chef/in PSI / Abteilungschef/in",
+        "english": "Stv Chef/in PSI / Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6874853",
+      "surname": "Nikles",
+      "givenName": "Martina",
+      "email": null,
+      "phone": "+41 58 48 03973",
+      "function": {
+        "german": "Stv AC / Bereichsleiter/in",
+        "french": "Stv AC / Bereichsleiter/in",
+        "italian": "Stv AC / Bereichsleiter/in",
+        "english": "Stv AC / Bereichsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009366",
+      "label": {
+        "german": "PSI",
+        "french": "SPI",
+        "italian": "SPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Polizeisysteme & Identifikation",
+        "french": "Domaine de direction systèmes de police et identification",
+        "italian": "Ambito direzionale sistemi di polizia e identificazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021432",
+      "label": {
+        "german": "Abteilung Steuerung, Planung & Stab PSI",
+        "french": "Division Gestion, planification et État-major SPI",
+        "italian": "Divisione Coordinazione, pianificazione e stato maggiore SPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Steuerung, Planung & Stab PSI",
+        "french": "Division Gestion, planification et État-major SPI",
+        "italian": "Divisione Coordinazione, pianificazione e stato maggiore SPI",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

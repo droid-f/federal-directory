@@ -1,1 +1,156 @@
-{"id"=>"20000427", "name"=>{"german"=>"GV, ECOSOC, Menschenrechtsrat", "french"=>"AG, ECOSOC, Conseil des droits de l'homme", "italian"=>"AG, ECOSOS, Consiglio dei diritti umani", "english"=>"GA, ECOSOC, Human Rights Council"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 28", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7507820", "surname"=>"Verones", "givenName"=>"Cristina", "email"=>nil, "phone"=>"+41 58 46 14165", "function"=>{"german"=>"Diplomatische/r Mitarbeiter/in", "french"=>"Diplomatische/r Mitarbeiter/in", "italian"=>"Diplomatische/r Mitarbeiter/in", "english"=>"Diplomatische/r Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000615", "label"=>{"german"=>"UNO", "french"=>"ONU", "italian"=>"ONU", "english"=>"UN"}, "name"=>{"german"=>"UNO", "french"=>"ONU", "italian"=>"ONU", "english"=>"UN"}}, {"id"=>"10000642", "label"=>{"german"=>"UNO Koordination", "french"=>"Coordination ONU", "italian"=>"Coordinamento ONU", "english"=>"UN Coordination"}, "name"=>{"german"=>"UNO Koordination", "french"=>"Coordination ONU", "italian"=>"Coordinamento ONU", "english"=>"UN Coordination"}}, {"id"=>"20000427", "label"=>{"german"=>"GV, ECOSOC, Menschenrechtsrat", "french"=>"AG, ECOSOC, Conseil des droits de l'homme", "italian"=>"AG, ECOSOS, Consiglio dei diritti umani", "english"=>"GA, ECOSOC, Human Rights Council"}, "name"=>{"german"=>"GV, ECOSOC, Menschenrechtsrat", "french"=>"AG, ECOSOC, Conseil des droits de l'homme", "italian"=>"AG, ECOSOS, Consiglio dei diritti umani", "english"=>"GA, ECOSOC, Human Rights Council"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000427",
+  "name": {
+    "german": "GV, ECOSOC, Menschenrechtsrat",
+    "french": "AG, ECOSOC, Conseil des droits de l'homme",
+    "italian": "AG, ECOSOS, Consiglio dei diritti umani",
+    "english": "GA, ECOSOC, Human Rights Council"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 28",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7507820",
+      "surname": "Verones",
+      "givenName": "Cristina",
+      "email": null,
+      "phone": "+41 58 46 14165",
+      "function": {
+        "german": "Diplomatische/r Mitarbeiter/in",
+        "french": "Diplomatische/r Mitarbeiter/in",
+        "italian": "Diplomatische/r Mitarbeiter/in",
+        "english": "Diplomatische/r Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000615",
+      "label": {
+        "german": "UNO",
+        "french": "ONU",
+        "italian": "ONU",
+        "english": "UN"
+      },
+      "name": {
+        "german": "UNO",
+        "french": "ONU",
+        "italian": "ONU",
+        "english": "UN"
+      }
+    },
+    {
+      "id": "10000642",
+      "label": {
+        "german": "UNO Koordination",
+        "french": "Coordination ONU",
+        "italian": "Coordinamento ONU",
+        "english": "UN Coordination"
+      },
+      "name": {
+        "german": "UNO Koordination",
+        "french": "Coordination ONU",
+        "italian": "Coordinamento ONU",
+        "english": "UN Coordination"
+      }
+    },
+    {
+      "id": "20000427",
+      "label": {
+        "german": "GV, ECOSOC, Menschenrechtsrat",
+        "french": "AG, ECOSOC, Conseil des droits de l'homme",
+        "italian": "AG, ECOSOS, Consiglio dei diritti umani",
+        "english": "GA, ECOSOC, Human Rights Council"
+      },
+      "name": {
+        "german": "GV, ECOSOC, Menschenrechtsrat",
+        "french": "AG, ECOSOC, Conseil des droits de l'homme",
+        "italian": "AG, ECOSOS, Consiglio dei diritti umani",
+        "english": "GA, ECOSOC, Human Rights Council"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

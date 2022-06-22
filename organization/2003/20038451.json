@@ -1,1 +1,230 @@
-{"id"=>"20038451", "name"=>{"german"=>"Hauptabteilung Ressourcen RSS", "french"=>"Division principale Ressources RSS", "italian"=>"Divisione principale Risorse RSS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035055", "name"=>{"german"=>"RSS - Informatik IT", "french"=>"RSS - Informatique IT", "italian"=>"RSS - Informatica IT", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039331", "name"=>{"german"=>"RSS - Finanzen", "french"=>"RSS - Finances", "italian"=>"RSS - Finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039333", "name"=>{"german"=>"RSS - Dienste", "french"=>"RSS - Services", "italian"=>"RSS - Servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039376", "name"=>{"german"=>"RSS - Inkasso", "french"=>"RSS - Encaissement", "italian"=>"RSS - Incasso", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045953", "name"=>{"german"=>"Tax Fraud Detection and Operations Security", "french"=>"Détection de la Fraude Fiscale et Sécurité des Operations", "italian"=>"Rilevamento frodi fiscali e sicurezza di operazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046734", "name"=>{"german"=>"Competence Center Business Intelligence und Data Analytics", "french"=>"Competence Center Business Intelligence", "italian"=>"Competence Center Business Intelligence", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5144443", "surname"=>"Kellermann", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 74160", "function"=>{"german"=>"Hauptabteilungschef/in, Vizedirektor/in", "french"=>"Hauptabteilungschef/in, Vizedirektor/in", "italian"=>"Hauptabteilungschef/in, Vizedirektor/in", "english"=>"Hauptabteilungschef/in, Vizedirektor/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008668", "label"=>{"german"=>"ESTV", "french"=>"AFC", "italian"=>"AFC", "english"=>""}, "name"=>{"german"=>"Eidgenössische Steuerverwaltung", "french"=>"Administration fédérale des contributions", "italian"=>"Amministrazione federale delle contribuzioni", "english"=>""}}, {"id"=>"10006258", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20038451", "label"=>{"german"=>"Hauptabteilung Ressourcen RSS", "french"=>"Division principale Ressources RSS", "italian"=>"Divisione principale Risorse RSS", "english"=>""}, "name"=>{"german"=>"Hauptabteilung Ressourcen RSS", "french"=>"Division principale Ressources RSS", "italian"=>"Divisione principale Risorse RSS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038451",
+  "name": {
+    "german": "Hauptabteilung Ressourcen RSS",
+    "french": "Division principale Ressources RSS",
+    "italian": "Divisione principale Risorse RSS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035055",
+      "name": {
+        "german": "RSS - Informatik IT",
+        "french": "RSS - Informatique IT",
+        "italian": "RSS - Informatica IT",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039331",
+      "name": {
+        "german": "RSS - Finanzen",
+        "french": "RSS - Finances",
+        "italian": "RSS - Finanze",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039333",
+      "name": {
+        "german": "RSS - Dienste",
+        "french": "RSS - Services",
+        "italian": "RSS - Servizi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039376",
+      "name": {
+        "german": "RSS - Inkasso",
+        "french": "RSS - Encaissement",
+        "italian": "RSS - Incasso",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045953",
+      "name": {
+        "german": "Tax Fraud Detection and Operations Security",
+        "french": "Détection de la Fraude Fiscale et Sécurité des Operations",
+        "italian": "Rilevamento frodi fiscali e sicurezza di operazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046734",
+      "name": {
+        "german": "Competence Center Business Intelligence und Data Analytics",
+        "french": "Competence Center Business Intelligence",
+        "italian": "Competence Center Business Intelligence",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5144443",
+      "surname": "Kellermann",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 74160",
+      "function": {
+        "german": "Hauptabteilungschef/in, Vizedirektor/in",
+        "french": "Hauptabteilungschef/in, Vizedirektor/in",
+        "italian": "Hauptabteilungschef/in, Vizedirektor/in",
+        "english": "Hauptabteilungschef/in, Vizedirektor/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008668",
+      "label": {
+        "german": "ESTV",
+        "french": "AFC",
+        "italian": "AFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Steuerverwaltung",
+        "french": "Administration fédérale des contributions",
+        "italian": "Amministrazione federale delle contribuzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006258",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038451",
+      "label": {
+        "german": "Hauptabteilung Ressourcen RSS",
+        "french": "Division principale Ressources RSS",
+        "italian": "Divisione principale Risorse RSS",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptabteilung Ressourcen RSS",
+        "french": "Division principale Ressources RSS",
+        "italian": "Divisione principale Risorse RSS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

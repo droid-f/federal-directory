@@ -1,1 +1,262 @@
-{"id"=>"10009349", "name"=>{"german"=>"Abteilung Einsatzzentrale / SIRENE / Sonderlagen", "french"=>"Division Centrale d'engagement, SIRENE et situations spéciales", "italian"=>"Divisione Centrale operativa, SIRENE e situazioni speciali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009350", "name"=>{"german"=>"Kommissariat Einsatz- und Alarmzentrale fedpol 1", "french"=>"Commissariat Centrale d'engagement et d'alarme fedpol 1", "italian"=>"Commissariato Centrale operativa e d'allarme fedpol 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042959", "name"=>{"german"=>"Kommissariat Einsatz- und Alarmzentrale fedpol 2", "french"=>"Commissariat Centrale d'engagement et d'alarme fedpol 2", "italian"=>"Commissariato Centrale operativa e d'allarme fedpol 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015324", "name"=>{"german"=>"Kommissariat SIRENE 1", "french"=>"Commissariat SIRENE 1", "italian"=>"Commissariato SIRENE 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018653", "name"=>{"german"=>"Kommissariat SIRENE 2", "french"=>"Commissariat SIRENE 2", "italian"=>"Commissariato SIRENE 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034552", "name"=>{"german"=>"Kommissariat Sonderlagen", "french"=>"Commissariat Situations spéciales", "italian"=>"Commissariato Situazioni speciali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005064", "name"=>{"german"=>"Kommissariat Operative Entwicklung und Planung", "french"=>"Commissariat Développement opérationnel et planification", "italian"=>"Commissariato Sviluppo operativo e pianificazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9371623", "surname"=>"Scherer", "givenName"=>"Benedikt", "email"=>nil, "phone"=>"+41 58 46 45879", "function"=>{"german"=>"Stv Chef/in IPK / Abteilungschef/in", "french"=>"Stv Chef/in IPK / Abteilungschef/in", "italian"=>"Stv Chef/in IPK / Abteilungschef/in", "english"=>"Stv Chef/in IPK / Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3961645", "surname"=>"Carretero", "givenName"=>"Lucas", "email"=>nil, "phone"=>"+41 58 46 90898", "function"=>{"german"=>"Stv AC / Kommissariatsleiter/in", "french"=>"Stv AC / Kommissariatsleiter/in", "italian"=>"Stv AC / Kommissariatsleiter/in", "english"=>"Stv AC / Kommissariatsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20021397", "label"=>{"german"=>"IPK", "french"=>"CPI", "italian"=>"CIP", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Internationale Polizeikooperation", "french"=>"Domaine de direction Coopération policière internationale", "italian"=>"Ambito direzionale Cooperazione internazionale di polizia", "english"=>""}}, {"id"=>"10009349", "label"=>{"german"=>"Abteilung Einsatzzentrale / SIRENE / Sonderlagen", "french"=>"Division Centrale d'engagement, SIRENE et situations spéciales", "italian"=>"Divisione Centrale operativa, SIRENE e situazioni speciali", "english"=>""}, "name"=>{"german"=>"Abteilung Einsatzzentrale / SIRENE / Sonderlagen", "french"=>"Division Centrale d'engagement, SIRENE et situations spéciales", "italian"=>"Divisione Centrale operativa, SIRENE e situazioni speciali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009349",
+  "name": {
+    "german": "Abteilung Einsatzzentrale / SIRENE / Sonderlagen",
+    "french": "Division Centrale d'engagement, SIRENE et situations spéciales",
+    "italian": "Divisione Centrale operativa, SIRENE e situazioni speciali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009350",
+      "name": {
+        "german": "Kommissariat Einsatz- und Alarmzentrale fedpol 1",
+        "french": "Commissariat Centrale d'engagement et d'alarme fedpol 1",
+        "italian": "Commissariato Centrale operativa e d'allarme fedpol 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042959",
+      "name": {
+        "german": "Kommissariat Einsatz- und Alarmzentrale fedpol 2",
+        "french": "Commissariat Centrale d'engagement et d'alarme fedpol 2",
+        "italian": "Commissariato Centrale operativa e d'allarme fedpol 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015324",
+      "name": {
+        "german": "Kommissariat SIRENE 1",
+        "french": "Commissariat SIRENE 1",
+        "italian": "Commissariato SIRENE 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018653",
+      "name": {
+        "german": "Kommissariat SIRENE 2",
+        "french": "Commissariat SIRENE 2",
+        "italian": "Commissariato SIRENE 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034552",
+      "name": {
+        "german": "Kommissariat Sonderlagen",
+        "french": "Commissariat Situations spéciales",
+        "italian": "Commissariato Situazioni speciali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005064",
+      "name": {
+        "german": "Kommissariat Operative Entwicklung und Planung",
+        "french": "Commissariat Développement opérationnel et planification",
+        "italian": "Commissariato Sviluppo operativo e pianificazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9371623",
+      "surname": "Scherer",
+      "givenName": "Benedikt",
+      "email": null,
+      "phone": "+41 58 46 45879",
+      "function": {
+        "german": "Stv Chef/in IPK / Abteilungschef/in",
+        "french": "Stv Chef/in IPK / Abteilungschef/in",
+        "italian": "Stv Chef/in IPK / Abteilungschef/in",
+        "english": "Stv Chef/in IPK / Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3961645",
+      "surname": "Carretero",
+      "givenName": "Lucas",
+      "email": null,
+      "phone": "+41 58 46 90898",
+      "function": {
+        "german": "Stv AC / Kommissariatsleiter/in",
+        "french": "Stv AC / Kommissariatsleiter/in",
+        "italian": "Stv AC / Kommissariatsleiter/in",
+        "english": "Stv AC / Kommissariatsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021397",
+      "label": {
+        "german": "IPK",
+        "french": "CPI",
+        "italian": "CIP",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Internationale Polizeikooperation",
+        "french": "Domaine de direction Coopération policière internationale",
+        "italian": "Ambito direzionale Cooperazione internazionale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009349",
+      "label": {
+        "german": "Abteilung Einsatzzentrale / SIRENE / Sonderlagen",
+        "french": "Division Centrale d'engagement, SIRENE et situations spéciales",
+        "italian": "Divisione Centrale operativa, SIRENE e situazioni speciali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Einsatzzentrale / SIRENE / Sonderlagen",
+        "french": "Division Centrale d'engagement, SIRENE et situations spéciales",
+        "italian": "Divisione Centrale operativa, SIRENE e situazioni speciali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

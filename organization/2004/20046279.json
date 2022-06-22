@@ -1,1 +1,169 @@
-{"id"=>"20046279", "name"=>{"german"=>"Führungsdienst Verteidigung", "french"=>"Service de commandement Défense", "italian"=>"Servizio di condotta Difesa", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20038164", "name"=>{"german"=>"Geschäftsführungsstelle", "french"=>"Gestion des postes", "italian"=>"Gestione dei posti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"10009869", "label"=>{"german"=>"FUB", "french"=>"BAC", "italian"=>"BAC", "english"=>""}, "name"=>{"german"=>"Führungsunterstützungsbasis", "french"=>"Base d'aide au commandement", "italian"=>"Base d'aiuto alla condotta", "english"=>""}}, {"id"=>"20030611", "label"=>{"german"=>"Stab / Einsatz- und Krisenmanagement", "french"=>"EM / Gest de l'engagement et des crises", "italian"=>"SM / Gest degli impieghi e delle crisi", "english"=>""}, "name"=>{"german"=>"Stab / Einsatz- und Krisenmanagement", "french"=>"EM / Gest de l'engagement et des crises", "italian"=>"SM / Gest degli impieghi e delle crisi", "english"=>""}}, {"id"=>"20046279", "label"=>{"german"=>"Führungsdienst Verteidigung", "french"=>"Service de commandement Défense", "italian"=>"Servizio di condotta Difesa", "english"=>""}, "name"=>{"german"=>"Führungsdienst Verteidigung", "french"=>"Service de commandement Défense", "italian"=>"Servizio di condotta Difesa", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046279",
+  "name": {
+    "german": "Führungsdienst Verteidigung",
+    "french": "Service de commandement Défense",
+    "italian": "Servizio di condotta Difesa",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20038164",
+      "name": {
+        "german": "Geschäftsführungsstelle",
+        "french": "Gestion des postes",
+        "italian": "Gestione dei posti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009869",
+      "label": {
+        "german": "FUB",
+        "french": "BAC",
+        "italian": "BAC",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützungsbasis",
+        "french": "Base d'aide au commandement",
+        "italian": "Base d'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030611",
+      "label": {
+        "german": "Stab / Einsatz- und Krisenmanagement",
+        "french": "EM / Gest de l'engagement et des crises",
+        "italian": "SM / Gest degli impieghi e delle crisi",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab / Einsatz- und Krisenmanagement",
+        "french": "EM / Gest de l'engagement et des crises",
+        "italian": "SM / Gest degli impieghi e delle crisi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046279",
+      "label": {
+        "german": "Führungsdienst Verteidigung",
+        "french": "Service de commandement Défense",
+        "italian": "Servizio di condotta Difesa",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsdienst Verteidigung",
+        "french": "Service de commandement Défense",
+        "italian": "Servizio di condotta Difesa",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

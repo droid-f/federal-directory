@@ -1,1 +1,141 @@
-{"id"=>"20037362", "name"=>{"german"=>"Kommissionen für Verkehr und Fernmeldewesen (KVF)", "french"=>"Commissions des transports et des télécommunications (CTT)", "italian"=>"Commissioni del trasporti e delle telecomunicazioni (CTT)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6995843", "surname"=>"Hollinger", "givenName"=>"Iris", "email"=>nil, "phone"=>"+41 58 32 29461", "function"=>{"german"=>"Kommissionssekretärin KVF", "french"=>"Kommissionssekretärin KVF", "italian"=>"Kommissionssekretärin KVF", "english"=>"Kommissionssekretärin KVF"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037307", "label"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}, "name"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}}, {"id"=>"20037322", "label"=>{"german"=>"Kommissionen Gruppe I", "french"=>"Commissions groupe I", "italian"=>"Commissioni gruppo I", "english"=>""}, "name"=>{"german"=>"Kommissionen Gruppe I", "french"=>"Commissions groupe I", "italian"=>"Commissioni gruppo I", "english"=>""}}, {"id"=>"20037362", "label"=>{"german"=>"Kommissionen für Verkehr und Fernmeldewesen (KVF)", "french"=>"Commissions des transports et des télécommunications (CTT)", "italian"=>"Commissioni del trasporti e delle telecomunicazioni (CTT)", "english"=>""}, "name"=>{"german"=>"Kommissionen für Verkehr und Fernmeldewesen (KVF)", "french"=>"Commissions des transports et des télécommunications (CTT)", "italian"=>"Commissioni del trasporti e delle telecomunicazioni (CTT)", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037362",
+  "name": {
+    "german": "Kommissionen für Verkehr und Fernmeldewesen (KVF)",
+    "french": "Commissions des transports et des télécommunications (CTT)",
+    "italian": "Commissioni del trasporti e delle telecomunicazioni (CTT)",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6995843",
+      "surname": "Hollinger",
+      "givenName": "Iris",
+      "email": null,
+      "phone": "+41 58 32 29461",
+      "function": {
+        "german": "Kommissionssekretärin KVF",
+        "french": "Kommissionssekretärin KVF",
+        "italian": "Kommissionssekretärin KVF",
+        "english": "Kommissionssekretärin KVF"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037307",
+      "label": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037322",
+      "label": {
+        "german": "Kommissionen Gruppe I",
+        "french": "Commissions groupe I",
+        "italian": "Commissioni gruppo I",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen Gruppe I",
+        "french": "Commissions groupe I",
+        "italian": "Commissioni gruppo I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037362",
+      "label": {
+        "german": "Kommissionen für Verkehr und Fernmeldewesen (KVF)",
+        "french": "Commissions des transports et des télécommunications (CTT)",
+        "italian": "Commissioni del trasporti e delle telecomunicazioni (CTT)",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen für Verkehr und Fernmeldewesen (KVF)",
+        "french": "Commissions des transports et des télécommunications (CTT)",
+        "italian": "Commissioni del trasporti e delle telecomunicazioni (CTT)",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

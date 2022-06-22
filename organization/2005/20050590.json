@@ -1,1 +1,155 @@
-{"id"=>"20050590", "name"=>{"german"=>"Exterme Mitarbeiter", "french"=>"Exterme Mitarbeiter", "italian"=>"Exterme Mitarbeiter", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008759", "label"=>{"german"=>"ASTRA", "french"=>"OFROU", "italian"=>"USTRA", "english"=>""}, "name"=>{"german"=>"Bundesamt für Strassen", "french"=>"Office fédéral des routes", "italian"=>"Ufficio federale delle strade", "english"=>""}}, {"id"=>"10002509", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20050462", "label"=>{"german"=>"Digital Services (DS)", "french"=>"Affaires de la direction", "italian"=>"Affari della direzione", "english"=>""}, "name"=>{"german"=>"Digital Services (DS)", "french"=>"Affaires de la direction", "italian"=>"Affari della direzione", "english"=>""}}, {"id"=>"20050467", "label"=>{"german"=>"Stabsbereich IT/OT Governance", "french"=>"Stabsbereich IT/OT Governance", "italian"=>"Stabsbereich IT/OT Governance", "english"=>""}, "name"=>{"german"=>"Stabsbereich IT/OT Governance", "french"=>"Stabsbereich IT/OT Governance", "italian"=>"Stabsbereich IT/OT Governance", "english"=>""}}, {"id"=>"20050590", "label"=>{"german"=>"Exterme Mitarbeiter", "french"=>"Exterme Mitarbeiter", "italian"=>"Exterme Mitarbeiter", "english"=>""}, "name"=>{"german"=>"Exterme Mitarbeiter", "french"=>"Exterme Mitarbeiter", "italian"=>"Exterme Mitarbeiter", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050590",
+  "name": {
+    "german": "Exterme Mitarbeiter",
+    "french": "Exterme Mitarbeiter",
+    "italian": "Exterme Mitarbeiter",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008759",
+      "label": {
+        "german": "ASTRA",
+        "french": "OFROU",
+        "italian": "USTRA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Strassen",
+        "french": "Office fédéral des routes",
+        "italian": "Ufficio federale delle strade",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002509",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050462",
+      "label": {
+        "german": "Digital Services (DS)",
+        "french": "Affaires de la direction",
+        "italian": "Affari della direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Digital Services (DS)",
+        "french": "Affaires de la direction",
+        "italian": "Affari della direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050467",
+      "label": {
+        "german": "Stabsbereich IT/OT Governance",
+        "french": "Stabsbereich IT/OT Governance",
+        "italian": "Stabsbereich IT/OT Governance",
+        "english": ""
+      },
+      "name": {
+        "german": "Stabsbereich IT/OT Governance",
+        "french": "Stabsbereich IT/OT Governance",
+        "italian": "Stabsbereich IT/OT Governance",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050590",
+      "label": {
+        "german": "Exterme Mitarbeiter",
+        "french": "Exterme Mitarbeiter",
+        "italian": "Exterme Mitarbeiter",
+        "english": ""
+      },
+      "name": {
+        "german": "Exterme Mitarbeiter",
+        "french": "Exterme Mitarbeiter",
+        "italian": "Exterme Mitarbeiter",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

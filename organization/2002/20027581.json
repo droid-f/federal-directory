@@ -1,1 +1,171 @@
-{"id"=>"20027581", "name"=>{"german"=>"Web und Social Media", "french"=>"Médias sociaux et Web", "italian"=>"Web e social media", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7051012", "surname"=>"Gächter", "givenName"=>"Otmar", "email"=>nil, "phone"=>"+41 58 46 25528", "function"=>{"german"=>"Leiter Web- und Social Media", "french"=>"Leiter Web- und Social Media", "italian"=>"Leiter Web- und Social Media", "english"=>"Leiter Web- und Social Media"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6192221", "surname"=>"Lüthy", "givenName"=>"Ivo", "email"=>nil, "phone"=>"+41 58 46 92696", "function"=>{"german"=>"Stv. Leiter Web- und Social Media", "french"=>"Stv. Leiter Web- und Social Media", "italian"=>"Stv. Leiter Web- und Social Media", "english"=>"Stv. Leiter Web- und Social Media"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9151108", "surname"=>"Gross", "givenName"=>"Miro", "email"=>nil, "phone"=>"+41 58 46 65468", "function"=>{"german"=>"Social Media Manager", "french"=>"Social Media Manager", "italian"=>"Social Media Manager", "english"=>"Social Media Manager"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20027562", "label"=>{"german"=>"Kommunikation UVEK", "french"=>"Communication DETEC", "italian"=>"Comunicazione DATEC", "english"=>""}, "name"=>{"german"=>"Kommunikation UVEK", "french"=>"Communication DETEC", "italian"=>"Comunicazione DATEC", "english"=>""}}, {"id"=>"20027581", "label"=>{"german"=>"Web und Social Media", "french"=>"Médias sociaux et Web", "italian"=>"Web e social media", "english"=>""}, "name"=>{"german"=>"Web und Social Media", "french"=>"Médias sociaux et Web", "italian"=>"Web e social media", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027581",
+  "name": {
+    "german": "Web und Social Media",
+    "french": "Médias sociaux et Web",
+    "italian": "Web e social media",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7051012",
+      "surname": "Gächter",
+      "givenName": "Otmar",
+      "email": null,
+      "phone": "+41 58 46 25528",
+      "function": {
+        "german": "Leiter Web- und Social Media",
+        "french": "Leiter Web- und Social Media",
+        "italian": "Leiter Web- und Social Media",
+        "english": "Leiter Web- und Social Media"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6192221",
+      "surname": "Lüthy",
+      "givenName": "Ivo",
+      "email": null,
+      "phone": "+41 58 46 92696",
+      "function": {
+        "german": "Stv. Leiter Web- und Social Media",
+        "french": "Stv. Leiter Web- und Social Media",
+        "italian": "Stv. Leiter Web- und Social Media",
+        "english": "Stv. Leiter Web- und Social Media"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9151108",
+      "surname": "Gross",
+      "givenName": "Miro",
+      "email": null,
+      "phone": "+41 58 46 65468",
+      "function": {
+        "german": "Social Media Manager",
+        "french": "Social Media Manager",
+        "italian": "Social Media Manager",
+        "english": "Social Media Manager"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027562",
+      "label": {
+        "german": "Kommunikation UVEK",
+        "french": "Communication DETEC",
+        "italian": "Comunicazione DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation UVEK",
+        "french": "Communication DETEC",
+        "italian": "Comunicazione DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027581",
+      "label": {
+        "german": "Web und Social Media",
+        "french": "Médias sociaux et Web",
+        "italian": "Web e social media",
+        "english": ""
+      },
+      "name": {
+        "german": "Web und Social Media",
+        "french": "Médias sociaux et Web",
+        "italian": "Web e social media",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

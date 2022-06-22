@@ -1,1 +1,247 @@
-{"id"=>"20021435", "name"=>{"german"=>"Sektion Museen und Sammlungen", "french"=>"Section Musées et collections", "italian"=>"Sezione Musei e collezioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 40", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584836449", "fax"=>"", "email"=>"msn@bak.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009643", "name"=>{"german"=>"Fachstelle Internationaler Kulturgütertransfer", "french"=>"Service spécialisé Transfert international des biens culturels", "italian"=>"Servizio specializzato Trasferimento internazionale dei beni culturali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10012526", "name"=>{"german"=>"Kunstsammlungen des Bundes", "french"=>"Collections d'art de la Confédération", "italian"=>"Collezioni d'arte della Confederazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20033526", "name"=>{"german"=>"Museum Kloster St. Georgen", "french"=>"Musée du couvent Saint-Georges", "italian"=>"Museo del convento di St. Georgen", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004334", "name"=>{"german"=>"Sammlung Oskar Reinhart Am Römerholz", "french"=>"Collection Oskar Reinhart Am Römerholz", "italian"=>"Collezione Oskar Reinhart Am Römerholz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004335", "name"=>{"german"=>"Museo Vela", "french"=>"Museo Vela", "italian"=>"Museo Vela", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004480", "name"=>{"german"=>"Museum für Musikautomaten", "french"=>"Musée des automates à musique", "italian"=>"Museo degli automi musicali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6186151", "surname"=>"Widmer", "givenName"=>"Benno", "email"=>nil, "phone"=>"+41 58 46 57021", "function"=>{"german"=>"Leiter/in Sektion", "french"=>"Chef/fe de section", "italian"=>"Caposezione", "english"=>"Leiter/in Sektion"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5904715", "surname"=>"Hänggi", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 96913", "function"=>{"german"=>"Stellvertretende/r Leiter/in Sektion / Leiter/in Museum für Musikautomaten", "french"=>"Chef/fe de section suppléant/e / Chef/fe du Musée des automates à musique", "italian"=>"Caposezione supplente / Responsabile del Museo degli automati musicali", "english"=>"Stv. Leiter/in Sektion / Leiter/in MMA"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004326", "label"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}}, {"id"=>"20021435", "label"=>{"german"=>"Sektion Museen und Sammlungen", "french"=>"Section Musées et collections", "italian"=>"Sezione Musei e collezioni", "english"=>""}, "name"=>{"german"=>"Sektion Museen und Sammlungen", "french"=>"Section Musées et collections", "italian"=>"Sezione Musei e collezioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021435",
+  "name": {
+    "german": "Sektion Museen und Sammlungen",
+    "french": "Section Musées et collections",
+    "italian": "Sezione Musei e collezioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 40",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584836449",
+    "fax": "",
+    "email": "msn@bak.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009643",
+      "name": {
+        "german": "Fachstelle Internationaler Kulturgütertransfer",
+        "french": "Service spécialisé Transfert international des biens culturels",
+        "italian": "Servizio specializzato Trasferimento internazionale dei beni culturali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012526",
+      "name": {
+        "german": "Kunstsammlungen des Bundes",
+        "french": "Collections d'art de la Confédération",
+        "italian": "Collezioni d'arte della Confederazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033526",
+      "name": {
+        "german": "Museum Kloster St. Georgen",
+        "french": "Musée du couvent Saint-Georges",
+        "italian": "Museo del convento di St. Georgen",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004334",
+      "name": {
+        "german": "Sammlung Oskar Reinhart Am Römerholz",
+        "french": "Collection Oskar Reinhart Am Römerholz",
+        "italian": "Collezione Oskar Reinhart Am Römerholz",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004335",
+      "name": {
+        "german": "Museo Vela",
+        "french": "Museo Vela",
+        "italian": "Museo Vela",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004480",
+      "name": {
+        "german": "Museum für Musikautomaten",
+        "french": "Musée des automates à musique",
+        "italian": "Museo degli automi musicali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6186151",
+      "surname": "Widmer",
+      "givenName": "Benno",
+      "email": null,
+      "phone": "+41 58 46 57021",
+      "function": {
+        "german": "Leiter/in Sektion",
+        "french": "Chef/fe de section",
+        "italian": "Caposezione",
+        "english": "Leiter/in Sektion"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5904715",
+      "surname": "Hänggi",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 96913",
+      "function": {
+        "german": "Stellvertretende/r Leiter/in Sektion / Leiter/in Museum für Musikautomaten",
+        "french": "Chef/fe de section suppléant/e / Chef/fe du Musée des automates à musique",
+        "italian": "Caposezione supplente / Responsabile del Museo degli automati musicali",
+        "english": "Stv. Leiter/in Sektion / Leiter/in MMA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004326",
+      "label": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021435",
+      "label": {
+        "german": "Sektion Museen und Sammlungen",
+        "french": "Section Musées et collections",
+        "italian": "Sezione Musei e collezioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Museen und Sammlungen",
+        "french": "Section Musées et collections",
+        "italian": "Sezione Musei e collezioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

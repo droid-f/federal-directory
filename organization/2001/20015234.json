@@ -1,1 +1,140 @@
-{"id"=>"20015234", "name"=>{"german"=>"Team 3 Swiss REPAT", "french"=>"Team 3 Swiss REPAT", "italian"=>"Team 3 Swiss REPAT", "english"=>"Team 3 Swiss REPAT"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Flughafen", "postalCode"=>"8058", "location"=>"Zürich", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20024651", "label"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}, "name"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}}, {"id"=>"20037722", "label"=>{"german"=>"Bundesreisezentrale", "french"=>"Centrale des voyages de la Confédération", "italian"=>"Centrale viaggi della Confederazione", "english"=>"Swiss Government Travel Centre"}, "name"=>{"german"=>"Bundesreisezentrale", "french"=>"Centrale des voyages de la Confédération", "italian"=>"Centrale viaggi della Confederazione", "english"=>"Swiss Government Travel Centre"}}, {"id"=>"20015234", "label"=>{"german"=>"Team 3 Swiss REPAT", "french"=>"Team 3 Swiss REPAT", "italian"=>"Team 3 Swiss REPAT", "english"=>"Team 3 Swiss REPAT"}, "name"=>{"german"=>"Team 3 Swiss REPAT", "french"=>"Team 3 Swiss REPAT", "italian"=>"Team 3 Swiss REPAT", "english"=>"Team 3 Swiss REPAT"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20015234",
+  "name": {
+    "german": "Team 3 Swiss REPAT",
+    "french": "Team 3 Swiss REPAT",
+    "italian": "Team 3 Swiss REPAT",
+    "english": "Team 3 Swiss REPAT"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Flughafen",
+    "postalCode": "8058",
+    "location": "Zürich",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20024651",
+      "label": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      },
+      "name": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      }
+    },
+    {
+      "id": "20037722",
+      "label": {
+        "german": "Bundesreisezentrale",
+        "french": "Centrale des voyages de la Confédération",
+        "italian": "Centrale viaggi della Confederazione",
+        "english": "Swiss Government Travel Centre"
+      },
+      "name": {
+        "german": "Bundesreisezentrale",
+        "french": "Centrale des voyages de la Confédération",
+        "italian": "Centrale viaggi della Confederazione",
+        "english": "Swiss Government Travel Centre"
+      }
+    },
+    {
+      "id": "20015234",
+      "label": {
+        "german": "Team 3 Swiss REPAT",
+        "french": "Team 3 Swiss REPAT",
+        "italian": "Team 3 Swiss REPAT",
+        "english": "Team 3 Swiss REPAT"
+      },
+      "name": {
+        "german": "Team 3 Swiss REPAT",
+        "french": "Team 3 Swiss REPAT",
+        "italian": "Team 3 Swiss REPAT",
+        "english": "Team 3 Swiss REPAT"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

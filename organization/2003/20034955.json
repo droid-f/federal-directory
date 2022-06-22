@@ -1,1 +1,171 @@
-{"id"=>"20034955", "name"=>{"german"=>"Aus- und Weiterbildung Energiebereich", "french"=>"Service Formation et perfectionnement dans le domaine de l'énergie", "italian"=>"Servizio Formazione e perfezionamento settore energetico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4546995", "surname"=>"Hässig Vinzens", "givenName"=>"Kornelia", "email"=>nil, "phone"=>"+41 58 46 47387", "function"=>{"german"=>"Leiter/in AW Energiebereich", "french"=>"Leiter/in AW Energiebereich", "italian"=>"Leiter/in AW Energiebereich", "english"=>"Leiter/in AW Energiebereich"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002566", "label"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}, "name"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}}, {"id"=>"20018213", "label"=>{"german"=>"Geschäftsstelle EnergieSchweiz", "french"=>"Service SuisseEnergie", "italian"=>"Servizio SvizzeraEnergia", "english"=>""}, "name"=>{"german"=>"Geschäftsstelle EnergieSchweiz", "french"=>"Service SuisseEnergie", "italian"=>"Servizio SvizzeraEnergia", "english"=>""}}, {"id"=>"20034955", "label"=>{"german"=>"Aus- und Weiterbildung Energiebereich", "french"=>"Service Formation et perfectionnement dans le domaine de l'énergie", "italian"=>"Servizio Formazione e perfezionamento settore energetico", "english"=>""}, "name"=>{"german"=>"Aus- und Weiterbildung Energiebereich", "french"=>"Service Formation et perfectionnement dans le domaine de l'énergie", "italian"=>"Servizio Formazione e perfezionamento settore energetico", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034955",
+  "name": {
+    "german": "Aus- und Weiterbildung Energiebereich",
+    "french": "Service Formation et perfectionnement dans le domaine de l'énergie",
+    "italian": "Servizio Formazione e perfezionamento settore energetico",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4546995",
+      "surname": "Hässig Vinzens",
+      "givenName": "Kornelia",
+      "email": null,
+      "phone": "+41 58 46 47387",
+      "function": {
+        "german": "Leiter/in AW Energiebereich",
+        "french": "Leiter/in AW Energiebereich",
+        "italian": "Leiter/in AW Energiebereich",
+        "english": "Leiter/in AW Energiebereich"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002566",
+      "label": {
+        "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+        "french": "Division Efficacité énergétique et énergies renouvelables",
+        "italian": "Divisione Efficienza energetica e energie rinnovabili",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+        "french": "Division Efficacité énergétique et énergies renouvelables",
+        "italian": "Divisione Efficienza energetica e energie rinnovabili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018213",
+      "label": {
+        "german": "Geschäftsstelle EnergieSchweiz",
+        "french": "Service SuisseEnergie",
+        "italian": "Servizio SvizzeraEnergia",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsstelle EnergieSchweiz",
+        "french": "Service SuisseEnergie",
+        "italian": "Servizio SvizzeraEnergia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034955",
+      "label": {
+        "german": "Aus- und Weiterbildung Energiebereich",
+        "french": "Service Formation et perfectionnement dans le domaine de l'énergie",
+        "italian": "Servizio Formazione e perfezionamento settore energetico",
+        "english": ""
+      },
+      "name": {
+        "german": "Aus- und Weiterbildung Energiebereich",
+        "french": "Service Formation et perfectionnement dans le domaine de l'énergie",
+        "italian": "Servizio Formazione e perfezionamento settore energetico",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

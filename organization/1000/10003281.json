@@ -1,1 +1,171 @@
-{"id"=>"10003281", "name"=>{"german"=>"Zahlungsmanagement", "french"=>"Gestion des paiements", "italian"=>"Gestione dei pagamenti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 118", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0683721", "surname"=>"Pfäffli", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 26234", "function"=>{"german"=>"Leiter Zahlungsmanagement", "french"=>"Chef Gestion des paiements", "italian"=>"Capo Gestione dei pagamenti", "english"=>"Leiter Zahlungsmanagement"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003272", "label"=>{"german"=>"Finanz- und Rechnungswesen Bund", "french"=>"Finances et comptabilité de la", "italian"=>"Finanze e contabilità della Co", "english"=>""}, "name"=>{"german"=>"Finanz- und Rechnungswesen Bund", "french"=>"Finances et comptabilité de la", "italian"=>"Finanze e contabilità della Co", "english"=>""}}, {"id"=>"10003278", "label"=>{"german"=>"Zentrales Rechnungswesen", "french"=>"Comptbilité centrale", "italian"=>"Contabilità centrale", "english"=>""}, "name"=>{"german"=>"Zentrales Rechnungswesen", "french"=>"Comptbilité centrale", "italian"=>"Contabilità centrale", "english"=>""}}, {"id"=>"10003281", "label"=>{"german"=>"Zahlungsmanagement", "french"=>"Gestion des paiements", "italian"=>"Gestione dei pagamenti", "english"=>""}, "name"=>{"german"=>"Zahlungsmanagement", "french"=>"Gestion des paiements", "italian"=>"Gestione dei pagamenti", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003281",
+  "name": {
+    "german": "Zahlungsmanagement",
+    "french": "Gestion des paiements",
+    "italian": "Gestione dei pagamenti",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 118",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0683721",
+      "surname": "Pfäffli",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 26234",
+      "function": {
+        "german": "Leiter Zahlungsmanagement",
+        "french": "Chef Gestion des paiements",
+        "italian": "Capo Gestione dei pagamenti",
+        "english": "Leiter Zahlungsmanagement"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003272",
+      "label": {
+        "german": "Finanz- und Rechnungswesen Bund",
+        "french": "Finances et comptabilité de la",
+        "italian": "Finanze e contabilità della Co",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanz- und Rechnungswesen Bund",
+        "french": "Finances et comptabilité de la",
+        "italian": "Finanze e contabilità della Co",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003278",
+      "label": {
+        "german": "Zentrales Rechnungswesen",
+        "french": "Comptbilité centrale",
+        "italian": "Contabilità centrale",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrales Rechnungswesen",
+        "french": "Comptbilité centrale",
+        "italian": "Contabilità centrale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003281",
+      "label": {
+        "german": "Zahlungsmanagement",
+        "french": "Gestion des paiements",
+        "italian": "Gestione dei pagamenti",
+        "english": ""
+      },
+      "name": {
+        "german": "Zahlungsmanagement",
+        "french": "Gestion des paiements",
+        "italian": "Gestione dei pagamenti",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

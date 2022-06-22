@@ -1,1 +1,200 @@
-{"id"=>"20032802", "name"=>{"german"=>"Waffenplatzmodul Kloten/Bülach", "french"=>"Module place d'armes Kloten/Bülach", "italian"=>"Modulo di piazza d'armi Kloten/Bülach", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kdo Wpl Kloten-Bülach, Kaserne", "postalCode"=>"8302", "location"=>"Kloten", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20018023", "name"=>{"german"=>"Verpflegungszentrum Kloten/Bülach", "french"=>"Centre de subsistance Kloten/Bülach", "italian"=>"Centro di sussistenza Kloten/Bülach", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5183685", "surname"=>"Seiler", "givenName"=>"René", "email"=>nil, "phone"=>"+41 58 46 79320", "function"=>{"german"=>"Chef/in Waffenplatzmodul Kloten/Bülach", "french"=>"Chef Module place d'armes Kloten/Bülach", "italian"=>"Capo modulo pz armi Kloten/Bülach", "english"=>"Chef/in Waffenplatzmodul Kloten/Bülach"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20004496", "label"=>{"german"=>"LVBFU", "french"=>"LVBFU", "italian"=>"LVBFU", "english"=>""}, "name"=>{"german"=>"Lehrverband Führungsunterstützung", "french"=>"Formation d'application aide cdmt", "italian"=>"FOA dell'aiuto alla condotta", "english"=>""}}, {"id"=>"20046256", "label"=>{"german"=>"Kdo Waffenplatz Kloten/Bülach", "french"=>"Cdmt place d'armes Kloten/Bülach", "italian"=>"Cdo piazza d'armi Kloten/Bülach", "english"=>""}, "name"=>{"german"=>"Kdo Waffenplatz Kloten/Bülach", "french"=>"Cdmt place d'armes Kloten/Bülach", "italian"=>"Cdo piazza d'armi Kloten/Bülach", "english"=>""}}, {"id"=>"20032802", "label"=>{"german"=>"Waffenplatzmodul Kloten/Bülach", "french"=>"Module place d'armes Kloten/Bülach", "italian"=>"Modulo di piazza d'armi Kloten/Bülach", "english"=>""}, "name"=>{"german"=>"Waffenplatzmodul Kloten/Bülach", "french"=>"Module place d'armes Kloten/Bülach", "italian"=>"Modulo di piazza d'armi Kloten/Bülach", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20032802",
+  "name": {
+    "german": "Waffenplatzmodul Kloten/Bülach",
+    "french": "Module place d'armes Kloten/Bülach",
+    "italian": "Modulo di piazza d'armi Kloten/Bülach",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kdo Wpl Kloten-Bülach, Kaserne",
+    "postalCode": "8302",
+    "location": "Kloten",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20018023",
+      "name": {
+        "german": "Verpflegungszentrum Kloten/Bülach",
+        "french": "Centre de subsistance Kloten/Bülach",
+        "italian": "Centro di sussistenza Kloten/Bülach",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5183685",
+      "surname": "Seiler",
+      "givenName": "René",
+      "email": null,
+      "phone": "+41 58 46 79320",
+      "function": {
+        "german": "Chef/in Waffenplatzmodul Kloten/Bülach",
+        "french": "Chef Module place d'armes Kloten/Bülach",
+        "italian": "Capo modulo pz armi Kloten/Bülach",
+        "english": "Chef/in Waffenplatzmodul Kloten/Bülach"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004496",
+      "label": {
+        "german": "LVBFU",
+        "french": "LVBFU",
+        "italian": "LVBFU",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Führungsunterstützung",
+        "french": "Formation d'application aide cdmt",
+        "italian": "FOA dell'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046256",
+      "label": {
+        "german": "Kdo Waffenplatz Kloten/Bülach",
+        "french": "Cdmt place d'armes Kloten/Bülach",
+        "italian": "Cdo piazza d'armi Kloten/Bülach",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Waffenplatz Kloten/Bülach",
+        "french": "Cdmt place d'armes Kloten/Bülach",
+        "italian": "Cdo piazza d'armi Kloten/Bülach",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032802",
+      "label": {
+        "german": "Waffenplatzmodul Kloten/Bülach",
+        "french": "Module place d'armes Kloten/Bülach",
+        "italian": "Modulo di piazza d'armi Kloten/Bülach",
+        "english": ""
+      },
+      "name": {
+        "german": "Waffenplatzmodul Kloten/Bülach",
+        "french": "Module place d'armes Kloten/Bülach",
+        "italian": "Modulo di piazza d'armi Kloten/Bülach",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

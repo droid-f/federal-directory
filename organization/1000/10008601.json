@@ -1,1 +1,152 @@
-{"id"=>"10008601", "name"=>{"german"=>"Oeffentlichkeitsarbeit", "french"=>"Relations publiques", "italian"=>"Relazioni pubbliche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarztorstrasse 51", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-0431040", "surname"=>"Jaun", "givenName"=>"Eduard", "email"=>nil, "phone"=>"+41 58 46 58470", "function"=>{"german"=>"Projektleiter/Stv.Kommunikationsverantw.", "french"=>"Responsable de projet", "italian"=>"Responsabile di progetto", "english"=>"Projektleiter/Stv.Kommunikationsverantw."}, "isVisibleInEstKa"=>true}, {"id"=>"p-0385379", "surname"=>"Jordi", "givenName"=>"Hanna", "email"=>nil, "phone"=>"+41 58 48 49818", "function"=>{"german"=>"Kommunikationsverantwortliche/r", "french"=>"Responsable de la communication", "italian"=>"Responsabile della communicazion", "english"=>"Kommunikationsverantwortliche/r"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10002215", "label"=>{"german"=>"EBG", "french"=>"BFEG", "italian"=>"UFU", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Büro für die Gleichstellung von Frau und Mann", "french"=>"Bureau fédéral de l'égalité entre femmes et hommes", "italian"=>"Ufficio federale per l'uguaglianza fra donna e uomo", "english"=>""}}, {"id"=>"10008741", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10008601", "label"=>{"german"=>"Oeffentlichkeitsarbeit", "french"=>"Relations publiques", "italian"=>"Relazioni pubbliche", "english"=>""}, "name"=>{"german"=>"Oeffentlichkeitsarbeit", "french"=>"Relations publiques", "italian"=>"Relazioni pubbliche", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10008601",
+  "name": {
+    "german": "Oeffentlichkeitsarbeit",
+    "french": "Relations publiques",
+    "italian": "Relazioni pubbliche",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarztorstrasse 51",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-0431040",
+      "surname": "Jaun",
+      "givenName": "Eduard",
+      "email": null,
+      "phone": "+41 58 46 58470",
+      "function": {
+        "german": "Projektleiter/Stv.Kommunikationsverantw.",
+        "french": "Responsable de projet",
+        "italian": "Responsabile di progetto",
+        "english": "Projektleiter/Stv.Kommunikationsverantw."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0385379",
+      "surname": "Jordi",
+      "givenName": "Hanna",
+      "email": null,
+      "phone": "+41 58 48 49818",
+      "function": {
+        "german": "Kommunikationsverantwortliche/r",
+        "french": "Responsable de la communication",
+        "italian": "Responsabile della communicazion",
+        "english": "Kommunikationsverantwortliche/r"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002215",
+      "label": {
+        "german": "EBG",
+        "french": "BFEG",
+        "italian": "UFU",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Büro für die Gleichstellung von Frau und Mann",
+        "french": "Bureau fédéral de l'égalité entre femmes et hommes",
+        "italian": "Ufficio federale per l'uguaglianza fra donna e uomo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008741",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008601",
+      "label": {
+        "german": "Oeffentlichkeitsarbeit",
+        "french": "Relations publiques",
+        "italian": "Relazioni pubbliche",
+        "english": ""
+      },
+      "name": {
+        "german": "Oeffentlichkeitsarbeit",
+        "french": "Relations publiques",
+        "italian": "Relazioni pubbliche",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

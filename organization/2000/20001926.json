@@ -1,1 +1,200 @@
-{"id"=>"20001926", "name"=>{"german"=>"Sektion Direktionsgeschäfte", "french"=>"Section Affaires de la direction", "italian"=>"Sezione affari della direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20001927", "name"=>{"german"=>"Sektion Sprachdienste", "french"=>"Section Services linguistiques", "italian"=>"Sezione Servizi linguistici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3480291", "surname"=>"Allemann", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 46 49397", "function"=>{"german"=>"Ltg. Direktionsgeschäfte und Stv. DS", "french"=>"Ltg. Direktionsgeschäfte und Stv. DS", "italian"=>"Ltg. Direktionsgeschäfte und Stv. DS", "english"=>"Ltg. Direktionsgeschäfte und Stv. DS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9956251", "surname"=>"Helfenstein", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 46 28792", "function"=>{"german"=>"Stv. Direktionsgeschäfte", "french"=>"Stv. Direktionsgeschäfte", "italian"=>"Stv. Direktionsgeschäfte", "english"=>"Stv. Direktionsgeschäfte"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6306821", "surname"=>"Zaugg", "givenName"=>"Franziska", "email"=>nil, "phone"=>"+41 58 46 91893", "function"=>{"german"=>"Direktionsassistent/in", "french"=>"Direktionsassistent/in", "italian"=>"Direktionsassistent/in", "english"=>"Direktionsassistent/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004551", "label"=>{"german"=>"Abteilung Direktionsstab", "french"=>"Division Etat-major de la direction", "italian"=>"Divisione stato maggiore di direzione", "english"=>""}, "name"=>{"german"=>"Abteilung Direktionsstab", "french"=>"Division Etat-major de la direction", "italian"=>"Divisione stato maggiore di direzione", "english"=>""}}, {"id"=>"20001926", "label"=>{"german"=>"Sektion Direktionsgeschäfte", "french"=>"Section Affaires de la direction", "italian"=>"Sezione affari della direzione", "english"=>""}, "name"=>{"german"=>"Sektion Direktionsgeschäfte", "french"=>"Section Affaires de la direction", "italian"=>"Sezione affari della direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20001926",
+  "name": {
+    "german": "Sektion Direktionsgeschäfte",
+    "french": "Section Affaires de la direction",
+    "italian": "Sezione affari della direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20001927",
+      "name": {
+        "german": "Sektion Sprachdienste",
+        "french": "Section Services linguistiques",
+        "italian": "Sezione Servizi linguistici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3480291",
+      "surname": "Allemann",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 46 49397",
+      "function": {
+        "german": "Ltg. Direktionsgeschäfte und Stv. DS",
+        "french": "Ltg. Direktionsgeschäfte und Stv. DS",
+        "italian": "Ltg. Direktionsgeschäfte und Stv. DS",
+        "english": "Ltg. Direktionsgeschäfte und Stv. DS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9956251",
+      "surname": "Helfenstein",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 46 28792",
+      "function": {
+        "german": "Stv. Direktionsgeschäfte",
+        "french": "Stv. Direktionsgeschäfte",
+        "italian": "Stv. Direktionsgeschäfte",
+        "english": "Stv. Direktionsgeschäfte"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6306821",
+      "surname": "Zaugg",
+      "givenName": "Franziska",
+      "email": null,
+      "phone": "+41 58 46 91893",
+      "function": {
+        "german": "Direktionsassistent/in",
+        "french": "Direktionsassistent/in",
+        "italian": "Direktionsassistent/in",
+        "english": "Direktionsassistent/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004551",
+      "label": {
+        "german": "Abteilung Direktionsstab",
+        "french": "Division Etat-major de la direction",
+        "italian": "Divisione stato maggiore di direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Direktionsstab",
+        "french": "Division Etat-major de la direction",
+        "italian": "Divisione stato maggiore di direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20001926",
+      "label": {
+        "german": "Sektion Direktionsgeschäfte",
+        "french": "Section Affaires de la direction",
+        "italian": "Sezione affari della direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Direktionsgeschäfte",
+        "french": "Section Affaires de la direction",
+        "italian": "Sezione affari della direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,275 @@
-{"id"=>"10004157", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035162", "name"=>{"german"=>"Lebensmittel und Ernährung", "french"=>"Denrées alimentaires et nutrition", "italian"=>"Derrate alimentari e nutrizione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035163", "name"=>{"german"=>"Tiergesundheit", "french"=>"Santé animale", "italian"=>"Salute degli animali", "english"=>"Tiergesundheit"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035164", "name"=>{"german"=>"Tierschutz", "french"=>"Protection des animaux", "italian"=>"Protezione degli animali", "english"=>"Tierschutz"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035166", "name"=>{"german"=>"Recht, Politik, Ressourcen", "french"=>"Droit, politique, ressources", "italian"=>"Diritto, politica, risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035165", "name"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>"Internationales"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035161", "name"=>{"german"=>"Risikobewertung", "french"=>"Evaluation des risques", "italian"=>"Valutazione dei rischi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035159", "name"=>{"german"=>"Informatik und Logistik", "french"=>"Informatique et logistique", "italian"=>"Informatica e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035160", "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014914", "name"=>{"german"=>"Bundeseinheit für die Lebensmittelkette", "french"=>"Unité fédérale pour la filière alimentaire", "italian"=>"Unità federale per la filiera alimentare", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049676", "name"=>{"german"=>"Zulassungsstelle Pflanzenschutzmittel", "french"=>"Service d’homologation des produits phytosanitaires", "italian"=>"Servizio di omologazione per i prodotti fitosanitari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9327397", "surname"=>"Wyss", "givenName"=>"Hans", "email"=>nil, "phone"=>"+41 58 46 38501", "function"=>{"german"=>"Direktor", "french"=>"Direktor/in BLV", "italian"=>"Direktor/in BLV", "english"=>"Direktor/in BLV"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004157",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035162",
+      "name": {
+        "german": "Lebensmittel und Ernährung",
+        "french": "Denrées alimentaires et nutrition",
+        "italian": "Derrate alimentari e nutrizione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035163",
+      "name": {
+        "german": "Tiergesundheit",
+        "french": "Santé animale",
+        "italian": "Salute degli animali",
+        "english": "Tiergesundheit"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035164",
+      "name": {
+        "german": "Tierschutz",
+        "french": "Protection des animaux",
+        "italian": "Protezione degli animali",
+        "english": "Tierschutz"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035166",
+      "name": {
+        "german": "Recht, Politik, Ressourcen",
+        "french": "Droit, politique, ressources",
+        "italian": "Diritto, politica, risorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035165",
+      "name": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": "Internationales"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035161",
+      "name": {
+        "german": "Risikobewertung",
+        "french": "Evaluation des risques",
+        "italian": "Valutazione dei rischi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035159",
+      "name": {
+        "german": "Informatik und Logistik",
+        "french": "Informatique et logistique",
+        "italian": "Informatica e logistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035160",
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014914",
+      "name": {
+        "german": "Bundeseinheit für die Lebensmittelkette",
+        "french": "Unité fédérale pour la filière alimentaire",
+        "italian": "Unità federale per la filiera alimentare",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049676",
+      "name": {
+        "german": "Zulassungsstelle Pflanzenschutzmittel",
+        "french": "Service d’homologation des produits phytosanitaires",
+        "italian": "Servizio di omologazione per i prodotti fitosanitari",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9327397",
+      "surname": "Wyss",
+      "givenName": "Hans",
+      "email": null,
+      "phone": "+41 58 46 38501",
+      "function": {
+        "german": "Direktor",
+        "french": "Direktor/in BLV",
+        "italian": "Direktor/in BLV",
+        "english": "Direktor/in BLV"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,128 @@
-{"id"=>"20037352", "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1106937", "surname"=>"Theler Strupler", "givenName"=>"Cornelia", "email"=>nil, "phone"=>"+41 58 32 29868", "function"=>{"german"=>"Leiterin Rechtsdienst", "french"=>"Leiterin Rechtsdienst", "italian"=>"Leiterin Rechtsdienst", "english"=>"Leiterin Rechtsdienst"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0305442", "surname"=>"Noser", "givenName"=>"Elisabeth", "email"=>nil, "phone"=>"+41 58 32 29473", "function"=>{"german"=>"Stv. Leiterin Rechtsdienst", "french"=>"Stv. Leiterin Rechtsdienst", "italian"=>"Stv. Leiterin Rechtsdienst", "english"=>"Stv. Leiterin Rechtsdienst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037303", "label"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}, "name"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}}, {"id"=>"20037352", "label"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037352",
+  "name": {
+    "german": "Rechtsdienst",
+    "french": "Service juridique",
+    "italian": "Servizio giuridico",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1106937",
+      "surname": "Theler Strupler",
+      "givenName": "Cornelia",
+      "email": null,
+      "phone": "+41 58 32 29868",
+      "function": {
+        "german": "Leiterin Rechtsdienst",
+        "french": "Leiterin Rechtsdienst",
+        "italian": "Leiterin Rechtsdienst",
+        "english": "Leiterin Rechtsdienst"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0305442",
+      "surname": "Noser",
+      "givenName": "Elisabeth",
+      "email": null,
+      "phone": "+41 58 32 29473",
+      "function": {
+        "german": "Stv. Leiterin Rechtsdienst",
+        "french": "Stv. Leiterin Rechtsdienst",
+        "italian": "Stv. Leiterin Rechtsdienst",
+        "english": "Stv. Leiterin Rechtsdienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037303",
+      "label": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037352",
+      "label": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      },
+      "name": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

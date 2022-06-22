@@ -1,1 +1,158 @@
-{"id"=>"20020911", "name"=>{"german"=>"Abteilung Globalprogramm Ernährungssicherheit", "french"=>"Division Programme global Sécurité alimentaire", "italian"=>"Divisione Programma globale Sicurezza alimentare", "english"=>"Division Global Programme Food Security"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5304150", "surname"=>"Crettaz Corredor", "givenName"=>"Marie Laure", "email"=>nil, "phone"=>"+41 58 48 52807", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>true, "id"=>"p-9393186", "surname"=>"Thönnissen Michel", "givenName"=>"Carmen", "email"=>nil, "phone"=>"+41 58 46 20305", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}, {"id"=>"10000712", "label"=>{"german"=>"Direktionsbereich Globale Zusammenarbeit", "french"=>"Domaine de direction Coopération globale", "italian"=>"Settore di direzione Cooperazione globale", "english"=>"Corporate Domain Global Cooperation"}, "name"=>{"german"=>"Direktionsbereich Globale Zusammenarbeit", "french"=>"Domaine de direction Coopération globale", "italian"=>"Settore di direzione Cooperazione globale", "english"=>"Corporate Domain Global Cooperation"}}, {"id"=>"20020911", "label"=>{"german"=>"Abteilung Globalprogramm Ernährungssicherheit", "french"=>"Division Programme global Sécurité alimentaire", "italian"=>"Divisione Programma globale Sicurezza alimentare", "english"=>"Division Global Programme Food Security"}, "name"=>{"german"=>"Abteilung Globalprogramm Ernährungssicherheit", "french"=>"Division Programme global Sécurité alimentaire", "italian"=>"Divisione Programma globale Sicurezza alimentare", "english"=>"Division Global Programme Food Security"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20020911",
+  "name": {
+    "german": "Abteilung Globalprogramm Ernährungssicherheit",
+    "french": "Division Programme global Sécurité alimentaire",
+    "italian": "Divisione Programma globale Sicurezza alimentare",
+    "english": "Division Global Programme Food Security"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5304150",
+      "surname": "Crettaz Corredor",
+      "givenName": "Marie Laure",
+      "email": null,
+      "phone": "+41 58 48 52807",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": true,
+      "id": "p-9393186",
+      "surname": "Thönnissen Michel",
+      "givenName": "Carmen",
+      "email": null,
+      "phone": "+41 58 46 20305",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    },
+    {
+      "id": "10000712",
+      "label": {
+        "german": "Direktionsbereich Globale Zusammenarbeit",
+        "french": "Domaine de direction Coopération globale",
+        "italian": "Settore di direzione Cooperazione globale",
+        "english": "Corporate Domain Global Cooperation"
+      },
+      "name": {
+        "german": "Direktionsbereich Globale Zusammenarbeit",
+        "french": "Domaine de direction Coopération globale",
+        "italian": "Settore di direzione Cooperazione globale",
+        "english": "Corporate Domain Global Cooperation"
+      }
+    },
+    {
+      "id": "20020911",
+      "label": {
+        "german": "Abteilung Globalprogramm Ernährungssicherheit",
+        "french": "Division Programme global Sécurité alimentaire",
+        "italian": "Divisione Programma globale Sicurezza alimentare",
+        "english": "Division Global Programme Food Security"
+      },
+      "name": {
+        "german": "Abteilung Globalprogramm Ernährungssicherheit",
+        "french": "Division Programme global Sécurité alimentaire",
+        "italian": "Divisione Programma globale Sicurezza alimentare",
+        "english": "Division Global Programme Food Security"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

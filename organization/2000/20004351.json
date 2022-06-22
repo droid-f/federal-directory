@@ -1,1 +1,184 @@
-{"id"=>"20004351", "name"=>{"german"=>"Kompanie 2 EKF UOS/RS 64", "french"=>"Compagnie 2 ER/ESO GE 64", "italian"=>"Compagnia 2 SSU/SR GE 64", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo EKF UOS/RS 64", "street"=>"Kaserne Jassbach", "postalCode"=>"3609", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20018036", "name"=>{"german"=>"Fachbereich Klasse 2 EKF UOS/RS 64", "french"=>"Dom spé classe 2 ER/ESO GE 64", "italian"=>"Sett spec classe 2 SSU/SR GE 64", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20004496", "label"=>{"german"=>"LVBFU", "french"=>"LVBFU", "italian"=>"LVBFU", "english"=>""}, "name"=>{"german"=>"Lehrverband Führungsunterstützung", "french"=>"Formation d'application aide cdmt", "italian"=>"FOA dell'aiuto alla condotta", "english"=>""}}, {"id"=>"20004055", "label"=>{"german"=>"Elektronische Operationen UOS/RS 64", "french"=>"ER/ESO opérations électroniques 64", "italian"=>"SSU/SR operazioni elettroniche 64", "english"=>""}, "name"=>{"german"=>"Elektronische Operationen UOS/RS 64", "french"=>"ER/ESO opérations électroniques 64", "italian"=>"SSU/SR operazioni elettroniche 64", "english"=>""}}, {"id"=>"20004351", "label"=>{"german"=>"Kompanie 2 EKF UOS/RS 64", "french"=>"Compagnie 2 ER/ESO GE 64", "italian"=>"Compagnia 2 SSU/SR GE 64", "english"=>""}, "name"=>{"german"=>"Kompanie 2 EKF UOS/RS 64", "french"=>"Compagnie 2 ER/ESO GE 64", "italian"=>"Compagnia 2 SSU/SR GE 64", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20004351",
+  "name": {
+    "german": "Kompanie 2 EKF UOS/RS 64",
+    "french": "Compagnie 2 ER/ESO GE 64",
+    "italian": "Compagnia 2 SSU/SR GE 64",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo EKF UOS/RS 64",
+    "street": "Kaserne Jassbach",
+    "postalCode": "3609",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20018036",
+      "name": {
+        "german": "Fachbereich Klasse 2 EKF UOS/RS 64",
+        "french": "Dom spé classe 2 ER/ESO GE 64",
+        "italian": "Sett spec classe 2 SSU/SR GE 64",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004496",
+      "label": {
+        "german": "LVBFU",
+        "french": "LVBFU",
+        "italian": "LVBFU",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Führungsunterstützung",
+        "french": "Formation d'application aide cdmt",
+        "italian": "FOA dell'aiuto alla condotta",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004055",
+      "label": {
+        "german": "Elektronische Operationen UOS/RS 64",
+        "french": "ER/ESO opérations électroniques 64",
+        "italian": "SSU/SR operazioni elettroniche 64",
+        "english": ""
+      },
+      "name": {
+        "german": "Elektronische Operationen UOS/RS 64",
+        "french": "ER/ESO opérations électroniques 64",
+        "italian": "SSU/SR operazioni elettroniche 64",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004351",
+      "label": {
+        "german": "Kompanie 2 EKF UOS/RS 64",
+        "french": "Compagnie 2 ER/ESO GE 64",
+        "italian": "Compagnia 2 SSU/SR GE 64",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompanie 2 EKF UOS/RS 64",
+        "french": "Compagnie 2 ER/ESO GE 64",
+        "italian": "Compagnia 2 SSU/SR GE 64",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

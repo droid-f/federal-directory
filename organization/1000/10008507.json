@@ -1,1 +1,140 @@
-{"id"=>"10008507", "name"=>{"german"=>"Helpdesk", "french"=>"Helpdesk", "italian"=>"Helpdesk", "english"=>"Helpdesk"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 463 14 30", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20003167", "label"=>{"german"=>"Informatik EDA", "french"=>"Informatique DFAE", "italian"=>"Informatica DFAE", "english"=>"FDFA IT"}, "name"=>{"german"=>"Informatik EDA", "french"=>"Informatique DFAE", "italian"=>"Informatica DFAE", "english"=>"FDFA IT"}}, {"id"=>"10000965", "label"=>{"german"=>"IT-Support", "french"=>"Support IT", "italian"=>"Supporto IT", "english"=>"IT Support"}, "name"=>{"german"=>"IT-Support", "french"=>"Support IT", "italian"=>"Supporto IT", "english"=>"IT Support"}}, {"id"=>"10008507", "label"=>{"german"=>"Helpdesk", "french"=>"Helpdesk", "italian"=>"Helpdesk", "english"=>"Helpdesk"}, "name"=>{"german"=>"Helpdesk", "french"=>"Helpdesk", "italian"=>"Helpdesk", "english"=>"Helpdesk"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10008507",
+  "name": {
+    "german": "Helpdesk",
+    "french": "Helpdesk",
+    "italian": "Helpdesk",
+    "english": "Helpdesk"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 463 14 30",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20003167",
+      "label": {
+        "german": "Informatik EDA",
+        "french": "Informatique DFAE",
+        "italian": "Informatica DFAE",
+        "english": "FDFA IT"
+      },
+      "name": {
+        "german": "Informatik EDA",
+        "french": "Informatique DFAE",
+        "italian": "Informatica DFAE",
+        "english": "FDFA IT"
+      }
+    },
+    {
+      "id": "10000965",
+      "label": {
+        "german": "IT-Support",
+        "french": "Support IT",
+        "italian": "Supporto IT",
+        "english": "IT Support"
+      },
+      "name": {
+        "german": "IT-Support",
+        "french": "Support IT",
+        "italian": "Supporto IT",
+        "english": "IT Support"
+      }
+    },
+    {
+      "id": "10008507",
+      "label": {
+        "german": "Helpdesk",
+        "french": "Helpdesk",
+        "italian": "Helpdesk",
+        "english": "Helpdesk"
+      },
+      "name": {
+        "german": "Helpdesk",
+        "french": "Helpdesk",
+        "italian": "Helpdesk",
+        "english": "Helpdesk"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

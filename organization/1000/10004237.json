@@ -1,1 +1,230 @@
-{"id"=>"10004237", "name"=>{"german"=>"Welthandel", "french"=>"Commerce mondial", "italian"=>"Commercio mondiale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10004242", "name"=>{"german"=>"WTO", "french"=>"OMC", "italian"=>"OMC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10010363", "name"=>{"german"=>"Freihandelsabkommen / EFTA", "french"=>"Accords de libre-échange / AELE", "italian"=>"Accordi di libero scambio / AELS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014761", "name"=>{"german"=>"OECD und G20", "french"=>"OCDE et G20", "italian"=>"OCSE e G20", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7423315", "surname"=>"Schlagenhof", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 22210", "function"=>{"german"=>"Leistungsbereichsleiter/in WH", "french"=>"Leistungsbereichsleiter/in WH", "italian"=>"Leistungsbereichsleiter/in WH", "english"=>"Leistungsbereichsleiter/in WH"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7341211", "surname"=>"Gerspacher", "givenName"=>"Rolf", "email"=>nil, "phone"=>"+41 58 46 22931", "function"=>{"german"=>"Ressortleiter/in / Stv. LBL WHWT", "french"=>"Ressortleiter/in / Stv. LBL WHWT", "italian"=>"Ressortleiter/in / Stv. LBL WHWT", "english"=>"Ressortleiter/in / Stv. LBL WHWT"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8967156", "surname"=>"Würsch", "givenName"=>"Monika", "email"=>nil, "phone"=>"+41 58 46 96010", "function"=>{"german"=>"Assistent/in Bereichsleiter/in WH", "french"=>"Assistent/in Bereichsleiter/in WH", "italian"=>"Assistent/in Bereichsleiter/in WH", "english"=>"Assistent/in Bereichsleiter/in WH"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"20004879", "label"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}, "name"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}}, {"id"=>"10004237", "label"=>{"german"=>"Welthandel", "french"=>"Commerce mondial", "italian"=>"Commercio mondiale", "english"=>""}, "name"=>{"german"=>"Welthandel", "french"=>"Commerce mondial", "italian"=>"Commercio mondiale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004237",
+  "name": {
+    "german": "Welthandel",
+    "french": "Commerce mondial",
+    "italian": "Commercio mondiale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10004242",
+      "name": {
+        "german": "WTO",
+        "french": "OMC",
+        "italian": "OMC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010363",
+      "name": {
+        "german": "Freihandelsabkommen / EFTA",
+        "french": "Accords de libre-échange / AELE",
+        "italian": "Accordi di libero scambio / AELS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014761",
+      "name": {
+        "german": "OECD und G20",
+        "french": "OCDE et G20",
+        "italian": "OCSE e G20",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7423315",
+      "surname": "Schlagenhof",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 22210",
+      "function": {
+        "german": "Leistungsbereichsleiter/in WH",
+        "french": "Leistungsbereichsleiter/in WH",
+        "italian": "Leistungsbereichsleiter/in WH",
+        "english": "Leistungsbereichsleiter/in WH"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7341211",
+      "surname": "Gerspacher",
+      "givenName": "Rolf",
+      "email": null,
+      "phone": "+41 58 46 22931",
+      "function": {
+        "german": "Ressortleiter/in / Stv. LBL WHWT",
+        "french": "Ressortleiter/in / Stv. LBL WHWT",
+        "italian": "Ressortleiter/in / Stv. LBL WHWT",
+        "english": "Ressortleiter/in / Stv. LBL WHWT"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8967156",
+      "surname": "Würsch",
+      "givenName": "Monika",
+      "email": null,
+      "phone": "+41 58 46 96010",
+      "function": {
+        "german": "Assistent/in Bereichsleiter/in WH",
+        "french": "Assistent/in Bereichsleiter/in WH",
+        "italian": "Assistent/in Bereichsleiter/in WH",
+        "english": "Assistent/in Bereichsleiter/in WH"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004879",
+      "label": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004237",
+      "label": {
+        "german": "Welthandel",
+        "french": "Commerce mondial",
+        "italian": "Commercio mondiale",
+        "english": ""
+      },
+      "name": {
+        "german": "Welthandel",
+        "french": "Commerce mondial",
+        "italian": "Commercio mondiale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

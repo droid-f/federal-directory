@@ -1,1 +1,171 @@
-{"id"=>"20048311", "name"=>{"german"=>"Recht", "french"=>"Recht", "italian"=>"Recht", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Maulbeerstrasse 9", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5156812", "surname"=>"Molnar", "givenName"=>"Elvira", "email"=>nil, "phone"=>"+41 58 48 46461", "function"=>{"german"=>"Stv C Schadenzentrum/Leiter Recht SZ VBS", "french"=>"Stv C Schadenzentrum/Leiter Recht SZ VBS", "italian"=>"Stv C Schadenzentrum/Leiter Recht SZ VBS", "english"=>"Stv C Schadenzentrum/Leiter Recht SZ VBS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003762", "label"=>{"german"=>"Raum und Umwelt VBS", "french"=>"Territoire et environnement DDPS", "italian"=>"Territorio e ambiente DDPS", "english"=>""}, "name"=>{"german"=>"Raum und Umwelt VBS", "french"=>"Territoire et environnement DDPS", "italian"=>"Territorio e ambiente DDPS", "english"=>""}}, {"id"=>"10003737", "label"=>{"german"=>"Schadenzentrum VBS", "french"=>"Centre de dommages DDPS", "italian"=>"Centro danni DDPS", "english"=>""}, "name"=>{"german"=>"Schadenzentrum VBS", "french"=>"Centre de dommages DDPS", "italian"=>"Centro danni DDPS", "english"=>""}}, {"id"=>"20048311", "label"=>{"german"=>"Recht", "french"=>"Recht", "italian"=>"Recht", "english"=>""}, "name"=>{"german"=>"Recht", "french"=>"Recht", "italian"=>"Recht", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048311",
+  "name": {
+    "german": "Recht",
+    "french": "Recht",
+    "italian": "Recht",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Maulbeerstrasse 9",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5156812",
+      "surname": "Molnar",
+      "givenName": "Elvira",
+      "email": null,
+      "phone": "+41 58 48 46461",
+      "function": {
+        "german": "Stv C Schadenzentrum/Leiter Recht SZ VBS",
+        "french": "Stv C Schadenzentrum/Leiter Recht SZ VBS",
+        "italian": "Stv C Schadenzentrum/Leiter Recht SZ VBS",
+        "english": "Stv C Schadenzentrum/Leiter Recht SZ VBS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003762",
+      "label": {
+        "german": "Raum und Umwelt VBS",
+        "french": "Territoire et environnement DDPS",
+        "italian": "Territorio e ambiente DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Raum und Umwelt VBS",
+        "french": "Territoire et environnement DDPS",
+        "italian": "Territorio e ambiente DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003737",
+      "label": {
+        "german": "Schadenzentrum VBS",
+        "french": "Centre de dommages DDPS",
+        "italian": "Centro danni DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Schadenzentrum VBS",
+        "french": "Centre de dommages DDPS",
+        "italian": "Centro danni DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048311",
+      "label": {
+        "german": "Recht",
+        "french": "Recht",
+        "italian": "Recht",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht",
+        "french": "Recht",
+        "italian": "Recht",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,211 @@
-{"id"=>"20050490", "name"=>{"german"=>"Team 1", "french"=>"Team 1", "italian"=>"Team 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6314744", "surname"=>"Wenger", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 46 99007", "function"=>{"german"=>"Leiter/in Team 1", "french"=>"Responsable d’équipe 1", "italian"=>"Responsabile team 1", "english"=>"Leiter/in Team 1"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7322271", "surname"=>"Antonio", "givenName"=>"Helena", "email"=>nil, "phone"=>"+41 58 46 40057", "function"=>{"german"=>"Expert/in Stiftungsrecht", "french"=>"Spécialiste ASF", "italian"=>"Specialista AVF", "english"=>"Expert/in Stiftungsrecht"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6988460", "surname"=>"Däppen", "givenName"=>"Adriano", "email"=>nil, "phone"=>"+41 58 46 54766", "function"=>{"german"=>"Jurist/in ESA", "french"=>"Juriste ASF", "italian"=>"Giurista AVF", "english"=>"Jurist/in ESA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9037741", "surname"=>"Eichenberger", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 35318", "function"=>{"german"=>"Jurist/in ESA", "french"=>"Juriste ASF", "italian"=>"Giurista AVF", "english"=>"Jurist/in ESA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0960862", "surname"=>"Mosimann", "givenName"=>"Margaretha", "email"=>nil, "phone"=>"+41 58 46 28183", "function"=>{"german"=>"Jurist/in ESA", "french"=>"Juriste ASF", "italian"=>"Giurista AVF", "english"=>"Jurist/in ESA"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"20035564", "label"=>{"german"=>"ESA", "french"=>"ESA", "italian"=>"ESA", "english"=>""}, "name"=>{"german"=>"Eidgenössische Stiftungsaufsicht", "french"=>"Surveillance fédérale des fondations SFF", "italian"=>"Vigilanza federale sulle fondazioni VFF", "english"=>""}}, {"id"=>"20050490", "label"=>{"german"=>"Team 1", "french"=>"Team 1", "italian"=>"Team 1", "english"=>""}, "name"=>{"german"=>"Team 1", "french"=>"Team 1", "italian"=>"Team 1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050490",
+  "name": {
+    "german": "Team 1",
+    "french": "Team 1",
+    "italian": "Team 1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6314744",
+      "surname": "Wenger",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 46 99007",
+      "function": {
+        "german": "Leiter/in Team 1",
+        "french": "Responsable d’équipe 1",
+        "italian": "Responsabile team 1",
+        "english": "Leiter/in Team 1"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7322271",
+      "surname": "Antonio",
+      "givenName": "Helena",
+      "email": null,
+      "phone": "+41 58 46 40057",
+      "function": {
+        "german": "Expert/in Stiftungsrecht",
+        "french": "Spécialiste ASF",
+        "italian": "Specialista AVF",
+        "english": "Expert/in Stiftungsrecht"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6988460",
+      "surname": "Däppen",
+      "givenName": "Adriano",
+      "email": null,
+      "phone": "+41 58 46 54766",
+      "function": {
+        "german": "Jurist/in ESA",
+        "french": "Juriste ASF",
+        "italian": "Giurista AVF",
+        "english": "Jurist/in ESA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9037741",
+      "surname": "Eichenberger",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 35318",
+      "function": {
+        "german": "Jurist/in ESA",
+        "french": "Juriste ASF",
+        "italian": "Giurista AVF",
+        "english": "Jurist/in ESA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0960862",
+      "surname": "Mosimann",
+      "givenName": "Margaretha",
+      "email": null,
+      "phone": "+41 58 46 28183",
+      "function": {
+        "german": "Jurist/in ESA",
+        "french": "Juriste ASF",
+        "italian": "Giurista AVF",
+        "english": "Jurist/in ESA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035564",
+      "label": {
+        "german": "ESA",
+        "french": "ESA",
+        "italian": "ESA",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Stiftungsaufsicht",
+        "french": "Surveillance fédérale des fondations SFF",
+        "italian": "Vigilanza federale sulle fondazioni VFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050490",
+      "label": {
+        "german": "Team 1",
+        "french": "Team 1",
+        "italian": "Team 1",
+        "english": ""
+      },
+      "name": {
+        "german": "Team 1",
+        "french": "Team 1",
+        "italian": "Team 1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

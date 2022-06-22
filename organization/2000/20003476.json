@@ -1,1 +1,184 @@
-{"id"=>"20003476", "name"=>{"german"=>"Territorialdivision 3", "french"=>"Division territoriale 3", "italian"=>"Divisione territoriale 3", "english"=>""}, "nameAbbr"=>{"german"=>"TDIV3", "french"=>"TDIV3", "italian"=>"TDIV3", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Neuland 8", "postalCode"=>"6460", "location"=>"Altdorf", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042402", "name"=>{"german"=>"Stabschef / Chef Ausb Ter Div 3", "french"=>"CEM / chef instr div ter 3", "italian"=>"Capo di stato magg/capo Istr div ter 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003849", "name"=>{"german"=>"Kdo Koord Stelle 3", "french"=>"Cdmt secteur coord 3", "italian"=>"Ufficio coord 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003848", "name"=>{"german"=>"Dienstchef Ter Div 3", "french"=>"Chef de service div ter 3", "italian"=>"Caposervizio div ter 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20003476", "label"=>{"german"=>"TDIV3", "french"=>"TDIV3", "italian"=>"TDIV3", "english"=>""}, "name"=>{"german"=>"Territorialdivision 3", "french"=>"Division territoriale 3", "italian"=>"Divisione territoriale 3", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003476",
+  "name": {
+    "german": "Territorialdivision 3",
+    "french": "Division territoriale 3",
+    "italian": "Divisione territoriale 3",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "TDIV3",
+    "french": "TDIV3",
+    "italian": "TDIV3",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Neuland 8",
+    "postalCode": "6460",
+    "location": "Altdorf",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042402",
+      "name": {
+        "german": "Stabschef / Chef Ausb Ter Div 3",
+        "french": "CEM / chef instr div ter 3",
+        "italian": "Capo di stato magg/capo Istr div ter 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003849",
+      "name": {
+        "german": "Kdo Koord Stelle 3",
+        "french": "Cdmt secteur coord 3",
+        "italian": "Ufficio coord 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003848",
+      "name": {
+        "german": "Dienstchef Ter Div 3",
+        "french": "Chef de service div ter 3",
+        "italian": "Caposervizio div ter 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003476",
+      "label": {
+        "german": "TDIV3",
+        "french": "TDIV3",
+        "italian": "TDIV3",
+        "english": ""
+      },
+      "name": {
+        "german": "Territorialdivision 3",
+        "french": "Division territoriale 3",
+        "italian": "Divisione territoriale 3",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,156 @@
-{"id"=>"20012315", "name"=>{"german"=>"Facility Management Ost", "french"=>"Facility Management Est", "italian"=>"Facility Management Est", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5558578", "surname"=>"Ebneter", "givenName"=>"Georges", "email"=>nil, "phone"=>"+41 58 46 51812", "function"=>{"german"=>"Leiter FB Facility Management Ost / Stv. L Bereich FM", "french"=>"Chef du domaine spécialisé Facility Management Est / Remp. du chef du domaine Facility Management", "italian"=>"Capo SS Facility Management Est / vice capo settore FM", "english"=>"Stv L FM/Leiter Facility Management Ost"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004155", "label"=>{"german"=>"ar IMMO", "french"=>"ar IMMO", "italian"=>"ar IMMO", "english"=>""}, "name"=>{"german"=>"armasuisse Immobilien", "french"=>"armasuisse Immobilier", "italian"=>"armasuisse Immobili", "english"=>""}}, {"id"=>"20012309", "label"=>{"german"=>"Facility Management", "french"=>"Facility Management", "italian"=>"Facility Management", "english"=>""}, "name"=>{"german"=>"Facility Management", "french"=>"Facility Management", "italian"=>"Facility Management", "english"=>""}}, {"id"=>"20012315", "label"=>{"german"=>"Facility Management Ost", "french"=>"Facility Management Est", "italian"=>"Facility Management Est", "english"=>""}, "name"=>{"german"=>"Facility Management Ost", "french"=>"Facility Management Est", "italian"=>"Facility Management Est", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012315",
+  "name": {
+    "german": "Facility Management Ost",
+    "french": "Facility Management Est",
+    "italian": "Facility Management Est",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5558578",
+      "surname": "Ebneter",
+      "givenName": "Georges",
+      "email": null,
+      "phone": "+41 58 46 51812",
+      "function": {
+        "german": "Leiter FB Facility Management Ost / Stv. L Bereich FM",
+        "french": "Chef du domaine spécialisé Facility Management Est / Remp. du chef du domaine Facility Management",
+        "italian": "Capo SS Facility Management Est / vice capo settore FM",
+        "english": "Stv L FM/Leiter Facility Management Ost"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004155",
+      "label": {
+        "german": "ar IMMO",
+        "french": "ar IMMO",
+        "italian": "ar IMMO",
+        "english": ""
+      },
+      "name": {
+        "german": "armasuisse Immobilien",
+        "french": "armasuisse Immobilier",
+        "italian": "armasuisse Immobili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012309",
+      "label": {
+        "german": "Facility Management",
+        "french": "Facility Management",
+        "italian": "Facility Management",
+        "english": ""
+      },
+      "name": {
+        "german": "Facility Management",
+        "french": "Facility Management",
+        "italian": "Facility Management",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012315",
+      "label": {
+        "german": "Facility Management Ost",
+        "french": "Facility Management Est",
+        "italian": "Facility Management Est",
+        "english": ""
+      },
+      "name": {
+        "german": "Facility Management Ost",
+        "french": "Facility Management Est",
+        "italian": "Facility Management Est",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

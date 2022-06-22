@@ -1,1 +1,163 @@
-{"id"=>"20005202", "name"=>{"german"=>"Beschwerdekammer", "french"=>"Cour des plaintes", "italian"=>"Corte dei reclami penali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Viale Stefano Franscini 7", "postalCode"=>"6500", "location"=>"Bellinzona", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20050532", "name"=>{"german"=>"Gerichtsschreiber Beschwerdekammer", "french"=>"Greffier Cour des plaintes", "italian"=>"Cancelliere Corte dei reclami penali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-2340190", "surname"=>"Bomio-Giovanascini", "givenName"=>"Giorgio", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Richter Beschwerdekammer", "french"=>"Juge Cour des plaintes", "italian"=>"Giudice Corte dei reclami penali", "english"=>"Richter Beschwerdekammer"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3536505", "surname"=>"Forni", "givenName"=>"Miriam", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Richterin Beschwerdekammer", "french"=>"Juge Cour des plaintes", "italian"=>"Giudice Corte dei reclami penali", "english"=>"Richterin Beschwerdekammer"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5734165", "surname"=>"Garré", "givenName"=>"Roy", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Präsident Beschwerdekammer", "french"=>"Président Cour des plaintes", "italian"=>"Presidente Corte dei reclami penali", "english"=>"Präsident Beschwerdekammer"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6885369", "surname"=>"Kipfer Fasciati", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Richter Beschwerdekammer", "french"=>"Juge Cour des plaintes", "italian"=>"Giudice Corte dei reclami penali", "english"=>"Richter Beschwerdekammer"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6082077", "surname"=>"Robert-Nicoud", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Vizepräsident Beschwerdekammer", "french"=>"Vice-président Cour des plaintes", "italian"=>"Vicepresidente Corte dei reclami penali", "english"=>"Vizepräsident Beschwerdekammer"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20004851", "label"=>{"german"=>"BStGer", "french"=>"BStGer", "italian"=>"BStGer", "english"=>""}, "name"=>{"german"=>"Bundesstrafgericht", "french"=>"Tribunal pénal fédéral", "italian"=>"Tribunale penale federale", "english"=>""}}, {"id"=>"20005202", "label"=>{"german"=>"Beschwerdekammer", "french"=>"Cour des plaintes", "italian"=>"Corte dei reclami penali", "english"=>""}, "name"=>{"german"=>"Beschwerdekammer", "french"=>"Cour des plaintes", "italian"=>"Corte dei reclami penali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005202",
+  "name": {
+    "german": "Beschwerdekammer",
+    "french": "Cour des plaintes",
+    "italian": "Corte dei reclami penali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Viale Stefano Franscini 7",
+    "postalCode": "6500",
+    "location": "Bellinzona",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20050532",
+      "name": {
+        "german": "Gerichtsschreiber Beschwerdekammer",
+        "french": "Greffier Cour des plaintes",
+        "italian": "Cancelliere Corte dei reclami penali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-2340190",
+      "surname": "Bomio-Giovanascini",
+      "givenName": "Giorgio",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Richter Beschwerdekammer",
+        "french": "Juge Cour des plaintes",
+        "italian": "Giudice Corte dei reclami penali",
+        "english": "Richter Beschwerdekammer"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3536505",
+      "surname": "Forni",
+      "givenName": "Miriam",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Richterin Beschwerdekammer",
+        "french": "Juge Cour des plaintes",
+        "italian": "Giudice Corte dei reclami penali",
+        "english": "Richterin Beschwerdekammer"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5734165",
+      "surname": "Garré",
+      "givenName": "Roy",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Präsident Beschwerdekammer",
+        "french": "Président Cour des plaintes",
+        "italian": "Presidente Corte dei reclami penali",
+        "english": "Präsident Beschwerdekammer"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6885369",
+      "surname": "Kipfer Fasciati",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Richter Beschwerdekammer",
+        "french": "Juge Cour des plaintes",
+        "italian": "Giudice Corte dei reclami penali",
+        "english": "Richter Beschwerdekammer"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6082077",
+      "surname": "Robert-Nicoud",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Vizepräsident Beschwerdekammer",
+        "french": "Vice-président Cour des plaintes",
+        "italian": "Vicepresidente Corte dei reclami penali",
+        "english": "Vizepräsident Beschwerdekammer"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20004851",
+      "label": {
+        "german": "BStGer",
+        "french": "BStGer",
+        "italian": "BStGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesstrafgericht",
+        "french": "Tribunal pénal fédéral",
+        "italian": "Tribunale penale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005202",
+      "label": {
+        "german": "Beschwerdekammer",
+        "french": "Cour des plaintes",
+        "italian": "Corte dei reclami penali",
+        "english": ""
+      },
+      "name": {
+        "german": "Beschwerdekammer",
+        "french": "Cour des plaintes",
+        "italian": "Corte dei reclami penali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

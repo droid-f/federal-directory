@@ -1,1 +1,158 @@
-{"id"=>"12060601@12.06", "name"=>{"german"=>"Stab Marken & Designs", "french"=>"État-major Marques & Designs", "italian"=>"Stato maggiore Marchi & Design", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>207, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-6007448", "surname"=>"Fraefel", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 31 377 74 28", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>283, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-8080023", "surname"=>"Bouda", "givenName"=>"Detlev", "email"=>nil, "phone"=>"+41 31 377 74 13", "function"=>{"german"=>"Stellvertretung", "french"=>"Stellvertretung", "italian"=>"Stellvertretung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060600@12.06", "label"=>{"german"=>"Marken & Designs", "french"=>"Marques & Designs", "italian"=>"Marchi & Design", "english"=>""}, "name"=>{"german"=>"Marken & Designs", "french"=>"Marques & Designs", "italian"=>"Marchi & Design", "english"=>""}}, {"id"=>"12060601@12.06", "label"=>{"german"=>"Stab Marken & Designs", "french"=>"État-major Marques & Designs", "italian"=>"Stato maggiore Marchi & Design", "english"=>""}, "name"=>{"german"=>"Stab Marken & Designs", "french"=>"État-major Marques & Designs", "italian"=>"Stato maggiore Marchi & Design", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060601@12.06",
+  "name": {
+    "german": "Stab Marken & Designs",
+    "french": "État-major Marques & Designs",
+    "italian": "Stato maggiore Marchi & Design",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 207,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-6007448",
+      "surname": "Fraefel",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 31 377 74 28",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 283,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-8080023",
+      "surname": "Bouda",
+      "givenName": "Detlev",
+      "email": null,
+      "phone": "+41 31 377 74 13",
+      "function": {
+        "german": "Stellvertretung",
+        "french": "Stellvertretung",
+        "italian": "Stellvertretung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060600@12.06",
+      "label": {
+        "german": "Marken & Designs",
+        "french": "Marques & Designs",
+        "italian": "Marchi & Design",
+        "english": ""
+      },
+      "name": {
+        "german": "Marken & Designs",
+        "french": "Marques & Designs",
+        "italian": "Marchi & Design",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060601@12.06",
+      "label": {
+        "german": "Stab Marken & Designs",
+        "french": "État-major Marques & Designs",
+        "italian": "Stato maggiore Marchi & Design",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Marken & Designs",
+        "french": "État-major Marques & Designs",
+        "italian": "Stato maggiore Marchi & Design",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

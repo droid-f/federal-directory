@@ -1,1 +1,141 @@
-{"id"=>"20034080", "name"=>{"german"=>"Support des Departementsvorstehers", "french"=>"Soutien au chef de département", "italian"=>"Supporto al Capodipartimento", "english"=>"Support to Head of Departement"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8528399", "surname"=>"Grütter", "givenName"=>"Roland", "email"=>nil, "phone"=>"+41 58 48 00124", "function"=>{"german"=>"Finanzverantwortliche/r", "french"=>"Finanzverantwortliche/r", "italian"=>"Finanzverantwortliche/r", "english"=>"Finanzverantwortliche/r"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000530", "label"=>{"german"=>"GS-EDA", "french"=>"SG-DFAE", "italian"=>"SG-DFAE", "english"=>"FDFA-GS"}, "name"=>{"german"=>"Generalsekretariat EDA", "french"=>"Secrétariat général DFAE", "italian"=>"Segreteria generale DFAE", "english"=>"FDFA General Secretariat"}}, {"id"=>"20047995", "label"=>{"german"=>"Stab des Generalsekretariats", "french"=>"État-major du Secrétariat général", "italian"=>"Stato Maggiore della Segretaria generale", "english"=>"General Secretariat Staff Office"}, "name"=>{"german"=>"Stab des Generalsekretariats", "french"=>"État-major du Secrétariat général", "italian"=>"Stato Maggiore della Segretaria generale", "english"=>"General Secretariat Staff Office"}}, {"id"=>"20034080", "label"=>{"german"=>"Support des Departementsvorstehers", "french"=>"Soutien au chef de département", "italian"=>"Supporto al Capodipartimento", "english"=>"Support to Head of Departement"}, "name"=>{"german"=>"Support des Departementsvorstehers", "french"=>"Soutien au chef de département", "italian"=>"Supporto al Capodipartimento", "english"=>"Support to Head of Departement"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034080",
+  "name": {
+    "german": "Support des Departementsvorstehers",
+    "french": "Soutien au chef de département",
+    "italian": "Supporto al Capodipartimento",
+    "english": "Support to Head of Departement"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8528399",
+      "surname": "Grütter",
+      "givenName": "Roland",
+      "email": null,
+      "phone": "+41 58 48 00124",
+      "function": {
+        "german": "Finanzverantwortliche/r",
+        "french": "Finanzverantwortliche/r",
+        "italian": "Finanzverantwortliche/r",
+        "english": "Finanzverantwortliche/r"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000530",
+      "label": {
+        "german": "GS-EDA",
+        "french": "SG-DFAE",
+        "italian": "SG-DFAE",
+        "english": "FDFA-GS"
+      },
+      "name": {
+        "german": "Generalsekretariat EDA",
+        "french": "Secrétariat général DFAE",
+        "italian": "Segreteria generale DFAE",
+        "english": "FDFA General Secretariat"
+      }
+    },
+    {
+      "id": "20047995",
+      "label": {
+        "german": "Stab des Generalsekretariats",
+        "french": "État-major du Secrétariat général",
+        "italian": "Stato Maggiore della Segretaria generale",
+        "english": "General Secretariat Staff Office"
+      },
+      "name": {
+        "german": "Stab des Generalsekretariats",
+        "french": "État-major du Secrétariat général",
+        "italian": "Stato Maggiore della Segretaria generale",
+        "english": "General Secretariat Staff Office"
+      }
+    },
+    {
+      "id": "20034080",
+      "label": {
+        "german": "Support des Departementsvorstehers",
+        "french": "Soutien au chef de département",
+        "italian": "Supporto al Capodipartimento",
+        "english": "Support to Head of Departement"
+      },
+      "name": {
+        "german": "Support des Departementsvorstehers",
+        "french": "Soutien au chef de département",
+        "italian": "Supporto al Capodipartimento",
+        "english": "Support to Head of Departement"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

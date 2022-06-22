@@ -1,1 +1,217 @@
-{"id"=>"10009366", "name"=>{"german"=>"Direktionsbereich Polizeisysteme & Identifikation", "french"=>"Domaine de direction systèmes de police et identification", "italian"=>"Ambito direzionale sistemi di polizia e identificazione", "english"=>""}, "nameAbbr"=>{"german"=>"PSI", "french"=>"SPI", "italian"=>"SPI", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584625283", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20021432", "name"=>{"german"=>"Abteilung Steuerung, Planung & Stab PSI", "french"=>"Division Gestion, planification et État-major SPI", "italian"=>"Divisione Coordinazione, pianificazione e stato maggiore SPI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021405", "name"=>{"german"=>"Abteilung Polizeisysteme", "french"=>"Division systèmes de police", "italian"=>"Divisione sistemi di polizia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009380", "name"=>{"german"=>"Abteilung Biometrische Identifikation", "french"=>"Division identification biométrique", "italian"=>"Divisione identificazione biometrica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009375", "name"=>{"german"=>"Abteilung Ausweise & Zentralstellen", "french"=>"Division documents d'identité et offices centraux", "italian"=>"Divisione documenti d'identità e uffici centrali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4220877", "surname"=>"Ertan", "givenName"=>"Emre", "email"=>nil, "phone"=>"+41 58 48 14585", "function"=>{"german"=>"Chef/in PSI / Vizedirektor/in", "french"=>"Chef/in PSI / Vizedirektor/in", "italian"=>"Chef/in PSI / Vizedirektor/in", "english"=>"Chef/in PSI / Vizedirektor/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3010914", "surname"=>"Brönnimann", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 24254", "function"=>{"german"=>"Stv Chef/in PSI / Abteilungschef/in", "french"=>"Stv Chef/in PSI / Abteilungschef/in", "italian"=>"Stv Chef/in PSI / Abteilungschef/in", "english"=>"Stv Chef/in PSI / Abteilungschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009366", "label"=>{"german"=>"PSI", "french"=>"SPI", "italian"=>"SPI", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Polizeisysteme & Identifikation", "french"=>"Domaine de direction systèmes de police et identification", "italian"=>"Ambito direzionale sistemi di polizia e identificazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009366",
+  "name": {
+    "german": "Direktionsbereich Polizeisysteme & Identifikation",
+    "french": "Domaine de direction systèmes de police et identification",
+    "italian": "Ambito direzionale sistemi di polizia e identificazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "PSI",
+    "french": "SPI",
+    "italian": "SPI",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584625283",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20021432",
+      "name": {
+        "german": "Abteilung Steuerung, Planung & Stab PSI",
+        "french": "Division Gestion, planification et État-major SPI",
+        "italian": "Divisione Coordinazione, pianificazione e stato maggiore SPI",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021405",
+      "name": {
+        "german": "Abteilung Polizeisysteme",
+        "french": "Division systèmes de police",
+        "italian": "Divisione sistemi di polizia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009380",
+      "name": {
+        "german": "Abteilung Biometrische Identifikation",
+        "french": "Division identification biométrique",
+        "italian": "Divisione identificazione biometrica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009375",
+      "name": {
+        "german": "Abteilung Ausweise & Zentralstellen",
+        "french": "Division documents d'identité et offices centraux",
+        "italian": "Divisione documenti d'identità e uffici centrali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4220877",
+      "surname": "Ertan",
+      "givenName": "Emre",
+      "email": null,
+      "phone": "+41 58 48 14585",
+      "function": {
+        "german": "Chef/in PSI / Vizedirektor/in",
+        "french": "Chef/in PSI / Vizedirektor/in",
+        "italian": "Chef/in PSI / Vizedirektor/in",
+        "english": "Chef/in PSI / Vizedirektor/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3010914",
+      "surname": "Brönnimann",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 24254",
+      "function": {
+        "german": "Stv Chef/in PSI / Abteilungschef/in",
+        "french": "Stv Chef/in PSI / Abteilungschef/in",
+        "italian": "Stv Chef/in PSI / Abteilungschef/in",
+        "english": "Stv Chef/in PSI / Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009366",
+      "label": {
+        "german": "PSI",
+        "french": "SPI",
+        "italian": "SPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Polizeisysteme & Identifikation",
+        "french": "Domaine de direction systèmes de police et identification",
+        "italian": "Ambito direzionale sistemi di polizia e identificazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

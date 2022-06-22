@@ -1,1 +1,289 @@
-{"id"=>"60034675@11.05", "name"=>{"german"=>"Innovations Organisation", "french"=>"Innovations Organisation", "italian"=>"Innovations Organisation", "english"=>""}, "nameAbbr"=>{"german"=>"RIO", "french"=>"RIO", "italian"=>"RIO", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Räffelstrasse", "postalCode"=>"8045", "location"=>"Zürich", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"60034677@11.05", "name"=>{"german"=>"Business Model Innovation", "french"=>"Business Model Innovation", "italian"=>"Business Model Innovation", "english"=>""}, "nameAbbr"=>{"german"=>"RIOB", "french"=>"RIOB", "italian"=>"RIOB", "english"=>""}}, {"id"=>"60034681@11.05", "name"=>{"german"=>"Digital Solutions & Enablements", "french"=>"Digital Solutions & Enablements", "italian"=>"Digital Solutions & Enablements", "english"=>""}, "nameAbbr"=>{"german"=>"RIOD", "french"=>"RIOD", "italian"=>"RIOD", "english"=>""}}, {"id"=>"60034679@11.05", "name"=>{"german"=>"Information Security Space", "french"=>"Information Security Space", "italian"=>"Information Security Space", "english"=>""}, "nameAbbr"=>{"german"=>"RION", "french"=>"RION", "italian"=>"RION", "english"=>""}}, {"id"=>"60034683@11.05", "name"=>{"german"=>"Innovation Hub", "french"=>"Innovation Hub", "italian"=>"Innovation Hub", "english"=>""}, "nameAbbr"=>{"german"=>"RIOI", "french"=>"RIOI", "italian"=>"RIOI", "english"=>""}}, {"id"=>"60034680@11.05", "name"=>{"german"=>"Integrated Smart Products", "french"=>"Integrated Smart Products", "italian"=>"Integrated Smart Products", "english"=>""}, "nameAbbr"=>{"german"=>"RIOP", "french"=>"RIOP", "italian"=>"RIOP", "english"=>""}}, {"id"=>"60034993@11.05", "name"=>{"german"=>"Programm Management", "french"=>"Programm Management", "italian"=>"Programm Management", "english"=>""}, "nameAbbr"=>{"german"=>"RIOL", "french"=>"RIOL", "italian"=>"RIOL", "english"=>""}}, {"id"=>"60034676@11.05", "name"=>{"german"=>"Stab und PMO", "french"=>"Stab und PMO", "italian"=>"Stab und PMO", "english"=>""}, "nameAbbr"=>{"german"=>"RIOS", "french"=>"RIOS", "italian"=>"RIOS", "english"=>""}}, {"id"=>"60034678@11.05", "name"=>{"german"=>"Sustainability & Production Technology", "french"=>"Sustainability & Production Technology", "italian"=>"Sustainability & Production Technology", "english"=>""}, "nameAbbr"=>{"german"=>"RIOY", "french"=>"RIOY", "italian"=>"RIOY", "english"=>""}}, {"id"=>"60034684@11.05", "name"=>{"german"=>"Technology & Engineering", "french"=>"Technology & Engineering", "italian"=>"Technology & Engineering", "english"=>""}, "nameAbbr"=>{"german"=>"RIOT", "french"=>"RIOT", "italian"=>"RIOT", "english"=>""}}, {"id"=>"60034682@11.05", "name"=>{"german"=>"Venture Unit", "french"=>"Venture Unit", "italian"=>"Venture Unit", "english"=>""}, "nameAbbr"=>{"german"=>"RIOV", "french"=>"RIOV", "italian"=>"RIOV", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60034675@11.05", "label"=>{"german"=>"RIO", "french"=>"RIO", "italian"=>"RIO", "english"=>""}, "name"=>{"german"=>"Innovations Organisation", "french"=>"Innovations Organisation", "italian"=>"Innovations Organisation", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60034675@11.05",
+  "name": {
+    "german": "Innovations Organisation",
+    "french": "Innovations Organisation",
+    "italian": "Innovations Organisation",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "RIO",
+    "french": "RIO",
+    "italian": "RIO",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Räffelstrasse",
+    "postalCode": "8045",
+    "location": "Zürich",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "60034677@11.05",
+      "name": {
+        "german": "Business Model Innovation",
+        "french": "Business Model Innovation",
+        "italian": "Business Model Innovation",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOB",
+        "french": "RIOB",
+        "italian": "RIOB",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034681@11.05",
+      "name": {
+        "german": "Digital Solutions & Enablements",
+        "french": "Digital Solutions & Enablements",
+        "italian": "Digital Solutions & Enablements",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOD",
+        "french": "RIOD",
+        "italian": "RIOD",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034679@11.05",
+      "name": {
+        "german": "Information Security Space",
+        "french": "Information Security Space",
+        "italian": "Information Security Space",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RION",
+        "french": "RION",
+        "italian": "RION",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034683@11.05",
+      "name": {
+        "german": "Innovation Hub",
+        "french": "Innovation Hub",
+        "italian": "Innovation Hub",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOI",
+        "french": "RIOI",
+        "italian": "RIOI",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034680@11.05",
+      "name": {
+        "german": "Integrated Smart Products",
+        "french": "Integrated Smart Products",
+        "italian": "Integrated Smart Products",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOP",
+        "french": "RIOP",
+        "italian": "RIOP",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034993@11.05",
+      "name": {
+        "german": "Programm Management",
+        "french": "Programm Management",
+        "italian": "Programm Management",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOL",
+        "french": "RIOL",
+        "italian": "RIOL",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034676@11.05",
+      "name": {
+        "german": "Stab und PMO",
+        "french": "Stab und PMO",
+        "italian": "Stab und PMO",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOS",
+        "french": "RIOS",
+        "italian": "RIOS",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034678@11.05",
+      "name": {
+        "german": "Sustainability & Production Technology",
+        "french": "Sustainability & Production Technology",
+        "italian": "Sustainability & Production Technology",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOY",
+        "french": "RIOY",
+        "italian": "RIOY",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034684@11.05",
+      "name": {
+        "german": "Technology & Engineering",
+        "french": "Technology & Engineering",
+        "italian": "Technology & Engineering",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOT",
+        "french": "RIOT",
+        "italian": "RIOT",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034682@11.05",
+      "name": {
+        "german": "Venture Unit",
+        "french": "Venture Unit",
+        "italian": "Venture Unit",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RIOV",
+        "french": "RIOV",
+        "italian": "RIOV",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034675@11.05",
+      "label": {
+        "german": "RIO",
+        "french": "RIO",
+        "italian": "RIO",
+        "english": ""
+      },
+      "name": {
+        "german": "Innovations Organisation",
+        "french": "Innovations Organisation",
+        "italian": "Innovations Organisation",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

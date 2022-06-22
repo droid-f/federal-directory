@@ -1,1 +1,185 @@
-{"id"=>"20036751", "name"=>{"german"=>"Verpflegungszentrum Komp Zen Geb D d A", "french"=>"Centre subsistance Cen comp S alpin A", "italian"=>"Centro suss CC S alpi Es", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kaserne 3", "postalCode"=>"6490", "location"=>"Andermatt", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015869", "label"=>{"german"=>"LVBINF", "french"=>"LVBINF", "italian"=>"LVBINF", "english"=>""}, "name"=>{"german"=>"Lehrverband Infanterie", "french"=>"Formation d'application de l'infanterie", "italian"=>"Formazione d'addestramento fant", "english"=>""}}, {"id"=>"20003826", "label"=>{"german"=>"Kompetenzzentrum Gebirgsdienst der Armee", "french"=>"Centre de compétences S alpin armée", "italian"=>"CC servizio alpino dell'esercito", "english"=>""}, "name"=>{"german"=>"Kompetenzzentrum Gebirgsdienst der Armee", "french"=>"Centre de compétences S alpin armée", "italian"=>"CC servizio alpino dell'esercito", "english"=>""}}, {"id"=>"20004216", "label"=>{"german"=>"Fhr Geh Kdt Komp Zen Gebirgsdienst d A", "french"=>"Aide cdmt cdt Cen comp S alpin A", "italian"=>"Aiuto cdo cdt CC S alpino dell'esercito", "english"=>""}, "name"=>{"german"=>"Fhr Geh Kdt Komp Zen Gebirgsdienst d A", "french"=>"Aide cdmt cdt Cen comp S alpin A", "italian"=>"Aiuto cdo cdt CC S alpino dell'esercito", "english"=>""}}, {"id"=>"20036751", "label"=>{"german"=>"Verpflegungszentrum Komp Zen Geb D d A", "french"=>"Centre subsistance Cen comp S alpin A", "italian"=>"Centro suss CC S alpi Es", "english"=>""}, "name"=>{"german"=>"Verpflegungszentrum Komp Zen Geb D d A", "french"=>"Centre subsistance Cen comp S alpin A", "italian"=>"Centro suss CC S alpi Es", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20036751",
+  "name": {
+    "german": "Verpflegungszentrum Komp Zen Geb D d A",
+    "french": "Centre subsistance Cen comp S alpin A",
+    "italian": "Centro suss CC S alpi Es",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kaserne 3",
+    "postalCode": "6490",
+    "location": "Andermatt",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015869",
+      "label": {
+        "german": "LVBINF",
+        "french": "LVBINF",
+        "italian": "LVBINF",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Infanterie",
+        "french": "Formation d'application de l'infanterie",
+        "italian": "Formazione d'addestramento fant",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003826",
+      "label": {
+        "german": "Kompetenzzentrum Gebirgsdienst der Armee",
+        "french": "Centre de compétences S alpin armée",
+        "italian": "CC servizio alpino dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompetenzzentrum Gebirgsdienst der Armee",
+        "french": "Centre de compétences S alpin armée",
+        "italian": "CC servizio alpino dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004216",
+      "label": {
+        "german": "Fhr Geh Kdt Komp Zen Gebirgsdienst d A",
+        "french": "Aide cdmt cdt Cen comp S alpin A",
+        "italian": "Aiuto cdo cdt CC S alpino dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Fhr Geh Kdt Komp Zen Gebirgsdienst d A",
+        "french": "Aide cdmt cdt Cen comp S alpin A",
+        "italian": "Aiuto cdo cdt CC S alpino dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036751",
+      "label": {
+        "german": "Verpflegungszentrum Komp Zen Geb D d A",
+        "french": "Centre subsistance Cen comp S alpin A",
+        "italian": "Centro suss CC S alpi Es",
+        "english": ""
+      },
+      "name": {
+        "german": "Verpflegungszentrum Komp Zen Geb D d A",
+        "french": "Centre subsistance Cen comp S alpin A",
+        "italian": "Centro suss CC S alpi Es",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

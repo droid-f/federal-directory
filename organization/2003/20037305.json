@@ -1,1 +1,187 @@
-{"id"=>"20037305", "name"=>{"german"=>"Internationales und Mehrsprachigkeit", "french"=>"International et plurilinguisme", "italian"=>"Internazionale e plurilinguismo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037330", "name"=>{"german"=>"Admin. Internat. & Mehrsprachigkeit", "french"=>"Admin. internat. & plurilinguisme", "italian"=>"Ammin. internaz. & plurilinguismo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037312", "name"=>{"german"=>"Übersetzung", "french"=>"Traduction", "italian"=>"Traduzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037313", "name"=>{"german"=>"Dolmetschen", "french"=>"Interprètes", "italian"=>"Interpretariato", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037314", "name"=>{"german"=>"Internationale und interparlamentarische Beziehungen", "french"=>"Relations internationales et interparlementaires", "italian"=>"Relazioni internazionali e interparlamentari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7822408", "surname"=>"Fischer", "givenName"=>"Claudio", "email"=>nil, "phone"=>"+41 58 32 29726", "function"=>{"german"=>"Bereichsleiter Internat.&Mehrsprachigk.", "french"=>"Bereichsleiter Internat.&Mehrsprachigk.", "italian"=>"Bereichsleiter Internat.&Mehrsprachigk.", "english"=>"Bereichsleiter Internat.&Mehrsprachigk."}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1172336", "surname"=>"Tomaschett", "givenName"=>"Joachim", "email"=>nil, "phone"=>"+41 58 32 29723", "function"=>{"german"=>"Leiter Einheit EFTA/EU & bil.Beziehungen", "french"=>"Leiter Einheit EFTA/EU & bil.Beziehungen", "italian"=>"Leiter Einheit EFTA/EU & bil.Beziehungen", "english"=>"Leiter Einheit EFTA/EU & bil.Beziehungen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037305", "label"=>{"german"=>"Internationales und Mehrsprachigkeit", "french"=>"International et plurilinguisme", "italian"=>"Internazionale e plurilinguismo", "english"=>""}, "name"=>{"german"=>"Internationales und Mehrsprachigkeit", "french"=>"International et plurilinguisme", "italian"=>"Internazionale e plurilinguismo", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037305",
+  "name": {
+    "german": "Internationales und Mehrsprachigkeit",
+    "french": "International et plurilinguisme",
+    "italian": "Internazionale e plurilinguismo",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037330",
+      "name": {
+        "german": "Admin. Internat. & Mehrsprachigkeit",
+        "french": "Admin. internat. & plurilinguisme",
+        "italian": "Ammin. internaz. & plurilinguismo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037312",
+      "name": {
+        "german": "Übersetzung",
+        "french": "Traduction",
+        "italian": "Traduzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037313",
+      "name": {
+        "german": "Dolmetschen",
+        "french": "Interprètes",
+        "italian": "Interpretariato",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037314",
+      "name": {
+        "german": "Internationale und interparlamentarische Beziehungen",
+        "french": "Relations internationales et interparlementaires",
+        "italian": "Relazioni internazionali e interparlamentari",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7822408",
+      "surname": "Fischer",
+      "givenName": "Claudio",
+      "email": null,
+      "phone": "+41 58 32 29726",
+      "function": {
+        "german": "Bereichsleiter Internat.&Mehrsprachigk.",
+        "french": "Bereichsleiter Internat.&Mehrsprachigk.",
+        "italian": "Bereichsleiter Internat.&Mehrsprachigk.",
+        "english": "Bereichsleiter Internat.&Mehrsprachigk."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1172336",
+      "surname": "Tomaschett",
+      "givenName": "Joachim",
+      "email": null,
+      "phone": "+41 58 32 29723",
+      "function": {
+        "german": "Leiter Einheit EFTA/EU & bil.Beziehungen",
+        "french": "Leiter Einheit EFTA/EU & bil.Beziehungen",
+        "italian": "Leiter Einheit EFTA/EU & bil.Beziehungen",
+        "english": "Leiter Einheit EFTA/EU & bil.Beziehungen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037305",
+      "label": {
+        "german": "Internationales und Mehrsprachigkeit",
+        "french": "International et plurilinguisme",
+        "italian": "Internazionale e plurilinguismo",
+        "english": ""
+      },
+      "name": {
+        "german": "Internationales und Mehrsprachigkeit",
+        "french": "International et plurilinguisme",
+        "italian": "Internazionale e plurilinguismo",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

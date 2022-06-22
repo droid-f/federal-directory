@@ -1,1 +1,141 @@
-{"id"=>"50000020@12.03", "name"=>{"german"=>"Bereich Technologie", "french"=>"Bereich Technologie", "italian"=>"Bereich Technologie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8467652", "surname"=>"Brand", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41583870530", "function"=>{"german"=>"Bereichsleiter/in Technologie", "french"=>"Chef de domaine Technique", "italian"=>"Caposettore Tecnica", "english"=>"Head of Technology"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}, {"id"=>"50001386@12.03", "label"=>{"german"=>"Technologie und Betrieb", "french"=>"Technologie und Betrieb", "italian"=>"Technologie und Betrieb", "english"=>""}, "name"=>{"german"=>"Technologie und Betrieb", "french"=>"Technologie und Betrieb", "italian"=>"Technologie und Betrieb", "english"=>""}}, {"id"=>"50000020@12.03", "label"=>{"german"=>"Bereich Technologie", "french"=>"Bereich Technologie", "italian"=>"Bereich Technologie", "english"=>""}, "name"=>{"german"=>"Bereich Technologie", "french"=>"Bereich Technologie", "italian"=>"Bereich Technologie", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50000020@12.03",
+  "name": {
+    "german": "Bereich Technologie",
+    "french": "Bereich Technologie",
+    "italian": "Bereich Technologie",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8467652",
+      "surname": "Brand",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41583870530",
+      "function": {
+        "german": "Bereichsleiter/in Technologie",
+        "french": "Chef de domaine Technique",
+        "italian": "Caposettore Tecnica",
+        "english": "Head of Technology"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001386@12.03",
+      "label": {
+        "german": "Technologie und Betrieb",
+        "french": "Technologie und Betrieb",
+        "italian": "Technologie und Betrieb",
+        "english": ""
+      },
+      "name": {
+        "german": "Technologie und Betrieb",
+        "french": "Technologie und Betrieb",
+        "italian": "Technologie und Betrieb",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000020@12.03",
+      "label": {
+        "german": "Bereich Technologie",
+        "french": "Bereich Technologie",
+        "italian": "Bereich Technologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Technologie",
+        "french": "Bereich Technologie",
+        "italian": "Bereich Technologie",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

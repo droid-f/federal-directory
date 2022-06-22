@@ -1,1 +1,185 @@
-{"id"=>"20047900", "name"=>{"german"=>"Fhr Geh Kdt GWA BODLUV 33", "french"=>"Aide cdmt cdt", "italian"=>"Aiuto cdo cdt", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kaserne", "postalCode"=>"6032", "location"=>"Emmen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10008929", "label"=>{"german"=>"LW", "french"=>"LW", "italian"=>"LW", "english"=>""}, "name"=>{"german"=>"Luftwaffe", "french"=>"Forces aériennes", "italian"=>"Forze aeree", "english"=>""}}, {"id"=>"20004495", "label"=>{"german"=>"Lehrverband Fliegerabwehr 33", "french"=>"Formation d'application DCA 33", "italian"=>"Formazione d'addestramento DCA 33", "english"=>""}, "name"=>{"german"=>"Lehrverband Fliegerabwehr 33", "french"=>"Formation d'application DCA 33", "italian"=>"Formazione d'addestramento DCA 33", "english"=>""}}, {"id"=>"20004530", "label"=>{"german"=>"Kdo GWA BODLUV 33", "french"=>"Cdmt IBP DSA 33", "italian"=>"Cdo IB e perf DTA 33", "english"=>""}, "name"=>{"german"=>"Kdo GWA BODLUV 33", "french"=>"Cdmt IBP DSA 33", "italian"=>"Cdo IB e perf DTA 33", "english"=>""}}, {"id"=>"20047900", "label"=>{"german"=>"Fhr Geh Kdt GWA BODLUV 33", "french"=>"Aide cdmt cdt", "italian"=>"Aiuto cdo cdt", "english"=>""}, "name"=>{"german"=>"Fhr Geh Kdt GWA BODLUV 33", "french"=>"Aide cdmt cdt", "italian"=>"Aiuto cdo cdt", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20047900",
+  "name": {
+    "german": "Fhr Geh Kdt GWA BODLUV 33",
+    "french": "Aide cdmt cdt",
+    "italian": "Aiuto cdo cdt",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kaserne",
+    "postalCode": "6032",
+    "location": "Emmen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008929",
+      "label": {
+        "german": "LW",
+        "french": "LW",
+        "italian": "LW",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftwaffe",
+        "french": "Forces aériennes",
+        "italian": "Forze aeree",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004495",
+      "label": {
+        "german": "Lehrverband Fliegerabwehr 33",
+        "french": "Formation d'application DCA 33",
+        "italian": "Formazione d'addestramento DCA 33",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Fliegerabwehr 33",
+        "french": "Formation d'application DCA 33",
+        "italian": "Formazione d'addestramento DCA 33",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004530",
+      "label": {
+        "german": "Kdo GWA BODLUV 33",
+        "french": "Cdmt IBP DSA 33",
+        "italian": "Cdo IB e perf DTA 33",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo GWA BODLUV 33",
+        "french": "Cdmt IBP DSA 33",
+        "italian": "Cdo IB e perf DTA 33",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047900",
+      "label": {
+        "german": "Fhr Geh Kdt GWA BODLUV 33",
+        "french": "Aide cdmt cdt",
+        "italian": "Aiuto cdo cdt",
+        "english": ""
+      },
+      "name": {
+        "german": "Fhr Geh Kdt GWA BODLUV 33",
+        "french": "Aide cdmt cdt",
+        "italian": "Aiuto cdo cdt",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

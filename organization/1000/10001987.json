@@ -1,1 +1,262 @@
-{"id"=>"10001987", "name"=>{"german"=>"Schweizerische Ausgleichskasse SAK, AHV-Leistungen", "french"=>"Caisse suisse de compensation CSC, Prestations AVS", "italian"=>"Cassa svizzera di compensazione CSC, Prestazioni AVS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Av. Edmond Vaucher 18", "postalCode"=>"1211", "location"=>"Genève 2", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 461 91 11", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10001988", "name"=>{"german"=>"Rechtsdienst AHV", "french"=>"Service juridique AVS", "italian"=>"Beschwerden", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046733", "name"=>{"german"=>"Koordination SAK und FV", "french"=>"Coordination CSC et AFac", "italian"=>"Koordination SAK und FV", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001990", "name"=>{"german"=>"Ausland I", "french"=>"Etranger I", "italian"=>"Estero I", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001995", "name"=>{"german"=>"Ausland II", "french"=>"Etranger II", "italian"=>"Estero II", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002003", "name"=>{"german"=>"Ausland III", "french"=>"Etranger III", "italian"=>"Estero III", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10001999", "name"=>{"german"=>"Ausland IV", "french"=>"Etranger IV", "italian"=>"Estero IV", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20001230", "name"=>{"german"=>"Auslandschweizer", "french"=>"Prestations AVS Suisses à l'étranger", "italian"=>"Prestazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8604769", "surname"=>"van Gessel", "givenName"=>"Bea", "email"=>nil, "phone"=>"+41 58 46 19579", "function"=>{"german"=>"Abteilungschef/in und Stv. ad interim", "french"=>"Chef/fe de division et Supp. ad interim", "italian"=>"Capo divisione", "english"=>"Abteilungschef/in und Stv. ad interim"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3668443", "surname"=>"Nesti", "givenName"=>"Norberto", "email"=>nil, "phone"=>"+41 58 46 19656", "function"=>{"german"=>"Sektionschef/in & Stv.", "french"=>"Chef/fe de section & Supp.", "italian"=>"Caposezione", "english"=>"Sektionschef/in & Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10001950", "label"=>{"german"=>"ZAS", "french"=>"CdC", "italian"=>"UCC", "english"=>""}, "name"=>{"german"=>"Zentrale Ausgleichsstelle", "french"=>"Centrale de compensation", "italian"=>"Ufficio centrale di compensazione", "english"=>""}}, {"id"=>"10001987", "label"=>{"german"=>"Schweizerische Ausgleichskasse SAK, AHV-Leistungen", "french"=>"Caisse suisse de compensation CSC, Prestations AVS", "italian"=>"Cassa svizzera di compensazione CSC, Prestazioni AVS", "english"=>""}, "name"=>{"german"=>"Schweizerische Ausgleichskasse SAK, AHV-Leistungen", "french"=>"Caisse suisse de compensation CSC, Prestations AVS", "italian"=>"Cassa svizzera di compensazione CSC, Prestazioni AVS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10001987",
+  "name": {
+    "german": "Schweizerische Ausgleichskasse SAK, AHV-Leistungen",
+    "french": "Caisse suisse de compensation CSC, Prestations AVS",
+    "italian": "Cassa svizzera di compensazione CSC, Prestazioni AVS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Av. Edmond Vaucher 18",
+    "postalCode": "1211",
+    "location": "Genève 2",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 461 91 11",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10001988",
+      "name": {
+        "german": "Rechtsdienst AHV",
+        "french": "Service juridique AVS",
+        "italian": "Beschwerden",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046733",
+      "name": {
+        "german": "Koordination SAK und FV",
+        "french": "Coordination CSC et AFac",
+        "italian": "Koordination SAK und FV",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001990",
+      "name": {
+        "german": "Ausland I",
+        "french": "Etranger I",
+        "italian": "Estero I",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001995",
+      "name": {
+        "german": "Ausland II",
+        "french": "Etranger II",
+        "italian": "Estero II",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002003",
+      "name": {
+        "german": "Ausland III",
+        "french": "Etranger III",
+        "italian": "Estero III",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001999",
+      "name": {
+        "german": "Ausland IV",
+        "french": "Etranger IV",
+        "italian": "Estero IV",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20001230",
+      "name": {
+        "german": "Auslandschweizer",
+        "french": "Prestations AVS Suisses à l'étranger",
+        "italian": "Prestazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8604769",
+      "surname": "van Gessel",
+      "givenName": "Bea",
+      "email": null,
+      "phone": "+41 58 46 19579",
+      "function": {
+        "german": "Abteilungschef/in und Stv. ad interim",
+        "french": "Chef/fe de division et Supp. ad interim",
+        "italian": "Capo divisione",
+        "english": "Abteilungschef/in und Stv. ad interim"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3668443",
+      "surname": "Nesti",
+      "givenName": "Norberto",
+      "email": null,
+      "phone": "+41 58 46 19656",
+      "function": {
+        "german": "Sektionschef/in & Stv.",
+        "french": "Chef/fe de section & Supp.",
+        "italian": "Caposezione",
+        "english": "Sektionschef/in & Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001950",
+      "label": {
+        "german": "ZAS",
+        "french": "CdC",
+        "italian": "UCC",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Ausgleichsstelle",
+        "french": "Centrale de compensation",
+        "italian": "Ufficio centrale di compensazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001987",
+      "label": {
+        "german": "Schweizerische Ausgleichskasse SAK, AHV-Leistungen",
+        "french": "Caisse suisse de compensation CSC, Prestations AVS",
+        "italian": "Cassa svizzera di compensazione CSC, Prestazioni AVS",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerische Ausgleichskasse SAK, AHV-Leistungen",
+        "french": "Caisse suisse de compensation CSC, Prestations AVS",
+        "italian": "Cassa svizzera di compensazione CSC, Prestazioni AVS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,169 @@
-{"id"=>"20015227", "name"=>{"german"=>"Kobü Vientiane", "french"=>"Buco Vientiane", "italian"=>"Ufco Vientiane", "english"=>"SCO Vientiane"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20041829", "name"=>{"german"=>"Finanzen, Personal, Administration", "french"=>"Finances, personnel, administration", "italian"=>"Finanze, personale, amministrazione", "english"=>"Finance, human resources, administration"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20031652", "name"=>{"german"=>"Programmbüro Phnom Penh", "french"=>"Bureau de programme Phnom Penh", "italian"=>"Ufficio di programma Phnom Penh", "english"=>"Programme Office Phnom Penh"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}, {"id"=>"10000713", "label"=>{"german"=>"Direktionsbereich Südzusammenarbeit", "french"=>"Domaine de dir. Coopération Sud", "italian"=>"Settore di dir. Cooperazione Sud", "english"=>"Corporate Domain Cooperation South"}, "name"=>{"german"=>"Direktionsbereich Südzusammenarbeit", "french"=>"Domaine de dir. Coopération Sud", "italian"=>"Settore di dir. Cooperazione Sud", "english"=>"Corporate Domain Cooperation South"}}, {"id"=>"20046102", "label"=>{"german"=>"Abteilung Asien", "french"=>"Division Asie", "italian"=>"Divisione Asia", "english"=>"Asia Division"}, "name"=>{"german"=>"Abteilung Asien", "french"=>"Division Asie", "italian"=>"Divisione Asia", "english"=>"Asia Division"}}, {"id"=>"20015227", "label"=>{"german"=>"Kobü Vientiane", "french"=>"Buco Vientiane", "italian"=>"Ufco Vientiane", "english"=>"SCO Vientiane"}, "name"=>{"german"=>"Kobü Vientiane", "french"=>"Buco Vientiane", "italian"=>"Ufco Vientiane", "english"=>"SCO Vientiane"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20015227",
+  "name": {
+    "german": "Kobü Vientiane",
+    "french": "Buco Vientiane",
+    "italian": "Ufco Vientiane",
+    "english": "SCO Vientiane"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20041829",
+      "name": {
+        "german": "Finanzen, Personal, Administration",
+        "french": "Finances, personnel, administration",
+        "italian": "Finanze, personale, amministrazione",
+        "english": "Finance, human resources, administration"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031652",
+      "name": {
+        "german": "Programmbüro Phnom Penh",
+        "french": "Bureau de programme Phnom Penh",
+        "italian": "Ufficio di programma Phnom Penh",
+        "english": "Programme Office Phnom Penh"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    },
+    {
+      "id": "10000713",
+      "label": {
+        "german": "Direktionsbereich Südzusammenarbeit",
+        "french": "Domaine de dir. Coopération Sud",
+        "italian": "Settore di dir. Cooperazione Sud",
+        "english": "Corporate Domain Cooperation South"
+      },
+      "name": {
+        "german": "Direktionsbereich Südzusammenarbeit",
+        "french": "Domaine de dir. Coopération Sud",
+        "italian": "Settore di dir. Cooperazione Sud",
+        "english": "Corporate Domain Cooperation South"
+      }
+    },
+    {
+      "id": "20046102",
+      "label": {
+        "german": "Abteilung Asien",
+        "french": "Division Asie",
+        "italian": "Divisione Asia",
+        "english": "Asia Division"
+      },
+      "name": {
+        "german": "Abteilung Asien",
+        "french": "Division Asie",
+        "italian": "Divisione Asia",
+        "english": "Asia Division"
+      }
+    },
+    {
+      "id": "20015227",
+      "label": {
+        "german": "Kobü Vientiane",
+        "french": "Buco Vientiane",
+        "italian": "Ufco Vientiane",
+        "english": "SCO Vientiane"
+      },
+      "name": {
+        "german": "Kobü Vientiane",
+        "french": "Buco Vientiane",
+        "italian": "Ufco Vientiane",
+        "english": "SCO Vientiane"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

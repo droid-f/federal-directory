@@ -1,1 +1,155 @@
-{"id"=>"20048737", "name"=>{"german"=>"Bereich Finanzhilfen und Ressourcen", "french"=>"Domaine Aides financières et Ressources", "italian"=>"Ambito aiuti finanziari e risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarztorstrasse 51", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20015776", "name"=>{"german"=>"Amtssekretariat", "french"=>"Secrétariat d'office", "italian"=>"Amtssekretariat", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5537260", "surname"=>"Thomet", "givenName"=>"Ursula", "email"=>nil, "phone"=>"+41 58 46 26852", "function"=>{"german"=>"Leiter/in Fachbereich", "french"=>"Responsable Domaine", "italian"=>"Responsabile Ambito", "english"=>"Leiter/in Fachbereich"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10002215", "label"=>{"german"=>"EBG", "french"=>"BFEG", "italian"=>"UFU", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Büro für die Gleichstellung von Frau und Mann", "french"=>"Bureau fédéral de l'égalité entre femmes et hommes", "italian"=>"Ufficio federale per l'uguaglianza fra donna e uomo", "english"=>""}}, {"id"=>"10008741", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20048737", "label"=>{"german"=>"Bereich Finanzhilfen und Ressourcen", "french"=>"Domaine Aides financières et Ressources", "italian"=>"Ambito aiuti finanziari e risorse", "english"=>""}, "name"=>{"german"=>"Bereich Finanzhilfen und Ressourcen", "french"=>"Domaine Aides financières et Ressources", "italian"=>"Ambito aiuti finanziari e risorse", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048737",
+  "name": {
+    "german": "Bereich Finanzhilfen und Ressourcen",
+    "french": "Domaine Aides financières et Ressources",
+    "italian": "Ambito aiuti finanziari e risorse",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarztorstrasse 51",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20015776",
+      "name": {
+        "german": "Amtssekretariat",
+        "french": "Secrétariat d'office",
+        "italian": "Amtssekretariat",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5537260",
+      "surname": "Thomet",
+      "givenName": "Ursula",
+      "email": null,
+      "phone": "+41 58 46 26852",
+      "function": {
+        "german": "Leiter/in Fachbereich",
+        "french": "Responsable Domaine",
+        "italian": "Responsabile Ambito",
+        "english": "Leiter/in Fachbereich"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002215",
+      "label": {
+        "german": "EBG",
+        "french": "BFEG",
+        "italian": "UFU",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Büro für die Gleichstellung von Frau und Mann",
+        "french": "Bureau fédéral de l'égalité entre femmes et hommes",
+        "italian": "Ufficio federale per l'uguaglianza fra donna e uomo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008741",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048737",
+      "label": {
+        "german": "Bereich Finanzhilfen und Ressourcen",
+        "french": "Domaine Aides financières et Ressources",
+        "italian": "Ambito aiuti finanziari e risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Finanzhilfen und Ressourcen",
+        "french": "Domaine Aides financières et Ressources",
+        "italian": "Ambito aiuti finanziari e risorse",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

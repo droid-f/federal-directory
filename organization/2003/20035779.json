@@ -1,1 +1,152 @@
-{"id"=>"20035779", "name"=>{"german"=>"Persönliche Mitarbeitende Departementsvorsteherin", "french"=>"Collaborateurs personnels de la cheffe du département", "italian"=>"Collaboratori personali CD", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-4861677", "surname"=>"Clivaz", "givenName"=>"Romain", "email"=>nil, "phone"=>"+41 58 46 93922", "function"=>{"german"=>"Persönlicher Mitarbeiter Departementschefin EJPD", "french"=>"Collaborateur personnel de la cheffe du département DFJP", "italian"=>"Collaboratore personale del Capodipartimento DFGP", "english"=>"Persönlicher Mitarbeiter"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9097600", "surname"=>"Gmür", "givenName"=>"Heidi", "email"=>nil, "phone"=>"+41 58 46 93053", "function"=>{"german"=>"Persönliche Mitarbeiterin Departementschefin EJPD", "french"=>"Collaboratrice personnelle de la cheffe du département DFJP", "italian"=>"Collaboratrice personale del Capodipartimento DFGP", "english"=>"Persönliche Mitarbeiterin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}, {"id"=>"20028230", "label"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}}, {"id"=>"20035779", "label"=>{"german"=>"Persönliche Mitarbeitende Departementsvorsteherin", "french"=>"Collaborateurs personnels de la cheffe du département", "italian"=>"Collaboratori personali CD", "english"=>""}, "name"=>{"german"=>"Persönliche Mitarbeitende Departementsvorsteherin", "french"=>"Collaborateurs personnels de la cheffe du département", "italian"=>"Collaboratori personali CD", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035779",
+  "name": {
+    "german": "Persönliche Mitarbeitende Departementsvorsteherin",
+    "french": "Collaborateurs personnels de la cheffe du département",
+    "italian": "Collaboratori personali CD",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-4861677",
+      "surname": "Clivaz",
+      "givenName": "Romain",
+      "email": null,
+      "phone": "+41 58 46 93922",
+      "function": {
+        "german": "Persönlicher Mitarbeiter Departementschefin EJPD",
+        "french": "Collaborateur personnel de la cheffe du département DFJP",
+        "italian": "Collaboratore personale del Capodipartimento DFGP",
+        "english": "Persönlicher Mitarbeiter"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9097600",
+      "surname": "Gmür",
+      "givenName": "Heidi",
+      "email": null,
+      "phone": "+41 58 46 93053",
+      "function": {
+        "german": "Persönliche Mitarbeiterin Departementschefin EJPD",
+        "french": "Collaboratrice personnelle de la cheffe du département DFJP",
+        "italian": "Collaboratrice personale del Capodipartimento DFGP",
+        "english": "Persönliche Mitarbeiterin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028230",
+      "label": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035779",
+      "label": {
+        "german": "Persönliche Mitarbeitende Departementsvorsteherin",
+        "french": "Collaborateurs personnels de la cheffe du département",
+        "italian": "Collaboratori personali CD",
+        "english": ""
+      },
+      "name": {
+        "german": "Persönliche Mitarbeitende Departementsvorsteherin",
+        "french": "Collaborateurs personnels de la cheffe du département",
+        "italian": "Collaboratori personali CD",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

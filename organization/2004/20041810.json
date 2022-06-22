@@ -1,1 +1,158 @@
-{"id"=>"20041810", "name"=>{"german"=>"Stab Vermessung", "french"=>"Etat-major mensuration", "italian"=>"Stato maggiore misurazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9748166", "surname"=>"Bürki Gyger", "givenName"=>"Elisabeth", "email"=>nil, "phone"=>"+41 58 46 42236", "function"=>{"german"=>"Leiter/in Stab", "french"=>"Responsable de l’état-major", "italian"=>"Responsabile stato maggiore", "english"=>"Leiter/in Stab"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1441939", "surname"=>"Markwalder", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 43444", "function"=>{"german"=>"Wiss. MA / Redaktor/in /Stv.Leit.Stab", "french"=>"Coll. scient./Rédact./Resp.sup.etat maj.", "italian"=>"Coll.scient./Redat./sost.resp.stato mag.", "english"=>"Wiss. MA / Redaktor/in /Stv.Leit.Stab"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"20041602", "label"=>{"german"=>"Geodäsie und Eidg. Vermessungsdirektion", "french"=>"Géodésie et Direction fédérale des mensurations cadastrales", "italian"=>"Geodesia e Direzione federale delle misurazioni catastali", "english"=>""}, "name"=>{"german"=>"Geodäsie und Eidg. Vermessungsdirektion", "french"=>"Géodésie et Direction fédérale des mensurations cadastrales", "italian"=>"Geodesia e Direzione federale delle misurazioni catastali", "english"=>""}}, {"id"=>"20041810", "label"=>{"german"=>"Stab Vermessung", "french"=>"Etat-major mensuration", "italian"=>"Stato maggiore misurazione", "english"=>""}, "name"=>{"german"=>"Stab Vermessung", "french"=>"Etat-major mensuration", "italian"=>"Stato maggiore misurazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041810",
+  "name": {
+    "german": "Stab Vermessung",
+    "french": "Etat-major mensuration",
+    "italian": "Stato maggiore misurazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9748166",
+      "surname": "Bürki Gyger",
+      "givenName": "Elisabeth",
+      "email": null,
+      "phone": "+41 58 46 42236",
+      "function": {
+        "german": "Leiter/in Stab",
+        "french": "Responsable de l’état-major",
+        "italian": "Responsabile stato maggiore",
+        "english": "Leiter/in Stab"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1441939",
+      "surname": "Markwalder",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 43444",
+      "function": {
+        "german": "Wiss. MA / Redaktor/in /Stv.Leit.Stab",
+        "french": "Coll. scient./Rédact./Resp.sup.etat maj.",
+        "italian": "Coll.scient./Redat./sost.resp.stato mag.",
+        "english": "Wiss. MA / Redaktor/in /Stv.Leit.Stab"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041602",
+      "label": {
+        "german": "Geodäsie und Eidg. Vermessungsdirektion",
+        "french": "Géodésie et Direction fédérale des mensurations cadastrales",
+        "italian": "Geodesia e Direzione federale delle misurazioni catastali",
+        "english": ""
+      },
+      "name": {
+        "german": "Geodäsie und Eidg. Vermessungsdirektion",
+        "french": "Géodésie et Direction fédérale des mensurations cadastrales",
+        "italian": "Geodesia e Direzione federale delle misurazioni catastali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041810",
+      "label": {
+        "german": "Stab Vermessung",
+        "french": "Etat-major mensuration",
+        "italian": "Stato maggiore misurazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Vermessung",
+        "french": "Etat-major mensuration",
+        "italian": "Stato maggiore misurazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

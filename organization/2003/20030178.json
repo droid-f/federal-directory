@@ -1,1 +1,257 @@
-{"id"=>"20030178", "name"=>{"german"=>"Abteilung III Kammer 1", "french"=>"Cour III Chambre 1", "italian"=>"Corte III Camera 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20030180", "name"=>{"german"=>"Abteilung III Kammer 1.1", "french"=>"Cour III Chambre 1.1", "italian"=>"Corte III Camera 1.1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030181", "name"=>{"german"=>"Abteilung III Kammer 1.2", "french"=>"Cour III Chambre 1.2", "italian"=>"Corte III Camera 1.2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030182", "name"=>{"german"=>"Abteilung III Kammer 1.3", "french"=>"Cour III Chambre 1.3", "italian"=>"Corte III Camera 1.3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030183", "name"=>{"german"=>"Abteilung III Kammer 1.4", "french"=>"Cour III Chambre 1.4", "italian"=>"Corte III Camera 1.4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030184", "name"=>{"german"=>"Abteilung III Kammer 1.5", "french"=>"Cour III Chambre 1.5", "italian"=>"Corte III Camera 1.5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030185", "name"=>{"german"=>"Abteilung III Kammer 1.6", "french"=>"Cour III Chambre 1.6", "italian"=>"Corte III Camera 1.6", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030186", "name"=>{"german"=>"Abteilung III Kammer 1.7", "french"=>"Cour III Chambre 1.7", "italian"=>"Corte III Camera 1.7", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030194", "name"=>{"german"=>"Abteilung III Kammer 1.9", "french"=>"Cour III Chambre 1.9", "italian"=>"Corte III Camera 1.9", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037447", "name"=>{"german"=>"Abteilung III Kammer 1.10", "french"=>"Cour III Chambre 1.9", "italian"=>"Corte III Camera 1.9", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040576", "name"=>{"german"=>"Abteilung III Kammer 1.11", "french"=>"Cour III Chambre 1.9", "italian"=>"Corte III Camera 1.9", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-9661739", "surname"=>"Keel", "givenName"=>"Madeleine", "email"=>nil, "phone"=>"+41 58 46 52620", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung III", "french"=>"Greffier/Greffière II Cour III", "italian"=>"Cancelliere/a II Corte III", "english"=>"Gerichtsschreiber/in II Abteilung III"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014818", "label"=>{"german"=>"Abteilung III - Ausländer, Gesundheit und Sozialversicherungen", "french"=>"Cour III - étrangers, santé et assurances sociales", "italian"=>"Corte III - stranieri, salute e previdenza sociale", "english"=>""}, "name"=>{"german"=>"Abteilung III - Ausländer, Gesundheit und Sozialversicherungen", "french"=>"Cour III - étrangers, santé et assurances sociales", "italian"=>"Corte III - stranieri, salute e previdenza sociale", "english"=>""}}, {"id"=>"20030178", "label"=>{"german"=>"Abteilung III Kammer 1", "french"=>"Cour III Chambre 1", "italian"=>"Corte III Camera 1", "english"=>""}, "name"=>{"german"=>"Abteilung III Kammer 1", "french"=>"Cour III Chambre 1", "italian"=>"Corte III Camera 1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030178",
+  "name": {
+    "german": "Abteilung III Kammer 1",
+    "french": "Cour III Chambre 1",
+    "italian": "Corte III Camera 1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20030180",
+      "name": {
+        "german": "Abteilung III Kammer 1.1",
+        "french": "Cour III Chambre 1.1",
+        "italian": "Corte III Camera 1.1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030181",
+      "name": {
+        "german": "Abteilung III Kammer 1.2",
+        "french": "Cour III Chambre 1.2",
+        "italian": "Corte III Camera 1.2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030182",
+      "name": {
+        "german": "Abteilung III Kammer 1.3",
+        "french": "Cour III Chambre 1.3",
+        "italian": "Corte III Camera 1.3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030183",
+      "name": {
+        "german": "Abteilung III Kammer 1.4",
+        "french": "Cour III Chambre 1.4",
+        "italian": "Corte III Camera 1.4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030184",
+      "name": {
+        "german": "Abteilung III Kammer 1.5",
+        "french": "Cour III Chambre 1.5",
+        "italian": "Corte III Camera 1.5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030185",
+      "name": {
+        "german": "Abteilung III Kammer 1.6",
+        "french": "Cour III Chambre 1.6",
+        "italian": "Corte III Camera 1.6",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030186",
+      "name": {
+        "german": "Abteilung III Kammer 1.7",
+        "french": "Cour III Chambre 1.7",
+        "italian": "Corte III Camera 1.7",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030194",
+      "name": {
+        "german": "Abteilung III Kammer 1.9",
+        "french": "Cour III Chambre 1.9",
+        "italian": "Corte III Camera 1.9",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037447",
+      "name": {
+        "german": "Abteilung III Kammer 1.10",
+        "french": "Cour III Chambre 1.9",
+        "italian": "Corte III Camera 1.9",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040576",
+      "name": {
+        "german": "Abteilung III Kammer 1.11",
+        "french": "Cour III Chambre 1.9",
+        "italian": "Corte III Camera 1.9",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-9661739",
+      "surname": "Keel",
+      "givenName": "Madeleine",
+      "email": null,
+      "phone": "+41 58 46 52620",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung III",
+        "french": "Greffier/Greffière II Cour III",
+        "italian": "Cancelliere/a II Corte III",
+        "english": "Gerichtsschreiber/in II Abteilung III"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014818",
+      "label": {
+        "german": "Abteilung III - Ausländer, Gesundheit und Sozialversicherungen",
+        "french": "Cour III - étrangers, santé et assurances sociales",
+        "italian": "Corte III - stranieri, salute e previdenza sociale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung III - Ausländer, Gesundheit und Sozialversicherungen",
+        "french": "Cour III - étrangers, santé et assurances sociales",
+        "italian": "Corte III - stranieri, salute e previdenza sociale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030178",
+      "label": {
+        "german": "Abteilung III Kammer 1",
+        "french": "Cour III Chambre 1",
+        "italian": "Corte III Camera 1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung III Kammer 1",
+        "french": "Cour III Chambre 1",
+        "italian": "Corte III Camera 1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

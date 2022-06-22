@@ -1,1 +1,173 @@
-{"id"=>"20025501", "name"=>{"german"=>"Militärische Kartografie", "french"=>"Cartographie militaire", "italian"=>"Cartografia militare", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4883575", "surname"=>"Petersen", "givenName"=>"Monika", "email"=>nil, "phone"=>"+41 58 46 90590", "function"=>{"german"=>"TPzL MilKarto", "french"=>"Rpp Milcarto", "italian"=>"Rpp CartoMil", "english"=>"TPzL MilKarto"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4536364", "surname"=>"Weber", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 46 90592", "function"=>{"german"=>"Kartograf/in m. Spezialfunktion/Stv. TPL", "french"=>"Cartographe avec fonction spéc./Rspp", "italian"=>"Cartografo/a con spec./Rspp", "english"=>"Kartograf/in m. Spezialfunktion/Stv. TPL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"10003495", "label"=>{"german"=>"Kartografie", "french"=>"Cartographie", "italian"=>"Cartografia", "english"=>""}, "name"=>{"german"=>"Kartografie", "french"=>"Cartographie", "italian"=>"Cartografia", "english"=>""}}, {"id"=>"10003497", "label"=>{"german"=>"Kartografie Produktion", "french"=>"Cartographie topographique", "italian"=>"Cartografia topografica", "english"=>""}, "name"=>{"german"=>"Kartografie Produktion", "french"=>"Cartographie topographique", "italian"=>"Cartografia topografica", "english"=>""}}, {"id"=>"20025501", "label"=>{"german"=>"Militärische Kartografie", "french"=>"Cartographie militaire", "italian"=>"Cartografia militare", "english"=>""}, "name"=>{"german"=>"Militärische Kartografie", "french"=>"Cartographie militaire", "italian"=>"Cartografia militare", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025501",
+  "name": {
+    "german": "Militärische Kartografie",
+    "french": "Cartographie militaire",
+    "italian": "Cartografia militare",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4883575",
+      "surname": "Petersen",
+      "givenName": "Monika",
+      "email": null,
+      "phone": "+41 58 46 90590",
+      "function": {
+        "german": "TPzL MilKarto",
+        "french": "Rpp Milcarto",
+        "italian": "Rpp CartoMil",
+        "english": "TPzL MilKarto"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4536364",
+      "surname": "Weber",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 46 90592",
+      "function": {
+        "german": "Kartograf/in m. Spezialfunktion/Stv. TPL",
+        "french": "Cartographe avec fonction spéc./Rspp",
+        "italian": "Cartografo/a con spec./Rspp",
+        "english": "Kartograf/in m. Spezialfunktion/Stv. TPL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003495",
+      "label": {
+        "german": "Kartografie",
+        "french": "Cartographie",
+        "italian": "Cartografia",
+        "english": ""
+      },
+      "name": {
+        "german": "Kartografie",
+        "french": "Cartographie",
+        "italian": "Cartografia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003497",
+      "label": {
+        "german": "Kartografie Produktion",
+        "french": "Cartographie topographique",
+        "italian": "Cartografia topografica",
+        "english": ""
+      },
+      "name": {
+        "german": "Kartografie Produktion",
+        "french": "Cartographie topographique",
+        "italian": "Cartografia topografica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025501",
+      "label": {
+        "german": "Militärische Kartografie",
+        "french": "Cartographie militaire",
+        "italian": "Cartografia militare",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärische Kartografie",
+        "french": "Cartographie militaire",
+        "italian": "Cartografia militare",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

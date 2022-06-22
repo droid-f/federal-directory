@@ -1,1 +1,153 @@
-{"id"=>"30000042@10.03", "name"=>{"german"=>"Quality Assessment 2 (Synthetika)", "french"=>"Quality Assessment 2 (Synthetika)", "italian"=>"Quality Assessment 2 (Synthetika)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallerstrasse 7", "postalCode"=>"3012", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-4918414", "surname"=>"Spörri", "givenName"=>"Bernhard", "email"=>nil, "phone"=>"+41 58 46 20104", "function"=>{"german"=>"Leiter/in", "french"=>"Chef", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"30000028@10.03", "label"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}, "name"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}}, {"id"=>"30000030@10.03", "label"=>{"german"=>"Zulassung", "french"=>"Mise sur le marché", "italian"=>"Zulassung", "english"=>""}, "name"=>{"german"=>"Zulassung", "french"=>"Mise sur le marché", "italian"=>"Zulassung", "english"=>""}}, {"id"=>"30000040@10.03", "label"=>{"german"=>"Quality Assessment", "french"=>"Quality Assessment", "italian"=>"Quality Assessment", "english"=>""}, "name"=>{"german"=>"Quality Assessment", "french"=>"Quality Assessment", "italian"=>"Quality Assessment", "english"=>""}}, {"id"=>"30000042@10.03", "label"=>{"german"=>"Quality Assessment 2 (Synthetika)", "french"=>"Quality Assessment 2 (Synthetika)", "italian"=>"Quality Assessment 2 (Synthetika)", "english"=>""}, "name"=>{"german"=>"Quality Assessment 2 (Synthetika)", "french"=>"Quality Assessment 2 (Synthetika)", "italian"=>"Quality Assessment 2 (Synthetika)", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "30000042@10.03",
+  "name": {
+    "german": "Quality Assessment 2 (Synthetika)",
+    "french": "Quality Assessment 2 (Synthetika)",
+    "italian": "Quality Assessment 2 (Synthetika)",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallerstrasse 7",
+    "postalCode": "3012",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-4918414",
+      "surname": "Spörri",
+      "givenName": "Bernhard",
+      "email": null,
+      "phone": "+41 58 46 20104",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Chef",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000028@10.03",
+      "label": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      },
+      "name": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000030@10.03",
+      "label": {
+        "german": "Zulassung",
+        "french": "Mise sur le marché",
+        "italian": "Zulassung",
+        "english": ""
+      },
+      "name": {
+        "german": "Zulassung",
+        "french": "Mise sur le marché",
+        "italian": "Zulassung",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000040@10.03",
+      "label": {
+        "german": "Quality Assessment",
+        "french": "Quality Assessment",
+        "italian": "Quality Assessment",
+        "english": ""
+      },
+      "name": {
+        "german": "Quality Assessment",
+        "french": "Quality Assessment",
+        "italian": "Quality Assessment",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000042@10.03",
+      "label": {
+        "german": "Quality Assessment 2 (Synthetika)",
+        "french": "Quality Assessment 2 (Synthetika)",
+        "italian": "Quality Assessment 2 (Synthetika)",
+        "english": ""
+      },
+      "name": {
+        "german": "Quality Assessment 2 (Synthetika)",
+        "french": "Quality Assessment 2 (Synthetika)",
+        "italian": "Quality Assessment 2 (Synthetika)",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

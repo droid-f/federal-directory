@@ -1,1 +1,202 @@
-{"id"=>"10009471", "name"=>{"german"=>"Präsenz Schweiz", "french"=>"Présence Suisse", "italian"=>"Presenza Svizzera", "english"=>"Presence Switzerland"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 32", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009478", "name"=>{"german"=>"Aktivitäten Aussennetz", "french"=>"Activités réseau extérieur", "italian"=>"Attività rete esterna", "english"=>"Activities Swiss Representations Abroad"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021628", "name"=>{"german"=>"Strategie und Analyse", "french"=>"Stratégie et analyse", "italian"=>"Strategia e analisi", "english"=>"Strategy and Analysis"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009481", "name"=>{"german"=>"Marketing und Kampagnen", "french"=>"Marketing et campagnes", "italian"=>"Marketing e campagne", "english"=>"Maketing and Campaigns"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20019601", "name"=>{"german"=>"Events und Produkte", "french"=>"Événements et produits", "italian"=>"Eventi e prodotti", "english"=>"Events and Products"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0869263", "surname"=>"Bideau", "givenName"=>"Nicolas", "email"=>nil, "phone"=>"+41 58 46 34591", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3039279", "surname"=>"Fankhauser", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 50747", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000530", "label"=>{"german"=>"GS-EDA", "french"=>"SG-DFAE", "italian"=>"SG-DFAE", "english"=>"FDFA-GS"}, "name"=>{"german"=>"Generalsekretariat EDA", "french"=>"Secrétariat général DFAE", "italian"=>"Segreteria generale DFAE", "english"=>"FDFA General Secretariat"}}, {"id"=>"10009471", "label"=>{"german"=>"Präsenz Schweiz", "french"=>"Présence Suisse", "italian"=>"Presenza Svizzera", "english"=>"Presence Switzerland"}, "name"=>{"german"=>"Präsenz Schweiz", "french"=>"Présence Suisse", "italian"=>"Presenza Svizzera", "english"=>"Presence Switzerland"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009471",
+  "name": {
+    "german": "Präsenz Schweiz",
+    "french": "Présence Suisse",
+    "italian": "Presenza Svizzera",
+    "english": "Presence Switzerland"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 32",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009478",
+      "name": {
+        "german": "Aktivitäten Aussennetz",
+        "french": "Activités réseau extérieur",
+        "italian": "Attività rete esterna",
+        "english": "Activities Swiss Representations Abroad"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021628",
+      "name": {
+        "german": "Strategie und Analyse",
+        "french": "Stratégie et analyse",
+        "italian": "Strategia e analisi",
+        "english": "Strategy and Analysis"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009481",
+      "name": {
+        "german": "Marketing und Kampagnen",
+        "french": "Marketing et campagnes",
+        "italian": "Marketing e campagne",
+        "english": "Maketing and Campaigns"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20019601",
+      "name": {
+        "german": "Events und Produkte",
+        "french": "Événements et produits",
+        "italian": "Eventi e prodotti",
+        "english": "Events and Products"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0869263",
+      "surname": "Bideau",
+      "givenName": "Nicolas",
+      "email": null,
+      "phone": "+41 58 46 34591",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3039279",
+      "surname": "Fankhauser",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 50747",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000530",
+      "label": {
+        "german": "GS-EDA",
+        "french": "SG-DFAE",
+        "italian": "SG-DFAE",
+        "english": "FDFA-GS"
+      },
+      "name": {
+        "german": "Generalsekretariat EDA",
+        "french": "Secrétariat général DFAE",
+        "italian": "Segreteria generale DFAE",
+        "english": "FDFA General Secretariat"
+      }
+    },
+    {
+      "id": "10009471",
+      "label": {
+        "german": "Präsenz Schweiz",
+        "french": "Présence Suisse",
+        "italian": "Presenza Svizzera",
+        "english": "Presence Switzerland"
+      },
+      "name": {
+        "german": "Präsenz Schweiz",
+        "french": "Présence Suisse",
+        "italian": "Presenza Svizzera",
+        "english": "Presence Switzerland"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

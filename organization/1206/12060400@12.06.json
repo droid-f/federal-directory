@@ -1,1 +1,262 @@
-{"id"=>"12060400@12.06", "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"12060404@12.06", "name"=>{"german"=>"Internationale Handelsbeziehungen", "french"=>"Relations commerciales internationales", "italian"=>"Diritto e affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060405@12.06", "name"=>{"german"=>"Nachhaltige Entwicklung & Internationale Kooperation", "french"=>"Développement durable & coopération internationale", "italian"=>"Sviluppo sostenibile & cooperazione internazionale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060403@12.06", "name"=>{"german"=>"Ökonomie", "french"=>"Economie", "italian"=>"Economia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060406@12.06", "name"=>{"german"=>"Rechtsdienst Allgemeines Recht, Designs & Rechtsdurchsetzung", "french"=>"Service juridique Droit général, designs & mise en oeuvre du droit", "italian"=>"Servizio giuridico Diritto generale, designs & attuazione del diritto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060407@12.06", "name"=>{"german"=>"Rechtsdienst Gewerbliche Schutzrechte", "french"=>"Service juridique Droits de propriété industrielle", "italian"=>"Servizio giuridico Diritti di proprietà industriale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060408@12.06", "name"=>{"german"=>"Rechtsdienst Urheberrecht", "french"=>"Service juridique Droit d'auteur", "italian"=>"Servizio giuridico diritto d'autore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060409@12.06", "name"=>{"german"=>"Sprachdienst", "french"=>"Services linguistiques", "italian"=>"Servizi linguistici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060401@12.06", "name"=>{"german"=>"Stab & Abteilungssekretariat R&I", "french"=>"État-major et secrétariat Droit & Affaires internationales", "italian"=>"Stato maggiore e segreteria Diritto & Affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>164, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-2318466", "surname"=>"Addor", "givenName"=>"Felix", "email"=>nil, "phone"=>"+41 31 377 72 01", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>165, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-6547276", "surname"=>"Herren", "givenName"=>"Jürg", "email"=>nil, "phone"=>"+41 31 377 72 16", "function"=>{"german"=>"Stellvertretung", "french"=>"Stellvertretung", "italian"=>"Stellvertretung", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060400@12.06", "label"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060400@12.06",
+  "name": {
+    "german": "Recht & Internationales",
+    "french": "Droit & affaires internationales",
+    "italian": "Diritto & affari internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "12060404@12.06",
+      "name": {
+        "german": "Internationale Handelsbeziehungen",
+        "french": "Relations commerciales internationales",
+        "italian": "Diritto e affari internazionali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060405@12.06",
+      "name": {
+        "german": "Nachhaltige Entwicklung & Internationale Kooperation",
+        "french": "Développement durable & coopération internationale",
+        "italian": "Sviluppo sostenibile & cooperazione internazionale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060403@12.06",
+      "name": {
+        "german": "Ökonomie",
+        "french": "Economie",
+        "italian": "Economia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060406@12.06",
+      "name": {
+        "german": "Rechtsdienst Allgemeines Recht, Designs & Rechtsdurchsetzung",
+        "french": "Service juridique Droit général, designs & mise en oeuvre du droit",
+        "italian": "Servizio giuridico Diritto generale, designs & attuazione del diritto",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060407@12.06",
+      "name": {
+        "german": "Rechtsdienst Gewerbliche Schutzrechte",
+        "french": "Service juridique Droits de propriété industrielle",
+        "italian": "Servizio giuridico Diritti di proprietà industriale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060408@12.06",
+      "name": {
+        "german": "Rechtsdienst Urheberrecht",
+        "french": "Service juridique Droit d'auteur",
+        "italian": "Servizio giuridico diritto d'autore",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060409@12.06",
+      "name": {
+        "german": "Sprachdienst",
+        "french": "Services linguistiques",
+        "italian": "Servizi linguistici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060401@12.06",
+      "name": {
+        "german": "Stab & Abteilungssekretariat R&I",
+        "french": "État-major et secrétariat Droit & Affaires internationales",
+        "italian": "Stato maggiore e segreteria Diritto & Affari internazionali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": 164,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-2318466",
+      "surname": "Addor",
+      "givenName": "Felix",
+      "email": null,
+      "phone": "+41 31 377 72 01",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 165,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-6547276",
+      "surname": "Herren",
+      "givenName": "Jürg",
+      "email": null,
+      "phone": "+41 31 377 72 16",
+      "function": {
+        "german": "Stellvertretung",
+        "french": "Stellvertretung",
+        "italian": "Stellvertretung",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060400@12.06",
+      "label": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

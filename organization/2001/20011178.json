@@ -1,1 +1,184 @@
-{"id"=>"20011178", "name"=>{"german"=>"Kdt Stv / Stab / Planung VT UOS/RS 47", "french"=>"Rempl cdt/EM/planification ER/ESO CT 47", "italian"=>"Sost cdt / SM / Pianif SSU/SR CT 47", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo VT Schule 47", "street"=>"Caserne Drognens", "postalCode"=>"1680", "location"=>"Romont", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20017756", "name"=>{"german"=>"Verpflegungszentrum VT UOS/RS 47", "french"=>"Centre de subsistance ER/ESO CT 47", "italian"=>"Centro di sussistenza SSU/SR CT 47", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015872", "label"=>{"german"=>"LVBLOG", "french"=>"LVBLOG", "italian"=>"LVBLOG", "english"=>""}, "name"=>{"german"=>"Lehrverband Logistik", "french"=>"Formation d'application de la logistique", "italian"=>"FOA della logistica", "english"=>""}}, {"id"=>"20011166", "label"=>{"german"=>"Kdo Verkehr und Transport UOS/RS 47", "french"=>"Cdmt ER/ESO circ et trsp ER/ESO 47", "italian"=>"Cdo SSU/SR circolazione e trasporto 47", "english"=>""}, "name"=>{"german"=>"Kdo Verkehr und Transport UOS/RS 47", "french"=>"Cdmt ER/ESO circ et trsp ER/ESO 47", "italian"=>"Cdo SSU/SR circolazione e trasporto 47", "english"=>""}}, {"id"=>"20011178", "label"=>{"german"=>"Kdt Stv / Stab / Planung VT UOS/RS 47", "french"=>"Rempl cdt/EM/planification ER/ESO CT 47", "italian"=>"Sost cdt / SM / Pianif SSU/SR CT 47", "english"=>""}, "name"=>{"german"=>"Kdt Stv / Stab / Planung VT UOS/RS 47", "french"=>"Rempl cdt/EM/planification ER/ESO CT 47", "italian"=>"Sost cdt / SM / Pianif SSU/SR CT 47", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011178",
+  "name": {
+    "german": "Kdt Stv / Stab / Planung VT UOS/RS 47",
+    "french": "Rempl cdt/EM/planification ER/ESO CT 47",
+    "italian": "Sost cdt / SM / Pianif SSU/SR CT 47",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo VT Schule 47",
+    "street": "Caserne Drognens",
+    "postalCode": "1680",
+    "location": "Romont",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20017756",
+      "name": {
+        "german": "Verpflegungszentrum VT UOS/RS 47",
+        "french": "Centre de subsistance ER/ESO CT 47",
+        "italian": "Centro di sussistenza SSU/SR CT 47",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015872",
+      "label": {
+        "german": "LVBLOG",
+        "french": "LVBLOG",
+        "italian": "LVBLOG",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Logistik",
+        "french": "Formation d'application de la logistique",
+        "italian": "FOA della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011166",
+      "label": {
+        "german": "Kdo Verkehr und Transport UOS/RS 47",
+        "french": "Cdmt ER/ESO circ et trsp ER/ESO 47",
+        "italian": "Cdo SSU/SR circolazione e trasporto 47",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Verkehr und Transport UOS/RS 47",
+        "french": "Cdmt ER/ESO circ et trsp ER/ESO 47",
+        "italian": "Cdo SSU/SR circolazione e trasporto 47",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011178",
+      "label": {
+        "german": "Kdt Stv / Stab / Planung VT UOS/RS 47",
+        "french": "Rempl cdt/EM/planification ER/ESO CT 47",
+        "italian": "Sost cdt / SM / Pianif SSU/SR CT 47",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdt Stv / Stab / Planung VT UOS/RS 47",
+        "french": "Rempl cdt/EM/planification ER/ESO CT 47",
+        "italian": "Sost cdt / SM / Pianif SSU/SR CT 47",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

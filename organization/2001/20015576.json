@@ -1,1 +1,155 @@
-{"id"=>"20015576", "name"=>{"german"=>"Bar und Kiosk", "french"=>"Bar et kiosque", "italian"=>"Bar e chiosco", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Via Brere", "postalCode"=>"6598", "location"=>"Tenero", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10005075", "label"=>{"german"=>"Nationales Jugensportzentrum Tenero CST", "french"=>"Centre sportif national de la jeunesse Tenero CST", "italian"=>"Centro sportivo nazionale della gioventù Tenero CST", "english"=>""}, "name"=>{"german"=>"Nationales Jugensportzentrum Tenero CST", "french"=>"Centre sportif national de la jeunesse Tenero CST", "italian"=>"Centro sportivo nazionale della gioventù Tenero CST", "english"=>""}}, {"id"=>"10005084", "label"=>{"german"=>"Unterkunft/Restauration/Reinigung", "french"=>"Hébergement/Restauration/Entretien", "italian"=>"Alloggi/Ristorazione/Pulizie", "english"=>""}, "name"=>{"german"=>"Unterkunft/Restauration/Reinigung", "french"=>"Hébergement/Restauration/Entretien", "italian"=>"Alloggi/Ristorazione/Pulizie", "english"=>""}}, {"id"=>"20042933", "label"=>{"german"=>"Reinigung / Bar und Kiosk", "french"=>"Hébergement/Bar et kiosque", "italian"=>"Alloggi/Bar e chiosco", "english"=>""}, "name"=>{"german"=>"Reinigung / Bar und Kiosk", "french"=>"Hébergement/Bar et kiosque", "italian"=>"Alloggi/Bar e chiosco", "english"=>""}}, {"id"=>"20015576", "label"=>{"german"=>"Bar und Kiosk", "french"=>"Bar et kiosque", "italian"=>"Bar e chiosco", "english"=>""}, "name"=>{"german"=>"Bar und Kiosk", "french"=>"Bar et kiosque", "italian"=>"Bar e chiosco", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20015576",
+  "name": {
+    "german": "Bar und Kiosk",
+    "french": "Bar et kiosque",
+    "italian": "Bar e chiosco",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Via Brere",
+    "postalCode": "6598",
+    "location": "Tenero",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005075",
+      "label": {
+        "german": "Nationales Jugensportzentrum Tenero CST",
+        "french": "Centre sportif national de la jeunesse Tenero CST",
+        "italian": "Centro sportivo nazionale della gioventù Tenero CST",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationales Jugensportzentrum Tenero CST",
+        "french": "Centre sportif national de la jeunesse Tenero CST",
+        "italian": "Centro sportivo nazionale della gioventù Tenero CST",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005084",
+      "label": {
+        "german": "Unterkunft/Restauration/Reinigung",
+        "french": "Hébergement/Restauration/Entretien",
+        "italian": "Alloggi/Ristorazione/Pulizie",
+        "english": ""
+      },
+      "name": {
+        "german": "Unterkunft/Restauration/Reinigung",
+        "french": "Hébergement/Restauration/Entretien",
+        "italian": "Alloggi/Ristorazione/Pulizie",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042933",
+      "label": {
+        "german": "Reinigung / Bar und Kiosk",
+        "french": "Hébergement/Bar et kiosque",
+        "italian": "Alloggi/Bar e chiosco",
+        "english": ""
+      },
+      "name": {
+        "german": "Reinigung / Bar und Kiosk",
+        "french": "Hébergement/Bar et kiosque",
+        "italian": "Alloggi/Bar e chiosco",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015576",
+      "label": {
+        "german": "Bar und Kiosk",
+        "french": "Bar et kiosque",
+        "italian": "Bar e chiosco",
+        "english": ""
+      },
+      "name": {
+        "german": "Bar und Kiosk",
+        "french": "Bar et kiosque",
+        "italian": "Bar e chiosco",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

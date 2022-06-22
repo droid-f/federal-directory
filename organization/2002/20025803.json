@@ -1,1 +1,156 @@
-{"id"=>"20025803", "name"=>{"german"=>"Personalinformationssysteme", "french"=>"Systèmes d'information sur le personnel", "italian"=>"Sistemi d'informazione sul personale", "english"=>"Personnel Information Systems"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2132789", "surname"=>"Heeb", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 67709", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"10000584", "label"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}, "name"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}}, {"id"=>"20025802", "label"=>{"german"=>"HR-Ressourcenplanung", "french"=>"Planification des ressources RH", "italian"=>"Pianificazione delle risorse RU", "english"=>"HR Resources Planning"}, "name"=>{"german"=>"HR-Ressourcenplanung", "french"=>"Planification des ressources RH", "italian"=>"Pianificazione delle risorse RU", "english"=>"HR Resources Planning"}}, {"id"=>"20025803", "label"=>{"german"=>"Personalinformationssysteme", "french"=>"Systèmes d'information sur le personnel", "italian"=>"Sistemi d'informazione sul personale", "english"=>"Personnel Information Systems"}, "name"=>{"german"=>"Personalinformationssysteme", "french"=>"Systèmes d'information sur le personnel", "italian"=>"Sistemi d'informazione sul personale", "english"=>"Personnel Information Systems"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025803",
+  "name": {
+    "german": "Personalinformationssysteme",
+    "french": "Systèmes d'information sur le personnel",
+    "italian": "Sistemi d'informazione sul personale",
+    "english": "Personnel Information Systems"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2132789",
+      "surname": "Heeb",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 67709",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "10000584",
+      "label": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      },
+      "name": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      }
+    },
+    {
+      "id": "20025802",
+      "label": {
+        "german": "HR-Ressourcenplanung",
+        "french": "Planification des ressources RH",
+        "italian": "Pianificazione delle risorse RU",
+        "english": "HR Resources Planning"
+      },
+      "name": {
+        "german": "HR-Ressourcenplanung",
+        "french": "Planification des ressources RH",
+        "italian": "Pianificazione delle risorse RU",
+        "english": "HR Resources Planning"
+      }
+    },
+    {
+      "id": "20025803",
+      "label": {
+        "german": "Personalinformationssysteme",
+        "french": "Systèmes d'information sur le personnel",
+        "italian": "Sistemi d'informazione sul personale",
+        "english": "Personnel Information Systems"
+      },
+      "name": {
+        "german": "Personalinformationssysteme",
+        "french": "Systèmes d'information sur le personnel",
+        "italian": "Sistemi d'informazione sul personale",
+        "english": "Personnel Information Systems"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

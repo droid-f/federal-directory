@@ -1,1 +1,202 @@
-{"id"=>"20033881", "name"=>{"german"=>"Informatik und Logistik", "french"=>"Informatique et logistique", "italian"=>"Informatica e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Einsteinstrasse 2", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20033880", "name"=>{"german"=>"Dokumentenverwaltung", "french"=>"Gestion des documents", "italian"=>"Gestione dei documenti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034004", "name"=>{"german"=>"Logistik und Empfang", "french"=>"Logistique et réception", "italian"=>"Logistica e ricezione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1375712", "surname"=>"Trachsler", "givenName"=>"Tobias", "email"=>nil, "phone"=>"+41 58 46 32709", "function"=>{"german"=>"Leiter/in Ressort, Integration Manager", "french"=>"Chef(fe) de l'unité, integration Manager", "italian"=>"Capounità, integration Manager", "english"=>"Leiter/in Ressort, Integration Manager"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5645195", "surname"=>"Hiroz", "givenName"=>"Olivier", "email"=>nil, "phone"=>"+41 58 46 35233", "function"=>{"german"=>"Projektverantwortliche/r, Stv. Leiter/in", "french"=>"Resp. de projets, chef/fe suppléant/e", "italian"=>"Resp. di progetto, capounità supplente", "english"=>"Projektverantwortliche/r, Stv. Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"20033802", "label"=>{"german"=>"SBFI", "french"=>"SEFRI", "italian"=>"SEFRI", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Bildung, Forschung und Innovation", "french"=>"Secrétariat d'Etat à la formation, à la recherche et à l'innovation", "italian"=>"Segreteria di Stato per la formazione, la ricerca e l'innovazione", "english"=>""}}, {"id"=>"20033803", "label"=>{"german"=>"SBFI", "french"=>"SBFI", "italian"=>"SBFI", "english"=>""}, "name"=>{"german"=>"Direktion SBFI", "french"=>"Direction SEFRI", "italian"=>"Direzione SEFRI", "english"=>""}}, {"id"=>"20033818", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"20033881", "label"=>{"german"=>"Informatik und Logistik", "french"=>"Informatique et logistique", "italian"=>"Informatica e logistica", "english"=>""}, "name"=>{"german"=>"Informatik und Logistik", "french"=>"Informatique et logistique", "italian"=>"Informatica e logistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20033881",
+  "name": {
+    "german": "Informatik und Logistik",
+    "french": "Informatique et logistique",
+    "italian": "Informatica e logistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Einsteinstrasse 2",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20033880",
+      "name": {
+        "german": "Dokumentenverwaltung",
+        "french": "Gestion des documents",
+        "italian": "Gestione dei documenti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034004",
+      "name": {
+        "german": "Logistik und Empfang",
+        "french": "Logistique et réception",
+        "italian": "Logistica e ricezione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1375712",
+      "surname": "Trachsler",
+      "givenName": "Tobias",
+      "email": null,
+      "phone": "+41 58 46 32709",
+      "function": {
+        "german": "Leiter/in Ressort, Integration Manager",
+        "french": "Chef(fe) de l'unité, integration Manager",
+        "italian": "Capounità, integration Manager",
+        "english": "Leiter/in Ressort, Integration Manager"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5645195",
+      "surname": "Hiroz",
+      "givenName": "Olivier",
+      "email": null,
+      "phone": "+41 58 46 35233",
+      "function": {
+        "german": "Projektverantwortliche/r, Stv. Leiter/in",
+        "french": "Resp. de projets, chef/fe suppléant/e",
+        "italian": "Resp. di progetto, capounità supplente",
+        "english": "Projektverantwortliche/r, Stv. Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033802",
+      "label": {
+        "german": "SBFI",
+        "french": "SEFRI",
+        "italian": "SEFRI",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Bildung, Forschung und Innovation",
+        "french": "Secrétariat d'Etat à la formation, à la recherche et à l'innovation",
+        "italian": "Segreteria di Stato per la formazione, la ricerca e l'innovazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033803",
+      "label": {
+        "german": "SBFI",
+        "french": "SBFI",
+        "italian": "SBFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SBFI",
+        "french": "Direction SEFRI",
+        "italian": "Direzione SEFRI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033818",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033881",
+      "label": {
+        "german": "Informatik und Logistik",
+        "french": "Informatique et logistique",
+        "italian": "Informatica e logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik und Logistik",
+        "french": "Informatique et logistique",
+        "italian": "Informatica e logistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

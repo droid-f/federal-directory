@@ -1,1 +1,185 @@
-{"id"=>"60034430@11.05", "name"=>{"german"=>"Instandhaltung Armeematerial", "french"=>"Instandhaltung Armeematerial", "italian"=>"Instandhaltung Armeematerial", "english"=>""}, "nameAbbr"=>{"german"=>"BAAOFG", "french"=>"BAAOFG", "italian"=>"BAAOFG", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seetalstrasse", "postalCode"=>"6032", "location"=>"Emmen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031750@11.05", "label"=>{"german"=>"BAA", "french"=>"BAA", "italian"=>"BAA", "english"=>""}, "name"=>{"german"=>"Business Area Air", "french"=>"Business Area Air", "italian"=>"Business Area Air", "english"=>""}}, {"id"=>"60031760@11.05", "label"=>{"german"=>"BAAO", "french"=>"BAAO", "italian"=>"BAAO", "english"=>""}, "name"=>{"german"=>"Operations", "french"=>"Operations", "italian"=>"Operations", "english"=>""}}, {"id"=>"60031802@11.05", "label"=>{"german"=>"BAAOF", "french"=>"BAAOF", "italian"=>"BAAOF", "english"=>""}, "name"=>{"german"=>"Calibration Services", "french"=>"Calibration Services", "italian"=>"Calibration Services", "english"=>""}}, {"id"=>"60034430@11.05", "label"=>{"german"=>"BAAOFG", "french"=>"BAAOFG", "italian"=>"BAAOFG", "english"=>""}, "name"=>{"german"=>"Instandhaltung Armeematerial", "french"=>"Instandhaltung Armeematerial", "italian"=>"Instandhaltung Armeematerial", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60034430@11.05",
+  "name": {
+    "german": "Instandhaltung Armeematerial",
+    "french": "Instandhaltung Armeematerial",
+    "italian": "Instandhaltung Armeematerial",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BAAOFG",
+    "french": "BAAOFG",
+    "italian": "BAAOFG",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seetalstrasse",
+    "postalCode": "6032",
+    "location": "Emmen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031750@11.05",
+      "label": {
+        "german": "BAA",
+        "french": "BAA",
+        "italian": "BAA",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Area Air",
+        "french": "Business Area Air",
+        "italian": "Business Area Air",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031760@11.05",
+      "label": {
+        "german": "BAAO",
+        "french": "BAAO",
+        "italian": "BAAO",
+        "english": ""
+      },
+      "name": {
+        "german": "Operations",
+        "french": "Operations",
+        "italian": "Operations",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031802@11.05",
+      "label": {
+        "german": "BAAOF",
+        "french": "BAAOF",
+        "italian": "BAAOF",
+        "english": ""
+      },
+      "name": {
+        "german": "Calibration Services",
+        "french": "Calibration Services",
+        "italian": "Calibration Services",
+        "english": ""
+      }
+    },
+    {
+      "id": "60034430@11.05",
+      "label": {
+        "german": "BAAOFG",
+        "french": "BAAOFG",
+        "italian": "BAAOFG",
+        "english": ""
+      },
+      "name": {
+        "german": "Instandhaltung Armeematerial",
+        "french": "Instandhaltung Armeematerial",
+        "italian": "Instandhaltung Armeematerial",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

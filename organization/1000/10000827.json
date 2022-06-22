@@ -1,1 +1,214 @@
-{"id"=>"10000827", "name"=>{"german"=>"Botschaft Caracas", "french"=>"Ambassade de Caracas", "italian"=>"Ambasciata a Caracas", "english"=>"Embassy in Caracas"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20022214", "name"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20022215", "name"=>{"german"=>"Dienstleistungen und Betrieb", "french"=>"Prestations de service et exploitation", "italian"=>"Affari consolari e amministrativi", "english"=>"Services and operations"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039502", "name"=>{"german"=>"Honorarvertretungen", "french"=>"Représentations honoraires", "italian"=>"Rappresentanze onorarie", "english"=>"Honorary representations"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049801", "name"=>{"german"=>"Humanitäre Hilfe", "french"=>"Aide humanitaire", "italian"=>"Aiuto umanitario", "english"=>"Humanitarian Aid"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035236", "label"=>{"german"=>"Amerika", "french"=>"Amérique", "italian"=>"America", "english"=>"America"}, "name"=>{"german"=>"Amerika", "french"=>"Amérique", "italian"=>"America", "english"=>"America"}}, {"id"=>"20035310", "label"=>{"german"=>"Venezuela", "french"=>"Venezuela", "italian"=>"Venezuela", "english"=>"Venezuela"}, "name"=>{"german"=>"Venezuela", "french"=>"Venezuela", "italian"=>"Venezuela", "english"=>"Venezuela"}}, {"id"=>"10000827", "label"=>{"german"=>"Botschaft Caracas", "french"=>"Ambassade de Caracas", "italian"=>"Ambasciata a Caracas", "english"=>"Embassy in Caracas"}, "name"=>{"german"=>"Botschaft Caracas", "french"=>"Ambassade de Caracas", "italian"=>"Ambasciata a Caracas", "english"=>"Embassy in Caracas"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000827",
+  "name": {
+    "german": "Botschaft Caracas",
+    "french": "Ambassade de Caracas",
+    "italian": "Ambasciata a Caracas",
+    "english": "Embassy in Caracas"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20022214",
+      "name": {
+        "german": "Diplomatische Aufgaben",
+        "french": "Fonctions diplomatiques",
+        "italian": "Funzioni diplomatiche",
+        "english": "Diplomatic tasks"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022215",
+      "name": {
+        "german": "Dienstleistungen und Betrieb",
+        "french": "Prestations de service et exploitation",
+        "italian": "Affari consolari e amministrativi",
+        "english": "Services and operations"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039502",
+      "name": {
+        "german": "Honorarvertretungen",
+        "french": "Représentations honoraires",
+        "italian": "Rappresentanze onorarie",
+        "english": "Honorary representations"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049801",
+      "name": {
+        "german": "Humanitäre Hilfe",
+        "french": "Aide humanitaire",
+        "italian": "Aiuto umanitario",
+        "english": "Humanitarian Aid"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035236",
+      "label": {
+        "german": "Amerika",
+        "french": "Amérique",
+        "italian": "America",
+        "english": "America"
+      },
+      "name": {
+        "german": "Amerika",
+        "french": "Amérique",
+        "italian": "America",
+        "english": "America"
+      }
+    },
+    {
+      "id": "20035310",
+      "label": {
+        "german": "Venezuela",
+        "french": "Venezuela",
+        "italian": "Venezuela",
+        "english": "Venezuela"
+      },
+      "name": {
+        "german": "Venezuela",
+        "french": "Venezuela",
+        "italian": "Venezuela",
+        "english": "Venezuela"
+      }
+    },
+    {
+      "id": "10000827",
+      "label": {
+        "german": "Botschaft Caracas",
+        "french": "Ambassade de Caracas",
+        "italian": "Ambasciata a Caracas",
+        "english": "Embassy in Caracas"
+      },
+      "name": {
+        "german": "Botschaft Caracas",
+        "french": "Ambassade de Caracas",
+        "italian": "Ambasciata a Caracas",
+        "english": "Embassy in Caracas"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

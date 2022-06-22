@@ -1,1 +1,155 @@
-{"id"=>"20043304", "name"=>{"german"=>"Lufttüchtigkeit", "french"=>"Navigabilité", "italian"=>"Navigabilità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Rüeggisingerstrasse 165", "postalCode"=>"6032", "location"=>"Emmen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004019", "label"=>{"german"=>"Luftfahrtsysteme", "french"=>"Systèmes aéronautiques", "italian"=>"Sistemi aeronautici", "english"=>""}, "name"=>{"german"=>"Luftfahrtsysteme", "french"=>"Systèmes aéronautiques", "italian"=>"Sistemi aeronautici", "english"=>""}}, {"id"=>"20004145", "label"=>{"german"=>"Qualitätsmanagement und Lufttüchtigkeit", "french"=>"Gestion de la qualité et navigabilité", "italian"=>"Gestione della qualità e navigabilità", "english"=>""}, "name"=>{"german"=>"Qualitätsmanagement und Lufttüchtigkeit", "french"=>"Gestion de la qualité et navigabilité", "italian"=>"Gestione della qualità e navigabilità", "english"=>""}}, {"id"=>"20043304", "label"=>{"german"=>"Lufttüchtigkeit", "french"=>"Navigabilité", "italian"=>"Navigabilità", "english"=>""}, "name"=>{"german"=>"Lufttüchtigkeit", "french"=>"Navigabilité", "italian"=>"Navigabilità", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20043304",
+  "name": {
+    "german": "Lufttüchtigkeit",
+    "french": "Navigabilité",
+    "italian": "Navigabilità",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Rüeggisingerstrasse 165",
+    "postalCode": "6032",
+    "location": "Emmen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004019",
+      "label": {
+        "german": "Luftfahrtsysteme",
+        "french": "Systèmes aéronautiques",
+        "italian": "Sistemi aeronautici",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftfahrtsysteme",
+        "french": "Systèmes aéronautiques",
+        "italian": "Sistemi aeronautici",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004145",
+      "label": {
+        "german": "Qualitätsmanagement und Lufttüchtigkeit",
+        "french": "Gestion de la qualité et navigabilité",
+        "italian": "Gestione della qualità e navigabilità",
+        "english": ""
+      },
+      "name": {
+        "german": "Qualitätsmanagement und Lufttüchtigkeit",
+        "french": "Gestion de la qualité et navigabilité",
+        "italian": "Gestione della qualità e navigabilità",
+        "english": ""
+      }
+    },
+    {
+      "id": "20043304",
+      "label": {
+        "german": "Lufttüchtigkeit",
+        "french": "Navigabilité",
+        "italian": "Navigabilità",
+        "english": ""
+      },
+      "name": {
+        "german": "Lufttüchtigkeit",
+        "french": "Navigabilité",
+        "italian": "Navigabilità",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

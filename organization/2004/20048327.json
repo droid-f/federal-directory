@@ -1,1 +1,110 @@
-{"id"=>"20048327", "name"=>{"german"=>"Gesetzgebung, Kantone", "french"=>"Législation, Cantons", "italian"=>"Legislazione, Cantoni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Feldeggweg 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002693", "label"=>{"german"=>"EDÖB", "french"=>"PFPDT", "italian"=>"IFPDT", "english"=>"EDÖB"}, "name"=>{"german"=>"Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter", "french"=>"Préposé fédéral à la protection des données et à la transparence", "italian"=>"Incaricato federale della protezione dei dati e della trasparenza", "english"=>"EDÖB"}}, {"id"=>"20048327", "label"=>{"german"=>"Gesetzgebung, Kantone", "french"=>"Législation, Cantons", "italian"=>"Legislazione, Cantoni", "english"=>""}, "name"=>{"german"=>"Gesetzgebung, Kantone", "french"=>"Législation, Cantons", "italian"=>"Legislazione, Cantoni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048327",
+  "name": {
+    "german": "Gesetzgebung, Kantone",
+    "french": "Législation, Cantons",
+    "italian": "Legislazione, Cantoni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Feldeggweg 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002693",
+      "label": {
+        "german": "EDÖB",
+        "french": "PFPDT",
+        "italian": "IFPDT",
+        "english": "EDÖB"
+      },
+      "name": {
+        "german": "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter",
+        "french": "Préposé fédéral à la protection des données et à la transparence",
+        "italian": "Incaricato federale della protezione dei dati e della trasparenza",
+        "english": "EDÖB"
+      }
+    },
+    {
+      "id": "20048327",
+      "label": {
+        "german": "Gesetzgebung, Kantone",
+        "french": "Législation, Cantons",
+        "italian": "Legislazione, Cantoni",
+        "english": ""
+      },
+      "name": {
+        "german": "Gesetzgebung, Kantone",
+        "french": "Législation, Cantons",
+        "italian": "Legislazione, Cantoni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,292 @@
-{"id"=>"10004674", "name"=>{"german"=>"Sektion Betriebs- und Unternehmensregister", "french"=>"Section Registre des entreprises et des établissements", "italian"=>"Sezione Registro delle imprese e degli stabilimenti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20010627", "name"=>{"german"=>"UID", "french"=>"UID", "italian"=>"UID", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034149", "name"=>{"german"=>"Wartung und Entwicklung", "french"=>"Maintenance et développement", "italian"=>"Maintenance et développement", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012568", "name"=>{"german"=>"Aktualisierung und QS", "french"=>"Actualisation et QS", "italian"=>"Aggiornamento e QS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034148", "name"=>{"german"=>"Service und Auswertungen", "french"=>"Service et assurance qualité", "italian"=>"Servizi e assicurazione qualità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005656", "name"=>{"german"=>"Profiling", "french"=>"Profiling", "italian"=>"Profiling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027547", "name"=>{"german"=>"AGR-Aktualisierung", "french"=>"AGR-actualisation", "italian"=>"AGR-Aggiornamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045805", "name"=>{"german"=>"Pool Extern Westschweiz", "french"=>"Pool Extern Westschweiz", "italian"=>"Pool Extern Westschweiz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045778", "name"=>{"german"=>"Pool Extern Mittelland", "french"=>"Pool Extern Mittelland", "italian"=>"Pool Extern Mittelland", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7447179", "surname"=>"Tomasini", "givenName"=>"Fabio", "email"=>nil, "phone"=>"+41 58 46 36438", "function"=>{"german"=>"Sektionschef/in, Stv AC", "french"=>"Sektionschef/in, Stv AC", "italian"=>"Sektionschef/in, Stv AC", "english"=>"Sektionschef/in, Stv AC"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3307867", "surname"=>"Koller", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 46 36594", "function"=>{"german"=>"Gruppenleiter/in, Stv SC", "french"=>"Gruppenleiter/in, Stv SC", "italian"=>"Gruppenleiter/in, Stv SC", "english"=>"Gruppenleiter/in, Stv SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004641", "label"=>{"german"=>"Abteilung Interoperabilität und Register", "french"=>"Division Interopérabilité et registres", "italian"=>"Divisone Interoperabilità et registri", "english"=>""}, "name"=>{"german"=>"Abteilung Interoperabilität und Register", "french"=>"Division Interopérabilité et registres", "italian"=>"Divisone Interoperabilità et registri", "english"=>""}}, {"id"=>"10004674", "label"=>{"german"=>"Sektion Betriebs- und Unternehmensregister", "french"=>"Section Registre des entreprises et des établissements", "italian"=>"Sezione Registro delle imprese e degli stabilimenti", "english"=>""}, "name"=>{"german"=>"Sektion Betriebs- und Unternehmensregister", "french"=>"Section Registre des entreprises et des établissements", "italian"=>"Sezione Registro delle imprese e degli stabilimenti", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004674",
+  "name": {
+    "german": "Sektion Betriebs- und Unternehmensregister",
+    "french": "Section Registre des entreprises et des établissements",
+    "italian": "Sezione Registro delle imprese e degli stabilimenti",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20010627",
+      "name": {
+        "german": "UID",
+        "french": "UID",
+        "italian": "UID",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034149",
+      "name": {
+        "german": "Wartung und Entwicklung",
+        "french": "Maintenance et développement",
+        "italian": "Maintenance et développement",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012568",
+      "name": {
+        "german": "Aktualisierung und QS",
+        "french": "Actualisation et QS",
+        "italian": "Aggiornamento e QS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034148",
+      "name": {
+        "german": "Service und Auswertungen",
+        "french": "Service et assurance qualité",
+        "italian": "Servizi e assicurazione qualità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005656",
+      "name": {
+        "german": "Profiling",
+        "french": "Profiling",
+        "italian": "Profiling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027547",
+      "name": {
+        "german": "AGR-Aktualisierung",
+        "french": "AGR-actualisation",
+        "italian": "AGR-Aggiornamento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045805",
+      "name": {
+        "german": "Pool Extern Westschweiz",
+        "french": "Pool Extern Westschweiz",
+        "italian": "Pool Extern Westschweiz",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045778",
+      "name": {
+        "german": "Pool Extern Mittelland",
+        "french": "Pool Extern Mittelland",
+        "italian": "Pool Extern Mittelland",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7447179",
+      "surname": "Tomasini",
+      "givenName": "Fabio",
+      "email": null,
+      "phone": "+41 58 46 36438",
+      "function": {
+        "german": "Sektionschef/in, Stv AC",
+        "french": "Sektionschef/in, Stv AC",
+        "italian": "Sektionschef/in, Stv AC",
+        "english": "Sektionschef/in, Stv AC"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3307867",
+      "surname": "Koller",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 46 36594",
+      "function": {
+        "german": "Gruppenleiter/in, Stv SC",
+        "french": "Gruppenleiter/in, Stv SC",
+        "italian": "Gruppenleiter/in, Stv SC",
+        "english": "Gruppenleiter/in, Stv SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004641",
+      "label": {
+        "german": "Abteilung Interoperabilität und Register",
+        "french": "Division Interopérabilité et registres",
+        "italian": "Divisone Interoperabilità et registri",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Interoperabilität und Register",
+        "french": "Division Interopérabilité et registres",
+        "italian": "Divisone Interoperabilità et registri",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004674",
+      "label": {
+        "german": "Sektion Betriebs- und Unternehmensregister",
+        "french": "Section Registre des entreprises et des établissements",
+        "italian": "Sezione Registro delle imprese e degli stabilimenti",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Betriebs- und Unternehmensregister",
+        "french": "Section Registre des entreprises et des établissements",
+        "italian": "Sezione Registro delle imprese e degli stabilimenti",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

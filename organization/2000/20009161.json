@@ -1,1 +1,153 @@
-{"id"=>"20009161", "name"=>{"german"=>"Recht und Internationales", "french"=>"Droit et affaires internationales", "italian"=>"Diritto e affari internazionali", "english"=>"Recht und Internationales"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-1453005", "surname"=>"Marti", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 59105", "function"=>{"german"=>"Stellvertreter LERI", "french"=>"Stellvertreter LERI", "italian"=>"Stellvertreter LERI", "english"=>"Stellvertreter LERI"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009156", "label"=>{"german"=>"Luftfahrtentwicklung", "french"=>"Stratégie et politique aéronautique", "italian"=>"Strategia e politica aeronautica", "english"=>"Luftfahrtentwicklung"}, "name"=>{"german"=>"Luftfahrtentwicklung", "french"=>"Stratégie et politique aéronautique", "italian"=>"Strategia e politica aeronautica", "english"=>"Luftfahrtentwicklung"}}, {"id"=>"20009161", "label"=>{"german"=>"Recht und Internationales", "french"=>"Droit et affaires internationales", "italian"=>"Diritto e affari internazionali", "english"=>"Recht und Internationales"}, "name"=>{"german"=>"Recht und Internationales", "french"=>"Droit et affaires internationales", "italian"=>"Diritto e affari internazionali", "english"=>"Recht und Internationales"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009161",
+  "name": {
+    "german": "Recht und Internationales",
+    "french": "Droit et affaires internationales",
+    "italian": "Diritto e affari internazionali",
+    "english": "Recht und Internationales"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1453005",
+      "surname": "Marti",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 59105",
+      "function": {
+        "german": "Stellvertreter LERI",
+        "french": "Stellvertreter LERI",
+        "italian": "Stellvertreter LERI",
+        "english": "Stellvertreter LERI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009156",
+      "label": {
+        "german": "Luftfahrtentwicklung",
+        "french": "Stratégie et politique aéronautique",
+        "italian": "Strategia e politica aeronautica",
+        "english": "Luftfahrtentwicklung"
+      },
+      "name": {
+        "german": "Luftfahrtentwicklung",
+        "french": "Stratégie et politique aéronautique",
+        "italian": "Strategia e politica aeronautica",
+        "english": "Luftfahrtentwicklung"
+      }
+    },
+    {
+      "id": "20009161",
+      "label": {
+        "german": "Recht und Internationales",
+        "french": "Droit et affaires internationales",
+        "italian": "Diritto e affari internazionali",
+        "english": "Recht und Internationales"
+      },
+      "name": {
+        "german": "Recht und Internationales",
+        "french": "Droit et affaires internationales",
+        "italian": "Diritto e affari internazionali",
+        "english": "Recht und Internationales"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

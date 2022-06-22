@@ -1,1 +1,217 @@
-{"id"=>"20037002", "name"=>{"german"=>"Frieden und Menschenrechte - Thematisch", "french"=>"Paix et droits de l'homme - Thématique", "italian"=>"Pace e diritti umani - Tematico", "english"=>"Peace and Human Rights - Thematic"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 32", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10000651", "name"=>{"german"=>"Menschenrechtsdiplomatie", "french"=>"Diplomatie des droits de l’homme", "italian"=>"Diplomazia dei diritti umani", "english"=>"Human Rights Diplomacy"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042180", "name"=>{"german"=>"Flucht und Migration", "french"=>"Déplacement forcé et migration", "italian"=>"Sfollamento forzato e migrazione", "english"=>"Forced Displacement and Migration"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000652", "name"=>{"german"=>"Humanitäre Diplomatie", "french"=>"Diplomatie humanitaire", "italian"=>"Diplomazia umanitaria", "english"=>"Humanitarian Diplomacy"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011185", "name"=>{"german"=>"Expertenpool für zivile Friedensförderung", "french"=>"Pool d’experts pour la promotion civile de la paix", "italian"=>"Pool di esperti per la promozione civile della pace", "english"=>"Swiss Expert Pool for Civilian Peacebuilding"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>true, "id"=>"p-2299826", "surname"=>"Löw", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 76944", "function"=>{"german"=>"Stv. Chef/in", "french"=>"Stv. Chef/in", "italian"=>"Stv. Chef/in", "english"=>"Stv. Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9643486", "surname"=>"Gehring", "givenName"=>"Rea", "email"=>nil, "phone"=>"+41 58 46 21794", "function"=>{"german"=>"Stv. Chef/in", "french"=>"Stv. Chef/in", "italian"=>"Stv. Chef/in", "english"=>"Stv. Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"10000616", "label"=>{"german"=>"Frieden und Menschenrechte", "french"=>"Paix et droits de l’homme", "italian"=>"Pace e diritti umani", "english"=>"Peace and Human Rights"}, "name"=>{"german"=>"Frieden und Menschenrechte", "french"=>"Paix et droits de l’homme", "italian"=>"Pace e diritti umani", "english"=>"Peace and Human Rights"}}, {"id"=>"20037002", "label"=>{"german"=>"Frieden und Menschenrechte - Thematisch", "french"=>"Paix et droits de l'homme - Thématique", "italian"=>"Pace e diritti umani - Tematico", "english"=>"Peace and Human Rights - Thematic"}, "name"=>{"german"=>"Frieden und Menschenrechte - Thematisch", "french"=>"Paix et droits de l'homme - Thématique", "italian"=>"Pace e diritti umani - Tematico", "english"=>"Peace and Human Rights - Thematic"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037002",
+  "name": {
+    "german": "Frieden und Menschenrechte - Thematisch",
+    "french": "Paix et droits de l'homme - Thématique",
+    "italian": "Pace e diritti umani - Tematico",
+    "english": "Peace and Human Rights - Thematic"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 32",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10000651",
+      "name": {
+        "german": "Menschenrechtsdiplomatie",
+        "french": "Diplomatie des droits de l’homme",
+        "italian": "Diplomazia dei diritti umani",
+        "english": "Human Rights Diplomacy"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042180",
+      "name": {
+        "german": "Flucht und Migration",
+        "french": "Déplacement forcé et migration",
+        "italian": "Sfollamento forzato e migrazione",
+        "english": "Forced Displacement and Migration"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000652",
+      "name": {
+        "german": "Humanitäre Diplomatie",
+        "french": "Diplomatie humanitaire",
+        "italian": "Diplomazia umanitaria",
+        "english": "Humanitarian Diplomacy"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011185",
+      "name": {
+        "german": "Expertenpool für zivile Friedensförderung",
+        "french": "Pool d’experts pour la promotion civile de la paix",
+        "italian": "Pool di esperti per la promozione civile della pace",
+        "english": "Swiss Expert Pool for Civilian Peacebuilding"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": true,
+      "id": "p-2299826",
+      "surname": "Löw",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 76944",
+      "function": {
+        "german": "Stv. Chef/in",
+        "french": "Stv. Chef/in",
+        "italian": "Stv. Chef/in",
+        "english": "Stv. Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9643486",
+      "surname": "Gehring",
+      "givenName": "Rea",
+      "email": null,
+      "phone": "+41 58 46 21794",
+      "function": {
+        "german": "Stv. Chef/in",
+        "french": "Stv. Chef/in",
+        "italian": "Stv. Chef/in",
+        "english": "Stv. Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "10000616",
+      "label": {
+        "german": "Frieden und Menschenrechte",
+        "french": "Paix et droits de l’homme",
+        "italian": "Pace e diritti umani",
+        "english": "Peace and Human Rights"
+      },
+      "name": {
+        "german": "Frieden und Menschenrechte",
+        "french": "Paix et droits de l’homme",
+        "italian": "Pace e diritti umani",
+        "english": "Peace and Human Rights"
+      }
+    },
+    {
+      "id": "20037002",
+      "label": {
+        "german": "Frieden und Menschenrechte - Thematisch",
+        "french": "Paix et droits de l'homme - Thématique",
+        "italian": "Pace e diritti umani - Tematico",
+        "english": "Peace and Human Rights - Thematic"
+      },
+      "name": {
+        "german": "Frieden und Menschenrechte - Thematisch",
+        "french": "Paix et droits de l'homme - Thématique",
+        "italian": "Pace e diritti umani - Tematico",
+        "english": "Peace and Human Rights - Thematic"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

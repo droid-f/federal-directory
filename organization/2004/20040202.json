@@ -1,1 +1,140 @@
-{"id"=>"20040202", "name"=>{"german"=>"Fachteam Finanzen", "french"=>"Equipe spécialisée finances", "italian"=>"Team specialistico de finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004155", "label"=>{"german"=>"ar IMMO", "french"=>"ar IMMO", "italian"=>"ar IMMO", "english"=>""}, "name"=>{"german"=>"armasuisse Immobilien", "french"=>"armasuisse Immobilier", "italian"=>"armasuisse Immobili", "english"=>""}}, {"id"=>"20004158", "label"=>{"german"=>"Planung, Controlling und Support", "french"=>"Planification, controlling et support", "italian"=>"Pianificazione, controlling e supporto", "english"=>""}, "name"=>{"german"=>"Planung, Controlling und Support", "french"=>"Planification, controlling et support", "italian"=>"Pianificazione, controlling e supporto", "english"=>""}}, {"id"=>"20040202", "label"=>{"german"=>"Fachteam Finanzen", "french"=>"Equipe spécialisée finances", "italian"=>"Team specialistico de finanze", "english"=>""}, "name"=>{"german"=>"Fachteam Finanzen", "french"=>"Equipe spécialisée finances", "italian"=>"Team specialistico de finanze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20040202",
+  "name": {
+    "german": "Fachteam Finanzen",
+    "french": "Equipe spécialisée finances",
+    "italian": "Team specialistico de finanze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004155",
+      "label": {
+        "german": "ar IMMO",
+        "french": "ar IMMO",
+        "italian": "ar IMMO",
+        "english": ""
+      },
+      "name": {
+        "german": "armasuisse Immobilien",
+        "french": "armasuisse Immobilier",
+        "italian": "armasuisse Immobili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004158",
+      "label": {
+        "german": "Planung, Controlling und Support",
+        "french": "Planification, controlling et support",
+        "italian": "Pianificazione, controlling e supporto",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung, Controlling und Support",
+        "french": "Planification, controlling et support",
+        "italian": "Pianificazione, controlling e supporto",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040202",
+      "label": {
+        "german": "Fachteam Finanzen",
+        "french": "Equipe spécialisée finances",
+        "italian": "Team specialistico de finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachteam Finanzen",
+        "french": "Equipe spécialisée finances",
+        "italian": "Team specialistico de finanze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

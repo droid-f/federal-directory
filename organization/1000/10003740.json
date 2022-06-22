@@ -1,1 +1,217 @@
-{"id"=>"10003740", "name"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 464 50 58", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20025760", "name"=>{"german"=>"Persönliches Büro C VBS", "french"=>"Bureau personnel du chef DDPS", "italian"=>"Ufficio personale C DDPS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042927", "name"=>{"german"=>"Media Relations/Events", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046780", "name"=>{"german"=>"Strategie/Stab", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046781", "name"=>{"german"=>"Web Redaktion", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046782", "name"=>{"german"=>"Web Tech", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9634932", "surname"=>"Kalbermatten", "givenName"=>"Renato", "email"=>nil, "phone"=>"+41 58 46 48875", "function"=>{"german"=>"Chef/in Kommunikation VBS", "french"=>"Chef/in Kommunikation VBS", "italian"=>"Chef/in Kommunikation VBS", "english"=>"Chef/in Kommunikation VBS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6983895", "surname"=>"Frischknecht", "givenName"=>"Lorenz", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv C Kom VBS / Leiter Media Relations", "french"=>"Stv C Kom VBS / Leiter Media Relations", "italian"=>"Stv C Kom VBS / Leiter Media Relations", "english"=>"Stv C Kom VBS / Leiter Media Relations"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003740", "label"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}, "name"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003740",
+  "name": {
+    "german": "Kommunikation VBS und GS VBS",
+    "french": "Communication DDPS et SG DDPS",
+    "italian": "Comunicazione DDPS e SG DDPS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 464 50 58",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20025760",
+      "name": {
+        "german": "Persönliches Büro C VBS",
+        "french": "Bureau personnel du chef DDPS",
+        "italian": "Ufficio personale C DDPS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042927",
+      "name": {
+        "german": "Media Relations/Events",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046780",
+      "name": {
+        "german": "Strategie/Stab",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046781",
+      "name": {
+        "german": "Web Redaktion",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046782",
+      "name": {
+        "german": "Web Tech",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9634932",
+      "surname": "Kalbermatten",
+      "givenName": "Renato",
+      "email": null,
+      "phone": "+41 58 46 48875",
+      "function": {
+        "german": "Chef/in Kommunikation VBS",
+        "french": "Chef/in Kommunikation VBS",
+        "italian": "Chef/in Kommunikation VBS",
+        "english": "Chef/in Kommunikation VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6983895",
+      "surname": "Frischknecht",
+      "givenName": "Lorenz",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv C Kom VBS / Leiter Media Relations",
+        "french": "Stv C Kom VBS / Leiter Media Relations",
+        "italian": "Stv C Kom VBS / Leiter Media Relations",
+        "english": "Stv C Kom VBS / Leiter Media Relations"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003740",
+      "label": {
+        "german": "Kommunikation VBS und GS VBS",
+        "french": "Communication DDPS et SG DDPS",
+        "italian": "Comunicazione DDPS e SG DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation VBS und GS VBS",
+        "french": "Communication DDPS et SG DDPS",
+        "italian": "Comunicazione DDPS e SG DDPS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

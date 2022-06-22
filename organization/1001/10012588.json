@@ -1,1 +1,200 @@
-{"id"=>"10012588", "name"=>{"german"=>"Geschäftsverwaltung und Registratur", "french"=>"Gestion des affaires", "italian"=>"Gestione delle pratiche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2243748", "surname"=>"Winklmeier", "givenName"=>"Janine", "email"=>nil, "phone"=>"+41 58 46 45063", "function"=>{"german"=>"Chef/in Geschäftsverwaltung/Regi GS", "french"=>"Chef/in Geschäftsverwaltung/Regi GS", "italian"=>"Chef/in Geschäftsverwaltung/Regi GS", "english"=>"Chef/in Geschäftsverwaltung/Regi GS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7825401", "surname"=>"Kunz", "givenName"=>"Werner", "email"=>nil, "phone"=>"+41 58 46 45037", "function"=>{"german"=>"Stv C Geschäftsverwaltung/SB GEVER", "french"=>"Stv C Geschäftsverwaltung/SB GEVER", "italian"=>"Stv C Geschäftsverwaltung/SB GEVER", "english"=>"Stv C Geschäftsverwaltung/SB GEVER"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1XHMH2J4Q", "surname"=>"Babakina", "givenName"=>"Alina", "email"=>nil, "phone"=>"+41 58 48 19508", "function"=>{"german"=>"Sachbearbeiter/in Geschäftsv. / Regi", "french"=>"Sachbearbeiter/in Geschäftsv. / Regi", "italian"=>"Sachbearbeiter/in Geschäftsv. / Regi", "english"=>"Sachbearbeiter/in Geschäftsv. / Regi"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1268869", "surname"=>"Stöckli", "givenName"=>"Corinne", "email"=>nil, "phone"=>"+41 58 46 57235", "function"=>{"german"=>"Fachspezialist/in Gever II", "french"=>"Fachspezialist/in Gever II", "italian"=>"Fachspezialist/in Gever II", "english"=>"Fachspezialist/in Gever II"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041152", "label"=>{"german"=>"Geschäfte und Recht VBS", "french"=>"Affaires politique et juridiques DDPS", "italian"=>"Affari politici e giuridici DDPS", "english"=>""}, "name"=>{"german"=>"Geschäfte und Recht VBS", "french"=>"Affaires politique et juridiques DDPS", "italian"=>"Affari politici e giuridici DDPS", "english"=>""}}, {"id"=>"10012588", "label"=>{"german"=>"Geschäftsverwaltung und Registratur", "french"=>"Gestion des affaires", "italian"=>"Gestione delle pratiche", "english"=>""}, "name"=>{"german"=>"Geschäftsverwaltung und Registratur", "french"=>"Gestion des affaires", "italian"=>"Gestione delle pratiche", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10012588",
+  "name": {
+    "german": "Geschäftsverwaltung und Registratur",
+    "french": "Gestion des affaires",
+    "italian": "Gestione delle pratiche",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2243748",
+      "surname": "Winklmeier",
+      "givenName": "Janine",
+      "email": null,
+      "phone": "+41 58 46 45063",
+      "function": {
+        "german": "Chef/in Geschäftsverwaltung/Regi GS",
+        "french": "Chef/in Geschäftsverwaltung/Regi GS",
+        "italian": "Chef/in Geschäftsverwaltung/Regi GS",
+        "english": "Chef/in Geschäftsverwaltung/Regi GS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7825401",
+      "surname": "Kunz",
+      "givenName": "Werner",
+      "email": null,
+      "phone": "+41 58 46 45037",
+      "function": {
+        "german": "Stv C Geschäftsverwaltung/SB GEVER",
+        "french": "Stv C Geschäftsverwaltung/SB GEVER",
+        "italian": "Stv C Geschäftsverwaltung/SB GEVER",
+        "english": "Stv C Geschäftsverwaltung/SB GEVER"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1XHMH2J4Q",
+      "surname": "Babakina",
+      "givenName": "Alina",
+      "email": null,
+      "phone": "+41 58 48 19508",
+      "function": {
+        "german": "Sachbearbeiter/in Geschäftsv. / Regi",
+        "french": "Sachbearbeiter/in Geschäftsv. / Regi",
+        "italian": "Sachbearbeiter/in Geschäftsv. / Regi",
+        "english": "Sachbearbeiter/in Geschäftsv. / Regi"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1268869",
+      "surname": "Stöckli",
+      "givenName": "Corinne",
+      "email": null,
+      "phone": "+41 58 46 57235",
+      "function": {
+        "german": "Fachspezialist/in Gever II",
+        "french": "Fachspezialist/in Gever II",
+        "italian": "Fachspezialist/in Gever II",
+        "english": "Fachspezialist/in Gever II"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041152",
+      "label": {
+        "german": "Geschäfte und Recht VBS",
+        "french": "Affaires politique et juridiques DDPS",
+        "italian": "Affari politici e giuridici DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäfte und Recht VBS",
+        "french": "Affaires politique et juridiques DDPS",
+        "italian": "Affari politici e giuridici DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012588",
+      "label": {
+        "german": "Geschäftsverwaltung und Registratur",
+        "french": "Gestion des affaires",
+        "italian": "Gestione delle pratiche",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsverwaltung und Registratur",
+        "french": "Gestion des affaires",
+        "italian": "Gestione delle pratiche",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,165 @@
-{"id"=>"20046711", "name"=>{"german"=>"Terrorismus & Völkerstrafrecht", "french"=>"Terrorismus & Völkerstrafrecht", "italian"=>"Terrorismus & Völkerstrafrecht", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-5778786", "surname"=>"Beyeler", "givenName"=>"Sabrina", "email"=>nil, "phone"=>"+41 58 48 39308", "function"=>{"german"=>"Staatsanwältin des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwältin des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4365365", "surname"=>"Bünger", "givenName"=>"Kaspar", "email"=>nil, "phone"=>"+41 58 46 51427", "function"=>{"german"=>"Staatsanwältin / Verantw. Terrorismus", "french"=>"Procureure féd. / Resp. Terrorisme", "italian"=>"Procuratrice fed. / Resp. Terrorismo", "english"=>"Staatsanwalt / Verantw. Terrorismus"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1547617", "surname"=>"Guillaume-Gentil Gross", "givenName"=>"Nathalie", "email"=>nil, "phone"=>"+41 58 46 05643", "function"=>{"german"=>"Staatsanwältin des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwältin des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3332825", "surname"=>"Spycher", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 20595", "function"=>{"german"=>"Staatsanwalt des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20000930", "label"=>{"german"=>"Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber", "french"=>"Entraide judiciaire, Terrorisme, Droit pénal international, Cyber", "italian"=>"Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber", "english"=>""}, "name"=>{"german"=>"Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber", "french"=>"Entraide judiciaire, Terrorisme, Droit pénal international, Cyber", "italian"=>"Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber", "english"=>""}}, {"id"=>"20046711", "label"=>{"german"=>"Terrorismus & Völkerstrafrecht", "french"=>"Terrorismus & Völkerstrafrecht", "italian"=>"Terrorismus & Völkerstrafrecht", "english"=>""}, "name"=>{"german"=>"Terrorismus & Völkerstrafrecht", "french"=>"Terrorismus & Völkerstrafrecht", "italian"=>"Terrorismus & Völkerstrafrecht", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046711",
+  "name": {
+    "german": "Terrorismus & Völkerstrafrecht",
+    "french": "Terrorismus & Völkerstrafrecht",
+    "italian": "Terrorismus & Völkerstrafrecht",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-5778786",
+      "surname": "Beyeler",
+      "givenName": "Sabrina",
+      "email": null,
+      "phone": "+41 58 48 39308",
+      "function": {
+        "german": "Staatsanwältin des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwältin des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4365365",
+      "surname": "Bünger",
+      "givenName": "Kaspar",
+      "email": null,
+      "phone": "+41 58 46 51427",
+      "function": {
+        "german": "Staatsanwältin / Verantw. Terrorismus",
+        "french": "Procureure féd. / Resp. Terrorisme",
+        "italian": "Procuratrice fed. / Resp. Terrorismo",
+        "english": "Staatsanwalt / Verantw. Terrorismus"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1547617",
+      "surname": "Guillaume-Gentil Gross",
+      "givenName": "Nathalie",
+      "email": null,
+      "phone": "+41 58 46 05643",
+      "function": {
+        "german": "Staatsanwältin des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwältin des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3332825",
+      "surname": "Spycher",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 20595",
+      "function": {
+        "german": "Staatsanwalt des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000930",
+      "label": {
+        "german": "Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber",
+        "french": "Entraide judiciaire, Terrorisme, Droit pénal international, Cyber",
+        "italian": "Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber",
+        "english": ""
+      },
+      "name": {
+        "german": "Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber",
+        "french": "Entraide judiciaire, Terrorisme, Droit pénal international, Cyber",
+        "italian": "Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046711",
+      "label": {
+        "german": "Terrorismus & Völkerstrafrecht",
+        "french": "Terrorismus & Völkerstrafrecht",
+        "italian": "Terrorismus & Völkerstrafrecht",
+        "english": ""
+      },
+      "name": {
+        "german": "Terrorismus & Völkerstrafrecht",
+        "french": "Terrorismus & Völkerstrafrecht",
+        "italian": "Terrorismus & Völkerstrafrecht",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

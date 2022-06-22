@@ -1,1 +1,155 @@
-{"id"=>"20034011", "name"=>{"german"=>"Stab Abteilung Abfall und Rohstoffe", "french"=>"Etat-major Division Déchets et matières premières", "italian"=>"Stato maggiore Divisione Rifiuti e materie prime", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 40", "postalCode"=>"3011", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035878", "label"=>{"german"=>"Direktionsbereich (Ökonomie & Innovation, Abfall & Rohstoffe, Hydrologie)", "french"=>"Climat / Hydrologie", "italian"=>"Clima / Idrologia", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Ökonomie & Innovation, Abfall & Rohstoffe, Hydrologie)", "french"=>"Climat / Hydrologie", "italian"=>"Clima / Idrologia", "english"=>""}}, {"id"=>"10002764", "label"=>{"german"=>"Abteilung Abfall und Rohstoffe", "french"=>"Division Déchets et matières premières", "italian"=>"Divisione Rifiuti e materie prime", "english"=>""}, "name"=>{"german"=>"Abteilung Abfall und Rohstoffe", "french"=>"Division Déchets et matières premières", "italian"=>"Divisione Rifiuti e materie prime", "english"=>""}}, {"id"=>"20034011", "label"=>{"german"=>"Stab Abteilung Abfall und Rohstoffe", "french"=>"Etat-major Division Déchets et matières premières", "italian"=>"Stato maggiore Divisione Rifiuti e materie prime", "english"=>""}, "name"=>{"german"=>"Stab Abteilung Abfall und Rohstoffe", "french"=>"Etat-major Division Déchets et matières premières", "italian"=>"Stato maggiore Divisione Rifiuti e materie prime", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034011",
+  "name": {
+    "german": "Stab Abteilung Abfall und Rohstoffe",
+    "french": "Etat-major Division Déchets et matières premières",
+    "italian": "Stato maggiore Divisione Rifiuti e materie prime",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 40",
+    "postalCode": "3011",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035878",
+      "label": {
+        "german": "Direktionsbereich (Ökonomie & Innovation, Abfall & Rohstoffe, Hydrologie)",
+        "french": "Climat / Hydrologie",
+        "italian": "Clima / Idrologia",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Ökonomie & Innovation, Abfall & Rohstoffe, Hydrologie)",
+        "french": "Climat / Hydrologie",
+        "italian": "Clima / Idrologia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002764",
+      "label": {
+        "german": "Abteilung Abfall und Rohstoffe",
+        "french": "Division Déchets et matières premières",
+        "italian": "Divisione Rifiuti e materie prime",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Abfall und Rohstoffe",
+        "french": "Division Déchets et matières premières",
+        "italian": "Divisione Rifiuti e materie prime",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034011",
+      "label": {
+        "german": "Stab Abteilung Abfall und Rohstoffe",
+        "french": "Etat-major Division Déchets et matières premières",
+        "italian": "Stato maggiore Divisione Rifiuti e materie prime",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Abteilung Abfall und Rohstoffe",
+        "french": "Etat-major Division Déchets et matières premières",
+        "italian": "Stato maggiore Divisione Rifiuti e materie prime",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

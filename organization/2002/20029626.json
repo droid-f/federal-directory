@@ -1,1 +1,180 @@
-{"id"=>"20029626", "name"=>{"german"=>"Assistenz DC, BR-Weibel/in, BR-Chauffeur", "french"=>"Dépt. DFE, Assistance", "italian"=>"Dip. DFE, Assistenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Bundeshaus Ost", "street"=>"Kochergasse 9", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 46 22002", "fax"=>"", "email"=>"sekretariat.brparmelin@gs-wbf.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-2289010", "surname"=>"Eichenberger", "givenName"=>"Doris", "email"=>nil, "phone"=>"+41 58 46 92026", "function"=>{"german"=>"Assistent/in Departemensvorsteher/in", "french"=>"Assistant/e du chef du département", "italian"=>"Assistente CD", "english"=>"Assistent/in Departemensvorsteher/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0253393", "surname"=>"Geissbühler", "givenName"=>"Rosmarie", "email"=>nil, "phone"=>"+41 58 46 27471", "function"=>{"german"=>"Assistent/in Departemensvorsteher/in", "french"=>"Assistant/e du chef de département", "italian"=>"Assistente CD", "english"=>"Assistent/in Departemensvorsteher/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4475750", "surname"=>"Kneubühler", "givenName"=>"Kurt", "email"=>nil, "phone"=>"+41 58 46 23753", "function"=>{"german"=>"Bundesratsweibel/in", "french"=>"Huissier/ère", "italian"=>"Usciera/ere", "english"=>"Bundesratsweibel/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5782365", "surname"=>"Schneuwly", "givenName"=>"André", "email"=>nil, "phone"=>"+41 58 46 92692", "function"=>{"german"=>"Bundesratschauffeur", "french"=>"Chauffeur du Conseiller fédéral", "italian"=>"Autista del Consigliere federale", "english"=>"Bundesratschauffeur"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10002651", "label"=>{"german"=>"GS-WBF", "french"=>"GS-WBF", "italian"=>"GS-WBF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général du DEFR", "italian"=>"Segreteria generale DEFR", "english"=>""}}, {"id"=>"10008655", "label"=>{"german"=>"GS-WBF", "french"=>"SG-DEFR", "italian"=>"SG-DEFR", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général SG-DEFR", "italian"=>"Segreteria generale SG-DEFR", "english"=>""}}, {"id"=>"20029626", "label"=>{"german"=>"Assistenz DC, BR-Weibel/in, BR-Chauffeur", "french"=>"Dépt. DFE, Assistance", "italian"=>"Dip. DFE, Assistenza", "english"=>""}, "name"=>{"german"=>"Assistenz DC, BR-Weibel/in, BR-Chauffeur", "french"=>"Dépt. DFE, Assistance", "italian"=>"Dip. DFE, Assistenza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20029626",
+  "name": {
+    "german": "Assistenz DC, BR-Weibel/in, BR-Chauffeur",
+    "french": "Dépt. DFE, Assistance",
+    "italian": "Dip. DFE, Assistenza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Bundeshaus Ost",
+    "street": "Kochergasse 9",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 46 22002",
+    "fax": "",
+    "email": "sekretariat.brparmelin@gs-wbf.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-2289010",
+      "surname": "Eichenberger",
+      "givenName": "Doris",
+      "email": null,
+      "phone": "+41 58 46 92026",
+      "function": {
+        "german": "Assistent/in Departemensvorsteher/in",
+        "french": "Assistant/e du chef du département",
+        "italian": "Assistente CD",
+        "english": "Assistent/in Departemensvorsteher/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0253393",
+      "surname": "Geissbühler",
+      "givenName": "Rosmarie",
+      "email": null,
+      "phone": "+41 58 46 27471",
+      "function": {
+        "german": "Assistent/in Departemensvorsteher/in",
+        "french": "Assistant/e du chef de département",
+        "italian": "Assistente CD",
+        "english": "Assistent/in Departemensvorsteher/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4475750",
+      "surname": "Kneubühler",
+      "givenName": "Kurt",
+      "email": null,
+      "phone": "+41 58 46 23753",
+      "function": {
+        "german": "Bundesratsweibel/in",
+        "french": "Huissier/ère",
+        "italian": "Usciera/ere",
+        "english": "Bundesratsweibel/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5782365",
+      "surname": "Schneuwly",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 58 46 92692",
+      "function": {
+        "german": "Bundesratschauffeur",
+        "french": "Chauffeur du Conseiller fédéral",
+        "italian": "Autista del Consigliere federale",
+        "english": "Bundesratschauffeur"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002651",
+      "label": {
+        "german": "GS-WBF",
+        "french": "GS-WBF",
+        "italian": "GS-WBF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général du DEFR",
+        "italian": "Segreteria generale DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008655",
+      "label": {
+        "german": "GS-WBF",
+        "french": "SG-DEFR",
+        "italian": "SG-DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général SG-DEFR",
+        "italian": "Segreteria generale SG-DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "20029626",
+      "label": {
+        "german": "Assistenz DC, BR-Weibel/in, BR-Chauffeur",
+        "french": "Dépt. DFE, Assistance",
+        "italian": "Dip. DFE, Assistenza",
+        "english": ""
+      },
+      "name": {
+        "german": "Assistenz DC, BR-Weibel/in, BR-Chauffeur",
+        "french": "Dépt. DFE, Assistance",
+        "italian": "Dip. DFE, Assistenza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,185 @@
-{"id"=>"10002253", "name"=>{"german"=>"Human Resources", "french"=>"Human Resources DFI", "italian"=>"Human Resources DFI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Inselgasse 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049880", "name"=>{"german"=>"HR Services", "french"=>"HR Services", "italian"=>"HR Services", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049881", "name"=>{"german"=>"HR Kompetenzcenter", "french"=>"Centre de compétences RH", "italian"=>"Centro di competenza RU", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0794449", "surname"=>"Laky", "givenName"=>"Sandor", "email"=>nil, "phone"=>"+41 58 46 34521", "function"=>{"german"=>"Leiter HR EDI", "french"=>"Responsable RH DFI", "italian"=>"Responsabile RU DFI", "english"=>"Leiter HR EDI"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"10002255", "label"=>{"german"=>"Ressourcensteuerung", "french"=>"Pilotage des ressources", "italian"=>"Ressourcensteuerung", "english"=>""}, "name"=>{"german"=>"Ressourcensteuerung", "french"=>"Pilotage des ressources", "italian"=>"Ressourcensteuerung", "english"=>""}}, {"id"=>"10002253", "label"=>{"german"=>"Human Resources", "french"=>"Human Resources DFI", "italian"=>"Human Resources DFI", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Human Resources DFI", "italian"=>"Human Resources DFI", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002253",
+  "name": {
+    "german": "Human Resources",
+    "french": "Human Resources DFI",
+    "italian": "Human Resources DFI",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Inselgasse 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049880",
+      "name": {
+        "german": "HR Services",
+        "french": "HR Services",
+        "italian": "HR Services",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049881",
+      "name": {
+        "german": "HR Kompetenzcenter",
+        "french": "Centre de compétences RH",
+        "italian": "Centro di competenza RU",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0794449",
+      "surname": "Laky",
+      "givenName": "Sandor",
+      "email": null,
+      "phone": "+41 58 46 34521",
+      "function": {
+        "german": "Leiter HR EDI",
+        "french": "Responsable RH DFI",
+        "italian": "Responsabile RU DFI",
+        "english": "Leiter HR EDI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002255",
+      "label": {
+        "german": "Ressourcensteuerung",
+        "french": "Pilotage des ressources",
+        "italian": "Ressourcensteuerung",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcensteuerung",
+        "french": "Pilotage des ressources",
+        "italian": "Ressourcensteuerung",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002253",
+      "label": {
+        "german": "Human Resources",
+        "french": "Human Resources DFI",
+        "italian": "Human Resources DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Human Resources DFI",
+        "italian": "Human Resources DFI",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

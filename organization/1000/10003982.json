@@ -1,1 +1,156 @@
-{"id"=>"10003982", "name"=>{"german"=>"Grundlagen Medien", "french"=>"Services médias", "italian"=>"Servizi media", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7314885", "surname"=>"Regnotto", "givenName"=>"Marcel", "email"=>nil, "phone"=>"+41 58 46 05535", "function"=>{"german"=>"Leiter Grundlagen Medien/Stv. AC M", "french"=>"Leiter Grundlagen Medien/Stv. AC M", "italian"=>"Leiter Grundlagen Medien/Stv. AC M", "english"=>"Leiter Grundlagen Medien/Stv. AC M"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003979", "label"=>{"german"=>"Medien", "french"=>"Médias", "italian"=>"Media", "english"=>""}, "name"=>{"german"=>"Medien", "french"=>"Médias", "italian"=>"Media", "english"=>""}}, {"id"=>"10003982", "label"=>{"german"=>"Grundlagen Medien", "french"=>"Services médias", "italian"=>"Servizi media", "english"=>""}, "name"=>{"german"=>"Grundlagen Medien", "french"=>"Services médias", "italian"=>"Servizi media", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003982",
+  "name": {
+    "german": "Grundlagen Medien",
+    "french": "Services médias",
+    "italian": "Servizi media",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7314885",
+      "surname": "Regnotto",
+      "givenName": "Marcel",
+      "email": null,
+      "phone": "+41 58 46 05535",
+      "function": {
+        "german": "Leiter Grundlagen Medien/Stv. AC M",
+        "french": "Leiter Grundlagen Medien/Stv. AC M",
+        "italian": "Leiter Grundlagen Medien/Stv. AC M",
+        "english": "Leiter Grundlagen Medien/Stv. AC M"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003979",
+      "label": {
+        "german": "Medien",
+        "french": "Médias",
+        "italian": "Media",
+        "english": ""
+      },
+      "name": {
+        "german": "Medien",
+        "french": "Médias",
+        "italian": "Media",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003982",
+      "label": {
+        "german": "Grundlagen Medien",
+        "french": "Services médias",
+        "italian": "Servizi media",
+        "english": ""
+      },
+      "name": {
+        "german": "Grundlagen Medien",
+        "french": "Services médias",
+        "italian": "Servizi media",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,156 @@
-{"id"=>"50001435@12.03", "name"=>{"german"=>"Team Intervention und Installation", "french"=>"Team Intervention und Installation", "italian"=>"Team Intervention und Installation", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1812721", "surname"=>"Schaller", "givenName"=>"Jürg", "email"=>nil, "phone"=>"+41583870920", "function"=>{"german"=>"Teamleiter/in", "french"=>"Chef d'équipe", "italian"=>"Capo gruppo", "english"=>"Teamleader"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}, {"id"=>"50000005@12.03", "label"=>{"german"=>"Abteilung Gesetzliche Metrologie", "french"=>"Abteilung Gesetzliche Metrologie", "italian"=>"Abteilung Gesetzliche Metrologie", "english"=>""}, "name"=>{"german"=>"Abteilung Gesetzliche Metrologie", "french"=>"Abteilung Gesetzliche Metrologie", "italian"=>"Abteilung Gesetzliche Metrologie", "english"=>""}}, {"id"=>"50000014@12.03", "label"=>{"german"=>"Bereich Messnetze", "french"=>"Bereich Messnetze", "italian"=>"Bereich Messnetze", "english"=>""}, "name"=>{"german"=>"Bereich Messnetze", "french"=>"Bereich Messnetze", "italian"=>"Bereich Messnetze", "english"=>""}}, {"id"=>"50001435@12.03", "label"=>{"german"=>"Team Intervention und Installation", "french"=>"Team Intervention und Installation", "italian"=>"Team Intervention und Installation", "english"=>""}, "name"=>{"german"=>"Team Intervention und Installation", "french"=>"Team Intervention und Installation", "italian"=>"Team Intervention und Installation", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50001435@12.03",
+  "name": {
+    "german": "Team Intervention und Installation",
+    "french": "Team Intervention und Installation",
+    "italian": "Team Intervention und Installation",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1812721",
+      "surname": "Schaller",
+      "givenName": "Jürg",
+      "email": null,
+      "phone": "+41583870920",
+      "function": {
+        "german": "Teamleiter/in",
+        "french": "Chef d'équipe",
+        "italian": "Capo gruppo",
+        "english": "Teamleader"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000005@12.03",
+      "label": {
+        "german": "Abteilung Gesetzliche Metrologie",
+        "french": "Abteilung Gesetzliche Metrologie",
+        "italian": "Abteilung Gesetzliche Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Gesetzliche Metrologie",
+        "french": "Abteilung Gesetzliche Metrologie",
+        "italian": "Abteilung Gesetzliche Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000014@12.03",
+      "label": {
+        "german": "Bereich Messnetze",
+        "french": "Bereich Messnetze",
+        "italian": "Bereich Messnetze",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Messnetze",
+        "french": "Bereich Messnetze",
+        "italian": "Bereich Messnetze",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001435@12.03",
+      "label": {
+        "german": "Team Intervention und Installation",
+        "french": "Team Intervention und Installation",
+        "italian": "Team Intervention und Installation",
+        "english": ""
+      },
+      "name": {
+        "german": "Team Intervention und Installation",
+        "french": "Team Intervention und Installation",
+        "italian": "Team Intervention und Installation",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

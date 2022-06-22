@@ -1,1 +1,157 @@
-{"id"=>"20041734", "name"=>{"german"=>"Sektion Strategische Führungsunterstützung", "french"=>"Section aide à la conduite stratégique", "italian"=>"Sezione Aiuto alla condotta strategica", "english"=>""}, "nameAbbr"=>{"german"=>"STF", "french"=>"STF", "italian"=>"STF", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1457965", "surname"=>"Laubacher-Kubat", "givenName"=>"Erika", "email"=>nil, "phone"=>"+41 58 46 11534", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6578152", "surname"=>"Roulin Perriard", "givenName"=>"Anne", "email"=>nil, "phone"=>"+41 58 46 27033", "function"=>{"german"=>"Stv. Leiter/in", "french"=>"Stv. Leiter/in", "italian"=>"Stv. Leiter/in", "english"=>"Stv. Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002695", "label"=>{"german"=>"KS", "french"=>"KS", "italian"=>"KS", "english"=>""}, "name"=>{"german"=>"Bereich Kommunikation und Strategie", "french"=>"Secteur communication et stratégie", "italian"=>"Settore comunicazione e strategia", "english"=>""}}, {"id"=>"20041734", "label"=>{"german"=>"STF", "french"=>"STF", "italian"=>"STF", "english"=>""}, "name"=>{"german"=>"Sektion Strategische Führungsunterstützung", "french"=>"Section aide à la conduite stratégique", "italian"=>"Sezione Aiuto alla condotta strategica", "english"=>""}}], "contactPoints"=>[{"id"=>98, "name"=>{"german"=>"Auskunft", "french"=>"Renseignements", "italian"=>"Informazione", "english"=>""}, "email"=>nil, "phone"=>"+41 58 462 37 55", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "20041734",
+  "name": {
+    "german": "Sektion Strategische Führungsunterstützung",
+    "french": "Section aide à la conduite stratégique",
+    "italian": "Sezione Aiuto alla condotta strategica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "STF",
+    "french": "STF",
+    "italian": "STF",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1457965",
+      "surname": "Laubacher-Kubat",
+      "givenName": "Erika",
+      "email": null,
+      "phone": "+41 58 46 11534",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6578152",
+      "surname": "Roulin Perriard",
+      "givenName": "Anne",
+      "email": null,
+      "phone": "+41 58 46 27033",
+      "function": {
+        "german": "Stv. Leiter/in",
+        "french": "Stv. Leiter/in",
+        "italian": "Stv. Leiter/in",
+        "english": "Stv. Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002695",
+      "label": {
+        "german": "KS",
+        "french": "KS",
+        "italian": "KS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Kommunikation und Strategie",
+        "french": "Secteur communication et stratégie",
+        "italian": "Settore comunicazione e strategia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041734",
+      "label": {
+        "german": "STF",
+        "french": "STF",
+        "italian": "STF",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Strategische Führungsunterstützung",
+        "french": "Section aide à la conduite stratégique",
+        "italian": "Sezione Aiuto alla condotta strategica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 98,
+      "name": {
+        "german": "Auskunft",
+        "french": "Renseignements",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 462 37 55",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

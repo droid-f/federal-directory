@@ -1,1 +1,171 @@
-{"id"=>"10002717", "name"=>{"german"=>"Sektion Globales", "french"=>"Section Affaires globales", "italian"=>"Sezione Questioni globali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 40", "postalCode"=>"3011", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5113652", "surname"=>"Wertli", "givenName"=>"Felix", "email"=>nil, "phone"=>"+41 58 46 87011", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035877", "label"=>{"german"=>"Direktionsbereich (Ressourcen, Finanzen, Recht, Internationales, Sprachdienste, Umweltbeobachtung)", "french"=>"Tâches transversales", "italian"=>"Compiti trasversali", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Ressourcen, Finanzen, Recht, Internationales, Sprachdienste, Umweltbeobachtung)", "french"=>"Tâches transversales", "italian"=>"Compiti trasversali", "english"=>""}}, {"id"=>"10002716", "label"=>{"german"=>"Abteilung Internationales", "french"=>"Division Affaires internationales", "italian"=>"Divisione Affari internazionali", "english"=>""}, "name"=>{"german"=>"Abteilung Internationales", "french"=>"Division Affaires internationales", "italian"=>"Divisione Affari internazionali", "english"=>""}}, {"id"=>"10002717", "label"=>{"german"=>"Sektion Globales", "french"=>"Section Affaires globales", "italian"=>"Sezione Questioni globali", "english"=>""}, "name"=>{"german"=>"Sektion Globales", "french"=>"Section Affaires globales", "italian"=>"Sezione Questioni globali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002717",
+  "name": {
+    "german": "Sektion Globales",
+    "french": "Section Affaires globales",
+    "italian": "Sezione Questioni globali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 40",
+    "postalCode": "3011",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5113652",
+      "surname": "Wertli",
+      "givenName": "Felix",
+      "email": null,
+      "phone": "+41 58 46 87011",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035877",
+      "label": {
+        "german": "Direktionsbereich (Ressourcen, Finanzen, Recht, Internationales, Sprachdienste, Umweltbeobachtung)",
+        "french": "Tâches transversales",
+        "italian": "Compiti trasversali",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Ressourcen, Finanzen, Recht, Internationales, Sprachdienste, Umweltbeobachtung)",
+        "french": "Tâches transversales",
+        "italian": "Compiti trasversali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002716",
+      "label": {
+        "german": "Abteilung Internationales",
+        "french": "Division Affaires internationales",
+        "italian": "Divisione Affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Internationales",
+        "french": "Division Affaires internationales",
+        "italian": "Divisione Affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002717",
+      "label": {
+        "german": "Sektion Globales",
+        "french": "Section Affaires globales",
+        "italian": "Sezione Questioni globali",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Globales",
+        "french": "Section Affaires globales",
+        "italian": "Sezione Questioni globali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

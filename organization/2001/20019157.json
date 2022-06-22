@@ -1,1 +1,171 @@
-{"id"=>"20019157", "name"=>{"german"=>"Projekte Controlling und Steuerung", "french"=>"Projets controlling et pilotage", "italian"=>"Progetti controlling e gestione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0740854", "surname"=>"Disler", "givenName"=>"Ralph", "email"=>nil, "phone"=>"+41 58 48 40335", "function"=>{"german"=>"Chef/in PCS Kdo Operationen", "french"=>"Chef PCP cdmt Opérations", "italian"=>"Capo PCG Cdo Operazioni", "english"=>"Chef/in PCS Kdo Operationen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20042329", "label"=>{"german"=>"STVOP", "french"=>"STVOP", "italian"=>"STVOP", "english"=>""}, "name"=>{"german"=>"Stv Chef Kommando Operationen", "french"=>"Rempl chef commandement des Opérations", "italian"=>"Sost capo Comando Operazioni", "english"=>""}}, {"id"=>"20019157", "label"=>{"german"=>"Projekte Controlling und Steuerung", "french"=>"Projets controlling et pilotage", "italian"=>"Progetti controlling e gestione", "english"=>""}, "name"=>{"german"=>"Projekte Controlling und Steuerung", "french"=>"Projets controlling et pilotage", "italian"=>"Progetti controlling e gestione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20019157",
+  "name": {
+    "german": "Projekte Controlling und Steuerung",
+    "french": "Projets controlling et pilotage",
+    "italian": "Progetti controlling e gestione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0740854",
+      "surname": "Disler",
+      "givenName": "Ralph",
+      "email": null,
+      "phone": "+41 58 48 40335",
+      "function": {
+        "german": "Chef/in PCS Kdo Operationen",
+        "french": "Chef PCP cdmt Opérations",
+        "italian": "Capo PCG Cdo Operazioni",
+        "english": "Chef/in PCS Kdo Operationen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042329",
+      "label": {
+        "german": "STVOP",
+        "french": "STVOP",
+        "italian": "STVOP",
+        "english": ""
+      },
+      "name": {
+        "german": "Stv Chef Kommando Operationen",
+        "french": "Rempl chef commandement des Opérations",
+        "italian": "Sost capo Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20019157",
+      "label": {
+        "german": "Projekte Controlling und Steuerung",
+        "french": "Projets controlling et pilotage",
+        "italian": "Progetti controlling e gestione",
+        "english": ""
+      },
+      "name": {
+        "german": "Projekte Controlling und Steuerung",
+        "french": "Projets controlling et pilotage",
+        "italian": "Progetti controlling e gestione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

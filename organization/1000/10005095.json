@@ -1,1 +1,242 @@
-{"id"=>"10005095", "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"direktion@bger.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20015170", "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretaria generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005097", "name"=>{"german"=>"Rechts- und Informationsdienst", "french"=>"Service juridique et d'information", "italian"=>"Servizio giuridico e d'informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005100", "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014861", "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014862", "name"=>{"german"=>"Administrative Dienste", "french"=>"Services administratives", "italian"=>"Servizi amministrativi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3750726", "surname"=>"Tschümperlin", "givenName"=>"Paul", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Generalsekretär", "french"=>"Secrétaire général", "italian"=>"Segretario generale", "english"=>"Generalsekretär"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4979079", "surname"=>"Egloff", "givenName"=>"Lorenzo", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Generalsekretär und Chef Ressourcen", "french"=>"Secr. général suppl. chef des ressources", "italian"=>"Segr. generale suppl. responsab. risorse", "english"=>"Stv. Generalsekretär und Chef Ressourcen"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1XM74DP79", "surname"=>"Beroud", "givenName"=>"Charlotte", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Adjunktin des Generalsekretärs", "french"=>"Adjointe du secrétaire général", "italian"=>"Aggiunta del segretario generale", "english"=>"Adjunktin des Generalsekretärs"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9468489", "surname"=>"Brunner", "givenName"=>"Caroline", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Adjunktin des Generalsekretärs", "french"=>"Adjointe du Secrétaire général", "italian"=>"Aggiunta del segretario generale", "english"=>"Adjunktin des Generalsekretärs"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2972949", "surname"=>"Bühler", "givenName"=>"Jacques", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Adjunkt des Generalsekretärs", "french"=>"Adjoint du Secrétaire général", "italian"=>"Aggiunto del segretario generale", "english"=>"Adjunkt des Generalsekretärs"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9955776", "surname"=>"Josi", "givenName"=>"Peter", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Adjunkt des Generalsekretärs", "french"=>"Adjoint du Secrétaire général", "italian"=>"Aggiunto del segretario generale", "english"=>"Adjunkt des Generalsekretärs"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005095", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005095",
+  "name": {
+    "german": "Generalsekretariat und Dienste",
+    "french": "Secrétariat général et services",
+    "italian": "Segretario generale e servizi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "direktion@bger.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20015170",
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretaria generale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005097",
+      "name": {
+        "german": "Rechts- und Informationsdienst",
+        "french": "Service juridique et d'information",
+        "italian": "Servizio giuridico e d'informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005100",
+      "name": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014861",
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014862",
+      "name": {
+        "german": "Administrative Dienste",
+        "french": "Services administratives",
+        "italian": "Servizi amministrativi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3750726",
+      "surname": "Tschümperlin",
+      "givenName": "Paul",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Generalsekretär",
+        "french": "Secrétaire général",
+        "italian": "Segretario generale",
+        "english": "Generalsekretär"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4979079",
+      "surname": "Egloff",
+      "givenName": "Lorenzo",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Generalsekretär und Chef Ressourcen",
+        "french": "Secr. général suppl. chef des ressources",
+        "italian": "Segr. generale suppl. responsab. risorse",
+        "english": "Stv. Generalsekretär und Chef Ressourcen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1XM74DP79",
+      "surname": "Beroud",
+      "givenName": "Charlotte",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Adjunktin des Generalsekretärs",
+        "french": "Adjointe du secrétaire général",
+        "italian": "Aggiunta del segretario generale",
+        "english": "Adjunktin des Generalsekretärs"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9468489",
+      "surname": "Brunner",
+      "givenName": "Caroline",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Adjunktin des Generalsekretärs",
+        "french": "Adjointe du Secrétaire général",
+        "italian": "Aggiunta del segretario generale",
+        "english": "Adjunktin des Generalsekretärs"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2972949",
+      "surname": "Bühler",
+      "givenName": "Jacques",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Adjunkt des Generalsekretärs",
+        "french": "Adjoint du Secrétaire général",
+        "italian": "Aggiunto del segretario generale",
+        "english": "Adjunkt des Generalsekretärs"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9955776",
+      "surname": "Josi",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Adjunkt des Generalsekretärs",
+        "french": "Adjoint du Secrétaire général",
+        "italian": "Aggiunto del segretario generale",
+        "english": "Adjunkt des Generalsekretärs"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005095",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

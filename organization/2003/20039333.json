@@ -1,1 +1,262 @@
-{"id"=>"20039333", "name"=>{"german"=>"RSS - Dienste", "french"=>"RSS - Services", "italian"=>"RSS - Servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20044001", "name"=>{"german"=>"Dienste - GEVER und Archivierung", "french"=>"Dienste - GEVER et archivage", "italian"=>"Dienste - GEVER e archivo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039334", "name"=>{"german"=>"Dienste - AVOR Vertrieb Team 1", "french"=>"Services - Distribution Team 1", "italian"=>"Servizi - Distribuzione Team 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039336", "name"=>{"german"=>"Dienste - AVOR Vertrieb Team 2", "french"=>"Services - Distribution Team 2", "italian"=>"Servizi - Distribuzione Team 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10006363", "name"=>{"german"=>"Dienste - Stammdatenverwaltung", "french"=>"Services - Saisie des données", "italian"=>"Servizi - Racolta dati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039335", "name"=>{"german"=>"Dienste - Logistik", "french"=>"Services - Logistique", "italian"=>"Dienste - Logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039337", "name"=>{"german"=>"Dienste - Datenvalidierung", "french"=>"Services - validation des donnés", "italian"=>"Servizi - validazione dei dati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2872223", "surname"=>"Richoz", "givenName"=>"Christophe", "email"=>nil, "phone"=>"+41 58 46 71621", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9241637", "surname"=>"Omar", "givenName"=>"Yazid", "email"=>nil, "phone"=>"+41 58 46 92064", "function"=>{"german"=>"Leiter/in / Stv. Leiter Dienste", "french"=>"Leiter/in / Stv. Leiter Dienste", "italian"=>"Leiter/in / Stv. Leiter Dienste", "english"=>"Leiter/in / Stv. Leiter Dienste"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008668", "label"=>{"german"=>"ESTV", "french"=>"AFC", "italian"=>"AFC", "english"=>""}, "name"=>{"german"=>"Eidgenössische Steuerverwaltung", "french"=>"Administration fédérale des contributions", "italian"=>"Amministrazione federale delle contribuzioni", "english"=>""}}, {"id"=>"10006258", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20038451", "label"=>{"german"=>"Hauptabteilung Ressourcen RSS", "french"=>"Division principale Ressources RSS", "italian"=>"Divisione principale Risorse RSS", "english"=>""}, "name"=>{"german"=>"Hauptabteilung Ressourcen RSS", "french"=>"Division principale Ressources RSS", "italian"=>"Divisione principale Risorse RSS", "english"=>""}}, {"id"=>"20039333", "label"=>{"german"=>"RSS - Dienste", "french"=>"RSS - Services", "italian"=>"RSS - Servizi", "english"=>""}, "name"=>{"german"=>"RSS - Dienste", "french"=>"RSS - Services", "italian"=>"RSS - Servizi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039333",
+  "name": {
+    "german": "RSS - Dienste",
+    "french": "RSS - Services",
+    "italian": "RSS - Servizi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20044001",
+      "name": {
+        "german": "Dienste - GEVER und Archivierung",
+        "french": "Dienste - GEVER et archivage",
+        "italian": "Dienste - GEVER e archivo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039334",
+      "name": {
+        "german": "Dienste - AVOR Vertrieb Team 1",
+        "french": "Services - Distribution Team 1",
+        "italian": "Servizi - Distribuzione Team 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039336",
+      "name": {
+        "german": "Dienste - AVOR Vertrieb Team 2",
+        "french": "Services - Distribution Team 2",
+        "italian": "Servizi - Distribuzione Team 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006363",
+      "name": {
+        "german": "Dienste - Stammdatenverwaltung",
+        "french": "Services - Saisie des données",
+        "italian": "Servizi - Racolta dati",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039335",
+      "name": {
+        "german": "Dienste - Logistik",
+        "french": "Services - Logistique",
+        "italian": "Dienste - Logistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039337",
+      "name": {
+        "german": "Dienste - Datenvalidierung",
+        "french": "Services - validation des donnés",
+        "italian": "Servizi - validazione dei dati",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2872223",
+      "surname": "Richoz",
+      "givenName": "Christophe",
+      "email": null,
+      "phone": "+41 58 46 71621",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9241637",
+      "surname": "Omar",
+      "givenName": "Yazid",
+      "email": null,
+      "phone": "+41 58 46 92064",
+      "function": {
+        "german": "Leiter/in / Stv. Leiter Dienste",
+        "french": "Leiter/in / Stv. Leiter Dienste",
+        "italian": "Leiter/in / Stv. Leiter Dienste",
+        "english": "Leiter/in / Stv. Leiter Dienste"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008668",
+      "label": {
+        "german": "ESTV",
+        "french": "AFC",
+        "italian": "AFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Steuerverwaltung",
+        "french": "Administration fédérale des contributions",
+        "italian": "Amministrazione federale delle contribuzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006258",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038451",
+      "label": {
+        "german": "Hauptabteilung Ressourcen RSS",
+        "french": "Division principale Ressources RSS",
+        "italian": "Divisione principale Risorse RSS",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptabteilung Ressourcen RSS",
+        "french": "Division principale Ressources RSS",
+        "italian": "Divisione principale Risorse RSS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039333",
+      "label": {
+        "german": "RSS - Dienste",
+        "french": "RSS - Services",
+        "italian": "RSS - Servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "RSS - Dienste",
+        "french": "RSS - Services",
+        "italian": "RSS - Servizi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

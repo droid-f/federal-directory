@@ -1,1 +1,155 @@
-{"id"=>"20045783", "name"=>{"german"=>"Pool Extern Nordschweiz", "french"=>"Pool Extern Nordschweiz", "italian"=>"Pool Extern Nordschweiz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20047601", "label"=>{"german"=>"Abteilung Kommunikation/Publishing", "french"=>"Division Communication/Publishing", "italian"=>"Divisione Comunicazione/Publishing", "english"=>""}, "name"=>{"german"=>"Abteilung Kommunikation/Publishing", "french"=>"Division Communication/Publishing", "italian"=>"Divisione Comunicazione/Publishing", "english"=>""}}, {"id"=>"10004637", "label"=>{"german"=>"Sektion Diffusion und Amtspublikationen", "french"=>"Section Diffusion et publications", "italian"=>"Sezione Diffusione e pubblicazioni", "english"=>""}, "name"=>{"german"=>"Sektion Diffusion und Amtspublikationen", "french"=>"Section Diffusion et publications", "italian"=>"Sezione Diffusione e pubblicazioni", "english"=>""}}, {"id"=>"20045783", "label"=>{"german"=>"Pool Extern Nordschweiz", "french"=>"Pool Extern Nordschweiz", "italian"=>"Pool Extern Nordschweiz", "english"=>""}, "name"=>{"german"=>"Pool Extern Nordschweiz", "french"=>"Pool Extern Nordschweiz", "italian"=>"Pool Extern Nordschweiz", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045783",
+  "name": {
+    "german": "Pool Extern Nordschweiz",
+    "french": "Pool Extern Nordschweiz",
+    "italian": "Pool Extern Nordschweiz",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047601",
+      "label": {
+        "german": "Abteilung Kommunikation/Publishing",
+        "french": "Division Communication/Publishing",
+        "italian": "Divisione Comunicazione/Publishing",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Kommunikation/Publishing",
+        "french": "Division Communication/Publishing",
+        "italian": "Divisione Comunicazione/Publishing",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004637",
+      "label": {
+        "german": "Sektion Diffusion und Amtspublikationen",
+        "french": "Section Diffusion et publications",
+        "italian": "Sezione Diffusione e pubblicazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Diffusion und Amtspublikationen",
+        "french": "Section Diffusion et publications",
+        "italian": "Sezione Diffusione e pubblicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045783",
+      "label": {
+        "german": "Pool Extern Nordschweiz",
+        "french": "Pool Extern Nordschweiz",
+        "italian": "Pool Extern Nordschweiz",
+        "english": ""
+      },
+      "name": {
+        "german": "Pool Extern Nordschweiz",
+        "french": "Pool Extern Nordschweiz",
+        "italian": "Pool Extern Nordschweiz",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

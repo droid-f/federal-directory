@@ -1,1 +1,244 @@
-{"id"=>"20003730", "name"=>{"german"=>"Kdo Genieschule 73", "french"=>"Cdmt Ecole du génie 73", "italian"=>"Cdo scuola del genio 73", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo Genieschule 73", "street"=>"Kaserne", "postalCode"=>"5200", "location"=>"Brugg", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20013127", "name"=>{"german"=>"Kdt Stv / Stab / Planung 73", "french"=>"Rempl cdt / EM / planification 73", "italian"=>"Sost cdt / SM / Pianif 73", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013128", "name"=>{"german"=>"Führungsunterstützung 73", "french"=>"Aide au commandement 73", "italian"=>"Aiuto alla condotta 73", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018485", "name"=>{"german"=>"Genieschule 73 / Team I", "french"=>"Ecole du génie 73 / team I", "italian"=>"Scuola del genio 73 / Team I", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018487", "name"=>{"german"=>"Genieschule 73 / Team II", "french"=>"Ecole du génie 73 / team II", "italian"=>"Scuola del genio 73 / Team II", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018489", "name"=>{"german"=>"Genieschule 73 / Team III", "french"=>"Ecole du génie 73 / team III", "italian"=>"Scuola del genio 73 / Team II", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20023578", "name"=>{"german"=>"Genieschule 73 / Team IV", "french"=>"Ecole du génie 73 / team IV", "italian"=>"Scuola del genio 73 / Team IV", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015871", "label"=>{"german"=>"LVBGRABC", "french"=>"LVBGRABC", "italian"=>"LVBGRABC", "english"=>""}, "name"=>{"german"=>"Lehrverband Genie/Rettung/ABC", "french"=>"FOAP génie/sauvetage/NBC", "italian"=>"FOA G/salv/NBC", "english"=>""}}, {"id"=>"20003730", "label"=>{"german"=>"Kdo Genieschule 73", "french"=>"Cdmt Ecole du génie 73", "italian"=>"Cdo scuola del genio 73", "english"=>""}, "name"=>{"german"=>"Kdo Genieschule 73", "french"=>"Cdmt Ecole du génie 73", "italian"=>"Cdo scuola del genio 73", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003730",
+  "name": {
+    "german": "Kdo Genieschule 73",
+    "french": "Cdmt Ecole du génie 73",
+    "italian": "Cdo scuola del genio 73",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo Genieschule 73",
+    "street": "Kaserne",
+    "postalCode": "5200",
+    "location": "Brugg",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20013127",
+      "name": {
+        "german": "Kdt Stv / Stab / Planung 73",
+        "french": "Rempl cdt / EM / planification 73",
+        "italian": "Sost cdt / SM / Pianif 73",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013128",
+      "name": {
+        "german": "Führungsunterstützung 73",
+        "french": "Aide au commandement 73",
+        "italian": "Aiuto alla condotta 73",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018485",
+      "name": {
+        "german": "Genieschule 73 / Team I",
+        "french": "Ecole du génie 73 / team I",
+        "italian": "Scuola del genio 73 / Team I",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018487",
+      "name": {
+        "german": "Genieschule 73 / Team II",
+        "french": "Ecole du génie 73 / team II",
+        "italian": "Scuola del genio 73 / Team II",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018489",
+      "name": {
+        "german": "Genieschule 73 / Team III",
+        "french": "Ecole du génie 73 / team III",
+        "italian": "Scuola del genio 73 / Team II",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20023578",
+      "name": {
+        "german": "Genieschule 73 / Team IV",
+        "french": "Ecole du génie 73 / team IV",
+        "italian": "Scuola del genio 73 / Team IV",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015871",
+      "label": {
+        "german": "LVBGRABC",
+        "french": "LVBGRABC",
+        "italian": "LVBGRABC",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Genie/Rettung/ABC",
+        "french": "FOAP génie/sauvetage/NBC",
+        "italian": "FOA G/salv/NBC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003730",
+      "label": {
+        "german": "Kdo Genieschule 73",
+        "french": "Cdmt Ecole du génie 73",
+        "italian": "Cdo scuola del genio 73",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Genieschule 73",
+        "french": "Cdmt Ecole du génie 73",
+        "italian": "Cdo scuola del genio 73",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

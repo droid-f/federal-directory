@@ -1,1 +1,173 @@
-{"id"=>"20026978", "name"=>{"german"=>"Back Office Tresorerie", "french"=>"Back Office Trésorerie", "italian"=>"Back Office Tesoreria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 118", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3246963", "surname"=>"Zaugg", "givenName"=>"Jacqueline", "email"=>nil, "phone"=>"+41 58 46 27553", "function"=>{"german"=>"Leiterin Back Office Tresorerie", "french"=>"Cheffe Back Office Tresorerie", "italian"=>"Capo Front office tesoreria", "english"=>"Leiterin Back Office Tresorerie"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1204829", "surname"=>"Di Nardo", "givenName"=>"Antonio", "email"=>nil, "phone"=>"+41 58 46 26133", "function"=>{"german"=>"Stv. Leiter", "french"=>"Chef suppléante", "italian"=>"Capo sostituto", "english"=>"Stv. Leiter"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003251", "label"=>{"german"=>"Bundestresorerie", "french"=>"Trésorerie fédérale", "italian"=>"Tesoreria federale", "english"=>""}, "name"=>{"german"=>"Bundestresorerie", "french"=>"Trésorerie fédérale", "italian"=>"Tesoreria federale", "english"=>""}}, {"id"=>"20026978", "label"=>{"german"=>"Back Office Tresorerie", "french"=>"Back Office Trésorerie", "italian"=>"Back Office Tesoreria", "english"=>""}, "name"=>{"german"=>"Back Office Tresorerie", "french"=>"Back Office Trésorerie", "italian"=>"Back Office Tesoreria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026978",
+  "name": {
+    "german": "Back Office Tresorerie",
+    "french": "Back Office Trésorerie",
+    "italian": "Back Office Tesoreria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 118",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3246963",
+      "surname": "Zaugg",
+      "givenName": "Jacqueline",
+      "email": null,
+      "phone": "+41 58 46 27553",
+      "function": {
+        "german": "Leiterin Back Office Tresorerie",
+        "french": "Cheffe Back Office Tresorerie",
+        "italian": "Capo Front office tesoreria",
+        "english": "Leiterin Back Office Tresorerie"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1204829",
+      "surname": "Di Nardo",
+      "givenName": "Antonio",
+      "email": null,
+      "phone": "+41 58 46 26133",
+      "function": {
+        "german": "Stv. Leiter",
+        "french": "Chef suppléante",
+        "italian": "Capo sostituto",
+        "english": "Stv. Leiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003251",
+      "label": {
+        "german": "Bundestresorerie",
+        "french": "Trésorerie fédérale",
+        "italian": "Tesoreria federale",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundestresorerie",
+        "french": "Trésorerie fédérale",
+        "italian": "Tesoreria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026978",
+      "label": {
+        "german": "Back Office Tresorerie",
+        "french": "Back Office Trésorerie",
+        "italian": "Back Office Tesoreria",
+        "english": ""
+      },
+      "name": {
+        "german": "Back Office Tresorerie",
+        "french": "Back Office Trésorerie",
+        "italian": "Back Office Tesoreria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

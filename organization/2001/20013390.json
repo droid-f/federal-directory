@@ -1,1 +1,259 @@
-{"id"=>"20013390", "name"=>{"german"=>"Kdo Sanität UOS/RS 42", "french"=>"Cdmt ER/ESO sanitaire 42", "italian"=>"Cdo SSU/SR sanitaria 42", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo San Schule 42", "street"=>"Albinengo", "postalCode"=>"6780", "location"=>"Airolo", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003678", "name"=>{"german"=>"Kdt Stv / Stab / Planung San UOS/RS 42", "french"=>"Rempl cdt/EM/Planif ER/ESO san 42", "italian"=>"Sost cdt / SM / Pianif SSU/SR san 42", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003682", "name"=>{"german"=>"Ausbildung Sanität UOS/RS 42", "french"=>"Instruction ER/ESO sanitaire 42", "italian"=>"Istruzione SSU/SR sanitaria 42", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025586", "name"=>{"german"=>"Kompanie 1 Sanität UOS/RS 42", "french"=>"Compagnie 1 ER/ESO sanitaire 42", "italian"=>"Compagnia 1 SSU/SR sanitaria 42", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025587", "name"=>{"german"=>"Kompanie 2 Sanität UOS/RS 42", "french"=>"Compagnie 2 ER/ESO sanitaire 42", "italian"=>"Compagnia 2 SSU/SR sanitaria 42", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025588", "name"=>{"german"=>"Kompanie 3 Sanität UOS/RS 42", "french"=>"Compagnie 3 ER/ESO sanitaire 42", "italian"=>"Compagnia 3 SSU/SR sanitaria 42", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025589", "name"=>{"german"=>"Kompanie 4 Sanität UOS/RS 42", "french"=>"Compagnie 4 ER/ESO sanitaire 42", "italian"=>"Compagnia 4 SSU/SR sanitaria 42", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018206", "name"=>{"german"=>"VBA 2 / Einheitssanität / Durchdiener", "french"=>"IFO 2 / sanitaire d'unité / mil SL", "italian"=>"IDR 2 / Sanità d'unità / MFC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015872", "label"=>{"german"=>"LVBLOG", "french"=>"LVBLOG", "italian"=>"LVBLOG", "english"=>""}, "name"=>{"german"=>"Lehrverband Logistik", "french"=>"Formation d'application de la logistique", "italian"=>"FOA della logistica", "english"=>""}}, {"id"=>"20013390", "label"=>{"german"=>"Kdo Sanität UOS/RS 42", "french"=>"Cdmt ER/ESO sanitaire 42", "italian"=>"Cdo SSU/SR sanitaria 42", "english"=>""}, "name"=>{"german"=>"Kdo Sanität UOS/RS 42", "french"=>"Cdmt ER/ESO sanitaire 42", "italian"=>"Cdo SSU/SR sanitaria 42", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20013390",
+  "name": {
+    "german": "Kdo Sanität UOS/RS 42",
+    "french": "Cdmt ER/ESO sanitaire 42",
+    "italian": "Cdo SSU/SR sanitaria 42",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo San Schule 42",
+    "street": "Albinengo",
+    "postalCode": "6780",
+    "location": "Airolo",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003678",
+      "name": {
+        "german": "Kdt Stv / Stab / Planung San UOS/RS 42",
+        "french": "Rempl cdt/EM/Planif ER/ESO san 42",
+        "italian": "Sost cdt / SM / Pianif SSU/SR san 42",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003682",
+      "name": {
+        "german": "Ausbildung Sanität UOS/RS 42",
+        "french": "Instruction ER/ESO sanitaire 42",
+        "italian": "Istruzione SSU/SR sanitaria 42",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025586",
+      "name": {
+        "german": "Kompanie 1 Sanität UOS/RS 42",
+        "french": "Compagnie 1 ER/ESO sanitaire 42",
+        "italian": "Compagnia 1 SSU/SR sanitaria 42",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025587",
+      "name": {
+        "german": "Kompanie 2 Sanität UOS/RS 42",
+        "french": "Compagnie 2 ER/ESO sanitaire 42",
+        "italian": "Compagnia 2 SSU/SR sanitaria 42",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025588",
+      "name": {
+        "german": "Kompanie 3 Sanität UOS/RS 42",
+        "french": "Compagnie 3 ER/ESO sanitaire 42",
+        "italian": "Compagnia 3 SSU/SR sanitaria 42",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025589",
+      "name": {
+        "german": "Kompanie 4 Sanität UOS/RS 42",
+        "french": "Compagnie 4 ER/ESO sanitaire 42",
+        "italian": "Compagnia 4 SSU/SR sanitaria 42",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018206",
+      "name": {
+        "german": "VBA 2 / Einheitssanität / Durchdiener",
+        "french": "IFO 2 / sanitaire d'unité / mil SL",
+        "italian": "IDR 2 / Sanità d'unità / MFC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015872",
+      "label": {
+        "german": "LVBLOG",
+        "french": "LVBLOG",
+        "italian": "LVBLOG",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Logistik",
+        "french": "Formation d'application de la logistique",
+        "italian": "FOA della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013390",
+      "label": {
+        "german": "Kdo Sanität UOS/RS 42",
+        "french": "Cdmt ER/ESO sanitaire 42",
+        "italian": "Cdo SSU/SR sanitaria 42",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Sanität UOS/RS 42",
+        "french": "Cdmt ER/ESO sanitaire 42",
+        "italian": "Cdo SSU/SR sanitaria 42",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

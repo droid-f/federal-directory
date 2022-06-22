@@ -1,1 +1,188 @@
-{"id"=>"20036785", "name"=>{"german"=>"Sektion Datenmanagement und Statistik", "french"=>"Section Gestion des données et statistique", "italian"=>"Sezione gestione dei dati e statistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7259246", "surname"=>"Vuffray", "givenName"=>"Claude", "email"=>nil, "phone"=>"+41 58 46 29148", "function"=>{"german"=>"Sektionsleiter/in", "french"=>"Chef Section statistique", "italian"=>"Capo Sezione Statistica", "english"=>"Sektionsleiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6503715", "surname"=>"Girardin", "givenName"=>"Pinky", "email"=>nil, "phone"=>"+41 58 46 34795", "function"=>{"german"=>"Stv. Sektionsleiter/in und Wiss. MA", "french"=>"Cheffe suppléante", "italian"=>"Capo gruppo", "english"=>"Stv. Sektionsleiter/in und Wiss. MA"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20036803", "label"=>{"german"=>"Direktionsbereich Kranken- und Unfallversicherung", "french"=>"Unité de direction Assurance maladie et accidents", "italian"=>"Unità di direzione Assicurazione malattia e infortunio", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Kranken- und Unfallversicherung", "french"=>"Unité de direction Assurance maladie et accidents", "italian"=>"Unità di direzione Assicurazione malattia e infortunio", "english"=>""}}, {"id"=>"20036759", "label"=>{"german"=>"Abteilung Tarife und Grundlagen", "french"=>"Division Tarifs et bases", "italian"=>"Divisione tariffe e basi", "english"=>""}, "name"=>{"german"=>"Abteilung Tarife und Grundlagen", "french"=>"Division Tarifs et bases", "italian"=>"Divisione tariffe e basi", "english"=>""}}, {"id"=>"20036785", "label"=>{"german"=>"Sektion Datenmanagement und Statistik", "french"=>"Section Gestion des données et statistique", "italian"=>"Sezione gestione dei dati e statistica", "english"=>""}, "name"=>{"german"=>"Sektion Datenmanagement und Statistik", "french"=>"Section Gestion des données et statistique", "italian"=>"Sezione gestione dei dati e statistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20036785",
+  "name": {
+    "german": "Sektion Datenmanagement und Statistik",
+    "french": "Section Gestion des données et statistique",
+    "italian": "Sezione gestione dei dati e statistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7259246",
+      "surname": "Vuffray",
+      "givenName": "Claude",
+      "email": null,
+      "phone": "+41 58 46 29148",
+      "function": {
+        "german": "Sektionsleiter/in",
+        "french": "Chef Section statistique",
+        "italian": "Capo Sezione Statistica",
+        "english": "Sektionsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6503715",
+      "surname": "Girardin",
+      "givenName": "Pinky",
+      "email": null,
+      "phone": "+41 58 46 34795",
+      "function": {
+        "german": "Stv. Sektionsleiter/in und Wiss. MA",
+        "french": "Cheffe suppléante",
+        "italian": "Capo gruppo",
+        "english": "Stv. Sektionsleiter/in und Wiss. MA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036803",
+      "label": {
+        "german": "Direktionsbereich Kranken- und Unfallversicherung",
+        "french": "Unité de direction Assurance maladie et accidents",
+        "italian": "Unità di direzione Assicurazione malattia e infortunio",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Kranken- und Unfallversicherung",
+        "french": "Unité de direction Assurance maladie et accidents",
+        "italian": "Unità di direzione Assicurazione malattia e infortunio",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036759",
+      "label": {
+        "german": "Abteilung Tarife und Grundlagen",
+        "french": "Division Tarifs et bases",
+        "italian": "Divisione tariffe e basi",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Tarife und Grundlagen",
+        "french": "Division Tarifs et bases",
+        "italian": "Divisione tariffe e basi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036785",
+      "label": {
+        "german": "Sektion Datenmanagement und Statistik",
+        "french": "Section Gestion des données et statistique",
+        "italian": "Sezione gestione dei dati e statistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Datenmanagement und Statistik",
+        "french": "Section Gestion des données et statistique",
+        "italian": "Sezione gestione dei dati e statistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,214 @@
-{"id"=>"10003293", "name"=>{"german"=>"Finanzdienst I - Soziales, Umwelt und Landwirtschaft", "french"=>"Service financier I - Affaires sociales, environnement et agriculture", "italian"=>"Servizio finanziario I - Affari sociali, ambiente e agricoltura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9174358", "surname"=>"Widmer", "givenName"=>"Marianne", "email"=>nil, "phone"=>"+41 58 46 38609", "function"=>{"german"=>"Stv. Abteilungsleiterin - Leiterin Finanzdienst I", "french"=>"Cheffe suppléante de la division - Cheffe Service financier I", "italian"=>"Capo sostituta della divisione - Capo Servizi finanziario I", "english"=>"Stv. Abt.L. - Leiterin Finanzdienst I"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7633477", "surname"=>"Matter Schaffner", "givenName"=>"Eva", "email"=>nil, "phone"=>"+41 58 46 54206", "function"=>{"german"=>"Stv. Leiterin", "french"=>"Cheffe suppléante", "italian"=>"Capo sostituta", "english"=>"Stv. Leiterin"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1325345", "surname"=>"Giudici", "givenName"=>"Filippo", "email"=>nil, "phone"=>"+41 58 48 13458", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7182827", "surname"=>"Halter", "givenName"=>"Luzia", "email"=>nil, "phone"=>"+41 58 46 57499", "function"=>{"german"=>"Oekonomin", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonomin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7707549", "surname"=>"Olsthoorn", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 48 14635", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003292", "label"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}, "name"=>{"german"=>"Ausgabenpolitik", "french"=>"Politique des dépenses", "italian"=>"Politica della spesa pubblica", "english"=>""}}, {"id"=>"10003293", "label"=>{"german"=>"Finanzdienst I - Soziales, Umwelt und Landwirtschaft", "french"=>"Service financier I - Affaires sociales, environnement et agriculture", "italian"=>"Servizio finanziario I - Affari sociali, ambiente e agricoltura", "english"=>""}, "name"=>{"german"=>"Finanzdienst I - Soziales, Umwelt und Landwirtschaft", "french"=>"Service financier I - Affaires sociales, environnement et agriculture", "italian"=>"Servizio finanziario I - Affari sociali, ambiente e agricoltura", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003293",
+  "name": {
+    "german": "Finanzdienst I - Soziales, Umwelt und Landwirtschaft",
+    "french": "Service financier I - Affaires sociales, environnement et agriculture",
+    "italian": "Servizio finanziario I - Affari sociali, ambiente e agricoltura",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9174358",
+      "surname": "Widmer",
+      "givenName": "Marianne",
+      "email": null,
+      "phone": "+41 58 46 38609",
+      "function": {
+        "german": "Stv. Abteilungsleiterin - Leiterin Finanzdienst I",
+        "french": "Cheffe suppléante de la division - Cheffe Service financier I",
+        "italian": "Capo sostituta della divisione - Capo Servizi finanziario I",
+        "english": "Stv. Abt.L. - Leiterin Finanzdienst I"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7633477",
+      "surname": "Matter Schaffner",
+      "givenName": "Eva",
+      "email": null,
+      "phone": "+41 58 46 54206",
+      "function": {
+        "german": "Stv. Leiterin",
+        "french": "Cheffe suppléante",
+        "italian": "Capo sostituta",
+        "english": "Stv. Leiterin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1325345",
+      "surname": "Giudici",
+      "givenName": "Filippo",
+      "email": null,
+      "phone": "+41 58 48 13458",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7182827",
+      "surname": "Halter",
+      "givenName": "Luzia",
+      "email": null,
+      "phone": "+41 58 46 57499",
+      "function": {
+        "german": "Oekonomin",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonomin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7707549",
+      "surname": "Olsthoorn",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 48 14635",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003292",
+      "label": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      },
+      "name": {
+        "german": "Ausgabenpolitik",
+        "french": "Politique des dépenses",
+        "italian": "Politica della spesa pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003293",
+      "label": {
+        "german": "Finanzdienst I - Soziales, Umwelt und Landwirtschaft",
+        "french": "Service financier I - Affaires sociales, environnement et agriculture",
+        "italian": "Servizio finanziario I - Affari sociali, ambiente e agricoltura",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzdienst I - Soziales, Umwelt und Landwirtschaft",
+        "french": "Service financier I - Affaires sociales, environnement et agriculture",
+        "italian": "Servizio finanziario I - Affari sociali, ambiente e agricoltura",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

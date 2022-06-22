@@ -1,1 +1,170 @@
-{"id"=>"20021433", "name"=>{"german"=>"Dienst Direktionsgeschäfte und Recht", "french"=>"Service Affaires de direction et droit", "italian"=>"Servizio Affari di direzione e diritto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20005026", "name"=>{"german"=>"Fachstelle Operative Direktionsgeschäfte", "french"=>"Service spécialisé Affaires de direction opérationnel", "italian"=>"Servizio specializzato Affari die direzione operativi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5122633", "surname"=>"Zimmermann", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 25169", "function"=>{"german"=>"Leiter/in Dienst", "french"=>"Chef/fe de service", "italian"=>"Caposervizio", "english"=>"Leiter/in Dienst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004326", "label"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}}, {"id"=>"20010076", "label"=>{"german"=>"Stellvertretende Direktion BAK", "french"=>"Direction suppléante OFC", "italian"=>"Direzione supplente UFC", "english"=>""}, "name"=>{"german"=>"Stellvertretende Direktion BAK", "french"=>"Direction suppléante OFC", "italian"=>"Direzione supplente UFC", "english"=>""}}, {"id"=>"20021433", "label"=>{"german"=>"Dienst Direktionsgeschäfte und Recht", "french"=>"Service Affaires de direction et droit", "italian"=>"Servizio Affari di direzione e diritto", "english"=>""}, "name"=>{"german"=>"Dienst Direktionsgeschäfte und Recht", "french"=>"Service Affaires de direction et droit", "italian"=>"Servizio Affari di direzione e diritto", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021433",
+  "name": {
+    "german": "Dienst Direktionsgeschäfte und Recht",
+    "french": "Service Affaires de direction et droit",
+    "italian": "Servizio Affari di direzione e diritto",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20005026",
+      "name": {
+        "german": "Fachstelle Operative Direktionsgeschäfte",
+        "french": "Service spécialisé Affaires de direction opérationnel",
+        "italian": "Servizio specializzato Affari die direzione operativi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5122633",
+      "surname": "Zimmermann",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 25169",
+      "function": {
+        "german": "Leiter/in Dienst",
+        "french": "Chef/fe de service",
+        "italian": "Caposervizio",
+        "english": "Leiter/in Dienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004326",
+      "label": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010076",
+      "label": {
+        "german": "Stellvertretende Direktion BAK",
+        "french": "Direction suppléante OFC",
+        "italian": "Direzione supplente UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Stellvertretende Direktion BAK",
+        "french": "Direction suppléante OFC",
+        "italian": "Direzione supplente UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021433",
+      "label": {
+        "german": "Dienst Direktionsgeschäfte und Recht",
+        "french": "Service Affaires de direction et droit",
+        "italian": "Servizio Affari di direzione e diritto",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst Direktionsgeschäfte und Recht",
+        "french": "Service Affaires de direction et droit",
+        "italian": "Servizio Affari di direzione e diritto",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

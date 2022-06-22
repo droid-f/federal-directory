@@ -1,1 +1,173 @@
-{"id"=>"20037491", "name"=>{"german"=>"Technische Organisationen Zürich", "french"=>"Organisations techniques Zurich", "italian"=>"Organizzazioni tecniche Zurigo", "english"=>"Technische Organisationen Zürich"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center (6. Stock) 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4664944", "surname"=>"Meier", "givenName"=>"Ronald", "email"=>nil, "phone"=>"+41 58 46 63094", "function"=>{"german"=>"Leiter Technische Organisationen Zürich", "french"=>"Leiter Technische Organisationen Zürich", "italian"=>"Leiter Technische Organisationen Zürich", "english"=>"Leiter Technische Organisationen Zürich"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3049922", "surname"=>"Jucker", "givenName"=>"Ulrich", "email"=>nil, "phone"=>"+41 58 46 63096", "function"=>{"german"=>"Stellvertreter STOZ", "french"=>"Stellvertreter STOZ", "italian"=>"Stellvertreter STOZ", "english"=>"Stellvertreter STOZ"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009163", "label"=>{"german"=>"Sicherheit Flugtechnik", "french"=>"Sécurité technique", "italian"=>"Sicurezza tecnica", "english"=>"Sicherheit Flugtechnik"}, "name"=>{"german"=>"Sicherheit Flugtechnik", "french"=>"Sécurité technique", "italian"=>"Sicurezza tecnica", "english"=>"Sicherheit Flugtechnik"}}, {"id"=>"20037491", "label"=>{"german"=>"Technische Organisationen Zürich", "french"=>"Organisations techniques Zurich", "italian"=>"Organizzazioni tecniche Zurigo", "english"=>"Technische Organisationen Zürich"}, "name"=>{"german"=>"Technische Organisationen Zürich", "french"=>"Organisations techniques Zurich", "italian"=>"Organizzazioni tecniche Zurigo", "english"=>"Technische Organisationen Zürich"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037491",
+  "name": {
+    "german": "Technische Organisationen Zürich",
+    "french": "Organisations techniques Zurich",
+    "italian": "Organizzazioni tecniche Zurigo",
+    "english": "Technische Organisationen Zürich"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center (6. Stock) 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4664944",
+      "surname": "Meier",
+      "givenName": "Ronald",
+      "email": null,
+      "phone": "+41 58 46 63094",
+      "function": {
+        "german": "Leiter Technische Organisationen Zürich",
+        "french": "Leiter Technische Organisationen Zürich",
+        "italian": "Leiter Technische Organisationen Zürich",
+        "english": "Leiter Technische Organisationen Zürich"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3049922",
+      "surname": "Jucker",
+      "givenName": "Ulrich",
+      "email": null,
+      "phone": "+41 58 46 63096",
+      "function": {
+        "german": "Stellvertreter STOZ",
+        "french": "Stellvertreter STOZ",
+        "italian": "Stellvertreter STOZ",
+        "english": "Stellvertreter STOZ"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009163",
+      "label": {
+        "german": "Sicherheit Flugtechnik",
+        "french": "Sécurité technique",
+        "italian": "Sicurezza tecnica",
+        "english": "Sicherheit Flugtechnik"
+      },
+      "name": {
+        "german": "Sicherheit Flugtechnik",
+        "french": "Sécurité technique",
+        "italian": "Sicurezza tecnica",
+        "english": "Sicherheit Flugtechnik"
+      }
+    },
+    {
+      "id": "20037491",
+      "label": {
+        "german": "Technische Organisationen Zürich",
+        "french": "Organisations techniques Zurich",
+        "italian": "Organizzazioni tecniche Zurigo",
+        "english": "Technische Organisationen Zürich"
+      },
+      "name": {
+        "german": "Technische Organisationen Zürich",
+        "french": "Organisations techniques Zurich",
+        "italian": "Organizzazioni tecniche Zurigo",
+        "english": "Technische Organisationen Zürich"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,153 @@
-{"id"=>"20035171", "name"=>{"german"=>"Laboratorien", "french"=>"Laboratoires", "italian"=>"Laboratori", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-3627054", "surname"=>"Moor", "givenName"=>"Dominik", "email"=>nil, "phone"=>"+41 58 46 49378", "function"=>{"german"=>"Wiss. MA - Leitung Gruppe Biologie", "french"=>"Wiss. MA - Leitung Gruppe Biologie", "italian"=>"Wiss. MA - Leitung Gruppe Biologie", "english"=>"Wiss. MA - Leitung Gruppe Biologie"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035161", "label"=>{"german"=>"Risikobewertung", "french"=>"Evaluation des risques", "italian"=>"Valutazione dei rischi", "english"=>""}, "name"=>{"german"=>"Risikobewertung", "french"=>"Evaluation des risques", "italian"=>"Valutazione dei rischi", "english"=>""}}, {"id"=>"20035171", "label"=>{"german"=>"Laboratorien", "french"=>"Laboratoires", "italian"=>"Laboratori", "english"=>""}, "name"=>{"german"=>"Laboratorien", "french"=>"Laboratoires", "italian"=>"Laboratori", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035171",
+  "name": {
+    "german": "Laboratorien",
+    "french": "Laboratoires",
+    "italian": "Laboratori",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-3627054",
+      "surname": "Moor",
+      "givenName": "Dominik",
+      "email": null,
+      "phone": "+41 58 46 49378",
+      "function": {
+        "german": "Wiss. MA - Leitung Gruppe Biologie",
+        "french": "Wiss. MA - Leitung Gruppe Biologie",
+        "italian": "Wiss. MA - Leitung Gruppe Biologie",
+        "english": "Wiss. MA - Leitung Gruppe Biologie"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035161",
+      "label": {
+        "german": "Risikobewertung",
+        "french": "Evaluation des risques",
+        "italian": "Valutazione dei rischi",
+        "english": ""
+      },
+      "name": {
+        "german": "Risikobewertung",
+        "french": "Evaluation des risques",
+        "italian": "Valutazione dei rischi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035171",
+      "label": {
+        "german": "Laboratorien",
+        "french": "Laboratoires",
+        "italian": "Laboratori",
+        "english": ""
+      },
+      "name": {
+        "german": "Laboratorien",
+        "french": "Laboratoires",
+        "italian": "Laboratori",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

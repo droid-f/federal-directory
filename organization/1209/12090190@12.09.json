@@ -1,1 +1,249 @@
-{"id"=>"12090190@12.09", "name"=>{"german"=>"EHB-Rat", "french"=>"Conseil HEFP", "italian"=>"Consiglio SUFFP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kirchlindachstrasse 79", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 458 27 00", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-10002078", "surname"=>"Wüthrich", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Präsident EHB-Rat", "french"=>"Präsident EHB-Rat", "italian"=>"Präsident EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002081", "surname"=>"Mirante", "givenName"=>"Amalia", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Vizepräsidentin EHB-Rat", "french"=>"Vizepräsidentin EHB-Rat", "italian"=>"Vizepräsidentin EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002084", "surname"=>"Pottier", "givenName"=>"Claude", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Vizepräsident EHB-Rat", "french"=>"Vizepräsident EHB-Rat", "italian"=>"Vizepräsident EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002079", "surname"=>"Cochand", "givenName"=>"Oriane", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Mitglied EHB-Rat", "french"=>"Mitglied EHB-Rat", "italian"=>"Mitglied EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002086", "surname"=>"Dinichert", "givenName"=>"Olivier", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Mitglied EHB-Rat", "french"=>"Mitglied EHB-Rat", "italian"=>"Mitglied EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002090", "surname"=>"Kronig", "givenName"=>"Winfries", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Mitglied EHB-Rat", "french"=>"Mitglied EHB-Rat", "italian"=>"Mitglied EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002095", "surname"=>"Locher Schmid", "givenName"=>"Angelika", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Mitglied EHB-Rat", "french"=>"Mitglied EHB-Rat", "italian"=>"Mitglied EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002072", "surname"=>"Rüesch", "givenName"=>"Andri", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Mitglied EHB-Rat", "french"=>"Mitglied EHB-Rat", "italian"=>"Mitglied EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002076", "surname"=>"Zurkirchen", "givenName"=>"Amalia", "email"=>nil, "phone"=>"+41 58 458 28 04", "function"=>{"german"=>"Mitglied EHB-Rat", "french"=>"Mitglied EHB-Rat", "italian"=>"Mitglied EHB-Rat", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002082", "surname"=>"Hutter", "givenName"=>"Miriam", "email"=>nil, "phone"=>"+41 58 458 28 75", "function"=>{"german"=>"Ratssekretärin", "french"=>"Ratssekretärin", "italian"=>"Ratssekretärin", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"12090100@12.09", "label"=>{"german"=>"EHB", "french"=>"HEFP", "italian"=>"SUFFP", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Berufsbildung", "french"=>"Haute école fédérale en formation professionnelle", "italian"=>"Scuola universitaria federale per la formazione professionale", "english"=>""}}, {"id"=>"12090190@12.09", "label"=>{"german"=>"EHB-Rat", "french"=>"Conseil HEFP", "italian"=>"Consiglio SUFFP", "english"=>""}, "name"=>{"german"=>"EHB-Rat", "french"=>"Conseil HEFP", "italian"=>"Consiglio SUFFP", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12090190@12.09",
+  "name": {
+    "german": "EHB-Rat",
+    "french": "Conseil HEFP",
+    "italian": "Consiglio SUFFP",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kirchlindachstrasse 79",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 458 27 00",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-10002078",
+      "surname": "Wüthrich",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Präsident EHB-Rat",
+        "french": "Präsident EHB-Rat",
+        "italian": "Präsident EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002081",
+      "surname": "Mirante",
+      "givenName": "Amalia",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Vizepräsidentin EHB-Rat",
+        "french": "Vizepräsidentin EHB-Rat",
+        "italian": "Vizepräsidentin EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002084",
+      "surname": "Pottier",
+      "givenName": "Claude",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Vizepräsident EHB-Rat",
+        "french": "Vizepräsident EHB-Rat",
+        "italian": "Vizepräsident EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002079",
+      "surname": "Cochand",
+      "givenName": "Oriane",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Mitglied EHB-Rat",
+        "french": "Mitglied EHB-Rat",
+        "italian": "Mitglied EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002086",
+      "surname": "Dinichert",
+      "givenName": "Olivier",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Mitglied EHB-Rat",
+        "french": "Mitglied EHB-Rat",
+        "italian": "Mitglied EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002090",
+      "surname": "Kronig",
+      "givenName": "Winfries",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Mitglied EHB-Rat",
+        "french": "Mitglied EHB-Rat",
+        "italian": "Mitglied EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002095",
+      "surname": "Locher Schmid",
+      "givenName": "Angelika",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Mitglied EHB-Rat",
+        "french": "Mitglied EHB-Rat",
+        "italian": "Mitglied EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002072",
+      "surname": "Rüesch",
+      "givenName": "Andri",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Mitglied EHB-Rat",
+        "french": "Mitglied EHB-Rat",
+        "italian": "Mitglied EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002076",
+      "surname": "Zurkirchen",
+      "givenName": "Amalia",
+      "email": null,
+      "phone": "+41 58 458 28 04",
+      "function": {
+        "german": "Mitglied EHB-Rat",
+        "french": "Mitglied EHB-Rat",
+        "italian": "Mitglied EHB-Rat",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002082",
+      "surname": "Hutter",
+      "givenName": "Miriam",
+      "email": null,
+      "phone": "+41 58 458 28 75",
+      "function": {
+        "german": "Ratssekretärin",
+        "french": "Ratssekretärin",
+        "italian": "Ratssekretärin",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "12090100@12.09",
+      "label": {
+        "german": "EHB",
+        "french": "HEFP",
+        "italian": "SUFFP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Berufsbildung",
+        "french": "Haute école fédérale en formation professionnelle",
+        "italian": "Scuola universitaria federale per la formazione professionale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12090190@12.09",
+      "label": {
+        "german": "EHB-Rat",
+        "french": "Conseil HEFP",
+        "italian": "Consiglio SUFFP",
+        "english": ""
+      },
+      "name": {
+        "german": "EHB-Rat",
+        "french": "Conseil HEFP",
+        "italian": "Consiglio SUFFP",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

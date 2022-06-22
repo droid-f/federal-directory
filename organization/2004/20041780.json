@@ -1,1 +1,110 @@
-{"id"=>"20041780", "name"=>{"german"=>"Sekretariat", "french"=>"Secrétariat", "italian"=>"Segretaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005095", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}}, {"id"=>"10005097", "label"=>{"german"=>"Rechts- und Informationsdienst", "french"=>"Service juridique et d'information", "italian"=>"Servizio giuridico e d'informazione", "english"=>""}, "name"=>{"german"=>"Rechts- und Informationsdienst", "french"=>"Service juridique et d'information", "italian"=>"Servizio giuridico e d'informazione", "english"=>""}}, {"id"=>"20041780", "label"=>{"german"=>"Sekretariat", "french"=>"Secrétariat", "italian"=>"Segretaria", "english"=>""}, "name"=>{"german"=>"Sekretariat", "french"=>"Secrétariat", "italian"=>"Segretaria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041780",
+  "name": {
+    "german": "Sekretariat",
+    "french": "Secrétariat",
+    "italian": "Segretaria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005095",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005097",
+      "label": {
+        "german": "Rechts- und Informationsdienst",
+        "french": "Service juridique et d'information",
+        "italian": "Servizio giuridico e d'informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Rechts- und Informationsdienst",
+        "french": "Service juridique et d'information",
+        "italian": "Servizio giuridico e d'informazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041780",
+      "label": {
+        "german": "Sekretariat",
+        "french": "Secrétariat",
+        "italian": "Segretaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Sekretariat",
+        "french": "Secrétariat",
+        "italian": "Segretaria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

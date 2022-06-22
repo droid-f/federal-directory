@@ -1,1 +1,195 @@
-{"id"=>"20040083", "name"=>{"german"=>"Abteilung VI Kammer 1.6", "french"=>"Cour VI Chambre 1.1", "italian"=>"Corte VI Camera 1.1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1989416", "surname"=>"Schenker Senn", "givenName"=>"Regula", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Richter/in Abteilung VI", "french"=>"Juge Cour VI", "italian"=>"Giudice Corte VI", "english"=>"Richter/in Abteilung VI"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1501713", "surname"=>"Grimm", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung VI", "french"=>"Greffier/Greffière II Cour VI", "italian"=>"Cancelliere/a II Corte VI", "english"=>"Gerichtsschreiber/in II Abteilung VI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3828970", "surname"=>"Lanz", "givenName"=>"Mathias", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung VI", "french"=>"Greffier/Greffière Cour VI", "italian"=>"Cancelliere/a Corte VI", "english"=>"Gerichtsschreiber/in II Abteilung VI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1721207", "surname"=>"Mondgenast", "givenName"=>"Annina", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung VI", "french"=>"Greffier/Greffière II Cour VI", "italian"=>"Cancelliere/a II Corte VI", "english"=>"Gerichtsschreiber/in II Abteilung VI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5041007", "surname"=>"Preisig", "givenName"=>"Christa", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung VI", "french"=>"Greffier/Greffière Cour VI", "italian"=>"Cancelliere/a Corte VI", "english"=>"Gerichtsschreiber/in Abteilung VI"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6485563", "surname"=>"Stockmeyer", "givenName"=>"Susanne", "email"=>nil, "phone"=>"+41 58 46 52595", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung VI", "french"=>"Greffier/Greffière II Cour VI", "italian"=>"Cancelliere/a II Corte VI", "english"=>"Gerichtsschreiber/in II Abteilung VI"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20039952", "label"=>{"german"=>"Abteilung VI - Ausländer- und Bürgerrecht", "french"=>"Cour VI - droit des étrangers, droit de cité", "italian"=>"Corte VI - diritto stranieri e cittadinanza", "english"=>""}, "name"=>{"german"=>"Abteilung VI - Ausländer- und Bürgerrecht", "french"=>"Cour VI - droit des étrangers, droit de cité", "italian"=>"Corte VI - diritto stranieri e cittadinanza", "english"=>""}}, {"id"=>"20040076", "label"=>{"german"=>"Abteilung VI Kammer 1", "french"=>"Cour VI Chambre 1", "italian"=>"Corte VI Camera 1", "english"=>""}, "name"=>{"german"=>"Abteilung VI Kammer 1", "french"=>"Cour VI Chambre 1", "italian"=>"Corte VI Camera 1", "english"=>""}}, {"id"=>"20040083", "label"=>{"german"=>"Abteilung VI Kammer 1.6", "french"=>"Cour VI Chambre 1.1", "italian"=>"Corte VI Camera 1.1", "english"=>""}, "name"=>{"german"=>"Abteilung VI Kammer 1.6", "french"=>"Cour VI Chambre 1.1", "italian"=>"Corte VI Camera 1.1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20040083",
+  "name": {
+    "german": "Abteilung VI Kammer 1.6",
+    "french": "Cour VI Chambre 1.1",
+    "italian": "Corte VI Camera 1.1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1989416",
+      "surname": "Schenker Senn",
+      "givenName": "Regula",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Richter/in Abteilung VI",
+        "french": "Juge Cour VI",
+        "italian": "Giudice Corte VI",
+        "english": "Richter/in Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1501713",
+      "surname": "Grimm",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung VI",
+        "french": "Greffier/Greffière II Cour VI",
+        "italian": "Cancelliere/a II Corte VI",
+        "english": "Gerichtsschreiber/in II Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3828970",
+      "surname": "Lanz",
+      "givenName": "Mathias",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung VI",
+        "french": "Greffier/Greffière Cour VI",
+        "italian": "Cancelliere/a Corte VI",
+        "english": "Gerichtsschreiber/in II Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1721207",
+      "surname": "Mondgenast",
+      "givenName": "Annina",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung VI",
+        "french": "Greffier/Greffière II Cour VI",
+        "italian": "Cancelliere/a II Corte VI",
+        "english": "Gerichtsschreiber/in II Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5041007",
+      "surname": "Preisig",
+      "givenName": "Christa",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung VI",
+        "french": "Greffier/Greffière Cour VI",
+        "italian": "Cancelliere/a Corte VI",
+        "english": "Gerichtsschreiber/in Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6485563",
+      "surname": "Stockmeyer",
+      "givenName": "Susanne",
+      "email": null,
+      "phone": "+41 58 46 52595",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung VI",
+        "french": "Greffier/Greffière II Cour VI",
+        "italian": "Cancelliere/a II Corte VI",
+        "english": "Gerichtsschreiber/in II Abteilung VI"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039952",
+      "label": {
+        "german": "Abteilung VI - Ausländer- und Bürgerrecht",
+        "french": "Cour VI - droit des étrangers, droit de cité",
+        "italian": "Corte VI - diritto stranieri e cittadinanza",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung VI - Ausländer- und Bürgerrecht",
+        "french": "Cour VI - droit des étrangers, droit de cité",
+        "italian": "Corte VI - diritto stranieri e cittadinanza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040076",
+      "label": {
+        "german": "Abteilung VI Kammer 1",
+        "french": "Cour VI Chambre 1",
+        "italian": "Corte VI Camera 1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung VI Kammer 1",
+        "french": "Cour VI Chambre 1",
+        "italian": "Corte VI Camera 1",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040083",
+      "label": {
+        "german": "Abteilung VI Kammer 1.6",
+        "french": "Cour VI Chambre 1.1",
+        "italian": "Corte VI Camera 1.1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung VI Kammer 1.6",
+        "french": "Cour VI Chambre 1.1",
+        "italian": "Corte VI Camera 1.1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

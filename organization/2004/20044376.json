@@ -1,1 +1,181 @@
-{"id"=>"20044376", "name"=>{"german"=>"Abteilung I Kammer 2.1", "french"=>"Cour I Chambre 2.1", "italian"=>"Corte I Camera 2.1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6143042", "surname"=>"Gani", "givenName"=>"Raphaël", "email"=>nil, "phone"=>"+41 58 46 52502", "function"=>{"german"=>"Richter/in Abteilung I", "french"=>"Juge Cour I", "italian"=>"Giudice Corte I", "english"=>"Richter/in Abteilung I"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-0231562", "surname"=>"Bagnoud", "givenName"=>"Raphael", "email"=>nil, "phone"=>"+41 58 46 52502", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung I", "french"=>"Greffier/Greffière II Cour I", "italian"=>"Cancelliere/a II Corte I", "english"=>"Gerichtsschreiber/in II Abteilung I"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6750660", "surname"=>"Fadda", "givenName"=>"Alice", "email"=>nil, "phone"=>"+41 58 46 52502", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung I", "french"=>"Greffier/Greffière Cour I", "italian"=>"Cancelliere/a Corte I", "english"=>"Gerichtsschreiber/in Abteilung I"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1129540", "surname"=>"Feller", "givenName"=>"Rafi", "email"=>nil, "phone"=>"+41 58 46 52502", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung I", "french"=>"Greffier/Greffière Cour I", "italian"=>"Cancelliere/a Corte I", "english"=>"Gerichtsschreiber/in Abteilung I"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7145897", "surname"=>"Gurtner", "givenName"=>"Jérôme", "email"=>nil, "phone"=>"+41 58 46 52502", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung I", "french"=>"Greffier/Greffière Cour I", "italian"=>"Cancelliere/a Corte II I", "english"=>"Gerichtsschreiber/in Abteilung I"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014816", "label"=>{"german"=>"Abteilung I - Infrastruktur, Finanzen und Personal", "french"=>"Cour I - infrastructure, finances et personnel", "italian"=>"Corte I - infrastruttura, finanze e personale", "english"=>""}, "name"=>{"german"=>"Abteilung I - Infrastruktur, Finanzen und Personal", "french"=>"Cour I - infrastructure, finances et personnel", "italian"=>"Corte I - infrastruttura, finanze e personale", "english"=>""}}, {"id"=>"20030169", "label"=>{"german"=>"Abteilung I Kammer 2", "french"=>"Cour I Chambre 2", "italian"=>"Corte I Camera 2", "english"=>""}, "name"=>{"german"=>"Abteilung I Kammer 2", "french"=>"Cour I Chambre 2", "italian"=>"Corte I Camera 2", "english"=>""}}, {"id"=>"20044376", "label"=>{"german"=>"Abteilung I Kammer 2.1", "french"=>"Cour I Chambre 2.1", "italian"=>"Corte I Camera 2.1", "english"=>""}, "name"=>{"german"=>"Abteilung I Kammer 2.1", "french"=>"Cour I Chambre 2.1", "italian"=>"Corte I Camera 2.1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20044376",
+  "name": {
+    "german": "Abteilung I Kammer 2.1",
+    "french": "Cour I Chambre 2.1",
+    "italian": "Corte I Camera 2.1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6143042",
+      "surname": "Gani",
+      "givenName": "Raphaël",
+      "email": null,
+      "phone": "+41 58 46 52502",
+      "function": {
+        "german": "Richter/in Abteilung I",
+        "french": "Juge Cour I",
+        "italian": "Giudice Corte I",
+        "english": "Richter/in Abteilung I"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-0231562",
+      "surname": "Bagnoud",
+      "givenName": "Raphael",
+      "email": null,
+      "phone": "+41 58 46 52502",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung I",
+        "french": "Greffier/Greffière II Cour I",
+        "italian": "Cancelliere/a II Corte I",
+        "english": "Gerichtsschreiber/in II Abteilung I"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6750660",
+      "surname": "Fadda",
+      "givenName": "Alice",
+      "email": null,
+      "phone": "+41 58 46 52502",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung I",
+        "french": "Greffier/Greffière Cour I",
+        "italian": "Cancelliere/a Corte I",
+        "english": "Gerichtsschreiber/in Abteilung I"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1129540",
+      "surname": "Feller",
+      "givenName": "Rafi",
+      "email": null,
+      "phone": "+41 58 46 52502",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung I",
+        "french": "Greffier/Greffière Cour I",
+        "italian": "Cancelliere/a Corte I",
+        "english": "Gerichtsschreiber/in Abteilung I"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7145897",
+      "surname": "Gurtner",
+      "givenName": "Jérôme",
+      "email": null,
+      "phone": "+41 58 46 52502",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung I",
+        "french": "Greffier/Greffière Cour I",
+        "italian": "Cancelliere/a Corte II I",
+        "english": "Gerichtsschreiber/in Abteilung I"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014816",
+      "label": {
+        "german": "Abteilung I - Infrastruktur, Finanzen und Personal",
+        "french": "Cour I - infrastructure, finances et personnel",
+        "italian": "Corte I - infrastruttura, finanze e personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung I - Infrastruktur, Finanzen und Personal",
+        "french": "Cour I - infrastructure, finances et personnel",
+        "italian": "Corte I - infrastruttura, finanze e personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030169",
+      "label": {
+        "german": "Abteilung I Kammer 2",
+        "french": "Cour I Chambre 2",
+        "italian": "Corte I Camera 2",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung I Kammer 2",
+        "french": "Cour I Chambre 2",
+        "italian": "Corte I Camera 2",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044376",
+      "label": {
+        "german": "Abteilung I Kammer 2.1",
+        "french": "Cour I Chambre 2.1",
+        "italian": "Corte I Camera 2.1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung I Kammer 2.1",
+        "french": "Cour I Chambre 2.1",
+        "italian": "Corte I Camera 2.1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

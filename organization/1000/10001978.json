@@ -1,1 +1,155 @@
-{"id"=>"10001978", "name"=>{"german"=>"Hauptbuchhaltung", "french"=>"Comptabilité principale", "italian"=>"Hauptbuchhaltung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Av. Edmond Vaucher 18, CP 3000", "postalCode"=>"1211", "location"=>"Genève 2", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10001950", "label"=>{"german"=>"ZAS", "french"=>"CdC", "italian"=>"UCC", "english"=>""}, "name"=>{"german"=>"Zentrale Ausgleichsstelle", "french"=>"Centrale de compensation", "italian"=>"Ufficio centrale di compensazione", "english"=>""}}, {"id"=>"10001974", "label"=>{"german"=>"Finanzen und Zentralregister", "french"=>"FRC-Finances et Registres centraux", "italian"=>"Finanze e Registri centrali FRC", "english"=>""}, "name"=>{"german"=>"Finanzen und Zentralregister", "french"=>"FRC-Finances et Registres centraux", "italian"=>"Finanze e Registri centrali FRC", "english"=>""}}, {"id"=>"10001977", "label"=>{"german"=>"Finanzen SAK", "french"=>"Finances CSC", "italian"=>"Finanze CSC", "english"=>""}, "name"=>{"german"=>"Finanzen SAK", "french"=>"Finances CSC", "italian"=>"Finanze CSC", "english"=>""}}, {"id"=>"10001978", "label"=>{"german"=>"Hauptbuchhaltung", "french"=>"Comptabilité principale", "italian"=>"Hauptbuchhaltung", "english"=>""}, "name"=>{"german"=>"Hauptbuchhaltung", "french"=>"Comptabilité principale", "italian"=>"Hauptbuchhaltung", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10001978",
+  "name": {
+    "german": "Hauptbuchhaltung",
+    "french": "Comptabilité principale",
+    "italian": "Hauptbuchhaltung",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Av. Edmond Vaucher 18, CP 3000",
+    "postalCode": "1211",
+    "location": "Genève 2",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001950",
+      "label": {
+        "german": "ZAS",
+        "french": "CdC",
+        "italian": "UCC",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Ausgleichsstelle",
+        "french": "Centrale de compensation",
+        "italian": "Ufficio centrale di compensazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001974",
+      "label": {
+        "german": "Finanzen und Zentralregister",
+        "french": "FRC-Finances et Registres centraux",
+        "italian": "Finanze e Registri centrali FRC",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen und Zentralregister",
+        "french": "FRC-Finances et Registres centraux",
+        "italian": "Finanze e Registri centrali FRC",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001977",
+      "label": {
+        "german": "Finanzen SAK",
+        "french": "Finances CSC",
+        "italian": "Finanze CSC",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen SAK",
+        "french": "Finances CSC",
+        "italian": "Finanze CSC",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001978",
+      "label": {
+        "german": "Hauptbuchhaltung",
+        "french": "Comptabilité principale",
+        "italian": "Hauptbuchhaltung",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbuchhaltung",
+        "french": "Comptabilité principale",
+        "italian": "Hauptbuchhaltung",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

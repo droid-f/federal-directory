@@ -1,1 +1,244 @@
-{"id"=>"20000332", "name"=>{"german"=>"Zulassungswettbewerb", "french"=>"Concours", "italian"=>"Concorsi", "english"=>"Concours"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10001453", "name"=>{"german"=>"Kandidat/innen Karriere DI", "french"=>"Candidat/es carrière diplomatique", "italian"=>"Candidati carriera diplomatica", "english"=>"Diplomacy Career Candidates"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049474", "name"=>{"german"=>"Schlusskurs Bern 2022 Kandidat/innen DI", "french"=>"Schlusskurs Bern 2022 Kandidat/innen DI", "italian"=>"Schlusskurs Bern 2022 Kandidat/innen DI", "english"=>"Schlusskurs Bern 2022 Kandidat/innen DI"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025904", "name"=>{"german"=>"Kandidat/innen Karriere KBF", "french"=>"Canditat/es carrière affaires consulaires, gestion et finances", "italian"=>"Candidati carriera KBF", "english"=>"Consular Affairs, Operations Management and Finance Career Candidates"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037689", "name"=>{"german"=>"Kandidtat/innen Internationale Zusammenarbeit", "french"=>"Candidat/es Coopération internationale", "italian"=>"Candidati Cooperazione internazionale", "english"=>"International Cooperation Career Candidates"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045576", "name"=>{"german"=>"Kandidat/innen FPV", "french"=>"Candidat/es carrière Personnel spécialisé transférable", "italian"=>"Candidati personale specializzato trasferibile", "english"=>"Transferable Specialist Candidates"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050855", "name"=>{"german"=>"Schlusskurs Bern 2022 Kandidat/innen IZ", "french"=>"Schlusskurs Bern 2022 Kandidat/innen IZ", "italian"=>"Schlusskurs Bern 2022 Kandidat/innen IZ", "english"=>"Schlusskurs Bern 2022 Kandidat/innen IZ"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"10000584", "label"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}, "name"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}}, {"id"=>"20000334", "label"=>{"german"=>"HR-Entwicklung", "french"=>"Développement RH", "italian"=>"Sviluppo RU", "english"=>"HR Development"}, "name"=>{"german"=>"HR-Entwicklung", "french"=>"Développement RH", "italian"=>"Sviluppo RU", "english"=>"HR Development"}}, {"id"=>"20000331", "label"=>{"german"=>"Profile und Gewinnung", "french"=>"Profils et recrutement", "italian"=>"Profili e reclutamento", "english"=>"Profiles and Recruitment"}, "name"=>{"german"=>"Profile und Gewinnung", "french"=>"Profils et recrutement", "italian"=>"Profili e reclutamento", "english"=>"Profiles and Recruitment"}}, {"id"=>"20000332", "label"=>{"german"=>"Zulassungswettbewerb", "french"=>"Concours", "italian"=>"Concorsi", "english"=>"Concours"}, "name"=>{"german"=>"Zulassungswettbewerb", "french"=>"Concours", "italian"=>"Concorsi", "english"=>"Concours"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000332",
+  "name": {
+    "german": "Zulassungswettbewerb",
+    "french": "Concours",
+    "italian": "Concorsi",
+    "english": "Concours"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10001453",
+      "name": {
+        "german": "Kandidat/innen Karriere DI",
+        "french": "Candidat/es carrière diplomatique",
+        "italian": "Candidati carriera diplomatica",
+        "english": "Diplomacy Career Candidates"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049474",
+      "name": {
+        "german": "Schlusskurs Bern 2022 Kandidat/innen DI",
+        "french": "Schlusskurs Bern 2022 Kandidat/innen DI",
+        "italian": "Schlusskurs Bern 2022 Kandidat/innen DI",
+        "english": "Schlusskurs Bern 2022 Kandidat/innen DI"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025904",
+      "name": {
+        "german": "Kandidat/innen Karriere KBF",
+        "french": "Canditat/es carrière affaires consulaires, gestion et finances",
+        "italian": "Candidati carriera KBF",
+        "english": "Consular Affairs, Operations Management and Finance Career Candidates"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037689",
+      "name": {
+        "german": "Kandidtat/innen Internationale Zusammenarbeit",
+        "french": "Candidat/es Coopération internationale",
+        "italian": "Candidati Cooperazione internazionale",
+        "english": "International Cooperation Career Candidates"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045576",
+      "name": {
+        "german": "Kandidat/innen FPV",
+        "french": "Candidat/es carrière Personnel spécialisé transférable",
+        "italian": "Candidati personale specializzato trasferibile",
+        "english": "Transferable Specialist Candidates"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050855",
+      "name": {
+        "german": "Schlusskurs Bern 2022 Kandidat/innen IZ",
+        "french": "Schlusskurs Bern 2022 Kandidat/innen IZ",
+        "italian": "Schlusskurs Bern 2022 Kandidat/innen IZ",
+        "english": "Schlusskurs Bern 2022 Kandidat/innen IZ"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "10000584",
+      "label": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      },
+      "name": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      }
+    },
+    {
+      "id": "20000334",
+      "label": {
+        "german": "HR-Entwicklung",
+        "french": "Développement RH",
+        "italian": "Sviluppo RU",
+        "english": "HR Development"
+      },
+      "name": {
+        "german": "HR-Entwicklung",
+        "french": "Développement RH",
+        "italian": "Sviluppo RU",
+        "english": "HR Development"
+      }
+    },
+    {
+      "id": "20000331",
+      "label": {
+        "german": "Profile und Gewinnung",
+        "french": "Profils et recrutement",
+        "italian": "Profili e reclutamento",
+        "english": "Profiles and Recruitment"
+      },
+      "name": {
+        "german": "Profile und Gewinnung",
+        "french": "Profils et recrutement",
+        "italian": "Profili e reclutamento",
+        "english": "Profiles and Recruitment"
+      }
+    },
+    {
+      "id": "20000332",
+      "label": {
+        "german": "Zulassungswettbewerb",
+        "french": "Concours",
+        "italian": "Concorsi",
+        "english": "Concours"
+      },
+      "name": {
+        "german": "Zulassungswettbewerb",
+        "french": "Concours",
+        "italian": "Concorsi",
+        "english": "Concours"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

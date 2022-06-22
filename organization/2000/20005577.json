@@ -1,1 +1,173 @@
-{"id"=>"20005577", "name"=>{"german"=>"Sektion Globale Gesundheit", "french"=>"Section Santé globale", "italian"=>"Sezione sanità globale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0032635", "surname"=>"Schwab", "givenName"=>"Martina", "email"=>nil, "phone"=>"+41 58 46 87065", "function"=>{"german"=>"Co-Leiter/in", "french"=>"Co-Leiter/in", "italian"=>"Co-Leiter/in", "english"=>"Co-Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6040196", "surname"=>"Forrer", "givenName"=>"Rhena", "email"=>nil, "phone"=>"+41 58 46 76899", "function"=>{"german"=>"Co-Leiter/in", "french"=>"Co-Leiter/in", "italian"=>"Co-Leiter/in", "english"=>"Co-Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004554", "label"=>{"german"=>"Abteilung Internationales", "french"=>"Division Affaires internationales", "italian"=>"Divisione affari internazionali", "english"=>""}, "name"=>{"german"=>"Abteilung Internationales", "french"=>"Division Affaires internationales", "italian"=>"Divisione affari internazionali", "english"=>""}}, {"id"=>"20005577", "label"=>{"german"=>"Sektion Globale Gesundheit", "french"=>"Section Santé globale", "italian"=>"Sezione sanità globale", "english"=>""}, "name"=>{"german"=>"Sektion Globale Gesundheit", "french"=>"Section Santé globale", "italian"=>"Sezione sanità globale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005577",
+  "name": {
+    "german": "Sektion Globale Gesundheit",
+    "french": "Section Santé globale",
+    "italian": "Sezione sanità globale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0032635",
+      "surname": "Schwab",
+      "givenName": "Martina",
+      "email": null,
+      "phone": "+41 58 46 87065",
+      "function": {
+        "german": "Co-Leiter/in",
+        "french": "Co-Leiter/in",
+        "italian": "Co-Leiter/in",
+        "english": "Co-Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6040196",
+      "surname": "Forrer",
+      "givenName": "Rhena",
+      "email": null,
+      "phone": "+41 58 46 76899",
+      "function": {
+        "german": "Co-Leiter/in",
+        "french": "Co-Leiter/in",
+        "italian": "Co-Leiter/in",
+        "english": "Co-Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004554",
+      "label": {
+        "german": "Abteilung Internationales",
+        "french": "Division Affaires internationales",
+        "italian": "Divisione affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Internationales",
+        "french": "Division Affaires internationales",
+        "italian": "Divisione affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005577",
+      "label": {
+        "german": "Sektion Globale Gesundheit",
+        "french": "Section Santé globale",
+        "italian": "Sezione sanità globale",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Globale Gesundheit",
+        "french": "Section Santé globale",
+        "italian": "Sezione sanità globale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,197 @@
-{"id"=>"30000038@10.03", "name"=>{"german"=>"Clinical Assessment", "french"=>"Clinical Assessment", "italian"=>"Clinical Assessment", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallerstrasse 7", "postalCode"=>"3012", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"30000086@10.03", "name"=>{"german"=>"Clinical Assessment 1", "french"=>"Clinical Assessment 1", "italian"=>"Clinical Assessment 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000087@10.03", "name"=>{"german"=>"Clinical Assessment 2", "french"=>"Clinical Assessment 2", "italian"=>"Clinical Assessment 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000151@10.03", "name"=>{"german"=>"Clinical Assessment 3", "french"=>"Clinical Assessment 3", "italian"=>"Clinical Assessment 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000675@10.03", "name"=>{"german"=>"Clinical Assessment 4", "french"=>"Clinical Assessment 4", "italian"=>"Clinical Assessment 4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-7016226", "surname"=>"Haenggeli", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 22297", "function"=>{"german"=>"Leiter/in", "french"=>"Chef", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"30000028@10.03", "label"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}, "name"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}}, {"id"=>"30000030@10.03", "label"=>{"german"=>"Zulassung", "french"=>"Mise sur le marché", "italian"=>"Zulassung", "english"=>""}, "name"=>{"german"=>"Zulassung", "french"=>"Mise sur le marché", "italian"=>"Zulassung", "english"=>""}}, {"id"=>"30000038@10.03", "label"=>{"german"=>"Clinical Assessment", "french"=>"Clinical Assessment", "italian"=>"Clinical Assessment", "english"=>""}, "name"=>{"german"=>"Clinical Assessment", "french"=>"Clinical Assessment", "italian"=>"Clinical Assessment", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "30000038@10.03",
+  "name": {
+    "german": "Clinical Assessment",
+    "french": "Clinical Assessment",
+    "italian": "Clinical Assessment",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallerstrasse 7",
+    "postalCode": "3012",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "30000086@10.03",
+      "name": {
+        "german": "Clinical Assessment 1",
+        "french": "Clinical Assessment 1",
+        "italian": "Clinical Assessment 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000087@10.03",
+      "name": {
+        "german": "Clinical Assessment 2",
+        "french": "Clinical Assessment 2",
+        "italian": "Clinical Assessment 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000151@10.03",
+      "name": {
+        "german": "Clinical Assessment 3",
+        "french": "Clinical Assessment 3",
+        "italian": "Clinical Assessment 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000675@10.03",
+      "name": {
+        "german": "Clinical Assessment 4",
+        "french": "Clinical Assessment 4",
+        "italian": "Clinical Assessment 4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-7016226",
+      "surname": "Haenggeli",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 22297",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Chef",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000028@10.03",
+      "label": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      },
+      "name": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000030@10.03",
+      "label": {
+        "german": "Zulassung",
+        "french": "Mise sur le marché",
+        "italian": "Zulassung",
+        "english": ""
+      },
+      "name": {
+        "german": "Zulassung",
+        "french": "Mise sur le marché",
+        "italian": "Zulassung",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000038@10.03",
+      "label": {
+        "german": "Clinical Assessment",
+        "french": "Clinical Assessment",
+        "italian": "Clinical Assessment",
+        "english": ""
+      },
+      "name": {
+        "german": "Clinical Assessment",
+        "french": "Clinical Assessment",
+        "italian": "Clinical Assessment",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

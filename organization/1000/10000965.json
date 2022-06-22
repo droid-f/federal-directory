@@ -1,1 +1,200 @@
-{"id"=>"10000965", "name"=>{"german"=>"IT-Support", "french"=>"Support IT", "italian"=>"Supporto IT", "english"=>"IT Support"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10008507", "name"=>{"german"=>"Helpdesk", "french"=>"Helpdesk", "italian"=>"Helpdesk", "english"=>"Helpdesk"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20024680", "name"=>{"german"=>"Kompetenzzentrum Arbeitsplatz", "french"=>"Centre de compétences Poste de travail", "italian"=>"Centro di competenza posto di lavoro", "english"=>"Workplace Competence Centre"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005530", "name"=>{"german"=>"IT-Ausbildung", "french"=>"Formation IT", "italian"=>"Formazione IT", "english"=>"IT Training"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035929", "name"=>{"german"=>"IT-Sicherheit, -Architektur und -Innovation", "french"=>"Sécurité, architecture et innovation informatiques", "italian"=>"Sicurezza, architettura e innovazione IT", "english"=>"IT Security, Architecture and Innovation"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6661580", "surname"=>"Jeanguenin", "givenName"=>"Marc", "email"=>nil, "phone"=>"+41 58 46 34442", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20003167", "label"=>{"german"=>"Informatik EDA", "french"=>"Informatique DFAE", "italian"=>"Informatica DFAE", "english"=>"FDFA IT"}, "name"=>{"german"=>"Informatik EDA", "french"=>"Informatique DFAE", "italian"=>"Informatica DFAE", "english"=>"FDFA IT"}}, {"id"=>"10000965", "label"=>{"german"=>"IT-Support", "french"=>"Support IT", "italian"=>"Supporto IT", "english"=>"IT Support"}, "name"=>{"german"=>"IT-Support", "french"=>"Support IT", "italian"=>"Supporto IT", "english"=>"IT Support"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000965",
+  "name": {
+    "german": "IT-Support",
+    "french": "Support IT",
+    "italian": "Supporto IT",
+    "english": "IT Support"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10008507",
+      "name": {
+        "german": "Helpdesk",
+        "french": "Helpdesk",
+        "italian": "Helpdesk",
+        "english": "Helpdesk"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024680",
+      "name": {
+        "german": "Kompetenzzentrum Arbeitsplatz",
+        "french": "Centre de compétences Poste de travail",
+        "italian": "Centro di competenza posto di lavoro",
+        "english": "Workplace Competence Centre"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005530",
+      "name": {
+        "german": "IT-Ausbildung",
+        "french": "Formation IT",
+        "italian": "Formazione IT",
+        "english": "IT Training"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035929",
+      "name": {
+        "german": "IT-Sicherheit, -Architektur und -Innovation",
+        "french": "Sécurité, architecture et innovation informatiques",
+        "italian": "Sicurezza, architettura e innovazione IT",
+        "english": "IT Security, Architecture and Innovation"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6661580",
+      "surname": "Jeanguenin",
+      "givenName": "Marc",
+      "email": null,
+      "phone": "+41 58 46 34442",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20003167",
+      "label": {
+        "german": "Informatik EDA",
+        "french": "Informatique DFAE",
+        "italian": "Informatica DFAE",
+        "english": "FDFA IT"
+      },
+      "name": {
+        "german": "Informatik EDA",
+        "french": "Informatique DFAE",
+        "italian": "Informatica DFAE",
+        "english": "FDFA IT"
+      }
+    },
+    {
+      "id": "10000965",
+      "label": {
+        "german": "IT-Support",
+        "french": "Support IT",
+        "italian": "Supporto IT",
+        "english": "IT Support"
+      },
+      "name": {
+        "german": "IT-Support",
+        "french": "Support IT",
+        "italian": "Supporto IT",
+        "english": "IT Support"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

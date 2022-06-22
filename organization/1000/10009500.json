@@ -1,1 +1,225 @@
-{"id"=>"10009500", "name"=>{"german"=>"Finanzen und Logistik", "french"=>"Finances et logistique", "italian"=>"Finanze e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Theaterplatz 8", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2620988", "surname"=>"Knedel", "givenName"=>"Anke", "email"=>nil, "phone"=>"+41 58 46 95080", "function"=>{"german"=>"Leiter/in Finanzen und Logistik a.i.", "french"=>"Chef/fe des Finances et logistique a.i.", "italian"=>"Capo Finanze e logistica a.i.", "english"=>"Leiter/in Finanzen und Logistik a.i."}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2940138", "surname"=>"Friederich", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 56696", "function"=>{"german"=>"Spezialist/in Beschaffung und Sicherheit", "french"=>"Spécialiste achats et sécurité", "italian"=>"Specialista Acquisti e Sicurezza", "english"=>"Spezialist/in Beschaffung und Sicherheit"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3443245", "surname"=>"Geissbühler", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 46 56692", "function"=>{"german"=>"Fachspezialist/in Finanzen SAP", "french"=>"Fachspezialist/in Finanzen SAP", "italian"=>"Fachspezialist/in Finanzen SAP", "english"=>"Fachspezialist/in Finanzen SAP"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7090283", "surname"=>"Schenk", "givenName"=>"Klemenz", "email"=>nil, "phone"=>"+41 58 46 39275", "function"=>{"german"=>"Leiter Finanzen Generalsekretariat,SAP-und Finanzprozessberater WBF", "french"=>"Conseiller/ère en processus SAP et FI", "italian"=>"Consulente SAP e processi finanziari", "english"=>"Leiter Finanzen GS/SAP-/Finanzprozessber"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1105861", "surname"=>"von Jenner", "givenName"=>"Gabriela", "email"=>nil, "phone"=>"+41 58 46 93055", "function"=>{"german"=>"Verantwortliche/r Logisitk und Sicherheit", "french"=>"Responsable Logistique et sécurité", "italian"=>"Responsabile logistica e sicurezza", "english"=>"Verantwortliche/r Logisitk u.Sicherheit"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1436338", "surname"=>"Weber", "givenName"=>"Matthias", "email"=>nil, "phone"=>"+41 58 46 56700", "function"=>{"german"=>"Departementsbeauftragter Compliance WBF", "french"=>"Chargé/e de la compliance, coordinateur/", "italian"=>"Responsabile compliance, Coordinatore/", "english"=>"Departementsbeauftragter Compliance WBF"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10002651", "label"=>{"german"=>"GS-WBF", "french"=>"GS-WBF", "italian"=>"GS-WBF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général du DEFR", "italian"=>"Segreteria generale DEFR", "english"=>""}}, {"id"=>"10008655", "label"=>{"german"=>"GS-WBF", "french"=>"SG-DEFR", "italian"=>"SG-DEFR", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général SG-DEFR", "italian"=>"Segreteria generale SG-DEFR", "english"=>""}}, {"id"=>"10002661", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10009500", "label"=>{"german"=>"Finanzen und Logistik", "french"=>"Finances et logistique", "italian"=>"Finanze e logistica", "english"=>""}, "name"=>{"german"=>"Finanzen und Logistik", "french"=>"Finances et logistique", "italian"=>"Finanze e logistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009500",
+  "name": {
+    "german": "Finanzen und Logistik",
+    "french": "Finances et logistique",
+    "italian": "Finanze e logistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Theaterplatz 8",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2620988",
+      "surname": "Knedel",
+      "givenName": "Anke",
+      "email": null,
+      "phone": "+41 58 46 95080",
+      "function": {
+        "german": "Leiter/in Finanzen und Logistik a.i.",
+        "french": "Chef/fe des Finances et logistique a.i.",
+        "italian": "Capo Finanze e logistica a.i.",
+        "english": "Leiter/in Finanzen und Logistik a.i."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2940138",
+      "surname": "Friederich",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 56696",
+      "function": {
+        "german": "Spezialist/in Beschaffung und Sicherheit",
+        "french": "Spécialiste achats et sécurité",
+        "italian": "Specialista Acquisti e Sicurezza",
+        "english": "Spezialist/in Beschaffung und Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3443245",
+      "surname": "Geissbühler",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 46 56692",
+      "function": {
+        "german": "Fachspezialist/in Finanzen SAP",
+        "french": "Fachspezialist/in Finanzen SAP",
+        "italian": "Fachspezialist/in Finanzen SAP",
+        "english": "Fachspezialist/in Finanzen SAP"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7090283",
+      "surname": "Schenk",
+      "givenName": "Klemenz",
+      "email": null,
+      "phone": "+41 58 46 39275",
+      "function": {
+        "german": "Leiter Finanzen Generalsekretariat,SAP-und Finanzprozessberater WBF",
+        "french": "Conseiller/ère en processus SAP et FI",
+        "italian": "Consulente SAP e processi finanziari",
+        "english": "Leiter Finanzen GS/SAP-/Finanzprozessber"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1105861",
+      "surname": "von Jenner",
+      "givenName": "Gabriela",
+      "email": null,
+      "phone": "+41 58 46 93055",
+      "function": {
+        "german": "Verantwortliche/r Logisitk und Sicherheit",
+        "french": "Responsable Logistique et sécurité",
+        "italian": "Responsabile logistica e sicurezza",
+        "english": "Verantwortliche/r Logisitk u.Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1436338",
+      "surname": "Weber",
+      "givenName": "Matthias",
+      "email": null,
+      "phone": "+41 58 46 56700",
+      "function": {
+        "german": "Departementsbeauftragter Compliance WBF",
+        "french": "Chargé/e de la compliance, coordinateur/",
+        "italian": "Responsabile compliance, Coordinatore/",
+        "english": "Departementsbeauftragter Compliance WBF"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002651",
+      "label": {
+        "german": "GS-WBF",
+        "french": "GS-WBF",
+        "italian": "GS-WBF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général du DEFR",
+        "italian": "Segreteria generale DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008655",
+      "label": {
+        "german": "GS-WBF",
+        "french": "SG-DEFR",
+        "italian": "SG-DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général SG-DEFR",
+        "italian": "Segreteria generale SG-DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002661",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009500",
+      "label": {
+        "german": "Finanzen und Logistik",
+        "french": "Finances et logistique",
+        "italian": "Finanze e logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen und Logistik",
+        "french": "Finances et logistique",
+        "italian": "Finanze e logistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,188 @@
-{"id"=>"20016078", "name"=>{"german"=>"Grenzkontrollstelle Zürich", "french"=>"Poste de contrôle frontalier de Zurich", "italian"=>"Posto di controllo frontaliero Zurigo", "english"=>"Border Control Point Zurich"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Postfach 170", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 43 81 64141", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3305026", "surname"=>"Paine Kuhn", "givenName"=>"Catherine", "email"=>nil, "phone"=>"+41 58 46 90021", "function"=>{"german"=>"Leiter/in Grenzkontrollstelle Zürich", "french"=>"Leiter/in Grenzkontrollstelle Zürich", "italian"=>"Leiter/in Grenzkontrollstelle Zürich", "english"=>"Leiter/in Grenzkontrollstelle Zürich"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7958762", "surname"=>"Albicker", "givenName"=>"Pia", "email"=>nil, "phone"=>"+41 58 46 78848", "function"=>{"german"=>"Grenztierarzt/-ärztin", "french"=>"Grenztierarzt/-ärztin", "italian"=>"Grenztierarzt/-ärztin", "english"=>"Grenztierarzt/-ärztin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035165", "label"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>"Internationales"}, "name"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>"Internationales"}}, {"id"=>"20035211", "label"=>{"german"=>"Import / Export", "french"=>"Importations/exportations", "italian"=>"Importazioni/esportazioni", "english"=>"Import / Export"}, "name"=>{"german"=>"Import / Export", "french"=>"Importations/exportations", "italian"=>"Importazioni/esportazioni", "english"=>"Import / Export"}}, {"id"=>"20016078", "label"=>{"german"=>"Grenzkontrollstelle Zürich", "french"=>"Poste de contrôle frontalier de Zurich", "italian"=>"Posto di controllo frontaliero Zurigo", "english"=>"Border Control Point Zurich"}, "name"=>{"german"=>"Grenzkontrollstelle Zürich", "french"=>"Poste de contrôle frontalier de Zurich", "italian"=>"Posto di controllo frontaliero Zurigo", "english"=>"Border Control Point Zurich"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20016078",
+  "name": {
+    "german": "Grenzkontrollstelle Zürich",
+    "french": "Poste de contrôle frontalier de Zurich",
+    "italian": "Posto di controllo frontaliero Zurigo",
+    "english": "Border Control Point Zurich"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Postfach 170",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 43 81 64141",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3305026",
+      "surname": "Paine Kuhn",
+      "givenName": "Catherine",
+      "email": null,
+      "phone": "+41 58 46 90021",
+      "function": {
+        "german": "Leiter/in Grenzkontrollstelle Zürich",
+        "french": "Leiter/in Grenzkontrollstelle Zürich",
+        "italian": "Leiter/in Grenzkontrollstelle Zürich",
+        "english": "Leiter/in Grenzkontrollstelle Zürich"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7958762",
+      "surname": "Albicker",
+      "givenName": "Pia",
+      "email": null,
+      "phone": "+41 58 46 78848",
+      "function": {
+        "german": "Grenztierarzt/-ärztin",
+        "french": "Grenztierarzt/-ärztin",
+        "italian": "Grenztierarzt/-ärztin",
+        "english": "Grenztierarzt/-ärztin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035165",
+      "label": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": "Internationales"
+      },
+      "name": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": "Internationales"
+      }
+    },
+    {
+      "id": "20035211",
+      "label": {
+        "german": "Import / Export",
+        "french": "Importations/exportations",
+        "italian": "Importazioni/esportazioni",
+        "english": "Import / Export"
+      },
+      "name": {
+        "german": "Import / Export",
+        "french": "Importations/exportations",
+        "italian": "Importazioni/esportazioni",
+        "english": "Import / Export"
+      }
+    },
+    {
+      "id": "20016078",
+      "label": {
+        "german": "Grenzkontrollstelle Zürich",
+        "french": "Poste de contrôle frontalier de Zurich",
+        "italian": "Posto di controllo frontaliero Zurigo",
+        "english": "Border Control Point Zurich"
+      },
+      "name": {
+        "german": "Grenzkontrollstelle Zürich",
+        "french": "Poste de contrôle frontalier de Zurich",
+        "italian": "Posto di controllo frontaliero Zurigo",
+        "english": "Border Control Point Zurich"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,140 @@
-{"id"=>"20027534", "name"=>{"german"=>"Dienst Informationsangebote", "french"=>"Service de mise en valeur de l'information", "italian"=>"Servizio offerte d'informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Archivstrasse 24", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008653", "label"=>{"german"=>"BAR", "french"=>"BAR", "italian"=>"BAR", "english"=>""}, "name"=>{"german"=>"Schweizerisches Bundesarchiv", "french"=>"Archives fédérales suisses", "italian"=>"Archivio federale svizzero", "english"=>""}}, {"id"=>"10002220", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20017928", "label"=>{"german"=>"Abteilung Informationszugang", "french"=>"Division de l'accès à l'information", "italian"=>"Divisione accesso all'informazione", "english"=>""}, "name"=>{"german"=>"Abteilung Informationszugang", "french"=>"Division de l'accès à l'information", "italian"=>"Divisione accesso all'informazione", "english"=>""}}, {"id"=>"20027534", "label"=>{"german"=>"Dienst Informationsangebote", "french"=>"Service de mise en valeur de l'information", "italian"=>"Servizio offerte d'informazione", "english"=>""}, "name"=>{"german"=>"Dienst Informationsangebote", "french"=>"Service de mise en valeur de l'information", "italian"=>"Servizio offerte d'informazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027534",
+  "name": {
+    "german": "Dienst Informationsangebote",
+    "french": "Service de mise en valeur de l'information",
+    "italian": "Servizio offerte d'informazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Archivstrasse 24",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008653",
+      "label": {
+        "german": "BAR",
+        "french": "BAR",
+        "italian": "BAR",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Bundesarchiv",
+        "french": "Archives fédérales suisses",
+        "italian": "Archivio federale svizzero",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002220",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017928",
+      "label": {
+        "german": "Abteilung Informationszugang",
+        "french": "Division de l'accès à l'information",
+        "italian": "Divisione accesso all'informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Informationszugang",
+        "french": "Division de l'accès à l'information",
+        "italian": "Divisione accesso all'informazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027534",
+      "label": {
+        "german": "Dienst Informationsangebote",
+        "french": "Service de mise en valeur de l'information",
+        "italian": "Servizio offerte d'informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst Informationsangebote",
+        "french": "Service de mise en valeur de l'information",
+        "italian": "Servizio offerte d'informazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

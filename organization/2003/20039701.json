@@ -1,1 +1,124 @@
-{"id"=>"20039701", "name"=>{"german"=>"Verfahrensassistenz SK", "french"=>"Chancellerie STK", "italian"=>"Cancelleria STK", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042282", "name"=>{"german"=>"Unterstützung VA SK", "french"=>"Soutien VA STK", "italian"=>"Sostegno VA STK", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20018752", "label"=>{"german"=>"Staatsschutz, Kriminelle Organisationen", "french"=>"Protection de l'Etat, Organisations criminelles", "italian"=>"Protezione dello Stato, Organizzazioni criminali", "english"=>""}, "name"=>{"german"=>"Staatsschutz, Kriminelle Organisationen", "french"=>"Protection de l'Etat, Organisations criminelles", "italian"=>"Protezione dello Stato, Organizzazioni criminali", "english"=>""}}, {"id"=>"20039701", "label"=>{"german"=>"Verfahrensassistenz SK", "french"=>"Chancellerie STK", "italian"=>"Cancelleria STK", "english"=>""}, "name"=>{"german"=>"Verfahrensassistenz SK", "french"=>"Chancellerie STK", "italian"=>"Cancelleria STK", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039701",
+  "name": {
+    "german": "Verfahrensassistenz SK",
+    "french": "Chancellerie STK",
+    "italian": "Cancelleria STK",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042282",
+      "name": {
+        "german": "Unterstützung VA SK",
+        "french": "Soutien VA STK",
+        "italian": "Sostegno VA STK",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018752",
+      "label": {
+        "german": "Staatsschutz, Kriminelle Organisationen",
+        "french": "Protection de l'Etat, Organisations criminelles",
+        "italian": "Protezione dello Stato, Organizzazioni criminali",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatsschutz, Kriminelle Organisationen",
+        "french": "Protection de l'Etat, Organisations criminelles",
+        "italian": "Protezione dello Stato, Organizzazioni criminali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039701",
+      "label": {
+        "german": "Verfahrensassistenz SK",
+        "french": "Chancellerie STK",
+        "italian": "Cancelleria STK",
+        "english": ""
+      },
+      "name": {
+        "german": "Verfahrensassistenz SK",
+        "french": "Chancellerie STK",
+        "italian": "Cancelleria STK",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

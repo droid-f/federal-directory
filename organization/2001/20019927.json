@@ -1,1 +1,183 @@
-{"id"=>"20019927", "name"=>{"german"=>"Stab Bundeskanzler", "french"=>"Etat-major du Chancelier", "italian"=>"Stato maggiore dei Cancelliere", "english"=>""}, "nameAbbr"=>{"german"=>"Stab", "french"=>"Stab", "italian"=>"Stab", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1261014", "surname"=>"Galliker", "givenName"=>"Rahel", "email"=>nil, "phone"=>"+41 58 46 86091", "function"=>{"german"=>"Persönliche/r Mitarbeiter/in, Leiter/in", "french"=>"Persönliche/r Mitarbeiter/in, Leiter/in", "italian"=>"Persönliche/r Mitarbeiter/in, Leiter/in", "english"=>"Persönliche/r Mitarbeiter/in, Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2722472", "surname"=>"Deneys", "givenName"=>"Luc", "email"=>nil, "phone"=>"+41 58 46 11713", "function"=>{"german"=>"Referent/in, Stv. Leiter/in", "french"=>"Referent/in, Stv. Leiter/in", "italian"=>"Referent/in, Stv. Leiter/in", "english"=>"Referent/in, Stv. Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6462288", "surname"=>"Abegglen", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 30835", "function"=>{"german"=>"Referent/in", "french"=>"Referent/in", "italian"=>"Referent/in", "english"=>"Referent/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2374851", "surname"=>"Berberat", "givenName"=>"Anne", "email"=>nil, "phone"=>"+41 58 46 38062", "function"=>{"german"=>"Assistent/in", "french"=>"Assistent/in", "italian"=>"Assistent/in", "english"=>"Assistent/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5841637", "surname"=>"Hall", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 23758", "function"=>{"german"=>"Assistent/in", "french"=>"Assistent/in", "italian"=>"Assistent/in", "english"=>"Assistent/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1Y066T8JJ", "surname"=>"Rutzer", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 48 01748", "function"=>{"german"=>"Assistent/in", "french"=>"Assistent/in", "italian"=>"Assistent/in", "english"=>"Assistent/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"20019927", "label"=>{"german"=>"Stab", "french"=>"Stab", "italian"=>"Stab", "english"=>""}, "name"=>{"german"=>"Stab Bundeskanzler", "french"=>"Etat-major du Chancelier", "italian"=>"Stato maggiore dei Cancelliere", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20019927",
+  "name": {
+    "german": "Stab Bundeskanzler",
+    "french": "Etat-major du Chancelier",
+    "italian": "Stato maggiore dei Cancelliere",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "Stab",
+    "french": "Stab",
+    "italian": "Stab",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1261014",
+      "surname": "Galliker",
+      "givenName": "Rahel",
+      "email": null,
+      "phone": "+41 58 46 86091",
+      "function": {
+        "german": "Persönliche/r Mitarbeiter/in, Leiter/in",
+        "french": "Persönliche/r Mitarbeiter/in, Leiter/in",
+        "italian": "Persönliche/r Mitarbeiter/in, Leiter/in",
+        "english": "Persönliche/r Mitarbeiter/in, Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2722472",
+      "surname": "Deneys",
+      "givenName": "Luc",
+      "email": null,
+      "phone": "+41 58 46 11713",
+      "function": {
+        "german": "Referent/in, Stv. Leiter/in",
+        "french": "Referent/in, Stv. Leiter/in",
+        "italian": "Referent/in, Stv. Leiter/in",
+        "english": "Referent/in, Stv. Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6462288",
+      "surname": "Abegglen",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 30835",
+      "function": {
+        "german": "Referent/in",
+        "french": "Referent/in",
+        "italian": "Referent/in",
+        "english": "Referent/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2374851",
+      "surname": "Berberat",
+      "givenName": "Anne",
+      "email": null,
+      "phone": "+41 58 46 38062",
+      "function": {
+        "german": "Assistent/in",
+        "french": "Assistent/in",
+        "italian": "Assistent/in",
+        "english": "Assistent/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5841637",
+      "surname": "Hall",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 23758",
+      "function": {
+        "german": "Assistent/in",
+        "french": "Assistent/in",
+        "italian": "Assistent/in",
+        "english": "Assistent/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1Y066T8JJ",
+      "surname": "Rutzer",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 48 01748",
+      "function": {
+        "german": "Assistent/in",
+        "french": "Assistent/in",
+        "italian": "Assistent/in",
+        "english": "Assistent/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20019927",
+      "label": {
+        "german": "Stab",
+        "french": "Stab",
+        "italian": "Stab",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Bundeskanzler",
+        "french": "Etat-major du Chancelier",
+        "italian": "Stato maggiore dei Cancelliere",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

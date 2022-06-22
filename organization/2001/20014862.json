@@ -1,1 +1,154 @@
-{"id"=>"20014862", "name"=>{"german"=>"Administrative Dienste", "french"=>"Services administratives", "italian"=>"Servizi amministrativi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10005106", "name"=>{"german"=>"Kanzlei und Archiv", "french"=>"Chancellerie et archives", "italian"=>"Cancelleria et archivi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015138", "name"=>{"german"=>"Kanzlei und Verwaltung Luzern", "french"=>"Chancellerie e administration Lucerne", "italian"=>"Cancelleria e amministrazione Lucerna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005103", "name"=>{"german"=>"Weibeldienst", "french"=>"Service des huissiers", "italian"=>"Servizio dei uscieri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005107", "name"=>{"german"=>"Haus- und Sicherheitsdienst", "french"=>"Service d'immeuble et sécurité", "italian"=>"Servizio dei immobili e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005095", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}}, {"id"=>"20014862", "label"=>{"german"=>"Administrative Dienste", "french"=>"Services administratives", "italian"=>"Servizi amministrativi", "english"=>""}, "name"=>{"german"=>"Administrative Dienste", "french"=>"Services administratives", "italian"=>"Servizi amministrativi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014862",
+  "name": {
+    "german": "Administrative Dienste",
+    "french": "Services administratives",
+    "italian": "Servizi amministrativi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10005106",
+      "name": {
+        "german": "Kanzlei und Archiv",
+        "french": "Chancellerie et archives",
+        "italian": "Cancelleria et archivi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015138",
+      "name": {
+        "german": "Kanzlei und Verwaltung Luzern",
+        "french": "Chancellerie e administration Lucerne",
+        "italian": "Cancelleria e amministrazione Lucerna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005103",
+      "name": {
+        "german": "Weibeldienst",
+        "french": "Service des huissiers",
+        "italian": "Servizio dei uscieri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005107",
+      "name": {
+        "german": "Haus- und Sicherheitsdienst",
+        "french": "Service d'immeuble et sécurité",
+        "italian": "Servizio dei immobili e sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005095",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014862",
+      "label": {
+        "german": "Administrative Dienste",
+        "french": "Services administratives",
+        "italian": "Servizi amministrativi",
+        "english": ""
+      },
+      "name": {
+        "german": "Administrative Dienste",
+        "french": "Services administratives",
+        "italian": "Servizi amministrativi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

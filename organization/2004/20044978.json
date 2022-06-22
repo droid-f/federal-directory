@@ -1,1 +1,141 @@
-{"id"=>"20044978", "name"=>{"german"=>"Datennetze", "french"=>"Réseaux de données", "italian"=>"Reti di dati", "english"=>""}, "nameAbbr"=>{"german"=>"TM/DN", "french"=>"TM/DN", "italian"=>"TM/DN", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1B", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9755531", "surname"=>"Schenker", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 66829", "function"=>{"german"=>"Chef FB Datennetzte", "french"=>"Chef FB Datennetzte", "italian"=>"Chef FB Datennetzte", "english"=>"Chef FB Datennetzte"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"10002973", "label"=>{"german"=>"TM", "french"=>"TM", "italian"=>"TM", "english"=>""}, "name"=>{"german"=>"Telematik", "french"=>"Télématique", "italian"=>"Telematica", "english"=>""}}, {"id"=>"20044978", "label"=>{"german"=>"TM/DN", "french"=>"TM/DN", "italian"=>"TM/DN", "english"=>""}, "name"=>{"german"=>"Datennetze", "french"=>"Réseaux de données", "italian"=>"Reti di dati", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20044978",
+  "name": {
+    "german": "Datennetze",
+    "french": "Réseaux de données",
+    "italian": "Reti di dati",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "TM/DN",
+    "french": "TM/DN",
+    "italian": "TM/DN",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1B",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9755531",
+      "surname": "Schenker",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 66829",
+      "function": {
+        "german": "Chef FB Datennetzte",
+        "french": "Chef FB Datennetzte",
+        "italian": "Chef FB Datennetzte",
+        "english": "Chef FB Datennetzte"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002973",
+      "label": {
+        "german": "TM",
+        "french": "TM",
+        "italian": "TM",
+        "english": ""
+      },
+      "name": {
+        "german": "Telematik",
+        "french": "Télématique",
+        "italian": "Telematica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20044978",
+      "label": {
+        "german": "TM/DN",
+        "french": "TM/DN",
+        "italian": "TM/DN",
+        "english": ""
+      },
+      "name": {
+        "german": "Datennetze",
+        "french": "Réseaux de données",
+        "italian": "Reti di dati",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

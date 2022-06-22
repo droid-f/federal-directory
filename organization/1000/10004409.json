@@ -1,1 +1,170 @@
-{"id"=>"10004409", "name"=>{"german"=>"Dienst Magazine und Logistik", "french"=>"Service Magasins et logistique", "italian"=>"Servizio Magazzini e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004387", "label"=>{"german"=>"NB", "french"=>"BN", "italian"=>"BN", "english"=>""}, "name"=>{"german"=>"Schweizerische Nationalbibliothek", "french"=>"Bibliothèque nationale suisse", "italian"=>"Biblioteca nazionale svizzera", "english"=>""}}, {"id"=>"20012600", "label"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}, "name"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}}, {"id"=>"20018701", "label"=>{"german"=>"Vizedirektion NB", "french"=>"Vice-direction BN", "italian"=>"Vicedirezione BN", "english"=>""}, "name"=>{"german"=>"Vizedirektion NB", "french"=>"Vice-direction BN", "italian"=>"Vicedirezione BN", "english"=>""}}, {"id"=>"20032576", "label"=>{"german"=>"Sektion Erhaltung", "french"=>"Section Conservation", "italian"=>"Sezione conservazione", "english"=>""}, "name"=>{"german"=>"Sektion Erhaltung", "french"=>"Section Conservation", "italian"=>"Sezione conservazione", "english"=>""}}, {"id"=>"10004409", "label"=>{"german"=>"Dienst Magazine und Logistik", "french"=>"Service Magasins et logistique", "italian"=>"Servizio Magazzini e logistica", "english"=>""}, "name"=>{"german"=>"Dienst Magazine und Logistik", "french"=>"Service Magasins et logistique", "italian"=>"Servizio Magazzini e logistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004409",
+  "name": {
+    "german": "Dienst Magazine und Logistik",
+    "french": "Service Magasins et logistique",
+    "italian": "Servizio Magazzini e logistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004387",
+      "label": {
+        "german": "NB",
+        "french": "BN",
+        "italian": "BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerische Nationalbibliothek",
+        "french": "Bibliothèque nationale suisse",
+        "italian": "Biblioteca nazionale svizzera",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012600",
+      "label": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018701",
+      "label": {
+        "german": "Vizedirektion NB",
+        "french": "Vice-direction BN",
+        "italian": "Vicedirezione BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Vizedirektion NB",
+        "french": "Vice-direction BN",
+        "italian": "Vicedirezione BN",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032576",
+      "label": {
+        "german": "Sektion Erhaltung",
+        "french": "Section Conservation",
+        "italian": "Sezione conservazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Erhaltung",
+        "french": "Section Conservation",
+        "italian": "Sezione conservazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004409",
+      "label": {
+        "german": "Dienst Magazine und Logistik",
+        "french": "Service Magasins et logistique",
+        "italian": "Servizio Magazzini e logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst Magazine und Logistik",
+        "french": "Service Magasins et logistique",
+        "italian": "Servizio Magazzini e logistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

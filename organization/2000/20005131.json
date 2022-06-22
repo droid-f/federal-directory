@@ -1,1 +1,173 @@
-{"id"=>"20005131", "name"=>{"german"=>"FB Straf- und Strafprozessrecht", "french"=>"Unité Droit pénal et procédure pénale", "italian"=>"Settore Diritto e procedura penali", "english"=>""}, "nameAbbr"=>{"german"=>"StR-StPR", "french"=>"StR-StPR", "italian"=>"StR-StPR", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesrain 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584624119", "fax"=>"+41313121407", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4906645", "surname"=>"Schild Trappe", "givenName"=>"Grace", "email"=>nil, "phone"=>"+41 58 46 24389", "function"=>{"german"=>"Chefin StR-StPR / Stv. Chefin STRAFR", "french"=>"Cheffe StR-StPR / Cheffe suppléante StR-StPR", "italian"=>"Capo StR-StPR / Capo supplente STRAFR", "english"=>"Chefin StR-StPR / Stv. Chefin STRAFR"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0812651", "surname"=>"Goldschmid", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 25927", "function"=>{"german"=>"Stv. Chef StR-StPR", "french"=>"Chef suppléant StR-StPR", "italian"=>"Capo supplente StR-StPR", "english"=>"Stv. Chef StR-StPR"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008744", "label"=>{"german"=>"BJ", "french"=>"BJ", "italian"=>"BJ", "english"=>""}, "name"=>{"german"=>"Bundesamt für Justiz", "french"=>"Office fédéral de la justice", "italian"=>"Ufficio federale di giustizia", "english"=>""}}, {"id"=>"10002437", "label"=>{"german"=>"DIR", "french"=>"DIR", "italian"=>"DIR", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002465", "label"=>{"german"=>"STRAFR", "french"=>"STRAFR", "italian"=>"STRAFR", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Strafrecht", "french"=>"Domaine de direction Droit pénal", "italian"=>"Ambito direzionale Diritto penale", "english"=>""}}, {"id"=>"20005131", "label"=>{"german"=>"StR-StPR", "french"=>"StR-StPR", "italian"=>"StR-StPR", "english"=>""}, "name"=>{"german"=>"FB Straf- und Strafprozessrecht", "french"=>"Unité Droit pénal et procédure pénale", "italian"=>"Settore Diritto e procedura penali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005131",
+  "name": {
+    "german": "FB Straf- und Strafprozessrecht",
+    "french": "Unité Droit pénal et procédure pénale",
+    "italian": "Settore Diritto e procedura penali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "StR-StPR",
+    "french": "StR-StPR",
+    "italian": "StR-StPR",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesrain 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584624119",
+    "fax": "+41313121407",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4906645",
+      "surname": "Schild Trappe",
+      "givenName": "Grace",
+      "email": null,
+      "phone": "+41 58 46 24389",
+      "function": {
+        "german": "Chefin StR-StPR / Stv. Chefin STRAFR",
+        "french": "Cheffe StR-StPR / Cheffe suppléante StR-StPR",
+        "italian": "Capo StR-StPR / Capo supplente STRAFR",
+        "english": "Chefin StR-StPR / Stv. Chefin STRAFR"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0812651",
+      "surname": "Goldschmid",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 25927",
+      "function": {
+        "german": "Stv. Chef StR-StPR",
+        "french": "Chef suppléant StR-StPR",
+        "italian": "Capo supplente StR-StPR",
+        "english": "Stv. Chef StR-StPR"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008744",
+      "label": {
+        "german": "BJ",
+        "french": "BJ",
+        "italian": "BJ",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Justiz",
+        "french": "Office fédéral de la justice",
+        "italian": "Ufficio federale di giustizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002437",
+      "label": {
+        "german": "DIR",
+        "french": "DIR",
+        "italian": "DIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002465",
+      "label": {
+        "german": "STRAFR",
+        "french": "STRAFR",
+        "italian": "STRAFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Strafrecht",
+        "french": "Domaine de direction Droit pénal",
+        "italian": "Ambito direzionale Diritto penale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005131",
+      "label": {
+        "german": "StR-StPR",
+        "french": "StR-StPR",
+        "italian": "StR-StPR",
+        "english": ""
+      },
+      "name": {
+        "german": "FB Straf- und Strafprozessrecht",
+        "french": "Unité Droit pénal et procédure pénale",
+        "italian": "Settore Diritto e procedura penali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

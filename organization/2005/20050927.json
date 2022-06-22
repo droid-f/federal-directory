@@ -1,1 +1,171 @@
-{"id"=>"20050927", "name"=>{"german"=>"Fachbereich Grundlagen", "french"=>"Domaine spécialisé Bases", "italian"=>"Settore specialistico Basi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3997139", "surname"=>"Piatti", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 41674", "function"=>{"german"=>"Stv BL KP / Fachbereichsleiter/in", "french"=>"Stv BL KP / Fachbereichsleiter/in", "italian"=>"Stv BL KP / Fachbereichsleiter/in", "english"=>"Stv BL KP / Fachbereichsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009269", "label"=>{"german"=>"KPR", "french"=>"PCD", "italian"=>"PCD", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Kriminalprävention und Recht", "french"=>"Domaine de direction Prévention de la criminalité et droit", "italian"=>"Ambito direzionale Prevenzione della criminalità e diritto", "english"=>""}}, {"id"=>"10009278", "label"=>{"german"=>"Abteilung Recht und Massnahmen", "french"=>"Division Droit et mesures", "italian"=>"Divisone Diritto e misure", "english"=>""}, "name"=>{"german"=>"Abteilung Recht und Massnahmen", "french"=>"Division Droit et mesures", "italian"=>"Divisone Diritto e misure", "english"=>""}}, {"id"=>"20050927", "label"=>{"german"=>"Fachbereich Grundlagen", "french"=>"Domaine spécialisé Bases", "italian"=>"Settore specialistico Basi", "english"=>""}, "name"=>{"german"=>"Fachbereich Grundlagen", "french"=>"Domaine spécialisé Bases", "italian"=>"Settore specialistico Basi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050927",
+  "name": {
+    "german": "Fachbereich Grundlagen",
+    "french": "Domaine spécialisé Bases",
+    "italian": "Settore specialistico Basi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3997139",
+      "surname": "Piatti",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 41674",
+      "function": {
+        "german": "Stv BL KP / Fachbereichsleiter/in",
+        "french": "Stv BL KP / Fachbereichsleiter/in",
+        "italian": "Stv BL KP / Fachbereichsleiter/in",
+        "english": "Stv BL KP / Fachbereichsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009269",
+      "label": {
+        "german": "KPR",
+        "french": "PCD",
+        "italian": "PCD",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Kriminalprävention und Recht",
+        "french": "Domaine de direction Prévention de la criminalité et droit",
+        "italian": "Ambito direzionale Prevenzione della criminalità e diritto",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009278",
+      "label": {
+        "german": "Abteilung Recht und Massnahmen",
+        "french": "Division Droit et mesures",
+        "italian": "Divisone Diritto e misure",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Recht und Massnahmen",
+        "french": "Division Droit et mesures",
+        "italian": "Divisone Diritto e misure",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050927",
+      "label": {
+        "german": "Fachbereich Grundlagen",
+        "french": "Domaine spécialisé Bases",
+        "italian": "Settore specialistico Basi",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Grundlagen",
+        "french": "Domaine spécialisé Bases",
+        "italian": "Settore specialistico Basi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

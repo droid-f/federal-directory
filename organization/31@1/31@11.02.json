@@ -1,1 +1,138 @@
-{"id"=>"31@11.02", "name"=>{"german"=>"Qualitäts- und Sicherheitsmgt", "french"=>"Qualitäts- und Sicherheitsmgt", "italian"=>"Qualitäts- und Sicherheitsmgt", "english"=>""}, "nameAbbr"=>{"german"=>"Qualitäts- und Sicherheitsmgt", "french"=>"Qualitäts- und Sicherheitsmgt", "italian"=>"Qualitäts- und Sicherheitsmgt", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 57", "postalCode"=>"3007", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 485 21 11", "fax"=>"+41 58 485 21 13", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-4376043", "surname"=>"Zaugg", "givenName"=>"Charles", "email"=>nil, "phone"=>"+41 58 485 22 80", "function"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10@11.02", "label"=>{"german"=>"PUBLICA", "french"=>"PUBLICA", "italian"=>"PUBLICA", "english"=>""}, "name"=>{"german"=>"Pensionskasse PUBLICA", "french"=>"Pensionskasse PUBLICA", "italian"=>"Pensionskasse PUBLICA", "english"=>""}}, {"id"=>"45@11.02", "label"=>{"german"=>"Stabsdienste der Direktion", "french"=>"Stabsdienste der Direktion", "italian"=>"Stabsdienste der Direktion", "english"=>""}, "name"=>{"german"=>"Stabsdienste der Direktion", "french"=>"Stabsdienste der Direktion", "italian"=>"Stabsdienste der Direktion", "english"=>""}}, {"id"=>"31@11.02", "label"=>{"german"=>"Qualitäts- und Sicherheitsmgt", "french"=>"Qualitäts- und Sicherheitsmgt", "italian"=>"Qualitäts- und Sicherheitsmgt", "english"=>""}, "name"=>{"german"=>"Qualitäts- und Sicherheitsmgt", "french"=>"Qualitäts- und Sicherheitsmgt", "italian"=>"Qualitäts- und Sicherheitsmgt", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "31@11.02",
+  "name": {
+    "german": "Qualitäts- und Sicherheitsmgt",
+    "french": "Qualitäts- und Sicherheitsmgt",
+    "italian": "Qualitäts- und Sicherheitsmgt",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "Qualitäts- und Sicherheitsmgt",
+    "french": "Qualitäts- und Sicherheitsmgt",
+    "italian": "Qualitäts- und Sicherheitsmgt",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 57",
+    "postalCode": "3007",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 485 21 11",
+    "fax": "+41 58 485 21 13",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-4376043",
+      "surname": "Zaugg",
+      "givenName": "Charles",
+      "email": null,
+      "phone": "+41 58 485 22 80",
+      "function": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10@11.02",
+      "label": {
+        "german": "PUBLICA",
+        "french": "PUBLICA",
+        "italian": "PUBLICA",
+        "english": ""
+      },
+      "name": {
+        "german": "Pensionskasse PUBLICA",
+        "french": "Pensionskasse PUBLICA",
+        "italian": "Pensionskasse PUBLICA",
+        "english": ""
+      }
+    },
+    {
+      "id": "45@11.02",
+      "label": {
+        "german": "Stabsdienste der Direktion",
+        "french": "Stabsdienste der Direktion",
+        "italian": "Stabsdienste der Direktion",
+        "english": ""
+      },
+      "name": {
+        "german": "Stabsdienste der Direktion",
+        "french": "Stabsdienste der Direktion",
+        "italian": "Stabsdienste der Direktion",
+        "english": ""
+      }
+    },
+    {
+      "id": "31@11.02",
+      "label": {
+        "german": "Qualitäts- und Sicherheitsmgt",
+        "french": "Qualitäts- und Sicherheitsmgt",
+        "italian": "Qualitäts- und Sicherheitsmgt",
+        "english": ""
+      },
+      "name": {
+        "german": "Qualitäts- und Sicherheitsmgt",
+        "french": "Qualitäts- und Sicherheitsmgt",
+        "italian": "Qualitäts- und Sicherheitsmgt",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

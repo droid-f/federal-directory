@@ -1,1 +1,169 @@
-{"id"=>"20003995", "name"=>{"german"=>"Personal- und Organisationsentwicklung", "french"=>"Développement du personnel et de l’organisation", "italian"=>"Sviluppo del personale e dell’organizzazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584649292", "fax"=>"", "email"=>"personalentwicklung@armasuisse.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003997", "name"=>{"german"=>"Berufliche Grundbildung - Lernende", "french"=>"Formation professionnelle de base - apprentis", "italian"=>"Formazione professionnale di base - apprendisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20003987", "label"=>{"german"=>"Ressourcen und Support", "french"=>"Ressources et Support", "italian"=>"Risorse e supporto", "english"=>""}, "name"=>{"german"=>"Ressourcen und Support", "french"=>"Ressources et Support", "italian"=>"Risorse e supporto", "english"=>""}}, {"id"=>"20003994", "label"=>{"german"=>"Personal und Infrastruktur", "french"=>"Personnel et infrastructure", "italian"=>"Personale e infrastruttura", "english"=>""}, "name"=>{"german"=>"Personal und Infrastruktur", "french"=>"Personnel et infrastructure", "italian"=>"Personale e infrastruttura", "english"=>""}}, {"id"=>"20003995", "label"=>{"german"=>"Personal- und Organisationsentwicklung", "french"=>"Développement du personnel et de l’organisation", "italian"=>"Sviluppo del personale e dell’organizzazione", "english"=>""}, "name"=>{"german"=>"Personal- und Organisationsentwicklung", "french"=>"Développement du personnel et de l’organisation", "italian"=>"Sviluppo del personale e dell’organizzazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003995",
+  "name": {
+    "german": "Personal- und Organisationsentwicklung",
+    "french": "Développement du personnel et de l’organisation",
+    "italian": "Sviluppo del personale e dell’organizzazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584649292",
+    "fax": "",
+    "email": "personalentwicklung@armasuisse.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003997",
+      "name": {
+        "german": "Berufliche Grundbildung - Lernende",
+        "french": "Formation professionnelle de base - apprentis",
+        "italian": "Formazione professionnale di base - apprendisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003987",
+      "label": {
+        "german": "Ressourcen und Support",
+        "french": "Ressources et Support",
+        "italian": "Risorse e supporto",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen und Support",
+        "french": "Ressources et Support",
+        "italian": "Risorse e supporto",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003994",
+      "label": {
+        "german": "Personal und Infrastruktur",
+        "french": "Personnel et infrastructure",
+        "italian": "Personale e infrastruttura",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal und Infrastruktur",
+        "french": "Personnel et infrastructure",
+        "italian": "Personale e infrastruttura",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003995",
+      "label": {
+        "german": "Personal- und Organisationsentwicklung",
+        "french": "Développement du personnel et de l’organisation",
+        "italian": "Sviluppo del personale e dell’organizzazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal- und Organisationsentwicklung",
+        "french": "Développement du personnel et de l’organisation",
+        "italian": "Sviluppo del personale e dell’organizzazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

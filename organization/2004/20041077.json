@@ -1,1 +1,169 @@
-{"id"=>"20041077", "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9843407", "surname"=>"Zibung", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 46 26820", "function"=>{"german"=>"Leiter/in Rechtsdienst", "french"=>"Leiter/in Rechtsdienst", "italian"=>"Leiter/in Rechtsdienst", "english"=>"Leiter/in Rechtsdienst"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7025781", "surname"=>"Feuz", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 68897", "function"=>{"german"=>"Stv. Leiter/in Rechtsdienst", "french"=>"Stv. Leiter/in Rechtsdienst", "italian"=>"Stv. Leiter/in Rechtsdienst", "english"=>"Stv. Leiter/in Rechtsdienst"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"20025051", "label"=>{"german"=>"SIF", "french"=>"SFI", "italian"=>"SFI", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für internationale Finanzfragen", "french"=>"Secrétariat d'Etat aux questions financières internationales", "italian"=>"Segreteria di Stato per le questioni finanziarie internazionali", "english"=>""}}, {"id"=>"20041505", "label"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}, "name"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}}, {"id"=>"20045005", "label"=>{"german"=>"Planung und Strategie", "french"=>"Planification et stratégie", "italian"=>"Pianificazione e strategia", "english"=>""}, "name"=>{"german"=>"Planung und Strategie", "french"=>"Planification et stratégie", "italian"=>"Pianificazione e strategia", "english"=>""}}, {"id"=>"20041077", "label"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20041077",
+  "name": {
+    "german": "Rechtsdienst",
+    "french": "Service juridique",
+    "italian": "Servizio giuridico",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9843407",
+      "surname": "Zibung",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 46 26820",
+      "function": {
+        "german": "Leiter/in Rechtsdienst",
+        "french": "Leiter/in Rechtsdienst",
+        "italian": "Leiter/in Rechtsdienst",
+        "english": "Leiter/in Rechtsdienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7025781",
+      "surname": "Feuz",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 68897",
+      "function": {
+        "german": "Stv. Leiter/in Rechtsdienst",
+        "french": "Stv. Leiter/in Rechtsdienst",
+        "italian": "Stv. Leiter/in Rechtsdienst",
+        "english": "Stv. Leiter/in Rechtsdienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025051",
+      "label": {
+        "german": "SIF",
+        "french": "SFI",
+        "italian": "SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für internationale Finanzfragen",
+        "french": "Secrétariat d'Etat aux questions financières internationales",
+        "italian": "Segreteria di Stato per le questioni finanziarie internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041505",
+      "label": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045005",
+      "label": {
+        "german": "Planung und Strategie",
+        "french": "Planification et stratégie",
+        "italian": "Pianificazione e strategia",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung und Strategie",
+        "french": "Planification et stratégie",
+        "italian": "Pianificazione e strategia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041077",
+      "label": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      },
+      "name": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

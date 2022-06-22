@@ -1,1 +1,153 @@
-{"id"=>"20037489", "name"=>{"german"=>"Managementsysteme", "french"=>"Systèmes de Management", "italian"=>"Sistemi di Management", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bernastrasse 28", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-4452062", "surname"=>"Budesa", "givenName"=>"Boris", "email"=>nil, "phone"=>"+41 58 48 19570", "function"=>{"german"=>"Leiter Managementsysteme", "french"=>"Chef Systèmes de gestion", "italian"=>"Chef Sistemi di gestione", "english"=>"Leiter Managementsysteme"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003314", "label"=>{"german"=>"SMT", "french"=>"SMT", "italian"=>"SMT", "english"=>""}, "name"=>{"german"=>"Eidgenössische Münzstätte Swissmint", "french"=>"Monnaie fédérale Swissmint", "italian"=>"Zecca federale Swissmint", "english"=>""}}, {"id"=>"20031379", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20037489", "label"=>{"german"=>"Managementsysteme", "french"=>"Systèmes de Management", "italian"=>"Sistemi di Management", "english"=>""}, "name"=>{"german"=>"Managementsysteme", "french"=>"Systèmes de Management", "italian"=>"Sistemi di Management", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037489",
+  "name": {
+    "german": "Managementsysteme",
+    "french": "Systèmes de Management",
+    "italian": "Sistemi di Management",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bernastrasse 28",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-4452062",
+      "surname": "Budesa",
+      "givenName": "Boris",
+      "email": null,
+      "phone": "+41 58 48 19570",
+      "function": {
+        "german": "Leiter Managementsysteme",
+        "french": "Chef Systèmes de gestion",
+        "italian": "Chef Sistemi di gestione",
+        "english": "Leiter Managementsysteme"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003314",
+      "label": {
+        "german": "SMT",
+        "french": "SMT",
+        "italian": "SMT",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Münzstätte Swissmint",
+        "french": "Monnaie fédérale Swissmint",
+        "italian": "Zecca federale Swissmint",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031379",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037489",
+      "label": {
+        "german": "Managementsysteme",
+        "french": "Systèmes de Management",
+        "italian": "Sistemi di Management",
+        "english": ""
+      },
+      "name": {
+        "german": "Managementsysteme",
+        "french": "Systèmes de Management",
+        "italian": "Sistemi di Management",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

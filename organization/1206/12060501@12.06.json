@@ -1,1 +1,152 @@
-{"id"=>"12060501@12.06", "name"=>{"german"=>"Prozessleitung", "french"=>"Responsables de processus", "italian"=>"Responsabile di processo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-5821938", "surname"=>"Nyfeler", "givenName"=>"Theodor", "email"=>nil, "phone"=>"+41 31 377 73 39", "function"=>{"german"=>"Patent- und Technologierecherche", "french"=>"Patent- und Technologierecherche", "italian"=>"Patent- und Technologierecherche", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-5470020", "surname"=>"Weibel", "givenName"=>"Pascal", "email"=>nil, "phone"=>"+41 31 377 73 53", "function"=>{"german"=>"Patentprüfung", "french"=>"Patentprüfung", "italian"=>"Patentprüfung", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060500@12.06", "label"=>{"german"=>"Patente", "french"=>"Brevets", "italian"=>"Brevetti", "english"=>""}, "name"=>{"german"=>"Patente", "french"=>"Brevets", "italian"=>"Brevetti", "english"=>""}}, {"id"=>"12060501@12.06", "label"=>{"german"=>"Prozessleitung", "french"=>"Responsables de processus", "italian"=>"Responsabile di processo", "english"=>""}, "name"=>{"german"=>"Prozessleitung", "french"=>"Responsables de processus", "italian"=>"Responsabile di processo", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060501@12.06",
+  "name": {
+    "german": "Prozessleitung",
+    "french": "Responsables de processus",
+    "italian": "Responsabile di processo",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-5821938",
+      "surname": "Nyfeler",
+      "givenName": "Theodor",
+      "email": null,
+      "phone": "+41 31 377 73 39",
+      "function": {
+        "german": "Patent- und Technologierecherche",
+        "french": "Patent- und Technologierecherche",
+        "italian": "Patent- und Technologierecherche",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5470020",
+      "surname": "Weibel",
+      "givenName": "Pascal",
+      "email": null,
+      "phone": "+41 31 377 73 53",
+      "function": {
+        "german": "Patentprüfung",
+        "french": "Patentprüfung",
+        "italian": "Patentprüfung",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060500@12.06",
+      "label": {
+        "german": "Patente",
+        "french": "Brevets",
+        "italian": "Brevetti",
+        "english": ""
+      },
+      "name": {
+        "german": "Patente",
+        "french": "Brevets",
+        "italian": "Brevetti",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060501@12.06",
+      "label": {
+        "german": "Prozessleitung",
+        "french": "Responsables de processus",
+        "italian": "Responsabile di processo",
+        "english": ""
+      },
+      "name": {
+        "german": "Prozessleitung",
+        "french": "Responsables de processus",
+        "italian": "Responsabile di processo",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

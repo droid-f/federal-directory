@@ -1,1 +1,158 @@
-{"id"=>"20048735", "name"=>{"german"=>"Geo Services Defence u. Security", "french"=>"Geo Services Defence et Security", "italian"=>"Geo Services Defence e Security", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4422285", "surname"=>"Schütz", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 90387", "function"=>{"german"=>"PzL Geo Services Defence u. Security", "french"=>"Rp proces. Geo Serv. Défense et Security", "italian"=>"Rp proces. Geoservizi Difesa e Sicurezza", "english"=>"PzL Geo Services Defence u. Security"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7872728", "surname"=>"Gfeller", "givenName"=>"Heinz", "email"=>nil, "phone"=>"+41 58 46 90192", "function"=>{"german"=>"Projektkoord. MilGEO / VBS / Stv. PzL", "french"=>"Resp.de l'insti.géo.militaire/DDPS/Rsp.", "italian"=>"R dell'istit.geografico miili./DDPS/Rsp.", "english"=>"Projektkoord. MilGEO / VBS / Stv. PzL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"20040051", "label"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}, "name"=>{"german"=>"Koordination, Geo-Information und Services KOGIS", "french"=>"Coordination, services et informations géographiques COSIG", "italian"=>"Coordinazione, Servizi e Informazioni Geografiche COSIG", "english"=>""}}, {"id"=>"20048735", "label"=>{"german"=>"Geo Services Defence u. Security", "french"=>"Geo Services Defence et Security", "italian"=>"Geo Services Defence e Security", "english"=>""}, "name"=>{"german"=>"Geo Services Defence u. Security", "french"=>"Geo Services Defence et Security", "italian"=>"Geo Services Defence e Security", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048735",
+  "name": {
+    "german": "Geo Services Defence u. Security",
+    "french": "Geo Services Defence et Security",
+    "italian": "Geo Services Defence e Security",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4422285",
+      "surname": "Schütz",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 90387",
+      "function": {
+        "german": "PzL Geo Services Defence u. Security",
+        "french": "Rp proces. Geo Serv. Défense et Security",
+        "italian": "Rp proces. Geoservizi Difesa e Sicurezza",
+        "english": "PzL Geo Services Defence u. Security"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7872728",
+      "surname": "Gfeller",
+      "givenName": "Heinz",
+      "email": null,
+      "phone": "+41 58 46 90192",
+      "function": {
+        "german": "Projektkoord. MilGEO / VBS / Stv. PzL",
+        "french": "Resp.de l'insti.géo.militaire/DDPS/Rsp.",
+        "italian": "R dell'istit.geografico miili./DDPS/Rsp.",
+        "english": "Projektkoord. MilGEO / VBS / Stv. PzL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040051",
+      "label": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      },
+      "name": {
+        "german": "Koordination, Geo-Information und Services KOGIS",
+        "french": "Coordination, services et informations géographiques COSIG",
+        "italian": "Coordinazione, Servizi e Informazioni Geografiche COSIG",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048735",
+      "label": {
+        "german": "Geo Services Defence u. Security",
+        "french": "Geo Services Defence et Security",
+        "italian": "Geo Services Defence e Security",
+        "english": ""
+      },
+      "name": {
+        "german": "Geo Services Defence u. Security",
+        "french": "Geo Services Defence et Security",
+        "italian": "Geo Services Defence e Security",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,202 @@
-{"id"=>"20035212", "name"=>{"german"=>"Bewilligungen/Artenschutz", "french"=>"Service des autorisations Conservation des espèces", "italian"=>"Ufficio autorizzazioni Conservazione delle specie", "english"=>"Species Conservation Permit Unit"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 155", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035209", "name"=>{"german"=>"Artenschutz", "french"=>"Conservation des espèces", "italian"=>"Conservazione delle specie", "english"=>"Species Conservation"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035220", "name"=>{"german"=>"Bewilligungen", "french"=>"Autorisations", "italian"=>"Autorizzazioni", "english"=>"Bewilligungen"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4035707", "surname"=>"Lörtscher", "givenName"=>"Matthias", "email"=>nil, "phone"=>"+41 58 46 38159", "function"=>{"german"=>"Leiter Fachbereich Bewilligungen/Artenschutz", "french"=>"Leiter Fachbereich Bewilligungen/Artenschutz", "italian"=>"Leiter Fachbereich Bewilligungen/Artenschutz", "english"=>"Leiter Fachbereich Bewilligungen/Artenschutz"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6808274", "surname"=>"Mainini", "givenName"=>"Bruno", "email"=>nil, "phone"=>"+41 58 46 38224", "function"=>{"german"=>"Wiss. MA / Leiter/in Gruppe Artenschutz", "french"=>"Wiss. MA / Leiter/in Gruppe Artenschutz", "italian"=>"Wiss. MA / Leiter/in Gruppe Artenschutz", "english"=>"Wiss. MA / Leiter/in Gruppe Artenschutz"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008671", "label"=>{"german"=>"BLV", "french"=>"BLV", "italian"=>"BLV", "english"=>"Federal Food Safety and Veterinary"}, "name"=>{"german"=>"Bundesamt für Lebensmittelsicherheit und Veterinärwesen", "french"=>"Office fédéral de la sécurité alimentaire et des affaires vétérinaires", "italian"=>"Ufficio federale della sicurezza alimentare e di veterinaria", "english"=>"Federal Food Safety and Veterinary"}}, {"id"=>"10004157", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035165", "label"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>"Internationales"}, "name"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>"Internationales"}}, {"id"=>"20035212", "label"=>{"german"=>"Bewilligungen/Artenschutz", "french"=>"Service des autorisations Conservation des espèces", "italian"=>"Ufficio autorizzazioni Conservazione delle specie", "english"=>"Species Conservation Permit Unit"}, "name"=>{"german"=>"Bewilligungen/Artenschutz", "french"=>"Service des autorisations Conservation des espèces", "italian"=>"Ufficio autorizzazioni Conservazione delle specie", "english"=>"Species Conservation Permit Unit"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035212",
+  "name": {
+    "german": "Bewilligungen/Artenschutz",
+    "french": "Service des autorisations Conservation des espèces",
+    "italian": "Ufficio autorizzazioni Conservazione delle specie",
+    "english": "Species Conservation Permit Unit"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 155",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035209",
+      "name": {
+        "german": "Artenschutz",
+        "french": "Conservation des espèces",
+        "italian": "Conservazione delle specie",
+        "english": "Species Conservation"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035220",
+      "name": {
+        "german": "Bewilligungen",
+        "french": "Autorisations",
+        "italian": "Autorizzazioni",
+        "english": "Bewilligungen"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4035707",
+      "surname": "Lörtscher",
+      "givenName": "Matthias",
+      "email": null,
+      "phone": "+41 58 46 38159",
+      "function": {
+        "german": "Leiter Fachbereich Bewilligungen/Artenschutz",
+        "french": "Leiter Fachbereich Bewilligungen/Artenschutz",
+        "italian": "Leiter Fachbereich Bewilligungen/Artenschutz",
+        "english": "Leiter Fachbereich Bewilligungen/Artenschutz"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6808274",
+      "surname": "Mainini",
+      "givenName": "Bruno",
+      "email": null,
+      "phone": "+41 58 46 38224",
+      "function": {
+        "german": "Wiss. MA / Leiter/in Gruppe Artenschutz",
+        "french": "Wiss. MA / Leiter/in Gruppe Artenschutz",
+        "italian": "Wiss. MA / Leiter/in Gruppe Artenschutz",
+        "english": "Wiss. MA / Leiter/in Gruppe Artenschutz"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008671",
+      "label": {
+        "german": "BLV",
+        "french": "BLV",
+        "italian": "BLV",
+        "english": "Federal Food Safety and Veterinary"
+      },
+      "name": {
+        "german": "Bundesamt für Lebensmittelsicherheit und Veterinärwesen",
+        "french": "Office fédéral de la sécurité alimentaire et des affaires vétérinaires",
+        "italian": "Ufficio federale della sicurezza alimentare e di veterinaria",
+        "english": "Federal Food Safety and Veterinary"
+      }
+    },
+    {
+      "id": "10004157",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035165",
+      "label": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": "Internationales"
+      },
+      "name": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": "Internationales"
+      }
+    },
+    {
+      "id": "20035212",
+      "label": {
+        "german": "Bewilligungen/Artenschutz",
+        "french": "Service des autorisations Conservation des espèces",
+        "italian": "Ufficio autorizzazioni Conservazione delle specie",
+        "english": "Species Conservation Permit Unit"
+      },
+      "name": {
+        "german": "Bewilligungen/Artenschutz",
+        "french": "Service des autorisations Conservation des espèces",
+        "italian": "Ufficio autorizzazioni Conservazione delle specie",
+        "english": "Species Conservation Permit Unit"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

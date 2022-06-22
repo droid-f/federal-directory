@@ -1,1 +1,170 @@
-{"id"=>"20026277", "name"=>{"german"=>"Support & Weisungen", "french"=>"Support et directives", "italian"=>"Supporto e istruzioni", "english"=>"Support and Directives"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20024657", "name"=>{"german"=>"Reisespesen", "french"=>"Frais de voyage", "italian"=>"Spese di viaggio", "english"=>"Travel Expenses"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2373403", "surname"=>"Meier", "givenName"=>"Silvan", "email"=>nil, "phone"=>"+41 58 46 23289", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20024651", "label"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}, "name"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}}, {"id"=>"20039752", "label"=>{"german"=>"Rechnungswesen", "french"=>"Comptabilité", "italian"=>"Contabilità", "english"=>"Accounting"}, "name"=>{"german"=>"Rechnungswesen", "french"=>"Comptabilité", "italian"=>"Contabilità", "english"=>"Accounting"}}, {"id"=>"20026277", "label"=>{"german"=>"Support & Weisungen", "french"=>"Support et directives", "italian"=>"Supporto e istruzioni", "english"=>"Support and Directives"}, "name"=>{"german"=>"Support & Weisungen", "french"=>"Support et directives", "italian"=>"Supporto e istruzioni", "english"=>"Support and Directives"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026277",
+  "name": {
+    "german": "Support & Weisungen",
+    "french": "Support et directives",
+    "italian": "Supporto e istruzioni",
+    "english": "Support and Directives"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20024657",
+      "name": {
+        "german": "Reisespesen",
+        "french": "Frais de voyage",
+        "italian": "Spese di viaggio",
+        "english": "Travel Expenses"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2373403",
+      "surname": "Meier",
+      "givenName": "Silvan",
+      "email": null,
+      "phone": "+41 58 46 23289",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20024651",
+      "label": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      },
+      "name": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      }
+    },
+    {
+      "id": "20039752",
+      "label": {
+        "german": "Rechnungswesen",
+        "french": "Comptabilité",
+        "italian": "Contabilità",
+        "english": "Accounting"
+      },
+      "name": {
+        "german": "Rechnungswesen",
+        "french": "Comptabilité",
+        "italian": "Contabilità",
+        "english": "Accounting"
+      }
+    },
+    {
+      "id": "20026277",
+      "label": {
+        "german": "Support & Weisungen",
+        "french": "Support et directives",
+        "italian": "Supporto e istruzioni",
+        "english": "Support and Directives"
+      },
+      "name": {
+        "german": "Support & Weisungen",
+        "french": "Support et directives",
+        "italian": "Supporto e istruzioni",
+        "english": "Support and Directives"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,154 @@
-{"id"=>"20049477", "name"=>{"german"=>"Digital Compliance und Governance", "french"=>"Digital Compliance und Governance DCG", "italian"=>"Digital Compliance und Governance DCG", "english"=>""}, "nameAbbr"=>{"german"=>"DCG", "french"=>"DCG", "italian"=>"DCG", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4188417", "surname"=>"Husi", "givenName"=>"Sandra", "email"=>nil, "phone"=>"+41 58 46 97731", "function"=>{"german"=>"Leiterin Stabsbereich Digital Compliance und Governance DCG", "french"=>"Leiterin Stabsbereich Digital Compliance und Governance DCG", "italian"=>"Leiterin Stabsbereich Digital Compliance und Governance DCG", "english"=>"Leiterin Stabsbereich DCG"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9385090", "surname"=>"Schneiter", "givenName"=>"Stephanie", "email"=>nil, "phone"=>"+41 58 46 57132", "function"=>{"german"=>"Rechtskonsulentin", "french"=>"Conseiller juridique", "italian"=>"Consulente giuridico", "english"=>"Rechtskonsulentin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}, {"id"=>"20028230", "label"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}}, {"id"=>"20049477", "label"=>{"german"=>"DCG", "french"=>"DCG", "italian"=>"DCG", "english"=>""}, "name"=>{"german"=>"Digital Compliance und Governance", "french"=>"Digital Compliance und Governance DCG", "italian"=>"Digital Compliance und Governance DCG", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049477",
+  "name": {
+    "german": "Digital Compliance und Governance",
+    "french": "Digital Compliance und Governance DCG",
+    "italian": "Digital Compliance und Governance DCG",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "DCG",
+    "french": "DCG",
+    "italian": "DCG",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4188417",
+      "surname": "Husi",
+      "givenName": "Sandra",
+      "email": null,
+      "phone": "+41 58 46 97731",
+      "function": {
+        "german": "Leiterin Stabsbereich Digital Compliance und Governance DCG",
+        "french": "Leiterin Stabsbereich Digital Compliance und Governance DCG",
+        "italian": "Leiterin Stabsbereich Digital Compliance und Governance DCG",
+        "english": "Leiterin Stabsbereich DCG"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9385090",
+      "surname": "Schneiter",
+      "givenName": "Stephanie",
+      "email": null,
+      "phone": "+41 58 46 57132",
+      "function": {
+        "german": "Rechtskonsulentin",
+        "french": "Conseiller juridique",
+        "italian": "Consulente giuridico",
+        "english": "Rechtskonsulentin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028230",
+      "label": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049477",
+      "label": {
+        "german": "DCG",
+        "french": "DCG",
+        "italian": "DCG",
+        "english": ""
+      },
+      "name": {
+        "german": "Digital Compliance und Governance",
+        "french": "Digital Compliance und Governance DCG",
+        "italian": "Digital Compliance und Governance DCG",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,126 @@
-{"id"=>"20037350", "name"=>{"german"=>"Digitale Basisdienstleistungen", "french"=>"Prestations numériques de base", "italian"=>"Servizi digitali di base", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6156803", "surname"=>"Wälchli", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 32 29047", "function"=>{"german"=>"Leiter Digitale Basisdienstleistungen", "french"=>"Leiter Digitale Basisdienstleistungen", "italian"=>"Leiter Digitale Basisdienstleistungen", "english"=>"Leiter Digitale Basisdienstleistungen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037303", "label"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}, "name"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}}, {"id"=>"20037318", "label"=>{"german"=>"Digitale Dienstleistungen", "french"=>"Prestations numériques", "italian"=>"Prestazioni digitali", "english"=>""}, "name"=>{"german"=>"Digitale Dienstleistungen", "french"=>"Prestations numériques", "italian"=>"Prestazioni digitali", "english"=>""}}, {"id"=>"20037350", "label"=>{"german"=>"Digitale Basisdienstleistungen", "french"=>"Prestations numériques de base", "italian"=>"Servizi digitali di base", "english"=>""}, "name"=>{"german"=>"Digitale Basisdienstleistungen", "french"=>"Prestations numériques de base", "italian"=>"Servizi digitali di base", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037350",
+  "name": {
+    "german": "Digitale Basisdienstleistungen",
+    "french": "Prestations numériques de base",
+    "italian": "Servizi digitali di base",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6156803",
+      "surname": "Wälchli",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 32 29047",
+      "function": {
+        "german": "Leiter Digitale Basisdienstleistungen",
+        "french": "Leiter Digitale Basisdienstleistungen",
+        "italian": "Leiter Digitale Basisdienstleistungen",
+        "english": "Leiter Digitale Basisdienstleistungen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037303",
+      "label": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037318",
+      "label": {
+        "german": "Digitale Dienstleistungen",
+        "french": "Prestations numériques",
+        "italian": "Prestazioni digitali",
+        "english": ""
+      },
+      "name": {
+        "german": "Digitale Dienstleistungen",
+        "french": "Prestations numériques",
+        "italian": "Prestazioni digitali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037350",
+      "label": {
+        "german": "Digitale Basisdienstleistungen",
+        "french": "Prestations numériques de base",
+        "italian": "Servizi digitali di base",
+        "english": ""
+      },
+      "name": {
+        "german": "Digitale Basisdienstleistungen",
+        "french": "Prestations numériques de base",
+        "italian": "Servizi digitali di base",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

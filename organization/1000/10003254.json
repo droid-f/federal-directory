@@ -1,1 +1,255 @@
-{"id"=>"10003254", "name"=>{"german"=>"Ökonomische Analyse und Beratung", "french"=>"Analyse et conseil économiques", "italian"=>"Analisi economica e consulenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1739811", "surname"=>"Baur", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 26172", "function"=>{"german"=>"Leiter Ökonomische Analyse und Beratung", "french"=>"Chef Analyse et conseil économiques", "italian"=>"Capo Analisi economica e consulenza", "english"=>"Leiter ÖAB"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6263607", "surname"=>"Schlaffer Bruchez", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 46 26344", "function"=>{"german"=>"stv. Leiterin", "french"=>"Cheffe suppléante", "italian"=>"Capo sostituta", "english"=>"stv. Leiterin"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7565473", "surname"=>"Brändle", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 55630", "function"=>{"german"=>"Fachbereichsleiter", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Fachbereichsleiter"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9161075", "surname"=>"Bruchez", "givenName"=>"Pierre-Alain", "email"=>nil, "phone"=>"+41 58 46 26331", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0375577", "surname"=>"Colombier", "givenName"=>"Carsten", "email"=>nil, "phone"=>"+41 58 46 26332", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2885661", "surname"=>"Himmel", "givenName"=>"Margit", "email"=>nil, "phone"=>"+41 58 46 21677", "function"=>{"german"=>"Fachbereichsleiterin", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Fachbereichsleiterin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9658369", "surname"=>"Hohl", "givenName"=>"Lukas", "email"=>nil, "phone"=>"+41 58 48 13472", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1344749", "surname"=>"Schmassmann", "givenName"=>"Samuel", "email"=>nil, "phone"=>"+41 58 48 13508", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4847050", "surname"=>"Schmidbauer", "givenName"=>"Frank", "email"=>nil, "phone"=>"+41 58 46 14121", "function"=>{"german"=>"Oekonom", "french"=>"Économiste", "italian"=>"Economista", "english"=>"Oekonom"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003254", "label"=>{"german"=>"Ökonomische Analyse und Beratung", "french"=>"Analyse et conseil économiques", "italian"=>"Analisi economica e consulenza", "english"=>""}, "name"=>{"german"=>"Ökonomische Analyse und Beratung", "french"=>"Analyse et conseil économiques", "italian"=>"Analisi economica e consulenza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003254",
+  "name": {
+    "german": "Ökonomische Analyse und Beratung",
+    "french": "Analyse et conseil économiques",
+    "italian": "Analisi economica e consulenza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1739811",
+      "surname": "Baur",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 26172",
+      "function": {
+        "german": "Leiter Ökonomische Analyse und Beratung",
+        "french": "Chef Analyse et conseil économiques",
+        "italian": "Capo Analisi economica e consulenza",
+        "english": "Leiter ÖAB"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6263607",
+      "surname": "Schlaffer Bruchez",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 46 26344",
+      "function": {
+        "german": "stv. Leiterin",
+        "french": "Cheffe suppléante",
+        "italian": "Capo sostituta",
+        "english": "stv. Leiterin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7565473",
+      "surname": "Brändle",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 55630",
+      "function": {
+        "german": "Fachbereichsleiter",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Fachbereichsleiter"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9161075",
+      "surname": "Bruchez",
+      "givenName": "Pierre-Alain",
+      "email": null,
+      "phone": "+41 58 46 26331",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0375577",
+      "surname": "Colombier",
+      "givenName": "Carsten",
+      "email": null,
+      "phone": "+41 58 46 26332",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2885661",
+      "surname": "Himmel",
+      "givenName": "Margit",
+      "email": null,
+      "phone": "+41 58 46 21677",
+      "function": {
+        "german": "Fachbereichsleiterin",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Fachbereichsleiterin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9658369",
+      "surname": "Hohl",
+      "givenName": "Lukas",
+      "email": null,
+      "phone": "+41 58 48 13472",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1344749",
+      "surname": "Schmassmann",
+      "givenName": "Samuel",
+      "email": null,
+      "phone": "+41 58 48 13508",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4847050",
+      "surname": "Schmidbauer",
+      "givenName": "Frank",
+      "email": null,
+      "phone": "+41 58 46 14121",
+      "function": {
+        "german": "Oekonom",
+        "french": "Économiste",
+        "italian": "Economista",
+        "english": "Oekonom"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003254",
+      "label": {
+        "german": "Ökonomische Analyse und Beratung",
+        "french": "Analyse et conseil économiques",
+        "italian": "Analisi economica e consulenza",
+        "english": ""
+      },
+      "name": {
+        "german": "Ökonomische Analyse und Beratung",
+        "french": "Analyse et conseil économiques",
+        "italian": "Analisi economica e consulenza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

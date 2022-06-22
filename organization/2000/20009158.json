@@ -1,1 +1,173 @@
-{"id"=>"20009158", "name"=>{"german"=>"Sachplan und Anlagen", "french"=>"Plan sectoriel et installations", "italian"=>"Piano settoriale e impianti", "english"=>"Sachplan und Anlagen"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2348679", "surname"=>"Bosonnet", "givenName"=>"Roger", "email"=>nil, "phone"=>"+41 58 46 57484", "function"=>{"german"=>"Leiter Sachplan und Anlagen", "french"=>"Leiter Sachplan und Anlagen", "italian"=>"Leiter Sachplan und Anlagen", "english"=>"Leiter Sachplan und Anlagen"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5484792", "surname"=>"Schneeberger", "givenName"=>"Ludovic", "email"=>nil, "phone"=>"+41 58 46 50895", "function"=>{"german"=>"Stellvertreter LESA", "french"=>"Stellvertreter LESA", "italian"=>"Stellvertreter LESA", "english"=>"Stellvertreter LESA"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009156", "label"=>{"german"=>"Luftfahrtentwicklung", "french"=>"Stratégie et politique aéronautique", "italian"=>"Strategia e politica aeronautica", "english"=>"Luftfahrtentwicklung"}, "name"=>{"german"=>"Luftfahrtentwicklung", "french"=>"Stratégie et politique aéronautique", "italian"=>"Strategia e politica aeronautica", "english"=>"Luftfahrtentwicklung"}}, {"id"=>"20009158", "label"=>{"german"=>"Sachplan und Anlagen", "french"=>"Plan sectoriel et installations", "italian"=>"Piano settoriale e impianti", "english"=>"Sachplan und Anlagen"}, "name"=>{"german"=>"Sachplan und Anlagen", "french"=>"Plan sectoriel et installations", "italian"=>"Piano settoriale e impianti", "english"=>"Sachplan und Anlagen"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009158",
+  "name": {
+    "german": "Sachplan und Anlagen",
+    "french": "Plan sectoriel et installations",
+    "italian": "Piano settoriale e impianti",
+    "english": "Sachplan und Anlagen"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2348679",
+      "surname": "Bosonnet",
+      "givenName": "Roger",
+      "email": null,
+      "phone": "+41 58 46 57484",
+      "function": {
+        "german": "Leiter Sachplan und Anlagen",
+        "french": "Leiter Sachplan und Anlagen",
+        "italian": "Leiter Sachplan und Anlagen",
+        "english": "Leiter Sachplan und Anlagen"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5484792",
+      "surname": "Schneeberger",
+      "givenName": "Ludovic",
+      "email": null,
+      "phone": "+41 58 46 50895",
+      "function": {
+        "german": "Stellvertreter LESA",
+        "french": "Stellvertreter LESA",
+        "italian": "Stellvertreter LESA",
+        "english": "Stellvertreter LESA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009156",
+      "label": {
+        "german": "Luftfahrtentwicklung",
+        "french": "Stratégie et politique aéronautique",
+        "italian": "Strategia e politica aeronautica",
+        "english": "Luftfahrtentwicklung"
+      },
+      "name": {
+        "german": "Luftfahrtentwicklung",
+        "french": "Stratégie et politique aéronautique",
+        "italian": "Strategia e politica aeronautica",
+        "english": "Luftfahrtentwicklung"
+      }
+    },
+    {
+      "id": "20009158",
+      "label": {
+        "german": "Sachplan und Anlagen",
+        "french": "Plan sectoriel et installations",
+        "italian": "Piano settoriale e impianti",
+        "english": "Sachplan und Anlagen"
+      },
+      "name": {
+        "german": "Sachplan und Anlagen",
+        "french": "Plan sectoriel et installations",
+        "italian": "Piano settoriale e impianti",
+        "english": "Sachplan und Anlagen"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

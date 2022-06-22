@@ -1,1 +1,156 @@
-{"id"=>"20005576", "name"=>{"german"=>"Stab der Abteilung Internationales", "french"=>"Etat-major de la division Affaires internationales", "italian"=>"Stato maggiore della Divisione affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9247099", "surname"=>"Mini Baser", "givenName"=>"Manuela", "email"=>nil, "phone"=>"+41 58 46 48630", "function"=>{"german"=>"Leiter/in Stab", "french"=>"Leiter/in Stab", "italian"=>"Leiter/in Stab", "english"=>"Leiter/in Stab"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004554", "label"=>{"german"=>"Abteilung Internationales", "french"=>"Division Affaires internationales", "italian"=>"Divisione affari internazionali", "english"=>""}, "name"=>{"german"=>"Abteilung Internationales", "french"=>"Division Affaires internationales", "italian"=>"Divisione affari internazionali", "english"=>""}}, {"id"=>"20005576", "label"=>{"german"=>"Stab der Abteilung Internationales", "french"=>"Etat-major de la division Affaires internationales", "italian"=>"Stato maggiore della Divisione affari internazionali", "english"=>""}, "name"=>{"german"=>"Stab der Abteilung Internationales", "french"=>"Etat-major de la division Affaires internationales", "italian"=>"Stato maggiore della Divisione affari internazionali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005576",
+  "name": {
+    "german": "Stab der Abteilung Internationales",
+    "french": "Etat-major de la division Affaires internationales",
+    "italian": "Stato maggiore della Divisione affari internazionali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9247099",
+      "surname": "Mini Baser",
+      "givenName": "Manuela",
+      "email": null,
+      "phone": "+41 58 46 48630",
+      "function": {
+        "german": "Leiter/in Stab",
+        "french": "Leiter/in Stab",
+        "italian": "Leiter/in Stab",
+        "english": "Leiter/in Stab"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004554",
+      "label": {
+        "german": "Abteilung Internationales",
+        "french": "Division Affaires internationales",
+        "italian": "Divisione affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Internationales",
+        "french": "Division Affaires internationales",
+        "italian": "Divisione affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005576",
+      "label": {
+        "german": "Stab der Abteilung Internationales",
+        "french": "Etat-major de la division Affaires internationales",
+        "italian": "Stato maggiore della Divisione affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab der Abteilung Internationales",
+        "french": "Etat-major de la division Affaires internationales",
+        "italian": "Stato maggiore della Divisione affari internazionali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

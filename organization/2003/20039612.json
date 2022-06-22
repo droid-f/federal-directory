@@ -1,1 +1,195 @@
-{"id"=>"20039612", "name"=>{"german"=>"Staatsanwälte SK", "french"=>"Procureurs fédéraux STK", "italian"=>"Procuratori federali STK", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20039702", "name"=>{"german"=>"Juristische Praktikanten SK", "french"=>"Stagiaires juridiques STK", "italian"=>"Stagisti giuridici STK", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8298670", "surname"=>"Nold", "givenName"=>"Vincens", "email"=>nil, "phone"=>"+41 58 46 20684", "function"=>{"german"=>"Staatsanwalt des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6398505", "surname"=>"Aeberli", "givenName"=>"Caterina", "email"=>nil, "phone"=>"+41 58 48 56126", "function"=>{"german"=>"Staatsanwältin des Bundes", "french"=>"Procureure fédérale", "italian"=>"Procuratrice federale", "english"=>"Staatsanwältin des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9059603", "surname"=>"Eckmann", "givenName"=>"Nils", "email"=>nil, "phone"=>"+41 58 46 67049", "function"=>{"german"=>"Staatsanwalt des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8558886", "surname"=>"Guth", "givenName"=>"Nathalie", "email"=>nil, "phone"=>"+41 58 46 21039", "function"=>{"german"=>"Staatsanwältin des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwältin des Bundes"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0072082", "surname"=>"Renna", "givenName"=>"Marco", "email"=>nil, "phone"=>"+41 58 46 28458", "function"=>{"german"=>"Staatsanwalt des Bundes", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20018752", "label"=>{"german"=>"Staatsschutz, Kriminelle Organisationen", "french"=>"Protection de l'Etat, Organisations criminelles", "italian"=>"Protezione dello Stato, Organizzazioni criminali", "english"=>""}, "name"=>{"german"=>"Staatsschutz, Kriminelle Organisationen", "french"=>"Protection de l'Etat, Organisations criminelles", "italian"=>"Protezione dello Stato, Organizzazioni criminali", "english"=>""}}, {"id"=>"20039612", "label"=>{"german"=>"Staatsanwälte SK", "french"=>"Procureurs fédéraux STK", "italian"=>"Procuratori federali STK", "english"=>""}, "name"=>{"german"=>"Staatsanwälte SK", "french"=>"Procureurs fédéraux STK", "italian"=>"Procuratori federali STK", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039612",
+  "name": {
+    "german": "Staatsanwälte SK",
+    "french": "Procureurs fédéraux STK",
+    "italian": "Procuratori federali STK",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20039702",
+      "name": {
+        "german": "Juristische Praktikanten SK",
+        "french": "Stagiaires juridiques STK",
+        "italian": "Stagisti giuridici STK",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8298670",
+      "surname": "Nold",
+      "givenName": "Vincens",
+      "email": null,
+      "phone": "+41 58 46 20684",
+      "function": {
+        "german": "Staatsanwalt des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6398505",
+      "surname": "Aeberli",
+      "givenName": "Caterina",
+      "email": null,
+      "phone": "+41 58 48 56126",
+      "function": {
+        "german": "Staatsanwältin des Bundes",
+        "french": "Procureure fédérale",
+        "italian": "Procuratrice federale",
+        "english": "Staatsanwältin des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9059603",
+      "surname": "Eckmann",
+      "givenName": "Nils",
+      "email": null,
+      "phone": "+41 58 46 67049",
+      "function": {
+        "german": "Staatsanwalt des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8558886",
+      "surname": "Guth",
+      "givenName": "Nathalie",
+      "email": null,
+      "phone": "+41 58 46 21039",
+      "function": {
+        "german": "Staatsanwältin des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwältin des Bundes"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0072082",
+      "surname": "Renna",
+      "givenName": "Marco",
+      "email": null,
+      "phone": "+41 58 46 28458",
+      "function": {
+        "german": "Staatsanwalt des Bundes",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018752",
+      "label": {
+        "german": "Staatsschutz, Kriminelle Organisationen",
+        "french": "Protection de l'Etat, Organisations criminelles",
+        "italian": "Protezione dello Stato, Organizzazioni criminali",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatsschutz, Kriminelle Organisationen",
+        "french": "Protection de l'Etat, Organisations criminelles",
+        "italian": "Protezione dello Stato, Organizzazioni criminali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039612",
+      "label": {
+        "german": "Staatsanwälte SK",
+        "french": "Procureurs fédéraux STK",
+        "italian": "Procuratori federali STK",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatsanwälte SK",
+        "french": "Procureurs fédéraux STK",
+        "italian": "Procuratori federali STK",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

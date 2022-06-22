@@ -1,1 +1,195 @@
-{"id"=>"10003874", "name"=>{"german"=>"Finanzaufsichtsprüfungen 2", "french"=>"Surveillance financière 2", "italian"=>"Verifiche vigilanza finanziaria 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 45", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 463 10 62", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-6016624", "surname"=>"Bläuer", "givenName"=>"Alexandre", "email"=>nil, "phone"=>"+41 58 46 31047", "function"=>{"german"=>"Prüfungsexpert. Finanz 2", "french"=>"Prüfungsexpert. Finanz 2", "italian"=>"Prüfungsexpert. Finanz 2", "english"=>"Prüfungsexpert. Finanz 2"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8306889", "surname"=>"Kaderli", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 76464", "function"=>{"german"=>"Prüfungsexpert. Finanz 2", "french"=>"Prüfungsexpert. Finanz 2", "italian"=>"Prüfungsexpert. Finanz 2", "english"=>"Prüfungsexpert. Finanz 2"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8698007", "surname"=>"Neuhaus", "givenName"=>"Christine", "email"=>nil, "phone"=>"+41 58 46 31041", "function"=>{"german"=>"Prüfungsexpert. Finanz 2", "french"=>"Prüfungsexpert. Finanz 2", "italian"=>"Prüfungsexpert. Finanz 2", "english"=>"Prüfungsexpert. Finanz 2"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9370518", "surname"=>"Roschi", "givenName"=>"Marco", "email"=>nil, "phone"=>"+41 58 46 73012", "function"=>{"german"=>"Prüfungsexpert. Finanz 2", "french"=>"Prüfungsexpert. Finanz 2", "italian"=>"Prüfungsexpert. Finanz 2", "english"=>"Prüfungsexpert. Finanz 2"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008752", "label"=>{"german"=>"EFK", "french"=>"CDF", "italian"=>"CDF", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzkontrolle", "french"=>"Contrôle fédéral des finances", "italian"=>"Controllo federale delle finanze", "english"=>""}}, {"id"=>"10003862", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003872", "label"=>{"german"=>"Fachbereiche", "french"=>"Centres de compétences", "italian"=>"Centri di competenze", "english"=>""}, "name"=>{"german"=>"Fachbereiche", "french"=>"Centres de compétences", "italian"=>"Centri di competenze", "english"=>""}}, {"id"=>"10003874", "label"=>{"german"=>"Finanzaufsichtsprüfungen 2", "french"=>"Surveillance financière 2", "italian"=>"Verifiche vigilanza finanziaria 2", "english"=>""}, "name"=>{"german"=>"Finanzaufsichtsprüfungen 2", "french"=>"Surveillance financière 2", "italian"=>"Verifiche vigilanza finanziaria 2", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003874",
+  "name": {
+    "german": "Finanzaufsichtsprüfungen 2",
+    "french": "Surveillance financière 2",
+    "italian": "Verifiche vigilanza finanziaria 2",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 45",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 463 10 62",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-6016624",
+      "surname": "Bläuer",
+      "givenName": "Alexandre",
+      "email": null,
+      "phone": "+41 58 46 31047",
+      "function": {
+        "german": "Prüfungsexpert. Finanz 2",
+        "french": "Prüfungsexpert. Finanz 2",
+        "italian": "Prüfungsexpert. Finanz 2",
+        "english": "Prüfungsexpert. Finanz 2"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8306889",
+      "surname": "Kaderli",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 76464",
+      "function": {
+        "german": "Prüfungsexpert. Finanz 2",
+        "french": "Prüfungsexpert. Finanz 2",
+        "italian": "Prüfungsexpert. Finanz 2",
+        "english": "Prüfungsexpert. Finanz 2"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8698007",
+      "surname": "Neuhaus",
+      "givenName": "Christine",
+      "email": null,
+      "phone": "+41 58 46 31041",
+      "function": {
+        "german": "Prüfungsexpert. Finanz 2",
+        "french": "Prüfungsexpert. Finanz 2",
+        "italian": "Prüfungsexpert. Finanz 2",
+        "english": "Prüfungsexpert. Finanz 2"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9370518",
+      "surname": "Roschi",
+      "givenName": "Marco",
+      "email": null,
+      "phone": "+41 58 46 73012",
+      "function": {
+        "german": "Prüfungsexpert. Finanz 2",
+        "french": "Prüfungsexpert. Finanz 2",
+        "italian": "Prüfungsexpert. Finanz 2",
+        "english": "Prüfungsexpert. Finanz 2"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008752",
+      "label": {
+        "german": "EFK",
+        "french": "CDF",
+        "italian": "CDF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzkontrolle",
+        "french": "Contrôle fédéral des finances",
+        "italian": "Controllo federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003862",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003872",
+      "label": {
+        "german": "Fachbereiche",
+        "french": "Centres de compétences",
+        "italian": "Centri di competenze",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereiche",
+        "french": "Centres de compétences",
+        "italian": "Centri di competenze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003874",
+      "label": {
+        "german": "Finanzaufsichtsprüfungen 2",
+        "french": "Surveillance financière 2",
+        "italian": "Verifiche vigilanza finanziaria 2",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzaufsichtsprüfungen 2",
+        "french": "Surveillance financière 2",
+        "italian": "Verifiche vigilanza finanziaria 2",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

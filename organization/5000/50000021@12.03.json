@@ -1,1 +1,141 @@
-{"id"=>"50000021@12.03", "name"=>{"german"=>"Bereich Infrastruktur und Logistik", "french"=>"Bereich Infrastruktur und Logistik", "italian"=>"Bereich Infrastruktur und Logistik", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8644993", "surname"=>"Pelzer", "givenName"=>"Wilhelm", "email"=>nil, "phone"=>"+41583870366", "function"=>{"german"=>"Bereichsleiter/in Infrastruktur Logistik", "french"=>"Chef domaine infrastructure/logistique", "italian"=>"Capo settore infrastrutture e logistica", "english"=>"Head of Infrastructure and logistics"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}, {"id"=>"50001386@12.03", "label"=>{"german"=>"Technologie und Betrieb", "french"=>"Technologie und Betrieb", "italian"=>"Technologie und Betrieb", "english"=>""}, "name"=>{"german"=>"Technologie und Betrieb", "french"=>"Technologie und Betrieb", "italian"=>"Technologie und Betrieb", "english"=>""}}, {"id"=>"50000021@12.03", "label"=>{"german"=>"Bereich Infrastruktur und Logistik", "french"=>"Bereich Infrastruktur und Logistik", "italian"=>"Bereich Infrastruktur und Logistik", "english"=>""}, "name"=>{"german"=>"Bereich Infrastruktur und Logistik", "french"=>"Bereich Infrastruktur und Logistik", "italian"=>"Bereich Infrastruktur und Logistik", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50000021@12.03",
+  "name": {
+    "german": "Bereich Infrastruktur und Logistik",
+    "french": "Bereich Infrastruktur und Logistik",
+    "italian": "Bereich Infrastruktur und Logistik",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8644993",
+      "surname": "Pelzer",
+      "givenName": "Wilhelm",
+      "email": null,
+      "phone": "+41583870366",
+      "function": {
+        "german": "Bereichsleiter/in Infrastruktur Logistik",
+        "french": "Chef domaine infrastructure/logistique",
+        "italian": "Capo settore infrastrutture e logistica",
+        "english": "Head of Infrastructure and logistics"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50001386@12.03",
+      "label": {
+        "german": "Technologie und Betrieb",
+        "french": "Technologie und Betrieb",
+        "italian": "Technologie und Betrieb",
+        "english": ""
+      },
+      "name": {
+        "german": "Technologie und Betrieb",
+        "french": "Technologie und Betrieb",
+        "italian": "Technologie und Betrieb",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000021@12.03",
+      "label": {
+        "german": "Bereich Infrastruktur und Logistik",
+        "french": "Bereich Infrastruktur und Logistik",
+        "italian": "Bereich Infrastruktur und Logistik",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Infrastruktur und Logistik",
+        "french": "Bereich Infrastruktur und Logistik",
+        "italian": "Bereich Infrastruktur und Logistik",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

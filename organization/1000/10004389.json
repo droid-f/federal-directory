@@ -1,1 +1,215 @@
-{"id"=>"10004389", "name"=>{"german"=>"Sektion IKT", "french"=>"Section TIC", "italian"=>"Sezione TIC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20022126", "name"=>{"german"=>"Dienst IKT-Planung und Organisation", "french"=>"Service Planification et organisation TIC", "italian"=>"Servizio Planificazione e organizzazione TIC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20022301", "name"=>{"german"=>"Dienst IKT-Projekte", "french"=>"Service Projects TIC", "italian"=>"Servizio Progetti TIC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20022302", "name"=>{"german"=>"Dienst IKT-Anwendungen NB", "french"=>"Service Applications TIC de la BN", "italian"=>"Servizio Applicazioni TIC della BN", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20022303", "name"=>{"german"=>"Dienst IKT-Anwendungen BAK", "french"=>"Service Applications TIC de l'OFC", "italian"=>"Servizio Applicazioni TIC dell'UFC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6940038", "surname"=>"Locher", "givenName"=>"Hans Ulrich", "email"=>nil, "phone"=>"+41 58 46 31390", "function"=>{"german"=>"Leiter/in Sektion", "french"=>"Chef/fe de section", "italian"=>"Caposezione", "english"=>"Leiter/in Sektion"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004387", "label"=>{"german"=>"NB", "french"=>"BN", "italian"=>"BN", "english"=>""}, "name"=>{"german"=>"Schweizerische Nationalbibliothek", "french"=>"Bibliothèque nationale suisse", "italian"=>"Biblioteca nazionale svizzera", "english"=>""}}, {"id"=>"20012600", "label"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}, "name"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}}, {"id"=>"10004389", "label"=>{"german"=>"Sektion IKT", "french"=>"Section TIC", "italian"=>"Sezione TIC", "english"=>""}, "name"=>{"german"=>"Sektion IKT", "french"=>"Section TIC", "italian"=>"Sezione TIC", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004389",
+  "name": {
+    "german": "Sektion IKT",
+    "french": "Section TIC",
+    "italian": "Sezione TIC",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20022126",
+      "name": {
+        "german": "Dienst IKT-Planung und Organisation",
+        "french": "Service Planification et organisation TIC",
+        "italian": "Servizio Planificazione e organizzazione TIC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022301",
+      "name": {
+        "german": "Dienst IKT-Projekte",
+        "french": "Service Projects TIC",
+        "italian": "Servizio Progetti TIC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022302",
+      "name": {
+        "german": "Dienst IKT-Anwendungen NB",
+        "french": "Service Applications TIC de la BN",
+        "italian": "Servizio Applicazioni TIC della BN",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022303",
+      "name": {
+        "german": "Dienst IKT-Anwendungen BAK",
+        "french": "Service Applications TIC de l'OFC",
+        "italian": "Servizio Applicazioni TIC dell'UFC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6940038",
+      "surname": "Locher",
+      "givenName": "Hans Ulrich",
+      "email": null,
+      "phone": "+41 58 46 31390",
+      "function": {
+        "german": "Leiter/in Sektion",
+        "french": "Chef/fe de section",
+        "italian": "Caposezione",
+        "english": "Leiter/in Sektion"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004387",
+      "label": {
+        "german": "NB",
+        "french": "BN",
+        "italian": "BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerische Nationalbibliothek",
+        "french": "Bibliothèque nationale suisse",
+        "italian": "Biblioteca nazionale svizzera",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012600",
+      "label": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004389",
+      "label": {
+        "german": "Sektion IKT",
+        "french": "Section TIC",
+        "italian": "Sezione TIC",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion IKT",
+        "french": "Section TIC",
+        "italian": "Sezione TIC",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

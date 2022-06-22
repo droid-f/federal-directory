@@ -1,1 +1,138 @@
-{"id"=>"14@11.02", "name"=>{"german"=>"Kundenbereich 3", "french"=>"Kundenbereich 3", "italian"=>"Kundenbereich 3", "english"=>""}, "nameAbbr"=>{"german"=>"Kundenbereich 3", "french"=>"Kundenbereich 3", "italian"=>"Kundenbereich 3", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 57", "postalCode"=>"3007", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 485 21 11", "fax"=>"+41 58 485 21 13", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-5975015", "surname"=>"Stoquet", "givenName"=>"Alain", "email"=>nil, "phone"=>"+41 58 485 21 50", "function"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10@11.02", "label"=>{"german"=>"PUBLICA", "french"=>"PUBLICA", "italian"=>"PUBLICA", "english"=>""}, "name"=>{"german"=>"Pensionskasse PUBLICA", "french"=>"Pensionskasse PUBLICA", "italian"=>"Pensionskasse PUBLICA", "english"=>""}}, {"id"=>"11@11.02", "label"=>{"german"=>"Vorsorge", "french"=>"Vorsorge", "italian"=>"Vorsorge", "english"=>""}, "name"=>{"german"=>"Vorsorge", "french"=>"Vorsorge", "italian"=>"Vorsorge", "english"=>""}}, {"id"=>"14@11.02", "label"=>{"german"=>"Kundenbereich 3", "french"=>"Kundenbereich 3", "italian"=>"Kundenbereich 3", "english"=>""}, "name"=>{"german"=>"Kundenbereich 3", "french"=>"Kundenbereich 3", "italian"=>"Kundenbereich 3", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "14@11.02",
+  "name": {
+    "german": "Kundenbereich 3",
+    "french": "Kundenbereich 3",
+    "italian": "Kundenbereich 3",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "Kundenbereich 3",
+    "french": "Kundenbereich 3",
+    "italian": "Kundenbereich 3",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 57",
+    "postalCode": "3007",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 485 21 11",
+    "fax": "+41 58 485 21 13",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-5975015",
+      "surname": "Stoquet",
+      "givenName": "Alain",
+      "email": null,
+      "phone": "+41 58 485 21 50",
+      "function": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10@11.02",
+      "label": {
+        "german": "PUBLICA",
+        "french": "PUBLICA",
+        "italian": "PUBLICA",
+        "english": ""
+      },
+      "name": {
+        "german": "Pensionskasse PUBLICA",
+        "french": "Pensionskasse PUBLICA",
+        "italian": "Pensionskasse PUBLICA",
+        "english": ""
+      }
+    },
+    {
+      "id": "11@11.02",
+      "label": {
+        "german": "Vorsorge",
+        "french": "Vorsorge",
+        "italian": "Vorsorge",
+        "english": ""
+      },
+      "name": {
+        "german": "Vorsorge",
+        "french": "Vorsorge",
+        "italian": "Vorsorge",
+        "english": ""
+      }
+    },
+    {
+      "id": "14@11.02",
+      "label": {
+        "german": "Kundenbereich 3",
+        "french": "Kundenbereich 3",
+        "italian": "Kundenbereich 3",
+        "english": ""
+      },
+      "name": {
+        "german": "Kundenbereich 3",
+        "french": "Kundenbereich 3",
+        "italian": "Kundenbereich 3",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

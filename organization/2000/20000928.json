@@ -1,1 +1,185 @@
-{"id"=>"20000928", "name"=>{"german"=>"Forensische Finanzanalyse", "french"=>"Analyse financière forensique", "italian"=>"Analisi finanziaria forense", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20039624", "name"=>{"german"=>"Abteilungsassistenz", "french"=>"Assistance de division", "italian"=>"Assistenza di divisione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047027", "name"=>{"german"=>"FFA Bern & Zürich Lokalverantw.", "french"=>"FFA Bern & Zürich Lokalverantw.", "italian"=>"FFA Bern & Zürich Lokalverantw.", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000937", "name"=>{"german"=>"FFA Bern & Zürich Teamleiterin", "french"=>"Analyse financière forensique Berne", "italian"=>"Analisi finanziaria forense Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000938", "name"=>{"german"=>"Forensische Finanzanalyse Lausanne", "french"=>"Analyse financière forensique Lausanne", "italian"=>"Analisi finanziaria forense Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000939", "name"=>{"german"=>"Forensische Finanzanalyse Lugano", "french"=>"Analyse financière forensique LUG-ZH", "italian"=>"Analisi finanziaria for. Lugano-Zurigo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6323934", "surname"=>"Carrard", "givenName"=>"Fabian", "email"=>nil, "phone"=>"+41 58 46 42976", "function"=>{"german"=>"Leiter Forensische Finanzanalyse", "french"=>"Chef Analyse financière forensique", "italian"=>"Capo Analisi finanziaria forense", "english"=>"Leiter Forensische Finanzanalyse"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20000928", "label"=>{"german"=>"Forensische Finanzanalyse", "french"=>"Analyse financière forensique", "italian"=>"Analisi finanziaria forense", "english"=>""}, "name"=>{"german"=>"Forensische Finanzanalyse", "french"=>"Analyse financière forensique", "italian"=>"Analisi finanziaria forense", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000928",
+  "name": {
+    "german": "Forensische Finanzanalyse",
+    "french": "Analyse financière forensique",
+    "italian": "Analisi finanziaria forense",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20039624",
+      "name": {
+        "german": "Abteilungsassistenz",
+        "french": "Assistance de division",
+        "italian": "Assistenza di divisione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047027",
+      "name": {
+        "german": "FFA Bern & Zürich Lokalverantw.",
+        "french": "FFA Bern & Zürich Lokalverantw.",
+        "italian": "FFA Bern & Zürich Lokalverantw.",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000937",
+      "name": {
+        "german": "FFA Bern & Zürich Teamleiterin",
+        "french": "Analyse financière forensique Berne",
+        "italian": "Analisi finanziaria forense Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000938",
+      "name": {
+        "german": "Forensische Finanzanalyse Lausanne",
+        "french": "Analyse financière forensique Lausanne",
+        "italian": "Analisi finanziaria forense Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000939",
+      "name": {
+        "german": "Forensische Finanzanalyse Lugano",
+        "french": "Analyse financière forensique LUG-ZH",
+        "italian": "Analisi finanziaria for. Lugano-Zurigo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6323934",
+      "surname": "Carrard",
+      "givenName": "Fabian",
+      "email": null,
+      "phone": "+41 58 46 42976",
+      "function": {
+        "german": "Leiter Forensische Finanzanalyse",
+        "french": "Chef Analyse financière forensique",
+        "italian": "Capo Analisi finanziaria forense",
+        "english": "Leiter Forensische Finanzanalyse"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000928",
+      "label": {
+        "german": "Forensische Finanzanalyse",
+        "french": "Analyse financière forensique",
+        "italian": "Analisi finanziaria forense",
+        "english": ""
+      },
+      "name": {
+        "german": "Forensische Finanzanalyse",
+        "french": "Analyse financière forensique",
+        "italian": "Analisi finanziaria forense",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

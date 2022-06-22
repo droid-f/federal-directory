@@ -1,1 +1,181 @@
-{"id"=>"20030153", "name"=>{"german"=>"Abteilung IV Kammer 1.3", "french"=>"Cour IV Chambre 1.3", "italian"=>"Corte IV Camera 1.3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0801786", "surname"=>"Brüschweiler", "givenName"=>"Daniela", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Richter/in Abteilung IV", "french"=>"Juge Cour IV", "italian"=>"Giudice Corte IV", "english"=>"Richter/in Abteilung IV"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7228352", "surname"=>"Bisig", "givenName"=>"Sandra", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung IV", "french"=>"Greffier/Greffière Cour IV", "italian"=>"Cancelliere/a Corte IV", "english"=>"Gerichtsschreiber/in Abteilung IV"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0103644", "surname"=>"Burgherr", "givenName"=>"Susanne", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung IV", "french"=>"Greffier/Greffière II Cour IV", "italian"=>"Cancelliere/a II Corte IV", "english"=>"Gerichtsschreiber/in II Abteilung IV"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8110227", "surname"=>"Frey", "givenName"=>"Regula", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung IV", "french"=>"Greffier/Greffière Cour IV", "italian"=>"Cancelliere/a Corte IV", "english"=>"Gerichtsschreiber/in II Abteilung IV"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0340139", "surname"=>"Mangold Horni", "givenName"=>"Kathrin", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung IV", "french"=>"Greffier/Greffière Cour IV", "italian"=>"Cancelliere/a Corte IV", "english"=>"Gerichtsschreiber/in Abteilung IV"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014851", "label"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}, "name"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}}, {"id"=>"20030176", "label"=>{"german"=>"Abteilung IV Kammer 1", "french"=>"Cour IV Chambre 1", "italian"=>"Corte IV Camera 1", "english"=>""}, "name"=>{"german"=>"Abteilung IV Kammer 1", "french"=>"Cour IV Chambre 1", "italian"=>"Corte IV Camera 1", "english"=>""}}, {"id"=>"20030153", "label"=>{"german"=>"Abteilung IV Kammer 1.3", "french"=>"Cour IV Chambre 1.3", "italian"=>"Corte IV Camera 1.3", "english"=>""}, "name"=>{"german"=>"Abteilung IV Kammer 1.3", "french"=>"Cour IV Chambre 1.3", "italian"=>"Corte IV Camera 1.3", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030153",
+  "name": {
+    "german": "Abteilung IV Kammer 1.3",
+    "french": "Cour IV Chambre 1.3",
+    "italian": "Corte IV Camera 1.3",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0801786",
+      "surname": "Brüschweiler",
+      "givenName": "Daniela",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Richter/in Abteilung IV",
+        "french": "Juge Cour IV",
+        "italian": "Giudice Corte IV",
+        "english": "Richter/in Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7228352",
+      "surname": "Bisig",
+      "givenName": "Sandra",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung IV",
+        "french": "Greffier/Greffière Cour IV",
+        "italian": "Cancelliere/a Corte IV",
+        "english": "Gerichtsschreiber/in Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0103644",
+      "surname": "Burgherr",
+      "givenName": "Susanne",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung IV",
+        "french": "Greffier/Greffière II Cour IV",
+        "italian": "Cancelliere/a II Corte IV",
+        "english": "Gerichtsschreiber/in II Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8110227",
+      "surname": "Frey",
+      "givenName": "Regula",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung IV",
+        "french": "Greffier/Greffière Cour IV",
+        "italian": "Cancelliere/a Corte IV",
+        "english": "Gerichtsschreiber/in II Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0340139",
+      "surname": "Mangold Horni",
+      "givenName": "Kathrin",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung IV",
+        "french": "Greffier/Greffière Cour IV",
+        "italian": "Cancelliere/a Corte IV",
+        "english": "Gerichtsschreiber/in Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014851",
+      "label": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030176",
+      "label": {
+        "german": "Abteilung IV Kammer 1",
+        "french": "Cour IV Chambre 1",
+        "italian": "Corte IV Camera 1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV Kammer 1",
+        "french": "Cour IV Chambre 1",
+        "italian": "Corte IV Camera 1",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030153",
+      "label": {
+        "german": "Abteilung IV Kammer 1.3",
+        "french": "Cour IV Chambre 1.3",
+        "italian": "Corte IV Camera 1.3",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV Kammer 1.3",
+        "french": "Cour IV Chambre 1.3",
+        "italian": "Corte IV Camera 1.3",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

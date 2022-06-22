@@ -1,1 +1,229 @@
-{"id"=>"20042426", "name"=>{"german"=>"Einsatzkommando Militärpolizei", "french"=>"Commandement d'engagement PM", "italian"=>"Comando d'impiego della polizia militare", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pont-des-Iles 2", "postalCode"=>"1950", "location"=>"Sion", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042434", "name"=>{"german"=>"Kdt Stv Einsatzkommando Militärpolizei", "french"=>"Rempl cdt cdmt eng PM", "italian"=>"Sost cdt cdo impg polizia militare", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042435", "name"=>{"german"=>"Militärische Kriminalpolizei", "french"=>"Police judiciaire militaire", "italian"=>"Polizia militare giudiziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042436", "name"=>{"german"=>"Militärische Verkehrspolizei", "french"=>"Police de la circulation militaire", "italian"=>"Polizia militare della circolazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042437", "name"=>{"german"=>"Einsatzkommando Militärpolizei West", "french"=>"Commandement eng PM ouest", "italian"=>"Comando impg polizia militare ovest", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042438", "name"=>{"german"=>"Einsatzkommando Militärpolizei Ost", "french"=>"Commandement eng PM est", "italian"=>"Comando impg polizia militare est", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10000057", "label"=>{"german"=>"MP", "french"=>"MP", "italian"=>"MP", "english"=>""}, "name"=>{"german"=>"Militärpolizei", "french"=>"Police militaire", "italian"=>"Polizia militare", "english"=>""}}, {"id"=>"20042426", "label"=>{"german"=>"Einsatzkommando Militärpolizei", "french"=>"Commandement d'engagement PM", "italian"=>"Comando d'impiego della polizia militare", "english"=>""}, "name"=>{"german"=>"Einsatzkommando Militärpolizei", "french"=>"Commandement d'engagement PM", "italian"=>"Comando d'impiego della polizia militare", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042426",
+  "name": {
+    "german": "Einsatzkommando Militärpolizei",
+    "french": "Commandement d'engagement PM",
+    "italian": "Comando d'impiego della polizia militare",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pont-des-Iles 2",
+    "postalCode": "1950",
+    "location": "Sion",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042434",
+      "name": {
+        "german": "Kdt Stv Einsatzkommando Militärpolizei",
+        "french": "Rempl cdt cdmt eng PM",
+        "italian": "Sost cdt cdo impg polizia militare",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042435",
+      "name": {
+        "german": "Militärische Kriminalpolizei",
+        "french": "Police judiciaire militaire",
+        "italian": "Polizia militare giudiziaria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042436",
+      "name": {
+        "german": "Militärische Verkehrspolizei",
+        "french": "Police de la circulation militaire",
+        "italian": "Polizia militare della circolazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042437",
+      "name": {
+        "german": "Einsatzkommando Militärpolizei West",
+        "french": "Commandement eng PM ouest",
+        "italian": "Comando impg polizia militare ovest",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042438",
+      "name": {
+        "german": "Einsatzkommando Militärpolizei Ost",
+        "french": "Commandement eng PM est",
+        "italian": "Comando impg polizia militare est",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000057",
+      "label": {
+        "german": "MP",
+        "french": "MP",
+        "italian": "MP",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärpolizei",
+        "french": "Police militaire",
+        "italian": "Polizia militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042426",
+      "label": {
+        "german": "Einsatzkommando Militärpolizei",
+        "french": "Commandement d'engagement PM",
+        "italian": "Comando d'impiego della polizia militare",
+        "english": ""
+      },
+      "name": {
+        "german": "Einsatzkommando Militärpolizei",
+        "french": "Commandement d'engagement PM",
+        "italian": "Comando d'impiego della polizia militare",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

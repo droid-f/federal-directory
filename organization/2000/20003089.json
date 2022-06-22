@@ -1,1 +1,214 @@
-{"id"=>"20003089", "name"=>{"german"=>"Führungsgrundgebiet 4/6", "french"=>"Domaine de base de conduite 4/6", "italian"=>"Ambito fondamentale di condotta 4/6", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20017139", "name"=>{"german"=>"Logistik / FU Sich / Ausbildung FGG 4/6", "french"=>"Logistiqueide cdmt séc / instr DBC 4/6", "italian"=>"Log / Sic aiuto cond / Istr AFC 4/6", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20028503", "name"=>{"german"=>"Logistik Führungsgrundgebiet 4/6", "french"=>"Logistique DBC 4/6", "italian"=>"Log AFC 4/6", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017142", "name"=>{"german"=>"Führungsunterstützung Kdo Op", "french"=>"Aide au commandement cdmt Op", "italian"=>"Aiuto cond Cdo Op", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004749", "name"=>{"german"=>"Informatik und Cybersicherheit", "french"=>"Informatique et cybersécurité", "italian"=>"Informatica e cibersicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20003084", "label"=>{"german"=>"SCOP", "french"=>"SCOP", "italian"=>"SCOP", "english"=>""}, "name"=>{"german"=>"SC Kommando Operationen", "french"=>"CEM commandement des Opérations", "italian"=>"CSM Comando Operazioni", "english"=>""}}, {"id"=>"20003089", "label"=>{"german"=>"Führungsgrundgebiet 4/6", "french"=>"Domaine de base de conduite 4/6", "italian"=>"Ambito fondamentale di condotta 4/6", "english"=>""}, "name"=>{"german"=>"Führungsgrundgebiet 4/6", "french"=>"Domaine de base de conduite 4/6", "italian"=>"Ambito fondamentale di condotta 4/6", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003089",
+  "name": {
+    "german": "Führungsgrundgebiet 4/6",
+    "french": "Domaine de base de conduite 4/6",
+    "italian": "Ambito fondamentale di condotta 4/6",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20017139",
+      "name": {
+        "german": "Logistik / FU Sich / Ausbildung FGG 4/6",
+        "french": "Logistiqueide cdmt séc / instr DBC 4/6",
+        "italian": "Log / Sic aiuto cond / Istr AFC 4/6",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028503",
+      "name": {
+        "german": "Logistik Führungsgrundgebiet 4/6",
+        "french": "Logistique DBC 4/6",
+        "italian": "Log AFC 4/6",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017142",
+      "name": {
+        "german": "Führungsunterstützung Kdo Op",
+        "french": "Aide au commandement cdmt Op",
+        "italian": "Aiuto cond Cdo Op",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004749",
+      "name": {
+        "german": "Informatik und Cybersicherheit",
+        "french": "Informatique et cybersécurité",
+        "italian": "Informatica e cibersicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003084",
+      "label": {
+        "german": "SCOP",
+        "french": "SCOP",
+        "italian": "SCOP",
+        "english": ""
+      },
+      "name": {
+        "german": "SC Kommando Operationen",
+        "french": "CEM commandement des Opérations",
+        "italian": "CSM Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003089",
+      "label": {
+        "german": "Führungsgrundgebiet 4/6",
+        "french": "Domaine de base de conduite 4/6",
+        "italian": "Ambito fondamentale di condotta 4/6",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsgrundgebiet 4/6",
+        "french": "Domaine de base de conduite 4/6",
+        "italian": "Ambito fondamentale di condotta 4/6",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

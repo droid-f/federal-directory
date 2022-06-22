@@ -1,1 +1,229 @@
-{"id"=>"10004209", "name"=>{"german"=>"Dienstleistungen", "french"=>"Services", "italian"=>"Servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0201208", "surname"=>"Hauert Wermuth", "givenName"=>"Esther", "email"=>nil, "phone"=>"+41 58 46 92980", "function"=>{"german"=>"Ressortleiter/in AFDL", "french"=>"Ressortleiter/in AFDL", "italian"=>"Ressortleiter/in AFDL", "english"=>"Ressortleiter/in AFDL"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8246439", "surname"=>"Kummer", "givenName"=>"Steve", "email"=>nil, "phone"=>"+41 58 46 30196", "function"=>{"german"=>"Wiss. Mitarbeiter/in / Stv. RL AFDL", "french"=>"Wiss. Mitarbeiter/in / Stv. RL AFDL", "italian"=>"Wiss. Mitarbeiter/in / Stv. RL AFDL", "english"=>"Wiss. Mitarbeiter/in / Stv. RL AFDL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6320491", "surname"=>"Morard", "givenName"=>"Sébastien", "email"=>nil, "phone"=>"+41 58 46 55870", "function"=>{"german"=>"Wiss. Mitarbeiter/in AFDL", "french"=>"Wiss. Mitarbeiter/in AFDL", "italian"=>"Wiss. Mitarbeiter/in AFDL", "english"=>"Wiss. Mitarbeiter/in AFDL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7994349", "surname"=>"Rocheray", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 53303", "function"=>{"german"=>"Wiss. Mitarbeiter/in AFDL", "french"=>"Wiss. Mitarbeiter/in AFDL", "italian"=>"Wiss. Mitarbeiter/in AFDL", "english"=>"Wiss. Mitarbeiter/in AFDL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8931585", "surname"=>"Sestito", "givenName"=>"Tiziana", "email"=>nil, "phone"=>"+41 58 46 24432", "function"=>{"german"=>"Wiss. Mitarbeiter/in AFDL", "french"=>"Wiss. Mitarbeiter/in AFDL", "italian"=>"Wiss. Mitarbeiter/in AFDL", "english"=>"Wiss. Mitarbeiter/in AFDL"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"20004879", "label"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}, "name"=>{"german"=>"Direktion für Aussenwirtschaft", "french"=>"Direction des affaires économiques extérieures", "italian"=>"Direzione economia esterna", "english"=>""}}, {"id"=>"20014759", "label"=>{"german"=>"Aussenwirtschaftliche Fachdienste", "french"=>"Services spécialisés économie extérieure", "italian"=>"Servizi specializzati economia esterna", "english"=>""}, "name"=>{"german"=>"Aussenwirtschaftliche Fachdienste", "french"=>"Services spécialisés économie extérieure", "italian"=>"Servizi specializzati economia esterna", "english"=>""}}, {"id"=>"10004209", "label"=>{"german"=>"Dienstleistungen", "french"=>"Services", "italian"=>"Servizi", "english"=>""}, "name"=>{"german"=>"Dienstleistungen", "french"=>"Services", "italian"=>"Servizi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004209",
+  "name": {
+    "german": "Dienstleistungen",
+    "french": "Services",
+    "italian": "Servizi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0201208",
+      "surname": "Hauert Wermuth",
+      "givenName": "Esther",
+      "email": null,
+      "phone": "+41 58 46 92980",
+      "function": {
+        "german": "Ressortleiter/in AFDL",
+        "french": "Ressortleiter/in AFDL",
+        "italian": "Ressortleiter/in AFDL",
+        "english": "Ressortleiter/in AFDL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8246439",
+      "surname": "Kummer",
+      "givenName": "Steve",
+      "email": null,
+      "phone": "+41 58 46 30196",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in / Stv. RL AFDL",
+        "french": "Wiss. Mitarbeiter/in / Stv. RL AFDL",
+        "italian": "Wiss. Mitarbeiter/in / Stv. RL AFDL",
+        "english": "Wiss. Mitarbeiter/in / Stv. RL AFDL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6320491",
+      "surname": "Morard",
+      "givenName": "Sébastien",
+      "email": null,
+      "phone": "+41 58 46 55870",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in AFDL",
+        "french": "Wiss. Mitarbeiter/in AFDL",
+        "italian": "Wiss. Mitarbeiter/in AFDL",
+        "english": "Wiss. Mitarbeiter/in AFDL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7994349",
+      "surname": "Rocheray",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 53303",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in AFDL",
+        "french": "Wiss. Mitarbeiter/in AFDL",
+        "italian": "Wiss. Mitarbeiter/in AFDL",
+        "english": "Wiss. Mitarbeiter/in AFDL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8931585",
+      "surname": "Sestito",
+      "givenName": "Tiziana",
+      "email": null,
+      "phone": "+41 58 46 24432",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in AFDL",
+        "french": "Wiss. Mitarbeiter/in AFDL",
+        "italian": "Wiss. Mitarbeiter/in AFDL",
+        "english": "Wiss. Mitarbeiter/in AFDL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004879",
+      "label": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Aussenwirtschaft",
+        "french": "Direction des affaires économiques extérieures",
+        "italian": "Direzione economia esterna",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014759",
+      "label": {
+        "german": "Aussenwirtschaftliche Fachdienste",
+        "french": "Services spécialisés économie extérieure",
+        "italian": "Servizi specializzati economia esterna",
+        "english": ""
+      },
+      "name": {
+        "german": "Aussenwirtschaftliche Fachdienste",
+        "french": "Services spécialisés économie extérieure",
+        "italian": "Servizi specializzati economia esterna",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004209",
+      "label": {
+        "german": "Dienstleistungen",
+        "french": "Services",
+        "italian": "Servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienstleistungen",
+        "french": "Services",
+        "italian": "Servizi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

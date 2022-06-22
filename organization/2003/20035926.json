@@ -1,1 +1,197 @@
-{"id"=>"20035926", "name"=>{"german"=>"Projekt- und Organisationsprüfungen", "french"=>"Audits de projets et d’organisation", "italian"=>"Verifiche progetti e organizzazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 45", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 463 10 79", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3548128", "surname"=>"Sifrig", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 46 31079", "function"=>{"german"=>"Leiter Fachbereich Projekt- und Finanzaufsichtsprüfungen", "french"=>"Leiter Fachb. Proj.- / Org. prüf.", "italian"=>"Leiter Fachb. Proj.- / Org. prüf.", "english"=>"Leiter Fachb. Proj.- / Org. prüf."}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8937599", "surname"=>"Desmond Metzger", "givenName"=>"Michelle", "email"=>nil, "phone"=>"+41 58 48 30661", "function"=>{"german"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "french"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "italian"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "english"=>"Projektprüfungsexperte IKT-Schlüsselpr."}, "isVisibleInEstKa"=>true}, {"id"=>"p-8634094", "surname"=>"Treichler", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 46 34867", "function"=>{"german"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "french"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "italian"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "english"=>"Projektprüfungsexperte IKT-Schlüsselpr."}, "isVisibleInEstKa"=>true}, {"id"=>"p-7530575", "surname"=>"Wyniger", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 48 49141", "function"=>{"german"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "french"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "italian"=>"Projektprüfungsexperte IKT-Schlüsselpr.", "english"=>"Projektprüfungsexperte IKT-Schlüsselpr."}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008752", "label"=>{"german"=>"EFK", "french"=>"CDF", "italian"=>"CDF", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzkontrolle", "french"=>"Contrôle fédéral des finances", "italian"=>"Controllo federale delle finanze", "english"=>""}}, {"id"=>"10003862", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003872", "label"=>{"german"=>"Fachbereiche", "french"=>"Centres de compétences", "italian"=>"Centri di competenze", "english"=>""}, "name"=>{"german"=>"Fachbereiche", "french"=>"Centres de compétences", "italian"=>"Centri di competenze", "english"=>""}}, {"id"=>"20035926", "label"=>{"german"=>"Projekt- und Organisationsprüfungen", "french"=>"Audits de projets et d’organisation", "italian"=>"Verifiche progetti e organizzazioni", "english"=>""}, "name"=>{"german"=>"Projekt- und Organisationsprüfungen", "french"=>"Audits de projets et d’organisation", "italian"=>"Verifiche progetti e organizzazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20035926",
+  "name": {
+    "german": "Projekt- und Organisationsprüfungen",
+    "french": "Audits de projets et d’organisation",
+    "italian": "Verifiche progetti e organizzazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 45",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 463 10 79",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3548128",
+      "surname": "Sifrig",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 46 31079",
+      "function": {
+        "german": "Leiter Fachbereich Projekt- und Finanzaufsichtsprüfungen",
+        "french": "Leiter Fachb. Proj.- / Org. prüf.",
+        "italian": "Leiter Fachb. Proj.- / Org. prüf.",
+        "english": "Leiter Fachb. Proj.- / Org. prüf."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8937599",
+      "surname": "Desmond Metzger",
+      "givenName": "Michelle",
+      "email": null,
+      "phone": "+41 58 48 30661",
+      "function": {
+        "german": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "french": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "italian": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "english": "Projektprüfungsexperte IKT-Schlüsselpr."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8634094",
+      "surname": "Treichler",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 46 34867",
+      "function": {
+        "german": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "french": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "italian": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "english": "Projektprüfungsexperte IKT-Schlüsselpr."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7530575",
+      "surname": "Wyniger",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 48 49141",
+      "function": {
+        "german": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "french": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "italian": "Projektprüfungsexperte IKT-Schlüsselpr.",
+        "english": "Projektprüfungsexperte IKT-Schlüsselpr."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008752",
+      "label": {
+        "german": "EFK",
+        "french": "CDF",
+        "italian": "CDF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzkontrolle",
+        "french": "Contrôle fédéral des finances",
+        "italian": "Controllo federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003862",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003872",
+      "label": {
+        "german": "Fachbereiche",
+        "french": "Centres de compétences",
+        "italian": "Centri di competenze",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereiche",
+        "french": "Centres de compétences",
+        "italian": "Centri di competenze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035926",
+      "label": {
+        "german": "Projekt- und Organisationsprüfungen",
+        "french": "Audits de projets et d’organisation",
+        "italian": "Verifiche progetti e organizzazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Projekt- und Organisationsprüfungen",
+        "french": "Audits de projets et d’organisation",
+        "italian": "Verifiche progetti e organizzazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

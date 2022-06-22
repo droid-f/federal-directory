@@ -1,1 +1,214 @@
-{"id"=>"20027477", "name"=>{"german"=>"Stab KSK", "french"=>"Etat-major CFS", "italian"=>"Stato maggiore CFS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kaserne Monte Ceneri", "postalCode"=>"6802", "location"=>"Rivera", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037727", "name"=>{"german"=>"Personelles Kdo KSK", "french"=>"Personnel cdmt CFS", "italian"=>"Personale cdo CFS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037728", "name"=>{"german"=>"Operationen / Planung Kdo KSK", "french"=>"Opérations / planification cdmt CFS", "italian"=>"Operazioni / Pianificazione CFS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034031", "name"=>{"german"=>"Logistik / Führungsunterstüzung KSK", "french"=>"Log / appui à la conduite CFS", "italian"=>"Logistica / aiuto alla condotta CFS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037729", "name"=>{"german"=>"Ausbildung / Rüstung u Weiterentwicklung", "french"=>"Instruction / armement et développement", "italian"=>"Istruzione / armamento e ulteriore svil", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20027389", "label"=>{"german"=>"KSK", "french"=>"KSK", "italian"=>"KSK", "english"=>""}, "name"=>{"german"=>"Kommando Spezialkräfte KSK", "french"=>"Commandement Forces spéciales CFS", "italian"=>"Comando forze speciali CFS", "english"=>""}}, {"id"=>"20027477", "label"=>{"german"=>"Stab KSK", "french"=>"Etat-major CFS", "italian"=>"Stato maggiore CFS", "english"=>""}, "name"=>{"german"=>"Stab KSK", "french"=>"Etat-major CFS", "italian"=>"Stato maggiore CFS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027477",
+  "name": {
+    "german": "Stab KSK",
+    "french": "Etat-major CFS",
+    "italian": "Stato maggiore CFS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kaserne Monte Ceneri",
+    "postalCode": "6802",
+    "location": "Rivera",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037727",
+      "name": {
+        "german": "Personelles Kdo KSK",
+        "french": "Personnel cdmt CFS",
+        "italian": "Personale cdo CFS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037728",
+      "name": {
+        "german": "Operationen / Planung Kdo KSK",
+        "french": "Opérations / planification cdmt CFS",
+        "italian": "Operazioni / Pianificazione CFS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034031",
+      "name": {
+        "german": "Logistik / Führungsunterstüzung KSK",
+        "french": "Log / appui à la conduite CFS",
+        "italian": "Logistica / aiuto alla condotta CFS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037729",
+      "name": {
+        "german": "Ausbildung / Rüstung u Weiterentwicklung",
+        "french": "Instruction / armement et développement",
+        "italian": "Istruzione / armamento e ulteriore svil",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027389",
+      "label": {
+        "german": "KSK",
+        "french": "KSK",
+        "italian": "KSK",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Spezialkräfte KSK",
+        "french": "Commandement Forces spéciales CFS",
+        "italian": "Comando forze speciali CFS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027477",
+      "label": {
+        "german": "Stab KSK",
+        "french": "Etat-major CFS",
+        "italian": "Stato maggiore CFS",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab KSK",
+        "french": "Etat-major CFS",
+        "italian": "Stato maggiore CFS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

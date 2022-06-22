@@ -1,1 +1,170 @@
-{"id"=>"20037322", "name"=>{"german"=>"Kommissionen Gruppe I", "french"=>"Commissions groupe I", "italian"=>"Commissioni gruppo I", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037362", "name"=>{"german"=>"Kommissionen für Verkehr und Fernmeldewesen (KVF)", "french"=>"Commissions des transports et des télécommunications (CTT)", "italian"=>"Commissioni del trasporti e delle telecomunicazioni (CTT)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037360", "name"=>{"german"=>"Gerichtskommission (GK)", "french"=>"Commission judiciaire (CJ)", "italian"=>"Commissione giudiziaria (CG) (CJ)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037365", "name"=>{"german"=>"Redaktionskommission (RedK)", "french"=>"Commission de rédaction (CdR)", "italian"=>"Commissione di redazione (CdR)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0657087", "surname"=>"Jegher", "givenName"=>"Annina", "email"=>nil, "phone"=>"+41 58 32 29847", "function"=>{"german"=>"Stv Sekretärin NR/Stv BL K&R/Co-Leiterin", "french"=>"Stv Sekretärin NR/Stv BL K&R/Co-Leiterin", "italian"=>"Stv Sekretärin NR/Stv BL K&R/Co-Leiterin", "english"=>"Stv Sekretärin NR/Stv BL K&R/Co-Leiterin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037307", "label"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}, "name"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}}, {"id"=>"20037322", "label"=>{"german"=>"Kommissionen Gruppe I", "french"=>"Commissions groupe I", "italian"=>"Commissioni gruppo I", "english"=>""}, "name"=>{"german"=>"Kommissionen Gruppe I", "french"=>"Commissions groupe I", "italian"=>"Commissioni gruppo I", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037322",
+  "name": {
+    "german": "Kommissionen Gruppe I",
+    "french": "Commissions groupe I",
+    "italian": "Commissioni gruppo I",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037362",
+      "name": {
+        "german": "Kommissionen für Verkehr und Fernmeldewesen (KVF)",
+        "french": "Commissions des transports et des télécommunications (CTT)",
+        "italian": "Commissioni del trasporti e delle telecomunicazioni (CTT)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037360",
+      "name": {
+        "german": "Gerichtskommission (GK)",
+        "french": "Commission judiciaire (CJ)",
+        "italian": "Commissione giudiziaria (CG) (CJ)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037365",
+      "name": {
+        "german": "Redaktionskommission (RedK)",
+        "french": "Commission de rédaction (CdR)",
+        "italian": "Commissione di redazione (CdR)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0657087",
+      "surname": "Jegher",
+      "givenName": "Annina",
+      "email": null,
+      "phone": "+41 58 32 29847",
+      "function": {
+        "german": "Stv Sekretärin NR/Stv BL K&R/Co-Leiterin",
+        "french": "Stv Sekretärin NR/Stv BL K&R/Co-Leiterin",
+        "italian": "Stv Sekretärin NR/Stv BL K&R/Co-Leiterin",
+        "english": "Stv Sekretärin NR/Stv BL K&R/Co-Leiterin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037307",
+      "label": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037322",
+      "label": {
+        "german": "Kommissionen Gruppe I",
+        "french": "Commissions groupe I",
+        "italian": "Commissioni gruppo I",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen Gruppe I",
+        "french": "Commissions groupe I",
+        "italian": "Commissioni gruppo I",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

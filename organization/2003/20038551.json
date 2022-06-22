@@ -1,1 +1,152 @@
-{"id"=>"20038551", "name"=>{"german"=>"Planung und Steuerung", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e pilotaggio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Feldeggweg 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-6142493", "surname"=>"Matthey-de-l'Endroit", "givenName"=>"Caroline", "email"=>nil, "phone"=>"+41 58 48 36701", "function"=>{"german"=>"Fachleiter/in", "french"=>"Fachleiter/in", "italian"=>"Fachleiter/in", "english"=>"Fachleiter/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3336899", "surname"=>"Tissier", "givenName"=>"Kevin", "email"=>nil, "phone"=>"+41 58 46 55754", "function"=>{"german"=>"Dossierverantwortliche/r", "french"=>"Dossierverantwortliche/r", "italian"=>"Dossierverantwortliche/r", "english"=>"Dossierverantwortliche/r"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002674", "label"=>{"german"=>"BR", "french"=>"BR", "italian"=>"BR", "english"=>""}, "name"=>{"german"=>"Bereich Bundesrat", "french"=>"Secteur Conseil fédéral", "italian"=>"Settore Consiglio federale", "english"=>""}}, {"id"=>"10002678", "label"=>{"german"=>"KAV", "french"=>"KAV", "italian"=>"KAV", "english"=>""}, "name"=>{"german"=>"Kompetenzzentrum Amtliche Veröffentlichungen", "french"=>"Centre des publications officielles", "italian"=>"Centro delle pubblicazioni ufficiali", "english"=>""}}, {"id"=>"20038551", "label"=>{"german"=>"Planung und Steuerung", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e pilotaggio", "english"=>""}, "name"=>{"german"=>"Planung und Steuerung", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e pilotaggio", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20038551",
+  "name": {
+    "german": "Planung und Steuerung",
+    "french": "Planification et pilotage",
+    "italian": "Pianificazione e pilotaggio",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Feldeggweg 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-6142493",
+      "surname": "Matthey-de-l'Endroit",
+      "givenName": "Caroline",
+      "email": null,
+      "phone": "+41 58 48 36701",
+      "function": {
+        "german": "Fachleiter/in",
+        "french": "Fachleiter/in",
+        "italian": "Fachleiter/in",
+        "english": "Fachleiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3336899",
+      "surname": "Tissier",
+      "givenName": "Kevin",
+      "email": null,
+      "phone": "+41 58 46 55754",
+      "function": {
+        "german": "Dossierverantwortliche/r",
+        "french": "Dossierverantwortliche/r",
+        "italian": "Dossierverantwortliche/r",
+        "english": "Dossierverantwortliche/r"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002674",
+      "label": {
+        "german": "BR",
+        "french": "BR",
+        "italian": "BR",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Bundesrat",
+        "french": "Secteur Conseil fédéral",
+        "italian": "Settore Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002678",
+      "label": {
+        "german": "KAV",
+        "french": "KAV",
+        "italian": "KAV",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompetenzzentrum Amtliche Veröffentlichungen",
+        "french": "Centre des publications officielles",
+        "italian": "Centro delle pubblicazioni ufficiali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20038551",
+      "label": {
+        "german": "Planung und Steuerung",
+        "french": "Planification et pilotage",
+        "italian": "Pianificazione e pilotaggio",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung und Steuerung",
+        "french": "Planification et pilotage",
+        "italian": "Pianificazione e pilotaggio",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,155 @@
-{"id"=>"20047104", "name"=>{"german"=>"Externes Personal", "french"=>"Personnel externe", "italian"=>"Externes Personal", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarztorstrasse 59", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10001950", "label"=>{"german"=>"ZAS", "french"=>"CdC", "italian"=>"UCC", "english"=>""}, "name"=>{"german"=>"Zentrale Ausgleichsstelle", "french"=>"Centrale de compensation", "italian"=>"Ufficio centrale di compensazione", "english"=>""}}, {"id"=>"10001962", "label"=>{"german"=>"Eidgenössische Ausgleichskasse EAK", "french"=>"CFC-Caisse fédérale de compensation", "italian"=>"Cassa federale di compensazione", "english"=>""}, "name"=>{"german"=>"Eidgenössische Ausgleichskasse EAK", "french"=>"CFC-Caisse fédérale de compensation", "italian"=>"Cassa federale di compensazione", "english"=>""}}, {"id"=>"10001963", "label"=>{"german"=>"Allgemeine Dienste", "french"=>"Affaires générales", "italian"=>"Affari generali", "english"=>""}, "name"=>{"german"=>"Allgemeine Dienste", "french"=>"Affaires générales", "italian"=>"Affari generali", "english"=>""}}, {"id"=>"20047104", "label"=>{"german"=>"Externes Personal", "french"=>"Personnel externe", "italian"=>"Externes Personal", "english"=>""}, "name"=>{"german"=>"Externes Personal", "french"=>"Personnel externe", "italian"=>"Externes Personal", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20047104",
+  "name": {
+    "german": "Externes Personal",
+    "french": "Personnel externe",
+    "italian": "Externes Personal",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarztorstrasse 59",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001950",
+      "label": {
+        "german": "ZAS",
+        "french": "CdC",
+        "italian": "UCC",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Ausgleichsstelle",
+        "french": "Centrale de compensation",
+        "italian": "Ufficio centrale di compensazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001962",
+      "label": {
+        "german": "Eidgenössische Ausgleichskasse EAK",
+        "french": "CFC-Caisse fédérale de compensation",
+        "italian": "Cassa federale di compensazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Ausgleichskasse EAK",
+        "french": "CFC-Caisse fédérale de compensation",
+        "italian": "Cassa federale di compensazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001963",
+      "label": {
+        "german": "Allgemeine Dienste",
+        "french": "Affaires générales",
+        "italian": "Affari generali",
+        "english": ""
+      },
+      "name": {
+        "german": "Allgemeine Dienste",
+        "french": "Affaires générales",
+        "italian": "Affari generali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047104",
+      "label": {
+        "german": "Externes Personal",
+        "french": "Personnel externe",
+        "italian": "Externes Personal",
+        "english": ""
+      },
+      "name": {
+        "german": "Externes Personal",
+        "french": "Personnel externe",
+        "italian": "Externes Personal",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

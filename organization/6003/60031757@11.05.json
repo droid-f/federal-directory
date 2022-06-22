@@ -1,1 +1,304 @@
-{"id"=>"60031757@11.05", "name"=>{"german"=>"Life Cycle Management", "french"=>"Life Cycle Management", "italian"=>"Life Cycle Management", "english"=>""}, "nameAbbr"=>{"german"=>"BAAL", "french"=>"BAAL", "italian"=>"BAAL", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seetalstrasse", "postalCode"=>"6032", "location"=>"Emmen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"60031787@11.05", "name"=>{"german"=>"Documentation", "french"=>"Documentation", "italian"=>"Documentation", "english"=>""}, "nameAbbr"=>{"german"=>"BAALJ", "french"=>"BAALJ", "italian"=>"BAALJ", "english"=>""}}, {"id"=>"60031786@11.05", "name"=>{"german"=>"Factory Flight Test", "french"=>"Factory Flight Test", "italian"=>"Factory Flight Test", "english"=>""}, "nameAbbr"=>{"german"=>"BAALI", "french"=>"BAALI", "italian"=>"BAALI", "english"=>""}}, {"id"=>"60031781@11.05", "name"=>{"german"=>"LCM EC635", "french"=>"LCM EC635", "italian"=>"LCM EC635", "english"=>""}, "nameAbbr"=>{"german"=>"BAALD", "french"=>"BAALD", "italian"=>"BAALD", "english"=>""}}, {"id"=>"60031779@11.05", "name"=>{"german"=>"LCM F-5", "french"=>"LCM F-5", "italian"=>"LCM F-5", "english"=>""}, "nameAbbr"=>{"german"=>"BAALB", "french"=>"BAALB", "italian"=>"BAALB", "english"=>""}}, {"id"=>"60031778@11.05", "name"=>{"german"=>"LCM F/A-18", "french"=>"LCM F/A-18", "italian"=>"LCM F/A-18", "english"=>""}, "nameAbbr"=>{"german"=>"BAALA", "french"=>"BAALA", "italian"=>"BAALA", "english"=>""}}, {"id"=>"60031783@11.05", "name"=>{"german"=>"LCM Missiles & Support Systems", "french"=>"LCM Missiles & Support Systems", "italian"=>"LCM Missiles & Support Systems", "english"=>""}, "nameAbbr"=>{"german"=>"BAALF", "french"=>"BAALF", "italian"=>"BAALF", "english"=>""}}, {"id"=>"60031785@11.05", "name"=>{"german"=>"LCM Order Management", "french"=>"LCM Order Management", "italian"=>"LCM Order Management", "english"=>""}, "nameAbbr"=>{"german"=>"BAALH", "french"=>"BAALH", "italian"=>"BAALH", "english"=>""}}, {"id"=>"60031784@11.05", "name"=>{"german"=>"LCM OSTR Management", "french"=>"LCM OSTR Management", "italian"=>"LCM OSTR Management", "english"=>""}, "nameAbbr"=>{"german"=>"BAALG", "french"=>"BAALG", "italian"=>"BAALG", "english"=>""}}, {"id"=>"60031782@11.05", "name"=>{"german"=>"LCM Propeller/UAV/LTDB", "french"=>"LCM Propeller/UAV/LTDB", "italian"=>"LCM Propeller/UAV/LTDB", "english"=>""}, "nameAbbr"=>{"german"=>"BAALE", "french"=>"BAALE", "italian"=>"BAALE", "english"=>""}}, {"id"=>"60031780@11.05", "name"=>{"german"=>"LCM TH08/18", "french"=>"LCM TH08/18", "italian"=>"LCM TH08/18", "english"=>""}, "nameAbbr"=>{"german"=>"BAALC", "french"=>"BAALC", "italian"=>"BAALC", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031750@11.05", "label"=>{"german"=>"BAA", "french"=>"BAA", "italian"=>"BAA", "english"=>""}, "name"=>{"german"=>"Business Area Air", "french"=>"Business Area Air", "italian"=>"Business Area Air", "english"=>""}}, {"id"=>"60031757@11.05", "label"=>{"german"=>"BAAL", "french"=>"BAAL", "italian"=>"BAAL", "english"=>""}, "name"=>{"german"=>"Life Cycle Management", "french"=>"Life Cycle Management", "italian"=>"Life Cycle Management", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60031757@11.05",
+  "name": {
+    "german": "Life Cycle Management",
+    "french": "Life Cycle Management",
+    "italian": "Life Cycle Management",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BAAL",
+    "french": "BAAL",
+    "italian": "BAAL",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seetalstrasse",
+    "postalCode": "6032",
+    "location": "Emmen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "60031787@11.05",
+      "name": {
+        "german": "Documentation",
+        "french": "Documentation",
+        "italian": "Documentation",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALJ",
+        "french": "BAALJ",
+        "italian": "BAALJ",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031786@11.05",
+      "name": {
+        "german": "Factory Flight Test",
+        "french": "Factory Flight Test",
+        "italian": "Factory Flight Test",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALI",
+        "french": "BAALI",
+        "italian": "BAALI",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031781@11.05",
+      "name": {
+        "german": "LCM EC635",
+        "french": "LCM EC635",
+        "italian": "LCM EC635",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALD",
+        "french": "BAALD",
+        "italian": "BAALD",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031779@11.05",
+      "name": {
+        "german": "LCM F-5",
+        "french": "LCM F-5",
+        "italian": "LCM F-5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALB",
+        "french": "BAALB",
+        "italian": "BAALB",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031778@11.05",
+      "name": {
+        "german": "LCM F/A-18",
+        "french": "LCM F/A-18",
+        "italian": "LCM F/A-18",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALA",
+        "french": "BAALA",
+        "italian": "BAALA",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031783@11.05",
+      "name": {
+        "german": "LCM Missiles & Support Systems",
+        "french": "LCM Missiles & Support Systems",
+        "italian": "LCM Missiles & Support Systems",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALF",
+        "french": "BAALF",
+        "italian": "BAALF",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031785@11.05",
+      "name": {
+        "german": "LCM Order Management",
+        "french": "LCM Order Management",
+        "italian": "LCM Order Management",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALH",
+        "french": "BAALH",
+        "italian": "BAALH",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031784@11.05",
+      "name": {
+        "german": "LCM OSTR Management",
+        "french": "LCM OSTR Management",
+        "italian": "LCM OSTR Management",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALG",
+        "french": "BAALG",
+        "italian": "BAALG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031782@11.05",
+      "name": {
+        "german": "LCM Propeller/UAV/LTDB",
+        "french": "LCM Propeller/UAV/LTDB",
+        "italian": "LCM Propeller/UAV/LTDB",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALE",
+        "french": "BAALE",
+        "italian": "BAALE",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031780@11.05",
+      "name": {
+        "german": "LCM TH08/18",
+        "french": "LCM TH08/18",
+        "italian": "LCM TH08/18",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BAALC",
+        "french": "BAALC",
+        "italian": "BAALC",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031750@11.05",
+      "label": {
+        "german": "BAA",
+        "french": "BAA",
+        "italian": "BAA",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Area Air",
+        "french": "Business Area Air",
+        "italian": "Business Area Air",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031757@11.05",
+      "label": {
+        "german": "BAAL",
+        "french": "BAAL",
+        "italian": "BAAL",
+        "english": ""
+      },
+      "name": {
+        "german": "Life Cycle Management",
+        "french": "Life Cycle Management",
+        "italian": "Life Cycle Management",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

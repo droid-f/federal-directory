@@ -1,1 +1,171 @@
-{"id"=>"20014529", "name"=>{"german"=>"MWST Recht Team 4 Zone 7-8", "french"=>"TVA - Droit Team 4 Zones 7-8", "italian"=>"IVA - Diritto Team 4 Zone 7-8", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarztorstrasse 50", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7994923", "surname"=>"Sidler", "givenName"=>"Alexander", "email"=>nil, "phone"=>"+41 58 46 57255", "function"=>{"german"=>"Teamchef/in", "french"=>"Teamchef/in", "italian"=>"Teamchef/in", "english"=>"Teamchef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008668", "label"=>{"german"=>"ESTV", "french"=>"AFC", "italian"=>"AFC", "english"=>""}, "name"=>{"german"=>"Eidgenössische Steuerverwaltung", "french"=>"Administration fédérale des contributions", "italian"=>"Amministrazione federale delle contribuzioni", "english"=>""}}, {"id"=>"10006258", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10006324", "label"=>{"german"=>"Hauptabteilung Mehrwertsteuer MWST", "french"=>"Division principale de la taxe sur la valeur ajoutée TVA", "italian"=>"Divisione principale Imposta sul valore aggiunto IVA", "english"=>""}, "name"=>{"german"=>"Hauptabteilung Mehrwertsteuer MWST", "french"=>"Division principale de la taxe sur la valeur ajoutée TVA", "italian"=>"Divisione principale Imposta sul valore aggiunto IVA", "english"=>""}}, {"id"=>"10006327", "label"=>{"german"=>"MWST - Abteilung Recht", "french"=>"TVA - Division Droit", "italian"=>"IVA - Divisione Diritto", "english"=>""}, "name"=>{"german"=>"MWST - Abteilung Recht", "french"=>"TVA - Division Droit", "italian"=>"IVA - Divisione Diritto", "english"=>""}}, {"id"=>"20014529", "label"=>{"german"=>"MWST Recht Team 4 Zone 7-8", "french"=>"TVA - Droit Team 4 Zones 7-8", "italian"=>"IVA - Diritto Team 4 Zone 7-8", "english"=>""}, "name"=>{"german"=>"MWST Recht Team 4 Zone 7-8", "french"=>"TVA - Droit Team 4 Zones 7-8", "italian"=>"IVA - Diritto Team 4 Zone 7-8", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014529",
+  "name": {
+    "german": "MWST Recht Team 4 Zone 7-8",
+    "french": "TVA - Droit Team 4 Zones 7-8",
+    "italian": "IVA - Diritto Team 4 Zone 7-8",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarztorstrasse 50",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7994923",
+      "surname": "Sidler",
+      "givenName": "Alexander",
+      "email": null,
+      "phone": "+41 58 46 57255",
+      "function": {
+        "german": "Teamchef/in",
+        "french": "Teamchef/in",
+        "italian": "Teamchef/in",
+        "english": "Teamchef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008668",
+      "label": {
+        "german": "ESTV",
+        "french": "AFC",
+        "italian": "AFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Steuerverwaltung",
+        "french": "Administration fédérale des contributions",
+        "italian": "Amministrazione federale delle contribuzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006258",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006324",
+      "label": {
+        "german": "Hauptabteilung Mehrwertsteuer MWST",
+        "french": "Division principale de la taxe sur la valeur ajoutée TVA",
+        "italian": "Divisione principale Imposta sul valore aggiunto IVA",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptabteilung Mehrwertsteuer MWST",
+        "french": "Division principale de la taxe sur la valeur ajoutée TVA",
+        "italian": "Divisione principale Imposta sul valore aggiunto IVA",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006327",
+      "label": {
+        "german": "MWST - Abteilung Recht",
+        "french": "TVA - Division Droit",
+        "italian": "IVA - Divisione Diritto",
+        "english": ""
+      },
+      "name": {
+        "german": "MWST - Abteilung Recht",
+        "french": "TVA - Division Droit",
+        "italian": "IVA - Divisione Diritto",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014529",
+      "label": {
+        "german": "MWST Recht Team 4 Zone 7-8",
+        "french": "TVA - Droit Team 4 Zones 7-8",
+        "italian": "IVA - Diritto Team 4 Zone 7-8",
+        "english": ""
+      },
+      "name": {
+        "german": "MWST Recht Team 4 Zone 7-8",
+        "french": "TVA - Droit Team 4 Zones 7-8",
+        "italian": "IVA - Diritto Team 4 Zone 7-8",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

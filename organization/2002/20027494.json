@@ -1,1 +1,169 @@
-{"id"=>"20027494", "name"=>{"german"=>"Kanzlei", "french"=>"Secrétariat", "italian"=>"Segreteria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8843350", "surname"=>"Pfäffli", "givenName"=>"Sonja", "email"=>nil, "phone"=>"+41 58 46 18193", "function"=>{"german"=>"Leiterin Kanzlei", "french"=>"Leiterin Kanzlei", "italian"=>"Leiterin Kanzlei", "english"=>"Leiterin Kanzlei"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9362790", "surname"=>"Moser", "givenName"=>"Jennifer", "email"=>nil, "phone"=>"+41 58 46 92035", "function"=>{"german"=>"Assistentin Kanzlei", "french"=>"Assistentin Kanzlei", "italian"=>"Assistentin Kanzlei", "english"=>"Assistentin Kanzlei"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20027559", "label"=>{"german"=>"Geschäfte und Planung, bundesnahe Unternehmen", "french"=>"Affaires et planification liées à la Confédération", "italian"=>"Affari e pianificazione, Stato maggiore imprese parastatali", "english"=>""}, "name"=>{"german"=>"Geschäfte und Planung, bundesnahe Unternehmen", "french"=>"Affaires et planification liées à la Confédération", "italian"=>"Affari e pianificazione, Stato maggiore imprese parastatali", "english"=>""}}, {"id"=>"20027563", "label"=>{"german"=>"Geschäftsplanung und -koordination", "french"=>"Planification et coordination des affaires", "italian"=>"Pianificazione e coordinamento degli affari", "english"=>""}, "name"=>{"german"=>"Geschäftsplanung und -koordination", "french"=>"Planification et coordination des affaires", "italian"=>"Pianificazione e coordinamento degli affari", "english"=>""}}, {"id"=>"20027494", "label"=>{"german"=>"Kanzlei", "french"=>"Secrétariat", "italian"=>"Segreteria", "english"=>""}, "name"=>{"german"=>"Kanzlei", "french"=>"Secrétariat", "italian"=>"Segreteria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027494",
+  "name": {
+    "german": "Kanzlei",
+    "french": "Secrétariat",
+    "italian": "Segreteria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8843350",
+      "surname": "Pfäffli",
+      "givenName": "Sonja",
+      "email": null,
+      "phone": "+41 58 46 18193",
+      "function": {
+        "german": "Leiterin Kanzlei",
+        "french": "Leiterin Kanzlei",
+        "italian": "Leiterin Kanzlei",
+        "english": "Leiterin Kanzlei"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9362790",
+      "surname": "Moser",
+      "givenName": "Jennifer",
+      "email": null,
+      "phone": "+41 58 46 92035",
+      "function": {
+        "german": "Assistentin Kanzlei",
+        "french": "Assistentin Kanzlei",
+        "italian": "Assistentin Kanzlei",
+        "english": "Assistentin Kanzlei"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027559",
+      "label": {
+        "german": "Geschäfte und Planung, bundesnahe Unternehmen",
+        "french": "Affaires et planification liées à la Confédération",
+        "italian": "Affari e pianificazione, Stato maggiore imprese parastatali",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäfte und Planung, bundesnahe Unternehmen",
+        "french": "Affaires et planification liées à la Confédération",
+        "italian": "Affari e pianificazione, Stato maggiore imprese parastatali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027563",
+      "label": {
+        "german": "Geschäftsplanung und -koordination",
+        "french": "Planification et coordination des affaires",
+        "italian": "Pianificazione e coordinamento degli affari",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsplanung und -koordination",
+        "french": "Planification et coordination des affaires",
+        "italian": "Pianificazione e coordinamento degli affari",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027494",
+      "label": {
+        "german": "Kanzlei",
+        "french": "Secrétariat",
+        "italian": "Segreteria",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanzlei",
+        "french": "Secrétariat",
+        "italian": "Segreteria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

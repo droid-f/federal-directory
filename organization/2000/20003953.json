@@ -1,1 +1,230 @@
-{"id"=>"20003953", "name"=>{"german"=>"Armeeapotheke", "french"=>"Pharmacie de l'armée", "italian"=>"Farmacia dell'esercito", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 36", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003958", "name"=>{"german"=>"Qualitätssicherung", "french"=>"Assurance qualité", "italian"=>"Garanzia della qualità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003957", "name"=>{"german"=>"Pharmaprodukte und Technik", "french"=>"Produits pharmaceutiques et technique", "italian"=>"Prodotti e tecnica farmaceutici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003956", "name"=>{"german"=>"Beschaffung und Projekte", "french"=>"Approvisionnement et projets", "italian"=>"Acquisti e progetti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003954", "name"=>{"german"=>"Logistik Armeeapotheke", "french"=>"Logistique Pharmacie de l'armée", "italian"=>"Logistica Farmacia dell'esercito", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20049994", "name"=>{"german"=>"Stab", "french"=>"État-major", "italian"=>"Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2779306", "surname"=>"Aeschbach", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 42114", "function"=>{"german"=>"Chef/in Armeeapotheke", "french"=>"Chef Pharmacie de l'armée", "italian"=>"Capo Farmacia dell'esercito", "english"=>"Chef/in Armeeapotheke"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20003953", "label"=>{"german"=>"Armeeapotheke", "french"=>"Pharmacie de l'armée", "italian"=>"Farmacia dell'esercito", "english"=>""}, "name"=>{"german"=>"Armeeapotheke", "french"=>"Pharmacie de l'armée", "italian"=>"Farmacia dell'esercito", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003953",
+  "name": {
+    "german": "Armeeapotheke",
+    "french": "Pharmacie de l'armée",
+    "italian": "Farmacia dell'esercito",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 36",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003958",
+      "name": {
+        "german": "Qualitätssicherung",
+        "french": "Assurance qualité",
+        "italian": "Garanzia della qualità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003957",
+      "name": {
+        "german": "Pharmaprodukte und Technik",
+        "french": "Produits pharmaceutiques et technique",
+        "italian": "Prodotti e tecnica farmaceutici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003956",
+      "name": {
+        "german": "Beschaffung und Projekte",
+        "french": "Approvisionnement et projets",
+        "italian": "Acquisti e progetti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003954",
+      "name": {
+        "german": "Logistik Armeeapotheke",
+        "french": "Logistique Pharmacie de l'armée",
+        "italian": "Logistica Farmacia dell'esercito",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049994",
+      "name": {
+        "german": "Stab",
+        "french": "État-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2779306",
+      "surname": "Aeschbach",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 42114",
+      "function": {
+        "german": "Chef/in Armeeapotheke",
+        "french": "Chef Pharmacie de l'armée",
+        "italian": "Capo Farmacia dell'esercito",
+        "english": "Chef/in Armeeapotheke"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003953",
+      "label": {
+        "german": "Armeeapotheke",
+        "french": "Pharmacie de l'armée",
+        "italian": "Farmacia dell'esercito",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeeapotheke",
+        "french": "Pharmacie de l'armée",
+        "italian": "Farmacia dell'esercito",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

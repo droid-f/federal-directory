@@ -1,1 +1,212 @@
-{"id"=>"30000047@10.03", "name"=>{"german"=>"Bewilligungen", "french"=>"Autorisations", "italian"=>"Bewilligungen", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallerstrasse 7", "postalCode"=>"3012", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"30000049@10.03", "name"=>{"german"=>"Advanced Therapy Medicinal Products", "french"=>"Transplants", "italian"=>"Advanced Therapy Medicinal Products", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000048@10.03", "name"=>{"german"=>"Inspektorate und Bewilligungen", "french"=>"Services d'inspection et autorisations", "italian"=>"Inspektorate und Bewilligungen", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000053@10.03", "name"=>{"german"=>"Klinische Versuche", "french"=>"Essais cliniques", "italian"=>"Klinische Versuche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000056@10.03", "name"=>{"german"=>"Betäubungsmittel", "french"=>"Stupéfiants", "italian"=>"Betäubungsmittel", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000057@10.03", "name"=>{"german"=>"Pharmakopöe", "french"=>"Pharmacopée", "italian"=>"Pharmakopöe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"30000058@10.03", "name"=>{"german"=>"Labor (OMCL)", "french"=>"Laboratoire (OMCL)", "italian"=>"Labor (OMCL)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-9336548", "surname"=>"Girard", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 20242", "function"=>{"german"=>"Leiter/in", "french"=>"chef", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"30000028@10.03", "label"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}, "name"=>{"german"=>"Swissmedic", "french"=>"Swissmedic", "italian"=>"Swissmedic", "english"=>""}}, {"id"=>"30000047@10.03", "label"=>{"german"=>"Bewilligungen", "french"=>"Autorisations", "italian"=>"Bewilligungen", "english"=>""}, "name"=>{"german"=>"Bewilligungen", "french"=>"Autorisations", "italian"=>"Bewilligungen", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "30000047@10.03",
+  "name": {
+    "german": "Bewilligungen",
+    "french": "Autorisations",
+    "italian": "Bewilligungen",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallerstrasse 7",
+    "postalCode": "3012",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "30000049@10.03",
+      "name": {
+        "german": "Advanced Therapy Medicinal Products",
+        "french": "Transplants",
+        "italian": "Advanced Therapy Medicinal Products",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000048@10.03",
+      "name": {
+        "german": "Inspektorate und Bewilligungen",
+        "french": "Services d'inspection et autorisations",
+        "italian": "Inspektorate und Bewilligungen",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000053@10.03",
+      "name": {
+        "german": "Klinische Versuche",
+        "french": "Essais cliniques",
+        "italian": "Klinische Versuche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000056@10.03",
+      "name": {
+        "german": "Betäubungsmittel",
+        "french": "Stupéfiants",
+        "italian": "Betäubungsmittel",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000057@10.03",
+      "name": {
+        "german": "Pharmakopöe",
+        "french": "Pharmacopée",
+        "italian": "Pharmakopöe",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000058@10.03",
+      "name": {
+        "german": "Labor (OMCL)",
+        "french": "Laboratoire (OMCL)",
+        "italian": "Labor (OMCL)",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-9336548",
+      "surname": "Girard",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 20242",
+      "function": {
+        "german": "Leiter/in",
+        "french": "chef",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000028@10.03",
+      "label": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      },
+      "name": {
+        "german": "Swissmedic",
+        "french": "Swissmedic",
+        "italian": "Swissmedic",
+        "english": ""
+      }
+    },
+    {
+      "id": "30000047@10.03",
+      "label": {
+        "german": "Bewilligungen",
+        "french": "Autorisations",
+        "italian": "Bewilligungen",
+        "english": ""
+      },
+      "name": {
+        "german": "Bewilligungen",
+        "french": "Autorisations",
+        "italian": "Bewilligungen",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

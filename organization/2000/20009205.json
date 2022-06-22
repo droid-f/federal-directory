@@ -1,1 +1,173 @@
-{"id"=>"20009205", "name"=>{"german"=>"Flugsicherung", "french"=>"Services de la navigation aérienne", "italian"=>"Servizi della navigazione aerea", "english"=>"Flugsicherung"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2653046", "surname"=>"Oberti", "givenName"=>"Stefano", "email"=>nil, "phone"=>"+41 58 46 58476", "function"=>{"german"=>"Leiter Flugsicherung", "french"=>"Leiter Flugsicherung", "italian"=>"Leiter Flugsicherung", "english"=>"Leiter Flugsicherung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8024220", "surname"=>"Thurnheer", "givenName"=>"Jörg", "email"=>nil, "phone"=>"+41 58 46 42722", "function"=>{"german"=>"Stellvertreter SIFS", "french"=>"Stellvertreter SIFS", "italian"=>"Stellvertreter SIFS", "english"=>"Stellvertreter SIFS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009201", "label"=>{"german"=>"Sicherheit Infrastruktur", "french"=>"Sécurité des infrastructures", "italian"=>"Sicurezza delle infrastrutture", "english"=>"Sicherheit Infrastruktur"}, "name"=>{"german"=>"Sicherheit Infrastruktur", "french"=>"Sécurité des infrastructures", "italian"=>"Sicurezza delle infrastrutture", "english"=>"Sicherheit Infrastruktur"}}, {"id"=>"20009205", "label"=>{"german"=>"Flugsicherung", "french"=>"Services de la navigation aérienne", "italian"=>"Servizi della navigazione aerea", "english"=>"Flugsicherung"}, "name"=>{"german"=>"Flugsicherung", "french"=>"Services de la navigation aérienne", "italian"=>"Servizi della navigazione aerea", "english"=>"Flugsicherung"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009205",
+  "name": {
+    "german": "Flugsicherung",
+    "french": "Services de la navigation aérienne",
+    "italian": "Servizi della navigazione aerea",
+    "english": "Flugsicherung"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2653046",
+      "surname": "Oberti",
+      "givenName": "Stefano",
+      "email": null,
+      "phone": "+41 58 46 58476",
+      "function": {
+        "german": "Leiter Flugsicherung",
+        "french": "Leiter Flugsicherung",
+        "italian": "Leiter Flugsicherung",
+        "english": "Leiter Flugsicherung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8024220",
+      "surname": "Thurnheer",
+      "givenName": "Jörg",
+      "email": null,
+      "phone": "+41 58 46 42722",
+      "function": {
+        "german": "Stellvertreter SIFS",
+        "french": "Stellvertreter SIFS",
+        "italian": "Stellvertreter SIFS",
+        "english": "Stellvertreter SIFS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009201",
+      "label": {
+        "german": "Sicherheit Infrastruktur",
+        "french": "Sécurité des infrastructures",
+        "italian": "Sicurezza delle infrastrutture",
+        "english": "Sicherheit Infrastruktur"
+      },
+      "name": {
+        "german": "Sicherheit Infrastruktur",
+        "french": "Sécurité des infrastructures",
+        "italian": "Sicurezza delle infrastrutture",
+        "english": "Sicherheit Infrastruktur"
+      }
+    },
+    {
+      "id": "20009205",
+      "label": {
+        "german": "Flugsicherung",
+        "french": "Services de la navigation aérienne",
+        "italian": "Servizi della navigazione aerea",
+        "english": "Flugsicherung"
+      },
+      "name": {
+        "german": "Flugsicherung",
+        "french": "Services de la navigation aérienne",
+        "italian": "Servizi della navigazione aerea",
+        "english": "Flugsicherung"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

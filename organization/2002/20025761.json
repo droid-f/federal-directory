@@ -1,1 +1,175 @@
-{"id"=>"20025761", "name"=>{"german"=>"SAP-Dienste", "french"=>"Services SAP", "italian"=>"Servizi SAP", "english"=>"SAP Services"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0534187", "surname"=>"Schor", "givenName"=>"Jürg", "email"=>nil, "phone"=>"+41 58 46 23614", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0463641", "surname"=>"Kistler", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 25839", "function"=>{"german"=>"SAP-Spezialist/in", "french"=>"SAP-Spezialist/in", "italian"=>"SAP-Spezialist/in", "english"=>"SAP-Spezialist/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1XX2SFXZ6", "surname"=>"Bousrih", "givenName"=>"Hamda", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"SAP-Spezialist/in", "french"=>"SAP-Spezialist/in", "italian"=>"SAP-Spezialist/in", "english"=>"SAP-Spezialist/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20024651", "label"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}, "name"=>{"german"=>"Finanzen EDA", "french"=>"Finances DFAE", "italian"=>"Finanze DFAE", "english"=>"FDFA Finance"}}, {"id"=>"20025761", "label"=>{"german"=>"SAP-Dienste", "french"=>"Services SAP", "italian"=>"Servizi SAP", "english"=>"SAP Services"}, "name"=>{"german"=>"SAP-Dienste", "french"=>"Services SAP", "italian"=>"Servizi SAP", "english"=>"SAP Services"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025761",
+  "name": {
+    "german": "SAP-Dienste",
+    "french": "Services SAP",
+    "italian": "Servizi SAP",
+    "english": "SAP Services"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0534187",
+      "surname": "Schor",
+      "givenName": "Jürg",
+      "email": null,
+      "phone": "+41 58 46 23614",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0463641",
+      "surname": "Kistler",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 25839",
+      "function": {
+        "german": "SAP-Spezialist/in",
+        "french": "SAP-Spezialist/in",
+        "italian": "SAP-Spezialist/in",
+        "english": "SAP-Spezialist/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1XX2SFXZ6",
+      "surname": "Bousrih",
+      "givenName": "Hamda",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "SAP-Spezialist/in",
+        "french": "SAP-Spezialist/in",
+        "italian": "SAP-Spezialist/in",
+        "english": "SAP-Spezialist/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20024651",
+      "label": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      },
+      "name": {
+        "german": "Finanzen EDA",
+        "french": "Finances DFAE",
+        "italian": "Finanze DFAE",
+        "english": "FDFA Finance"
+      }
+    },
+    {
+      "id": "20025761",
+      "label": {
+        "german": "SAP-Dienste",
+        "french": "Services SAP",
+        "italian": "Servizi SAP",
+        "english": "SAP Services"
+      },
+      "name": {
+        "german": "SAP-Dienste",
+        "french": "Services SAP",
+        "italian": "Servizi SAP",
+        "english": "SAP Services"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

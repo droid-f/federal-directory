@@ -1,1 +1,249 @@
-{"id"=>"20046102", "name"=>{"german"=>"Abteilung Asien", "french"=>"Division Asie", "italian"=>"Divisione Asia", "english"=>"Asia Division"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20048753", "name"=>{"german"=>"Operationen A", "french"=>"Opérations A", "italian"=>"Operazioni A", "english"=>"Operations A"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048754", "name"=>{"german"=>"Operationen B", "french"=>"Opérations B", "italian"=>"Operazioni B", "english"=>"Operations B"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20013828", "name"=>{"german"=>"Kobü Kabul", "french"=>"Buco Kaboul", "italian"=>"Ufco Kabul", "english"=>"SCO Kabul"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005018", "name"=>{"german"=>"Kobü Ulaanbaatar", "french"=>"Buco Oulan-Bator", "italian"=>"Ufco Ulan Bator", "english"=>"SCO Ulaanbaatar"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015227", "name"=>{"german"=>"Kobü Vientiane", "french"=>"Buco Vientiane", "italian"=>"Ufco Vientiane", "english"=>"SCO Vientiane"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0427674", "surname"=>"Böni Slaats", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 46 23096", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4434640", "surname"=>"Glatz", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 54495", "function"=>{"german"=>"Stv. Chef/in", "french"=>"Stv. Chef/in", "italian"=>"Stv. Chef/in", "english"=>"Stv. Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7312492", "surname"=>"Duiven", "givenName"=>"Rémy", "email"=>nil, "phone"=>"+41 58 48 03779", "function"=>{"german"=>"Stv. Chef/in", "french"=>"Stv. Chef/in", "italian"=>"Stv. Chef/in", "english"=>"Stv. Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}, {"id"=>"10000713", "label"=>{"german"=>"Direktionsbereich Südzusammenarbeit", "french"=>"Domaine de dir. Coopération Sud", "italian"=>"Settore di dir. Cooperazione Sud", "english"=>"Corporate Domain Cooperation South"}, "name"=>{"german"=>"Direktionsbereich Südzusammenarbeit", "french"=>"Domaine de dir. Coopération Sud", "italian"=>"Settore di dir. Cooperazione Sud", "english"=>"Corporate Domain Cooperation South"}}, {"id"=>"20046102", "label"=>{"german"=>"Abteilung Asien", "french"=>"Division Asie", "italian"=>"Divisione Asia", "english"=>"Asia Division"}, "name"=>{"german"=>"Abteilung Asien", "french"=>"Division Asie", "italian"=>"Divisione Asia", "english"=>"Asia Division"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046102",
+  "name": {
+    "german": "Abteilung Asien",
+    "french": "Division Asie",
+    "italian": "Divisione Asia",
+    "english": "Asia Division"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20048753",
+      "name": {
+        "german": "Operationen A",
+        "french": "Opérations A",
+        "italian": "Operazioni A",
+        "english": "Operations A"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048754",
+      "name": {
+        "german": "Operationen B",
+        "french": "Opérations B",
+        "italian": "Operazioni B",
+        "english": "Operations B"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013828",
+      "name": {
+        "german": "Kobü Kabul",
+        "french": "Buco Kaboul",
+        "italian": "Ufco Kabul",
+        "english": "SCO Kabul"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005018",
+      "name": {
+        "german": "Kobü Ulaanbaatar",
+        "french": "Buco Oulan-Bator",
+        "italian": "Ufco Ulan Bator",
+        "english": "SCO Ulaanbaatar"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015227",
+      "name": {
+        "german": "Kobü Vientiane",
+        "french": "Buco Vientiane",
+        "italian": "Ufco Vientiane",
+        "english": "SCO Vientiane"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0427674",
+      "surname": "Böni Slaats",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 46 23096",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4434640",
+      "surname": "Glatz",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 54495",
+      "function": {
+        "german": "Stv. Chef/in",
+        "french": "Stv. Chef/in",
+        "italian": "Stv. Chef/in",
+        "english": "Stv. Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7312492",
+      "surname": "Duiven",
+      "givenName": "Rémy",
+      "email": null,
+      "phone": "+41 58 48 03779",
+      "function": {
+        "german": "Stv. Chef/in",
+        "french": "Stv. Chef/in",
+        "italian": "Stv. Chef/in",
+        "english": "Stv. Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    },
+    {
+      "id": "10000713",
+      "label": {
+        "german": "Direktionsbereich Südzusammenarbeit",
+        "french": "Domaine de dir. Coopération Sud",
+        "italian": "Settore di dir. Cooperazione Sud",
+        "english": "Corporate Domain Cooperation South"
+      },
+      "name": {
+        "german": "Direktionsbereich Südzusammenarbeit",
+        "french": "Domaine de dir. Coopération Sud",
+        "italian": "Settore di dir. Cooperazione Sud",
+        "english": "Corporate Domain Cooperation South"
+      }
+    },
+    {
+      "id": "20046102",
+      "label": {
+        "german": "Abteilung Asien",
+        "french": "Division Asie",
+        "italian": "Divisione Asia",
+        "english": "Asia Division"
+      },
+      "name": {
+        "german": "Abteilung Asien",
+        "french": "Division Asie",
+        "italian": "Divisione Asia",
+        "english": "Asia Division"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,156 @@
-{"id"=>"10004334", "name"=>{"german"=>"Sammlung Oskar Reinhart Am Römerholz", "french"=>"Collection Oskar Reinhart Am Römerholz", "italian"=>"Collezione Oskar Reinhart Am Römerholz", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Haldenstrasse 95", "postalCode"=>"8400", "location"=>"Winterthur", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"www.roemerholz.ch", "french"=>"www.roemerholz.ch", "italian"=>"www.roemerholz.ch", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4407131", "surname"=>"Richter", "givenName"=>"Kerstin", "email"=>nil, "phone"=>"+41 58 46 51314", "function"=>{"german"=>"Leiter/in Sammlung Oskar Reinhart Am Römerholz", "french"=>"Chef/fe de la Collection Oskar Reinhart Am Römerholz", "italian"=>"Responsabile della Collezione Oskar Reinhart Am Römerholz", "english"=>"Leiter/in Sammlung Oskar Reinhart"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004326", "label"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}}, {"id"=>"20021435", "label"=>{"german"=>"Sektion Museen und Sammlungen", "french"=>"Section Musées et collections", "italian"=>"Sezione Musei e collezioni", "english"=>""}, "name"=>{"german"=>"Sektion Museen und Sammlungen", "french"=>"Section Musées et collections", "italian"=>"Sezione Musei e collezioni", "english"=>""}}, {"id"=>"10004334", "label"=>{"german"=>"Sammlung Oskar Reinhart Am Römerholz", "french"=>"Collection Oskar Reinhart Am Römerholz", "italian"=>"Collezione Oskar Reinhart Am Römerholz", "english"=>""}, "name"=>{"german"=>"Sammlung Oskar Reinhart Am Römerholz", "french"=>"Collection Oskar Reinhart Am Römerholz", "italian"=>"Collezione Oskar Reinhart Am Römerholz", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004334",
+  "name": {
+    "german": "Sammlung Oskar Reinhart Am Römerholz",
+    "french": "Collection Oskar Reinhart Am Römerholz",
+    "italian": "Collezione Oskar Reinhart Am Römerholz",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Haldenstrasse 95",
+    "postalCode": "8400",
+    "location": "Winterthur",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "www.roemerholz.ch",
+      "french": "www.roemerholz.ch",
+      "italian": "www.roemerholz.ch",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4407131",
+      "surname": "Richter",
+      "givenName": "Kerstin",
+      "email": null,
+      "phone": "+41 58 46 51314",
+      "function": {
+        "german": "Leiter/in Sammlung Oskar Reinhart Am Römerholz",
+        "french": "Chef/fe de la Collection Oskar Reinhart Am Römerholz",
+        "italian": "Responsabile della Collezione Oskar Reinhart Am Römerholz",
+        "english": "Leiter/in Sammlung Oskar Reinhart"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004326",
+      "label": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021435",
+      "label": {
+        "german": "Sektion Museen und Sammlungen",
+        "french": "Section Musées et collections",
+        "italian": "Sezione Musei e collezioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Museen und Sammlungen",
+        "french": "Section Musées et collections",
+        "italian": "Sezione Musei e collezioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004334",
+      "label": {
+        "german": "Sammlung Oskar Reinhart Am Römerholz",
+        "french": "Collection Oskar Reinhart Am Römerholz",
+        "italian": "Collezione Oskar Reinhart Am Römerholz",
+        "english": ""
+      },
+      "name": {
+        "german": "Sammlung Oskar Reinhart Am Römerholz",
+        "french": "Collection Oskar Reinhart Am Römerholz",
+        "italian": "Collezione Oskar Reinhart Am Römerholz",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

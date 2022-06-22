@@ -1,1 +1,214 @@
-{"id"=>"20042329", "name"=>{"german"=>"Stv Chef Kommando Operationen", "french"=>"Rempl chef commandement des Opérations", "italian"=>"Sost capo Comando Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"STVOP", "french"=>"STVOP", "italian"=>"STVOP", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20003093", "name"=>{"german"=>"Human Resources Kdo Operationen", "french"=>"Ressources humaines cdmt Opérations", "italian"=>"Human Resources Cdo Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20003094", "name"=>{"german"=>"Finanzen Kommando Operationen", "french"=>"Finances commandement des Opérations", "italian"=>"Finanze Comando Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20019157", "name"=>{"german"=>"Projekte Controlling und Steuerung", "french"=>"Projets controlling et pilotage", "italian"=>"Progetti controlling e gestione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20019155", "name"=>{"german"=>"Streitkräfteentwicklung", "french"=>"Développement des forces armées", "italian"=>"Sviluppo delle forze armate", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042577", "name"=>{"german"=>"ELS Kommando Operationen", "french"=>"GEC commandement Opérations", "italian"=>"GIC Comando Operazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"20042329", "label"=>{"german"=>"STVOP", "french"=>"STVOP", "italian"=>"STVOP", "english"=>""}, "name"=>{"german"=>"Stv Chef Kommando Operationen", "french"=>"Rempl chef commandement des Opérations", "italian"=>"Sost capo Comando Operazioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042329",
+  "name": {
+    "german": "Stv Chef Kommando Operationen",
+    "french": "Rempl chef commandement des Opérations",
+    "italian": "Sost capo Comando Operazioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "STVOP",
+    "french": "STVOP",
+    "italian": "STVOP",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20003093",
+      "name": {
+        "german": "Human Resources Kdo Operationen",
+        "french": "Ressources humaines cdmt Opérations",
+        "italian": "Human Resources Cdo Operazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003094",
+      "name": {
+        "german": "Finanzen Kommando Operationen",
+        "french": "Finances commandement des Opérations",
+        "italian": "Finanze Comando Operazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20019157",
+      "name": {
+        "german": "Projekte Controlling und Steuerung",
+        "french": "Projets controlling et pilotage",
+        "italian": "Progetti controlling e gestione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20019155",
+      "name": {
+        "german": "Streitkräfteentwicklung",
+        "french": "Développement des forces armées",
+        "italian": "Sviluppo delle forze armate",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042577",
+      "name": {
+        "german": "ELS Kommando Operationen",
+        "french": "GEC commandement Opérations",
+        "italian": "GIC Comando Operazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042329",
+      "label": {
+        "german": "STVOP",
+        "french": "STVOP",
+        "italian": "STVOP",
+        "english": ""
+      },
+      "name": {
+        "german": "Stv Chef Kommando Operationen",
+        "french": "Rempl chef commandement des Opérations",
+        "italian": "Sost capo Comando Operazioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

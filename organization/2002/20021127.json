@@ -1,1 +1,156 @@
-{"id"=>"20021127", "name"=>{"german"=>"CC WTO - Kompetenzzentrum öffentliche Ausschreibungen", "french"=>"CC OMC - Centre de compétences pour les appels d'offres publics", "italian"=>"CC OMC - Centro di competenza Bandi di gara", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9129606", "surname"=>"Hubler", "givenName"=>"Alexander", "email"=>nil, "phone"=>"+41 58 46 35432", "function"=>{"german"=>"Leiter FB CC WTO", "french"=>"Chef du domaine spécialisé CC OMC", "italian"=>"Capo SS CC OMC", "english"=>"Leiter FB CC WTO"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004080", "label"=>{"german"=>"Einkauf und Kooperationen", "french"=>"Achats et coopérations", "italian"=>"Acquisti e cooperazione", "english"=>""}, "name"=>{"german"=>"Einkauf und Kooperationen", "french"=>"Achats et coopérations", "italian"=>"Acquisti e cooperazione", "english"=>""}}, {"id"=>"20021127", "label"=>{"german"=>"CC WTO - Kompetenzzentrum öffentliche Ausschreibungen", "french"=>"CC OMC - Centre de compétences pour les appels d'offres publics", "italian"=>"CC OMC - Centro di competenza Bandi di gara", "english"=>""}, "name"=>{"german"=>"CC WTO - Kompetenzzentrum öffentliche Ausschreibungen", "french"=>"CC OMC - Centre de compétences pour les appels d'offres publics", "italian"=>"CC OMC - Centro di competenza Bandi di gara", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021127",
+  "name": {
+    "german": "CC WTO - Kompetenzzentrum öffentliche Ausschreibungen",
+    "french": "CC OMC - Centre de compétences pour les appels d'offres publics",
+    "italian": "CC OMC - Centro di competenza Bandi di gara",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9129606",
+      "surname": "Hubler",
+      "givenName": "Alexander",
+      "email": null,
+      "phone": "+41 58 46 35432",
+      "function": {
+        "german": "Leiter FB CC WTO",
+        "french": "Chef du domaine spécialisé CC OMC",
+        "italian": "Capo SS CC OMC",
+        "english": "Leiter FB CC WTO"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004080",
+      "label": {
+        "german": "Einkauf und Kooperationen",
+        "french": "Achats et coopérations",
+        "italian": "Acquisti e cooperazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Einkauf und Kooperationen",
+        "french": "Achats et coopérations",
+        "italian": "Acquisti e cooperazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021127",
+      "label": {
+        "german": "CC WTO - Kompetenzzentrum öffentliche Ausschreibungen",
+        "french": "CC OMC - Centre de compétences pour les appels d'offres publics",
+        "italian": "CC OMC - Centro di competenza Bandi di gara",
+        "english": ""
+      },
+      "name": {
+        "german": "CC WTO - Kompetenzzentrum öffentliche Ausschreibungen",
+        "french": "CC OMC - Centre de compétences pour les appels d'offres publics",
+        "italian": "CC OMC - Centro di competenza Bandi di gara",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

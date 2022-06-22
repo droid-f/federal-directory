@@ -1,1 +1,215 @@
-{"id"=>"10002727", "name"=>{"german"=>"Abteilung Recht", "french"=>"Division droit", "italian"=>"Divisione giuridica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 40", "postalCode"=>"3011", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10002728", "name"=>{"german"=>"Rechtsdienst 1", "french"=>"Service juridique 1", "italian"=>"Servizio giuridico 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002729", "name"=>{"german"=>"Rechtsdienst 2", "french"=>"Service juridique 2", "italian"=>"Servizio giuridico 2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002730", "name"=>{"german"=>"Rechtsdienst 3", "french"=>"Service juridique 3", "italian"=>"Servizio giuridico 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20035251", "name"=>{"german"=>"Dienst Koordination von Vollzug und Aufsicht", "french"=>"Service Coordination de l'exécution et de la surveillance", "italian"=>"Servizio Coordinamento dell'esecuzione e vigilanza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0542017", "surname"=>"Sidler", "givenName"=>"Salome", "email"=>nil, "phone"=>"+41 58 46 29788", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035877", "label"=>{"german"=>"Direktionsbereich (Ressourcen, Finanzen, Recht, Internationales, Sprachdienste, Umweltbeobachtung)", "french"=>"Tâches transversales", "italian"=>"Compiti trasversali", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Ressourcen, Finanzen, Recht, Internationales, Sprachdienste, Umweltbeobachtung)", "french"=>"Tâches transversales", "italian"=>"Compiti trasversali", "english"=>""}}, {"id"=>"10002727", "label"=>{"german"=>"Abteilung Recht", "french"=>"Division droit", "italian"=>"Divisione giuridica", "english"=>""}, "name"=>{"german"=>"Abteilung Recht", "french"=>"Division droit", "italian"=>"Divisione giuridica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002727",
+  "name": {
+    "german": "Abteilung Recht",
+    "french": "Division droit",
+    "italian": "Divisione giuridica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 40",
+    "postalCode": "3011",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10002728",
+      "name": {
+        "german": "Rechtsdienst 1",
+        "french": "Service juridique 1",
+        "italian": "Servizio giuridico 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002729",
+      "name": {
+        "german": "Rechtsdienst 2",
+        "french": "Service juridique 2",
+        "italian": "Servizio giuridico 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002730",
+      "name": {
+        "german": "Rechtsdienst 3",
+        "french": "Service juridique 3",
+        "italian": "Servizio giuridico 3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035251",
+      "name": {
+        "german": "Dienst Koordination von Vollzug und Aufsicht",
+        "french": "Service Coordination de l'exécution et de la surveillance",
+        "italian": "Servizio Coordinamento dell'esecuzione e vigilanza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0542017",
+      "surname": "Sidler",
+      "givenName": "Salome",
+      "email": null,
+      "phone": "+41 58 46 29788",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035877",
+      "label": {
+        "german": "Direktionsbereich (Ressourcen, Finanzen, Recht, Internationales, Sprachdienste, Umweltbeobachtung)",
+        "french": "Tâches transversales",
+        "italian": "Compiti trasversali",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Ressourcen, Finanzen, Recht, Internationales, Sprachdienste, Umweltbeobachtung)",
+        "french": "Tâches transversales",
+        "italian": "Compiti trasversali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002727",
+      "label": {
+        "german": "Abteilung Recht",
+        "french": "Division droit",
+        "italian": "Divisione giuridica",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Recht",
+        "french": "Division droit",
+        "italian": "Divisione giuridica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

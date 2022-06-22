@@ -1,1 +1,170 @@
-{"id"=>"20048983", "name"=>{"german"=>"Fachbereich Datengovernance Polizeisysteme", "french"=>"Domaine de base Gouvernance des données des systèmes de police", "italian"=>"Settore specialistico Governance dei dati dei sistemi di polizia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009366", "label"=>{"german"=>"PSI", "french"=>"SPI", "italian"=>"SPI", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Polizeisysteme & Identifikation", "french"=>"Domaine de direction systèmes de police et identification", "italian"=>"Ambito direzionale sistemi di polizia e identificazione", "english"=>""}}, {"id"=>"20021432", "label"=>{"german"=>"Abteilung Steuerung, Planung & Stab PSI", "french"=>"Division Gestion, planification et État-major SPI", "italian"=>"Divisione Coordinazione, pianificazione e stato maggiore SPI", "english"=>""}, "name"=>{"german"=>"Abteilung Steuerung, Planung & Stab PSI", "french"=>"Division Gestion, planification et État-major SPI", "italian"=>"Divisione Coordinazione, pianificazione e stato maggiore SPI", "english"=>""}}, {"id"=>"20048981", "label"=>{"german"=>"Bereich Datengovernance und Ausbildung", "french"=>"Service Gouvernance des données et formation", "italian"=>"Settore Governance dei dati dei sistemi di polizia", "english"=>""}, "name"=>{"german"=>"Bereich Datengovernance und Ausbildung", "french"=>"Service Gouvernance des données et formation", "italian"=>"Settore Governance dei dati dei sistemi di polizia", "english"=>""}}, {"id"=>"20048983", "label"=>{"german"=>"Fachbereich Datengovernance Polizeisysteme", "french"=>"Domaine de base Gouvernance des données des systèmes de police", "italian"=>"Settore specialistico Governance dei dati dei sistemi di polizia", "english"=>""}, "name"=>{"german"=>"Fachbereich Datengovernance Polizeisysteme", "french"=>"Domaine de base Gouvernance des données des systèmes de police", "italian"=>"Settore specialistico Governance dei dati dei sistemi di polizia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048983",
+  "name": {
+    "german": "Fachbereich Datengovernance Polizeisysteme",
+    "french": "Domaine de base Gouvernance des données des systèmes de police",
+    "italian": "Settore specialistico Governance dei dati dei sistemi di polizia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009366",
+      "label": {
+        "german": "PSI",
+        "french": "SPI",
+        "italian": "SPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Polizeisysteme & Identifikation",
+        "french": "Domaine de direction systèmes de police et identification",
+        "italian": "Ambito direzionale sistemi di polizia e identificazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021432",
+      "label": {
+        "german": "Abteilung Steuerung, Planung & Stab PSI",
+        "french": "Division Gestion, planification et État-major SPI",
+        "italian": "Divisione Coordinazione, pianificazione e stato maggiore SPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Steuerung, Planung & Stab PSI",
+        "french": "Division Gestion, planification et État-major SPI",
+        "italian": "Divisione Coordinazione, pianificazione e stato maggiore SPI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048981",
+      "label": {
+        "german": "Bereich Datengovernance und Ausbildung",
+        "french": "Service Gouvernance des données et formation",
+        "italian": "Settore Governance dei dati dei sistemi di polizia",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Datengovernance und Ausbildung",
+        "french": "Service Gouvernance des données et formation",
+        "italian": "Settore Governance dei dati dei sistemi di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048983",
+      "label": {
+        "german": "Fachbereich Datengovernance Polizeisysteme",
+        "french": "Domaine de base Gouvernance des données des systèmes de police",
+        "italian": "Settore specialistico Governance dei dati dei sistemi di polizia",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Datengovernance Polizeisysteme",
+        "french": "Domaine de base Gouvernance des données des systèmes de police",
+        "italian": "Settore specialistico Governance dei dati dei sistemi di polizia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

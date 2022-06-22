@@ -1,1 +1,173 @@
-{"id"=>"20003255", "name"=>{"german"=>"Personalwirtschaft und Budgetierung", "french"=>"Gestion du personnel et budgétisation", "italian"=>"Gestione del pesonale e preventivazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 71", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7108755", "surname"=>"Meier", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 51476", "function"=>{"german"=>"Leiter Personalwirtschaft und Budgetierung", "french"=>"Leiter Personalwirtschaft und Budgetierung", "italian"=>"Leiter Personalwirtschaft und Budgetierung", "english"=>"Leiter Pers Wirtschaft und Budgetierung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6748877", "surname"=>"Leuenberger", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 51824", "function"=>{"german"=>"Spezialist Budgetierung und Arbeitgeberleistungen Bund, Stellvertreter Leiter Personalwirtschaft und Budgetierung", "french"=>"Spécialiste en budgétisation au sein de la Confédération en tant qu’employeur et chef suppléant du secteur", "italian"=>"Specialista Preventivazione e prestazioni della Confederazione quale datore di lavoro e caposostituto/a del reparto", "english"=>"Spez. Budg. und AG-Leistungen BV, Stv RL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10000034", "label"=>{"german"=>"EPA", "french"=>"OFPER", "italian"=>"UFPER", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Personalamt", "french"=>"Office fédéral du personnel", "italian"=>"Ufficio federale del personale", "english"=>""}}, {"id"=>"10001850", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10000509", "label"=>{"german"=>"Personalwirtschaft und Controlling", "french"=>"Gestion du personnel et controlling", "italian"=>"Gestione del personale e controlling", "english"=>""}, "name"=>{"german"=>"Personalwirtschaft und Controlling", "french"=>"Gestion du personnel et controlling", "italian"=>"Gestione del personale e controlling", "english"=>""}}, {"id"=>"20003255", "label"=>{"german"=>"Personalwirtschaft und Budgetierung", "french"=>"Gestion du personnel et budgétisation", "italian"=>"Gestione del pesonale e preventivazione", "english"=>""}, "name"=>{"german"=>"Personalwirtschaft und Budgetierung", "french"=>"Gestion du personnel et budgétisation", "italian"=>"Gestione del pesonale e preventivazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003255",
+  "name": {
+    "german": "Personalwirtschaft und Budgetierung",
+    "french": "Gestion du personnel et budgétisation",
+    "italian": "Gestione del pesonale e preventivazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 71",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7108755",
+      "surname": "Meier",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 51476",
+      "function": {
+        "german": "Leiter Personalwirtschaft und Budgetierung",
+        "french": "Leiter Personalwirtschaft und Budgetierung",
+        "italian": "Leiter Personalwirtschaft und Budgetierung",
+        "english": "Leiter Pers Wirtschaft und Budgetierung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6748877",
+      "surname": "Leuenberger",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 51824",
+      "function": {
+        "german": "Spezialist Budgetierung und Arbeitgeberleistungen Bund, Stellvertreter Leiter Personalwirtschaft und Budgetierung",
+        "french": "Spécialiste en budgétisation au sein de la Confédération en tant qu’employeur et chef suppléant du secteur",
+        "italian": "Specialista Preventivazione e prestazioni della Confederazione quale datore di lavoro e caposostituto/a del reparto",
+        "english": "Spez. Budg. und AG-Leistungen BV, Stv RL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000034",
+      "label": {
+        "german": "EPA",
+        "french": "OFPER",
+        "italian": "UFPER",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Personalamt",
+        "french": "Office fédéral du personnel",
+        "italian": "Ufficio federale del personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001850",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000509",
+      "label": {
+        "german": "Personalwirtschaft und Controlling",
+        "french": "Gestion du personnel et controlling",
+        "italian": "Gestione del personale e controlling",
+        "english": ""
+      },
+      "name": {
+        "german": "Personalwirtschaft und Controlling",
+        "french": "Gestion du personnel et controlling",
+        "italian": "Gestione del personale e controlling",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003255",
+      "label": {
+        "german": "Personalwirtschaft und Budgetierung",
+        "french": "Gestion du personnel et budgétisation",
+        "italian": "Gestione del pesonale e preventivazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Personalwirtschaft und Budgetierung",
+        "french": "Gestion du personnel et budgétisation",
+        "italian": "Gestione del pesonale e preventivazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

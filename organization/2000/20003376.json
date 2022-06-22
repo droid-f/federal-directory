@@ -1,1 +1,186 @@
-{"id"=>"20003376", "name"=>{"german"=>"Finanzen Kommando Ausbildung", "french"=>"Finances commandement Instruction", "italian"=>"Finanze Comando Istruzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3711418", "surname"=>"Sinzig", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 54122", "function"=>{"german"=>"Chef/in Finanzen", "french"=>"Chef Finances", "italian"=>"Capo Finanze", "english"=>"Chef/in Finanzen"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20042580", "label"=>{"german"=>"STABKDOAUSB", "french"=>"STABKDOAUSB", "italian"=>"STABKDOAUSB", "english"=>""}, "name"=>{"german"=>"Stab Kommando Ausbildung", "french"=>"Etat-major commandement Instruction", "italian"=>"SM Comando Istruzione", "english"=>""}}, {"id"=>"20042581", "label"=>{"german"=>"Ressourcen / Betrieb Kdo Ausbildung", "french"=>"Ressources / exploitation cdmt Instr", "italian"=>"Risorse / Esercizio Cdo Istruzione", "english"=>""}, "name"=>{"german"=>"Ressourcen / Betrieb Kdo Ausbildung", "french"=>"Ressources / exploitation cdmt Instr", "italian"=>"Risorse / Esercizio Cdo Istruzione", "english"=>""}}, {"id"=>"20003376", "label"=>{"german"=>"Finanzen Kommando Ausbildung", "french"=>"Finances commandement Instruction", "italian"=>"Finanze Comando Istruzione", "english"=>""}, "name"=>{"german"=>"Finanzen Kommando Ausbildung", "french"=>"Finances commandement Instruction", "italian"=>"Finanze Comando Istruzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003376",
+  "name": {
+    "german": "Finanzen Kommando Ausbildung",
+    "french": "Finances commandement Instruction",
+    "italian": "Finanze Comando Istruzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3711418",
+      "surname": "Sinzig",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 54122",
+      "function": {
+        "german": "Chef/in Finanzen",
+        "french": "Chef Finances",
+        "italian": "Capo Finanze",
+        "english": "Chef/in Finanzen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042580",
+      "label": {
+        "german": "STABKDOAUSB",
+        "french": "STABKDOAUSB",
+        "italian": "STABKDOAUSB",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Kommando Ausbildung",
+        "french": "Etat-major commandement Instruction",
+        "italian": "SM Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042581",
+      "label": {
+        "german": "Ressourcen / Betrieb Kdo Ausbildung",
+        "french": "Ressources / exploitation cdmt Instr",
+        "italian": "Risorse / Esercizio Cdo Istruzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen / Betrieb Kdo Ausbildung",
+        "french": "Ressources / exploitation cdmt Instr",
+        "italian": "Risorse / Esercizio Cdo Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003376",
+      "label": {
+        "german": "Finanzen Kommando Ausbildung",
+        "french": "Finances commandement Instruction",
+        "italian": "Finanze Comando Istruzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen Kommando Ausbildung",
+        "french": "Finances commandement Instruction",
+        "italian": "Finanze Comando Istruzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

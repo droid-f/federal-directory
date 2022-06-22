@@ -1,1 +1,199 @@
-{"id"=>"12060100@12.06", "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}, "nameAbbr"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 31 377 77 77", "fax"=>"", "email"=>"info@ipi.ch", "homepage"=>{"german"=>"www.ige.ch", "french"=>"www.ige.ch", "italian"=>"www.ige.ch", "english"=>""}}, "children"=>[{"id"=>"12060200@12.06", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060300@12.06", "name"=>{"german"=>"Finanzen & Personal", "french"=>"Finances & Personnel", "italian"=>"Finanze & Personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060400@12.06", "name"=>{"german"=>"Recht & Internationales", "french"=>"Droit & affaires internationales", "italian"=>"Diritto & affari internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060500@12.06", "name"=>{"german"=>"Patente", "french"=>"Brevets", "italian"=>"Brevetti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060600@12.06", "name"=>{"german"=>"Marken & Designs", "french"=>"Marques & Designs", "italian"=>"Marchi & Design", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060700@12.06", "name"=>{"german"=>"Technologie- & Infrastrukturservices", "french"=>"Services technologiques & Infrastructure", "italian"=>"Servizi tecnologici & Infrastruttura", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060800@12.06", "name"=>{"german"=>"Beobachtungsstelle für technische Massnahmen", "french"=>"Observatoire des mesures techniques", "italian"=>"Osservatorio dei provvedimenti tecnici", "english"=>""}, "nameAbbr"=>{"german"=>"BTM", "french"=>"OMET", "italian"=>"OPT", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060100@12.06",
+  "name": {
+    "german": "Eidgenössisches Institut für Geistiges Eigentum",
+    "french": "Institut Fédéral de la Propriété Intellectuelle",
+    "italian": "Istituto Federale della Proprietà Intellettuale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "IGE",
+    "french": "IPI",
+    "italian": "IPI",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 31 377 77 77",
+    "fax": "",
+    "email": "info@ipi.ch",
+    "homepage": {
+      "german": "www.ige.ch",
+      "french": "www.ige.ch",
+      "italian": "www.ige.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "12060200@12.06",
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060300@12.06",
+      "name": {
+        "german": "Finanzen & Personal",
+        "french": "Finances & Personnel",
+        "italian": "Finanze & Personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060400@12.06",
+      "name": {
+        "german": "Recht & Internationales",
+        "french": "Droit & affaires internationales",
+        "italian": "Diritto & affari internazionali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060500@12.06",
+      "name": {
+        "german": "Patente",
+        "french": "Brevets",
+        "italian": "Brevetti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060600@12.06",
+      "name": {
+        "german": "Marken & Designs",
+        "french": "Marques & Designs",
+        "italian": "Marchi & Design",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060700@12.06",
+      "name": {
+        "german": "Technologie- & Infrastrukturservices",
+        "french": "Services technologiques & Infrastructure",
+        "italian": "Servizi tecnologici & Infrastruttura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060800@12.06",
+      "name": {
+        "german": "Beobachtungsstelle für technische Massnahmen",
+        "french": "Observatoire des mesures techniques",
+        "italian": "Osservatorio dei provvedimenti tecnici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BTM",
+        "french": "OMET",
+        "italian": "OPT",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

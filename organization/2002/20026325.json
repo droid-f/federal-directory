@@ -1,1 +1,188 @@
-{"id"=>"20026325", "name"=>{"german"=>"Datenmanagement Zuwanderung/Integration", "french"=>"Gestion des données Immigration et intégration", "italian"=>"Gestione dei documenti Immigrazione e integrazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8277342", "surname"=>"Voegeli", "givenName"=>"Monika", "email"=>nil, "phone"=>"+41 58 46 67939", "function"=>{"german"=>"Chef/in Dienst", "french"=>"Chef/in Dienst", "italian"=>"Chef/in Dienst", "english"=>"Chef/in Dienst"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1979965", "surname"=>"Casablanca", "givenName"=>"Irene", "email"=>nil, "phone"=>"+41 58 46 59702", "function"=>{"german"=>"Stv. Chef/in Dienst", "french"=>"Stv. Chef/in Dienst", "italian"=>"Stv. Chef/in Dienst", "english"=>"Stv. Chef/in Dienst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026307", "label"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}, "name"=>{"german"=>"Planung und Ressourcen", "french"=>"Planification et ressources", "italian"=>"Pianificazione e risorse", "english"=>""}}, {"id"=>"20026316", "label"=>{"german"=>"Dokumentenmanagement", "french"=>"Gestion des documents", "italian"=>"Gestione dei documenti", "english"=>""}, "name"=>{"german"=>"Dokumentenmanagement", "french"=>"Gestion des documents", "italian"=>"Gestione dei documenti", "english"=>""}}, {"id"=>"20026325", "label"=>{"german"=>"Datenmanagement Zuwanderung/Integration", "french"=>"Gestion des données Immigration et intégration", "italian"=>"Gestione dei documenti Immigrazione e integrazione", "english"=>""}, "name"=>{"german"=>"Datenmanagement Zuwanderung/Integration", "french"=>"Gestion des données Immigration et intégration", "italian"=>"Gestione dei documenti Immigrazione e integrazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026325",
+  "name": {
+    "german": "Datenmanagement Zuwanderung/Integration",
+    "french": "Gestion des données Immigration et intégration",
+    "italian": "Gestione dei documenti Immigrazione e integrazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8277342",
+      "surname": "Voegeli",
+      "givenName": "Monika",
+      "email": null,
+      "phone": "+41 58 46 67939",
+      "function": {
+        "german": "Chef/in Dienst",
+        "french": "Chef/in Dienst",
+        "italian": "Chef/in Dienst",
+        "english": "Chef/in Dienst"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1979965",
+      "surname": "Casablanca",
+      "givenName": "Irene",
+      "email": null,
+      "phone": "+41 58 46 59702",
+      "function": {
+        "german": "Stv. Chef/in Dienst",
+        "french": "Stv. Chef/in Dienst",
+        "italian": "Stv. Chef/in Dienst",
+        "english": "Stv. Chef/in Dienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026307",
+      "label": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Planung und Ressourcen",
+        "french": "Planification et ressources",
+        "italian": "Pianificazione e risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026316",
+      "label": {
+        "german": "Dokumentenmanagement",
+        "french": "Gestion des documents",
+        "italian": "Gestione dei documenti",
+        "english": ""
+      },
+      "name": {
+        "german": "Dokumentenmanagement",
+        "french": "Gestion des documents",
+        "italian": "Gestione dei documenti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026325",
+      "label": {
+        "german": "Datenmanagement Zuwanderung/Integration",
+        "french": "Gestion des données Immigration et intégration",
+        "italian": "Gestione dei documenti Immigrazione e integrazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Datenmanagement Zuwanderung/Integration",
+        "french": "Gestion des données Immigration et intégration",
+        "italian": "Gestione dei documenti Immigrazione e integrazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

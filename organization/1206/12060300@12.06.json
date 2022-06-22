@@ -1,1 +1,183 @@
-{"id"=>"12060300@12.06", "name"=>{"german"=>"Finanzen & Personal", "french"=>"Finances & Personnel", "italian"=>"Finanze & Personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Stauffacherstrasse 65/59g", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"12060304@12.06", "name"=>{"german"=>"Finanz- & Rechnungswesen / Controlling", "french"=>"Finances & comptabilité / Controlling", "italian"=>"Finanze & contabilità / Controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060305@12.06", "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"12060301@12.06", "name"=>{"german"=>"Personal", "french"=>"Service du personnel", "italian"=>"Personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>156, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-2678077", "surname"=>"Chammartin", "givenName"=>"Catherine", "email"=>nil, "phone"=>"+41 31 377 77 01", "function"=>{"german"=>"Leitung", "french"=>"Leitung", "italian"=>"Leitung", "english"=>nil}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4524501", "surname"=>"Amport", "givenName"=>"Michèle", "email"=>nil, "phone"=>"+41 31 377 75 02", "function"=>{"german"=>"Direktionsassistenz", "french"=>"Direktionsassistenz", "italian"=>"Direktionsassistenz", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"12060100@12.06", "label"=>{"german"=>"IGE", "french"=>"IPI", "italian"=>"IPI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Geistiges Eigentum", "french"=>"Institut Fédéral de la Propriété Intellectuelle", "italian"=>"Istituto Federale della Proprietà Intellettuale", "english"=>""}}, {"id"=>"12060300@12.06", "label"=>{"german"=>"Finanzen & Personal", "french"=>"Finances & Personnel", "italian"=>"Finanze & Personale", "english"=>""}, "name"=>{"german"=>"Finanzen & Personal", "french"=>"Finances & Personnel", "italian"=>"Finanze & Personale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12060300@12.06",
+  "name": {
+    "german": "Finanzen & Personal",
+    "french": "Finances & Personnel",
+    "italian": "Finanze & Personale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Stauffacherstrasse 65/59g",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "12060304@12.06",
+      "name": {
+        "german": "Finanz- & Rechnungswesen / Controlling",
+        "french": "Finances & comptabilité / Controlling",
+        "italian": "Finanze & contabilità / Controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060305@12.06",
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060301@12.06",
+      "name": {
+        "german": "Personal",
+        "french": "Service du personnel",
+        "italian": "Personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": 156,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-2678077",
+      "surname": "Chammartin",
+      "givenName": "Catherine",
+      "email": null,
+      "phone": "+41 31 377 77 01",
+      "function": {
+        "german": "Leitung",
+        "french": "Leitung",
+        "italian": "Leitung",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4524501",
+      "surname": "Amport",
+      "givenName": "Michèle",
+      "email": null,
+      "phone": "+41 31 377 75 02",
+      "function": {
+        "german": "Direktionsassistenz",
+        "french": "Direktionsassistenz",
+        "italian": "Direktionsassistenz",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060100@12.06",
+      "label": {
+        "german": "IGE",
+        "french": "IPI",
+        "italian": "IPI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Geistiges Eigentum",
+        "french": "Institut Fédéral de la Propriété Intellectuelle",
+        "italian": "Istituto Federale della Proprietà Intellettuale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12060300@12.06",
+      "label": {
+        "german": "Finanzen & Personal",
+        "french": "Finances & Personnel",
+        "italian": "Finanze & Personale",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen & Personal",
+        "french": "Finances & Personnel",
+        "italian": "Finanze & Personale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

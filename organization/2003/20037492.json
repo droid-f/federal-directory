@@ -1,1 +1,173 @@
-{"id"=>"20037492", "name"=>{"german"=>"Technische Organisationen Bern", "french"=>"Organisations techniques Berne", "italian"=>"Organizzazioni tecniche Berna", "english"=>"Technische Organisationen Bern"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0452239", "surname"=>"Boss", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 42832", "function"=>{"german"=>"Leiter Technische Organisationen Bern", "french"=>"Leiter Technische Organisationen Bern", "italian"=>"Leiter Technische Organisationen Bern", "english"=>"Leiter Technische Organisationen Bern"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1774327", "surname"=>"Lüthi", "givenName"=>"Pierre", "email"=>nil, "phone"=>"+41 58 46 49801", "function"=>{"german"=>"Stellvertreter STOB", "french"=>"Stellvertreter STOB", "italian"=>"Stellvertreter STOB", "english"=>"Stellvertreter STOB"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009163", "label"=>{"german"=>"Sicherheit Flugtechnik", "french"=>"Sécurité technique", "italian"=>"Sicurezza tecnica", "english"=>"Sicherheit Flugtechnik"}, "name"=>{"german"=>"Sicherheit Flugtechnik", "french"=>"Sécurité technique", "italian"=>"Sicurezza tecnica", "english"=>"Sicherheit Flugtechnik"}}, {"id"=>"20037492", "label"=>{"german"=>"Technische Organisationen Bern", "french"=>"Organisations techniques Berne", "italian"=>"Organizzazioni tecniche Berna", "english"=>"Technische Organisationen Bern"}, "name"=>{"german"=>"Technische Organisationen Bern", "french"=>"Organisations techniques Berne", "italian"=>"Organizzazioni tecniche Berna", "english"=>"Technische Organisationen Bern"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037492",
+  "name": {
+    "german": "Technische Organisationen Bern",
+    "french": "Organisations techniques Berne",
+    "italian": "Organizzazioni tecniche Berna",
+    "english": "Technische Organisationen Bern"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0452239",
+      "surname": "Boss",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 42832",
+      "function": {
+        "german": "Leiter Technische Organisationen Bern",
+        "french": "Leiter Technische Organisationen Bern",
+        "italian": "Leiter Technische Organisationen Bern",
+        "english": "Leiter Technische Organisationen Bern"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1774327",
+      "surname": "Lüthi",
+      "givenName": "Pierre",
+      "email": null,
+      "phone": "+41 58 46 49801",
+      "function": {
+        "german": "Stellvertreter STOB",
+        "french": "Stellvertreter STOB",
+        "italian": "Stellvertreter STOB",
+        "english": "Stellvertreter STOB"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009163",
+      "label": {
+        "german": "Sicherheit Flugtechnik",
+        "french": "Sécurité technique",
+        "italian": "Sicurezza tecnica",
+        "english": "Sicherheit Flugtechnik"
+      },
+      "name": {
+        "german": "Sicherheit Flugtechnik",
+        "french": "Sécurité technique",
+        "italian": "Sicurezza tecnica",
+        "english": "Sicherheit Flugtechnik"
+      }
+    },
+    {
+      "id": "20037492",
+      "label": {
+        "german": "Technische Organisationen Bern",
+        "french": "Organisations techniques Berne",
+        "italian": "Organizzazioni tecniche Berna",
+        "english": "Technische Organisationen Bern"
+      },
+      "name": {
+        "german": "Technische Organisationen Bern",
+        "french": "Organisations techniques Berne",
+        "italian": "Organizzazioni tecniche Berna",
+        "english": "Technische Organisationen Bern"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

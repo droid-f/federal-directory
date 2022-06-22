@@ -1,1 +1,170 @@
-{"id"=>"20049460", "name"=>{"german"=>"Chapter", "french"=>"Chapter", "italian"=>"Chapter", "english"=>""}, "nameAbbr"=>{"german"=>"SIT", "french"=>"SIT", "italian"=>"SIT", "english"=>""}, "address"=>{"addressLine2"=>"Campus Meielen", "street"=>"Eichenweg 3", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20049248", "name"=>{"german"=>"Chapter Security", "french"=>"Chapter Security", "italian"=>"Chapter Security", "english"=>""}, "nameAbbr"=>{"german"=>"SEC", "french"=>"SEC", "italian"=>"SEC", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4534469", "surname"=>"Grindat", "givenName"=>"Chantal", "email"=>nil, "phone"=>"+41 58 46 71052", "function"=>{"german"=>"BO Chapter und Transformation SI", "french"=>"BO Transformation", "italian"=>"BO Transformation", "english"=>"BO Chapter"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008669", "label"=>{"german"=>"BIT", "french"=>"OFIT", "italian"=>"UFIT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Informatik und Telekommunikation", "french"=>"Office fédéral de l’informatique et de la télécommunication", "italian"=>"Ufficio federale dell'informatica e della telecomunicazione", "english"=>""}}, {"id"=>"20012388", "label"=>{"german"=>"DI", "french"=>"DI", "italian"=>"DI", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direktion", "italian"=>"Direktion", "english"=>""}}, {"id"=>"20049455", "label"=>{"german"=>"SI", "french"=>"SI", "italian"=>"SI", "english"=>""}, "name"=>{"german"=>"Strategy and Innovation", "french"=>"Strategy and Innovation", "italian"=>"Strategy and Innovation", "english"=>""}}, {"id"=>"20049460", "label"=>{"german"=>"SIT", "french"=>"SIT", "italian"=>"SIT", "english"=>""}, "name"=>{"german"=>"Chapter", "french"=>"Chapter", "italian"=>"Chapter", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20049460",
+  "name": {
+    "german": "Chapter",
+    "french": "Chapter",
+    "italian": "Chapter",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SIT",
+    "french": "SIT",
+    "italian": "SIT",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Campus Meielen",
+    "street": "Eichenweg 3",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20049248",
+      "name": {
+        "german": "Chapter Security",
+        "french": "Chapter Security",
+        "italian": "Chapter Security",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "SEC",
+        "french": "SEC",
+        "italian": "SEC",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4534469",
+      "surname": "Grindat",
+      "givenName": "Chantal",
+      "email": null,
+      "phone": "+41 58 46 71052",
+      "function": {
+        "german": "BO Chapter und Transformation SI",
+        "french": "BO Transformation",
+        "italian": "BO Transformation",
+        "english": "BO Chapter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008669",
+      "label": {
+        "german": "BIT",
+        "french": "OFIT",
+        "italian": "UFIT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Informatik und Telekommunikation",
+        "french": "Office fédéral de l’informatique et de la télécommunication",
+        "italian": "Ufficio federale dell'informatica e della telecomunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012388",
+      "label": {
+        "german": "DI",
+        "french": "DI",
+        "italian": "DI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direktion",
+        "italian": "Direktion",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049455",
+      "label": {
+        "german": "SI",
+        "french": "SI",
+        "italian": "SI",
+        "english": ""
+      },
+      "name": {
+        "german": "Strategy and Innovation",
+        "french": "Strategy and Innovation",
+        "italian": "Strategy and Innovation",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049460",
+      "label": {
+        "german": "SIT",
+        "french": "SIT",
+        "italian": "SIT",
+        "english": ""
+      },
+      "name": {
+        "german": "Chapter",
+        "french": "Chapter",
+        "italian": "Chapter",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,199 @@
-{"id"=>"20030176", "name"=>{"german"=>"Abteilung IV Kammer 1", "french"=>"Cour IV Chambre 1", "italian"=>"Corte IV Camera 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20043657", "name"=>{"german"=>"Abteilung IV Kammer 1.1", "french"=>"Cour IV Chambre 1.2", "italian"=>"Corte IV Camera 1.2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030152", "name"=>{"german"=>"Abteilung IV Kammer 1.2", "french"=>"Cour IV Chambre 1.2", "italian"=>"Corte IV Camera 1.2", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030153", "name"=>{"german"=>"Abteilung IV Kammer 1.3", "french"=>"Cour IV Chambre 1.3", "italian"=>"Corte IV Camera 1.3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030154", "name"=>{"german"=>"Abteilung IV Kammer 1.4", "french"=>"Cour IV Chambre 1.4", "italian"=>"Corte IV Camera 1.4", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030155", "name"=>{"german"=>"Abteilung IV Kammer 1.5", "french"=>"Cour IV Chambre 1.5", "italian"=>"Corte IV Camera 1.5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20030161", "name"=>{"german"=>"Abteilung IV Kammer 1.7", "french"=>"Cour VI Chambre 1.7", "italian"=>"Corte VI Camera 1.7", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050503", "name"=>{"german"=>"Abteilung IV Kammer 1.6", "french"=>"Cour IV Chambre 1.5", "italian"=>"Corte IV Camera 1.5", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014851", "label"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}, "name"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}}, {"id"=>"20030176", "label"=>{"german"=>"Abteilung IV Kammer 1", "french"=>"Cour IV Chambre 1", "italian"=>"Corte IV Camera 1", "english"=>""}, "name"=>{"german"=>"Abteilung IV Kammer 1", "french"=>"Cour IV Chambre 1", "italian"=>"Corte IV Camera 1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030176",
+  "name": {
+    "german": "Abteilung IV Kammer 1",
+    "french": "Cour IV Chambre 1",
+    "italian": "Corte IV Camera 1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20043657",
+      "name": {
+        "german": "Abteilung IV Kammer 1.1",
+        "french": "Cour IV Chambre 1.2",
+        "italian": "Corte IV Camera 1.2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030152",
+      "name": {
+        "german": "Abteilung IV Kammer 1.2",
+        "french": "Cour IV Chambre 1.2",
+        "italian": "Corte IV Camera 1.2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030153",
+      "name": {
+        "german": "Abteilung IV Kammer 1.3",
+        "french": "Cour IV Chambre 1.3",
+        "italian": "Corte IV Camera 1.3",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030154",
+      "name": {
+        "german": "Abteilung IV Kammer 1.4",
+        "french": "Cour IV Chambre 1.4",
+        "italian": "Corte IV Camera 1.4",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030155",
+      "name": {
+        "german": "Abteilung IV Kammer 1.5",
+        "french": "Cour IV Chambre 1.5",
+        "italian": "Corte IV Camera 1.5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030161",
+      "name": {
+        "german": "Abteilung IV Kammer 1.7",
+        "french": "Cour VI Chambre 1.7",
+        "italian": "Corte VI Camera 1.7",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050503",
+      "name": {
+        "german": "Abteilung IV Kammer 1.6",
+        "french": "Cour IV Chambre 1.5",
+        "italian": "Corte IV Camera 1.5",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014851",
+      "label": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030176",
+      "label": {
+        "german": "Abteilung IV Kammer 1",
+        "french": "Cour IV Chambre 1",
+        "italian": "Corte IV Camera 1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV Kammer 1",
+        "french": "Cour IV Chambre 1",
+        "italian": "Corte IV Camera 1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

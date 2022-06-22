@@ -1,1 +1,173 @@
-{"id"=>"20028358", "name"=>{"german"=>"Marktregulierung", "french"=>"Régulation du marché", "italian"=>"Regolazione del mercato", "english"=>"Marktregulierung"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4789959", "surname"=>"Gysler", "givenName"=>"Matthias", "email"=>nil, "phone"=>"+41 58 46 25629", "function"=>{"german"=>"Leiter/in Marktregulierung / Stv. AEW", "french"=>"Leiter/in Marktregulierung / Stv. AEW", "italian"=>"Leiter/in Marktregulierung / Stv. AEW", "english"=>"Leiter/in Marktregulierung / Stv. AEW"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0338266", "surname"=>"Rütschi", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 25419", "function"=>{"german"=>"Fachspezialist/in Marktregulierung/Stv.", "french"=>"Fachspezialist/in Marktregulierung/Stv.", "italian"=>"Fachspezialist/in Marktregulierung/Stv.", "english"=>"Fachspezialist/in Marktregulierung/Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002561", "label"=>{"german"=>"Abteilung Energiewirtschaft", "french"=>"Division Economie énergétique", "italian"=>"Divisione Economia energetica", "english"=>""}, "name"=>{"german"=>"Abteilung Energiewirtschaft", "french"=>"Division Economie énergétique", "italian"=>"Divisione Economia energetica", "english"=>""}}, {"id"=>"20028358", "label"=>{"german"=>"Marktregulierung", "french"=>"Régulation du marché", "italian"=>"Regolazione del mercato", "english"=>"Marktregulierung"}, "name"=>{"german"=>"Marktregulierung", "french"=>"Régulation du marché", "italian"=>"Regolazione del mercato", "english"=>"Marktregulierung"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20028358",
+  "name": {
+    "german": "Marktregulierung",
+    "french": "Régulation du marché",
+    "italian": "Regolazione del mercato",
+    "english": "Marktregulierung"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4789959",
+      "surname": "Gysler",
+      "givenName": "Matthias",
+      "email": null,
+      "phone": "+41 58 46 25629",
+      "function": {
+        "german": "Leiter/in Marktregulierung / Stv. AEW",
+        "french": "Leiter/in Marktregulierung / Stv. AEW",
+        "italian": "Leiter/in Marktregulierung / Stv. AEW",
+        "english": "Leiter/in Marktregulierung / Stv. AEW"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0338266",
+      "surname": "Rütschi",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 25419",
+      "function": {
+        "german": "Fachspezialist/in Marktregulierung/Stv.",
+        "french": "Fachspezialist/in Marktregulierung/Stv.",
+        "italian": "Fachspezialist/in Marktregulierung/Stv.",
+        "english": "Fachspezialist/in Marktregulierung/Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002561",
+      "label": {
+        "german": "Abteilung Energiewirtschaft",
+        "french": "Division Economie énergétique",
+        "italian": "Divisione Economia energetica",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Energiewirtschaft",
+        "french": "Division Economie énergétique",
+        "italian": "Divisione Economia energetica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028358",
+      "label": {
+        "german": "Marktregulierung",
+        "french": "Régulation du marché",
+        "italian": "Regolazione del mercato",
+        "english": "Marktregulierung"
+      },
+      "name": {
+        "german": "Marktregulierung",
+        "french": "Régulation du marché",
+        "italian": "Regolazione del mercato",
+        "english": "Marktregulierung"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

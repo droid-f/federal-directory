@@ -1,1 +1,201 @@
-{"id"=>"10003748", "name"=>{"german"=>"Sprachdienst Italienisch", "french"=>"Service linguistique italien", "italian"=>"Servizio linguistico italiano", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 464 97 77", "fax"=>"+41 58 464 85 07", "email"=>"Sprachendienst-I@gs-vbs.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0999979", "surname"=>"Tamagni", "givenName"=>"Massimo", "email"=>nil, "phone"=>"+41 58 46 49777", "function"=>{"german"=>"Chefübersetzer/in ital", "french"=>"Chefübersetzer/in ital", "italian"=>"Chefübersetzer/in ital", "english"=>"Chefübersetzer/in ital"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2382580", "surname"=>"Haering", "givenName"=>"Michel", "email"=>nil, "phone"=>"+41 58 46 48825", "function"=>{"german"=>"Stv Chef/in / Gruppenchef/in", "french"=>"Stv Chef/in / Gruppenchef/in", "italian"=>"Stv Chef/in / Gruppenchef/in", "english"=>"Stv Chef/in / Gruppenchef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1Y0WBNTZD", "surname"=>"Saveliev", "givenName"=>"Pavel", "email"=>nil, "phone"=>"+41 58 46 53486", "function"=>{"german"=>"Uebersetzer/in ital", "french"=>"Uebersetzer/in ital", "italian"=>"Uebersetzer/in ital", "english"=>"Uebersetzer/in ital"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"10012587", "label"=>{"german"=>"Dienste GS-VBS", "french"=>"Services centraux du SG-DDPS", "italian"=>"Servizi centrali della SG-DDPS", "english"=>""}, "name"=>{"german"=>"Dienste GS-VBS", "french"=>"Services centraux du SG-DDPS", "italian"=>"Servizi centrali della SG-DDPS", "english"=>""}}, {"id"=>"10003748", "label"=>{"german"=>"Sprachdienst Italienisch", "french"=>"Service linguistique italien", "italian"=>"Servizio linguistico italiano", "english"=>""}, "name"=>{"german"=>"Sprachdienst Italienisch", "french"=>"Service linguistique italien", "italian"=>"Servizio linguistico italiano", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003748",
+  "name": {
+    "german": "Sprachdienst Italienisch",
+    "french": "Service linguistique italien",
+    "italian": "Servizio linguistico italiano",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 464 97 77",
+    "fax": "+41 58 464 85 07",
+    "email": "Sprachendienst-I@gs-vbs.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0999979",
+      "surname": "Tamagni",
+      "givenName": "Massimo",
+      "email": null,
+      "phone": "+41 58 46 49777",
+      "function": {
+        "german": "Chefübersetzer/in ital",
+        "french": "Chefübersetzer/in ital",
+        "italian": "Chefübersetzer/in ital",
+        "english": "Chefübersetzer/in ital"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2382580",
+      "surname": "Haering",
+      "givenName": "Michel",
+      "email": null,
+      "phone": "+41 58 46 48825",
+      "function": {
+        "german": "Stv Chef/in / Gruppenchef/in",
+        "french": "Stv Chef/in / Gruppenchef/in",
+        "italian": "Stv Chef/in / Gruppenchef/in",
+        "english": "Stv Chef/in / Gruppenchef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1Y0WBNTZD",
+      "surname": "Saveliev",
+      "givenName": "Pavel",
+      "email": null,
+      "phone": "+41 58 46 53486",
+      "function": {
+        "german": "Uebersetzer/in ital",
+        "french": "Uebersetzer/in ital",
+        "italian": "Uebersetzer/in ital",
+        "english": "Uebersetzer/in ital"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012587",
+      "label": {
+        "german": "Dienste GS-VBS",
+        "french": "Services centraux du SG-DDPS",
+        "italian": "Servizi centrali della SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienste GS-VBS",
+        "french": "Services centraux du SG-DDPS",
+        "italian": "Servizi centrali della SG-DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003748",
+      "label": {
+        "german": "Sprachdienst Italienisch",
+        "french": "Service linguistique italien",
+        "italian": "Servizio linguistico italiano",
+        "english": ""
+      },
+      "name": {
+        "german": "Sprachdienst Italienisch",
+        "french": "Service linguistique italien",
+        "italian": "Servizio linguistico italiano",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

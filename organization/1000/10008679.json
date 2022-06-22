@@ -1,1 +1,290 @@
-{"id"=>"10008679", "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}, "nameAbbr"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1B", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584625011", "fax"=>"", "email"=>"info@babs.admin.ch", "homepage"=>{"german"=>"www.babs.admin.ch", "french"=>"www.babs.admin.ch", "italian"=>"www.babs.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20045205", "name"=>{"german"=>"Kommunikation", "french"=>"Communication", "italian"=>"Comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"DIR/Stab Komm", "french"=>"DIR/Stab Komm", "italian"=>"DIR/Stab Komm", "english"=>""}}, {"id"=>"20045206", "name"=>{"german"=>"Risikogrundlagen und Forschungskoordination", "french"=>"Analyse des risques et coordination de la recherche", "italian"=>"Analisi dei rischi e coordinamento della ricerca", "english"=>""}, "nameAbbr"=>{"german"=>"DIR/Stab RIG", "french"=>"DIR/Stab RIG", "italian"=>"DIR/Stab RIG", "english"=>""}}, {"id"=>"10002922", "name"=>{"german"=>"Stab", "french"=>"État-major", "italian"=>"Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"DIR/Stab", "french"=>"DIR/Stab", "italian"=>"DIR/Stab", "english"=>""}}, {"id"=>"10002923", "name"=>{"german"=>"Zivilschutz", "french"=>"Protection civile", "italian"=>"Protezione civile", "english"=>""}, "nameAbbr"=>{"german"=>"ZS", "french"=>"ZS", "italian"=>"ZS", "english"=>""}}, {"id"=>"10006154", "name"=>{"german"=>"Labor Spiez", "french"=>"Laboratoire Spiez", "italian"=>"Laboratorio Spiez", "english"=>""}, "nameAbbr"=>{"german"=>"LS", "french"=>"LS", "italian"=>"LS", "english"=>""}}, {"id"=>"20005626", "name"=>{"german"=>"Nationale Alarmzentrale", "french"=>"Centrale nationale d'alarme", "italian"=>"Centrale nazionale d'allarme", "english"=>""}, "nameAbbr"=>{"german"=>"NAZ", "french"=>"NAZ", "italian"=>"NAZ", "english"=>""}}, {"id"=>"10002937", "name"=>{"german"=>"Ausbildung", "french"=>"Instruction", "italian"=>"Istruzione", "english"=>""}, "nameAbbr"=>{"german"=>"AUSB", "french"=>"AUSB", "italian"=>"AUSB", "english"=>""}}, {"id"=>"20050789", "name"=>{"german"=>"Zivilschutz und Ausbildung", "french"=>"Instruction", "italian"=>"Istruzione", "english"=>""}, "nameAbbr"=>{"german"=>"AUSB", "french"=>"AUSB", "italian"=>"AUSB", "english"=>""}}, {"id"=>"10002973", "name"=>{"german"=>"Telematik", "french"=>"Télématique", "italian"=>"Telematica", "english"=>""}, "nameAbbr"=>{"german"=>"TM", "french"=>"TM", "italian"=>"TM", "english"=>""}}, {"id"=>"10002911", "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "nameAbbr"=>{"german"=>"RES", "french"=>"RES", "italian"=>"RES", "english"=>""}}, {"id"=>"20050777", "name"=>{"german"=>"Strategie und Steuerung BevS", "french"=>"Strategie und Steuerung BevS", "italian"=>"Strategie und Steuerung BevS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050783", "name"=>{"german"=>"Programmmanagement", "french"=>"Télématique", "italian"=>"Telematica", "english"=>""}, "nameAbbr"=>{"german"=>"TM", "french"=>"TM", "italian"=>"TM", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0558482", "surname"=>"Schärer", "givenName"=>"Michaela", "email"=>nil, "phone"=>"+41 58 46 66767", "function"=>{"german"=>"Direktorin BABS", "french"=>"Directrice OFPP", "italian"=>"Direttrice UFPP", "english"=>"Direktorin BABS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10008679",
+  "name": {
+    "german": "Bundesamt für Bevölkerungsschutz",
+    "french": "Office fédéral de la protection de la population",
+    "italian": "Ufficio federale della protezione della popolazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BABS",
+    "french": "OFPP",
+    "italian": "UFPP",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1B",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584625011",
+    "fax": "",
+    "email": "info@babs.admin.ch",
+    "homepage": {
+      "german": "www.babs.admin.ch",
+      "french": "www.babs.admin.ch",
+      "italian": "www.babs.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20045205",
+      "name": {
+        "german": "Kommunikation",
+        "french": "Communication",
+        "italian": "Comunicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "DIR/Stab Komm",
+        "french": "DIR/Stab Komm",
+        "italian": "DIR/Stab Komm",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045206",
+      "name": {
+        "german": "Risikogrundlagen und Forschungskoordination",
+        "french": "Analyse des risques et coordination de la recherche",
+        "italian": "Analisi dei rischi e coordinamento della ricerca",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "DIR/Stab RIG",
+        "french": "DIR/Stab RIG",
+        "italian": "DIR/Stab RIG",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002922",
+      "name": {
+        "german": "Stab",
+        "french": "État-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "DIR/Stab",
+        "french": "DIR/Stab",
+        "italian": "DIR/Stab",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002923",
+      "name": {
+        "german": "Zivilschutz",
+        "french": "Protection civile",
+        "italian": "Protezione civile",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ZS",
+        "french": "ZS",
+        "italian": "ZS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006154",
+      "name": {
+        "german": "Labor Spiez",
+        "french": "Laboratoire Spiez",
+        "italian": "Laboratorio Spiez",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "LS",
+        "french": "LS",
+        "italian": "LS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005626",
+      "name": {
+        "german": "Nationale Alarmzentrale",
+        "french": "Centrale nationale d'alarme",
+        "italian": "Centrale nazionale d'allarme",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "NAZ",
+        "french": "NAZ",
+        "italian": "NAZ",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002937",
+      "name": {
+        "german": "Ausbildung",
+        "french": "Instruction",
+        "italian": "Istruzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "AUSB",
+        "french": "AUSB",
+        "italian": "AUSB",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050789",
+      "name": {
+        "german": "Zivilschutz und Ausbildung",
+        "french": "Instruction",
+        "italian": "Istruzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "AUSB",
+        "french": "AUSB",
+        "italian": "AUSB",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002973",
+      "name": {
+        "german": "Telematik",
+        "french": "Télématique",
+        "italian": "Telematica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TM",
+        "french": "TM",
+        "italian": "TM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002911",
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "RES",
+        "french": "RES",
+        "italian": "RES",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050777",
+      "name": {
+        "german": "Strategie und Steuerung BevS",
+        "french": "Strategie und Steuerung BevS",
+        "italian": "Strategie und Steuerung BevS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050783",
+      "name": {
+        "german": "Programmmanagement",
+        "french": "Télématique",
+        "italian": "Telematica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "TM",
+        "french": "TM",
+        "italian": "TM",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0558482",
+      "surname": "Schärer",
+      "givenName": "Michaela",
+      "email": null,
+      "phone": "+41 58 46 66767",
+      "function": {
+        "german": "Direktorin BABS",
+        "french": "Directrice OFPP",
+        "italian": "Direttrice UFPP",
+        "english": "Direktorin BABS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

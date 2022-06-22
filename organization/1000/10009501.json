@@ -1,1 +1,225 @@
-{"id"=>"10009501", "name"=>{"german"=>"Informatik Departement IDeco", "french"=>"Informatique départementale IDeco", "italian"=>"Informatica dipartimentale IDeco", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Theaterplatz 8", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9174968", "surname"=>"Laczko", "givenName"=>"Attila", "email"=>nil, "phone"=>"+41 58 46 35908", "function"=>{"german"=>"Leiter/in Informatik WBF", "french"=>"Chef/fe Informatique DEFR", "italian"=>"Capo Informatica DEFR", "english"=>"Leiter/in Informatik WBF"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4133407", "surname"=>"Hertach", "givenName"=>"Roger", "email"=>nil, "phone"=>"+41 58 46 42866", "function"=>{"german"=>"IT-Projekt-/Prozessmanagementbeauftragte/r WBF", "french"=>"Resp. gestion de projets/processus TIC DEFR", "italian"=>"Responsabile gestione dei progetti/processi IT DEFR", "english"=>"IT-Projekt-/Prozessmgmtbeauftragte/r WBF"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2676732", "surname"=>"Mosimann", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 18182", "function"=>{"german"=>"Projektleiter/in IKT-Projekte und Programme", "french"=>"Chef de projets TIC et programmes", "italian"=>"Responsabile progetti TIC e programmi", "english"=>"Projektleiter/in IKT-Projekte u.Programm"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5086461", "surname"=>"Nyfeler", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 92615", "function"=>{"german"=>"Informatiksicherheitsbeauftragte/r WBF/Integrationsmanager/in GS", "french"=>"Resp.sécurité informatique départementale / Integration Manager SG-DEFR", "italian"=>"Responsabile sicurezza informatica DEFR, Manager integrazione SG", "english"=>"ISBD WBF / IM GS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3951575", "surname"=>"Schuster", "givenName"=>"Deborah", "email"=>nil, "phone"=>"+41 58 46 20721", "function"=>{"german"=>"Informatikassistent/in", "french"=>"Assistant/e informatique", "italian"=>"Assistente informatico/a", "english"=>"Informatikassistent/in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5596272", "surname"=>"Zosso", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 24452", "function"=>{"german"=>"Service Manager/in WBF", "french"=>"Service Manager DEFR", "italian"=>"Service Manager DEFR", "english"=>"Service Manager/in WBF"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10002651", "label"=>{"german"=>"GS-WBF", "french"=>"GS-WBF", "italian"=>"GS-WBF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général du DEFR", "italian"=>"Segreteria generale DEFR", "english"=>""}}, {"id"=>"10008655", "label"=>{"german"=>"GS-WBF", "french"=>"SG-DEFR", "italian"=>"SG-DEFR", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général SG-DEFR", "italian"=>"Segreteria generale SG-DEFR", "english"=>""}}, {"id"=>"10002661", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10009501", "label"=>{"german"=>"Informatik Departement IDeco", "french"=>"Informatique départementale IDeco", "italian"=>"Informatica dipartimentale IDeco", "english"=>""}, "name"=>{"german"=>"Informatik Departement IDeco", "french"=>"Informatique départementale IDeco", "italian"=>"Informatica dipartimentale IDeco", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009501",
+  "name": {
+    "german": "Informatik Departement IDeco",
+    "french": "Informatique départementale IDeco",
+    "italian": "Informatica dipartimentale IDeco",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Theaterplatz 8",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9174968",
+      "surname": "Laczko",
+      "givenName": "Attila",
+      "email": null,
+      "phone": "+41 58 46 35908",
+      "function": {
+        "german": "Leiter/in Informatik WBF",
+        "french": "Chef/fe Informatique DEFR",
+        "italian": "Capo Informatica DEFR",
+        "english": "Leiter/in Informatik WBF"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4133407",
+      "surname": "Hertach",
+      "givenName": "Roger",
+      "email": null,
+      "phone": "+41 58 46 42866",
+      "function": {
+        "german": "IT-Projekt-/Prozessmanagementbeauftragte/r WBF",
+        "french": "Resp. gestion de projets/processus TIC DEFR",
+        "italian": "Responsabile gestione dei progetti/processi IT DEFR",
+        "english": "IT-Projekt-/Prozessmgmtbeauftragte/r WBF"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2676732",
+      "surname": "Mosimann",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 18182",
+      "function": {
+        "german": "Projektleiter/in IKT-Projekte und Programme",
+        "french": "Chef de projets TIC et programmes",
+        "italian": "Responsabile progetti TIC e programmi",
+        "english": "Projektleiter/in IKT-Projekte u.Programm"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5086461",
+      "surname": "Nyfeler",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 92615",
+      "function": {
+        "german": "Informatiksicherheitsbeauftragte/r WBF/Integrationsmanager/in GS",
+        "french": "Resp.sécurité informatique départementale / Integration Manager SG-DEFR",
+        "italian": "Responsabile sicurezza informatica DEFR, Manager integrazione SG",
+        "english": "ISBD WBF / IM GS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3951575",
+      "surname": "Schuster",
+      "givenName": "Deborah",
+      "email": null,
+      "phone": "+41 58 46 20721",
+      "function": {
+        "german": "Informatikassistent/in",
+        "french": "Assistant/e informatique",
+        "italian": "Assistente informatico/a",
+        "english": "Informatikassistent/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5596272",
+      "surname": "Zosso",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 24452",
+      "function": {
+        "german": "Service Manager/in WBF",
+        "french": "Service Manager DEFR",
+        "italian": "Service Manager DEFR",
+        "english": "Service Manager/in WBF"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002651",
+      "label": {
+        "german": "GS-WBF",
+        "french": "GS-WBF",
+        "italian": "GS-WBF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général du DEFR",
+        "italian": "Segreteria generale DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008655",
+      "label": {
+        "german": "GS-WBF",
+        "french": "SG-DEFR",
+        "italian": "SG-DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général SG-DEFR",
+        "italian": "Segreteria generale SG-DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002661",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009501",
+      "label": {
+        "german": "Informatik Departement IDeco",
+        "french": "Informatique départementale IDeco",
+        "italian": "Informatica dipartimentale IDeco",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik Departement IDeco",
+        "french": "Informatique départementale IDeco",
+        "italian": "Informatica dipartimentale IDeco",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

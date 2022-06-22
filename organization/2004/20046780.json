@@ -1,1 +1,154 @@
-{"id"=>"20046780", "name"=>{"german"=>"Strategie/Stab", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2576739", "surname"=>"Abächerli", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 50631", "function"=>{"german"=>"Verantwortliche/r Strategie Führungsunt", "french"=>"Verantwortliche/r Strategie Führungsunt", "italian"=>"Verantwortliche/r Strategie Führungsunt", "english"=>"Verantwortliche/r Strategie Führungsunt"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8844118", "surname"=>"Signer", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 48 42885", "function"=>{"german"=>"Spezialist/in Strategie Kommunikation", "french"=>"Spezialist/in Strategie Kommunikation", "italian"=>"Spezialist/in Strategie Kommunikation", "english"=>"Spezialist/in Strategie Kommunikation"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003740", "label"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}, "name"=>{"german"=>"Kommunikation VBS und GS VBS", "french"=>"Communication DDPS et SG DDPS", "italian"=>"Comunicazione DDPS e SG DDPS", "english"=>""}}, {"id"=>"20046780", "label"=>{"german"=>"Strategie/Stab", "french"=>"Information", "italian"=>"Informazione", "english"=>""}, "name"=>{"german"=>"Strategie/Stab", "french"=>"Information", "italian"=>"Informazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20046780",
+  "name": {
+    "german": "Strategie/Stab",
+    "french": "Information",
+    "italian": "Informazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2576739",
+      "surname": "Abächerli",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 50631",
+      "function": {
+        "german": "Verantwortliche/r Strategie Führungsunt",
+        "french": "Verantwortliche/r Strategie Führungsunt",
+        "italian": "Verantwortliche/r Strategie Führungsunt",
+        "english": "Verantwortliche/r Strategie Führungsunt"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8844118",
+      "surname": "Signer",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 48 42885",
+      "function": {
+        "german": "Spezialist/in Strategie Kommunikation",
+        "french": "Spezialist/in Strategie Kommunikation",
+        "italian": "Spezialist/in Strategie Kommunikation",
+        "english": "Spezialist/in Strategie Kommunikation"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003740",
+      "label": {
+        "german": "Kommunikation VBS und GS VBS",
+        "french": "Communication DDPS et SG DDPS",
+        "italian": "Comunicazione DDPS e SG DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommunikation VBS und GS VBS",
+        "french": "Communication DDPS et SG DDPS",
+        "italian": "Comunicazione DDPS e SG DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046780",
+      "label": {
+        "german": "Strategie/Stab",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Strategie/Stab",
+        "french": "Information",
+        "italian": "Informazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

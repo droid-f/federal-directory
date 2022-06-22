@@ -1,1 +1,155 @@
-{"id"=>"20024488", "name"=>{"german"=>"Sektion CO2-Abgabe und Emissionshandel", "french"=>"Taxe sur le CO2 et échange de quotas d‘émission", "italian"=>"Tassa sul CO2 e scambio di emissioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 68", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008758", "label"=>{"german"=>"BAFU", "french"=>"OFEV", "italian"=>"UFAM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Umwelt BAFU", "french"=>"Office fédéral de l'environnement OFEV", "italian"=>"Ufficio federale dell'ambiente UFAM", "english"=>""}}, {"id"=>"10002704", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20035876", "label"=>{"german"=>"Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)", "french"=>"Affaires internationales / Communication", "italian"=>"Affari internazionali / Comunicazione", "english"=>""}, "name"=>{"german"=>"Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)", "french"=>"Affaires internationales / Communication", "italian"=>"Affari internazionali / Comunicazione", "english"=>""}}, {"id"=>"20024480", "label"=>{"german"=>"Abteilung Klima", "french"=>"Division Climat", "italian"=>"Divisione Clima", "english"=>""}, "name"=>{"german"=>"Abteilung Klima", "french"=>"Division Climat", "italian"=>"Divisione Clima", "english"=>""}}, {"id"=>"20024488", "label"=>{"german"=>"Sektion CO2-Abgabe und Emissionshandel", "french"=>"Taxe sur le CO2 et échange de quotas d‘émission", "italian"=>"Tassa sul CO2 e scambio di emissioni", "english"=>""}, "name"=>{"german"=>"Sektion CO2-Abgabe und Emissionshandel", "french"=>"Taxe sur le CO2 et échange de quotas d‘émission", "italian"=>"Tassa sul CO2 e scambio di emissioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20024488",
+  "name": {
+    "german": "Sektion CO2-Abgabe und Emissionshandel",
+    "french": "Taxe sur le CO2 et échange de quotas d‘émission",
+    "italian": "Tassa sul CO2 e scambio di emissioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 68",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008758",
+      "label": {
+        "german": "BAFU",
+        "french": "OFEV",
+        "italian": "UFAM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Umwelt BAFU",
+        "french": "Office fédéral de l'environnement OFEV",
+        "italian": "Ufficio federale dell'ambiente UFAM",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002704",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035876",
+      "label": {
+        "german": "Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)",
+        "french": "Affaires internationales / Communication",
+        "italian": "Affari internazionali / Comunicazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich (Klima, Kommunikation, Politische Geschäfte, Administration & Support Direktion)",
+        "french": "Affaires internationales / Communication",
+        "italian": "Affari internazionali / Comunicazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024480",
+      "label": {
+        "german": "Abteilung Klima",
+        "french": "Division Climat",
+        "italian": "Divisione Clima",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Klima",
+        "french": "Division Climat",
+        "italian": "Divisione Clima",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024488",
+      "label": {
+        "german": "Sektion CO2-Abgabe und Emissionshandel",
+        "french": "Taxe sur le CO2 et échange de quotas d‘émission",
+        "italian": "Tassa sul CO2 e scambio di emissioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion CO2-Abgabe und Emissionshandel",
+        "french": "Taxe sur le CO2 et échange de quotas d‘émission",
+        "italian": "Tassa sul CO2 e scambio di emissioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

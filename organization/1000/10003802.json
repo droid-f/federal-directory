@@ -1,1 +1,173 @@
-{"id"=>"10003802", "name"=>{"german"=>"Sprachen", "french"=>"Service linguistique", "italian"=>"Servizi linguistici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8931796", "surname"=>"Liengme", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 76588", "function"=>{"german"=>"Leiter/in Sprachen f", "french"=>"Leiter/in Sprachen f", "italian"=>"Leiter/in Sprachen f", "english"=>"Leiter/in Sprachen f"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7988187", "surname"=>"Poma", "givenName"=>"Cristina", "email"=>nil, "phone"=>"+41 58 46 05390", "function"=>{"german"=>"Leiter/in Sprachen i", "french"=>"Leiter/in Sprachen i", "italian"=>"Leiter/in Sprachen i", "english"=>"Leiter/in Sprachen i"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003800", "label"=>{"german"=>"Sportpolitik und Ressourcen", "french"=>"Politique du sport et ressources internes", "italian"=>"Politica dello sport e risorse interne", "english"=>""}, "name"=>{"german"=>"Sportpolitik und Ressourcen", "french"=>"Politique du sport et ressources internes", "italian"=>"Politica dello sport e risorse interne", "english"=>""}}, {"id"=>"20047578", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources internes", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources internes", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10003802", "label"=>{"german"=>"Sprachen", "french"=>"Service linguistique", "italian"=>"Servizi linguistici", "english"=>""}, "name"=>{"german"=>"Sprachen", "french"=>"Service linguistique", "italian"=>"Servizi linguistici", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003802",
+  "name": {
+    "german": "Sprachen",
+    "french": "Service linguistique",
+    "italian": "Servizi linguistici",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8931796",
+      "surname": "Liengme",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 76588",
+      "function": {
+        "german": "Leiter/in Sprachen f",
+        "french": "Leiter/in Sprachen f",
+        "italian": "Leiter/in Sprachen f",
+        "english": "Leiter/in Sprachen f"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7988187",
+      "surname": "Poma",
+      "givenName": "Cristina",
+      "email": null,
+      "phone": "+41 58 46 05390",
+      "function": {
+        "german": "Leiter/in Sprachen i",
+        "french": "Leiter/in Sprachen i",
+        "italian": "Leiter/in Sprachen i",
+        "english": "Leiter/in Sprachen i"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003800",
+      "label": {
+        "german": "Sportpolitik und Ressourcen",
+        "french": "Politique du sport et ressources internes",
+        "italian": "Politica dello sport e risorse interne",
+        "english": ""
+      },
+      "name": {
+        "german": "Sportpolitik und Ressourcen",
+        "french": "Politique du sport et ressources internes",
+        "italian": "Politica dello sport e risorse interne",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047578",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources internes",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources internes",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003802",
+      "label": {
+        "german": "Sprachen",
+        "french": "Service linguistique",
+        "italian": "Servizi linguistici",
+        "english": ""
+      },
+      "name": {
+        "german": "Sprachen",
+        "french": "Service linguistique",
+        "italian": "Servizi linguistici",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

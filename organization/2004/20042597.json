@@ -1,1 +1,214 @@
-{"id"=>"20042597", "name"=>{"german"=>"Kommandant Stv Rekr Zen Monteceneri", "french"=>"Rempl commandant Cen recr Mte Ceneri", "italian"=>"Sost cdt Cen recl Monteceneri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Caserna 4", "postalCode"=>"6802", "location"=>"Monteceneri/Rivera", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20028601", "name"=>{"german"=>"Med tech Assistenten Rekr Zen Mte Ceneri", "french"=>"Assistants tech méd Cen recr Mte Ceneri", "italian"=>"Assistenti med tecn Cen recl Mte Ceneri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20031203", "name"=>{"german"=>"Sportexperten Rekr Zen Monteceneri", "french"=>"Experts sportifs Cen recr Mte Ceneri", "italian"=>"Esperti sport Cen recl Monteceneri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"10004760", "label"=>{"german"=>"PERSA", "french"=>"PERSA", "italian"=>"PERSA", "english"=>""}, "name"=>{"german"=>"Personelles der Armee", "french"=>"Personnel de l'armée", "italian"=>"Personale dell'esercito", "english"=>""}}, {"id"=>"10004767", "label"=>{"german"=>"Rekrutierung", "french"=>"Recrutement", "italian"=>"Reclutamento", "english"=>""}, "name"=>{"german"=>"Rekrutierung", "french"=>"Recrutement", "italian"=>"Reclutamento", "english"=>""}}, {"id"=>"20000301", "label"=>{"german"=>"Rekrutierungszentrum Monteceneri", "french"=>"Centre de recrutement Monteceneri", "italian"=>"Centro di reclutamento Monteceneri", "english"=>""}, "name"=>{"german"=>"Rekrutierungszentrum Monteceneri", "french"=>"Centre de recrutement Monteceneri", "italian"=>"Centro di reclutamento Monteceneri", "english"=>""}}, {"id"=>"20042597", "label"=>{"german"=>"Kommandant Stv Rekr Zen Monteceneri", "french"=>"Rempl commandant Cen recr Mte Ceneri", "italian"=>"Sost cdt Cen recl Monteceneri", "english"=>""}, "name"=>{"german"=>"Kommandant Stv Rekr Zen Monteceneri", "french"=>"Rempl commandant Cen recr Mte Ceneri", "italian"=>"Sost cdt Cen recl Monteceneri", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042597",
+  "name": {
+    "german": "Kommandant Stv Rekr Zen Monteceneri",
+    "french": "Rempl commandant Cen recr Mte Ceneri",
+    "italian": "Sost cdt Cen recl Monteceneri",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Caserna 4",
+    "postalCode": "6802",
+    "location": "Monteceneri/Rivera",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20028601",
+      "name": {
+        "german": "Med tech Assistenten Rekr Zen Mte Ceneri",
+        "french": "Assistants tech méd Cen recr Mte Ceneri",
+        "italian": "Assistenti med tecn Cen recl Mte Ceneri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031203",
+      "name": {
+        "german": "Sportexperten Rekr Zen Monteceneri",
+        "french": "Experts sportifs Cen recr Mte Ceneri",
+        "italian": "Esperti sport Cen recl Monteceneri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004760",
+      "label": {
+        "german": "PERSA",
+        "french": "PERSA",
+        "italian": "PERSA",
+        "english": ""
+      },
+      "name": {
+        "german": "Personelles der Armee",
+        "french": "Personnel de l'armée",
+        "italian": "Personale dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004767",
+      "label": {
+        "german": "Rekrutierung",
+        "french": "Recrutement",
+        "italian": "Reclutamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Rekrutierung",
+        "french": "Recrutement",
+        "italian": "Reclutamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000301",
+      "label": {
+        "german": "Rekrutierungszentrum Monteceneri",
+        "french": "Centre de recrutement Monteceneri",
+        "italian": "Centro di reclutamento Monteceneri",
+        "english": ""
+      },
+      "name": {
+        "german": "Rekrutierungszentrum Monteceneri",
+        "french": "Centre de recrutement Monteceneri",
+        "italian": "Centro di reclutamento Monteceneri",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042597",
+      "label": {
+        "german": "Kommandant Stv Rekr Zen Monteceneri",
+        "french": "Rempl commandant Cen recr Mte Ceneri",
+        "italian": "Sost cdt Cen recl Monteceneri",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommandant Stv Rekr Zen Monteceneri",
+        "french": "Rempl commandant Cen recr Mte Ceneri",
+        "italian": "Sost cdt Cen recl Monteceneri",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

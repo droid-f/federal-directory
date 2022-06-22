@@ -1,1 +1,125 @@
-{"id"=>"20050786", "name"=>{"german"=>"SDVN+", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e gestione", "english"=>""}, "nameAbbr"=>{"german"=>"TM/PuS", "french"=>"TM/PuS", "italian"=>"TM/PuS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1B", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"20050783", "label"=>{"german"=>"TM", "french"=>"TM", "italian"=>"TM", "english"=>""}, "name"=>{"german"=>"Programmmanagement", "french"=>"Télématique", "italian"=>"Telematica", "english"=>""}}, {"id"=>"20050786", "label"=>{"german"=>"TM/PuS", "french"=>"TM/PuS", "italian"=>"TM/PuS", "english"=>""}, "name"=>{"german"=>"SDVN+", "french"=>"Planification et pilotage", "italian"=>"Pianificazione e gestione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050786",
+  "name": {
+    "german": "SDVN+",
+    "french": "Planification et pilotage",
+    "italian": "Pianificazione e gestione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "TM/PuS",
+    "french": "TM/PuS",
+    "italian": "TM/PuS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1B",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050783",
+      "label": {
+        "german": "TM",
+        "french": "TM",
+        "italian": "TM",
+        "english": ""
+      },
+      "name": {
+        "german": "Programmmanagement",
+        "french": "Télématique",
+        "italian": "Telematica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050786",
+      "label": {
+        "german": "TM/PuS",
+        "french": "TM/PuS",
+        "italian": "TM/PuS",
+        "english": ""
+      },
+      "name": {
+        "german": "SDVN+",
+        "french": "Planification et pilotage",
+        "italian": "Pianificazione e gestione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,156 @@
-{"id"=>"20022178", "name"=>{"german"=>"Operatives HR", "french"=>"RH operativ", "italian"=>"RU operativo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 65", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4980023", "surname"=>"Brüllhardt", "givenName"=>"Patrick", "email"=>nil, "phone"=>"+41 58 46 27121", "function"=>{"german"=>"Leiter/in operatives HR / Stv. HR Leiter", "french"=>"Leiter/in operatives HR / Stv. HR Leiter", "italian"=>"Leiter/in operatives HR / Stv. HR Leiter", "english"=>"Leiter/in operatives HR / Stv. HR Leiter"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008668", "label"=>{"german"=>"ESTV", "french"=>"AFC", "italian"=>"AFC", "english"=>""}, "name"=>{"german"=>"Eidgenössische Steuerverwaltung", "french"=>"Administration fédérale des contributions", "italian"=>"Amministrazione federale delle contribuzioni", "english"=>""}}, {"id"=>"10006258", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10006261", "label"=>{"german"=>"Human Resources HR", "french"=>"Ressources humaines RH", "italian"=>"Risorse umane RU", "english"=>""}, "name"=>{"german"=>"Human Resources HR", "french"=>"Ressources humaines RH", "italian"=>"Risorse umane RU", "english"=>""}}, {"id"=>"20022178", "label"=>{"german"=>"Operatives HR", "french"=>"RH operativ", "italian"=>"RU operativo", "english"=>""}, "name"=>{"german"=>"Operatives HR", "french"=>"RH operativ", "italian"=>"RU operativo", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20022178",
+  "name": {
+    "german": "Operatives HR",
+    "french": "RH operativ",
+    "italian": "RU operativo",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 65",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4980023",
+      "surname": "Brüllhardt",
+      "givenName": "Patrick",
+      "email": null,
+      "phone": "+41 58 46 27121",
+      "function": {
+        "german": "Leiter/in operatives HR / Stv. HR Leiter",
+        "french": "Leiter/in operatives HR / Stv. HR Leiter",
+        "italian": "Leiter/in operatives HR / Stv. HR Leiter",
+        "english": "Leiter/in operatives HR / Stv. HR Leiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008668",
+      "label": {
+        "german": "ESTV",
+        "french": "AFC",
+        "italian": "AFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Steuerverwaltung",
+        "french": "Administration fédérale des contributions",
+        "italian": "Amministrazione federale delle contribuzioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006258",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006261",
+      "label": {
+        "german": "Human Resources HR",
+        "french": "Ressources humaines RH",
+        "italian": "Risorse umane RU",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources HR",
+        "french": "Ressources humaines RH",
+        "italian": "Risorse umane RU",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022178",
+      "label": {
+        "german": "Operatives HR",
+        "french": "RH operativ",
+        "italian": "RU operativo",
+        "english": ""
+      },
+      "name": {
+        "german": "Operatives HR",
+        "french": "RH operativ",
+        "italian": "RU operativo",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

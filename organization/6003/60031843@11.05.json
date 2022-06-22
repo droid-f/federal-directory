@@ -1,1 +1,199 @@
-{"id"=>"60031843@11.05", "name"=>{"german"=>"QSSE", "french"=>"QSSE", "italian"=>"QSSE", "english"=>""}, "nameAbbr"=>{"german"=>"BATBE", "french"=>"BATBE", "italian"=>"BATBE", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seetalstrasse", "postalCode"=>"6032", "location"=>"Emmen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"60032048@11.05", "name"=>{"german"=>"Quality", "french"=>"Quality", "italian"=>"Quality", "english"=>""}, "nameAbbr"=>{"german"=>"BATBEA", "french"=>"BATBEA", "italian"=>"BATBEA", "english"=>""}}, {"id"=>"60032049@11.05", "name"=>{"german"=>"Safety, Security & Environment", "french"=>"Safety, Security & Environment", "italian"=>"Safety, Security & Environment", "english"=>""}, "nameAbbr"=>{"german"=>"BATBEB", "french"=>"BATBEB", "italian"=>"BATBEB", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"60028959@11.05", "label"=>{"german"=>"BGRB", "french"=>"BGRB", "italian"=>"BGRB", "english"=>""}, "name"=>{"german"=>"BGRB Holding AG", "french"=>"BGRB Holding AG", "italian"=>"BGRB Holding AG", "english"=>""}}, {"id"=>"60028960@11.05", "label"=>{"german"=>"RUAGH", "french"=>"RUAGH", "italian"=>"RUAGH", "english"=>""}, "name"=>{"german"=>"RUAG MRO Holding AG", "french"=>"RUAG MRO Holding AG", "italian"=>"RUAG MRO Holding AG", "english"=>""}}, {"id"=>"60031748@11.05", "label"=>{"german"=>"RUAG", "french"=>"RUAG", "italian"=>"RUAG", "english"=>""}, "name"=>{"german"=>"RUAG AG", "french"=>"RUAG AG", "italian"=>"RUAG AG", "english"=>""}}, {"id"=>"60031752@11.05", "label"=>{"german"=>"BAT", "french"=>"BAT", "italian"=>"BAT", "english"=>""}, "name"=>{"german"=>"Business Area Technology & Services", "french"=>"Business Area Technology & Services", "italian"=>"Business Area Technology & Services", "english"=>""}}, {"id"=>"60031772@11.05", "label"=>{"german"=>"BATB", "french"=>"BATB", "italian"=>"BATB", "english"=>""}, "name"=>{"german"=>"Business Services & QSSE", "french"=>"Business Services & QSSE", "italian"=>"Business Services & QSSE", "english"=>""}}, {"id"=>"60031843@11.05", "label"=>{"german"=>"BATBE", "french"=>"BATBE", "italian"=>"BATBE", "english"=>""}, "name"=>{"german"=>"QSSE", "french"=>"QSSE", "italian"=>"QSSE", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "60031843@11.05",
+  "name": {
+    "german": "QSSE",
+    "french": "QSSE",
+    "italian": "QSSE",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "BATBE",
+    "french": "BATBE",
+    "italian": "BATBE",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seetalstrasse",
+    "postalCode": "6032",
+    "location": "Emmen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "60032048@11.05",
+      "name": {
+        "german": "Quality",
+        "french": "Quality",
+        "italian": "Quality",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BATBEA",
+        "french": "BATBEA",
+        "italian": "BATBEA",
+        "english": ""
+      }
+    },
+    {
+      "id": "60032049@11.05",
+      "name": {
+        "german": "Safety, Security & Environment",
+        "french": "Safety, Security & Environment",
+        "italian": "Safety, Security & Environment",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "BATBEB",
+        "french": "BATBEB",
+        "italian": "BATBEB",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028959@11.05",
+      "label": {
+        "german": "BGRB",
+        "french": "BGRB",
+        "italian": "BGRB",
+        "english": ""
+      },
+      "name": {
+        "german": "BGRB Holding AG",
+        "french": "BGRB Holding AG",
+        "italian": "BGRB Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60028960@11.05",
+      "label": {
+        "german": "RUAGH",
+        "french": "RUAGH",
+        "italian": "RUAGH",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG MRO Holding AG",
+        "french": "RUAG MRO Holding AG",
+        "italian": "RUAG MRO Holding AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031748@11.05",
+      "label": {
+        "german": "RUAG",
+        "french": "RUAG",
+        "italian": "RUAG",
+        "english": ""
+      },
+      "name": {
+        "german": "RUAG AG",
+        "french": "RUAG AG",
+        "italian": "RUAG AG",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031752@11.05",
+      "label": {
+        "german": "BAT",
+        "french": "BAT",
+        "italian": "BAT",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Area Technology & Services",
+        "french": "Business Area Technology & Services",
+        "italian": "Business Area Technology & Services",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031772@11.05",
+      "label": {
+        "german": "BATB",
+        "french": "BATB",
+        "italian": "BATB",
+        "english": ""
+      },
+      "name": {
+        "german": "Business Services & QSSE",
+        "french": "Business Services & QSSE",
+        "italian": "Business Services & QSSE",
+        "english": ""
+      }
+    },
+    {
+      "id": "60031843@11.05",
+      "label": {
+        "german": "BATBE",
+        "french": "BATBE",
+        "italian": "BATBE",
+        "english": ""
+      },
+      "name": {
+        "german": "QSSE",
+        "french": "QSSE",
+        "italian": "QSSE",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

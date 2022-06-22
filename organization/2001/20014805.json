@@ -1,1 +1,153 @@
-{"id"=>"20014805", "name"=>{"german"=>"Stv. Generalsekretär/in", "french"=>"Suppl. Secrétaire général/e", "italian"=>"Suppl. Segretario/a generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042906", "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique et chancellerie", "italian"=>"Servizio giuridico e cancelleria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014810", "name"=>{"german"=>"Zentrale Kanzlei", "french"=>"Chancellerie centrale", "italian"=>"Cancelleria centrale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6571318", "surname"=>"Fasel", "givenName"=>"Bernhard", "email"=>nil, "phone"=>"+41 58 46 52990", "function"=>{"german"=>"Stv. Generalsekretär/in", "french"=>"Suppléant/e Secrétaire genéral/e", "italian"=>"Sostituta/o Segretaria/o generale", "english"=>"Stv. Generalsekretär/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5575423", "surname"=>"Hollenstein-D'Alessio", "givenName"=>"Sabina", "email"=>nil, "phone"=>"+41 58 46 52937", "function"=>{"german"=>"Leiter/in Zentrale Kanzlei", "french"=>"Responsable Chancellerie centrale", "italian"=>"Responsabile Cancelleria centrale", "english"=>"Leiter/in Zentrale Kanzlei"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20010731", "label"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}}, {"id"=>"20014805", "label"=>{"german"=>"Stv. Generalsekretär/in", "french"=>"Suppl. Secrétaire général/e", "italian"=>"Suppl. Segretario/a generale", "english"=>""}, "name"=>{"german"=>"Stv. Generalsekretär/in", "french"=>"Suppl. Secrétaire général/e", "italian"=>"Suppl. Segretario/a generale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014805",
+  "name": {
+    "german": "Stv. Generalsekretär/in",
+    "french": "Suppl. Secrétaire général/e",
+    "italian": "Suppl. Segretario/a generale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042906",
+      "name": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique et chancellerie",
+        "italian": "Servizio giuridico e cancelleria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014810",
+      "name": {
+        "german": "Zentrale Kanzlei",
+        "french": "Chancellerie centrale",
+        "italian": "Cancelleria centrale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6571318",
+      "surname": "Fasel",
+      "givenName": "Bernhard",
+      "email": null,
+      "phone": "+41 58 46 52990",
+      "function": {
+        "german": "Stv. Generalsekretär/in",
+        "french": "Suppléant/e Secrétaire genéral/e",
+        "italian": "Sostituta/o Segretaria/o generale",
+        "english": "Stv. Generalsekretär/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5575423",
+      "surname": "Hollenstein-D'Alessio",
+      "givenName": "Sabina",
+      "email": null,
+      "phone": "+41 58 46 52937",
+      "function": {
+        "german": "Leiter/in Zentrale Kanzlei",
+        "french": "Responsable Chancellerie centrale",
+        "italian": "Responsabile Cancelleria centrale",
+        "english": "Leiter/in Zentrale Kanzlei"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010731",
+      "label": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014805",
+      "label": {
+        "german": "Stv. Generalsekretär/in",
+        "french": "Suppl. Secrétaire général/e",
+        "italian": "Suppl. Segretario/a generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Stv. Generalsekretär/in",
+        "french": "Suppl. Secrétaire général/e",
+        "italian": "Suppl. Segretario/a generale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

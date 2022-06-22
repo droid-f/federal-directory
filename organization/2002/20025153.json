@@ -1,1 +1,138 @@
-{"id"=>"20025153", "name"=>{"german"=>"Dienst für Informatik", "french"=>"Service informatique", "italian"=>"Servizio informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Dorigny", "postalCode"=>"1015", "location"=>"Lausanne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-9017823", "surname"=>"Rey", "givenName"=>"Dominique", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Verantwortlicher IT", "french"=>"Responsable informatique", "italian"=>"Responsabile informatico", "english"=>"Verantwortlicher IT"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008750", "label"=>{"german"=>"SIR", "french"=>"ISDC", "italian"=>"ISDC", "english"=>""}, "name"=>{"german"=>"Schweizerisches Institut für Rechtsvergleichung", "french"=>"Institut suisse de droit comparé", "italian"=>"Istituto svizzero di diritto comparato", "english"=>""}}, {"id"=>"10006250", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20025153", "label"=>{"german"=>"Dienst für Informatik", "french"=>"Service informatique", "italian"=>"Servizio informatica", "english"=>""}, "name"=>{"german"=>"Dienst für Informatik", "french"=>"Service informatique", "italian"=>"Servizio informatica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025153",
+  "name": {
+    "german": "Dienst für Informatik",
+    "french": "Service informatique",
+    "italian": "Servizio informatica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Dorigny",
+    "postalCode": "1015",
+    "location": "Lausanne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-9017823",
+      "surname": "Rey",
+      "givenName": "Dominique",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Verantwortlicher IT",
+        "french": "Responsable informatique",
+        "italian": "Responsabile informatico",
+        "english": "Verantwortlicher IT"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008750",
+      "label": {
+        "german": "SIR",
+        "french": "ISDC",
+        "italian": "ISDC",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Institut für Rechtsvergleichung",
+        "french": "Institut suisse de droit comparé",
+        "italian": "Istituto svizzero di diritto comparato",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006250",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025153",
+      "label": {
+        "german": "Dienst für Informatik",
+        "french": "Service informatique",
+        "italian": "Servizio informatica",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst für Informatik",
+        "french": "Service informatique",
+        "italian": "Servizio informatica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,279 @@
-{"id"=>"10009283", "name"=>{"german"=>"Direktionsbereich Ressourcenmanagement & Strategie", "french"=>"Domaine de direction gestion des ressources et stratégie", "italian"=>"Ambito direzionale gestione delle risorse e strategia", "english"=>""}, "nameAbbr"=>{"german"=>"RMS", "french"=>"GRS", "italian"=>"GRS", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584639369", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20016752", "name"=>{"german"=>"Stab RMS", "french"=>"État-major GRS", "italian"=>"Stato maggiore GRS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009289", "name"=>{"german"=>"Abteilung Finanzen Beschaffung Controlling", "french"=>"Division Finances, acquisitions et controlling", "italian"=>"Divisione Finanze, acquisti e controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009297", "name"=>{"german"=>"Abteilung Infrastruktur, Betrieb & Services", "french"=>"Division infrastructure, exploitation et services", "italian"=>"Divisione infrastruttura, esercizio e servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20016753", "name"=>{"german"=>"Abteilung Unternehmensentwicklung", "french"=>"Division développement de l'entreprise", "italian"=>"Divisione sviluppo aziendale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009286", "name"=>{"german"=>"Bereich Personalmanagement", "french"=>"Domaine gestion des ressources humaines", "italian"=>"Settore gestione delle risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021401", "name"=>{"german"=>"Bereich Psychologischer Fachdienst", "french"=>"Service psychologique", "italian"=>"Servizio psicologico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046664", "name"=>{"german"=>"Bereich IKT Management", "french"=>"Service TI et gestion de l'intégration", "italian"=>"Servizio IT e integration management", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7124672", "surname"=>"Wildi-Cortés", "givenName"=>"Eva Isabel", "email"=>nil, "phone"=>"+41 58 46 20524", "function"=>{"german"=>"Stv Direktor/in / Chef/in RMS", "french"=>"Stv Direktor/in / Chef/in RMS", "italian"=>"Stv Direktor/in / Chef/in RMS", "english"=>"Stv Direktor/in / Chef/in RMS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4124476", "surname"=>"Odermatt", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 46 21718", "function"=>{"german"=>"Stv Chef/in RMS / Stabschef/in RMS", "french"=>"Stv Chef/in RMS / Stabschef/in RMS", "italian"=>"Stv Chef/in RMS / Stabschef/in RMS", "english"=>"Stv Chef/in RMS / Stabschef/in RMS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7896151", "surname"=>"Erni", "givenName"=>"Marco", "email"=>nil, "phone"=>"+41 58 46 71123", "function"=>{"german"=>"Bereichsleiter/in / CIO", "french"=>"Bereichsleiter/in / CIO", "italian"=>"Bereichsleiter/in / CIO", "english"=>"Bereichsleiter/in / CIO"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009283", "label"=>{"german"=>"RMS", "french"=>"GRS", "italian"=>"GRS", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Ressourcenmanagement & Strategie", "french"=>"Domaine de direction gestion des ressources et stratégie", "italian"=>"Ambito direzionale gestione delle risorse e strategia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009283",
+  "name": {
+    "german": "Direktionsbereich Ressourcenmanagement & Strategie",
+    "french": "Domaine de direction gestion des ressources et stratégie",
+    "italian": "Ambito direzionale gestione delle risorse e strategia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "RMS",
+    "french": "GRS",
+    "italian": "GRS",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584639369",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20016752",
+      "name": {
+        "german": "Stab RMS",
+        "french": "État-major GRS",
+        "italian": "Stato maggiore GRS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009289",
+      "name": {
+        "german": "Abteilung Finanzen Beschaffung Controlling",
+        "french": "Division Finances, acquisitions et controlling",
+        "italian": "Divisione Finanze, acquisti e controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009297",
+      "name": {
+        "german": "Abteilung Infrastruktur, Betrieb & Services",
+        "french": "Division infrastructure, exploitation et services",
+        "italian": "Divisione infrastruttura, esercizio e servizi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016753",
+      "name": {
+        "german": "Abteilung Unternehmensentwicklung",
+        "french": "Division développement de l'entreprise",
+        "italian": "Divisione sviluppo aziendale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009286",
+      "name": {
+        "german": "Bereich Personalmanagement",
+        "french": "Domaine gestion des ressources humaines",
+        "italian": "Settore gestione delle risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021401",
+      "name": {
+        "german": "Bereich Psychologischer Fachdienst",
+        "french": "Service psychologique",
+        "italian": "Servizio psicologico",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046664",
+      "name": {
+        "german": "Bereich IKT Management",
+        "french": "Service TI et gestion de l'intégration",
+        "italian": "Servizio IT e integration management",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7124672",
+      "surname": "Wildi-Cortés",
+      "givenName": "Eva Isabel",
+      "email": null,
+      "phone": "+41 58 46 20524",
+      "function": {
+        "german": "Stv Direktor/in / Chef/in RMS",
+        "french": "Stv Direktor/in / Chef/in RMS",
+        "italian": "Stv Direktor/in / Chef/in RMS",
+        "english": "Stv Direktor/in / Chef/in RMS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4124476",
+      "surname": "Odermatt",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 46 21718",
+      "function": {
+        "german": "Stv Chef/in RMS / Stabschef/in RMS",
+        "french": "Stv Chef/in RMS / Stabschef/in RMS",
+        "italian": "Stv Chef/in RMS / Stabschef/in RMS",
+        "english": "Stv Chef/in RMS / Stabschef/in RMS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7896151",
+      "surname": "Erni",
+      "givenName": "Marco",
+      "email": null,
+      "phone": "+41 58 46 71123",
+      "function": {
+        "german": "Bereichsleiter/in / CIO",
+        "french": "Bereichsleiter/in / CIO",
+        "italian": "Bereichsleiter/in / CIO",
+        "english": "Bereichsleiter/in / CIO"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009283",
+      "label": {
+        "german": "RMS",
+        "french": "GRS",
+        "italian": "GRS",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Ressourcenmanagement & Strategie",
+        "french": "Domaine de direction gestion des ressources et stratégie",
+        "italian": "Ambito direzionale gestione delle risorse e strategia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,275 @@
-{"id"=>"20034382", "name"=>{"german"=>"Einheit Ressourcen", "french"=>"Unité Ressources", "italian"=>"Unità Risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 161", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037877", "name"=>{"german"=>"Qualität und Sicherheit", "french"=>"Management de la qualité", "italian"=>"Gestione della qualità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046953", "name"=>{"german"=>"Rechtsdienst", "french"=>"Service juridique", "italian"=>"Servizio giuridico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040826", "name"=>{"german"=>"Beschaffungsmanagement", "french"=>"Management des achats", "italian"=>"Gestione degli acquisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034383", "name"=>{"german"=>"Finanzen", "french"=>"Finances", "italian"=>"Finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034386", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034389", "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041606", "name"=>{"german"=>"Infrastruktur", "french"=>"Infrastructure et sécurité", "italian"=>"Infrastruttura e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050504", "name"=>{"german"=>"Controlling", "french"=>"Controlling", "italian"=>"Controlling", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1XPCJN1T6", "surname"=>"Gentil", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 97612", "function"=>{"german"=>"Stv. Leiter/in Agroscope / Leiter/in Einheit Ressourcen", "french"=>"Suppl. Responsable Agroscope / Responsable Unité Ressources", "italian"=>"Sostituto/a Responsabile di Agroscope / Responsibile Unità Risorse", "english"=>"Stv. Leiter/in Agroscope / Leiter/in ER"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003634", "label"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}, "name"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}}, {"id"=>"10004120", "label"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}, "name"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}}, {"id"=>"20034382", "label"=>{"german"=>"Einheit Ressourcen", "french"=>"Unité Ressources", "italian"=>"Unità Risorse", "english"=>""}, "name"=>{"german"=>"Einheit Ressourcen", "french"=>"Unité Ressources", "italian"=>"Unità Risorse", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034382",
+  "name": {
+    "german": "Einheit Ressourcen",
+    "french": "Unité Ressources",
+    "italian": "Unità Risorse",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 161",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037877",
+      "name": {
+        "german": "Qualität und Sicherheit",
+        "french": "Management de la qualité",
+        "italian": "Gestione della qualità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046953",
+      "name": {
+        "german": "Rechtsdienst",
+        "french": "Service juridique",
+        "italian": "Servizio giuridico",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040826",
+      "name": {
+        "german": "Beschaffungsmanagement",
+        "french": "Management des achats",
+        "italian": "Gestione degli acquisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034383",
+      "name": {
+        "german": "Finanzen",
+        "french": "Finances",
+        "italian": "Finanze",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034386",
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034389",
+      "name": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041606",
+      "name": {
+        "german": "Infrastruktur",
+        "french": "Infrastructure et sécurité",
+        "italian": "Infrastruttura e sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050504",
+      "name": {
+        "german": "Controlling",
+        "french": "Controlling",
+        "italian": "Controlling",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1XPCJN1T6",
+      "surname": "Gentil",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 97612",
+      "function": {
+        "german": "Stv. Leiter/in Agroscope / Leiter/in Einheit Ressourcen",
+        "french": "Suppl. Responsable Agroscope / Responsable Unité Ressources",
+        "italian": "Sostituto/a Responsabile di Agroscope / Responsibile Unità Risorse",
+        "english": "Stv. Leiter/in Agroscope / Leiter/in ER"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003634",
+      "label": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004120",
+      "label": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034382",
+      "label": {
+        "german": "Einheit Ressourcen",
+        "french": "Unité Ressources",
+        "italian": "Unità Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Einheit Ressourcen",
+        "french": "Unité Ressources",
+        "italian": "Unità Risorse",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

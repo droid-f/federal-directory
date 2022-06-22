@@ -1,1 +1,169 @@
-{"id"=>"20031801", "name"=>{"german"=>"Stab", "french"=>"Etat major", "italian"=>"Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20036281", "name"=>{"german"=>"Referentenstab", "french"=>"Groupe des conseillers spécialisés", "italian"=>"Stato maggiore Referenti specializzati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20033378", "name"=>{"german"=>"Bundesrats- und Parlamentsgeschäfte", "french"=>"Affaires du Conseil fédéral et du Parlement", "italian"=>"Affari del Consiglio federale e del Parlamento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000127", "name"=>{"german"=>"Geschäftsverwaltung", "french"=>"Gestion des affaires", "italian"=>"Gestione degli affari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008603", "label"=>{"german"=>"GS-EFD", "french"=>"SG-DFF", "italian"=>"SG-DFF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EFD", "french"=>"Secrétariat général DFF", "italian"=>"Segreteria generale DFF", "english"=>""}}, {"id"=>"20041576", "label"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}, "name"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}}, {"id"=>"20031801", "label"=>{"german"=>"Stab", "french"=>"Etat major", "italian"=>"Stato maggiore", "english"=>""}, "name"=>{"german"=>"Stab", "french"=>"Etat major", "italian"=>"Stato maggiore", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031801",
+  "name": {
+    "german": "Stab",
+    "french": "Etat major",
+    "italian": "Stato maggiore",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20036281",
+      "name": {
+        "german": "Referentenstab",
+        "french": "Groupe des conseillers spécialisés",
+        "italian": "Stato maggiore Referenti specializzati",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033378",
+      "name": {
+        "german": "Bundesrats- und Parlamentsgeschäfte",
+        "french": "Affaires du Conseil fédéral et du Parlement",
+        "italian": "Affari del Consiglio federale e del Parlamento",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000127",
+      "name": {
+        "german": "Geschäftsverwaltung",
+        "french": "Gestion des affaires",
+        "italian": "Gestione degli affari",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008603",
+      "label": {
+        "german": "GS-EFD",
+        "french": "SG-DFF",
+        "italian": "SG-DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EFD",
+        "french": "Secrétariat général DFF",
+        "italian": "Segreteria generale DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041576",
+      "label": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031801",
+      "label": {
+        "german": "Stab",
+        "french": "Etat major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab",
+        "french": "Etat major",
+        "italian": "Stato maggiore",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

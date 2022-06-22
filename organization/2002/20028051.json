@@ -1,1 +1,214 @@
-{"id"=>"20028051", "name"=>{"german"=>"Personalpolitische Projekte und Diversity", "french"=>"Projets relevant de la politique du personnel et diversité", "italian"=>"Progetti di politica del personale e diversità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 71", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6569865", "surname"=>"Breu", "givenName"=>"Pius", "email"=>nil, "phone"=>"+41 58 46 49057", "function"=>{"german"=>"Leiter Personalpolitische Projekte und Diversity, Stellvertreter Leiter Grundlagenentwicklung und Ausbildungszentrum der Bundesverwaltung", "french"=>"Leiter Personalpolitische Projekte und Diversity, Stellvertreter Leiter Grundlagenentwicklung und Ausbildungszentrum der Bundesverwaltung", "italian"=>"Leiter Personalpolitische Projekte und Diversity, Stellvertreter Leiter Grundlagenentwicklung und Ausbildungszentrum der Bundesverwaltung", "english"=>"Leiter Pers.pol. Proj. u Div., Stv GB-L."}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4745667", "surname"=>"Baer Bösch", "givenName"=>"Anne-Françoise", "email"=>nil, "phone"=>"+41 58 46 43221", "function"=>{"german"=>"Fachexpertin Diversity Management und Stellvertreterin Leiter Personalpolitische Projekte und Diversity", "french"=>"Fachexpertin Diversity Management und Stellvertreterin Leiter Personalpolitische Projekte und Diversity", "italian"=>"Fachexpertin Diversity Management und Stellvertreterin Leiter Personalpolitische Projekte und Diversity", "english"=>"Fachexpertin Diversity Mgmt und Stv RL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-0894959", "surname"=>"Beeler", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 48244", "function"=>{"german"=>"HR-Projektportfoliomanager", "french"=>"HR-Projektportfoliomanager", "italian"=>"HR-Projektportfoliomanager", "english"=>"HR-Projektportfoliomanager"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2871513", "surname"=>"Ingold", "givenName"=>"Simona", "email"=>nil, "phone"=>"+41 58 48 44674", "function"=>{"german"=>"Spezialistin Personalpolitische Projekte", "french"=>"Expertin Personalhonorierung", "italian"=>"Expertin Personalhonorierung", "english"=>"Spezialistin Personalpolitische Projekte"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1627651", "surname"=>"Schweizer", "givenName"=>"Patrizia", "email"=>nil, "phone"=>"+41 58 46 74371", "function"=>{"german"=>"Fachexpertin Diversity Management und Projekte", "french"=>"Fachexpertin Diversity Management und Projekte", "italian"=>"Fachexpertin Diversity Management und Projekte", "english"=>"Fachexpertin Diversity Mgmt und Projekte"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10000034", "label"=>{"german"=>"EPA", "french"=>"OFPER", "italian"=>"UFPER", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Personalamt", "french"=>"Office fédéral du personnel", "italian"=>"Ufficio federale del personale", "english"=>""}}, {"id"=>"10001850", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10000494", "label"=>{"german"=>"Grundlagenentwicklung und Ausbildungszentrum", "french"=>"Développement des bases et centre de formation", "italian"=>"Sviluppo delle basi e Centro di formazione", "english"=>""}, "name"=>{"german"=>"Grundlagenentwicklung und Ausbildungszentrum", "french"=>"Développement des bases et centre de formation", "italian"=>"Sviluppo delle basi e Centro di formazione", "english"=>""}}, {"id"=>"20028051", "label"=>{"german"=>"Personalpolitische Projekte und Diversity", "french"=>"Projets relevant de la politique du personnel et diversité", "italian"=>"Progetti di politica del personale e diversità", "english"=>""}, "name"=>{"german"=>"Personalpolitische Projekte und Diversity", "french"=>"Projets relevant de la politique du personnel et diversité", "italian"=>"Progetti di politica del personale e diversità", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20028051",
+  "name": {
+    "german": "Personalpolitische Projekte und Diversity",
+    "french": "Projets relevant de la politique du personnel et diversité",
+    "italian": "Progetti di politica del personale e diversità",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 71",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6569865",
+      "surname": "Breu",
+      "givenName": "Pius",
+      "email": null,
+      "phone": "+41 58 46 49057",
+      "function": {
+        "german": "Leiter Personalpolitische Projekte und Diversity, Stellvertreter Leiter Grundlagenentwicklung und Ausbildungszentrum der Bundesverwaltung",
+        "french": "Leiter Personalpolitische Projekte und Diversity, Stellvertreter Leiter Grundlagenentwicklung und Ausbildungszentrum der Bundesverwaltung",
+        "italian": "Leiter Personalpolitische Projekte und Diversity, Stellvertreter Leiter Grundlagenentwicklung und Ausbildungszentrum der Bundesverwaltung",
+        "english": "Leiter Pers.pol. Proj. u Div., Stv GB-L."
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4745667",
+      "surname": "Baer Bösch",
+      "givenName": "Anne-Françoise",
+      "email": null,
+      "phone": "+41 58 46 43221",
+      "function": {
+        "german": "Fachexpertin Diversity Management und Stellvertreterin Leiter Personalpolitische Projekte und Diversity",
+        "french": "Fachexpertin Diversity Management und Stellvertreterin Leiter Personalpolitische Projekte und Diversity",
+        "italian": "Fachexpertin Diversity Management und Stellvertreterin Leiter Personalpolitische Projekte und Diversity",
+        "english": "Fachexpertin Diversity Mgmt und Stv RL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-0894959",
+      "surname": "Beeler",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 48244",
+      "function": {
+        "german": "HR-Projektportfoliomanager",
+        "french": "HR-Projektportfoliomanager",
+        "italian": "HR-Projektportfoliomanager",
+        "english": "HR-Projektportfoliomanager"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2871513",
+      "surname": "Ingold",
+      "givenName": "Simona",
+      "email": null,
+      "phone": "+41 58 48 44674",
+      "function": {
+        "german": "Spezialistin Personalpolitische Projekte",
+        "french": "Expertin Personalhonorierung",
+        "italian": "Expertin Personalhonorierung",
+        "english": "Spezialistin Personalpolitische Projekte"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1627651",
+      "surname": "Schweizer",
+      "givenName": "Patrizia",
+      "email": null,
+      "phone": "+41 58 46 74371",
+      "function": {
+        "german": "Fachexpertin Diversity Management und Projekte",
+        "french": "Fachexpertin Diversity Management und Projekte",
+        "italian": "Fachexpertin Diversity Management und Projekte",
+        "english": "Fachexpertin Diversity Mgmt und Projekte"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000034",
+      "label": {
+        "german": "EPA",
+        "french": "OFPER",
+        "italian": "UFPER",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Personalamt",
+        "french": "Office fédéral du personnel",
+        "italian": "Ufficio federale del personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001850",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000494",
+      "label": {
+        "german": "Grundlagenentwicklung und Ausbildungszentrum",
+        "french": "Développement des bases et centre de formation",
+        "italian": "Sviluppo delle basi e Centro di formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Grundlagenentwicklung und Ausbildungszentrum",
+        "french": "Développement des bases et centre de formation",
+        "italian": "Sviluppo delle basi e Centro di formazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028051",
+      "label": {
+        "german": "Personalpolitische Projekte und Diversity",
+        "french": "Projets relevant de la politique du personnel et diversité",
+        "italian": "Progetti di politica del personale e diversità",
+        "english": ""
+      },
+      "name": {
+        "german": "Personalpolitische Projekte und Diversity",
+        "french": "Projets relevant de la politique du personnel et diversité",
+        "italian": "Progetti di politica del personale e diversità",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

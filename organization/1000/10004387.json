@@ -1,1 +1,124 @@
-{"id"=>"10004387", "name"=>{"german"=>"Schweizerische Nationalbibliothek", "french"=>"Bibliothèque nationale suisse", "italian"=>"Biblioteca nazionale svizzera", "english"=>""}, "nameAbbr"=>{"german"=>"NB", "french"=>"BN", "italian"=>"BN", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hallwylstrasse 15", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584628935", "fax"=>"+41584628408", "email"=>"info@nb.admin.ch", "homepage"=>{"german"=>"www.nb.admin.ch", "french"=>"www.nb.admin.ch", "italian"=>"www.nb.admin.ch", "english"=>""}}, "children"=>[{"id"=>"20012600", "name"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004387", "label"=>{"german"=>"NB", "french"=>"BN", "italian"=>"BN", "english"=>""}, "name"=>{"german"=>"Schweizerische Nationalbibliothek", "french"=>"Bibliothèque nationale suisse", "italian"=>"Biblioteca nazionale svizzera", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004387",
+  "name": {
+    "german": "Schweizerische Nationalbibliothek",
+    "french": "Bibliothèque nationale suisse",
+    "italian": "Biblioteca nazionale svizzera",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "NB",
+    "french": "BN",
+    "italian": "BN",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hallwylstrasse 15",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584628935",
+    "fax": "+41584628408",
+    "email": "info@nb.admin.ch",
+    "homepage": {
+      "german": "www.nb.admin.ch",
+      "french": "www.nb.admin.ch",
+      "italian": "www.nb.admin.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20012600",
+      "name": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004387",
+      "label": {
+        "german": "NB",
+        "french": "BN",
+        "italian": "BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerische Nationalbibliothek",
+        "french": "Bibliothèque nationale suisse",
+        "italian": "Biblioteca nazionale svizzera",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,200 @@
-{"id"=>"20005201", "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Viale Stefano Franscini 7", "postalCode"=>"6500", "location"=>"Bellinzona", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20005179", "name"=>{"german"=>"Kanzlei", "french"=>"Chancellerie", "italian"=>"Cancelleria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005180", "name"=>{"german"=>"Personaldienst", "french"=>"Service du personnel", "italian"=>"Servizio del personale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005181", "name"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005182", "name"=>{"german"=>"Informatikdienst", "french"=>"Service informatique", "italian"=>"Servizio informatico", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005183", "name"=>{"german"=>"Bibliothek", "french"=>"Bibliothèque", "italian"=>"Biblioteca", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005184", "name"=>{"german"=>"Betrieb, Sicherheit und Logistik", "french"=>"Exploitation, sécurité et logistique", "italian"=>"Gestione, sicurezza e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037576", "name"=>{"german"=>"Praktikanten und Lernende", "french"=>"Stagiaires et apprentis", "italian"=>"Praticanti e apprendisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5534724", "surname"=>"Borel", "givenName"=>"Marc-Antoine", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Generalsekretär/in", "french"=>"Secrétaire général/e", "italian"=>"Segretario/a generale", "english"=>"Generalsekretär/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"20004851", "label"=>{"german"=>"BStGer", "french"=>"BStGer", "italian"=>"BStGer", "english"=>""}, "name"=>{"german"=>"Bundesstrafgericht", "french"=>"Tribunal pénal fédéral", "italian"=>"Tribunale penale federale", "english"=>""}}, {"id"=>"20005201", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005201",
+  "name": {
+    "german": "Generalsekretariat und Dienste",
+    "french": "Secrétariat général et services",
+    "italian": "Segretariato generale e servizi",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Viale Stefano Franscini 7",
+    "postalCode": "6500",
+    "location": "Bellinzona",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20005179",
+      "name": {
+        "german": "Kanzlei",
+        "french": "Chancellerie",
+        "italian": "Cancelleria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005180",
+      "name": {
+        "german": "Personaldienst",
+        "french": "Service du personnel",
+        "italian": "Servizio del personale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005181",
+      "name": {
+        "german": "Finanzdienst",
+        "french": "Service des finances",
+        "italian": "Servizio delle finanze",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005182",
+      "name": {
+        "german": "Informatikdienst",
+        "french": "Service informatique",
+        "italian": "Servizio informatico",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005183",
+      "name": {
+        "german": "Bibliothek",
+        "french": "Bibliothèque",
+        "italian": "Biblioteca",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005184",
+      "name": {
+        "german": "Betrieb, Sicherheit und Logistik",
+        "french": "Exploitation, sécurité et logistique",
+        "italian": "Gestione, sicurezza e logistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037576",
+      "name": {
+        "german": "Praktikanten und Lernende",
+        "french": "Stagiaires et apprentis",
+        "italian": "Praticanti e apprendisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5534724",
+      "surname": "Borel",
+      "givenName": "Marc-Antoine",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Generalsekretär/in",
+        "french": "Secrétaire général/e",
+        "italian": "Segretario/a generale",
+        "english": "Generalsekretär/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20004851",
+      "label": {
+        "german": "BStGer",
+        "french": "BStGer",
+        "italian": "BStGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesstrafgericht",
+        "french": "Tribunal pénal fédéral",
+        "italian": "Tribunale penale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005201",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

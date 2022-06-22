@@ -1,1 +1,292 @@
-{"id"=>"20028230", "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus West", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20025733", "name"=>{"german"=>"Nationale Kommission zur Verhütung von Folter", "french"=>"Commission nationale de prévention de la torture", "italian"=>"Commissione nazionale per la prevenzione della tortura", "english"=>""}, "nameAbbr"=>{"german"=>"NKVF", "french"=>"CNPT", "italian"=>"CNPT", "english"=>""}}, {"id"=>"20035779", "name"=>{"german"=>"Persönliche Mitarbeitende Departementsvorsteherin", "french"=>"Collaborateurs personnels de la cheffe du département", "italian"=>"Collaboratori personali CD", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048251", "name"=>{"german"=>"Referenten", "french"=>"Conseillers spécialisés", "italian"=>"Referenten", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012654", "name"=>{"german"=>"Finanzinspektorat", "french"=>"Inspection financière", "italian"=>"Ispettorato delle finanze", "english"=>""}, "nameAbbr"=>{"german"=>"FISP", "french"=>"FISP", "italian"=>"FISP", "english"=>""}}, {"id"=>"20049477", "name"=>{"german"=>"Digital Compliance und Governance", "french"=>"Digital Compliance und Governance DCG", "italian"=>"Digital Compliance und Governance DCG", "english"=>""}, "nameAbbr"=>{"german"=>"DCG", "french"=>"DCG", "italian"=>"DCG", "english"=>""}}, {"id"=>"10000546", "name"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000549", "name"=>{"german"=>"Kommunikationsdienst EJPD", "french"=>"Service d'information DFJP", "italian"=>"Servizio d'informazione DFGP", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20019579", "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045803", "name"=>{"german"=>"Informatik EJPD", "french"=>"Informatik EJPD", "italian"=>"Informatik EJPD", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000581", "name"=>{"german"=>"Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten", "french"=>"Commission arbitrale fédérale pour la gestion de droits d'auteurs et de droits voisins", "italian"=>"Commissione arbitrale federale per la gestione dei diritti d'autore e dei diritti affini", "english"=>""}, "nameAbbr"=>{"german"=>"ESchK", "french"=>"CAF", "italian"=>"CAF", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2905205", "surname"=>"Hübscher Schmuki", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 48 30645", "function"=>{"german"=>"Generalsekretärin", "french"=>"Secrétaire générale", "italian"=>"Segretaria generale", "english"=>"Generalsekretärin"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8370408", "surname"=>"Hoffmann", "givenName"=>"Sylvie", "email"=>nil, "phone"=>"+41 58 48 14562", "function"=>{"german"=>"Stv. Generalsekretärin", "french"=>"Secrétaire général suppl.", "italian"=>"Segretaria generale supplente", "english"=>"Stv. Generalsekretärin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008843", "label"=>{"german"=>"GS-EJPD", "french"=>"SG-DFJP", "italian"=>"SG-DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général SG-DFJP", "italian"=>"Segreteria generale SG-DFGP", "english"=>""}}, {"id"=>"20028230", "label"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EJPD", "french"=>"Secrétariat général DFJP", "italian"=>"Segreteria generale DFGP", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20028230",
+  "name": {
+    "german": "Generalsekretariat EJPD",
+    "french": "Secrétariat général DFJP",
+    "italian": "Segreteria generale DFGP",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus West",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20025733",
+      "name": {
+        "german": "Nationale Kommission zur Verhütung von Folter",
+        "french": "Commission nationale de prévention de la torture",
+        "italian": "Commissione nazionale per la prevenzione della tortura",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "NKVF",
+        "french": "CNPT",
+        "italian": "CNPT",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035779",
+      "name": {
+        "german": "Persönliche Mitarbeitende Departementsvorsteherin",
+        "french": "Collaborateurs personnels de la cheffe du département",
+        "italian": "Collaboratori personali CD",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048251",
+      "name": {
+        "german": "Referenten",
+        "french": "Conseillers spécialisés",
+        "italian": "Referenten",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012654",
+      "name": {
+        "german": "Finanzinspektorat",
+        "french": "Inspection financière",
+        "italian": "Ispettorato delle finanze",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "FISP",
+        "french": "FISP",
+        "italian": "FISP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049477",
+      "name": {
+        "german": "Digital Compliance und Governance",
+        "french": "Digital Compliance und Governance DCG",
+        "italian": "Digital Compliance und Governance DCG",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "DCG",
+        "french": "DCG",
+        "italian": "DCG",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000546",
+      "name": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000549",
+      "name": {
+        "german": "Kommunikationsdienst EJPD",
+        "french": "Service d'information DFJP",
+        "italian": "Servizio d'informazione DFGP",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20019579",
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045803",
+      "name": {
+        "german": "Informatik EJPD",
+        "french": "Informatik EJPD",
+        "italian": "Informatik EJPD",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000581",
+      "name": {
+        "german": "Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten",
+        "french": "Commission arbitrale fédérale pour la gestion de droits d'auteurs et de droits voisins",
+        "italian": "Commissione arbitrale federale per la gestione dei diritti d'autore e dei diritti affini",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ESchK",
+        "french": "CAF",
+        "italian": "CAF",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2905205",
+      "surname": "Hübscher Schmuki",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 48 30645",
+      "function": {
+        "german": "Generalsekretärin",
+        "french": "Secrétaire générale",
+        "italian": "Segretaria generale",
+        "english": "Generalsekretärin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8370408",
+      "surname": "Hoffmann",
+      "givenName": "Sylvie",
+      "email": null,
+      "phone": "+41 58 48 14562",
+      "function": {
+        "german": "Stv. Generalsekretärin",
+        "french": "Secrétaire général suppl.",
+        "italian": "Segretaria generale supplente",
+        "english": "Stv. Generalsekretärin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008843",
+      "label": {
+        "german": "GS-EJPD",
+        "french": "SG-DFJP",
+        "italian": "SG-DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général SG-DFJP",
+        "italian": "Segreteria generale SG-DFGP",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028230",
+      "label": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EJPD",
+        "french": "Secrétariat général DFJP",
+        "italian": "Segreteria generale DFGP",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

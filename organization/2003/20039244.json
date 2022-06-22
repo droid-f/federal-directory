@@ -1,1 +1,184 @@
-{"id"=>"20039244", "name"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035721", "name"=>{"german"=>"OECD", "french"=>"OCDE", "italian"=>"OCSE", "english"=>"OECD"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035235", "label"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}, "name"=>{"german"=>"Europa", "french"=>"Europe", "italian"=>"Europa", "english"=>"Europe"}}, {"id"=>"20035250", "label"=>{"german"=>"Frankreich", "french"=>"France", "italian"=>"Francia", "english"=>"France"}, "name"=>{"german"=>"Frankreich", "french"=>"France", "italian"=>"Francia", "english"=>"France"}}, {"id"=>"10000750", "label"=>{"german"=>"Delegation bei der OECD Paris", "french"=>"Délégation suisse près l'OCDE, Paris", "italian"=>"Delegazione presso l'OCSE Parigi", "english"=>"Delegation to the OECD, Paris"}, "name"=>{"german"=>"Delegation bei der OECD Paris", "french"=>"Délégation suisse près l'OCDE, Paris", "italian"=>"Delegazione presso l'OCSE Parigi", "english"=>"Delegation to the OECD, Paris"}}, {"id"=>"20039244", "label"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}, "name"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039244",
+  "name": {
+    "german": "Diplomatische Aufgaben",
+    "french": "Fonctions diplomatiques",
+    "italian": "Funzioni diplomatiche",
+    "english": "Diplomatic tasks"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035721",
+      "name": {
+        "german": "OECD",
+        "french": "OCDE",
+        "italian": "OCSE",
+        "english": "OECD"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035235",
+      "label": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      },
+      "name": {
+        "german": "Europa",
+        "french": "Europe",
+        "italian": "Europa",
+        "english": "Europe"
+      }
+    },
+    {
+      "id": "20035250",
+      "label": {
+        "german": "Frankreich",
+        "french": "France",
+        "italian": "Francia",
+        "english": "France"
+      },
+      "name": {
+        "german": "Frankreich",
+        "french": "France",
+        "italian": "Francia",
+        "english": "France"
+      }
+    },
+    {
+      "id": "10000750",
+      "label": {
+        "german": "Delegation bei der OECD Paris",
+        "french": "Délégation suisse près l'OCDE, Paris",
+        "italian": "Delegazione presso l'OCSE Parigi",
+        "english": "Delegation to the OECD, Paris"
+      },
+      "name": {
+        "german": "Delegation bei der OECD Paris",
+        "french": "Délégation suisse près l'OCDE, Paris",
+        "italian": "Delegazione presso l'OCSE Parigi",
+        "english": "Delegation to the OECD, Paris"
+      }
+    },
+    {
+      "id": "20039244",
+      "label": {
+        "german": "Diplomatische Aufgaben",
+        "french": "Fonctions diplomatiques",
+        "italian": "Funzioni diplomatiche",
+        "english": "Diplomatic tasks"
+      },
+      "name": {
+        "german": "Diplomatische Aufgaben",
+        "french": "Fonctions diplomatiques",
+        "italian": "Funzioni diplomatiche",
+        "english": "Diplomatic tasks"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

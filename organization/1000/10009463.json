@@ -1,1 +1,173 @@
-{"id"=>"10009463", "name"=>{"german"=>"Sektion Recht", "french"=>"Section Droit", "italian"=>"Sezione Diritto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Worblentalstrasse 66", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9153014", "surname"=>"Kappeler", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 25948", "function"=>{"german"=>"Leiter/in Sektion Recht", "french"=>"Leiter/in Sektion Recht", "italian"=>"Leiter/in Sektion Recht", "english"=>"Leiter/in Sektion Recht"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1170525", "surname"=>"de Quervain", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 24084", "function"=>{"german"=>"Stv. Leiter Sektion Recht", "french"=>"Stv. Leiter Sektion Recht", "italian"=>"Stv. Leiter Sektion Recht", "english"=>"Stv. Leiter Sektion Recht"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10009450", "label"=>{"german"=>"ARE", "french"=>"ARE", "italian"=>"ARE", "english"=>""}, "name"=>{"german"=>"Bundesamt für Raumentwicklung", "french"=>"Office fédéral du développement territorial", "italian"=>"Ufficio federale dello sviluppo territoriale", "english"=>""}}, {"id"=>"10009451", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20032683", "label"=>{"german"=>"Direktionsbereich 1 (Nachhaltige Entwicklung, Funktionale Räume, Recht)", "french"=>"Unité de direction 1 (Développement durable, espaces fonctionnels, droit)", "italian"=>"Unità di direzione 1 (Sviluppo sostenibile, spazi funzionali, diritto)", "english"=>""}, "name"=>{"german"=>"Direktionsbereich 1 (Nachhaltige Entwicklung, Funktionale Räume, Recht)", "french"=>"Unité de direction 1 (Développement durable, espaces fonctionnels, droit)", "italian"=>"Unità di direzione 1 (Sviluppo sostenibile, spazi funzionali, diritto)", "english"=>""}}, {"id"=>"10009463", "label"=>{"german"=>"Sektion Recht", "french"=>"Section Droit", "italian"=>"Sezione Diritto", "english"=>""}, "name"=>{"german"=>"Sektion Recht", "french"=>"Section Droit", "italian"=>"Sezione Diritto", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009463",
+  "name": {
+    "german": "Sektion Recht",
+    "french": "Section Droit",
+    "italian": "Sezione Diritto",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Worblentalstrasse 66",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9153014",
+      "surname": "Kappeler",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 25948",
+      "function": {
+        "german": "Leiter/in Sektion Recht",
+        "french": "Leiter/in Sektion Recht",
+        "italian": "Leiter/in Sektion Recht",
+        "english": "Leiter/in Sektion Recht"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1170525",
+      "surname": "de Quervain",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 24084",
+      "function": {
+        "german": "Stv. Leiter Sektion Recht",
+        "french": "Stv. Leiter Sektion Recht",
+        "italian": "Stv. Leiter Sektion Recht",
+        "english": "Stv. Leiter Sektion Recht"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009450",
+      "label": {
+        "german": "ARE",
+        "french": "ARE",
+        "italian": "ARE",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Raumentwicklung",
+        "french": "Office fédéral du développement territorial",
+        "italian": "Ufficio federale dello sviluppo territoriale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009451",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032683",
+      "label": {
+        "german": "Direktionsbereich 1 (Nachhaltige Entwicklung, Funktionale Räume, Recht)",
+        "french": "Unité de direction 1 (Développement durable, espaces fonctionnels, droit)",
+        "italian": "Unità di direzione 1 (Sviluppo sostenibile, spazi funzionali, diritto)",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich 1 (Nachhaltige Entwicklung, Funktionale Räume, Recht)",
+        "french": "Unité de direction 1 (Développement durable, espaces fonctionnels, droit)",
+        "italian": "Unità di direzione 1 (Sviluppo sostenibile, spazi funzionali, diritto)",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009463",
+      "label": {
+        "german": "Sektion Recht",
+        "french": "Section Droit",
+        "italian": "Sezione Diritto",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Recht",
+        "french": "Section Droit",
+        "italian": "Sezione Diritto",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

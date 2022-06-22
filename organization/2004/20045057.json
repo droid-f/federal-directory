@@ -1,1 +1,232 @@
-{"id"=>"20045057", "name"=>{"german"=>"Partner und Administration NWCH", "french"=>"Partenaires et administration CHNO", "italian"=>"Partner e amministrazione CH-N-O", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgerstrasse 50", "postalCode"=>"4057", "location"=>"Basel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20045058", "name"=>{"german"=>"Administration NWCH", "french"=>"Administration CHNO", "italian"=>"Amministrazione CH-N-O", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045059", "name"=>{"german"=>"Disposition NWCH", "french"=>"Planification des audition CHNO", "italian"=>"Pianificazione delle procedure CH-N-O", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045015", "name"=>{"german"=>"Externe NWCH", "french"=>"Externe NWCH", "italian"=>"Externe NWCH", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7834976", "surname"=>"Weber", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 48 21222", "function"=>{"german"=>"Chef/in Sektion / Stv. Chef/in Region", "french"=>"Chef/in Sektion / Stv. Chef/in Region", "italian"=>"Chef/in Sektion / Stv. Chef/in Region", "english"=>"Chef/in Sektion / Stv. Chef/in Region"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9577959", "surname"=>"Draï", "givenName"=>"Patricia", "email"=>nil, "phone"=>"+41 58 48 21248", "function"=>{"german"=>"Fachspezialist/in P&A  / Stv. C Sektion", "french"=>"Fachspezialist/in P&A  / Stv. C Sektion", "italian"=>"Fachspezialist/in P&A  / Stv. C Sektion", "english"=>"Fachspezialist/in P&A  / Stv. C Sektion"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045056", "label"=>{"german"=>"Region Nordwestschweiz", "french"=>"Région Suisse du Nord-Ouest", "italian"=>"Regione Svizzera nord-occidentale", "english"=>""}, "name"=>{"german"=>"Region Nordwestschweiz", "french"=>"Région Suisse du Nord-Ouest", "italian"=>"Regione Svizzera nord-occidentale", "english"=>""}}, {"id"=>"20045057", "label"=>{"german"=>"Partner und Administration NWCH", "french"=>"Partenaires et administration CHNO", "italian"=>"Partner e amministrazione CH-N-O", "english"=>""}, "name"=>{"german"=>"Partner und Administration NWCH", "french"=>"Partenaires et administration CHNO", "italian"=>"Partner e amministrazione CH-N-O", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045057",
+  "name": {
+    "german": "Partner und Administration NWCH",
+    "french": "Partenaires et administration CHNO",
+    "italian": "Partner e amministrazione CH-N-O",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgerstrasse 50",
+    "postalCode": "4057",
+    "location": "Basel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20045058",
+      "name": {
+        "german": "Administration NWCH",
+        "french": "Administration CHNO",
+        "italian": "Amministrazione CH-N-O",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045059",
+      "name": {
+        "german": "Disposition NWCH",
+        "french": "Planification des audition CHNO",
+        "italian": "Pianificazione delle procedure CH-N-O",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045015",
+      "name": {
+        "german": "Externe NWCH",
+        "french": "Externe NWCH",
+        "italian": "Externe NWCH",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7834976",
+      "surname": "Weber",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 48 21222",
+      "function": {
+        "german": "Chef/in Sektion / Stv. Chef/in Region",
+        "french": "Chef/in Sektion / Stv. Chef/in Region",
+        "italian": "Chef/in Sektion / Stv. Chef/in Region",
+        "english": "Chef/in Sektion / Stv. Chef/in Region"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9577959",
+      "surname": "Draï",
+      "givenName": "Patricia",
+      "email": null,
+      "phone": "+41 58 48 21248",
+      "function": {
+        "german": "Fachspezialist/in P&A  / Stv. C Sektion",
+        "french": "Fachspezialist/in P&A  / Stv. C Sektion",
+        "italian": "Fachspezialist/in P&A  / Stv. C Sektion",
+        "english": "Fachspezialist/in P&A  / Stv. C Sektion"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045056",
+      "label": {
+        "german": "Region Nordwestschweiz",
+        "french": "Région Suisse du Nord-Ouest",
+        "italian": "Regione Svizzera nord-occidentale",
+        "english": ""
+      },
+      "name": {
+        "german": "Region Nordwestschweiz",
+        "french": "Région Suisse du Nord-Ouest",
+        "italian": "Regione Svizzera nord-occidentale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045057",
+      "label": {
+        "german": "Partner und Administration NWCH",
+        "french": "Partenaires et administration CHNO",
+        "italian": "Partner e amministrazione CH-N-O",
+        "english": ""
+      },
+      "name": {
+        "german": "Partner und Administration NWCH",
+        "french": "Partenaires et administration CHNO",
+        "italian": "Partner e amministrazione CH-N-O",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

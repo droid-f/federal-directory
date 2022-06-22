@@ -1,1 +1,187 @@
-{"id"=>"20033879", "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Einsteinstrasse 2", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"hr@sbfi.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20033930", "name"=>{"german"=>"Lernende", "french"=>"Apprentis", "italian"=>"Apprendisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4719498", "surname"=>"Feldmann", "givenName"=>"Tania", "email"=>nil, "phone"=>"+41 58 46 50858", "function"=>{"german"=>"Leiter/in Ressort", "french"=>"Chef/fe de l'unité", "italian"=>"Capounità", "english"=>"Leiter/in Ressort"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6042660", "surname"=>"Berger", "givenName"=>"Véronique", "email"=>nil, "phone"=>"+41 58 46 56635", "function"=>{"german"=>"Pers.bereichsl./Stv. Leiter/in Ressort", "french"=>"Resp.domaine pers./Chef/fe suppl. unité", "italian"=>"Resp.sett.personale/Capounità supplente", "english"=>"Pers.bereichsl./Stv. Leiter/in Ressort"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"20033802", "label"=>{"german"=>"SBFI", "french"=>"SEFRI", "italian"=>"SEFRI", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Bildung, Forschung und Innovation", "french"=>"Secrétariat d'Etat à la formation, à la recherche et à l'innovation", "italian"=>"Segreteria di Stato per la formazione, la ricerca e l'innovazione", "english"=>""}}, {"id"=>"20033803", "label"=>{"german"=>"SBFI", "french"=>"SBFI", "italian"=>"SBFI", "english"=>""}, "name"=>{"german"=>"Direktion SBFI", "french"=>"Direction SEFRI", "italian"=>"Direzione SEFRI", "english"=>""}}, {"id"=>"20033818", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"20033879", "label"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "20033879",
+  "name": {
+    "german": "Human Resources",
+    "french": "Ressources humaines",
+    "italian": "Risorse umane",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Einsteinstrasse 2",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "hr@sbfi.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20033930",
+      "name": {
+        "german": "Lernende",
+        "french": "Apprentis",
+        "italian": "Apprendisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4719498",
+      "surname": "Feldmann",
+      "givenName": "Tania",
+      "email": null,
+      "phone": "+41 58 46 50858",
+      "function": {
+        "german": "Leiter/in Ressort",
+        "french": "Chef/fe de l'unité",
+        "italian": "Capounità",
+        "english": "Leiter/in Ressort"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6042660",
+      "surname": "Berger",
+      "givenName": "Véronique",
+      "email": null,
+      "phone": "+41 58 46 56635",
+      "function": {
+        "german": "Pers.bereichsl./Stv. Leiter/in Ressort",
+        "french": "Resp.domaine pers./Chef/fe suppl. unité",
+        "italian": "Resp.sett.personale/Capounità supplente",
+        "english": "Pers.bereichsl./Stv. Leiter/in Ressort"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033802",
+      "label": {
+        "german": "SBFI",
+        "french": "SEFRI",
+        "italian": "SEFRI",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Bildung, Forschung und Innovation",
+        "french": "Secrétariat d'Etat à la formation, à la recherche et à l'innovation",
+        "italian": "Segreteria di Stato per la formazione, la ricerca e l'innovazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033803",
+      "label": {
+        "german": "SBFI",
+        "french": "SBFI",
+        "italian": "SBFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SBFI",
+        "french": "Direction SEFRI",
+        "italian": "Direzione SEFRI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033818",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033879",
+      "label": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

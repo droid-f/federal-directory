@@ -1,1 +1,185 @@
-{"id"=>"20042828", "name"=>{"german"=>"Fachbereich Klasse 4 UOS/RS 12", "french"=>"Domaine spéc classe 4 ESO/ER 12", "italian"=>"Sett spec classe 4 SSU/SR fant 12", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo Inf UOS/RS 12", "street"=>"Kaserne", "postalCode"=>"7000", "location"=>"Chur", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015869", "label"=>{"german"=>"LVBINF", "french"=>"LVBINF", "italian"=>"LVBINF", "english"=>""}, "name"=>{"german"=>"Lehrverband Infanterie", "french"=>"Formation d'application de l'infanterie", "italian"=>"Formazione d'addestramento fant", "english"=>""}}, {"id"=>"20003772", "label"=>{"german"=>"Infanterie UOS/RS 12", "french"=>"ER/ESO infanterie 12", "italian"=>"SSU/SR della fanteria 12", "english"=>""}, "name"=>{"german"=>"Infanterie UOS/RS 12", "french"=>"ER/ESO infanterie 12", "italian"=>"SSU/SR della fanteria 12", "english"=>""}}, {"id"=>"20042822", "label"=>{"german"=>"Kompanie 4 Inf UOS/RS 12", "french"=>"Compagnie 4 ER/ESO inf 12", "italian"=>"Compagnia 4 SSU/SR fant 12", "english"=>""}, "name"=>{"german"=>"Kompanie 4 Inf UOS/RS 12", "french"=>"Compagnie 4 ER/ESO inf 12", "italian"=>"Compagnia 4 SSU/SR fant 12", "english"=>""}}, {"id"=>"20042828", "label"=>{"german"=>"Fachbereich Klasse 4 UOS/RS 12", "french"=>"Domaine spéc classe 4 ESO/ER 12", "italian"=>"Sett spec classe 4 SSU/SR fant 12", "english"=>""}, "name"=>{"german"=>"Fachbereich Klasse 4 UOS/RS 12", "french"=>"Domaine spéc classe 4 ESO/ER 12", "italian"=>"Sett spec classe 4 SSU/SR fant 12", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042828",
+  "name": {
+    "german": "Fachbereich Klasse 4 UOS/RS 12",
+    "french": "Domaine spéc classe 4 ESO/ER 12",
+    "italian": "Sett spec classe 4 SSU/SR fant 12",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo Inf UOS/RS 12",
+    "street": "Kaserne",
+    "postalCode": "7000",
+    "location": "Chur",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015869",
+      "label": {
+        "german": "LVBINF",
+        "french": "LVBINF",
+        "italian": "LVBINF",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Infanterie",
+        "french": "Formation d'application de l'infanterie",
+        "italian": "Formazione d'addestramento fant",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003772",
+      "label": {
+        "german": "Infanterie UOS/RS 12",
+        "french": "ER/ESO infanterie 12",
+        "italian": "SSU/SR della fanteria 12",
+        "english": ""
+      },
+      "name": {
+        "german": "Infanterie UOS/RS 12",
+        "french": "ER/ESO infanterie 12",
+        "italian": "SSU/SR della fanteria 12",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042822",
+      "label": {
+        "german": "Kompanie 4 Inf UOS/RS 12",
+        "french": "Compagnie 4 ER/ESO inf 12",
+        "italian": "Compagnia 4 SSU/SR fant 12",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompanie 4 Inf UOS/RS 12",
+        "french": "Compagnie 4 ER/ESO inf 12",
+        "italian": "Compagnia 4 SSU/SR fant 12",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042828",
+      "label": {
+        "german": "Fachbereich Klasse 4 UOS/RS 12",
+        "french": "Domaine spéc classe 4 ESO/ER 12",
+        "italian": "Sett spec classe 4 SSU/SR fant 12",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Klasse 4 UOS/RS 12",
+        "french": "Domaine spéc classe 4 ESO/ER 12",
+        "italian": "Sett spec classe 4 SSU/SR fant 12",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,229 @@
-{"id"=>"20021132", "name"=>{"german"=>"Wirtschaft, Finanzen, Medien", "french"=>"Économie, finances, médias", "italian"=>"Economia, finanze, media", "english"=>"Economic affairs, finance, media"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"EDA-Kuriersektion", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20021133", "name"=>{"german"=>"Kultur", "french"=>"Culture", "italian"=>"Cultura", "english"=>"Culture"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20009527", "label"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}, "name"=>{"german"=>"Auslandvertretungen", "french"=>"Représentations à l'étranger", "italian"=>"Rappresentanze all'estero", "english"=>"Representations abroad"}}, {"id"=>"20035236", "label"=>{"german"=>"Amerika", "french"=>"Amérique", "italian"=>"America", "english"=>"America"}, "name"=>{"german"=>"Amerika", "french"=>"Amérique", "italian"=>"America", "english"=>"America"}}, {"id"=>"20035311", "label"=>{"german"=>"Vereinigte Staaten von Amerika", "french"=>"États-Unis d’Amérique", "italian"=>"Stati Uniti d'America", "english"=>"United States of America"}, "name"=>{"german"=>"Vereinigte Staaten von Amerika", "french"=>"États-Unis d’Amérique", "italian"=>"Stati Uniti d'America", "english"=>"United States of America"}}, {"id"=>"10000816", "label"=>{"german"=>"Botschaft Washington", "french"=>"Ambassade de Washington", "italian"=>"Ambasciata a Washington", "english"=>"Embassy in Washington"}, "name"=>{"german"=>"Botschaft Washington", "french"=>"Ambassade de Washington", "italian"=>"Ambasciata a Washington", "english"=>"Embassy in Washington"}}, {"id"=>"20039456", "label"=>{"german"=>"Konsularische Vertretungen", "french"=>"Représentations consulaires", "italian"=>"Rappresentanze consolari", "english"=>"Consular representations"}, "name"=>{"german"=>"Konsularische Vertretungen", "french"=>"Représentations consulaires", "italian"=>"Rappresentanze consolari", "english"=>"Consular representations"}}, {"id"=>"10000946", "label"=>{"german"=>"Generalkonsulat New York", "french"=>"Consulat général de New York", "italian"=>"Consolato generale a New York", "english"=>"Consulate General in New York"}, "name"=>{"german"=>"Generalkonsulat New York", "french"=>"Consulat général de New York", "italian"=>"Consolato generale a New York", "english"=>"Consulate General in New York"}}, {"id"=>"20039481", "label"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}, "name"=>{"german"=>"Diplomatische Aufgaben", "french"=>"Fonctions diplomatiques", "italian"=>"Funzioni diplomatiche", "english"=>"Diplomatic tasks"}}, {"id"=>"20021132", "label"=>{"german"=>"Wirtschaft, Finanzen, Medien", "french"=>"Économie, finances, médias", "italian"=>"Economia, finanze, media", "english"=>"Economic affairs, finance, media"}, "name"=>{"german"=>"Wirtschaft, Finanzen, Medien", "french"=>"Économie, finances, médias", "italian"=>"Economia, finanze, media", "english"=>"Economic affairs, finance, media"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021132",
+  "name": {
+    "german": "Wirtschaft, Finanzen, Medien",
+    "french": "Économie, finances, médias",
+    "italian": "Economia, finanze, media",
+    "english": "Economic affairs, finance, media"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "EDA-Kuriersektion",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20021133",
+      "name": {
+        "german": "Kultur",
+        "french": "Culture",
+        "italian": "Cultura",
+        "english": "Culture"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20009527",
+      "label": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      },
+      "name": {
+        "german": "Auslandvertretungen",
+        "french": "Représentations à l'étranger",
+        "italian": "Rappresentanze all'estero",
+        "english": "Representations abroad"
+      }
+    },
+    {
+      "id": "20035236",
+      "label": {
+        "german": "Amerika",
+        "french": "Amérique",
+        "italian": "America",
+        "english": "America"
+      },
+      "name": {
+        "german": "Amerika",
+        "french": "Amérique",
+        "italian": "America",
+        "english": "America"
+      }
+    },
+    {
+      "id": "20035311",
+      "label": {
+        "german": "Vereinigte Staaten von Amerika",
+        "french": "États-Unis d’Amérique",
+        "italian": "Stati Uniti d'America",
+        "english": "United States of America"
+      },
+      "name": {
+        "german": "Vereinigte Staaten von Amerika",
+        "french": "États-Unis d’Amérique",
+        "italian": "Stati Uniti d'America",
+        "english": "United States of America"
+      }
+    },
+    {
+      "id": "10000816",
+      "label": {
+        "german": "Botschaft Washington",
+        "french": "Ambassade de Washington",
+        "italian": "Ambasciata a Washington",
+        "english": "Embassy in Washington"
+      },
+      "name": {
+        "german": "Botschaft Washington",
+        "french": "Ambassade de Washington",
+        "italian": "Ambasciata a Washington",
+        "english": "Embassy in Washington"
+      }
+    },
+    {
+      "id": "20039456",
+      "label": {
+        "german": "Konsularische Vertretungen",
+        "french": "Représentations consulaires",
+        "italian": "Rappresentanze consolari",
+        "english": "Consular representations"
+      },
+      "name": {
+        "german": "Konsularische Vertretungen",
+        "french": "Représentations consulaires",
+        "italian": "Rappresentanze consolari",
+        "english": "Consular representations"
+      }
+    },
+    {
+      "id": "10000946",
+      "label": {
+        "german": "Generalkonsulat New York",
+        "french": "Consulat général de New York",
+        "italian": "Consolato generale a New York",
+        "english": "Consulate General in New York"
+      },
+      "name": {
+        "german": "Generalkonsulat New York",
+        "french": "Consulat général de New York",
+        "italian": "Consolato generale a New York",
+        "english": "Consulate General in New York"
+      }
+    },
+    {
+      "id": "20039481",
+      "label": {
+        "german": "Diplomatische Aufgaben",
+        "french": "Fonctions diplomatiques",
+        "italian": "Funzioni diplomatiche",
+        "english": "Diplomatic tasks"
+      },
+      "name": {
+        "german": "Diplomatische Aufgaben",
+        "french": "Fonctions diplomatiques",
+        "italian": "Funzioni diplomatiche",
+        "english": "Diplomatic tasks"
+      }
+    },
+    {
+      "id": "20021132",
+      "label": {
+        "german": "Wirtschaft, Finanzen, Medien",
+        "french": "Économie, finances, médias",
+        "italian": "Economia, finanze, media",
+        "english": "Economic affairs, finance, media"
+      },
+      "name": {
+        "german": "Wirtschaft, Finanzen, Medien",
+        "french": "Économie, finances, médias",
+        "italian": "Economia, finanze, media",
+        "english": "Economic affairs, finance, media"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

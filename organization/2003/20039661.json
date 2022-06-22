@@ -1,1 +1,155 @@
-{"id"=>"20039661", "name"=>{"german"=>"Objektsicherheit EDA Inland", "french"=>"Sécurité biens immobiliers DFAE Suisse", "italian"=>"Sicurezza degli immobili DFAE Svizzera", "english"=>"FDFA Building Security Switzerland"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20003167", "label"=>{"german"=>"Informatik EDA", "french"=>"Informatique DFAE", "italian"=>"Informatica DFAE", "english"=>"FDFA IT"}, "name"=>{"german"=>"Informatik EDA", "french"=>"Informatique DFAE", "italian"=>"Informatica DFAE", "english"=>"FDFA IT"}}, {"id"=>"20035930", "label"=>{"german"=>"Spedition und Betrieb", "french"=>"Expédition et exploitation", "italian"=>"Spedizione ed esercizio", "english"=>"Logistics and Operations"}, "name"=>{"german"=>"Spedition und Betrieb", "french"=>"Expédition et exploitation", "italian"=>"Spedizione ed esercizio", "english"=>"Logistics and Operations"}}, {"id"=>"10001296", "label"=>{"german"=>"Kurier", "french"=>"Courrier", "italian"=>"Corriere", "english"=>"Courier Service"}, "name"=>{"german"=>"Kurier", "french"=>"Courrier", "italian"=>"Corriere", "english"=>"Courier Service"}}, {"id"=>"20039661", "label"=>{"german"=>"Objektsicherheit EDA Inland", "french"=>"Sécurité biens immobiliers DFAE Suisse", "italian"=>"Sicurezza degli immobili DFAE Svizzera", "english"=>"FDFA Building Security Switzerland"}, "name"=>{"german"=>"Objektsicherheit EDA Inland", "french"=>"Sécurité biens immobiliers DFAE Suisse", "italian"=>"Sicurezza degli immobili DFAE Svizzera", "english"=>"FDFA Building Security Switzerland"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039661",
+  "name": {
+    "german": "Objektsicherheit EDA Inland",
+    "french": "Sécurité biens immobiliers DFAE Suisse",
+    "italian": "Sicurezza degli immobili DFAE Svizzera",
+    "english": "FDFA Building Security Switzerland"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20003167",
+      "label": {
+        "german": "Informatik EDA",
+        "french": "Informatique DFAE",
+        "italian": "Informatica DFAE",
+        "english": "FDFA IT"
+      },
+      "name": {
+        "german": "Informatik EDA",
+        "french": "Informatique DFAE",
+        "italian": "Informatica DFAE",
+        "english": "FDFA IT"
+      }
+    },
+    {
+      "id": "20035930",
+      "label": {
+        "german": "Spedition und Betrieb",
+        "french": "Expédition et exploitation",
+        "italian": "Spedizione ed esercizio",
+        "english": "Logistics and Operations"
+      },
+      "name": {
+        "german": "Spedition und Betrieb",
+        "french": "Expédition et exploitation",
+        "italian": "Spedizione ed esercizio",
+        "english": "Logistics and Operations"
+      }
+    },
+    {
+      "id": "10001296",
+      "label": {
+        "german": "Kurier",
+        "french": "Courrier",
+        "italian": "Corriere",
+        "english": "Courier Service"
+      },
+      "name": {
+        "german": "Kurier",
+        "french": "Courrier",
+        "italian": "Corriere",
+        "english": "Courier Service"
+      }
+    },
+    {
+      "id": "20039661",
+      "label": {
+        "german": "Objektsicherheit EDA Inland",
+        "french": "Sécurité biens immobiliers DFAE Suisse",
+        "italian": "Sicurezza degli immobili DFAE Svizzera",
+        "english": "FDFA Building Security Switzerland"
+      },
+      "name": {
+        "german": "Objektsicherheit EDA Inland",
+        "french": "Sécurité biens immobiliers DFAE Suisse",
+        "italian": "Sicurezza degli immobili DFAE Svizzera",
+        "english": "FDFA Building Security Switzerland"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,171 @@
-{"id"=>"20010586", "name"=>{"german"=>"Datenerhebung und Datenaufbereitung", "french"=>"Relevé et traitement des données", "italian"=>"Rilevazione e elaborazione dei dati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5057746", "surname"=>"Gerber", "givenName"=>"Bettina", "email"=>nil, "phone"=>"+41 58 46 36974", "function"=>{"german"=>"Bereichsleiter/in, Stv. SC", "french"=>"Bereichsleiter/in, Stv. SC", "italian"=>"Bereichsleiter/in, Stv. SC", "english"=>"Bereichsleiter/in, Stv. SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20002655", "label"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}, "name"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}}, {"id"=>"10004659", "label"=>{"german"=>"Sektion Sozialhilfe", "french"=>"Section Aide sociale", "italian"=>"Sezione Aiuto sociale", "english"=>""}, "name"=>{"german"=>"Sektion Sozialhilfe", "french"=>"Section Aide sociale", "italian"=>"Sezione Aiuto sociale", "english"=>""}}, {"id"=>"20010586", "label"=>{"german"=>"Datenerhebung und Datenaufbereitung", "french"=>"Relevé et traitement des données", "italian"=>"Rilevazione e elaborazione dei dati", "english"=>""}, "name"=>{"german"=>"Datenerhebung und Datenaufbereitung", "french"=>"Relevé et traitement des données", "italian"=>"Rilevazione e elaborazione dei dati", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20010586",
+  "name": {
+    "german": "Datenerhebung und Datenaufbereitung",
+    "french": "Relevé et traitement des données",
+    "italian": "Rilevazione e elaborazione dei dati",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5057746",
+      "surname": "Gerber",
+      "givenName": "Bettina",
+      "email": null,
+      "phone": "+41 58 46 36974",
+      "function": {
+        "german": "Bereichsleiter/in, Stv. SC",
+        "french": "Bereichsleiter/in, Stv. SC",
+        "italian": "Bereichsleiter/in, Stv. SC",
+        "english": "Bereichsleiter/in, Stv. SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002655",
+      "label": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004659",
+      "label": {
+        "german": "Sektion Sozialhilfe",
+        "french": "Section Aide sociale",
+        "italian": "Sezione Aiuto sociale",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Sozialhilfe",
+        "french": "Section Aide sociale",
+        "italian": "Sezione Aiuto sociale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010586",
+      "label": {
+        "german": "Datenerhebung und Datenaufbereitung",
+        "french": "Relevé et traitement des données",
+        "italian": "Rilevazione e elaborazione dei dati",
+        "english": ""
+      },
+      "name": {
+        "german": "Datenerhebung und Datenaufbereitung",
+        "french": "Relevé et traitement des données",
+        "italian": "Rilevazione e elaborazione dei dati",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

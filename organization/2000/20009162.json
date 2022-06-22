@@ -1,1 +1,173 @@
-{"id"=>"20009162", "name"=>{"german"=>"Wirtschaftsfragen", "french"=>"Affaires économiques", "italian"=>"Affari economici", "english"=>"Wirtschaftsfragen"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2554194", "surname"=>"Saurer", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 59711", "function"=>{"german"=>"Co-Leiter", "french"=>"Co-Leiter", "italian"=>"Co-Leiter", "english"=>"Co-Leiter"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9993350", "surname"=>"Bittel", "givenName"=>"Jan", "email"=>nil, "phone"=>"+41 58 46 53508", "function"=>{"german"=>"Co-Leiter", "french"=>"Co-Leiter", "italian"=>"Co-Leiter", "english"=>"Co-Leiter"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009156", "label"=>{"german"=>"Luftfahrtentwicklung", "french"=>"Stratégie et politique aéronautique", "italian"=>"Strategia e politica aeronautica", "english"=>"Luftfahrtentwicklung"}, "name"=>{"german"=>"Luftfahrtentwicklung", "french"=>"Stratégie et politique aéronautique", "italian"=>"Strategia e politica aeronautica", "english"=>"Luftfahrtentwicklung"}}, {"id"=>"20009162", "label"=>{"german"=>"Wirtschaftsfragen", "french"=>"Affaires économiques", "italian"=>"Affari economici", "english"=>"Wirtschaftsfragen"}, "name"=>{"german"=>"Wirtschaftsfragen", "french"=>"Affaires économiques", "italian"=>"Affari economici", "english"=>"Wirtschaftsfragen"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009162",
+  "name": {
+    "german": "Wirtschaftsfragen",
+    "french": "Affaires économiques",
+    "italian": "Affari economici",
+    "english": "Wirtschaftsfragen"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2554194",
+      "surname": "Saurer",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 59711",
+      "function": {
+        "german": "Co-Leiter",
+        "french": "Co-Leiter",
+        "italian": "Co-Leiter",
+        "english": "Co-Leiter"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9993350",
+      "surname": "Bittel",
+      "givenName": "Jan",
+      "email": null,
+      "phone": "+41 58 46 53508",
+      "function": {
+        "german": "Co-Leiter",
+        "french": "Co-Leiter",
+        "italian": "Co-Leiter",
+        "english": "Co-Leiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009156",
+      "label": {
+        "german": "Luftfahrtentwicklung",
+        "french": "Stratégie et politique aéronautique",
+        "italian": "Strategia e politica aeronautica",
+        "english": "Luftfahrtentwicklung"
+      },
+      "name": {
+        "german": "Luftfahrtentwicklung",
+        "french": "Stratégie et politique aéronautique",
+        "italian": "Strategia e politica aeronautica",
+        "english": "Luftfahrtentwicklung"
+      }
+    },
+    {
+      "id": "20009162",
+      "label": {
+        "german": "Wirtschaftsfragen",
+        "french": "Affaires économiques",
+        "italian": "Affari economici",
+        "english": "Wirtschaftsfragen"
+      },
+      "name": {
+        "german": "Wirtschaftsfragen",
+        "french": "Affaires économiques",
+        "italian": "Affari economici",
+        "english": "Wirtschaftsfragen"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

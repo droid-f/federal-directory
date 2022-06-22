@@ -1,1 +1,139 @@
-{"id"=>"10000704", "name"=>{"german"=>"Humanitäres Völkerrecht und internationale Strafjustiz", "french"=>"Droit international humanitaire et justice pénale internationale", "italian"=>"Diritto internazionale umanitario e giustizia penale", "english"=>"International Humanitarian Law and International Criminal Justice"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Nord", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20015613", "name"=>{"german"=>"Sekretariat Internationale humanitäre Ermittlungskommission", "french"=>"Secrétariat Commission internationale humanitaire d'établissement des faits", "italian"=>"Segretariato Commissione internazionale umanitaria per l'accertamento dei fatti", "english"=>"International Humanitarian Fact-Finding Commission Secretariat"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000532", "label"=>{"german"=>"DV", "french"=>"DDIP", "italian"=>"DDIP", "english"=>"DIL"}, "name"=>{"german"=>"Direktion für Völkerrecht", "french"=>"Direction du droit international public", "italian"=>"Direzione del diritto internazionale pubblico", "english"=>"Directorate of International Law"}}, {"id"=>"10000673", "label"=>{"german"=>"Menschenrechte, Terrorismusbekämpfung, humanitäres und diplomatisches Recht", "french"=>"Droits de l'homme, lutte contre le terrorisme, droit humanitaire et droit diplomatique", "italian"=>"Diritti umani, lotta al terrorismo, diritto umanitario e diplomatico", "english"=>"Human Rights, Counter-Terrorism, IHL and Diplomatic Law"}, "name"=>{"german"=>"Menschenrechte, Terrorismusbekämpfung, humanitäres und diplomatisches Recht", "french"=>"Droits de l'homme, lutte contre le terrorisme, droit humanitaire et droit diplomatique", "italian"=>"Diritti umani, lotta al terrorismo, diritto umanitario e diplomatico", "english"=>"Human Rights, Counter-Terrorism, IHL and Diplomatic Law"}}, {"id"=>"10000704", "label"=>{"german"=>"Humanitäres Völkerrecht und internationale Strafjustiz", "french"=>"Droit international humanitaire et justice pénale internationale", "italian"=>"Diritto internazionale umanitario e giustizia penale", "english"=>"International Humanitarian Law and International Criminal Justice"}, "name"=>{"german"=>"Humanitäres Völkerrecht und internationale Strafjustiz", "french"=>"Droit international humanitaire et justice pénale internationale", "italian"=>"Diritto internazionale umanitario e giustizia penale", "english"=>"International Humanitarian Law and International Criminal Justice"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000704",
+  "name": {
+    "german": "Humanitäres Völkerrecht und internationale Strafjustiz",
+    "french": "Droit international humanitaire et justice pénale internationale",
+    "italian": "Diritto internazionale umanitario e giustizia penale",
+    "english": "International Humanitarian Law and International Criminal Justice"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Nord",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20015613",
+      "name": {
+        "german": "Sekretariat Internationale humanitäre Ermittlungskommission",
+        "french": "Secrétariat Commission internationale humanitaire d'établissement des faits",
+        "italian": "Segretariato Commissione internazionale umanitaria per l'accertamento dei fatti",
+        "english": "International Humanitarian Fact-Finding Commission Secretariat"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000532",
+      "label": {
+        "german": "DV",
+        "french": "DDIP",
+        "italian": "DDIP",
+        "english": "DIL"
+      },
+      "name": {
+        "german": "Direktion für Völkerrecht",
+        "french": "Direction du droit international public",
+        "italian": "Direzione del diritto internazionale pubblico",
+        "english": "Directorate of International Law"
+      }
+    },
+    {
+      "id": "10000673",
+      "label": {
+        "german": "Menschenrechte, Terrorismusbekämpfung, humanitäres und diplomatisches Recht",
+        "french": "Droits de l'homme, lutte contre le terrorisme, droit humanitaire et droit diplomatique",
+        "italian": "Diritti umani, lotta al terrorismo, diritto umanitario e diplomatico",
+        "english": "Human Rights, Counter-Terrorism, IHL and Diplomatic Law"
+      },
+      "name": {
+        "german": "Menschenrechte, Terrorismusbekämpfung, humanitäres und diplomatisches Recht",
+        "french": "Droits de l'homme, lutte contre le terrorisme, droit humanitaire et droit diplomatique",
+        "italian": "Diritti umani, lotta al terrorismo, diritto umanitario e diplomatico",
+        "english": "Human Rights, Counter-Terrorism, IHL and Diplomatic Law"
+      }
+    },
+    {
+      "id": "10000704",
+      "label": {
+        "german": "Humanitäres Völkerrecht und internationale Strafjustiz",
+        "french": "Droit international humanitaire et justice pénale internationale",
+        "italian": "Diritto internazionale umanitario e giustizia penale",
+        "english": "International Humanitarian Law and International Criminal Justice"
+      },
+      "name": {
+        "german": "Humanitäres Völkerrecht und internationale Strafjustiz",
+        "french": "Droit international humanitaire et justice pénale internationale",
+        "italian": "Diritto internazionale umanitario e giustizia penale",
+        "english": "International Humanitarian Law and International Criminal Justice"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

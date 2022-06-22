@@ -1,1 +1,183 @@
-{"id"=>"20000127", "name"=>{"german"=>"Geschäftsverwaltung", "french"=>"Gestion des affaires", "italian"=>"Gestione degli affari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1010514", "surname"=>"Malnati", "givenName"=>"Armando", "email"=>nil, "phone"=>"+41 58 46 31260", "function"=>{"german"=>"Leiter/in Gesschäftsverwaltung", "french"=>"Chef/fe de la Gestion des affaires", "italian"=>"Capo Gestione degli affari", "english"=>"Leiter/in Gesschäftsverwaltung"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6049174", "surname"=>"Baur", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 71025", "function"=>{"german"=>"Doku.- und Record. MA-Spezialist", "french"=>"Spécialiste documents et enregistrements", "italian"=>"Collaboratore/trice specializzato/a docu", "english"=>"Doku.- und Record. MA-Spezialist"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8598242", "surname"=>"Hänni", "givenName"=>"Sina", "email"=>nil, "phone"=>"+41 58 46 99143", "function"=>{"german"=>"Doku.- und Record. Spezialistin", "french"=>"Spécialiste documents et enregistrements", "italian"=>"Specialista documentazione e recording", "english"=>"Doku.- und Record. Spezialistin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008603", "label"=>{"german"=>"GS-EFD", "french"=>"SG-DFF", "italian"=>"SG-DFF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EFD", "french"=>"Secrétariat général DFF", "italian"=>"Segreteria generale DFF", "english"=>""}}, {"id"=>"20041576", "label"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}, "name"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}}, {"id"=>"20031801", "label"=>{"german"=>"Stab", "french"=>"Etat major", "italian"=>"Stato maggiore", "english"=>""}, "name"=>{"german"=>"Stab", "french"=>"Etat major", "italian"=>"Stato maggiore", "english"=>""}}, {"id"=>"20000127", "label"=>{"german"=>"Geschäftsverwaltung", "french"=>"Gestion des affaires", "italian"=>"Gestione degli affari", "english"=>""}, "name"=>{"german"=>"Geschäftsverwaltung", "french"=>"Gestion des affaires", "italian"=>"Gestione degli affari", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000127",
+  "name": {
+    "german": "Geschäftsverwaltung",
+    "french": "Gestion des affaires",
+    "italian": "Gestione degli affari",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1010514",
+      "surname": "Malnati",
+      "givenName": "Armando",
+      "email": null,
+      "phone": "+41 58 46 31260",
+      "function": {
+        "german": "Leiter/in Gesschäftsverwaltung",
+        "french": "Chef/fe de la Gestion des affaires",
+        "italian": "Capo Gestione degli affari",
+        "english": "Leiter/in Gesschäftsverwaltung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6049174",
+      "surname": "Baur",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 71025",
+      "function": {
+        "german": "Doku.- und Record. MA-Spezialist",
+        "french": "Spécialiste documents et enregistrements",
+        "italian": "Collaboratore/trice specializzato/a docu",
+        "english": "Doku.- und Record. MA-Spezialist"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8598242",
+      "surname": "Hänni",
+      "givenName": "Sina",
+      "email": null,
+      "phone": "+41 58 46 99143",
+      "function": {
+        "german": "Doku.- und Record. Spezialistin",
+        "french": "Spécialiste documents et enregistrements",
+        "italian": "Specialista documentazione e recording",
+        "english": "Doku.- und Record. Spezialistin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008603",
+      "label": {
+        "german": "GS-EFD",
+        "french": "SG-DFF",
+        "italian": "SG-DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EFD",
+        "french": "Secrétariat général DFF",
+        "italian": "Segreteria generale DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041576",
+      "label": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031801",
+      "label": {
+        "german": "Stab",
+        "french": "Etat major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab",
+        "french": "Etat major",
+        "italian": "Stato maggiore",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000127",
+      "label": {
+        "german": "Geschäftsverwaltung",
+        "french": "Gestion des affaires",
+        "italian": "Gestione degli affari",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsverwaltung",
+        "french": "Gestion des affaires",
+        "italian": "Gestione degli affari",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

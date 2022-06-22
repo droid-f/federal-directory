@@ -1,1 +1,200 @@
-{"id"=>"20009578", "name"=>{"german"=>"WIKRI Standort Lausanne", "french"=>"WIKRI Site de Lausanne", "italian"=>"WIKRI Sede di Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Route de Chavannes 31", "postalCode"=>"1001", "location"=>"Lausanne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20028426", "name"=>{"german"=>"Staatsanwälte WIKRI Lausanne", "french"=>"Procureurs fédéraux WIKRI Lausanne", "italian"=>"Procuratori federali WIKRI Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000984", "name"=>{"german"=>"Assistenz-Staatsanwälte WIKRI Lausanne", "french"=>"Procureurs fédér.assist. WIKRI Lausanne", "italian"=>"Assist. procurat. federali WIKRI Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041712", "name"=>{"german"=>"Juristische Mitarbeiter WIKRI Lausanne", "french"=>"Collaborateurs juridiques WIKRI Lausanne", "italian"=>"Collaboratori giuridici WIKRI Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20020428", "name"=>{"german"=>"Verfahrensassistenz WIKRI Lausanne", "french"=>"Chancellerie WIKRI Lausanne", "italian"=>"Cancelleria WIKRI Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20041713", "name"=>{"german"=>"Juristische Praktikanten WIKRI Lausanne", "french"=>"Stagiaires juridiques WIKRI Lausanne", "italian"=>"Stagisti giuridici WIKRI Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0946216", "surname"=>"Beauverd", "givenName"=>"Cynthia", "email"=>nil, "phone"=>"+41 58 48 05793", "function"=>{"german"=>"Staatsanwalt / Verantw. Lausanne", "french"=>"Procureur féd. / Resp. site Lausanne", "italian"=>"Procuratore fed. / Resp. sede Losanna", "english"=>"Staatsanwalt - Verantw. Lausanne"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20009577", "label"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}, "name"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}}, {"id"=>"20009578", "label"=>{"german"=>"WIKRI Standort Lausanne", "french"=>"WIKRI Site de Lausanne", "italian"=>"WIKRI Sede di Losanna", "english"=>""}, "name"=>{"german"=>"WIKRI Standort Lausanne", "french"=>"WIKRI Site de Lausanne", "italian"=>"WIKRI Sede di Losanna", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009578",
+  "name": {
+    "german": "WIKRI Standort Lausanne",
+    "french": "WIKRI Site de Lausanne",
+    "italian": "WIKRI Sede di Losanna",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Route de Chavannes 31",
+    "postalCode": "1001",
+    "location": "Lausanne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20028426",
+      "name": {
+        "german": "Staatsanwälte WIKRI Lausanne",
+        "french": "Procureurs fédéraux WIKRI Lausanne",
+        "italian": "Procuratori federali WIKRI Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000984",
+      "name": {
+        "german": "Assistenz-Staatsanwälte WIKRI Lausanne",
+        "french": "Procureurs fédér.assist. WIKRI Lausanne",
+        "italian": "Assist. procurat. federali WIKRI Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041712",
+      "name": {
+        "german": "Juristische Mitarbeiter WIKRI Lausanne",
+        "french": "Collaborateurs juridiques WIKRI Lausanne",
+        "italian": "Collaboratori giuridici WIKRI Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020428",
+      "name": {
+        "german": "Verfahrensassistenz WIKRI Lausanne",
+        "french": "Chancellerie WIKRI Lausanne",
+        "italian": "Cancelleria WIKRI Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041713",
+      "name": {
+        "german": "Juristische Praktikanten WIKRI Lausanne",
+        "french": "Stagiaires juridiques WIKRI Lausanne",
+        "italian": "Stagisti giuridici WIKRI Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0946216",
+      "surname": "Beauverd",
+      "givenName": "Cynthia",
+      "email": null,
+      "phone": "+41 58 48 05793",
+      "function": {
+        "german": "Staatsanwalt / Verantw. Lausanne",
+        "french": "Procureur féd. / Resp. site Lausanne",
+        "italian": "Procuratore fed. / Resp. sede Losanna",
+        "english": "Staatsanwalt - Verantw. Lausanne"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009577",
+      "label": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009578",
+      "label": {
+        "german": "WIKRI Standort Lausanne",
+        "french": "WIKRI Site de Lausanne",
+        "italian": "WIKRI Sede di Losanna",
+        "english": ""
+      },
+      "name": {
+        "german": "WIKRI Standort Lausanne",
+        "french": "WIKRI Site de Lausanne",
+        "italian": "WIKRI Sede di Losanna",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

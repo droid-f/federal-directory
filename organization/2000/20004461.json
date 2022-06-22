@@ -1,1 +1,143 @@
-{"id"=>"20004461", "name"=>{"german"=>"Sektion Kommunikationsunterstützung", "french"=>"Section de soutien à la communication", "italian"=>"Sezione di sostegno in materia di comunicazione", "english"=>""}, "nameAbbr"=>{"german"=>"KOMM-U", "french"=>"KOMM-U", "italian"=>"KOMM-U", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Gurtengasse 5", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8721343", "surname"=>"Suremann", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 44600", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8515825", "surname"=>"Hemmer", "givenName"=>"Katharina", "email"=>nil, "phone"=>"+41 58 46 23186", "function"=>{"german"=>"Kommunikationsspezialist/in,Stv.Leiterin", "french"=>"Kommunikationsspezialist/in,Stv.Leiterin", "italian"=>"Kommunikationsspezialist/in,Stv.Leiterin", "english"=>"Kommunikationsspezialist/in,Stv.Leiterin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002695", "label"=>{"german"=>"KS", "french"=>"KS", "italian"=>"KS", "english"=>""}, "name"=>{"german"=>"Bereich Kommunikation und Strategie", "french"=>"Secteur communication et stratégie", "italian"=>"Settore comunicazione e strategia", "english"=>""}}, {"id"=>"20004461", "label"=>{"german"=>"KOMM-U", "french"=>"KOMM-U", "italian"=>"KOMM-U", "english"=>""}, "name"=>{"german"=>"Sektion Kommunikationsunterstützung", "french"=>"Section de soutien à la communication", "italian"=>"Sezione di sostegno in materia di comunicazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20004461",
+  "name": {
+    "german": "Sektion Kommunikationsunterstützung",
+    "french": "Section de soutien à la communication",
+    "italian": "Sezione di sostegno in materia di comunicazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "KOMM-U",
+    "french": "KOMM-U",
+    "italian": "KOMM-U",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Gurtengasse 5",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8721343",
+      "surname": "Suremann",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 44600",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8515825",
+      "surname": "Hemmer",
+      "givenName": "Katharina",
+      "email": null,
+      "phone": "+41 58 46 23186",
+      "function": {
+        "german": "Kommunikationsspezialist/in,Stv.Leiterin",
+        "french": "Kommunikationsspezialist/in,Stv.Leiterin",
+        "italian": "Kommunikationsspezialist/in,Stv.Leiterin",
+        "english": "Kommunikationsspezialist/in,Stv.Leiterin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002695",
+      "label": {
+        "german": "KS",
+        "french": "KS",
+        "italian": "KS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Kommunikation und Strategie",
+        "french": "Secteur communication et stratégie",
+        "italian": "Settore comunicazione e strategia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004461",
+      "label": {
+        "german": "KOMM-U",
+        "french": "KOMM-U",
+        "italian": "KOMM-U",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Kommunikationsunterstützung",
+        "french": "Section de soutien à la communication",
+        "italian": "Sezione di sostegno in materia di comunicazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

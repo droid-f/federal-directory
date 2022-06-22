@@ -1,1 +1,170 @@
-{"id"=>"20013151", "name"=>{"german"=>"Offiziersschule 74 / Team I", "french"=>"Ecole d'officiers 74 / team I", "italian"=>"Scuola ufficiali 74 / Team I", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo G/Rttg LG und K 74", "street"=>"Kaserne / Siechenhaus", "postalCode"=>"5620", "location"=>"Bremgarten", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015871", "label"=>{"german"=>"LVBGRABC", "french"=>"LVBGRABC", "italian"=>"LVBGRABC", "english"=>""}, "name"=>{"german"=>"Lehrverband Genie/Rettung/ABC", "french"=>"FOAP génie/sauvetage/NBC", "italian"=>"FOA G/salv/NBC", "english"=>""}}, {"id"=>"20003736", "label"=>{"german"=>"Kdo G/Rttg Lehrgänge u Kurse 74", "french"=>"Cdmt G/sauv stages formation et cours 74", "italian"=>"Cdo Cfo e corsi G/salv 74", "english"=>""}, "name"=>{"german"=>"Kdo G/Rttg Lehrgänge u Kurse 74", "french"=>"Cdmt G/sauv stages formation et cours 74", "italian"=>"Cdo Cfo e corsi G/salv 74", "english"=>""}}, {"id"=>"20013151", "label"=>{"german"=>"Offiziersschule 74 / Team I", "french"=>"Ecole d'officiers 74 / team I", "italian"=>"Scuola ufficiali 74 / Team I", "english"=>""}, "name"=>{"german"=>"Offiziersschule 74 / Team I", "french"=>"Ecole d'officiers 74 / team I", "italian"=>"Scuola ufficiali 74 / Team I", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20013151",
+  "name": {
+    "german": "Offiziersschule 74 / Team I",
+    "french": "Ecole d'officiers 74 / team I",
+    "italian": "Scuola ufficiali 74 / Team I",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo G/Rttg LG und K 74",
+    "street": "Kaserne / Siechenhaus",
+    "postalCode": "5620",
+    "location": "Bremgarten",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015871",
+      "label": {
+        "german": "LVBGRABC",
+        "french": "LVBGRABC",
+        "italian": "LVBGRABC",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Genie/Rettung/ABC",
+        "french": "FOAP génie/sauvetage/NBC",
+        "italian": "FOA G/salv/NBC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003736",
+      "label": {
+        "german": "Kdo G/Rttg Lehrgänge u Kurse 74",
+        "french": "Cdmt G/sauv stages formation et cours 74",
+        "italian": "Cdo Cfo e corsi G/salv 74",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo G/Rttg Lehrgänge u Kurse 74",
+        "french": "Cdmt G/sauv stages formation et cours 74",
+        "italian": "Cdo Cfo e corsi G/salv 74",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013151",
+      "label": {
+        "german": "Offiziersschule 74 / Team I",
+        "french": "Ecole d'officiers 74 / team I",
+        "italian": "Scuola ufficiali 74 / Team I",
+        "english": ""
+      },
+      "name": {
+        "german": "Offiziersschule 74 / Team I",
+        "french": "Ecole d'officiers 74 / team I",
+        "italian": "Scuola ufficiali 74 / Team I",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

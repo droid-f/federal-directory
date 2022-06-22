@@ -1,1 +1,173 @@
-{"id"=>"10003996", "name"=>{"german"=>"Frequenzplanung", "french"=>"Planification des fréquences", "italian"=>"Pianificazione delle frequenze", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Zukunftstrasse 44", "postalCode"=>"2501", "location"=>"Biel/Bienne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5250309", "surname"=>"Tschannen", "givenName"=>"René", "email"=>nil, "phone"=>"+41 58 46 05725", "function"=>{"german"=>"Leiter Frequenzplanung", "french"=>"Leiter Frequenzplanung", "italian"=>"Leiter Frequenzplanung", "english"=>"Leiter Frequenzplanung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8061418", "surname"=>"Affolter", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 05437", "function"=>{"german"=>"Leiter Gruppe Recht/Stv. Sektion FP", "french"=>"Leiter Gruppe Recht/Stv. Sektion FP", "italian"=>"Leiter Gruppe Recht/Stv. Sektion FP", "english"=>"Leiter Gruppe Recht/Stv. Sektion FP"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008757", "label"=>{"german"=>"BAKOM", "french"=>"OFCOM", "italian"=>"UFCOM", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kommunikation", "french"=>"Office fédéral de la communication", "italian"=>"Ufficio federale delle comunicazioni", "english"=>""}}, {"id"=>"10003970", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003988", "label"=>{"german"=>"Konzessionen und Frequenzmanagement", "french"=>"Concessions et gestion des fréquences", "italian"=>"Concessioni e gestione delle frequenze", "english"=>""}, "name"=>{"german"=>"Konzessionen und Frequenzmanagement", "french"=>"Concessions et gestion des fréquences", "italian"=>"Concessioni e gestione delle frequenze", "english"=>""}}, {"id"=>"10003996", "label"=>{"german"=>"Frequenzplanung", "french"=>"Planification des fréquences", "italian"=>"Pianificazione delle frequenze", "english"=>""}, "name"=>{"german"=>"Frequenzplanung", "french"=>"Planification des fréquences", "italian"=>"Pianificazione delle frequenze", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003996",
+  "name": {
+    "german": "Frequenzplanung",
+    "french": "Planification des fréquences",
+    "italian": "Pianificazione delle frequenze",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Zukunftstrasse 44",
+    "postalCode": "2501",
+    "location": "Biel/Bienne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5250309",
+      "surname": "Tschannen",
+      "givenName": "René",
+      "email": null,
+      "phone": "+41 58 46 05725",
+      "function": {
+        "german": "Leiter Frequenzplanung",
+        "french": "Leiter Frequenzplanung",
+        "italian": "Leiter Frequenzplanung",
+        "english": "Leiter Frequenzplanung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8061418",
+      "surname": "Affolter",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 05437",
+      "function": {
+        "german": "Leiter Gruppe Recht/Stv. Sektion FP",
+        "french": "Leiter Gruppe Recht/Stv. Sektion FP",
+        "italian": "Leiter Gruppe Recht/Stv. Sektion FP",
+        "english": "Leiter Gruppe Recht/Stv. Sektion FP"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008757",
+      "label": {
+        "german": "BAKOM",
+        "french": "OFCOM",
+        "italian": "UFCOM",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kommunikation",
+        "french": "Office fédéral de la communication",
+        "italian": "Ufficio federale delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003970",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003988",
+      "label": {
+        "german": "Konzessionen und Frequenzmanagement",
+        "french": "Concessions et gestion des fréquences",
+        "italian": "Concessioni e gestione delle frequenze",
+        "english": ""
+      },
+      "name": {
+        "german": "Konzessionen und Frequenzmanagement",
+        "french": "Concessions et gestion des fréquences",
+        "italian": "Concessioni e gestione delle frequenze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003996",
+      "label": {
+        "german": "Frequenzplanung",
+        "french": "Planification des fréquences",
+        "italian": "Pianificazione delle frequenze",
+        "english": ""
+      },
+      "name": {
+        "german": "Frequenzplanung",
+        "french": "Planification des fréquences",
+        "italian": "Pianificazione delle frequenze",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

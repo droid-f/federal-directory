@@ -1,1 +1,215 @@
-{"id"=>"10003800", "name"=>{"german"=>"Sportpolitik und Ressourcen", "french"=>"Politique du sport et ressources internes", "italian"=>"Politica dello sport e risorse interne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20015480", "name"=>{"german"=>"Internationales/Ethik/Sicherheit", "french"=>"Affaires internationales/Ethique/Sécurité", "italian"=>"Rapporti internazionali/Etica/Sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047576", "name"=>{"german"=>"Sportverband/Sportanlässe/NASAK,Raum,Umwelt", "french"=>"Fédérations sportives/Manifestations sportives/CISIN/Territoire, environnement", "italian"=>"Federazioni sportive/Manifestazioni/CISIN/Territorio, Ambiente", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047577", "name"=>{"german"=>"Bildung, Bewegung, Forschung", "french"=>"Formation, activité physique, recherche", "italian"=>"Formazione, movimento, ricerca", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047578", "name"=>{"german"=>"Ressourcen", "french"=>"Ressources internes", "italian"=>"Risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8964524", "surname"=>"Felix", "givenName"=>"Sandra", "email"=>nil, "phone"=>"+41 58 46 73223", "function"=>{"german"=>"Stv. Direktor/in / Chef/in SPRE", "french"=>"Directrice adjointe / Responsable SPRE", "italian"=>"Direttrice aggiunta/ Responsabile SPRE", "english"=>"Stv. Direktor/in / Chef/in SPRE"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0363489", "surname"=>"Feller", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 76379", "function"=>{"german"=>"Stv. Leiter/in SPRE/LT Int. Eth. Sicher", "french"=>"Stv. Leiter/in SPRE/LT Int. Eth. Sicher", "italian"=>"Stv. Leiter/in SPRE/LT Int. Eth. Sicher", "english"=>"Stv. Leiter/in SPRE/LT Int. Eth. Sicher"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-2095727", "surname"=>"Bertschy", "givenName"=>"Nicole", "email"=>nil, "phone"=>"+41 58 46 78095", "function"=>{"german"=>"Verantw. Administration SPRE", "french"=>"Responsable administration SPRE", "italian"=>"Responsabile amministrazione SPRE", "english"=>"Verantw. Administration SPRE"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003800", "label"=>{"german"=>"Sportpolitik und Ressourcen", "french"=>"Politique du sport et ressources internes", "italian"=>"Politica dello sport e risorse interne", "english"=>""}, "name"=>{"german"=>"Sportpolitik und Ressourcen", "french"=>"Politique du sport et ressources internes", "italian"=>"Politica dello sport e risorse interne", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003800",
+  "name": {
+    "german": "Sportpolitik und Ressourcen",
+    "french": "Politique du sport et ressources internes",
+    "italian": "Politica dello sport e risorse interne",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20015480",
+      "name": {
+        "german": "Internationales/Ethik/Sicherheit",
+        "french": "Affaires internationales/Ethique/Sécurité",
+        "italian": "Rapporti internazionali/Etica/Sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047576",
+      "name": {
+        "german": "Sportverband/Sportanlässe/NASAK,Raum,Umwelt",
+        "french": "Fédérations sportives/Manifestations sportives/CISIN/Territoire, environnement",
+        "italian": "Federazioni sportive/Manifestazioni/CISIN/Territorio, Ambiente",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047577",
+      "name": {
+        "german": "Bildung, Bewegung, Forschung",
+        "french": "Formation, activité physique, recherche",
+        "italian": "Formazione, movimento, ricerca",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047578",
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources internes",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8964524",
+      "surname": "Felix",
+      "givenName": "Sandra",
+      "email": null,
+      "phone": "+41 58 46 73223",
+      "function": {
+        "german": "Stv. Direktor/in / Chef/in SPRE",
+        "french": "Directrice adjointe / Responsable SPRE",
+        "italian": "Direttrice aggiunta/ Responsabile SPRE",
+        "english": "Stv. Direktor/in / Chef/in SPRE"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0363489",
+      "surname": "Feller",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 76379",
+      "function": {
+        "german": "Stv. Leiter/in SPRE/LT Int. Eth. Sicher",
+        "french": "Stv. Leiter/in SPRE/LT Int. Eth. Sicher",
+        "italian": "Stv. Leiter/in SPRE/LT Int. Eth. Sicher",
+        "english": "Stv. Leiter/in SPRE/LT Int. Eth. Sicher"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-2095727",
+      "surname": "Bertschy",
+      "givenName": "Nicole",
+      "email": null,
+      "phone": "+41 58 46 78095",
+      "function": {
+        "german": "Verantw. Administration SPRE",
+        "french": "Responsable administration SPRE",
+        "italian": "Responsabile amministrazione SPRE",
+        "english": "Verantw. Administration SPRE"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003800",
+      "label": {
+        "german": "Sportpolitik und Ressourcen",
+        "french": "Politique du sport et ressources internes",
+        "italian": "Politica dello sport e risorse interne",
+        "english": ""
+      },
+      "name": {
+        "german": "Sportpolitik und Ressourcen",
+        "french": "Politique du sport et ressources internes",
+        "italian": "Politica dello sport e risorse interne",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

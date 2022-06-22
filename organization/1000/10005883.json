@@ -1,1 +1,260 @@
-{"id"=>"10005883", "name"=>{"german"=>"Flugplatzkommando Payerne", "french"=>"Commandement base aérienne Payerne", "italian"=>"Comando d'aerodromo Payerne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Aérodrome Milit bâtiment admin", "postalCode"=>"1530", "location"=>"Payerne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20012602", "name"=>{"german"=>"Stab Flugplatzkommando Payerne", "french"=>"EM cdmt base aérienne Payerne", "italian"=>"SM comando aerod Payerne", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012322", "name"=>{"german"=>"Flieger Geschwader 11", "french"=>"Escadre d'aviation 11", "italian"=>"Squadra d'aviazione 11", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20012323", "name"=>{"german"=>"Lufttransport Geschwader 1", "french"=>"Escadre de transport aérien 1", "italian"=>"Squadra di trasporto aereo 1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005888", "name"=>{"german"=>"Support Flugbetrieb Flpl Kdo Pay", "french"=>"Support service de vol cdmt BA Pay", "italian"=>"Supporto S volo cdo aerod Pay", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10005900", "name"=>{"german"=>"BKS Sim/Mission SuppSyst / Lehrlingsausb", "french"=>"BKS Sim/Mission SuppSyst/form des appr", "italian"=>"BKS Sim/Mission SuppSyst/Form appr", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050006", "name"=>{"german"=>"Feuerwehr und Rettungsdienst SDIS", "french"=>"Pompiers et service de sauvetage SDIS", "italian"=>"Pompieri e servizio di soccorso SDIS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2725383", "surname"=>"Leuthold", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 48 27637", "function"=>{"german"=>"Kommandant Flpl Kdo PAY", "french"=>"Commandant cdmt BA PAY", "italian"=>"Comandante cdo aerod PAY", "english"=>"Kommandant Flpl Kdo PAY"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10008929", "label"=>{"german"=>"LW", "french"=>"LW", "italian"=>"LW", "english"=>""}, "name"=>{"german"=>"Luftwaffe", "french"=>"Forces aériennes", "italian"=>"Forze aeree", "english"=>""}}, {"id"=>"10005883", "label"=>{"german"=>"Flugplatzkommando Payerne", "french"=>"Commandement base aérienne Payerne", "italian"=>"Comando d'aerodromo Payerne", "english"=>""}, "name"=>{"german"=>"Flugplatzkommando Payerne", "french"=>"Commandement base aérienne Payerne", "italian"=>"Comando d'aerodromo Payerne", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005883",
+  "name": {
+    "german": "Flugplatzkommando Payerne",
+    "french": "Commandement base aérienne Payerne",
+    "italian": "Comando d'aerodromo Payerne",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Aérodrome Milit bâtiment admin",
+    "postalCode": "1530",
+    "location": "Payerne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20012602",
+      "name": {
+        "german": "Stab Flugplatzkommando Payerne",
+        "french": "EM cdmt base aérienne Payerne",
+        "italian": "SM comando aerod Payerne",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012322",
+      "name": {
+        "german": "Flieger Geschwader 11",
+        "french": "Escadre d'aviation 11",
+        "italian": "Squadra d'aviazione 11",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012323",
+      "name": {
+        "german": "Lufttransport Geschwader 1",
+        "french": "Escadre de transport aérien 1",
+        "italian": "Squadra di trasporto aereo 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005888",
+      "name": {
+        "german": "Support Flugbetrieb Flpl Kdo Pay",
+        "french": "Support service de vol cdmt BA Pay",
+        "italian": "Supporto S volo cdo aerod Pay",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005900",
+      "name": {
+        "german": "BKS Sim/Mission SuppSyst / Lehrlingsausb",
+        "french": "BKS Sim/Mission SuppSyst/form des appr",
+        "italian": "BKS Sim/Mission SuppSyst/Form appr",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050006",
+      "name": {
+        "german": "Feuerwehr und Rettungsdienst SDIS",
+        "french": "Pompiers et service de sauvetage SDIS",
+        "italian": "Pompieri e servizio di soccorso SDIS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2725383",
+      "surname": "Leuthold",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 48 27637",
+      "function": {
+        "german": "Kommandant Flpl Kdo PAY",
+        "french": "Commandant cdmt BA PAY",
+        "italian": "Comandante cdo aerod PAY",
+        "english": "Kommandant Flpl Kdo PAY"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008929",
+      "label": {
+        "german": "LW",
+        "french": "LW",
+        "italian": "LW",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftwaffe",
+        "french": "Forces aériennes",
+        "italian": "Forze aeree",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005883",
+      "label": {
+        "german": "Flugplatzkommando Payerne",
+        "french": "Commandement base aérienne Payerne",
+        "italian": "Comando d'aerodromo Payerne",
+        "english": ""
+      },
+      "name": {
+        "german": "Flugplatzkommando Payerne",
+        "french": "Commandement base aérienne Payerne",
+        "italian": "Comando d'aerodromo Payerne",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,170 @@
-{"id"=>"10003798", "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20044754", "name"=>{"german"=>"Betrieb und Support", "french"=>"Betrieb und Support", "italian"=>"Betrieb und Support", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4074550", "surname"=>"Häusler", "givenName"=>"Roland", "email"=>nil, "phone"=>"+41 58 46 76304", "function"=>{"german"=>"Leiter/in Informatik", "french"=>"Responsable informatique", "italian"=>"Responsabile informatico", "english"=>"Leiter/in Informatik"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003800", "label"=>{"german"=>"Sportpolitik und Ressourcen", "french"=>"Politique du sport et ressources internes", "italian"=>"Politica dello sport e risorse interne", "english"=>""}, "name"=>{"german"=>"Sportpolitik und Ressourcen", "french"=>"Politique du sport et ressources internes", "italian"=>"Politica dello sport e risorse interne", "english"=>""}}, {"id"=>"20047578", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources internes", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources internes", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10003798", "label"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}, "name"=>{"german"=>"Informatik", "french"=>"Informatique", "italian"=>"Informatica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003798",
+  "name": {
+    "german": "Informatik",
+    "french": "Informatique",
+    "italian": "Informatica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20044754",
+      "name": {
+        "german": "Betrieb und Support",
+        "french": "Betrieb und Support",
+        "italian": "Betrieb und Support",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4074550",
+      "surname": "Häusler",
+      "givenName": "Roland",
+      "email": null,
+      "phone": "+41 58 46 76304",
+      "function": {
+        "german": "Leiter/in Informatik",
+        "french": "Responsable informatique",
+        "italian": "Responsabile informatico",
+        "english": "Leiter/in Informatik"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003800",
+      "label": {
+        "german": "Sportpolitik und Ressourcen",
+        "french": "Politique du sport et ressources internes",
+        "italian": "Politica dello sport e risorse interne",
+        "english": ""
+      },
+      "name": {
+        "german": "Sportpolitik und Ressourcen",
+        "french": "Politique du sport et ressources internes",
+        "italian": "Politica dello sport e risorse interne",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047578",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources internes",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources internes",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003798",
+      "label": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik",
+        "french": "Informatique",
+        "italian": "Informatica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

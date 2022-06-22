@@ -1,1 +1,137 @@
-{"id"=>"12040103@12.04", "name"=>{"german"=>"Château de Prangins", "french"=>"Château de Prangins", "italian"=>"Castello di Prangins", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Château de Prangins", "postalCode"=>"1197", "location"=>"Prangins", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 22 99 48890", "fax"=>"", "email"=>"info.prangins@museenational.ch", "homepage"=>{"german"=>"www.chateaudeprangins.ch", "french"=>"www.chateaudeprangins.ch", "italian"=>"www.chateaudeprangins.ch", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-0428526", "surname"=>"Bieri Thomson", "givenName"=>"Helen", "email"=>nil, "phone"=>"+41 22 99 48892", "function"=>{"german"=>"Geschäftsführerin Château de Prangins", "french"=>"Geschäftsführerin Château de Prangins", "italian"=>"Geschäftsführerin Château de Prangins", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-3006779", "surname"=>"Vermeil", "givenName"=>"Catherine", "email"=>nil, "phone"=>"+41 22 99 48891", "function"=>{"german"=>"Stv. Geschäftsführerin Château de Prangins", "french"=>"Stv. Geschäftsführerin Château de Prangins", "italian"=>"Stv. Geschäftsführerin Château de Prangins", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"12040100@12.04", "label"=>{"german"=>"SNM", "french"=>"MNS", "italian"=>"MNS", "english"=>""}, "name"=>{"german"=>"Schweizerisches Nationalmuseum", "french"=>"Musée National Suisse", "italian"=>"Museo Nazionale Svizzero", "english"=>""}}, {"id"=>"12040103@12.04", "label"=>{"german"=>"Château de Prangins", "french"=>"Château de Prangins", "italian"=>"Castello di Prangins", "english"=>""}, "name"=>{"german"=>"Château de Prangins", "french"=>"Château de Prangins", "italian"=>"Castello di Prangins", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12040103@12.04",
+  "name": {
+    "german": "Château de Prangins",
+    "french": "Château de Prangins",
+    "italian": "Castello di Prangins",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Château de Prangins",
+    "postalCode": "1197",
+    "location": "Prangins",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 22 99 48890",
+    "fax": "",
+    "email": "info.prangins@museenational.ch",
+    "homepage": {
+      "german": "www.chateaudeprangins.ch",
+      "french": "www.chateaudeprangins.ch",
+      "italian": "www.chateaudeprangins.ch",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-0428526",
+      "surname": "Bieri Thomson",
+      "givenName": "Helen",
+      "email": null,
+      "phone": "+41 22 99 48892",
+      "function": {
+        "german": "Geschäftsführerin Château de Prangins",
+        "french": "Geschäftsführerin Château de Prangins",
+        "italian": "Geschäftsführerin Château de Prangins",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3006779",
+      "surname": "Vermeil",
+      "givenName": "Catherine",
+      "email": null,
+      "phone": "+41 22 99 48891",
+      "function": {
+        "german": "Stv. Geschäftsführerin Château de Prangins",
+        "french": "Stv. Geschäftsführerin Château de Prangins",
+        "italian": "Stv. Geschäftsführerin Château de Prangins",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040100@12.04",
+      "label": {
+        "german": "SNM",
+        "french": "MNS",
+        "italian": "MNS",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Nationalmuseum",
+        "french": "Musée National Suisse",
+        "italian": "Museo Nazionale Svizzero",
+        "english": ""
+      }
+    },
+    {
+      "id": "12040103@12.04",
+      "label": {
+        "german": "Château de Prangins",
+        "french": "Château de Prangins",
+        "italian": "Castello di Prangins",
+        "english": ""
+      },
+      "name": {
+        "german": "Château de Prangins",
+        "french": "Château de Prangins",
+        "italian": "Castello di Prangins",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

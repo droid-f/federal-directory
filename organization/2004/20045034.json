@@ -1,1 +1,201 @@
-{"id"=>"20045034", "name"=>{"german"=>"Asylverfahren und Praxis 3", "french"=>"Procédure d'asile et pratique 3", "italian"=>"Procedura d'asilo e prassi 3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8434671", "surname"=>"Schweizer", "givenName"=>"Régine", "email"=>nil, "phone"=>"+41 58 46 59954", "function"=>{"german"=>"Chef/in Sektion im Job-Sharing", "french"=>"Chef/in Sektion im Job-Sharing", "italian"=>"Chef/in Sektion im Job-Sharing", "english"=>"Chef/in Sektion im Job-Sharing"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6256043", "surname"=>"Winkler", "givenName"=>"Philip", "email"=>nil, "phone"=>"+41 58 46 59758", "function"=>{"german"=>"Chef/in Sektion im Job-Sharing", "french"=>"Chef/in Sektion im Job-Sharing", "italian"=>"Chef/in Sektion im Job-Sharing", "english"=>"Chef/in Sektion im Job-Sharing"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3836949", "surname"=>"Leuenberger", "givenName"=>"Marco", "email"=>nil, "phone"=>"+41 58 46 59934", "function"=>{"german"=>"wiss. Adjunkt/in", "french"=>"wiss. Adjunkt/in", "italian"=>"wiss. Adjunkt/in", "english"=>"wiss. Adjunkt/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026310", "label"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}, "name"=>{"german"=>"Asyl", "french"=>"Asile", "italian"=>"Asilo", "english"=>""}}, {"id"=>"20045030", "label"=>{"german"=>"Asylverfahren und Praxis", "french"=>"Procédure d'asile et pratique", "italian"=>"Procedura d'asilo e prassi", "english"=>""}, "name"=>{"german"=>"Asylverfahren und Praxis", "french"=>"Procédure d'asile et pratique", "italian"=>"Procedura d'asilo e prassi", "english"=>""}}, {"id"=>"20045034", "label"=>{"german"=>"Asylverfahren und Praxis 3", "french"=>"Procédure d'asile et pratique 3", "italian"=>"Procedura d'asilo e prassi 3", "english"=>""}, "name"=>{"german"=>"Asylverfahren und Praxis 3", "french"=>"Procédure d'asile et pratique 3", "italian"=>"Procedura d'asilo e prassi 3", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045034",
+  "name": {
+    "german": "Asylverfahren und Praxis 3",
+    "french": "Procédure d'asile et pratique 3",
+    "italian": "Procedura d'asilo e prassi 3",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8434671",
+      "surname": "Schweizer",
+      "givenName": "Régine",
+      "email": null,
+      "phone": "+41 58 46 59954",
+      "function": {
+        "german": "Chef/in Sektion im Job-Sharing",
+        "french": "Chef/in Sektion im Job-Sharing",
+        "italian": "Chef/in Sektion im Job-Sharing",
+        "english": "Chef/in Sektion im Job-Sharing"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6256043",
+      "surname": "Winkler",
+      "givenName": "Philip",
+      "email": null,
+      "phone": "+41 58 46 59758",
+      "function": {
+        "german": "Chef/in Sektion im Job-Sharing",
+        "french": "Chef/in Sektion im Job-Sharing",
+        "italian": "Chef/in Sektion im Job-Sharing",
+        "english": "Chef/in Sektion im Job-Sharing"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3836949",
+      "surname": "Leuenberger",
+      "givenName": "Marco",
+      "email": null,
+      "phone": "+41 58 46 59934",
+      "function": {
+        "german": "wiss. Adjunkt/in",
+        "french": "wiss. Adjunkt/in",
+        "italian": "wiss. Adjunkt/in",
+        "english": "wiss. Adjunkt/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026310",
+      "label": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Asyl",
+        "french": "Asile",
+        "italian": "Asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045030",
+      "label": {
+        "german": "Asylverfahren und Praxis",
+        "french": "Procédure d'asile et pratique",
+        "italian": "Procedura d'asilo e prassi",
+        "english": ""
+      },
+      "name": {
+        "german": "Asylverfahren und Praxis",
+        "french": "Procédure d'asile et pratique",
+        "italian": "Procedura d'asilo e prassi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045034",
+      "label": {
+        "german": "Asylverfahren und Praxis 3",
+        "french": "Procédure d'asile et pratique 3",
+        "italian": "Procedura d'asilo e prassi 3",
+        "english": ""
+      },
+      "name": {
+        "german": "Asylverfahren und Praxis 3",
+        "french": "Procédure d'asile et pratique 3",
+        "italian": "Procedura d'asilo e prassi 3",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

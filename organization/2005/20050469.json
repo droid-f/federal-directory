@@ -1,1 +1,185 @@
-{"id"=>"20050469", "name"=>{"german"=>"Direktionsbereich Digitale Transformation und Steuerung", "french"=>"Unité de direction Transformation numérique et pilotage", "italian"=>"Unità di direzione Trasformazione digitale e gestione strategica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046667", "name"=>{"german"=>"Abteilung Digitale Transformation", "french"=>"Division Transformation numérique", "italian"=>"Divisione Trasformazione digitale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20050471", "name"=>{"german"=>"Abteilung Steuerung", "french"=>"Division Pilotage", "italian"=>"Divisione Gestione strategica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048303", "name"=>{"german"=>"Stab des Direktionsbereich Digitale Transformation und Steuerung", "french"=>"État-major de la division Transformation numérique", "italian"=>"Stato maggiore delle divisioni Transformatione digitale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1677702", "surname"=>"Mehira", "givenName"=>"Nassima", "email"=>nil, "phone"=>"+41 58 46 73949", "function"=>{"german"=>"Direktionsbereichsleiter/in u. Ltg. AL", "french"=>"Ltg. Ressourcenmanagement", "italian"=>"Ltg. Ressourcenmanagement", "english"=>"Direktionsbereichsleiter/in u. Ltg. AL"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20050469", "label"=>{"german"=>"Direktionsbereich Digitale Transformation und Steuerung", "french"=>"Unité de direction Transformation numérique et pilotage", "italian"=>"Unità di direzione Trasformazione digitale e gestione strategica", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Digitale Transformation und Steuerung", "french"=>"Unité de direction Transformation numérique et pilotage", "italian"=>"Unità di direzione Trasformazione digitale e gestione strategica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050469",
+  "name": {
+    "german": "Direktionsbereich Digitale Transformation und Steuerung",
+    "french": "Unité de direction Transformation numérique et pilotage",
+    "italian": "Unità di direzione Trasformazione digitale e gestione strategica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046667",
+      "name": {
+        "german": "Abteilung Digitale Transformation",
+        "french": "Division Transformation numérique",
+        "italian": "Divisione Trasformazione digitale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050471",
+      "name": {
+        "german": "Abteilung Steuerung",
+        "french": "Division Pilotage",
+        "italian": "Divisione Gestione strategica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048303",
+      "name": {
+        "german": "Stab des Direktionsbereich Digitale Transformation und Steuerung",
+        "french": "État-major de la division Transformation numérique",
+        "italian": "Stato maggiore delle divisioni Transformatione digitale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1677702",
+      "surname": "Mehira",
+      "givenName": "Nassima",
+      "email": null,
+      "phone": "+41 58 46 73949",
+      "function": {
+        "german": "Direktionsbereichsleiter/in u. Ltg. AL",
+        "french": "Ltg. Ressourcenmanagement",
+        "italian": "Ltg. Ressourcenmanagement",
+        "english": "Direktionsbereichsleiter/in u. Ltg. AL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050469",
+      "label": {
+        "german": "Direktionsbereich Digitale Transformation und Steuerung",
+        "french": "Unité de direction Transformation numérique et pilotage",
+        "italian": "Unità di direzione Trasformazione digitale e gestione strategica",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Digitale Transformation und Steuerung",
+        "french": "Unité de direction Transformation numérique et pilotage",
+        "italian": "Unità di direzione Trasformazione digitale e gestione strategica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

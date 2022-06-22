@@ -1,1 +1,212 @@
-{"id"=>"20027483", "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20039609", "name"=>{"german"=>"Büro des Bundesanwalts", "french"=>"Bureau du Procureur général", "italian"=>"Ufficio del Procuratore generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018752", "name"=>{"german"=>"Staatsschutz, Kriminelle Organisationen", "french"=>"Protection de l'Etat, Organisations criminelles", "italian"=>"Protezione dello Stato, Organizzazioni criminali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009577", "name"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000930", "name"=>{"german"=>"Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber", "french"=>"Entraide judiciaire, Terrorisme, Droit pénal international, Cyber", "italian"=>"Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000928", "name"=>{"german"=>"Forensische Finanzanalyse", "french"=>"Analyse financière forensique", "italian"=>"Analisi finanziaria forense", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20033178", "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1XL7YVVX7", "surname"=>"Blättler", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 51151", "function"=>{"german"=>"Bundesanwalt", "french"=>"Procureur général de la Confédération", "italian"=>"Procuratore generale della Conf.", "english"=>"Bundesanwalt"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9373093", "surname"=>"Montanari", "givenName"=>"Ruedi", "email"=>nil, "phone"=>"+41 58 46 20691", "function"=>{"german"=>"Stellvertretender Bundesanwalt", "french"=>"Procureur général suppléant", "italian"=>"Sostituto procuratore generale della Confederazione", "english"=>"Stellvertretender Bundesanwalt"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9680717", "surname"=>"Rayroud", "givenName"=>"Jacques", "email"=>nil, "phone"=>"+41 58 46 33380", "function"=>{"german"=>"Stellvertretender Bundesanwalt", "french"=>"Procureur général suppléant", "italian"=>"Sostituto procuratore generale della Confederazione", "english"=>"Stellvertretender Bundesanwalt"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027483",
+  "name": {
+    "german": "Geschäftsleitung",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20039609",
+      "name": {
+        "german": "Büro des Bundesanwalts",
+        "french": "Bureau du Procureur général",
+        "italian": "Ufficio del Procuratore generale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018752",
+      "name": {
+        "german": "Staatsschutz, Kriminelle Organisationen",
+        "french": "Protection de l'Etat, Organisations criminelles",
+        "italian": "Protezione dello Stato, Organizzazioni criminali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009577",
+      "name": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000930",
+      "name": {
+        "german": "Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber",
+        "french": "Entraide judiciaire, Terrorisme, Droit pénal international, Cyber",
+        "italian": "Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000928",
+      "name": {
+        "german": "Forensische Finanzanalyse",
+        "french": "Analyse financière forensique",
+        "italian": "Analisi finanziaria forense",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033178",
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1XL7YVVX7",
+      "surname": "Blättler",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 51151",
+      "function": {
+        "german": "Bundesanwalt",
+        "french": "Procureur général de la Confédération",
+        "italian": "Procuratore generale della Conf.",
+        "english": "Bundesanwalt"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9373093",
+      "surname": "Montanari",
+      "givenName": "Ruedi",
+      "email": null,
+      "phone": "+41 58 46 20691",
+      "function": {
+        "german": "Stellvertretender Bundesanwalt",
+        "french": "Procureur général suppléant",
+        "italian": "Sostituto procuratore generale della Confederazione",
+        "english": "Stellvertretender Bundesanwalt"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9680717",
+      "surname": "Rayroud",
+      "givenName": "Jacques",
+      "email": null,
+      "phone": "+41 58 46 33380",
+      "function": {
+        "german": "Stellvertretender Bundesanwalt",
+        "french": "Procureur général suppléant",
+        "italian": "Sostituto procuratore generale della Confederazione",
+        "english": "Stellvertretender Bundesanwalt"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,290 @@
-{"id"=>"10000870", "name"=>{"german"=>"Abteilung Westafrika", "french"=>"Division Afrique de l'Ouest", "italian"=>"Divisione Africa occidentale", "english"=>"Division West Africa"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20048711", "name"=>{"german"=>"Operationen", "french"=>"Opérations", "italian"=>"Operazioni", "english"=>"Operations"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048712", "name"=>{"german"=>"Bildung", "french"=>"Éducation", "italian"=>"Istruzione", "english"=>"Education"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048713", "name"=>{"german"=>"Finanzen und Administration", "french"=>"Finances et administration", "italian"=>"Finanze e amministrazione", "english"=>"Finance and Administration"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000873", "name"=>{"german"=>"Kobü Bamako", "french"=>"Buco Bamako", "italian"=>"Ufco Bamako", "english"=>"SCO Bamako"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000872", "name"=>{"german"=>"Kobü Cotonou", "french"=>"Buco Cotonou", "italian"=>"Ufco Cotonou", "english"=>"SCO Cotonou"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000871", "name"=>{"german"=>"Kobü N’Djamena", "french"=>"Buco N'Djamena", "italian"=>"Ufco N'Djamena", "english"=>"SCO N'Djamena"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000875", "name"=>{"german"=>"Kobü Niamey", "french"=>"Buco Niamey", "italian"=>"Ufco Niamey", "english"=>"SCO Niamey"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000874", "name"=>{"german"=>"Kobü Ouagadougou", "french"=>"Buco Ouagadougou", "italian"=>"Ufco Ouagadougou", "english"=>"SCO Ouagadougou"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5616887", "surname"=>"Tognola", "givenName"=>"Claudio", "email"=>nil, "phone"=>"+41 58 46 24419", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2140865", "surname"=>"Lüscher", "givenName"=>"Lukas", "email"=>nil, "phone"=>"+41 58 46 53575", "function"=>{"german"=>"Stv. Chef/in", "french"=>"Stv. Chef/in", "italian"=>"Stv. Chef/in", "english"=>"Stv. Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1448215", "surname"=>"de Picciotto", "givenName"=>"Giancarlo", "email"=>nil, "phone"=>"+41 58 46 46956", "function"=>{"german"=>"Senior Adviser", "french"=>"Senior Adviser", "italian"=>"Senior Adviser", "english"=>"Senior Adviser"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}, {"id"=>"10000713", "label"=>{"german"=>"Direktionsbereich Südzusammenarbeit", "french"=>"Domaine de dir. Coopération Sud", "italian"=>"Settore di dir. Cooperazione Sud", "english"=>"Corporate Domain Cooperation South"}, "name"=>{"german"=>"Direktionsbereich Südzusammenarbeit", "french"=>"Domaine de dir. Coopération Sud", "italian"=>"Settore di dir. Cooperazione Sud", "english"=>"Corporate Domain Cooperation South"}}, {"id"=>"10000870", "label"=>{"german"=>"Abteilung Westafrika", "french"=>"Division Afrique de l'Ouest", "italian"=>"Divisione Africa occidentale", "english"=>"Division West Africa"}, "name"=>{"german"=>"Abteilung Westafrika", "french"=>"Division Afrique de l'Ouest", "italian"=>"Divisione Africa occidentale", "english"=>"Division West Africa"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10000870",
+  "name": {
+    "german": "Abteilung Westafrika",
+    "french": "Division Afrique de l'Ouest",
+    "italian": "Divisione Africa occidentale",
+    "english": "Division West Africa"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20048711",
+      "name": {
+        "german": "Operationen",
+        "french": "Opérations",
+        "italian": "Operazioni",
+        "english": "Operations"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048712",
+      "name": {
+        "german": "Bildung",
+        "french": "Éducation",
+        "italian": "Istruzione",
+        "english": "Education"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048713",
+      "name": {
+        "german": "Finanzen und Administration",
+        "french": "Finances et administration",
+        "italian": "Finanze e amministrazione",
+        "english": "Finance and Administration"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000873",
+      "name": {
+        "german": "Kobü Bamako",
+        "french": "Buco Bamako",
+        "italian": "Ufco Bamako",
+        "english": "SCO Bamako"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000872",
+      "name": {
+        "german": "Kobü Cotonou",
+        "french": "Buco Cotonou",
+        "italian": "Ufco Cotonou",
+        "english": "SCO Cotonou"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000871",
+      "name": {
+        "german": "Kobü N’Djamena",
+        "french": "Buco N'Djamena",
+        "italian": "Ufco N'Djamena",
+        "english": "SCO N'Djamena"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000875",
+      "name": {
+        "german": "Kobü Niamey",
+        "french": "Buco Niamey",
+        "italian": "Ufco Niamey",
+        "english": "SCO Niamey"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000874",
+      "name": {
+        "german": "Kobü Ouagadougou",
+        "french": "Buco Ouagadougou",
+        "italian": "Ufco Ouagadougou",
+        "english": "SCO Ouagadougou"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5616887",
+      "surname": "Tognola",
+      "givenName": "Claudio",
+      "email": null,
+      "phone": "+41 58 46 24419",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2140865",
+      "surname": "Lüscher",
+      "givenName": "Lukas",
+      "email": null,
+      "phone": "+41 58 46 53575",
+      "function": {
+        "german": "Stv. Chef/in",
+        "french": "Stv. Chef/in",
+        "italian": "Stv. Chef/in",
+        "english": "Stv. Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1448215",
+      "surname": "de Picciotto",
+      "givenName": "Giancarlo",
+      "email": null,
+      "phone": "+41 58 46 46956",
+      "function": {
+        "german": "Senior Adviser",
+        "french": "Senior Adviser",
+        "italian": "Senior Adviser",
+        "english": "Senior Adviser"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    },
+    {
+      "id": "10000713",
+      "label": {
+        "german": "Direktionsbereich Südzusammenarbeit",
+        "french": "Domaine de dir. Coopération Sud",
+        "italian": "Settore di dir. Cooperazione Sud",
+        "english": "Corporate Domain Cooperation South"
+      },
+      "name": {
+        "german": "Direktionsbereich Südzusammenarbeit",
+        "french": "Domaine de dir. Coopération Sud",
+        "italian": "Settore di dir. Cooperazione Sud",
+        "english": "Corporate Domain Cooperation South"
+      }
+    },
+    {
+      "id": "10000870",
+      "label": {
+        "german": "Abteilung Westafrika",
+        "french": "Division Afrique de l'Ouest",
+        "italian": "Divisione Africa occidentale",
+        "english": "Division West Africa"
+      },
+      "name": {
+        "german": "Abteilung Westafrika",
+        "french": "Division Afrique de l'Ouest",
+        "italian": "Divisione Africa occidentale",
+        "english": "Division West Africa"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

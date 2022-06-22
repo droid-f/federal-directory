@@ -1,1 +1,225 @@
-{"id"=>"20032851", "name"=>{"german"=>"Delegierter Sicherheitsverbund Schweiz", "french"=>"Délégue du Réseau national de sécurité", "italian"=>"Delegato della Rete integrata Svizzera per la sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Maulbeerstrasse 9", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2390066", "surname"=>"Duvillard", "givenName"=>"André", "email"=>nil, "phone"=>"+41 58 46 42113", "function"=>{"german"=>"Delegierter Sicherheitsverbund Schweiz", "french"=>"Delegierter Sicherheitsverbund Schweiz", "italian"=>"Delegierter Sicherheitsverbund Schweiz", "english"=>"Delegierter Sicherheitsverbund Schweiz"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7276353", "surname"=>"Aeberhard", "givenName"=>"Janine", "email"=>nil, "phone"=>"+41 58 46 44317", "function"=>{"german"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "french"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "italian"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "english"=>"Wissenschaftliche/r Mitarbeiter/in SVS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0003635", "surname"=>"Gantenbein", "givenName"=>"Sabrina", "email"=>nil, "phone"=>"+41 58 48 05095", "function"=>{"german"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "french"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "italian"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "english"=>"Wissenschaftliche/r Mitarbeiter/in SVS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0499649", "surname"=>"Panchaud", "givenName"=>"Charline", "email"=>nil, "phone"=>"+41 58 48 17917", "function"=>{"german"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "french"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "italian"=>"Wissenschaftliche/r Mitarbeiter/in SVS", "english"=>"Wissenschaftliche/r Mitarbeiter/in SVS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1Y18DX6G3", "surname"=>"von Muralt", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 20024", "function"=>{"german"=>"Wissenschaftlicher Mitarbeiter", "french"=>"Wissenschaftlicher Mitarbeiter", "italian"=>"Wissenschaftlicher Mitarbeiter", "english"=>"Wissenschaftlicher Mitarbeiter"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5372294", "surname"=>"Zwygart", "givenName"=>"Regula", "email"=>nil, "phone"=>"+41 58 46 22029", "function"=>{"german"=>"Admin. Leiter/in Geschäftsstelle SVS", "french"=>"Admin. Leiter/in Geschäftsstelle SVS", "italian"=>"Admin. Leiter/in Geschäftsstelle SVS", "english"=>"Admin. Leiter/in Geschäftsstelle SVS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20012273", "label"=>{"german"=>"Sicherheitspolitik", "french"=>"Politique de sécurité", "italian"=>"Politica di sicurezza", "english"=>""}, "name"=>{"german"=>"Sicherheitspolitik", "french"=>"Politique de sécurité", "italian"=>"Politica di sicurezza", "english"=>""}}, {"id"=>"20032851", "label"=>{"german"=>"Delegierter Sicherheitsverbund Schweiz", "french"=>"Délégue du Réseau national de sécurité", "italian"=>"Delegato della Rete integrata Svizzera per la sicurezza", "english"=>""}, "name"=>{"german"=>"Delegierter Sicherheitsverbund Schweiz", "french"=>"Délégue du Réseau national de sécurité", "italian"=>"Delegato della Rete integrata Svizzera per la sicurezza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20032851",
+  "name": {
+    "german": "Delegierter Sicherheitsverbund Schweiz",
+    "french": "Délégue du Réseau national de sécurité",
+    "italian": "Delegato della Rete integrata Svizzera per la sicurezza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Maulbeerstrasse 9",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2390066",
+      "surname": "Duvillard",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 58 46 42113",
+      "function": {
+        "german": "Delegierter Sicherheitsverbund Schweiz",
+        "french": "Delegierter Sicherheitsverbund Schweiz",
+        "italian": "Delegierter Sicherheitsverbund Schweiz",
+        "english": "Delegierter Sicherheitsverbund Schweiz"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7276353",
+      "surname": "Aeberhard",
+      "givenName": "Janine",
+      "email": null,
+      "phone": "+41 58 46 44317",
+      "function": {
+        "german": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "french": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "italian": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "english": "Wissenschaftliche/r Mitarbeiter/in SVS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0003635",
+      "surname": "Gantenbein",
+      "givenName": "Sabrina",
+      "email": null,
+      "phone": "+41 58 48 05095",
+      "function": {
+        "german": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "french": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "italian": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "english": "Wissenschaftliche/r Mitarbeiter/in SVS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0499649",
+      "surname": "Panchaud",
+      "givenName": "Charline",
+      "email": null,
+      "phone": "+41 58 48 17917",
+      "function": {
+        "german": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "french": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "italian": "Wissenschaftliche/r Mitarbeiter/in SVS",
+        "english": "Wissenschaftliche/r Mitarbeiter/in SVS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1Y18DX6G3",
+      "surname": "von Muralt",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 20024",
+      "function": {
+        "german": "Wissenschaftlicher Mitarbeiter",
+        "french": "Wissenschaftlicher Mitarbeiter",
+        "italian": "Wissenschaftlicher Mitarbeiter",
+        "english": "Wissenschaftlicher Mitarbeiter"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5372294",
+      "surname": "Zwygart",
+      "givenName": "Regula",
+      "email": null,
+      "phone": "+41 58 46 22029",
+      "function": {
+        "german": "Admin. Leiter/in Geschäftsstelle SVS",
+        "french": "Admin. Leiter/in Geschäftsstelle SVS",
+        "italian": "Admin. Leiter/in Geschäftsstelle SVS",
+        "english": "Admin. Leiter/in Geschäftsstelle SVS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012273",
+      "label": {
+        "german": "Sicherheitspolitik",
+        "french": "Politique de sécurité",
+        "italian": "Politica di sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Sicherheitspolitik",
+        "french": "Politique de sécurité",
+        "italian": "Politica di sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20032851",
+      "label": {
+        "german": "Delegierter Sicherheitsverbund Schweiz",
+        "french": "Délégue du Réseau national de sécurité",
+        "italian": "Delegato della Rete integrata Svizzera per la sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Delegierter Sicherheitsverbund Schweiz",
+        "french": "Délégue du Réseau national de sécurité",
+        "italian": "Delegato della Rete integrata Svizzera per la sicurezza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

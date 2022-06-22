@@ -1,1 +1,171 @@
-{"id"=>"20036304", "name"=>{"german"=>"Regionale Partizipation", "french"=>"Service Participation régionale", "italian"=>"Servizio Partecipazione regionale", "english"=>"Entsorgungspolitische Grundlagen"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5395132", "surname"=>"Jordi", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 25753", "function"=>{"german"=>"Leiter/in Regionale Partizipation / Stv.", "french"=>"Leiter/in Regionale Partizipation / Stv.", "italian"=>"Leiter/in Regionale Partizipation / Stv.", "english"=>"Leiter/in Regionale Partizipation / Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002571", "label"=>{"german"=>"Abteilung Recht und Sachplanung", "french"=>"Division Droit et planification sectorielle", "italian"=>"Divisione Diritto e pianificazione settoriale", "english"=>""}, "name"=>{"german"=>"Abteilung Recht und Sachplanung", "french"=>"Division Droit et planification sectorielle", "italian"=>"Divisione Diritto e pianificazione settoriale", "english"=>""}}, {"id"=>"20014728", "label"=>{"german"=>"Entsorgung radioaktive Abfälle", "french"=>"Gestion des déchets radioactifs", "italian"=>"Smaltimento delle scorie radioattive", "english"=>""}, "name"=>{"german"=>"Entsorgung radioaktive Abfälle", "french"=>"Gestion des déchets radioactifs", "italian"=>"Smaltimento delle scorie radioattive", "english"=>""}}, {"id"=>"20036304", "label"=>{"german"=>"Regionale Partizipation", "french"=>"Service Participation régionale", "italian"=>"Servizio Partecipazione regionale", "english"=>"Entsorgungspolitische Grundlagen"}, "name"=>{"german"=>"Regionale Partizipation", "french"=>"Service Participation régionale", "italian"=>"Servizio Partecipazione regionale", "english"=>"Entsorgungspolitische Grundlagen"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20036304",
+  "name": {
+    "german": "Regionale Partizipation",
+    "french": "Service Participation régionale",
+    "italian": "Servizio Partecipazione regionale",
+    "english": "Entsorgungspolitische Grundlagen"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5395132",
+      "surname": "Jordi",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 25753",
+      "function": {
+        "german": "Leiter/in Regionale Partizipation / Stv.",
+        "french": "Leiter/in Regionale Partizipation / Stv.",
+        "italian": "Leiter/in Regionale Partizipation / Stv.",
+        "english": "Leiter/in Regionale Partizipation / Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002571",
+      "label": {
+        "german": "Abteilung Recht und Sachplanung",
+        "french": "Division Droit et planification sectorielle",
+        "italian": "Divisione Diritto e pianificazione settoriale",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Recht und Sachplanung",
+        "french": "Division Droit et planification sectorielle",
+        "italian": "Divisione Diritto e pianificazione settoriale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014728",
+      "label": {
+        "german": "Entsorgung radioaktive Abfälle",
+        "french": "Gestion des déchets radioactifs",
+        "italian": "Smaltimento delle scorie radioattive",
+        "english": ""
+      },
+      "name": {
+        "german": "Entsorgung radioaktive Abfälle",
+        "french": "Gestion des déchets radioactifs",
+        "italian": "Smaltimento delle scorie radioattive",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036304",
+      "label": {
+        "german": "Regionale Partizipation",
+        "french": "Service Participation régionale",
+        "italian": "Servizio Partecipazione regionale",
+        "english": "Entsorgungspolitische Grundlagen"
+      },
+      "name": {
+        "german": "Regionale Partizipation",
+        "french": "Service Participation régionale",
+        "italian": "Servizio Partecipazione regionale",
+        "english": "Entsorgungspolitische Grundlagen"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

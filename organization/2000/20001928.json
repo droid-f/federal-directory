@@ -1,1 +1,186 @@
-{"id"=>"20001928", "name"=>{"german"=>"Fachstelle Evaluation und Forschung", "french"=>"Service Evaluation et recherche", "italian"=>"Servizio valutazione e ricerca", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9391382", "surname"=>"Brunold", "givenName"=>"Herbert", "email"=>nil, "phone"=>"+41 58 46 38803", "function"=>{"german"=>"Ltg. Evaluation u. Forschung", "french"=>"Ltg. Evaluation u. Forschung", "italian"=>"Ltg. Evaluation u. Forschung", "english"=>"Ltg. Evaluation u. Forschung"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2065866", "surname"=>"Weber", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 38724", "function"=>{"german"=>"Stv. Evaluation und Forschung", "french"=>"Stv. Evaluation und Forschung", "italian"=>"Stv. Evaluation und Forschung", "english"=>"Stv. Evaluation und Forschung"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1220450", "surname"=>"Keller", "givenName"=>"Rolf", "email"=>nil, "phone"=>"+41 58 46 32122", "function"=>{"german"=>"Stab DT", "french"=>"Ltg Stab DB Gesundheitspolitik", "italian"=>"Ltg Stab DB Gesundheitspolitik", "english"=>"Stab DT"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004551", "label"=>{"german"=>"Abteilung Direktionsstab", "french"=>"Division Etat-major de la direction", "italian"=>"Divisione stato maggiore di direzione", "english"=>""}, "name"=>{"german"=>"Abteilung Direktionsstab", "french"=>"Division Etat-major de la direction", "italian"=>"Divisione stato maggiore di direzione", "english"=>""}}, {"id"=>"20001928", "label"=>{"german"=>"Fachstelle Evaluation und Forschung", "french"=>"Service Evaluation et recherche", "italian"=>"Servizio valutazione e ricerca", "english"=>""}, "name"=>{"german"=>"Fachstelle Evaluation und Forschung", "french"=>"Service Evaluation et recherche", "italian"=>"Servizio valutazione e ricerca", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20001928",
+  "name": {
+    "german": "Fachstelle Evaluation und Forschung",
+    "french": "Service Evaluation et recherche",
+    "italian": "Servizio valutazione e ricerca",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9391382",
+      "surname": "Brunold",
+      "givenName": "Herbert",
+      "email": null,
+      "phone": "+41 58 46 38803",
+      "function": {
+        "german": "Ltg. Evaluation u. Forschung",
+        "french": "Ltg. Evaluation u. Forschung",
+        "italian": "Ltg. Evaluation u. Forschung",
+        "english": "Ltg. Evaluation u. Forschung"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2065866",
+      "surname": "Weber",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 38724",
+      "function": {
+        "german": "Stv. Evaluation und Forschung",
+        "french": "Stv. Evaluation und Forschung",
+        "italian": "Stv. Evaluation und Forschung",
+        "english": "Stv. Evaluation und Forschung"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1220450",
+      "surname": "Keller",
+      "givenName": "Rolf",
+      "email": null,
+      "phone": "+41 58 46 32122",
+      "function": {
+        "german": "Stab DT",
+        "french": "Ltg Stab DB Gesundheitspolitik",
+        "italian": "Ltg Stab DB Gesundheitspolitik",
+        "english": "Stab DT"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004551",
+      "label": {
+        "german": "Abteilung Direktionsstab",
+        "french": "Division Etat-major de la direction",
+        "italian": "Divisione stato maggiore di direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Direktionsstab",
+        "french": "Division Etat-major de la direction",
+        "italian": "Divisione stato maggiore di direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20001928",
+      "label": {
+        "german": "Fachstelle Evaluation und Forschung",
+        "french": "Service Evaluation et recherche",
+        "italian": "Servizio valutazione e ricerca",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachstelle Evaluation und Forschung",
+        "french": "Service Evaluation et recherche",
+        "italian": "Servizio valutazione e ricerca",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

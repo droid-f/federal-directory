@@ -1,1 +1,155 @@
-{"id"=>"20014811", "name"=>{"german"=>"Betrieb und Sicherheit", "french"=>"Exploitation et sécurité", "italian"=>"Mantenimento e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046714", "name"=>{"german"=>"Hausdienst", "french"=>"Exploitation et sécurité", "italian"=>"Mantenimento e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046715", "name"=>{"german"=>"Empfang + Sicherheit", "french"=>"Exploitation et sécurité", "italian"=>"Mantenimento e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5740253", "surname"=>"Spiak", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 05062", "function"=>{"german"=>"Leiter/in Betrieb und Sicherheit", "french"=>"Responsable Exploitation et sécurité", "italian"=>"Responsabile Gestione e sicurezza", "english"=>"Leiter/in Betrieb und Sicherheit"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20010731", "label"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segretariato generale", "english"=>""}}, {"id"=>"20014807", "label"=>{"german"=>"Finanzen und Services", "french"=>"Finances et Services", "italian"=>"Finanze e Servizi", "english"=>""}, "name"=>{"german"=>"Finanzen und Services", "french"=>"Finances et Services", "italian"=>"Finanze e Servizi", "english"=>""}}, {"id"=>"20014811", "label"=>{"german"=>"Betrieb und Sicherheit", "french"=>"Exploitation et sécurité", "italian"=>"Mantenimento e sicurezza", "english"=>""}, "name"=>{"german"=>"Betrieb und Sicherheit", "french"=>"Exploitation et sécurité", "italian"=>"Mantenimento e sicurezza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014811",
+  "name": {
+    "german": "Betrieb und Sicherheit",
+    "french": "Exploitation et sécurité",
+    "italian": "Mantenimento e sicurezza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046714",
+      "name": {
+        "german": "Hausdienst",
+        "french": "Exploitation et sécurité",
+        "italian": "Mantenimento e sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046715",
+      "name": {
+        "german": "Empfang + Sicherheit",
+        "french": "Exploitation et sécurité",
+        "italian": "Mantenimento e sicurezza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5740253",
+      "surname": "Spiak",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 05062",
+      "function": {
+        "german": "Leiter/in Betrieb und Sicherheit",
+        "french": "Responsable Exploitation et sécurité",
+        "italian": "Responsabile Gestione e sicurezza",
+        "english": "Leiter/in Betrieb und Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010731",
+      "label": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segretariato generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014807",
+      "label": {
+        "german": "Finanzen und Services",
+        "french": "Finances et Services",
+        "italian": "Finanze e Servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen und Services",
+        "french": "Finances et Services",
+        "italian": "Finanze e Servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014811",
+      "label": {
+        "german": "Betrieb und Sicherheit",
+        "french": "Exploitation et sécurité",
+        "italian": "Mantenimento e sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Betrieb und Sicherheit",
+        "french": "Exploitation et sécurité",
+        "italian": "Mantenimento e sicurezza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

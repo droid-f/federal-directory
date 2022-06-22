@@ -1,1 +1,170 @@
-{"id"=>"20034187", "name"=>{"german"=>"Spitalsektor", "french"=>"Secteur des hôpitaux", "italian"=>"Settore ospedaliero", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20002655", "label"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}, "name"=>{"german"=>"Abteilung Gesundheit und Soziales", "french"=>"Division Santé et affaires sociales", "italian"=>"Divisione Salute e affari sociali", "english"=>""}}, {"id"=>"10004656", "label"=>{"german"=>"Sektion Gesundheitsversorgung", "french"=>"Section Services de santé", "italian"=>"Sezione Sistema sanitario", "english"=>""}, "name"=>{"german"=>"Sektion Gesundheitsversorgung", "french"=>"Section Services de santé", "italian"=>"Sezione Sistema sanitario", "english"=>""}}, {"id"=>"20015358", "label"=>{"german"=>"Stationäre Gesundheitsversorgung", "french"=>"Services stationnaires de santé", "italian"=>"Servizi sanitari stazionari", "english"=>""}, "name"=>{"german"=>"Stationäre Gesundheitsversorgung", "french"=>"Services stationnaires de santé", "italian"=>"Servizi sanitari stazionari", "english"=>""}}, {"id"=>"20034187", "label"=>{"german"=>"Spitalsektor", "french"=>"Secteur des hôpitaux", "italian"=>"Settore ospedaliero", "english"=>""}, "name"=>{"german"=>"Spitalsektor", "french"=>"Secteur des hôpitaux", "italian"=>"Settore ospedaliero", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034187",
+  "name": {
+    "german": "Spitalsektor",
+    "french": "Secteur des hôpitaux",
+    "italian": "Settore ospedaliero",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20002655",
+      "label": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Gesundheit und Soziales",
+        "french": "Division Santé et affaires sociales",
+        "italian": "Divisione Salute e affari sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004656",
+      "label": {
+        "german": "Sektion Gesundheitsversorgung",
+        "french": "Section Services de santé",
+        "italian": "Sezione Sistema sanitario",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Gesundheitsversorgung",
+        "french": "Section Services de santé",
+        "italian": "Sezione Sistema sanitario",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015358",
+      "label": {
+        "german": "Stationäre Gesundheitsversorgung",
+        "french": "Services stationnaires de santé",
+        "italian": "Servizi sanitari stazionari",
+        "english": ""
+      },
+      "name": {
+        "german": "Stationäre Gesundheitsversorgung",
+        "french": "Services stationnaires de santé",
+        "italian": "Servizi sanitari stazionari",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034187",
+      "label": {
+        "german": "Spitalsektor",
+        "french": "Secteur des hôpitaux",
+        "italian": "Settore ospedaliero",
+        "english": ""
+      },
+      "name": {
+        "german": "Spitalsektor",
+        "french": "Secteur des hôpitaux",
+        "italian": "Settore ospedaliero",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,173 @@
-{"id"=>"10008851", "name"=>{"german"=>"Stab des Direktionsbereichs Prävention und Gesundheitsversorgung", "french"=>"État-major de l’unité de direction Prévention et soins", "italian"=>"Stato maggiore dell'unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7107620", "surname"=>"Christen", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 38775", "function"=>{"german"=>"Ltg. Stab PuG", "french"=>"Ltg. Stab OeG", "italian"=>"Ltg. Stab OeG", "english"=>"Ltg. Stab PuG"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4734914", "surname"=>"Christemov", "givenName"=>"Cristina", "email"=>nil, "phone"=>"+41 58 46 38774", "function"=>{"german"=>"Stv. Stab, Beschaffungs- u. Finanzspez.", "french"=>"Stv. Stab OeG u. Betriebswirtschafter/in", "italian"=>"Stv. Stab OeG u. Betriebswirtschafter/in", "english"=>"Stv. Stab, Beschaffungs- u. Finanzspez."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004560", "label"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}}, {"id"=>"10008851", "label"=>{"german"=>"Stab des Direktionsbereichs Prävention und Gesundheitsversorgung", "french"=>"État-major de l’unité de direction Prévention et soins", "italian"=>"Stato maggiore dell'unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "name"=>{"german"=>"Stab des Direktionsbereichs Prävention und Gesundheitsversorgung", "french"=>"État-major de l’unité de direction Prévention et soins", "italian"=>"Stato maggiore dell'unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10008851",
+  "name": {
+    "german": "Stab des Direktionsbereichs Prävention und Gesundheitsversorgung",
+    "french": "État-major de l’unité de direction Prévention et soins",
+    "italian": "Stato maggiore dell'unità di direzione Prevenzione e assistenza sanitaria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7107620",
+      "surname": "Christen",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 38775",
+      "function": {
+        "german": "Ltg. Stab PuG",
+        "french": "Ltg. Stab OeG",
+        "italian": "Ltg. Stab OeG",
+        "english": "Ltg. Stab PuG"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4734914",
+      "surname": "Christemov",
+      "givenName": "Cristina",
+      "email": null,
+      "phone": "+41 58 46 38774",
+      "function": {
+        "german": "Stv. Stab, Beschaffungs- u. Finanzspez.",
+        "french": "Stv. Stab OeG u. Betriebswirtschafter/in",
+        "italian": "Stv. Stab OeG u. Betriebswirtschafter/in",
+        "english": "Stv. Stab, Beschaffungs- u. Finanzspez."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004560",
+      "label": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008851",
+      "label": {
+        "german": "Stab des Direktionsbereichs Prävention und Gesundheitsversorgung",
+        "french": "État-major de l’unité de direction Prévention et soins",
+        "italian": "Stato maggiore dell'unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab des Direktionsbereichs Prävention und Gesundheitsversorgung",
+        "french": "État-major de l’unité de direction Prévention et soins",
+        "italian": "Stato maggiore dell'unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

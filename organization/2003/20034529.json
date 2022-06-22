@@ -1,1 +1,232 @@
-{"id"=>"20034529", "name"=>{"german"=>"Abteilung Aufsicht und Sicherheit", "french"=>"Division Surveillance et sécurité", "italian"=>"Divisione Vigilanza e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20035252", "name"=>{"german"=>"Energie und Klima Bund", "french"=>"Énergie et climat Confédération", "italian"=>"Energia e clima Confederazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018292", "name"=>{"german"=>"Aufsicht Talsperren", "french"=>"Surveillance des barrages", "italian"=>"Vigilanza sugli impianti di accumulazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20028356", "name"=>{"german"=>"Safeguards", "french"=>"Safeguards", "italian"=>"Safeguards", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034542", "name"=>{"german"=>"Risikomanagement und Finanzaufsicht", "french"=>"Gestion des risques et surveillance du transport par conduites", "italian"=>"Gestione dei rischi e vigilanza sul trasporto in condotta", "english"=>"Risk Management and Financial Supervisio"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20014729", "name"=>{"german"=>"Sekretariat Eidgenössische Kommission für nukleare Sicherheit", "french"=>"Secrétariat de la Commission fédérale de sécurité nucléaire", "italian"=>"Segreteria della Commissione federale per la sicurezza nucleare", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7606864", "surname"=>"Jungo", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 46 05159", "function"=>{"german"=>"Vizedirektor/in / Leiter/in ASI", "french"=>"Vizedirektor/in / Leiter/in ASI", "italian"=>"Vizedirektor/in / Leiter/in ASI", "english"=>"Vizedirektor/in / Leiter/in ASI"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9906149", "surname"=>"Binder", "givenName"=>"Hans-Peter", "email"=>nil, "phone"=>"+41 58 46 48134", "function"=>{"german"=>"Leiter/in Risikomgmt/Finanzaufsicht/Stv", "french"=>"Leiter/in Risikomgmt/Finanzaufsicht/Stv", "italian"=>"Leiter/in Risikomgmt/Finanzaufsicht/Stv", "english"=>"Leiter/in Risikomgmt/Finanzaufsicht/Stv"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20034529", "label"=>{"german"=>"Abteilung Aufsicht und Sicherheit", "french"=>"Division Surveillance et sécurité", "italian"=>"Divisione Vigilanza e sicurezza", "english"=>""}, "name"=>{"german"=>"Abteilung Aufsicht und Sicherheit", "french"=>"Division Surveillance et sécurité", "italian"=>"Divisione Vigilanza e sicurezza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034529",
+  "name": {
+    "german": "Abteilung Aufsicht und Sicherheit",
+    "french": "Division Surveillance et sécurité",
+    "italian": "Divisione Vigilanza e sicurezza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20035252",
+      "name": {
+        "german": "Energie und Klima Bund",
+        "french": "Énergie et climat Confédération",
+        "italian": "Energia e clima Confederazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018292",
+      "name": {
+        "german": "Aufsicht Talsperren",
+        "french": "Surveillance des barrages",
+        "italian": "Vigilanza sugli impianti di accumulazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20028356",
+      "name": {
+        "german": "Safeguards",
+        "french": "Safeguards",
+        "italian": "Safeguards",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034542",
+      "name": {
+        "german": "Risikomanagement und Finanzaufsicht",
+        "french": "Gestion des risques et surveillance du transport par conduites",
+        "italian": "Gestione dei rischi e vigilanza sul trasporto in condotta",
+        "english": "Risk Management and Financial Supervisio"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014729",
+      "name": {
+        "german": "Sekretariat Eidgenössische Kommission für nukleare Sicherheit",
+        "french": "Secrétariat de la Commission fédérale de sécurité nucléaire",
+        "italian": "Segreteria della Commissione federale per la sicurezza nucleare",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7606864",
+      "surname": "Jungo",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 46 05159",
+      "function": {
+        "german": "Vizedirektor/in / Leiter/in ASI",
+        "french": "Vizedirektor/in / Leiter/in ASI",
+        "italian": "Vizedirektor/in / Leiter/in ASI",
+        "english": "Vizedirektor/in / Leiter/in ASI"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9906149",
+      "surname": "Binder",
+      "givenName": "Hans-Peter",
+      "email": null,
+      "phone": "+41 58 46 48134",
+      "function": {
+        "german": "Leiter/in Risikomgmt/Finanzaufsicht/Stv",
+        "french": "Leiter/in Risikomgmt/Finanzaufsicht/Stv",
+        "italian": "Leiter/in Risikomgmt/Finanzaufsicht/Stv",
+        "english": "Leiter/in Risikomgmt/Finanzaufsicht/Stv"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034529",
+      "label": {
+        "german": "Abteilung Aufsicht und Sicherheit",
+        "french": "Division Surveillance et sécurité",
+        "italian": "Divisione Vigilanza e sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Aufsicht und Sicherheit",
+        "french": "Division Surveillance et sécurité",
+        "italian": "Divisione Vigilanza e sicurezza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

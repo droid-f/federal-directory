@@ -1,1 +1,200 @@
-{"id"=>"20012653", "name"=>{"german"=>"Informationsmanagement", "french"=>"Management de la diffusion", "italian"=>"Gestione diffusione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20021310", "name"=>{"german"=>"Bibliothek/Dokumentation/Zentrale Statistische Auskunft", "french"=>"Bibliothèque/Documentation/Renseignement centraux", "italian"=>"Biblioteca/documentazione/informazioni statistiche centrali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20010551", "name"=>{"german"=>"Distributionslogistik", "french"=>"Logistique de la distribution", "italian"=>"Logistica di distribuzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1122917", "surname"=>"Huber", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 36630", "function"=>{"german"=>"Dienstchef/in, Stv SC", "french"=>"Dienstchef/in, Stv SC", "italian"=>"Dienstchef/in, Stv SC", "english"=>"Dienstchef/in, Stv SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20047601", "label"=>{"german"=>"Abteilung Kommunikation/Publishing", "french"=>"Division Communication/Publishing", "italian"=>"Divisione Comunicazione/Publishing", "english"=>""}, "name"=>{"german"=>"Abteilung Kommunikation/Publishing", "french"=>"Division Communication/Publishing", "italian"=>"Divisione Comunicazione/Publishing", "english"=>""}}, {"id"=>"10004637", "label"=>{"german"=>"Sektion Diffusion und Amtspublikationen", "french"=>"Section Diffusion et publications", "italian"=>"Sezione Diffusione e pubblicazioni", "english"=>""}, "name"=>{"german"=>"Sektion Diffusion und Amtspublikationen", "french"=>"Section Diffusion et publications", "italian"=>"Sezione Diffusione e pubblicazioni", "english"=>""}}, {"id"=>"20012653", "label"=>{"german"=>"Informationsmanagement", "french"=>"Management de la diffusion", "italian"=>"Gestione diffusione", "english"=>""}, "name"=>{"german"=>"Informationsmanagement", "french"=>"Management de la diffusion", "italian"=>"Gestione diffusione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012653",
+  "name": {
+    "german": "Informationsmanagement",
+    "french": "Management de la diffusion",
+    "italian": "Gestione diffusione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20021310",
+      "name": {
+        "german": "Bibliothek/Dokumentation/Zentrale Statistische Auskunft",
+        "french": "Bibliothèque/Documentation/Renseignement centraux",
+        "italian": "Biblioteca/documentazione/informazioni statistiche centrali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010551",
+      "name": {
+        "german": "Distributionslogistik",
+        "french": "Logistique de la distribution",
+        "italian": "Logistica di distribuzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1122917",
+      "surname": "Huber",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 36630",
+      "function": {
+        "german": "Dienstchef/in, Stv SC",
+        "french": "Dienstchef/in, Stv SC",
+        "italian": "Dienstchef/in, Stv SC",
+        "english": "Dienstchef/in, Stv SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047601",
+      "label": {
+        "german": "Abteilung Kommunikation/Publishing",
+        "french": "Division Communication/Publishing",
+        "italian": "Divisione Comunicazione/Publishing",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Kommunikation/Publishing",
+        "french": "Division Communication/Publishing",
+        "italian": "Divisione Comunicazione/Publishing",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004637",
+      "label": {
+        "german": "Sektion Diffusion und Amtspublikationen",
+        "french": "Section Diffusion et publications",
+        "italian": "Sezione Diffusione e pubblicazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Diffusion und Amtspublikationen",
+        "french": "Section Diffusion et publications",
+        "italian": "Sezione Diffusione e pubblicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012653",
+      "label": {
+        "german": "Informationsmanagement",
+        "french": "Management de la diffusion",
+        "italian": "Gestione diffusione",
+        "english": ""
+      },
+      "name": {
+        "german": "Informationsmanagement",
+        "french": "Management de la diffusion",
+        "italian": "Gestione diffusione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

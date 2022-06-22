@@ -1,1 +1,152 @@
-{"id"=>"20047583", "name"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Hauptstrasse 247", "postalCode"=>"2532", "location"=>"Magglingen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10008828", "name"=>{"german"=>"Einkauf/Logistik", "french"=>"Achats/Logistique", "italian"=>"Acquisti/Logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[{"id"=>"p-2816235", "surname"=>"Valenti", "givenName"=>"Evelyne", "email"=>nil, "phone"=>"+41 58 46 76437", "function"=>{"german"=>"Leiter/in Office Management NSM", "french"=>"Leiter/in Office Management NSM", "italian"=>"Leiter/in Office Management NSM", "english"=>"Leiter/in Office Management NSM"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008678", "label"=>{"german"=>"BASPO", "french"=>"OFSPO", "italian"=>"UF SPO", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sport", "french"=>"Office fédéral du sport", "italian"=>"Ufficio federale dello sport", "english"=>""}}, {"id"=>"10003825", "label"=>{"german"=>"NSM", "french"=>"NSM", "italian"=>"NSM", "english"=>""}, "name"=>{"german"=>"Nationales Sportzentrum Magglingen", "french"=>"Centre national de sport de Macolin", "italian"=>"Centro sportivo nazionale Macolin", "english"=>""}}, {"id"=>"20047583", "label"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "name"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20047583",
+  "name": {
+    "german": "Stab",
+    "french": "Etat-major",
+    "italian": "Stato maggiore",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Hauptstrasse 247",
+    "postalCode": "2532",
+    "location": "Magglingen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10008828",
+      "name": {
+        "german": "Einkauf/Logistik",
+        "french": "Achats/Logistique",
+        "italian": "Acquisti/Logistica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-2816235",
+      "surname": "Valenti",
+      "givenName": "Evelyne",
+      "email": null,
+      "phone": "+41 58 46 76437",
+      "function": {
+        "german": "Leiter/in Office Management NSM",
+        "french": "Leiter/in Office Management NSM",
+        "italian": "Leiter/in Office Management NSM",
+        "english": "Leiter/in Office Management NSM"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008678",
+      "label": {
+        "german": "BASPO",
+        "french": "OFSPO",
+        "italian": "UF SPO",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sport",
+        "french": "Office fédéral du sport",
+        "italian": "Ufficio federale dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003825",
+      "label": {
+        "german": "NSM",
+        "french": "NSM",
+        "italian": "NSM",
+        "english": ""
+      },
+      "name": {
+        "german": "Nationales Sportzentrum Magglingen",
+        "french": "Centre national de sport de Macolin",
+        "italian": "Centro sportivo nazionale Macolin",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047583",
+      "label": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

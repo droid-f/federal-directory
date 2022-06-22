@@ -1,1 +1,226 @@
-{"id"=>"20045952", "name"=>{"german"=>"Projektmanagement", "french"=>"Projektmanagement", "italian"=>"Projektmanagement", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7806137", "surname"=>"Bigler", "givenName"=>"Christoph", "email"=>nil, "phone"=>"+41 58 46 46296", "function"=>{"german"=>"Product Owner DPPU", "french"=>"Product Owner DPPU", "italian"=>"Product Owner DPPU", "english"=>"Product Owner DPPU"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6340908", "surname"=>"Müller", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 51961", "function"=>{"german"=>"Projektmanager/in DPPU", "french"=>"Projektmanager/in DPPU", "italian"=>"Projektmanager/in DPPU", "english"=>"Projektmanager/in DPPU"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2263069", "surname"=>"Steiner", "givenName"=>"Patricia", "email"=>nil, "phone"=>"+41 58 46 40109", "function"=>{"german"=>"Projektassistent/in DPPU", "french"=>"Projektassistent/in DPPU", "italian"=>"Projektassistent/in DPPU", "english"=>"Projektassistent/in DPPU"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7805179", "surname"=>"Träutlein", "givenName"=>"Sibylle", "email"=>nil, "phone"=>"+41 58 46 38684", "function"=>{"german"=>"Projektmitarbeiter/in Online DPPU", "french"=>"Projektmitarbeiter/in Online DPPU", "italian"=>"Projektmitarbeiter/in Online DPPU", "english"=>"Projektmitarbeiter/in Online DPPU"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7893828", "surname"=>"Walker", "givenName"=>"Jonah", "email"=>nil, "phone"=>"+41 58 48 39178", "function"=>{"german"=>"Lernende/r Polygraf DPPU", "french"=>"Lernende/r Polygraf DPPU", "italian"=>"Lernende/r Polygraf DPPU", "english"=>"Lernende/r Polygraf DPPU"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004243", "label"=>{"german"=>"Direktion für Wirtschaftspolitik", "french"=>"Direction de la politique économique", "italian"=>"Direzione politica economica", "english"=>""}, "name"=>{"german"=>"Direktion für Wirtschaftspolitik", "french"=>"Direction de la politique économique", "italian"=>"Direzione politica economica", "english"=>""}}, {"id"=>"10004247", "label"=>{"german"=>"Publikationen", "french"=>"Publications", "italian"=>"Pubblicazioni", "english"=>""}, "name"=>{"german"=>"Publikationen", "french"=>"Publications", "italian"=>"Pubblicazioni", "english"=>""}}, {"id"=>"20045952", "label"=>{"german"=>"Projektmanagement", "french"=>"Projektmanagement", "italian"=>"Projektmanagement", "english"=>""}, "name"=>{"german"=>"Projektmanagement", "french"=>"Projektmanagement", "italian"=>"Projektmanagement", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045952",
+  "name": {
+    "german": "Projektmanagement",
+    "french": "Projektmanagement",
+    "italian": "Projektmanagement",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7806137",
+      "surname": "Bigler",
+      "givenName": "Christoph",
+      "email": null,
+      "phone": "+41 58 46 46296",
+      "function": {
+        "german": "Product Owner DPPU",
+        "french": "Product Owner DPPU",
+        "italian": "Product Owner DPPU",
+        "english": "Product Owner DPPU"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6340908",
+      "surname": "Müller",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 51961",
+      "function": {
+        "german": "Projektmanager/in DPPU",
+        "french": "Projektmanager/in DPPU",
+        "italian": "Projektmanager/in DPPU",
+        "english": "Projektmanager/in DPPU"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2263069",
+      "surname": "Steiner",
+      "givenName": "Patricia",
+      "email": null,
+      "phone": "+41 58 46 40109",
+      "function": {
+        "german": "Projektassistent/in DPPU",
+        "french": "Projektassistent/in DPPU",
+        "italian": "Projektassistent/in DPPU",
+        "english": "Projektassistent/in DPPU"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7805179",
+      "surname": "Träutlein",
+      "givenName": "Sibylle",
+      "email": null,
+      "phone": "+41 58 46 38684",
+      "function": {
+        "german": "Projektmitarbeiter/in Online DPPU",
+        "french": "Projektmitarbeiter/in Online DPPU",
+        "italian": "Projektmitarbeiter/in Online DPPU",
+        "english": "Projektmitarbeiter/in Online DPPU"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7893828",
+      "surname": "Walker",
+      "givenName": "Jonah",
+      "email": null,
+      "phone": "+41 58 48 39178",
+      "function": {
+        "german": "Lernende/r Polygraf DPPU",
+        "french": "Lernende/r Polygraf DPPU",
+        "italian": "Lernende/r Polygraf DPPU",
+        "english": "Lernende/r Polygraf DPPU"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004243",
+      "label": {
+        "german": "Direktion für Wirtschaftspolitik",
+        "french": "Direction de la politique économique",
+        "italian": "Direzione politica economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Wirtschaftspolitik",
+        "french": "Direction de la politique économique",
+        "italian": "Direzione politica economica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004247",
+      "label": {
+        "german": "Publikationen",
+        "french": "Publications",
+        "italian": "Pubblicazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Publikationen",
+        "french": "Publications",
+        "italian": "Pubblicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045952",
+      "label": {
+        "german": "Projektmanagement",
+        "french": "Projektmanagement",
+        "italian": "Projektmanagement",
+        "english": ""
+      },
+      "name": {
+        "german": "Projektmanagement",
+        "french": "Projektmanagement",
+        "italian": "Projektmanagement",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

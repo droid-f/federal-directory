@@ -1,1 +1,158 @@
-{"id"=>"20050555", "name"=>{"german"=>"Digitale geschäftsunterstützende Dienste", "french"=>"Services numériques de support opérationnel", "italian"=>"Servizi digitali di sostegno operativo", "english"=>""}, "nameAbbr"=>{"german"=>"DGD", "french"=>"SNSO", "italian"=>"SDSO", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 91", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9609332", "surname"=>"Moser", "givenName"=>"Felix", "email"=>nil, "phone"=>"+41 58 46 96069", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6184239", "surname"=>"Neumeier", "givenName"=>"Günther", "email"=>nil, "phone"=>"+41 58 48 39451", "function"=>{"german"=>"Serviceverantwortliche/r, Stv. Leiter/in", "french"=>"Serviceverantwortliche/r, Stv. Leiter/in", "italian"=>"Serviceverantwortliche/r, Stv. Leiter/in", "english"=>"Serviceverantwortliche/r, Stv. Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"20048177", "label"=>{"german"=>"DTI", "french"=>"TNI", "italian"=>"TDT", "english"=>""}, "name"=>{"german"=>"Bereich Digitale Transformation und IKT-Lenkung", "french"=>"Secteur Transformation numérique et gouvernance de l’informatique", "italian"=>"Settore Trasformazione digitale e governance delle TIC", "english"=>""}}, {"id"=>"20048182", "label"=>{"german"=>"DS", "french"=>"SNS", "italian"=>"SDS", "english"=>""}, "name"=>{"german"=>"Digitale Standardleistungen", "french"=>"Services numériques standards", "italian"=>"Servizi digitali standard", "english"=>""}}, {"id"=>"20050555", "label"=>{"german"=>"DGD", "french"=>"SNSO", "italian"=>"SDSO", "english"=>""}, "name"=>{"german"=>"Digitale geschäftsunterstützende Dienste", "french"=>"Services numériques de support opérationnel", "italian"=>"Servizi digitali di sostegno operativo", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050555",
+  "name": {
+    "german": "Digitale geschäftsunterstützende Dienste",
+    "french": "Services numériques de support opérationnel",
+    "italian": "Servizi digitali di sostegno operativo",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "DGD",
+    "french": "SNSO",
+    "italian": "SDSO",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 91",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9609332",
+      "surname": "Moser",
+      "givenName": "Felix",
+      "email": null,
+      "phone": "+41 58 46 96069",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6184239",
+      "surname": "Neumeier",
+      "givenName": "Günther",
+      "email": null,
+      "phone": "+41 58 48 39451",
+      "function": {
+        "german": "Serviceverantwortliche/r, Stv. Leiter/in",
+        "french": "Serviceverantwortliche/r, Stv. Leiter/in",
+        "italian": "Serviceverantwortliche/r, Stv. Leiter/in",
+        "english": "Serviceverantwortliche/r, Stv. Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048177",
+      "label": {
+        "german": "DTI",
+        "french": "TNI",
+        "italian": "TDT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Digitale Transformation und IKT-Lenkung",
+        "french": "Secteur Transformation numérique et gouvernance de l’informatique",
+        "italian": "Settore Trasformazione digitale e governance delle TIC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048182",
+      "label": {
+        "german": "DS",
+        "french": "SNS",
+        "italian": "SDS",
+        "english": ""
+      },
+      "name": {
+        "german": "Digitale Standardleistungen",
+        "french": "Services numériques standards",
+        "italian": "Servizi digitali standard",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050555",
+      "label": {
+        "german": "DGD",
+        "french": "SNSO",
+        "italian": "SDSO",
+        "english": ""
+      },
+      "name": {
+        "german": "Digitale geschäftsunterstützende Dienste",
+        "french": "Services numériques de support opérationnel",
+        "italian": "Servizi digitali di sostegno operativo",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

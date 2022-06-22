@@ -1,1 +1,155 @@
-{"id"=>"20021305", "name"=>{"german"=>"Technik und Betrieb Reinigung", "french"=>"Technik und Betrieb Reinigung", "italian"=>"Technik und Betrieb Reinigung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Austrasse", "postalCode"=>"3700", "location"=>"Spiez", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008679", "label"=>{"german"=>"BABS", "french"=>"OFPP", "italian"=>"UFPP", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bevölkerungsschutz", "french"=>"Office fédéral de la protection de la population", "italian"=>"Ufficio federale della protezione della popolazione", "english"=>""}}, {"id"=>"10006154", "label"=>{"german"=>"LS", "french"=>"LS", "italian"=>"LS", "english"=>""}, "name"=>{"german"=>"Labor Spiez", "french"=>"Laboratoire Spiez", "italian"=>"Laboratorio Spiez", "english"=>""}}, {"id"=>"10009005", "label"=>{"german"=>"LS/LQS", "french"=>"LS/LQS", "italian"=>"LS/LQS", "english"=>""}, "name"=>{"german"=>"Logistik, Qualität und Sicherheit", "french"=>"Logistique, qualité et sécurité", "italian"=>"Logistica, qualità e sicurezza", "english"=>""}}, {"id"=>"20003707", "label"=>{"german"=>"LS/LQS/TuB", "french"=>"LS/LQS/TuB", "italian"=>"LS/LQS/TuB", "english"=>""}, "name"=>{"german"=>"Technik und Betrieb", "french"=>"Technik und Betrieb", "italian"=>"Technik und Betrieb", "english"=>""}}, {"id"=>"20021305", "label"=>{"german"=>"Technik und Betrieb Reinigung", "french"=>"Technik und Betrieb Reinigung", "italian"=>"Technik und Betrieb Reinigung", "english"=>""}, "name"=>{"german"=>"Technik und Betrieb Reinigung", "french"=>"Technik und Betrieb Reinigung", "italian"=>"Technik und Betrieb Reinigung", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021305",
+  "name": {
+    "german": "Technik und Betrieb Reinigung",
+    "french": "Technik und Betrieb Reinigung",
+    "italian": "Technik und Betrieb Reinigung",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Austrasse",
+    "postalCode": "3700",
+    "location": "Spiez",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008679",
+      "label": {
+        "german": "BABS",
+        "french": "OFPP",
+        "italian": "UFPP",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bevölkerungsschutz",
+        "french": "Office fédéral de la protection de la population",
+        "italian": "Ufficio federale della protezione della popolazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10006154",
+      "label": {
+        "german": "LS",
+        "french": "LS",
+        "italian": "LS",
+        "english": ""
+      },
+      "name": {
+        "german": "Labor Spiez",
+        "french": "Laboratoire Spiez",
+        "italian": "Laboratorio Spiez",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009005",
+      "label": {
+        "german": "LS/LQS",
+        "french": "LS/LQS",
+        "italian": "LS/LQS",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistik, Qualität und Sicherheit",
+        "french": "Logistique, qualité et sécurité",
+        "italian": "Logistica, qualità e sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003707",
+      "label": {
+        "german": "LS/LQS/TuB",
+        "french": "LS/LQS/TuB",
+        "italian": "LS/LQS/TuB",
+        "english": ""
+      },
+      "name": {
+        "german": "Technik und Betrieb",
+        "french": "Technik und Betrieb",
+        "italian": "Technik und Betrieb",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021305",
+      "label": {
+        "german": "Technik und Betrieb Reinigung",
+        "french": "Technik und Betrieb Reinigung",
+        "italian": "Technik und Betrieb Reinigung",
+        "english": ""
+      },
+      "name": {
+        "german": "Technik und Betrieb Reinigung",
+        "french": "Technik und Betrieb Reinigung",
+        "italian": "Technik und Betrieb Reinigung",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

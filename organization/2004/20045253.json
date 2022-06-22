@@ -1,1 +1,141 @@
-{"id"=>"20045253", "name"=>{"german"=>"Führungsunterstützung", "french"=>"Soutien à la conduite", "italian"=>"Aiuto alla condotta", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3365068", "surname"=>"Baumann", "givenName"=>"Alexandra", "email"=>nil, "phone"=>"+41 58 48 13580", "function"=>{"german"=>"Führungsunterstützung / Dipl. Berater/in", "french"=>"Führungsunterstützung / Dipl. Berater/in", "italian"=>"Führungsunterstützung / Dipl. Berater/in", "english"=>"Führungsunterstützung / Dipl. Berater/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"20025051", "label"=>{"german"=>"SIF", "french"=>"SFI", "italian"=>"SFI", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für internationale Finanzfragen", "french"=>"Secrétariat d'Etat aux questions financières internationales", "italian"=>"Segreteria di Stato per le questioni finanziarie internazionali", "english"=>""}}, {"id"=>"20041505", "label"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}, "name"=>{"german"=>"Leitung SIF", "french"=>"Direction SFI", "italian"=>"Direzione SFI", "english"=>""}}, {"id"=>"20045253", "label"=>{"german"=>"Führungsunterstützung", "french"=>"Soutien à la conduite", "italian"=>"Aiuto alla condotta", "english"=>""}, "name"=>{"german"=>"Führungsunterstützung", "french"=>"Soutien à la conduite", "italian"=>"Aiuto alla condotta", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045253",
+  "name": {
+    "german": "Führungsunterstützung",
+    "french": "Soutien à la conduite",
+    "italian": "Aiuto alla condotta",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3365068",
+      "surname": "Baumann",
+      "givenName": "Alexandra",
+      "email": null,
+      "phone": "+41 58 48 13580",
+      "function": {
+        "german": "Führungsunterstützung / Dipl. Berater/in",
+        "french": "Führungsunterstützung / Dipl. Berater/in",
+        "italian": "Führungsunterstützung / Dipl. Berater/in",
+        "english": "Führungsunterstützung / Dipl. Berater/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025051",
+      "label": {
+        "german": "SIF",
+        "french": "SFI",
+        "italian": "SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für internationale Finanzfragen",
+        "french": "Secrétariat d'Etat aux questions financières internationales",
+        "italian": "Segreteria di Stato per le questioni finanziarie internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041505",
+      "label": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung SIF",
+        "french": "Direction SFI",
+        "italian": "Direzione SFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045253",
+      "label": {
+        "german": "Führungsunterstützung",
+        "french": "Soutien à la conduite",
+        "italian": "Aiuto alla condotta",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungsunterstützung",
+        "french": "Soutien à la conduite",
+        "italian": "Aiuto alla condotta",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

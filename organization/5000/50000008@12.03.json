@@ -1,1 +1,185 @@
-{"id"=>"50000008@12.03", "name"=>{"german"=>"Bereich mech. Grössen/ion. Strahlung", "french"=>"Bereich mech. Grössen/ion. Strahlung", "italian"=>"Bereich mech. Grössen/ion. Strahlung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"50000027@12.03", "name"=>{"german"=>"Labor Masse, Kraft, Druck und Vibration", "french"=>"Labor Masse, Kraft, Druck und Vibration", "italian"=>"Labor Masse, Kraft, Druck und Vibration", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50000028@12.03", "name"=>{"german"=>"Labor Durchfluss und Hydrometrie", "french"=>"Labor Durchfluss und Hydrometrie", "italian"=>"Labor Durchfluss und Hydrometrie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"50000029@12.03", "name"=>{"german"=>"Labor Ionisierende Strahlung", "french"=>"Labor Ionisierende Strahlung", "italian"=>"Labor Ionisierende Strahlung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9279496", "surname"=>"Baumann", "givenName"=>"Henri", "email"=>nil, "phone"=>"+41583870243", "function"=>{"german"=>"Bereichsleiter/in", "french"=>"Chef de domaine", "italian"=>"Capo settore", "english"=>"Head of Sector"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"50000000@12.03", "label"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Institut für Metrologie", "french"=>"Eidgenössisches Institut für Metrologie", "italian"=>"Eidgenössisches Institut für Metrologie", "english"=>""}}, {"id"=>"50000004@12.03", "label"=>{"german"=>"Abteilung Physik", "french"=>"Abteilung Physik", "italian"=>"Abteilung Physik", "english"=>""}, "name"=>{"german"=>"Abteilung Physik", "french"=>"Abteilung Physik", "italian"=>"Abteilung Physik", "english"=>""}}, {"id"=>"50000008@12.03", "label"=>{"german"=>"Bereich mech. Grössen/ion. Strahlung", "french"=>"Bereich mech. Grössen/ion. Strahlung", "italian"=>"Bereich mech. Grössen/ion. Strahlung", "english"=>""}, "name"=>{"german"=>"Bereich mech. Grössen/ion. Strahlung", "french"=>"Bereich mech. Grössen/ion. Strahlung", "italian"=>"Bereich mech. Grössen/ion. Strahlung", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "50000008@12.03",
+  "name": {
+    "german": "Bereich mech. Grössen/ion. Strahlung",
+    "french": "Bereich mech. Grössen/ion. Strahlung",
+    "italian": "Bereich mech. Grössen/ion. Strahlung",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "50000027@12.03",
+      "name": {
+        "german": "Labor Masse, Kraft, Druck und Vibration",
+        "french": "Labor Masse, Kraft, Druck und Vibration",
+        "italian": "Labor Masse, Kraft, Druck und Vibration",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000028@12.03",
+      "name": {
+        "german": "Labor Durchfluss und Hydrometrie",
+        "french": "Labor Durchfluss und Hydrometrie",
+        "italian": "Labor Durchfluss und Hydrometrie",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000029@12.03",
+      "name": {
+        "german": "Labor Ionisierende Strahlung",
+        "french": "Labor Ionisierende Strahlung",
+        "italian": "Labor Ionisierende Strahlung",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9279496",
+      "surname": "Baumann",
+      "givenName": "Henri",
+      "email": null,
+      "phone": "+41583870243",
+      "function": {
+        "german": "Bereichsleiter/in",
+        "french": "Chef de domaine",
+        "italian": "Capo settore",
+        "english": "Head of Sector"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000000@12.03",
+      "label": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Institut für Metrologie",
+        "french": "Eidgenössisches Institut für Metrologie",
+        "italian": "Eidgenössisches Institut für Metrologie",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000004@12.03",
+      "label": {
+        "german": "Abteilung Physik",
+        "french": "Abteilung Physik",
+        "italian": "Abteilung Physik",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Physik",
+        "french": "Abteilung Physik",
+        "italian": "Abteilung Physik",
+        "english": ""
+      }
+    },
+    {
+      "id": "50000008@12.03",
+      "label": {
+        "german": "Bereich mech. Grössen/ion. Strahlung",
+        "french": "Bereich mech. Grössen/ion. Strahlung",
+        "italian": "Bereich mech. Grössen/ion. Strahlung",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich mech. Grössen/ion. Strahlung",
+        "french": "Bereich mech. Grössen/ion. Strahlung",
+        "italian": "Bereich mech. Grössen/ion. Strahlung",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

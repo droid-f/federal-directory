@@ -1,1 +1,214 @@
-{"id"=>"20024926", "name"=>{"german"=>"Rechtsdienst EFD", "french"=>"Service juridique DFF", "italian"=>"Servizio giuridico DFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"rechtsdienst@gs-efd.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20026602", "name"=>{"german"=>"Strafrechtsdienst", "french"=>"Service de droit pénal", "italian"=>"Servizio diritto penale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20026603", "name"=>{"german"=>"Allgemeiner Rechtsdienst", "french"=>"Service de droit général", "italian"=>"Servizio giuridico generale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2392919", "surname"=>"Müller", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 46 31482", "function"=>{"german"=>"Leiter Rechtsdienst EFD u L Allg. RD", "french"=>"Coresp. Serv. jur., chef/fe Service droi", "italian"=>"Capo Serv. giuridico (co-direzione) e ca", "english"=>"Leiter Rechtsdienst EFD u L Allg. RD"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-3034629", "surname"=>"Heierli", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 26302", "function"=>{"german"=>"Leiter Strafrechtsdienst u Stv. L RD EFD", "french"=>"Coresp. Service jur., chef/fe Service dr", "italian"=>"Capo Serv. giuridico (co-direzione) e ca", "english"=>"Leiter Strafrechtsdienst u Stv. L RD EFD"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6655063", "surname"=>"Hofer", "givenName"=>"Bettina", "email"=>nil, "phone"=>"+41 58 46 74473", "function"=>{"german"=>"Assistent/in GS/RD", "french"=>"Assistant/e SG / Service juridique", "italian"=>"Assistente divisione Servizio giuridico", "english"=>"Assistent/in GS/RD"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6566032", "surname"=>"Linder", "givenName"=>"Andrea", "email"=>nil, "phone"=>"+41 58 46 51183", "function"=>{"german"=>"Kaufm. Fachspezialist/in", "french"=>"Collaborateur/trice spécialiste de l'enc", "italian"=>"Collaboratore/trice specializzato/a Inca", "english"=>"Kaufm. Fachspezialist/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008603", "label"=>{"german"=>"GS-EFD", "french"=>"SG-DFF", "italian"=>"SG-DFF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EFD", "french"=>"Secrétariat général DFF", "italian"=>"Segreteria generale DFF", "english"=>""}}, {"id"=>"20041576", "label"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}, "name"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}}, {"id"=>"20024926", "label"=>{"german"=>"Rechtsdienst EFD", "french"=>"Service juridique DFF", "italian"=>"Servizio giuridico DFF", "english"=>""}, "name"=>{"german"=>"Rechtsdienst EFD", "french"=>"Service juridique DFF", "italian"=>"Servizio giuridico DFF", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "20024926",
+  "name": {
+    "german": "Rechtsdienst EFD",
+    "french": "Service juridique DFF",
+    "italian": "Servizio giuridico DFF",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "rechtsdienst@gs-efd.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20026602",
+      "name": {
+        "german": "Strafrechtsdienst",
+        "french": "Service de droit pénal",
+        "italian": "Servizio diritto penale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026603",
+      "name": {
+        "german": "Allgemeiner Rechtsdienst",
+        "french": "Service de droit général",
+        "italian": "Servizio giuridico generale",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2392919",
+      "surname": "Müller",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 46 31482",
+      "function": {
+        "german": "Leiter Rechtsdienst EFD u L Allg. RD",
+        "french": "Coresp. Serv. jur., chef/fe Service droi",
+        "italian": "Capo Serv. giuridico (co-direzione) e ca",
+        "english": "Leiter Rechtsdienst EFD u L Allg. RD"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-3034629",
+      "surname": "Heierli",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 26302",
+      "function": {
+        "german": "Leiter Strafrechtsdienst u Stv. L RD EFD",
+        "french": "Coresp. Service jur., chef/fe Service dr",
+        "italian": "Capo Serv. giuridico (co-direzione) e ca",
+        "english": "Leiter Strafrechtsdienst u Stv. L RD EFD"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6655063",
+      "surname": "Hofer",
+      "givenName": "Bettina",
+      "email": null,
+      "phone": "+41 58 46 74473",
+      "function": {
+        "german": "Assistent/in GS/RD",
+        "french": "Assistant/e SG / Service juridique",
+        "italian": "Assistente divisione Servizio giuridico",
+        "english": "Assistent/in GS/RD"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6566032",
+      "surname": "Linder",
+      "givenName": "Andrea",
+      "email": null,
+      "phone": "+41 58 46 51183",
+      "function": {
+        "german": "Kaufm. Fachspezialist/in",
+        "french": "Collaborateur/trice spécialiste de l'enc",
+        "italian": "Collaboratore/trice specializzato/a Inca",
+        "english": "Kaufm. Fachspezialist/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008603",
+      "label": {
+        "german": "GS-EFD",
+        "french": "SG-DFF",
+        "italian": "SG-DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EFD",
+        "french": "Secrétariat général DFF",
+        "italian": "Segreteria generale DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041576",
+      "label": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024926",
+      "label": {
+        "german": "Rechtsdienst EFD",
+        "french": "Service juridique DFF",
+        "italian": "Servizio giuridico DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Rechtsdienst EFD",
+        "french": "Service juridique DFF",
+        "italian": "Servizio giuridico DFF",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

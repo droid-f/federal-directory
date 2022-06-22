@@ -1,1 +1,215 @@
-{"id"=>"10003760", "name"=>{"german"=>"Finanzprozesse VBS", "french"=>"Processus clés", "italian"=>"Processi fondamentali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundeshaus Ost", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1192597", "surname"=>"Zurbriggen", "givenName"=>"Adrian", "email"=>nil, "phone"=>"+41 58 46 40950", "function"=>{"german"=>"Stv C Fi VBS / L Finanzprozesse VBS", "french"=>"Stv C Fi VBS / L Finanzprozesse VBS", "italian"=>"Stv C Fi VBS / L Finanzprozesse VBS", "english"=>"Stv C Fi VBS / L Finanzprozesse VBS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5867769", "surname"=>"Thomet", "givenName"=>"Evelyne", "email"=>nil, "phone"=>"+41 58 46 27533", "function"=>{"german"=>"StvL Fin.prozesse/Betriebswirtschafterin", "french"=>"StvL Fin.prozesse/Betriebswirtschafterin", "italian"=>"StvL Fin.prozesse/Betriebswirtschafterin", "english"=>"StvL Fin.prozesse/Betriebswirtschafterin"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6565344", "surname"=>"Gerber", "givenName"=>"Ernst", "email"=>nil, "phone"=>"+41 58 46 34072", "function"=>{"german"=>"Betriebswirtschafter/in Fi VBS", "french"=>"Betriebswirtschafter/in Fi VBS", "italian"=>"Betriebswirtschafter/in Fi VBS", "english"=>"Betriebswirtschafter/in Fi VBS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1946433", "surname"=>"Noth", "givenName"=>"Nadja", "email"=>nil, "phone"=>"+41 58 46 56104", "function"=>{"german"=>"Betriebswirtschafter/in Finanzen", "french"=>"Betriebswirtschafter/in Finanzen", "italian"=>"Betriebswirtschafter/in Finanzen", "english"=>"Betriebswirtschafter/in Finanzen"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"10003759", "label"=>{"german"=>"Finanzen VBS", "french"=>"Finances DDPS", "italian"=>"Finanze DDPS", "english"=>""}, "name"=>{"german"=>"Finanzen VBS", "french"=>"Finances DDPS", "italian"=>"Finanze DDPS", "english"=>""}}, {"id"=>"10003760", "label"=>{"german"=>"Finanzprozesse VBS", "french"=>"Processus clés", "italian"=>"Processi fondamentali", "english"=>""}, "name"=>{"german"=>"Finanzprozesse VBS", "french"=>"Processus clés", "italian"=>"Processi fondamentali", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003760",
+  "name": {
+    "german": "Finanzprozesse VBS",
+    "french": "Processus clés",
+    "italian": "Processi fondamentali",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundeshaus Ost",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1192597",
+      "surname": "Zurbriggen",
+      "givenName": "Adrian",
+      "email": null,
+      "phone": "+41 58 46 40950",
+      "function": {
+        "german": "Stv C Fi VBS / L Finanzprozesse VBS",
+        "french": "Stv C Fi VBS / L Finanzprozesse VBS",
+        "italian": "Stv C Fi VBS / L Finanzprozesse VBS",
+        "english": "Stv C Fi VBS / L Finanzprozesse VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5867769",
+      "surname": "Thomet",
+      "givenName": "Evelyne",
+      "email": null,
+      "phone": "+41 58 46 27533",
+      "function": {
+        "german": "StvL Fin.prozesse/Betriebswirtschafterin",
+        "french": "StvL Fin.prozesse/Betriebswirtschafterin",
+        "italian": "StvL Fin.prozesse/Betriebswirtschafterin",
+        "english": "StvL Fin.prozesse/Betriebswirtschafterin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6565344",
+      "surname": "Gerber",
+      "givenName": "Ernst",
+      "email": null,
+      "phone": "+41 58 46 34072",
+      "function": {
+        "german": "Betriebswirtschafter/in Fi VBS",
+        "french": "Betriebswirtschafter/in Fi VBS",
+        "italian": "Betriebswirtschafter/in Fi VBS",
+        "english": "Betriebswirtschafter/in Fi VBS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1946433",
+      "surname": "Noth",
+      "givenName": "Nadja",
+      "email": null,
+      "phone": "+41 58 46 56104",
+      "function": {
+        "german": "Betriebswirtschafter/in Finanzen",
+        "french": "Betriebswirtschafter/in Finanzen",
+        "italian": "Betriebswirtschafter/in Finanzen",
+        "english": "Betriebswirtschafter/in Finanzen"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003759",
+      "label": {
+        "german": "Finanzen VBS",
+        "french": "Finances DDPS",
+        "italian": "Finanze DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzen VBS",
+        "french": "Finances DDPS",
+        "italian": "Finanze DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003760",
+      "label": {
+        "german": "Finanzprozesse VBS",
+        "french": "Processus clés",
+        "italian": "Processi fondamentali",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzprozesse VBS",
+        "french": "Processus clés",
+        "italian": "Processi fondamentali",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

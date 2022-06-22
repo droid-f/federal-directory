@@ -1,1 +1,244 @@
-{"id"=>"10004230", "name"=>{"german"=>"Direktion für Standortförderung", "french"=>"Direction de la promotion économique", "italian"=>"Direzione promozione della piazza economica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10004236", "name"=>{"german"=>"KMU-Politik", "french"=>"Politique PME", "italian"=>"Politica a favore delle PMI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004232", "name"=>{"german"=>"Exportförderung / Standortpromotion", "french"=>"Promotion des exportations / Place économique", "italian"=>"Promozione delle esportazioni / Piazza economica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004234", "name"=>{"german"=>"Regional- und Raumordnungspolitik", "french"=>"Politique régionale et d'organisation du territoire", "italian"=>"Politica regionale e d'assetto del territorio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004235", "name"=>{"german"=>"Tourismuspolitik", "french"=>"Politique de tourisme", "italian"=>"Politica del turismo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5809429", "surname"=>"Jakob", "givenName"=>"Erik", "email"=>nil, "phone"=>"+41 58 46 22140", "function"=>{"german"=>"Leiter/in Direktion DS", "french"=>"Leiter/in Direktion DS", "italian"=>"Leiter/in Direktion DS", "english"=>"Leiter/in Direktion DS"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4017841", "surname"=>"Godel", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 22961", "function"=>{"german"=>"Ressortleiter/in / Stv. LBL DSKU", "french"=>"Ressortleiter/in / Stv. LBL DSKU", "italian"=>"Ressortleiter/in / Stv. LBL DSKU", "english"=>"Ressortleiter/in / Stv. LBL DSKU"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-1449309", "surname"=>"Jakob", "givenName"=>"Fabienne", "email"=>nil, "phone"=>"+41 58 46 96015", "function"=>{"german"=>"Assistent/in Direktor/in DS", "french"=>"Assistent/in Direktor/in DS", "italian"=>"Assistent/in Direktor/in DS", "english"=>"Assistent/in Direktor/in DS"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8805200", "surname"=>"Stupf", "givenName"=>"Rita", "email"=>nil, "phone"=>"+41 58 46 78688", "function"=>{"german"=>"Leiter/in Koordinationsstelle DS", "french"=>"Leiter/in Koordinationsstelle DS", "italian"=>"Leiter/in Koordinationsstelle DS", "english"=>"Leiter/in Koordinationsstelle DS"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004230", "label"=>{"german"=>"Direktion für Standortförderung", "french"=>"Direction de la promotion économique", "italian"=>"Direzione promozione della piazza economica", "english"=>""}, "name"=>{"german"=>"Direktion für Standortförderung", "french"=>"Direction de la promotion économique", "italian"=>"Direzione promozione della piazza economica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004230",
+  "name": {
+    "german": "Direktion für Standortförderung",
+    "french": "Direction de la promotion économique",
+    "italian": "Direzione promozione della piazza economica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10004236",
+      "name": {
+        "german": "KMU-Politik",
+        "french": "Politique PME",
+        "italian": "Politica a favore delle PMI",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004232",
+      "name": {
+        "german": "Exportförderung / Standortpromotion",
+        "french": "Promotion des exportations / Place économique",
+        "italian": "Promozione delle esportazioni / Piazza economica",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004234",
+      "name": {
+        "german": "Regional- und Raumordnungspolitik",
+        "french": "Politique régionale et d'organisation du territoire",
+        "italian": "Politica regionale e d'assetto del territorio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004235",
+      "name": {
+        "german": "Tourismuspolitik",
+        "french": "Politique de tourisme",
+        "italian": "Politica del turismo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5809429",
+      "surname": "Jakob",
+      "givenName": "Erik",
+      "email": null,
+      "phone": "+41 58 46 22140",
+      "function": {
+        "german": "Leiter/in Direktion DS",
+        "french": "Leiter/in Direktion DS",
+        "italian": "Leiter/in Direktion DS",
+        "english": "Leiter/in Direktion DS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4017841",
+      "surname": "Godel",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 22961",
+      "function": {
+        "german": "Ressortleiter/in / Stv. LBL DSKU",
+        "french": "Ressortleiter/in / Stv. LBL DSKU",
+        "italian": "Ressortleiter/in / Stv. LBL DSKU",
+        "english": "Ressortleiter/in / Stv. LBL DSKU"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-1449309",
+      "surname": "Jakob",
+      "givenName": "Fabienne",
+      "email": null,
+      "phone": "+41 58 46 96015",
+      "function": {
+        "german": "Assistent/in Direktor/in DS",
+        "french": "Assistent/in Direktor/in DS",
+        "italian": "Assistent/in Direktor/in DS",
+        "english": "Assistent/in Direktor/in DS"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8805200",
+      "surname": "Stupf",
+      "givenName": "Rita",
+      "email": null,
+      "phone": "+41 58 46 78688",
+      "function": {
+        "german": "Leiter/in Koordinationsstelle DS",
+        "french": "Leiter/in Koordinationsstelle DS",
+        "italian": "Leiter/in Koordinationsstelle DS",
+        "english": "Leiter/in Koordinationsstelle DS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004230",
+      "label": {
+        "german": "Direktion für Standortförderung",
+        "french": "Direction de la promotion économique",
+        "italian": "Direzione promozione della piazza economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Standortförderung",
+        "french": "Direction de la promotion économique",
+        "italian": "Direzione promozione della piazza economica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

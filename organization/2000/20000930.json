@@ -1,1 +1,211 @@
-{"id"=>"20000930", "name"=>{"german"=>"Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber", "french"=>"Entraide judiciaire, Terrorisme, Droit pénal international, Cyber", "italian"=>"Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046710", "name"=>{"german"=>"Rechtshilfe", "french"=>"Rechtshilfe", "italian"=>"Rechtshilfe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046711", "name"=>{"german"=>"Terrorismus & Völkerstrafrecht", "french"=>"Terrorismus & Völkerstrafrecht", "italian"=>"Terrorismus & Völkerstrafrecht", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046712", "name"=>{"german"=>"Assistenz-Staatsanwälte RTVC", "french"=>"Assistenz-Staatsanwälte RTVC", "italian"=>"Assistenz-Staatsanwälte RTVC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20000944", "name"=>{"german"=>"Verfahrensassistenz RTVC", "french"=>"Chancellerie RV", "italian"=>"Cancelleria RV", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1333259", "surname"=>"Beck", "givenName"=>"André", "email"=>nil, "phone"=>"+41 58 48 14528", "function"=>{"german"=>"Leitender Staatsanwalt des Bundes", "french"=>"Procureure fédérale en cheffe", "italian"=>"Procuratrice federale capo", "english"=>"Leitender Staatsanwalt des Bundes"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3547118", "surname"=>"Bottinelli", "givenName"=>"Nicolas", "email"=>nil, "phone"=>"+41 58 46 44455", "function"=>{"german"=>"Staatsanwalt / Verantw. Rechtshilfe", "french"=>"Procureur fédéral", "italian"=>"Procuratore", "english"=>"Staatsanwalt / Verantw. Rechtshilfe"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3343989", "surname"=>"Nicolet", "givenName"=>"Yves", "email"=>nil, "phone"=>"+41 58 46 60852", "function"=>{"german"=>"Staatsanwalt / Verantw. Cyber", "french"=>"Procureur fédéral", "italian"=>"Procuratore federale", "english"=>"Staatsanwalt / Verantw. Cyber"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1528624", "surname"=>"Spittler", "givenName"=>"Miriam", "email"=>nil, "phone"=>"+41 58 46 24233", "function"=>{"german"=>"Staatsanwältin / Verantw. Völkerstrafr.", "french"=>"Procureure fédérale", "italian"=>"Procuratrice federale", "english"=>"Staatsanwältin / Verantw. Völkerstrafr."}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20000930", "label"=>{"german"=>"Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber", "french"=>"Entraide judiciaire, Terrorisme, Droit pénal international, Cyber", "italian"=>"Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber", "english"=>""}, "name"=>{"german"=>"Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber", "french"=>"Entraide judiciaire, Terrorisme, Droit pénal international, Cyber", "italian"=>"Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000930",
+  "name": {
+    "german": "Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber",
+    "french": "Entraide judiciaire, Terrorisme, Droit pénal international, Cyber",
+    "italian": "Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046710",
+      "name": {
+        "german": "Rechtshilfe",
+        "french": "Rechtshilfe",
+        "italian": "Rechtshilfe",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046711",
+      "name": {
+        "german": "Terrorismus & Völkerstrafrecht",
+        "french": "Terrorismus & Völkerstrafrecht",
+        "italian": "Terrorismus & Völkerstrafrecht",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046712",
+      "name": {
+        "german": "Assistenz-Staatsanwälte RTVC",
+        "french": "Assistenz-Staatsanwälte RTVC",
+        "italian": "Assistenz-Staatsanwälte RTVC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000944",
+      "name": {
+        "german": "Verfahrensassistenz RTVC",
+        "french": "Chancellerie RV",
+        "italian": "Cancelleria RV",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1333259",
+      "surname": "Beck",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 58 48 14528",
+      "function": {
+        "german": "Leitender Staatsanwalt des Bundes",
+        "french": "Procureure fédérale en cheffe",
+        "italian": "Procuratrice federale capo",
+        "english": "Leitender Staatsanwalt des Bundes"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3547118",
+      "surname": "Bottinelli",
+      "givenName": "Nicolas",
+      "email": null,
+      "phone": "+41 58 46 44455",
+      "function": {
+        "german": "Staatsanwalt / Verantw. Rechtshilfe",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore",
+        "english": "Staatsanwalt / Verantw. Rechtshilfe"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3343989",
+      "surname": "Nicolet",
+      "givenName": "Yves",
+      "email": null,
+      "phone": "+41 58 46 60852",
+      "function": {
+        "german": "Staatsanwalt / Verantw. Cyber",
+        "french": "Procureur fédéral",
+        "italian": "Procuratore federale",
+        "english": "Staatsanwalt / Verantw. Cyber"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1528624",
+      "surname": "Spittler",
+      "givenName": "Miriam",
+      "email": null,
+      "phone": "+41 58 46 24233",
+      "function": {
+        "german": "Staatsanwältin / Verantw. Völkerstrafr.",
+        "french": "Procureure fédérale",
+        "italian": "Procuratrice federale",
+        "english": "Staatsanwältin / Verantw. Völkerstrafr."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000930",
+      "label": {
+        "german": "Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber",
+        "french": "Entraide judiciaire, Terrorisme, Droit pénal international, Cyber",
+        "italian": "Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber",
+        "english": ""
+      },
+      "name": {
+        "german": "Rechtshilfe, Terrorismus, Völkerstrafrecht, Cyber",
+        "french": "Entraide judiciaire, Terrorisme, Droit pénal international, Cyber",
+        "italian": "Assistenza giudiziaria, Terrorismo, Diritto penale internazionale, Cyber",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

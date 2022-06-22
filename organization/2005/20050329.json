@@ -1,1 +1,181 @@
-{"id"=>"20050329", "name"=>{"german"=>"Admin-Team EFV", "french"=>"Admin-Team EFV", "italian"=>"Admin-Team EFV", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bundesgasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"Admin-Team@efv.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-5072292", "surname"=>"Blank-Spengler", "givenName"=>"Rahel", "email"=>nil, "phone"=>"+41 58 46 22977", "function"=>{"german"=>"Assistentin", "french"=>"Assistante FP-R+R", "italian"=>"Assistente FP-R+R", "english"=>"Assistentin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2508200", "surname"=>"Buta", "givenName"=>"Gabriela", "email"=>nil, "phone"=>"+41 58 46 11420", "function"=>{"german"=>"Assistentin", "french"=>"Assistante AP-ÖAB", "italian"=>"Assistente AP-ÖAB", "english"=>"Assistentin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2624811", "surname"=>"Rohner", "givenName"=>"Jacqueline", "email"=>nil, "phone"=>"+41 58 46 60025", "function"=>{"german"=>"Assistentin", "french"=>"Assistante AP-ÖAB", "italian"=>"Assistente AP-ÖAB", "english"=>"Assistentin"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008657", "label"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}, "name"=>{"german"=>"Eidgenössische Finanzverwaltung", "french"=>"Administration fédérale des finances", "italian"=>"Amministrazione federale delle finanze", "english"=>""}}, {"id"=>"10003244", "label"=>{"german"=>"EFV", "french"=>"AFF", "italian"=>"AFF", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003245", "label"=>{"german"=>"Direktionssekretariat", "french"=>"Secrétariat de direction", "italian"=>"Segreteria di direzione", "english"=>""}, "name"=>{"german"=>"Direktionssekretariat", "french"=>"Secrétariat de direction", "italian"=>"Segreteria di direzione", "english"=>""}}, {"id"=>"20050329", "label"=>{"german"=>"Admin-Team EFV", "french"=>"Admin-Team EFV", "italian"=>"Admin-Team EFV", "english"=>""}, "name"=>{"german"=>"Admin-Team EFV", "french"=>"Admin-Team EFV", "italian"=>"Admin-Team EFV", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "20050329",
+  "name": {
+    "german": "Admin-Team EFV",
+    "french": "Admin-Team EFV",
+    "italian": "Admin-Team EFV",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bundesgasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "Admin-Team@efv.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-5072292",
+      "surname": "Blank-Spengler",
+      "givenName": "Rahel",
+      "email": null,
+      "phone": "+41 58 46 22977",
+      "function": {
+        "german": "Assistentin",
+        "french": "Assistante FP-R+R",
+        "italian": "Assistente FP-R+R",
+        "english": "Assistentin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2508200",
+      "surname": "Buta",
+      "givenName": "Gabriela",
+      "email": null,
+      "phone": "+41 58 46 11420",
+      "function": {
+        "german": "Assistentin",
+        "french": "Assistante AP-ÖAB",
+        "italian": "Assistente AP-ÖAB",
+        "english": "Assistentin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2624811",
+      "surname": "Rohner",
+      "givenName": "Jacqueline",
+      "email": null,
+      "phone": "+41 58 46 60025",
+      "function": {
+        "german": "Assistentin",
+        "french": "Assistante AP-ÖAB",
+        "italian": "Assistente AP-ÖAB",
+        "english": "Assistentin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008657",
+      "label": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Finanzverwaltung",
+        "french": "Administration fédérale des finances",
+        "italian": "Amministrazione federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003244",
+      "label": {
+        "german": "EFV",
+        "french": "AFF",
+        "italian": "AFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003245",
+      "label": {
+        "german": "Direktionssekretariat",
+        "french": "Secrétariat de direction",
+        "italian": "Segreteria di direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionssekretariat",
+        "french": "Secrétariat de direction",
+        "italian": "Segreteria di direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050329",
+      "label": {
+        "german": "Admin-Team EFV",
+        "french": "Admin-Team EFV",
+        "italian": "Admin-Team EFV",
+        "english": ""
+      },
+      "name": {
+        "german": "Admin-Team EFV",
+        "french": "Admin-Team EFV",
+        "italian": "Admin-Team EFV",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

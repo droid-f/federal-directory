@@ -1,1 +1,170 @@
-{"id"=>"20039704", "name"=>{"german"=>"WIKRI Standort Bern", "french"=>"WIKRI Site de Berne", "italian"=>"WIKRI Sede di Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20033188", "name"=>{"german"=>"Staatsanwälte WIKRI Bern", "french"=>"Procureurs fédéraux WIKRI Berne", "italian"=>"Procuratori federali WIKRI Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20033685", "name"=>{"german"=>"Assistenz-Staatsanwälte WIKRI Bern", "french"=>"Procureurs fédéraux assist. WIKRI Berne", "italian"=>"Assist. procuratori federali WIKRI Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20033686", "name"=>{"german"=>"Verfahrensassistenz WIKRI Bern", "french"=>"Chancellerie WIKRI Berne", "italian"=>"Cancelleria WIKRI Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4235152", "surname"=>"Portmann", "givenName"=>"Matthias", "email"=>nil, "phone"=>"+41 58 46 86514", "function"=>{"german"=>"Staatsanwalt - Verantw. Bern", "french"=>"Procureur fédéral - Resp. site Berne", "italian"=>"Procuratore fed. - Resp. sede Berna", "english"=>"Staatsanwalt - Verantw. Bern"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20009577", "label"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}, "name"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}}, {"id"=>"20039704", "label"=>{"german"=>"WIKRI Standort Bern", "french"=>"WIKRI Site de Berne", "italian"=>"WIKRI Sede di Berna", "english"=>""}, "name"=>{"german"=>"WIKRI Standort Bern", "french"=>"WIKRI Site de Berne", "italian"=>"WIKRI Sede di Berna", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039704",
+  "name": {
+    "german": "WIKRI Standort Bern",
+    "french": "WIKRI Site de Berne",
+    "italian": "WIKRI Sede di Berna",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20033188",
+      "name": {
+        "german": "Staatsanwälte WIKRI Bern",
+        "french": "Procureurs fédéraux WIKRI Berne",
+        "italian": "Procuratori federali WIKRI Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033685",
+      "name": {
+        "german": "Assistenz-Staatsanwälte WIKRI Bern",
+        "french": "Procureurs fédéraux assist. WIKRI Berne",
+        "italian": "Assist. procuratori federali WIKRI Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20033686",
+      "name": {
+        "german": "Verfahrensassistenz WIKRI Bern",
+        "french": "Chancellerie WIKRI Berne",
+        "italian": "Cancelleria WIKRI Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4235152",
+      "surname": "Portmann",
+      "givenName": "Matthias",
+      "email": null,
+      "phone": "+41 58 46 86514",
+      "function": {
+        "german": "Staatsanwalt - Verantw. Bern",
+        "french": "Procureur fédéral - Resp. site Berne",
+        "italian": "Procuratore fed. - Resp. sede Berna",
+        "english": "Staatsanwalt - Verantw. Bern"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009577",
+      "label": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039704",
+      "label": {
+        "german": "WIKRI Standort Bern",
+        "french": "WIKRI Site de Berne",
+        "italian": "WIKRI Sede di Berna",
+        "english": ""
+      },
+      "name": {
+        "german": "WIKRI Standort Bern",
+        "french": "WIKRI Site de Berne",
+        "italian": "WIKRI Sede di Berna",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,225 @@
-{"id"=>"20039656", "name"=>{"german"=>"Aufsicht Technik und Finanzen", "french"=>"Surveillance technique et financière", "italian"=>"Sorveglianza tecnica e finanziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7756225", "surname"=>"Kessler-Genoud", "givenName"=>"Fanny", "email"=>nil, "phone"=>"+41 58 46 31478", "function"=>{"german"=>"Sektionsleiter/in", "french"=>"Chef de section", "italian"=>"Capo di sezione", "english"=>"Sektionsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8919188", "surname"=>"Bouquet", "givenName"=>"Jérémie", "email"=>nil, "phone"=>"+41 58 46 92076", "function"=>{"german"=>"Aufsichtsbeauftragter Fachrichtung Informatik", "french"=>"Préposé à la Surveillance orientation informatique", "italian"=>"Incaricato alla vigilanza indirizzo informatico", "english"=>"Aufsichtsbeauftragter Fachrichtung IT"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1087494", "surname"=>"Brülhart", "givenName"=>"Pius", "email"=>nil, "phone"=>"+41 58 46 71769", "function"=>{"german"=>"Aufsichtsbeauftragter Fachrichtung Informatik", "french"=>"Préposé à la Surveillance orientation informatique", "italian"=>"Incaricato alla vigilanza indirizzo informatico", "english"=>"Aufsichtsbeauftragter Fachrichtung IT"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9707561", "surname"=>"Di Carlo", "givenName"=>"David", "email"=>nil, "phone"=>"+41 58 46 76872", "function"=>{"german"=>"Aufsichtsbeauftragter Fachrichtung Betriebswirtschaft", "french"=>"Préposé à la surveillance orientation économie d'entreprise", "italian"=>"Incaricato della sorveglianza specializzato in economia", "english"=>"Aufsichtsbeauftragter Fachrichtung BW"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XLBZH128", "surname"=>"Tanner", "givenName"=>"Reto", "email"=>nil, "phone"=>"+41 58 46 18859", "function"=>{"german"=>"Aufsichtsbeauftragte Fachrichtung Betriebswirtschaft", "french"=>"Préposé à la surveillance orientation économie d'entreprise", "italian"=>"Incaricato della sorveglianza specializzata in economia", "english"=>"Aufsichtsbeauftragter Fachrichtung BW"}, "isVisibleInEstKa"=>true}, {"id"=>"p-10009157", "surname"=>"Wiget", "givenName"=>"Lawrence", "email"=>nil, "phone"=>"+41 58 46 57904", "function"=>{"german"=>"Aufsichtsbeauftragte Fachrichtung Betriebswirtschaft", "french"=>"Préposé à la surveillance orientation économie d'entreprise", "italian"=>"Incaricato della sorveglianza specializzato in economia", "english"=>"Aufsichtsbeauftragter Fachrichtung BW"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009488", "label"=>{"german"=>"ESBK", "french"=>"CFMJ", "italian"=>"CFCG", "english"=>""}, "name"=>{"german"=>"Eidgenössische Spielbankenkommission", "french"=>"Commission fédérale des maisons de jeu", "italian"=>"Commissione federale delle case da gioco", "english"=>""}}, {"id"=>"10009489", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20049752", "label"=>{"german"=>"Aufsicht", "french"=>"Division Surveillance", "italian"=>"Divisione Sorveglianza", "english"=>""}, "name"=>{"german"=>"Aufsicht", "french"=>"Division Surveillance", "italian"=>"Divisione Sorveglianza", "english"=>""}}, {"id"=>"20039656", "label"=>{"german"=>"Aufsicht Technik und Finanzen", "french"=>"Surveillance technique et financière", "italian"=>"Sorveglianza tecnica e finanziaria", "english"=>""}, "name"=>{"german"=>"Aufsicht Technik und Finanzen", "french"=>"Surveillance technique et financière", "italian"=>"Sorveglianza tecnica e finanziaria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20039656",
+  "name": {
+    "german": "Aufsicht Technik und Finanzen",
+    "french": "Surveillance technique et financière",
+    "italian": "Sorveglianza tecnica e finanziaria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7756225",
+      "surname": "Kessler-Genoud",
+      "givenName": "Fanny",
+      "email": null,
+      "phone": "+41 58 46 31478",
+      "function": {
+        "german": "Sektionsleiter/in",
+        "french": "Chef de section",
+        "italian": "Capo di sezione",
+        "english": "Sektionsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8919188",
+      "surname": "Bouquet",
+      "givenName": "Jérémie",
+      "email": null,
+      "phone": "+41 58 46 92076",
+      "function": {
+        "german": "Aufsichtsbeauftragter Fachrichtung Informatik",
+        "french": "Préposé à la Surveillance orientation informatique",
+        "italian": "Incaricato alla vigilanza indirizzo informatico",
+        "english": "Aufsichtsbeauftragter Fachrichtung IT"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1087494",
+      "surname": "Brülhart",
+      "givenName": "Pius",
+      "email": null,
+      "phone": "+41 58 46 71769",
+      "function": {
+        "german": "Aufsichtsbeauftragter Fachrichtung Informatik",
+        "french": "Préposé à la Surveillance orientation informatique",
+        "italian": "Incaricato alla vigilanza indirizzo informatico",
+        "english": "Aufsichtsbeauftragter Fachrichtung IT"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9707561",
+      "surname": "Di Carlo",
+      "givenName": "David",
+      "email": null,
+      "phone": "+41 58 46 76872",
+      "function": {
+        "german": "Aufsichtsbeauftragter Fachrichtung Betriebswirtschaft",
+        "french": "Préposé à la surveillance orientation économie d'entreprise",
+        "italian": "Incaricato della sorveglianza specializzato in economia",
+        "english": "Aufsichtsbeauftragter Fachrichtung BW"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XLBZH128",
+      "surname": "Tanner",
+      "givenName": "Reto",
+      "email": null,
+      "phone": "+41 58 46 18859",
+      "function": {
+        "german": "Aufsichtsbeauftragte Fachrichtung Betriebswirtschaft",
+        "french": "Préposé à la surveillance orientation économie d'entreprise",
+        "italian": "Incaricato della sorveglianza specializzata in economia",
+        "english": "Aufsichtsbeauftragter Fachrichtung BW"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10009157",
+      "surname": "Wiget",
+      "givenName": "Lawrence",
+      "email": null,
+      "phone": "+41 58 46 57904",
+      "function": {
+        "german": "Aufsichtsbeauftragte Fachrichtung Betriebswirtschaft",
+        "french": "Préposé à la surveillance orientation économie d'entreprise",
+        "italian": "Incaricato della sorveglianza specializzato in economia",
+        "english": "Aufsichtsbeauftragter Fachrichtung BW"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009488",
+      "label": {
+        "german": "ESBK",
+        "french": "CFMJ",
+        "italian": "CFCG",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Spielbankenkommission",
+        "french": "Commission fédérale des maisons de jeu",
+        "italian": "Commissione federale delle case da gioco",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009489",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049752",
+      "label": {
+        "german": "Aufsicht",
+        "french": "Division Surveillance",
+        "italian": "Divisione Sorveglianza",
+        "english": ""
+      },
+      "name": {
+        "german": "Aufsicht",
+        "french": "Division Surveillance",
+        "italian": "Divisione Sorveglianza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039656",
+      "label": {
+        "german": "Aufsicht Technik und Finanzen",
+        "french": "Surveillance technique et financière",
+        "italian": "Sorveglianza tecnica e finanziaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Aufsicht Technik und Finanzen",
+        "french": "Surveillance technique et financière",
+        "italian": "Sorveglianza tecnica e finanziaria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

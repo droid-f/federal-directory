@@ -1,1 +1,154 @@
-{"id"=>"10005979", "name"=>{"german"=>"Interne Revision BBL", "french"=>"Audit interne OFCL", "italian"=>"Revisione interna UFCL", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Fellerstrasse 21", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0278819", "surname"=>"Ney", "givenName"=>"Andrea", "email"=>nil, "phone"=>"+41 58 46 73127", "function"=>{"german"=>"Leiter/in Interne Revision BBL", "french"=>"Responsable Audit interne", "italian"=>"Capo Revisione interna UFCL", "english"=>"Leiter/in Interne Revision BBL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8385731", "surname"=>"Stucki", "givenName"=>"Peter", "email"=>nil, "phone"=>"+41 58 46 28113", "function"=>{"german"=>"Interne/r Revisor/in", "french"=>"Réviseur/se interne", "italian"=>"Revisore interno", "english"=>"Interne/r Revisor/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008670", "label"=>{"german"=>"BBL", "french"=>"OFCL", "italian"=>"UFCL", "english"=>""}, "name"=>{"german"=>"Bundesamt für Bauten und Logistik", "french"=>"Office fédéral des constructions et de la logistique", "italian"=>"Ufficio federale delle costruzioni e della logistica", "english"=>""}}, {"id"=>"10005978", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10005979", "label"=>{"german"=>"Interne Revision BBL", "french"=>"Audit interne OFCL", "italian"=>"Revisione interna UFCL", "english"=>""}, "name"=>{"german"=>"Interne Revision BBL", "french"=>"Audit interne OFCL", "italian"=>"Revisione interna UFCL", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005979",
+  "name": {
+    "german": "Interne Revision BBL",
+    "french": "Audit interne OFCL",
+    "italian": "Revisione interna UFCL",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Fellerstrasse 21",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0278819",
+      "surname": "Ney",
+      "givenName": "Andrea",
+      "email": null,
+      "phone": "+41 58 46 73127",
+      "function": {
+        "german": "Leiter/in Interne Revision BBL",
+        "french": "Responsable Audit interne",
+        "italian": "Capo Revisione interna UFCL",
+        "english": "Leiter/in Interne Revision BBL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8385731",
+      "surname": "Stucki",
+      "givenName": "Peter",
+      "email": null,
+      "phone": "+41 58 46 28113",
+      "function": {
+        "german": "Interne/r Revisor/in",
+        "french": "Réviseur/se interne",
+        "italian": "Revisore interno",
+        "english": "Interne/r Revisor/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008670",
+      "label": {
+        "german": "BBL",
+        "french": "OFCL",
+        "italian": "UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Bauten und Logistik",
+        "french": "Office fédéral des constructions et de la logistique",
+        "italian": "Ufficio federale delle costruzioni e della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005978",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005979",
+      "label": {
+        "german": "Interne Revision BBL",
+        "french": "Audit interne OFCL",
+        "italian": "Revisione interna UFCL",
+        "english": ""
+      },
+      "name": {
+        "german": "Interne Revision BBL",
+        "french": "Audit interne OFCL",
+        "italian": "Revisione interna UFCL",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

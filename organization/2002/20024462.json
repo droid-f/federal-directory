@@ -1,1 +1,158 @@
-{"id"=>"20024462", "name"=>{"german"=>"Passbüro EDA", "french"=>"Bureau des passeports DFAE", "italian"=>"Ufficio passaporti DFAE", "english"=>"FDFA Passport Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1646329", "surname"=>"Fehlbaum Flückiger", "givenName"=>"Magali", "email"=>nil, "phone"=>"+41 58 46 23029", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9971268", "surname"=>"Duss", "givenName"=>"Simon", "email"=>nil, "phone"=>"+41 58 48 45015", "function"=>{"german"=>"Fachspezialist/in", "french"=>"Fachspezialist/in", "italian"=>"Fachspezialist/in", "english"=>"Fachspezialist/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"20024457", "label"=>{"german"=>"Fachdienste EDA", "french"=>"Services spécialisés DFAE", "italian"=>"Servizi specializzati DFAE", "english"=>"FDFA Specialised Services"}, "name"=>{"german"=>"Fachdienste EDA", "french"=>"Services spécialisés DFAE", "italian"=>"Servizi specializzati DFAE", "english"=>"FDFA Specialised Services"}}, {"id"=>"20024462", "label"=>{"german"=>"Passbüro EDA", "french"=>"Bureau des passeports DFAE", "italian"=>"Ufficio passaporti DFAE", "english"=>"FDFA Passport Office"}, "name"=>{"german"=>"Passbüro EDA", "french"=>"Bureau des passeports DFAE", "italian"=>"Ufficio passaporti DFAE", "english"=>"FDFA Passport Office"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20024462",
+  "name": {
+    "german": "Passbüro EDA",
+    "french": "Bureau des passeports DFAE",
+    "italian": "Ufficio passaporti DFAE",
+    "english": "FDFA Passport Office"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1646329",
+      "surname": "Fehlbaum Flückiger",
+      "givenName": "Magali",
+      "email": null,
+      "phone": "+41 58 46 23029",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9971268",
+      "surname": "Duss",
+      "givenName": "Simon",
+      "email": null,
+      "phone": "+41 58 48 45015",
+      "function": {
+        "german": "Fachspezialist/in",
+        "french": "Fachspezialist/in",
+        "italian": "Fachspezialist/in",
+        "english": "Fachspezialist/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "20024457",
+      "label": {
+        "german": "Fachdienste EDA",
+        "french": "Services spécialisés DFAE",
+        "italian": "Servizi specializzati DFAE",
+        "english": "FDFA Specialised Services"
+      },
+      "name": {
+        "german": "Fachdienste EDA",
+        "french": "Services spécialisés DFAE",
+        "italian": "Servizi specializzati DFAE",
+        "english": "FDFA Specialised Services"
+      }
+    },
+    {
+      "id": "20024462",
+      "label": {
+        "german": "Passbüro EDA",
+        "french": "Bureau des passeports DFAE",
+        "italian": "Ufficio passaporti DFAE",
+        "english": "FDFA Passport Office"
+      },
+      "name": {
+        "german": "Passbüro EDA",
+        "french": "Bureau des passeports DFAE",
+        "italian": "Ufficio passaporti DFAE",
+        "english": "FDFA Passport Office"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

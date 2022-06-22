@@ -1,1 +1,156 @@
-{"id"=>"20010351", "name"=>{"german"=>"Dienst Übersetzung", "french"=>"Service Traduction", "italian"=>"Servizio Traduzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 40", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6148879", "surname"=>"Giacomotti", "givenName"=>"Silvia", "email"=>nil, "phone"=>"+41 58 48 10824", "function"=>{"german"=>"Leiter/in Dienst", "french"=>"Chef/fe de service", "italian"=>"Caposervizio", "english"=>"Leiter/in Dienst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004326", "label"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}, "name"=>{"german"=>"Direktion BAK", "french"=>"Direction OFC", "italian"=>"Direzione UFC", "english"=>""}}, {"id"=>"20010076", "label"=>{"german"=>"Stellvertretende Direktion BAK", "french"=>"Direction suppléante OFC", "italian"=>"Direzione supplente UFC", "english"=>""}, "name"=>{"german"=>"Stellvertretende Direktion BAK", "french"=>"Direction suppléante OFC", "italian"=>"Direzione supplente UFC", "english"=>""}}, {"id"=>"20010351", "label"=>{"german"=>"Dienst Übersetzung", "french"=>"Service Traduction", "italian"=>"Servizio Traduzione", "english"=>""}, "name"=>{"german"=>"Dienst Übersetzung", "french"=>"Service Traduction", "italian"=>"Servizio Traduzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20010351",
+  "name": {
+    "german": "Dienst Übersetzung",
+    "french": "Service Traduction",
+    "italian": "Servizio Traduzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 40",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6148879",
+      "surname": "Giacomotti",
+      "givenName": "Silvia",
+      "email": null,
+      "phone": "+41 58 48 10824",
+      "function": {
+        "german": "Leiter/in Dienst",
+        "french": "Chef/fe de service",
+        "italian": "Caposervizio",
+        "english": "Leiter/in Dienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004326",
+      "label": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion BAK",
+        "french": "Direction OFC",
+        "italian": "Direzione UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010076",
+      "label": {
+        "german": "Stellvertretende Direktion BAK",
+        "french": "Direction suppléante OFC",
+        "italian": "Direzione supplente UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Stellvertretende Direktion BAK",
+        "french": "Direction suppléante OFC",
+        "italian": "Direzione supplente UFC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20010351",
+      "label": {
+        "german": "Dienst Übersetzung",
+        "french": "Service Traduction",
+        "italian": "Servizio Traduzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Dienst Übersetzung",
+        "french": "Service Traduction",
+        "italian": "Servizio Traduzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

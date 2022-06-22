@@ -1,1 +1,128 @@
-{"id"=>"10005113", "name"=>{"german"=>"Abteilungskanzlei", "french"=>"Chancellerie de cour", "italian"=>"Cancelleria della corte", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3823107", "surname"=>"Gachoud", "givenName"=>"Ursula", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Chefin der Abteilungskanzlei", "french"=>"Cheffe de chancellerie de cour", "italian"=>"Responsabile della cancelleria", "english"=>"Chefin der Abteilungskanzlei"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-2056372", "surname"=>"Borcard", "givenName"=>"Silvia", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Chefin der Abteilungskanzlei", "french"=>"Suppléante de la cheffe de chancellerie", "italian"=>"Supplente della responsabile cancelleria", "english"=>"Stv. Chefin der Abteilungskanzlei"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005112", "label"=>{"german"=>"II. öffentlich-rechtliche Abteilung", "french"=>"IIe Cour de droit public", "italian"=>"II Corte di diritto pubblico", "english"=>""}, "name"=>{"german"=>"II. öffentlich-rechtliche Abteilung", "french"=>"IIe Cour de droit public", "italian"=>"II Corte di diritto pubblico", "english"=>""}}, {"id"=>"10005113", "label"=>{"german"=>"Abteilungskanzlei", "french"=>"Chancellerie de cour", "italian"=>"Cancelleria della corte", "english"=>""}, "name"=>{"german"=>"Abteilungskanzlei", "french"=>"Chancellerie de cour", "italian"=>"Cancelleria della corte", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005113",
+  "name": {
+    "german": "Abteilungskanzlei",
+    "french": "Chancellerie de cour",
+    "italian": "Cancelleria della corte",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3823107",
+      "surname": "Gachoud",
+      "givenName": "Ursula",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Chefin der Abteilungskanzlei",
+        "french": "Cheffe de chancellerie de cour",
+        "italian": "Responsabile della cancelleria",
+        "english": "Chefin der Abteilungskanzlei"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-2056372",
+      "surname": "Borcard",
+      "givenName": "Silvia",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Chefin der Abteilungskanzlei",
+        "french": "Suppléante de la cheffe de chancellerie",
+        "italian": "Supplente della responsabile cancelleria",
+        "english": "Stv. Chefin der Abteilungskanzlei"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005112",
+      "label": {
+        "german": "II. öffentlich-rechtliche Abteilung",
+        "french": "IIe Cour de droit public",
+        "italian": "II Corte di diritto pubblico",
+        "english": ""
+      },
+      "name": {
+        "german": "II. öffentlich-rechtliche Abteilung",
+        "french": "IIe Cour de droit public",
+        "italian": "II Corte di diritto pubblico",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005113",
+      "label": {
+        "german": "Abteilungskanzlei",
+        "french": "Chancellerie de cour",
+        "italian": "Cancelleria della corte",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilungskanzlei",
+        "french": "Chancellerie de cour",
+        "italian": "Cancelleria della corte",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

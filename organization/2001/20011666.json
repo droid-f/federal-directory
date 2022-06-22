@@ -1,1 +1,170 @@
-{"id"=>"20011666", "name"=>{"german"=>"Managementsupport ALC Thun", "french"=>"Support de gestion CLA Thoune", "italian"=>"Supporto alla gestione CLEs Thun", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwäbis", "postalCode"=>"3602", "location"=>"Thun", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20011661", "label"=>{"german"=>"Armeelogistikcenter Thun", "french"=>"Centre logistique de l'armée de Thoune", "italian"=>"Centro logistico dell'esercito Thun", "english"=>""}, "name"=>{"german"=>"Armeelogistikcenter Thun", "french"=>"Centre logistique de l'armée de Thoune", "italian"=>"Centro logistico dell'esercito Thun", "english"=>""}}, {"id"=>"20011662", "label"=>{"german"=>"Stab ALC Thun", "french"=>"Etat-major CLA-T", "italian"=>"Stato maggiore CLEs Thun", "english"=>""}, "name"=>{"german"=>"Stab ALC Thun", "french"=>"Etat-major CLA-T", "italian"=>"Stato maggiore CLEs Thun", "english"=>""}}, {"id"=>"20011666", "label"=>{"german"=>"Managementsupport ALC Thun", "french"=>"Support de gestion CLA Thoune", "italian"=>"Supporto alla gestione CLEs Thun", "english"=>""}, "name"=>{"german"=>"Managementsupport ALC Thun", "french"=>"Support de gestion CLA Thoune", "italian"=>"Supporto alla gestione CLEs Thun", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20011666",
+  "name": {
+    "german": "Managementsupport ALC Thun",
+    "french": "Support de gestion CLA Thoune",
+    "italian": "Supporto alla gestione CLEs Thun",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwäbis",
+    "postalCode": "3602",
+    "location": "Thun",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011661",
+      "label": {
+        "german": "Armeelogistikcenter Thun",
+        "french": "Centre logistique de l'armée de Thoune",
+        "italian": "Centro logistico dell'esercito Thun",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeelogistikcenter Thun",
+        "french": "Centre logistique de l'armée de Thoune",
+        "italian": "Centro logistico dell'esercito Thun",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011662",
+      "label": {
+        "german": "Stab ALC Thun",
+        "french": "Etat-major CLA-T",
+        "italian": "Stato maggiore CLEs Thun",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab ALC Thun",
+        "french": "Etat-major CLA-T",
+        "italian": "Stato maggiore CLEs Thun",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011666",
+      "label": {
+        "german": "Managementsupport ALC Thun",
+        "french": "Support de gestion CLA Thoune",
+        "italian": "Supporto alla gestione CLEs Thun",
+        "english": ""
+      },
+      "name": {
+        "german": "Managementsupport ALC Thun",
+        "french": "Support de gestion CLA Thoune",
+        "italian": "Supporto alla gestione CLEs Thun",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

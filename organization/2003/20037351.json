@@ -1,1 +1,95 @@
-{"id"=>"20037351", "name"=>{"german"=>"Administration Räte & Kommissionen", "french"=>"Administration conseils & commissions", "italian"=>"Amministrazione camere & commissioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037303", "label"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}, "name"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}}, {"id"=>"20037351", "label"=>{"german"=>"Administration Räte & Kommissionen", "french"=>"Administration conseils & commissions", "italian"=>"Amministrazione camere & commissioni", "english"=>""}, "name"=>{"german"=>"Administration Räte & Kommissionen", "french"=>"Administration conseils & commissions", "italian"=>"Amministrazione camere & commissioni", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037351",
+  "name": {
+    "german": "Administration Räte & Kommissionen",
+    "french": "Administration conseils & commissions",
+    "italian": "Amministrazione camere & commissioni",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037303",
+      "label": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037351",
+      "label": {
+        "german": "Administration Räte & Kommissionen",
+        "french": "Administration conseils & commissions",
+        "italian": "Amministrazione camere & commissioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Administration Räte & Kommissionen",
+        "french": "Administration conseils & commissions",
+        "italian": "Amministrazione camere & commissioni",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

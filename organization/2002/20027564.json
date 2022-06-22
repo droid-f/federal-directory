@@ -1,1 +1,194 @@
-{"id"=>"20027564", "name"=>{"german"=>"Referentenstab", "french"=>"Etat-major des rapporteurs", "italian"=>"Stato maggiore dei relatori", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kochergasse 10", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-7017410", "surname"=>"Buffat", "givenName"=>"Marcel", "email"=>nil, "phone"=>"+41 58 46 16029", "function"=>{"german"=>"Referent", "french"=>"Referent", "italian"=>"Referent", "english"=>"Referent"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5877336", "surname"=>"Corti", "givenName"=>"Marilena", "email"=>nil, "phone"=>"+41 58 48 50267", "function"=>{"german"=>"Referentin", "french"=>"Referentin", "italian"=>"Referentin", "english"=>"Referentin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5821090", "surname"=>"Kronig", "givenName"=>"Laura", "email"=>nil, "phone"=>"+41 58 48 01850", "function"=>{"german"=>"Referentin", "french"=>"Referentin", "italian"=>"Referentin", "english"=>"Referentin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4519466", "surname"=>"Schmid", "givenName"=>"Laura", "email"=>nil, "phone"=>"+41 58 46 51022", "function"=>{"german"=>"Referentin", "french"=>"Referentin", "italian"=>"Referentin", "english"=>"Referentin"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3140946", "surname"=>"Tissot", "givenName"=>"Jacques", "email"=>nil, "phone"=>"+41 58 48 50670", "function"=>{"german"=>"Referent", "french"=>"Referent", "italian"=>"Referent", "english"=>"Referent"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008848", "label"=>{"german"=>"GS-UVEK", "french"=>"SG-DETEC", "italian"=>"SG-DATEC", "english"=>""}, "name"=>{"german"=>"Generalsekretariat UVEK", "french"=>"Secrétariat général DETEC", "italian"=>"Segreteria generale DATEC", "english"=>""}}, {"id"=>"20049251", "label"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "name"=>{"german"=>"Stab", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}}, {"id"=>"20027564", "label"=>{"german"=>"Referentenstab", "french"=>"Etat-major des rapporteurs", "italian"=>"Stato maggiore dei relatori", "english"=>""}, "name"=>{"german"=>"Referentenstab", "french"=>"Etat-major des rapporteurs", "italian"=>"Stato maggiore dei relatori", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027564",
+  "name": {
+    "german": "Referentenstab",
+    "french": "Etat-major des rapporteurs",
+    "italian": "Stato maggiore dei relatori",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kochergasse 10",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-7017410",
+      "surname": "Buffat",
+      "givenName": "Marcel",
+      "email": null,
+      "phone": "+41 58 46 16029",
+      "function": {
+        "german": "Referent",
+        "french": "Referent",
+        "italian": "Referent",
+        "english": "Referent"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5877336",
+      "surname": "Corti",
+      "givenName": "Marilena",
+      "email": null,
+      "phone": "+41 58 48 50267",
+      "function": {
+        "german": "Referentin",
+        "french": "Referentin",
+        "italian": "Referentin",
+        "english": "Referentin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5821090",
+      "surname": "Kronig",
+      "givenName": "Laura",
+      "email": null,
+      "phone": "+41 58 48 01850",
+      "function": {
+        "german": "Referentin",
+        "french": "Referentin",
+        "italian": "Referentin",
+        "english": "Referentin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4519466",
+      "surname": "Schmid",
+      "givenName": "Laura",
+      "email": null,
+      "phone": "+41 58 46 51022",
+      "function": {
+        "german": "Referentin",
+        "french": "Referentin",
+        "italian": "Referentin",
+        "english": "Referentin"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3140946",
+      "surname": "Tissot",
+      "givenName": "Jacques",
+      "email": null,
+      "phone": "+41 58 48 50670",
+      "function": {
+        "german": "Referent",
+        "french": "Referent",
+        "italian": "Referent",
+        "english": "Referent"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008848",
+      "label": {
+        "german": "GS-UVEK",
+        "french": "SG-DETEC",
+        "italian": "SG-DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat UVEK",
+        "french": "Secrétariat général DETEC",
+        "italian": "Segreteria generale DATEC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20049251",
+      "label": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027564",
+      "label": {
+        "german": "Referentenstab",
+        "french": "Etat-major des rapporteurs",
+        "italian": "Stato maggiore dei relatori",
+        "english": ""
+      },
+      "name": {
+        "german": "Referentenstab",
+        "french": "Etat-major des rapporteurs",
+        "italian": "Stato maggiore dei relatori",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

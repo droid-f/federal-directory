@@ -1,1 +1,155 @@
-{"id"=>"20016202", "name"=>{"german"=>"Finanzielles Gebiet und öffentliche Finanzen", "french"=>"Domaine financier et finances publiques", "italian"=>"Settore finanziario e finanze pubbliche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004672", "label"=>{"german"=>"Abteilung Wirtschaft", "french"=>"Division Economie", "italian"=>"Divisione Economia", "english"=>""}, "name"=>{"german"=>"Abteilung Wirtschaft", "french"=>"Division Economie", "italian"=>"Divisione Economia", "english"=>""}}, {"id"=>"10004661", "label"=>{"german"=>"Sektion Volkswirtschaftliche Gesamtrechnung", "french"=>"Section Comptes nationaux", "italian"=>"Sezione Conti economici nazionali", "english"=>""}, "name"=>{"german"=>"Sektion Volkswirtschaftliche Gesamtrechnung", "french"=>"Section Comptes nationaux", "italian"=>"Sezione Conti economici nazionali", "english"=>""}}, {"id"=>"20016202", "label"=>{"german"=>"Finanzielles Gebiet und öffentliche Finanzen", "french"=>"Domaine financier et finances publiques", "italian"=>"Settore finanziario e finanze pubbliche", "english"=>""}, "name"=>{"german"=>"Finanzielles Gebiet und öffentliche Finanzen", "french"=>"Domaine financier et finances publiques", "italian"=>"Settore finanziario e finanze pubbliche", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20016202",
+  "name": {
+    "german": "Finanzielles Gebiet und öffentliche Finanzen",
+    "french": "Domaine financier et finances publiques",
+    "italian": "Settore finanziario e finanze pubbliche",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004672",
+      "label": {
+        "german": "Abteilung Wirtschaft",
+        "french": "Division Economie",
+        "italian": "Divisione Economia",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Wirtschaft",
+        "french": "Division Economie",
+        "italian": "Divisione Economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004661",
+      "label": {
+        "german": "Sektion Volkswirtschaftliche Gesamtrechnung",
+        "french": "Section Comptes nationaux",
+        "italian": "Sezione Conti economici nazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Volkswirtschaftliche Gesamtrechnung",
+        "french": "Section Comptes nationaux",
+        "italian": "Sezione Conti economici nazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016202",
+      "label": {
+        "german": "Finanzielles Gebiet und öffentliche Finanzen",
+        "french": "Domaine financier et finances publiques",
+        "italian": "Settore finanziario e finanze pubbliche",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzielles Gebiet und öffentliche Finanzen",
+        "french": "Domaine financier et finances publiques",
+        "italian": "Settore finanziario e finanze pubbliche",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

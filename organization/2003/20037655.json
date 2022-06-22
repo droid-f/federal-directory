@@ -1,1 +1,241 @@
-{"id"=>"20037655", "name"=>{"german"=>"Beschaffungsstelle", "french"=>"Service des acquisitions", "italian"=>"Acquisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Friedheimweg 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8652198", "surname"=>"Giezendanner", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 25551", "function"=>{"german"=>"Gruppenleiter/in BS TCQL", "french"=>"Gruppenleiter/in BS TCQL", "italian"=>"Gruppenleiter/in BS TCQL", "english"=>"Gruppenleiter/in BS TCQL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-9849115", "surname"=>"Jegerlehner", "givenName"=>"Kim", "email"=>nil, "phone"=>"+41 58 46 99060", "function"=>{"german"=>"Spezialist/in Beschaffung BS TCQL", "french"=>"Spezialist/in Beschaffung BS TCQL", "italian"=>"Spezialist/in Beschaffung BS TCQL", "english"=>"Spezialist/in Beschaffung BS TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6539120", "surname"=>"Jungo-Zosso", "givenName"=>"Irène", "email"=>nil, "phone"=>"+41 58 46 27535", "function"=>{"german"=>"Sachbearbeiter/in BS TCQL", "french"=>"Sachbearbeiter/in BS TCQL", "italian"=>"Sachbearbeiter/in BS TCQL", "english"=>"Sachbearbeiter/in BS TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-4008539", "surname"=>"Roth", "givenName"=>"Olivier", "email"=>nil, "phone"=>"+41 58 46 96049", "function"=>{"german"=>"Beschaffungsspezialist/in BS TCQL", "french"=>"Beschaffungsspezialist/in BS TCQL", "italian"=>"Beschaffungsspezialist/in BS TCQL", "english"=>"Beschaffungsspezialist/in BS TCQL"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1XW6M3153", "surname"=>"Wittwer", "givenName"=>"Simone", "email"=>nil, "phone"=>"+41 58 48 10599", "function"=>{"german"=>"Spezialist/in Beschaffung/Vertr. BS TCQL", "french"=>"Spezialist/in Beschaffung/Vertr. BS TCQL", "italian"=>"Spezialist/in Beschaffung/Vertr. BS TCQL", "english"=>"Spezialist/in Beschaffung/Vertr. BS TCQL"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004174", "label"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}, "name"=>{"german"=>"Direktion für Arbeit", "french"=>"Direction du travail", "italian"=>"Direzione del lavoro", "english"=>""}}, {"id"=>"10004185", "label"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}, "name"=>{"german"=>"Arbeitsmarkt und Arbeitslosenversicherung", "french"=>"Marché du travail et assurance-chômage", "italian"=>"Mercato del lavoro / Assicurazione contro la disoccupazione", "english"=>""}}, {"id"=>"20037651", "label"=>{"german"=>"Querschnittleistungen", "french"=>"Prestations transversales", "italian"=>"Prestazioni transversali", "english"=>""}, "name"=>{"german"=>"Querschnittleistungen", "french"=>"Prestations transversales", "italian"=>"Prestazioni transversali", "english"=>""}}, {"id"=>"20037655", "label"=>{"german"=>"Beschaffungsstelle", "french"=>"Service des acquisitions", "italian"=>"Acquisti", "english"=>""}, "name"=>{"german"=>"Beschaffungsstelle", "french"=>"Service des acquisitions", "italian"=>"Acquisti", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037655",
+  "name": {
+    "german": "Beschaffungsstelle",
+    "french": "Service des acquisitions",
+    "italian": "Acquisti",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Friedheimweg 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8652198",
+      "surname": "Giezendanner",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 25551",
+      "function": {
+        "german": "Gruppenleiter/in BS TCQL",
+        "french": "Gruppenleiter/in BS TCQL",
+        "italian": "Gruppenleiter/in BS TCQL",
+        "english": "Gruppenleiter/in BS TCQL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-9849115",
+      "surname": "Jegerlehner",
+      "givenName": "Kim",
+      "email": null,
+      "phone": "+41 58 46 99060",
+      "function": {
+        "german": "Spezialist/in Beschaffung BS TCQL",
+        "french": "Spezialist/in Beschaffung BS TCQL",
+        "italian": "Spezialist/in Beschaffung BS TCQL",
+        "english": "Spezialist/in Beschaffung BS TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6539120",
+      "surname": "Jungo-Zosso",
+      "givenName": "Irène",
+      "email": null,
+      "phone": "+41 58 46 27535",
+      "function": {
+        "german": "Sachbearbeiter/in BS TCQL",
+        "french": "Sachbearbeiter/in BS TCQL",
+        "italian": "Sachbearbeiter/in BS TCQL",
+        "english": "Sachbearbeiter/in BS TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4008539",
+      "surname": "Roth",
+      "givenName": "Olivier",
+      "email": null,
+      "phone": "+41 58 46 96049",
+      "function": {
+        "german": "Beschaffungsspezialist/in BS TCQL",
+        "french": "Beschaffungsspezialist/in BS TCQL",
+        "italian": "Beschaffungsspezialist/in BS TCQL",
+        "english": "Beschaffungsspezialist/in BS TCQL"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1XW6M3153",
+      "surname": "Wittwer",
+      "givenName": "Simone",
+      "email": null,
+      "phone": "+41 58 48 10599",
+      "function": {
+        "german": "Spezialist/in Beschaffung/Vertr. BS TCQL",
+        "french": "Spezialist/in Beschaffung/Vertr. BS TCQL",
+        "italian": "Spezialist/in Beschaffung/Vertr. BS TCQL",
+        "english": "Spezialist/in Beschaffung/Vertr. BS TCQL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004174",
+      "label": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Arbeit",
+        "french": "Direction du travail",
+        "italian": "Direzione del lavoro",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004185",
+      "label": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Arbeitsmarkt und Arbeitslosenversicherung",
+        "french": "Marché du travail et assurance-chômage",
+        "italian": "Mercato del lavoro / Assicurazione contro la disoccupazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037651",
+      "label": {
+        "german": "Querschnittleistungen",
+        "french": "Prestations transversales",
+        "italian": "Prestazioni transversali",
+        "english": ""
+      },
+      "name": {
+        "german": "Querschnittleistungen",
+        "french": "Prestations transversales",
+        "italian": "Prestazioni transversali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037655",
+      "label": {
+        "german": "Beschaffungsstelle",
+        "french": "Service des acquisitions",
+        "italian": "Acquisti",
+        "english": ""
+      },
+      "name": {
+        "german": "Beschaffungsstelle",
+        "french": "Service des acquisitions",
+        "italian": "Acquisti",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

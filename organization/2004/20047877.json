@@ -1,1 +1,214 @@
-{"id"=>"20047877", "name"=>{"german"=>"Gewinnung Bindung und Beratung", "french"=>"Acquisition, Fidélisation et Conseil", "italian"=>"Acquisizione/Fidelizzazione/Consulenza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 14", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20047878", "name"=>{"german"=>"Region West GBB", "french"=>"Région ouest AFC", "italian"=>"Regione ovest AFC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047879", "name"=>{"german"=>"Region Zentral GBB", "french"=>"Région centrale AFC", "italian"=>"Regione centrale AFC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047880", "name"=>{"german"=>"Region Mitte GBB", "french"=>"Région plateau AFC", "italian"=>"Regione altopiano AFC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047881", "name"=>{"german"=>"Region Ost GBB", "french"=>"Région est AFC", "italian"=>"Regione est AFC", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20042580", "label"=>{"german"=>"STABKDOAUSB", "french"=>"STABKDOAUSB", "italian"=>"STABKDOAUSB", "english"=>""}, "name"=>{"german"=>"Stab Kommando Ausbildung", "french"=>"Etat-major commandement Instruction", "italian"=>"SM Comando Istruzione", "english"=>""}}, {"id"=>"20047877", "label"=>{"german"=>"Gewinnung Bindung und Beratung", "french"=>"Acquisition, Fidélisation et Conseil", "italian"=>"Acquisizione/Fidelizzazione/Consulenza", "english"=>""}, "name"=>{"german"=>"Gewinnung Bindung und Beratung", "french"=>"Acquisition, Fidélisation et Conseil", "italian"=>"Acquisizione/Fidelizzazione/Consulenza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20047877",
+  "name": {
+    "german": "Gewinnung Bindung und Beratung",
+    "french": "Acquisition, Fidélisation et Conseil",
+    "italian": "Acquisizione/Fidelizzazione/Consulenza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 14",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20047878",
+      "name": {
+        "german": "Region West GBB",
+        "french": "Région ouest AFC",
+        "italian": "Regione ovest AFC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047879",
+      "name": {
+        "german": "Region Zentral GBB",
+        "french": "Région centrale AFC",
+        "italian": "Regione centrale AFC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047880",
+      "name": {
+        "german": "Region Mitte GBB",
+        "french": "Région plateau AFC",
+        "italian": "Regione altopiano AFC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047881",
+      "name": {
+        "german": "Region Ost GBB",
+        "french": "Région est AFC",
+        "italian": "Regione est AFC",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042580",
+      "label": {
+        "german": "STABKDOAUSB",
+        "french": "STABKDOAUSB",
+        "italian": "STABKDOAUSB",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab Kommando Ausbildung",
+        "french": "Etat-major commandement Instruction",
+        "italian": "SM Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047877",
+      "label": {
+        "german": "Gewinnung Bindung und Beratung",
+        "french": "Acquisition, Fidélisation et Conseil",
+        "italian": "Acquisizione/Fidelizzazione/Consulenza",
+        "english": ""
+      },
+      "name": {
+        "german": "Gewinnung Bindung und Beratung",
+        "french": "Acquisition, Fidélisation et Conseil",
+        "italian": "Acquisizione/Fidelizzazione/Consulenza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

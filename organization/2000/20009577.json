@@ -1,1 +1,226 @@
-{"id"=>"20009577", "name"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20039615", "name"=>{"german"=>"Abteilungsassistenz WIKRI", "french"=>"Assistance de division WIKRI", "italian"=>"Assistenza di divisione WIKRI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20039704", "name"=>{"german"=>"WIKRI Standort Bern", "french"=>"WIKRI Site de Berne", "italian"=>"WIKRI Sede di Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009578", "name"=>{"german"=>"WIKRI Standort Lausanne", "french"=>"WIKRI Site de Lausanne", "italian"=>"WIKRI Sede di Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009579", "name"=>{"german"=>"WIKRI Standort Lugano", "french"=>"WIKRI Site de Lugano", "italian"=>"WIKRI Sede di Lugano", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20009580", "name"=>{"german"=>"WIKRI Standort Zürich", "french"=>"WIKRI Site de Zurich", "italian"=>"WIKRI Sede di Zurigo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8760954", "surname"=>"Rezzonico", "givenName"=>"Dounia", "email"=>nil, "phone"=>"+41 58 46 71991", "function"=>{"german"=>"Leitende Staatsanwältin des Bundes", "french"=>"Procureur fédéral en chef", "italian"=>"Procuratore federale capo", "english"=>"Leitende Staatsanwältin des Bundes"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3806559", "surname"=>"Kauer", "givenName"=>"Tobias", "email"=>nil, "phone"=>"+41 58 46 08321", "function"=>{"german"=>"Staatsanwalt / Verantw. Allgemeine WiKri", "french"=>"Procureur féd. / Resp. Crim. économique", "italian"=>"Procuratore fed. / Resp. Crim. economi", "english"=>"Staatsanwalt / Verantw. Allgemeine WiKri"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8138947", "surname"=>"Sautebin", "givenName"=>"Gérard", "email"=>nil, "phone"=>"+41 58 46 33541", "function"=>{"german"=>"Staatsanwalt / Verantw. Geldwäscherei", "french"=>"Procureur féd. / Resp. Blanchiment d'argent", "italian"=>"Procuratore fed. / Resp. Riciclaggio", "english"=>"Staatsanwalt / Verantw. Geldwäscherei"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5124711", "surname"=>"Schnebli", "givenName"=>"Maria", "email"=>nil, "phone"=>"+41 58 48 13479", "function"=>{"german"=>"Staatsanwalt / Verantw. Internat. Korr.", "french"=>"Procureur féd. / Resp. Corruption internat.", "italian"=>"Procuratore fed. / Resp. Corr. int.", "english"=>"Staatsanwalt / Verantw. Internat. Korr."}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20009577", "label"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}, "name"=>{"german"=>"Wirtschaftskriminalität", "french"=>"Criminalité économique", "italian"=>"Criminalità economica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009577",
+  "name": {
+    "german": "Wirtschaftskriminalität",
+    "french": "Criminalité économique",
+    "italian": "Criminalità economica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20039615",
+      "name": {
+        "german": "Abteilungsassistenz WIKRI",
+        "french": "Assistance de division WIKRI",
+        "italian": "Assistenza di divisione WIKRI",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20039704",
+      "name": {
+        "german": "WIKRI Standort Bern",
+        "french": "WIKRI Site de Berne",
+        "italian": "WIKRI Sede di Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009578",
+      "name": {
+        "german": "WIKRI Standort Lausanne",
+        "french": "WIKRI Site de Lausanne",
+        "italian": "WIKRI Sede di Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009579",
+      "name": {
+        "german": "WIKRI Standort Lugano",
+        "french": "WIKRI Site de Lugano",
+        "italian": "WIKRI Sede di Lugano",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009580",
+      "name": {
+        "german": "WIKRI Standort Zürich",
+        "french": "WIKRI Site de Zurich",
+        "italian": "WIKRI Sede di Zurigo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8760954",
+      "surname": "Rezzonico",
+      "givenName": "Dounia",
+      "email": null,
+      "phone": "+41 58 46 71991",
+      "function": {
+        "german": "Leitende Staatsanwältin des Bundes",
+        "french": "Procureur fédéral en chef",
+        "italian": "Procuratore federale capo",
+        "english": "Leitende Staatsanwältin des Bundes"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3806559",
+      "surname": "Kauer",
+      "givenName": "Tobias",
+      "email": null,
+      "phone": "+41 58 46 08321",
+      "function": {
+        "german": "Staatsanwalt / Verantw. Allgemeine WiKri",
+        "french": "Procureur féd. / Resp. Crim. économique",
+        "italian": "Procuratore fed. / Resp. Crim. economi",
+        "english": "Staatsanwalt / Verantw. Allgemeine WiKri"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8138947",
+      "surname": "Sautebin",
+      "givenName": "Gérard",
+      "email": null,
+      "phone": "+41 58 46 33541",
+      "function": {
+        "german": "Staatsanwalt / Verantw. Geldwäscherei",
+        "french": "Procureur féd. / Resp. Blanchiment d'argent",
+        "italian": "Procuratore fed. / Resp. Riciclaggio",
+        "english": "Staatsanwalt / Verantw. Geldwäscherei"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5124711",
+      "surname": "Schnebli",
+      "givenName": "Maria",
+      "email": null,
+      "phone": "+41 58 48 13479",
+      "function": {
+        "german": "Staatsanwalt / Verantw. Internat. Korr.",
+        "french": "Procureur féd. / Resp. Corruption internat.",
+        "italian": "Procuratore fed. / Resp. Corr. int.",
+        "english": "Staatsanwalt / Verantw. Internat. Korr."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20009577",
+      "label": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Wirtschaftskriminalität",
+        "french": "Criminalité économique",
+        "italian": "Criminalità economica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

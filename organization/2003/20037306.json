@@ -1,1 +1,140 @@
-{"id"=>"20037306", "name"=>{"german"=>"Infrastruktur + Sicherheit", "french"=>"Infrastructures + sécurité", "italian"=>"Infrastruttura + Sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037341", "name"=>{"german"=>"Assistenz-Pool", "french"=>"Pool d'assistance", "italian"=>"Pool di supporto", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20037317", "name"=>{"german"=>"Betrieb und Weibel", "french"=>"Exploitation et huissiers", "italian"=>"Esercizio e uscieri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1883807", "surname"=>"Wortmann", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 32 29752", "function"=>{"german"=>"Bereichsleiter Inftastruktur + Sicherheit", "french"=>"Bereichsleiter Infrastruktur+Sicherheit", "italian"=>"Bereichsleiter Infrastruktur+Sicherheit", "english"=>"Bereichsleiter Infrastruktur+Sicherheit"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037303", "label"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}, "name"=>{"german"=>"Hauptbereich II", "french"=>"Secteur principal II", "italian"=>"Settore principale II", "english"=>""}}, {"id"=>"20037306", "label"=>{"german"=>"Infrastruktur + Sicherheit", "french"=>"Infrastructures + sécurité", "italian"=>"Infrastruttura + Sicurezza", "english"=>""}, "name"=>{"german"=>"Infrastruktur + Sicherheit", "french"=>"Infrastructures + sécurité", "italian"=>"Infrastruttura + Sicurezza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037306",
+  "name": {
+    "german": "Infrastruktur + Sicherheit",
+    "french": "Infrastructures + sécurité",
+    "italian": "Infrastruttura + Sicurezza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037341",
+      "name": {
+        "german": "Assistenz-Pool",
+        "french": "Pool d'assistance",
+        "italian": "Pool di supporto",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037317",
+      "name": {
+        "german": "Betrieb und Weibel",
+        "french": "Exploitation et huissiers",
+        "italian": "Esercizio e uscieri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1883807",
+      "surname": "Wortmann",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 32 29752",
+      "function": {
+        "german": "Bereichsleiter Inftastruktur + Sicherheit",
+        "french": "Bereichsleiter Infrastruktur+Sicherheit",
+        "italian": "Bereichsleiter Infrastruktur+Sicherheit",
+        "english": "Bereichsleiter Infrastruktur+Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037303",
+      "label": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich II",
+        "french": "Secteur principal II",
+        "italian": "Settore principale II",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037306",
+      "label": {
+        "german": "Infrastruktur + Sicherheit",
+        "french": "Infrastructures + sécurité",
+        "italian": "Infrastruttura + Sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Infrastruktur + Sicherheit",
+        "french": "Infrastructures + sécurité",
+        "italian": "Infrastruttura + Sicurezza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

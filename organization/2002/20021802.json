@@ -1,1 +1,200 @@
-{"id"=>"20021802", "name"=>{"german"=>"Aus- und Weiterbildung Mitarbeitende", "french"=>"Formation et perfectionnement des collaborateurs et collaboratrices", "italian"=>"Formazione e perfezionamento dei collaboratori e delle collaboratrici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Eigerstrasse 71", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3213396", "surname"=>"Wymann", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 20246", "function"=>{"german"=>"Leiter Aus- und Weiterbildung Mitarbeitende", "french"=>"Leiter Aus- und Weiterbildung Mitarbeitende", "italian"=>"Leiter Aus- und Weiterbildung Mitarbeitende", "english"=>"Leiter Aus- und Weiterbildung MA"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5924582", "surname"=>"Karlen Moussa", "givenName"=>"Kathrin", "email"=>nil, "phone"=>"+41 58 46 26325", "function"=>{"german"=>"Fachexpertin Aus- und Weiterbildung Mitarbeitende und Stellvertreterin Leiter Aus- und Weiterbildung Mitarbeitende", "french"=>"Fachexpertin Aus- und Weiterbildung Mitarbeitende und Stellvertreterin Leiter Aus- und Weiterbildung Mitarbeitende", "italian"=>"Fachexpertin Aus- und Weiterbildung Mitarbeitende und Stellvertreterin Leiter Aus- und Weiterbildung Mitarbeitende", "english"=>"Fachexpertin AWB MA und Stv RL"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-8448107", "surname"=>"Bürgi Hof", "givenName"=>"Laurence", "email"=>nil, "phone"=>"+41 58 46 33988", "function"=>{"german"=>"Fachverantwortliche Aus- und Weiterbildung Mitarbeitende", "french"=>"Fachverantwortliche Aus- und Weiterbildung Mitarbeitende", "italian"=>"Fachverantwortliche Aus- und Weiterbildung Mitarbeitende", "english"=>"Fachverantwortliche AWB MA"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8859953", "surname"=>"Noser Petronti", "givenName"=>"Franziska", "email"=>nil, "phone"=>"+41 58 46 26263", "function"=>{"german"=>"Fachverantwortliche Aus- und Weiterbildung Mitarbeitende", "french"=>"Fachverantwortliche Aus- und Weiterbildung Mitarbeitende", "italian"=>"Fachverantwortliche Aus- und Weiterbildung Mitarbeitende", "english"=>"Fachverantwortliche AWB MA"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10000034", "label"=>{"german"=>"EPA", "french"=>"OFPER", "italian"=>"UFPER", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Personalamt", "french"=>"Office fédéral du personnel", "italian"=>"Ufficio federale del personale", "english"=>""}}, {"id"=>"10001850", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10000494", "label"=>{"german"=>"Grundlagenentwicklung und Ausbildungszentrum", "french"=>"Développement des bases et centre de formation", "italian"=>"Sviluppo delle basi e Centro di formazione", "english"=>""}, "name"=>{"german"=>"Grundlagenentwicklung und Ausbildungszentrum", "french"=>"Développement des bases et centre de formation", "italian"=>"Sviluppo delle basi e Centro di formazione", "english"=>""}}, {"id"=>"20021802", "label"=>{"german"=>"Aus- und Weiterbildung Mitarbeitende", "french"=>"Formation et perfectionnement des collaborateurs et collaboratrices", "italian"=>"Formazione e perfezionamento dei collaboratori e delle collaboratrici", "english"=>""}, "name"=>{"german"=>"Aus- und Weiterbildung Mitarbeitende", "french"=>"Formation et perfectionnement des collaborateurs et collaboratrices", "italian"=>"Formazione e perfezionamento dei collaboratori e delle collaboratrici", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20021802",
+  "name": {
+    "german": "Aus- und Weiterbildung Mitarbeitende",
+    "french": "Formation et perfectionnement des collaborateurs et collaboratrices",
+    "italian": "Formazione e perfezionamento dei collaboratori e delle collaboratrici",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Eigerstrasse 71",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3213396",
+      "surname": "Wymann",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 20246",
+      "function": {
+        "german": "Leiter Aus- und Weiterbildung Mitarbeitende",
+        "french": "Leiter Aus- und Weiterbildung Mitarbeitende",
+        "italian": "Leiter Aus- und Weiterbildung Mitarbeitende",
+        "english": "Leiter Aus- und Weiterbildung MA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5924582",
+      "surname": "Karlen Moussa",
+      "givenName": "Kathrin",
+      "email": null,
+      "phone": "+41 58 46 26325",
+      "function": {
+        "german": "Fachexpertin Aus- und Weiterbildung Mitarbeitende und Stellvertreterin Leiter Aus- und Weiterbildung Mitarbeitende",
+        "french": "Fachexpertin Aus- und Weiterbildung Mitarbeitende und Stellvertreterin Leiter Aus- und Weiterbildung Mitarbeitende",
+        "italian": "Fachexpertin Aus- und Weiterbildung Mitarbeitende und Stellvertreterin Leiter Aus- und Weiterbildung Mitarbeitende",
+        "english": "Fachexpertin AWB MA und Stv RL"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-8448107",
+      "surname": "Bürgi Hof",
+      "givenName": "Laurence",
+      "email": null,
+      "phone": "+41 58 46 33988",
+      "function": {
+        "german": "Fachverantwortliche Aus- und Weiterbildung Mitarbeitende",
+        "french": "Fachverantwortliche Aus- und Weiterbildung Mitarbeitende",
+        "italian": "Fachverantwortliche Aus- und Weiterbildung Mitarbeitende",
+        "english": "Fachverantwortliche AWB MA"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8859953",
+      "surname": "Noser Petronti",
+      "givenName": "Franziska",
+      "email": null,
+      "phone": "+41 58 46 26263",
+      "function": {
+        "german": "Fachverantwortliche Aus- und Weiterbildung Mitarbeitende",
+        "french": "Fachverantwortliche Aus- und Weiterbildung Mitarbeitende",
+        "italian": "Fachverantwortliche Aus- und Weiterbildung Mitarbeitende",
+        "english": "Fachverantwortliche AWB MA"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000034",
+      "label": {
+        "german": "EPA",
+        "french": "OFPER",
+        "italian": "UFPER",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Personalamt",
+        "french": "Office fédéral du personnel",
+        "italian": "Ufficio federale del personale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10001850",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000494",
+      "label": {
+        "german": "Grundlagenentwicklung und Ausbildungszentrum",
+        "french": "Développement des bases et centre de formation",
+        "italian": "Sviluppo delle basi e Centro di formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Grundlagenentwicklung und Ausbildungszentrum",
+        "french": "Développement des bases et centre de formation",
+        "italian": "Sviluppo delle basi e Centro di formazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021802",
+      "label": {
+        "german": "Aus- und Weiterbildung Mitarbeitende",
+        "french": "Formation et perfectionnement des collaborateurs et collaboratrices",
+        "italian": "Formazione e perfezionamento dei collaboratori e delle collaboratrici",
+        "english": ""
+      },
+      "name": {
+        "german": "Aus- und Weiterbildung Mitarbeitende",
+        "french": "Formation et perfectionnement des collaborateurs et collaboratrices",
+        "italian": "Formazione e perfezionamento dei collaboratori e delle collaboratrici",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

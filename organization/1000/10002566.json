@@ -1,1 +1,247 @@
-{"id"=>"10002566", "name"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pulverstrasse 13", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20018213", "name"=>{"german"=>"Geschäftsstelle EnergieSchweiz", "french"=>"Service SuisseEnergie", "italian"=>"Servizio SvizzeraEnergia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20046076", "name"=>{"german"=>"Mobilität", "french"=>"Mobilität", "italian"=>"Mobilität", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034533", "name"=>{"german"=>"Geräte und Wettbewerbliche Ausschreibungen", "french"=>"Appareils et appels d'offres publics", "italian"=>"Apparecchi e gare pubbliche", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034534", "name"=>{"german"=>"Industrie und Dienstleistungen", "french"=>"Industrie et services", "italian"=>"Industria e servizi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002569", "name"=>{"german"=>"Gebäude", "french"=>"Bâtiments", "italian"=>"Edifici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10002570", "name"=>{"german"=>"Erneuerbare Energien", "french"=>"Energies renouvelables", "italian"=>"Energie rinnovabili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3903148", "surname"=>"Büchel", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 25602", "function"=>{"german"=>"Vizedirektor/in / Leiter/in AEE", "french"=>"Vizedirektor/in / Leiter/in AEE", "italian"=>"Vizedirektor/in / Leiter/in AEE", "english"=>"Vizedirektor/in / Leiter/in AEE"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8252646", "surname"=>"Bisang", "givenName"=>"Kurt", "email"=>nil, "phone"=>"+41 58 46 32241", "function"=>{"german"=>"Leiter/in Geräte/Wettbew.Ausschr./Stv.", "french"=>"Leiter/in Geräte/Wettbew.Ausschr./Stv.", "italian"=>"Leiter/in Geräte/Wettbew.Ausschr./Stv.", "english"=>"Leiter/in Geräte/Wettbew.Ausschr./Stv."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10002566", "label"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}, "name"=>{"german"=>"Abteilung Energieeffizienz und erneuerbare Energien", "french"=>"Division Efficacité énergétique et énergies renouvelables", "italian"=>"Divisione Efficienza energetica e energie rinnovabili", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002566",
+  "name": {
+    "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+    "french": "Division Efficacité énergétique et énergies renouvelables",
+    "italian": "Divisione Efficienza energetica e energie rinnovabili",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pulverstrasse 13",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20018213",
+      "name": {
+        "german": "Geschäftsstelle EnergieSchweiz",
+        "french": "Service SuisseEnergie",
+        "italian": "Servizio SvizzeraEnergia",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20046076",
+      "name": {
+        "german": "Mobilität",
+        "french": "Mobilität",
+        "italian": "Mobilität",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034533",
+      "name": {
+        "german": "Geräte und Wettbewerbliche Ausschreibungen",
+        "french": "Appareils et appels d'offres publics",
+        "italian": "Apparecchi e gare pubbliche",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034534",
+      "name": {
+        "german": "Industrie und Dienstleistungen",
+        "french": "Industrie et services",
+        "italian": "Industria e servizi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002569",
+      "name": {
+        "german": "Gebäude",
+        "french": "Bâtiments",
+        "italian": "Edifici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002570",
+      "name": {
+        "german": "Erneuerbare Energien",
+        "french": "Energies renouvelables",
+        "italian": "Energie rinnovabili",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3903148",
+      "surname": "Büchel",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 25602",
+      "function": {
+        "german": "Vizedirektor/in / Leiter/in AEE",
+        "french": "Vizedirektor/in / Leiter/in AEE",
+        "italian": "Vizedirektor/in / Leiter/in AEE",
+        "english": "Vizedirektor/in / Leiter/in AEE"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8252646",
+      "surname": "Bisang",
+      "givenName": "Kurt",
+      "email": null,
+      "phone": "+41 58 46 32241",
+      "function": {
+        "german": "Leiter/in Geräte/Wettbew.Ausschr./Stv.",
+        "french": "Leiter/in Geräte/Wettbew.Ausschr./Stv.",
+        "italian": "Leiter/in Geräte/Wettbew.Ausschr./Stv.",
+        "english": "Leiter/in Geräte/Wettbew.Ausschr./Stv."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002566",
+      "label": {
+        "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+        "french": "Division Efficacité énergétique et énergies renouvelables",
+        "italian": "Divisione Efficienza energetica e energie rinnovabili",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Energieeffizienz und erneuerbare Energien",
+        "french": "Division Efficacité énergétique et énergies renouvelables",
+        "italian": "Divisione Efficienza energetica e energie rinnovabili",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

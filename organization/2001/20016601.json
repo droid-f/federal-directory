@@ -1,1 +1,202 @@
-{"id"=>"20016601", "name"=>{"german"=>"Internationale Sicherheit", "french"=>"Sécurité internationale", "italian"=>"Sicurezza internazionale", "english"=>"International Security"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10000645", "name"=>{"german"=>"Rüstungskontrolle, Abrüstung und Non Proliferation", "french"=>"Maîtrise des armements, désarmement et non-prolifération", "italian"=>"Controllo degli armamenti, disarmo e non proliferazione", "english"=>"Arms control, disarmament and non-proliferation"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10012751", "name"=>{"german"=>"Globale Sicherheit", "french"=>"Sécurité globale", "italian"=>"Sicurezza globale", "english"=>"Global Security"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20036902", "name"=>{"german"=>"Exportkontrollen und private Sicherheitsdienste", "french"=>"Contrôles à l'exportation et services de sécurité privés", "italian"=>"Controlli all'esportazione e servizi di sicurezza privati", "english"=>"Export Controls and Private Security Services"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000580", "name"=>{"german"=>"CHatWorld und Informationsverwaltung", "french"=>"CHatWorld et gestion de l'information", "italian"=>"CHatWorld e gestione delle informazioni", "english"=>"CHatworld and Information Management"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7487720", "surname"=>"Olivieri Lozano", "givenName"=>"Nadine", "email"=>nil, "phone"=>"+41 58 46 46923", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8398179", "surname"=>"Plattner", "givenName"=>"Nicolas", "email"=>nil, "phone"=>"+41 58 48 00642", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"20003168", "label"=>{"german"=>"STS-EDA", "french"=>"SEE-DFAE", "italian"=>"SES-DFAE", "english"=>"FDFA-STS"}, "name"=>{"german"=>"Staatssekretariat EDA", "french"=>"Secrétariat d'Etat DFAE", "italian"=>"Segreteria di Stato DFAE", "english"=>"FDFA State Secretariat"}}, {"id"=>"20016601", "label"=>{"german"=>"Internationale Sicherheit", "french"=>"Sécurité internationale", "italian"=>"Sicurezza internazionale", "english"=>"International Security"}, "name"=>{"german"=>"Internationale Sicherheit", "french"=>"Sécurité internationale", "italian"=>"Sicurezza internazionale", "english"=>"International Security"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20016601",
+  "name": {
+    "german": "Internationale Sicherheit",
+    "french": "Sécurité internationale",
+    "italian": "Sicurezza internazionale",
+    "english": "International Security"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10000645",
+      "name": {
+        "german": "Rüstungskontrolle, Abrüstung und Non Proliferation",
+        "french": "Maîtrise des armements, désarmement et non-prolifération",
+        "italian": "Controllo degli armamenti, disarmo e non proliferazione",
+        "english": "Arms control, disarmament and non-proliferation"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10012751",
+      "name": {
+        "german": "Globale Sicherheit",
+        "french": "Sécurité globale",
+        "italian": "Sicurezza globale",
+        "english": "Global Security"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20036902",
+      "name": {
+        "german": "Exportkontrollen und private Sicherheitsdienste",
+        "french": "Contrôles à l'exportation et services de sécurité privés",
+        "italian": "Controlli all'esportazione e servizi di sicurezza privati",
+        "english": "Export Controls and Private Security Services"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000580",
+      "name": {
+        "german": "CHatWorld und Informationsverwaltung",
+        "french": "CHatWorld et gestion de l'information",
+        "italian": "CHatWorld e gestione delle informazioni",
+        "english": "CHatworld and Information Management"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7487720",
+      "surname": "Olivieri Lozano",
+      "givenName": "Nadine",
+      "email": null,
+      "phone": "+41 58 46 46923",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8398179",
+      "surname": "Plattner",
+      "givenName": "Nicolas",
+      "email": null,
+      "phone": "+41 58 48 00642",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "20003168",
+      "label": {
+        "german": "STS-EDA",
+        "french": "SEE-DFAE",
+        "italian": "SES-DFAE",
+        "english": "FDFA-STS"
+      },
+      "name": {
+        "german": "Staatssekretariat EDA",
+        "french": "Secrétariat d'Etat DFAE",
+        "italian": "Segreteria di Stato DFAE",
+        "english": "FDFA State Secretariat"
+      }
+    },
+    {
+      "id": "20016601",
+      "label": {
+        "german": "Internationale Sicherheit",
+        "french": "Sécurité internationale",
+        "italian": "Sicurezza internazionale",
+        "english": "International Security"
+      },
+      "name": {
+        "german": "Internationale Sicherheit",
+        "french": "Sécurité internationale",
+        "italian": "Sicurezza internazionale",
+        "english": "International Security"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

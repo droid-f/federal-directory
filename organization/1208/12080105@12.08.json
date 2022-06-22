@@ -1,1 +1,80 @@
-{"id"=>"12080105@12.08", "name"=>{"german"=>"Kanzlei", "french"=>"Chancellerie", "italian"=>"Cancelleria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Maulbeerstrasse 9", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"12080100@12.08", "label"=>{"german"=>"MKG", "french"=>"TMC", "italian"=>"TMC", "english"=>""}, "name"=>{"german"=>"Militärkassationsgericht", "french"=>"Tribunal militaire de cassation", "italian"=>"Tribunale militare di cassazione", "english"=>""}}, {"id"=>"12080105@12.08", "label"=>{"german"=>"Kanzlei", "french"=>"Chancellerie", "italian"=>"Cancelleria", "english"=>""}, "name"=>{"german"=>"Kanzlei", "french"=>"Chancellerie", "italian"=>"Cancelleria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12080105@12.08",
+  "name": {
+    "german": "Kanzlei",
+    "french": "Chancellerie",
+    "italian": "Cancelleria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Maulbeerstrasse 9",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "12080100@12.08",
+      "label": {
+        "german": "MKG",
+        "french": "TMC",
+        "italian": "TMC",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärkassationsgericht",
+        "french": "Tribunal militaire de cassation",
+        "italian": "Tribunale militare di cassazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "12080105@12.08",
+      "label": {
+        "german": "Kanzlei",
+        "french": "Chancellerie",
+        "italian": "Cancelleria",
+        "english": ""
+      },
+      "name": {
+        "german": "Kanzlei",
+        "french": "Chancellerie",
+        "italian": "Cancelleria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

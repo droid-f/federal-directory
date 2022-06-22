@@ -1,1 +1,184 @@
-{"id"=>"20020626", "name"=>{"german"=>"Personal- und Organisationsentwicklung WBF", "french"=>"Développement du personel et de l'organisation DFE", "italian"=>"Sviluppo del personale e organizzazione DFE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Theaterplatz 8", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2622820", "surname"=>"Burgener", "givenName"=>"Waldemir", "email"=>nil, "phone"=>"+41 58 46 22035", "function"=>{"german"=>"Stv. / Ausbildungsverantwortliche/r", "french"=>"Suppl. / responsable de la formation", "italian"=>"Responsabile supplente della formazione", "english"=>"Stv. / Ausbildungsverantwortliche/r"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-10003411", "surname"=>"Schöb", "givenName"=>"Dania", "email"=>nil, "phone"=>"+41 58 46 57523", "function"=>{"german"=>"Praktikant/in", "french"=>"Stagiaire", "italian"=>"Stagista", "english"=>"Praktikant/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10002651", "label"=>{"german"=>"GS-WBF", "french"=>"GS-WBF", "italian"=>"GS-WBF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général du DEFR", "italian"=>"Segreteria generale DEFR", "english"=>""}}, {"id"=>"10008655", "label"=>{"german"=>"GS-WBF", "french"=>"SG-DEFR", "italian"=>"SG-DEFR", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général SG-DEFR", "italian"=>"Segreteria generale SG-DEFR", "english"=>""}}, {"id"=>"10002661", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Risorse", "english"=>""}}, {"id"=>"10002664", "label"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}, "name"=>{"german"=>"Human Resources", "french"=>"Ressources humaines", "italian"=>"Risorse umane", "english"=>""}}, {"id"=>"20020626", "label"=>{"german"=>"Personal- und Organisationsentwicklung WBF", "french"=>"Développement du personel et de l'organisation DFE", "italian"=>"Sviluppo del personale e organizzazione DFE", "english"=>""}, "name"=>{"german"=>"Personal- und Organisationsentwicklung WBF", "french"=>"Développement du personel et de l'organisation DFE", "italian"=>"Sviluppo del personale e organizzazione DFE", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20020626",
+  "name": {
+    "german": "Personal- und Organisationsentwicklung WBF",
+    "french": "Développement du personel et de l'organisation DFE",
+    "italian": "Sviluppo del personale e organizzazione DFE",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Theaterplatz 8",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2622820",
+      "surname": "Burgener",
+      "givenName": "Waldemir",
+      "email": null,
+      "phone": "+41 58 46 22035",
+      "function": {
+        "german": "Stv. / Ausbildungsverantwortliche/r",
+        "french": "Suppl. / responsable de la formation",
+        "italian": "Responsabile supplente della formazione",
+        "english": "Stv. / Ausbildungsverantwortliche/r"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-10003411",
+      "surname": "Schöb",
+      "givenName": "Dania",
+      "email": null,
+      "phone": "+41 58 46 57523",
+      "function": {
+        "german": "Praktikant/in",
+        "french": "Stagiaire",
+        "italian": "Stagista",
+        "english": "Praktikant/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002651",
+      "label": {
+        "german": "GS-WBF",
+        "french": "GS-WBF",
+        "italian": "GS-WBF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général du DEFR",
+        "italian": "Segreteria generale DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008655",
+      "label": {
+        "german": "GS-WBF",
+        "french": "SG-DEFR",
+        "italian": "SG-DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général SG-DEFR",
+        "italian": "Segreteria generale SG-DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002661",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002664",
+      "label": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources",
+        "french": "Ressources humaines",
+        "italian": "Risorse umane",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020626",
+      "label": {
+        "german": "Personal- und Organisationsentwicklung WBF",
+        "french": "Développement du personel et de l'organisation DFE",
+        "italian": "Sviluppo del personale e organizzazione DFE",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal- und Organisationsentwicklung WBF",
+        "french": "Développement du personel et de l'organisation DFE",
+        "italian": "Sviluppo del personale e organizzazione DFE",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,186 @@
-{"id"=>"20026988", "name"=>{"german"=>"Sensorik", "french"=>"Analyse sensorielle", "italian"=>"Analisi sensoriale", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstrasse 161", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3633728", "surname"=>"Guggenbühl Gasser", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 46 38301", "function"=>{"german"=>"Teamleiter/in, Wissenschaftliche/r Mitarbeiter/in", "french"=>"Responsable de team, collaborateur/trice scientifique", "italian"=>"Teamleiter/in/Wissensch. Mitarbeiter/in", "english"=>"Teamleiter/in/Wissensch. Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008654", "label"=>{"german"=>"BLW", "french"=>"OFAG", "italian"=>"UFAG", "english"=>"FOAG"}, "name"=>{"german"=>"Bundesamt für Landwirtschaft", "french"=>"Office fédéral de l'agriculture", "italian"=>"Ufficio federale dell'agricoltura", "english"=>"Bundesamt für Landwirtschaft"}}, {"id"=>"10003634", "label"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}, "name"=>{"german"=>"Agroscope", "french"=>"Agroscope", "italian"=>"Agroscope", "english"=>""}}, {"id"=>"10004120", "label"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}, "name"=>{"german"=>"Direktion Agroscope", "french"=>"Direction Agroscope", "italian"=>"Direzione Agroscope", "english"=>""}}, {"id"=>"20041477", "label"=>{"german"=>"Mikrobielle Systeme von Lebensmitteln", "french"=>"Systèmes microbiens des denrées alimentaires", "italian"=>"Sistemi microbici delle derrate alimentari", "english"=>""}, "name"=>{"german"=>"Mikrobielle Systeme von Lebensmitteln", "french"=>"Systèmes microbiens des denrées alimentaires", "italian"=>"Sistemi microbici delle derrate alimentari", "english"=>""}}, {"id"=>"20026986", "label"=>{"german"=>"Humanernährung, Sensorik und Aroma", "french"=>"Alimentation humaine, analyse sensorielle et arômes", "italian"=>"Alimentazione umana, analisi organolettica e aromi", "english"=>""}, "name"=>{"german"=>"Humanernährung, Sensorik und Aroma", "french"=>"Alimentation humaine, analyse sensorielle et arômes", "italian"=>"Alimentazione umana, analisi organolettica e aromi", "english"=>""}}, {"id"=>"20026988", "label"=>{"german"=>"Sensorik", "french"=>"Analyse sensorielle", "italian"=>"Analisi sensoriale", "english"=>""}, "name"=>{"german"=>"Sensorik", "french"=>"Analyse sensorielle", "italian"=>"Analisi sensoriale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026988",
+  "name": {
+    "german": "Sensorik",
+    "french": "Analyse sensorielle",
+    "italian": "Analisi sensoriale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstrasse 161",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3633728",
+      "surname": "Guggenbühl Gasser",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 46 38301",
+      "function": {
+        "german": "Teamleiter/in, Wissenschaftliche/r Mitarbeiter/in",
+        "french": "Responsable de team, collaborateur/trice scientifique",
+        "italian": "Teamleiter/in/Wissensch. Mitarbeiter/in",
+        "english": "Teamleiter/in/Wissensch. Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008654",
+      "label": {
+        "german": "BLW",
+        "french": "OFAG",
+        "italian": "UFAG",
+        "english": "FOAG"
+      },
+      "name": {
+        "german": "Bundesamt für Landwirtschaft",
+        "french": "Office fédéral de l'agriculture",
+        "italian": "Ufficio federale dell'agricoltura",
+        "english": "Bundesamt für Landwirtschaft"
+      }
+    },
+    {
+      "id": "10003634",
+      "label": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Agroscope",
+        "french": "Agroscope",
+        "italian": "Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004120",
+      "label": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion Agroscope",
+        "french": "Direction Agroscope",
+        "italian": "Direzione Agroscope",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041477",
+      "label": {
+        "german": "Mikrobielle Systeme von Lebensmitteln",
+        "french": "Systèmes microbiens des denrées alimentaires",
+        "italian": "Sistemi microbici delle derrate alimentari",
+        "english": ""
+      },
+      "name": {
+        "german": "Mikrobielle Systeme von Lebensmitteln",
+        "french": "Systèmes microbiens des denrées alimentaires",
+        "italian": "Sistemi microbici delle derrate alimentari",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026986",
+      "label": {
+        "german": "Humanernährung, Sensorik und Aroma",
+        "french": "Alimentation humaine, analyse sensorielle et arômes",
+        "italian": "Alimentazione umana, analisi organolettica e aromi",
+        "english": ""
+      },
+      "name": {
+        "german": "Humanernährung, Sensorik und Aroma",
+        "french": "Alimentation humaine, analyse sensorielle et arômes",
+        "italian": "Alimentazione umana, analisi organolettica e aromi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026988",
+      "label": {
+        "german": "Sensorik",
+        "french": "Analyse sensorielle",
+        "italian": "Analisi sensoriale",
+        "english": ""
+      },
+      "name": {
+        "german": "Sensorik",
+        "french": "Analyse sensorielle",
+        "italian": "Analisi sensoriale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

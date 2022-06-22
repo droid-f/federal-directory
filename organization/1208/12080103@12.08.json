@@ -1,1 +1,149 @@
-{"id"=>"12080103@12.08", "name"=>{"german"=>"Gerichtsschreiber", "french"=>"Greffiers", "italian"=>"Cancellieri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-9639069", "surname"=>"Dyens", "givenName"=>"Alexandre", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Gerichtsschreiber", "french"=>"Gerichtsschreiber", "italian"=>"Gerichtsschreiber", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-2948719", "surname"=>"Graa", "givenName"=>"Numa", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Gerichtsschreiber", "french"=>"Gerichtsschreiber", "italian"=>"Gerichtsschreiber", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-4403555", "surname"=>"Keller", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 41 66 66238", "function"=>{"german"=>"Gerichtsschreiber", "french"=>"Gerichtsschreiber", "italian"=>"Gerichtsschreiber", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-4329391", "surname"=>"Koelz", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 21 31 89363", "function"=>{"german"=>"Gerichtsschreiber", "french"=>"Gerichtsschreiber", "italian"=>"Gerichtsschreiber", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-3312863", "surname"=>"Weyeneth", "givenName"=>"Robert", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Gerichtsschreiber", "french"=>"Gerichtsschreiber", "italian"=>"Gerichtsschreiber", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"12080100@12.08", "label"=>{"german"=>"MKG", "french"=>"TMC", "italian"=>"TMC", "english"=>""}, "name"=>{"german"=>"Militärkassationsgericht", "french"=>"Tribunal militaire de cassation", "italian"=>"Tribunale militare di cassazione", "english"=>""}}, {"id"=>"12080103@12.08", "label"=>{"german"=>"Gerichtsschreiber", "french"=>"Greffiers", "italian"=>"Cancellieri", "english"=>""}, "name"=>{"german"=>"Gerichtsschreiber", "french"=>"Greffiers", "italian"=>"Cancellieri", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12080103@12.08",
+  "name": {
+    "german": "Gerichtsschreiber",
+    "french": "Greffiers",
+    "italian": "Cancellieri",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-9639069",
+      "surname": "Dyens",
+      "givenName": "Alexandre",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Gerichtsschreiber",
+        "french": "Gerichtsschreiber",
+        "italian": "Gerichtsschreiber",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2948719",
+      "surname": "Graa",
+      "givenName": "Numa",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Gerichtsschreiber",
+        "french": "Gerichtsschreiber",
+        "italian": "Gerichtsschreiber",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4403555",
+      "surname": "Keller",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 41 66 66238",
+      "function": {
+        "german": "Gerichtsschreiber",
+        "french": "Gerichtsschreiber",
+        "italian": "Gerichtsschreiber",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4329391",
+      "surname": "Koelz",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 21 31 89363",
+      "function": {
+        "german": "Gerichtsschreiber",
+        "french": "Gerichtsschreiber",
+        "italian": "Gerichtsschreiber",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3312863",
+      "surname": "Weyeneth",
+      "givenName": "Robert",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Gerichtsschreiber",
+        "french": "Gerichtsschreiber",
+        "italian": "Gerichtsschreiber",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "12080100@12.08",
+      "label": {
+        "german": "MKG",
+        "french": "TMC",
+        "italian": "TMC",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärkassationsgericht",
+        "french": "Tribunal militaire de cassation",
+        "italian": "Tribunale militare di cassazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "12080103@12.08",
+      "label": {
+        "german": "Gerichtsschreiber",
+        "french": "Greffiers",
+        "italian": "Cancellieri",
+        "english": ""
+      },
+      "name": {
+        "german": "Gerichtsschreiber",
+        "french": "Greffiers",
+        "italian": "Cancellieri",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,170 @@
-{"id"=>"20027855", "name"=>{"german"=>"PSP Rekrutierungszentrum Aarau", "french"=>"CSP Centre de recrutement Aarau", "italian"=>"CSP Centro di reclutamento Aarau", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10008884", "label"=>{"german"=>"GS-VBS", "french"=>"SG-DDPS", "italian"=>"SG-DDPS", "english"=>""}, "name"=>{"german"=>"Generalsekretariat VBS", "french"=>"Secrétariat général DDPS", "italian"=>"Segreteria generale DDPS", "english"=>""}}, {"id"=>"10003732", "label"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}, "name"=>{"german"=>"Leitung Generalsekretariat VBS", "french"=>"Direction du Secrétariat général DDPS", "italian"=>"Direzione della Segreteria generale DDPS", "english"=>""}}, {"id"=>"20041153", "label"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}, "name"=>{"german"=>"Ressourcen VBS", "french"=>"Ressources DDPS", "italian"=>"Risorse DDPS", "english"=>""}}, {"id"=>"20024707", "label"=>{"german"=>"Fachstelle für Personensicherheitsprüfungen", "french"=>"Service spécialisé chargé des contrôles de sécurité relatifs aux personnes", "italian"=>"Servizio specializzato controlli di sicurezza relativi alle persone", "english"=>""}, "name"=>{"german"=>"Fachstelle für Personensicherheitsprüfungen", "french"=>"Service spécialisé chargé des contrôles de sécurité relatifs aux personnes", "italian"=>"Servizio specializzato controlli di sicurezza relativi alle persone", "english"=>""}}, {"id"=>"20027853", "label"=>{"german"=>"Personensicherheitsprüfung Rekrutierung", "french"=>"Contrôles de sécurité relatifs aux personnes, recrutement", "italian"=>"Controlli di sicurezza relativi alle persone nell'ambito del reclutamento", "english"=>""}, "name"=>{"german"=>"Personensicherheitsprüfung Rekrutierung", "french"=>"Contrôles de sécurité relatifs aux personnes, recrutement", "italian"=>"Controlli di sicurezza relativi alle persone nell'ambito del reclutamento", "english"=>""}}, {"id"=>"20027855", "label"=>{"german"=>"PSP Rekrutierungszentrum Aarau", "french"=>"CSP Centre de recrutement Aarau", "italian"=>"CSP Centro di reclutamento Aarau", "english"=>""}, "name"=>{"german"=>"PSP Rekrutierungszentrum Aarau", "french"=>"CSP Centre de recrutement Aarau", "italian"=>"CSP Centro di reclutamento Aarau", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20027855",
+  "name": {
+    "german": "PSP Rekrutierungszentrum Aarau",
+    "french": "CSP Centre de recrutement Aarau",
+    "italian": "CSP Centro di reclutamento Aarau",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008884",
+      "label": {
+        "german": "GS-VBS",
+        "french": "SG-DDPS",
+        "italian": "SG-DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat VBS",
+        "french": "Secrétariat général DDPS",
+        "italian": "Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003732",
+      "label": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung Generalsekretariat VBS",
+        "french": "Direction du Secrétariat général DDPS",
+        "italian": "Direzione della Segreteria generale DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041153",
+      "label": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen VBS",
+        "french": "Ressources DDPS",
+        "italian": "Risorse DDPS",
+        "english": ""
+      }
+    },
+    {
+      "id": "20024707",
+      "label": {
+        "german": "Fachstelle für Personensicherheitsprüfungen",
+        "french": "Service spécialisé chargé des contrôles de sécurité relatifs aux personnes",
+        "italian": "Servizio specializzato controlli di sicurezza relativi alle persone",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachstelle für Personensicherheitsprüfungen",
+        "french": "Service spécialisé chargé des contrôles de sécurité relatifs aux personnes",
+        "italian": "Servizio specializzato controlli di sicurezza relativi alle persone",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027853",
+      "label": {
+        "german": "Personensicherheitsprüfung Rekrutierung",
+        "french": "Contrôles de sécurité relatifs aux personnes, recrutement",
+        "italian": "Controlli di sicurezza relativi alle persone nell'ambito del reclutamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Personensicherheitsprüfung Rekrutierung",
+        "french": "Contrôles de sécurité relatifs aux personnes, recrutement",
+        "italian": "Controlli di sicurezza relativi alle persone nell'ambito del reclutamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027855",
+      "label": {
+        "german": "PSP Rekrutierungszentrum Aarau",
+        "french": "CSP Centre de recrutement Aarau",
+        "italian": "CSP Centro di reclutamento Aarau",
+        "english": ""
+      },
+      "name": {
+        "german": "PSP Rekrutierungszentrum Aarau",
+        "french": "CSP Centre de recrutement Aarau",
+        "italian": "CSP Centro di reclutamento Aarau",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,141 @@
-{"id"=>"20000862", "name"=>{"german"=>"Englischer Sprachdienst", "french"=>"Service linguistique anglais", "italian"=>"Servizio linguistico inglese", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Gurtengasse 3", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3742271", "surname"=>"Frost", "givenName"=>"Stephen", "email"=>nil, "phone"=>"+41 58 46 38778", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002674", "label"=>{"german"=>"BR", "french"=>"BR", "italian"=>"BR", "english"=>""}, "name"=>{"german"=>"Bereich Bundesrat", "french"=>"Secteur Conseil fédéral", "italian"=>"Settore Consiglio federale", "english"=>""}}, {"id"=>"10010843", "label"=>{"german"=>"ZSD-T", "french"=>"ZSD-T", "italian"=>"ZSD-T", "english"=>""}, "name"=>{"german"=>"Zentrale Sprachdienste, Sektion Terminologie", "french"=>"Services linguistiques centraux, section de terminologie", "italian"=>"Servizi linguistici centrali, Sezione di terminologia", "english"=>""}}, {"id"=>"20000862", "label"=>{"german"=>"Englischer Sprachdienst", "french"=>"Service linguistique anglais", "italian"=>"Servizio linguistico inglese", "english"=>""}, "name"=>{"german"=>"Englischer Sprachdienst", "french"=>"Service linguistique anglais", "italian"=>"Servizio linguistico inglese", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20000862",
+  "name": {
+    "german": "Englischer Sprachdienst",
+    "french": "Service linguistique anglais",
+    "italian": "Servizio linguistico inglese",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Gurtengasse 3",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3742271",
+      "surname": "Frost",
+      "givenName": "Stephen",
+      "email": null,
+      "phone": "+41 58 46 38778",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002674",
+      "label": {
+        "german": "BR",
+        "french": "BR",
+        "italian": "BR",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Bundesrat",
+        "french": "Secteur Conseil fédéral",
+        "italian": "Settore Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010843",
+      "label": {
+        "german": "ZSD-T",
+        "french": "ZSD-T",
+        "italian": "ZSD-T",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Sprachdienste, Sektion Terminologie",
+        "french": "Services linguistiques centraux, section de terminologie",
+        "italian": "Servizi linguistici centrali, Sezione di terminologia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000862",
+      "label": {
+        "german": "Englischer Sprachdienst",
+        "french": "Service linguistique anglais",
+        "italian": "Servizio linguistico inglese",
+        "english": ""
+      },
+      "name": {
+        "german": "Englischer Sprachdienst",
+        "french": "Service linguistique anglais",
+        "italian": "Servizio linguistico inglese",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

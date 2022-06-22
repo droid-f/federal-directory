@@ -1,1 +1,158 @@
-{"id"=>"20037359", "name"=>{"german"=>"Kommissionen für Wissenschaft, Bildung und Kultur (WBK)", "french"=>"Commissions de la science, de l'éducation et de la culture (CSEC)", "italian"=>"Commissioni della scienza, dell'educazione e della cultura (CSEC)", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Parlamentsgebäude", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5613357", "surname"=>"Fontana", "givenName"=>"Marcello", "email"=>nil, "phone"=>"+41 58 32 29735", "function"=>{"german"=>"Kommissionssekretär WBK", "french"=>"Kommissionssekretär WBK", "italian"=>"Kommissionssekretär WBK", "english"=>"Kommissionssekretär WBK"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9972306", "surname"=>"Behr", "givenName"=>"Andreas", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Stv. Kommissionssekretär", "french"=>"Stv. Kommissionssekretär", "italian"=>"Stv. Kommissionssekretär", "english"=>"Stv. Kommissionssekretär"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008781", "label"=>{"german"=>"PD", "french"=>"SP", "italian"=>"SP", "english"=>""}, "name"=>{"german"=>"Parlamentsdienste", "french"=>"Services du Parlement", "italian"=>"Servizi del Parlamento", "english"=>""}}, {"id"=>"20037301", "label"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}, "name"=>{"german"=>"Hauptbereich I", "french"=>"Secteur principal I", "italian"=>"Settore principale I", "english"=>""}}, {"id"=>"20037307", "label"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}, "name"=>{"german"=>"Kommissionen und Recherche", "french"=>"Commissions et recherches", "italian"=>"Commissioni e ricerche", "english"=>""}}, {"id"=>"20037323", "label"=>{"german"=>"Kommissionen Gruppe II", "french"=>"Commissions groupe II", "italian"=>"Commissioni gruppo II", "english"=>""}, "name"=>{"german"=>"Kommissionen Gruppe II", "french"=>"Commissions groupe II", "italian"=>"Commissioni gruppo II", "english"=>""}}, {"id"=>"20037359", "label"=>{"german"=>"Kommissionen für Wissenschaft, Bildung und Kultur (WBK)", "french"=>"Commissions de la science, de l'éducation et de la culture (CSEC)", "italian"=>"Commissioni della scienza, dell'educazione e della cultura (CSEC)", "english"=>""}, "name"=>{"german"=>"Kommissionen für Wissenschaft, Bildung und Kultur (WBK)", "french"=>"Commissions de la science, de l'éducation et de la culture (CSEC)", "italian"=>"Commissioni della scienza, dell'educazione e della cultura (CSEC)", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20037359",
+  "name": {
+    "german": "Kommissionen für Wissenschaft, Bildung und Kultur (WBK)",
+    "french": "Commissions de la science, de l'éducation et de la culture (CSEC)",
+    "italian": "Commissioni della scienza, dell'educazione e della cultura (CSEC)",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Parlamentsgebäude",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5613357",
+      "surname": "Fontana",
+      "givenName": "Marcello",
+      "email": null,
+      "phone": "+41 58 32 29735",
+      "function": {
+        "german": "Kommissionssekretär WBK",
+        "french": "Kommissionssekretär WBK",
+        "italian": "Kommissionssekretär WBK",
+        "english": "Kommissionssekretär WBK"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9972306",
+      "surname": "Behr",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Stv. Kommissionssekretär",
+        "french": "Stv. Kommissionssekretär",
+        "italian": "Stv. Kommissionssekretär",
+        "english": "Stv. Kommissionssekretär"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008781",
+      "label": {
+        "german": "PD",
+        "french": "SP",
+        "italian": "SP",
+        "english": ""
+      },
+      "name": {
+        "german": "Parlamentsdienste",
+        "french": "Services du Parlement",
+        "italian": "Servizi del Parlamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037301",
+      "label": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      },
+      "name": {
+        "german": "Hauptbereich I",
+        "french": "Secteur principal I",
+        "italian": "Settore principale I",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037307",
+      "label": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen und Recherche",
+        "french": "Commissions et recherches",
+        "italian": "Commissioni e ricerche",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037323",
+      "label": {
+        "german": "Kommissionen Gruppe II",
+        "french": "Commissions groupe II",
+        "italian": "Commissioni gruppo II",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen Gruppe II",
+        "french": "Commissions groupe II",
+        "italian": "Commissioni gruppo II",
+        "english": ""
+      }
+    },
+    {
+      "id": "20037359",
+      "label": {
+        "german": "Kommissionen für Wissenschaft, Bildung und Kultur (WBK)",
+        "french": "Commissions de la science, de l'éducation et de la culture (CSEC)",
+        "italian": "Commissioni della scienza, dell'educazione e della cultura (CSEC)",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissionen für Wissenschaft, Bildung und Kultur (WBK)",
+        "french": "Commissions de la science, de l'éducation et de la culture (CSEC)",
+        "italian": "Commissioni della scienza, dell'educazione e della cultura (CSEC)",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

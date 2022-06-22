@@ -1,1 +1,156 @@
-{"id"=>"20009155", "name"=>{"german"=>"Logistik", "french"=>"Logistique", "italian"=>"Logistica", "english"=>"Logistik"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestr. 2", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5618568", "surname"=>"Grimm", "givenName"=>"Andreas", "email"=>nil, "phone"=>"+41 58 46 59061", "function"=>{"german"=>"Stellvertreter Logistik", "french"=>"Stellvertreter Logistik", "italian"=>"Stellvertreter Logistik", "english"=>"Stellvertreter Logistik"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008754", "label"=>{"german"=>"BAZL", "french"=>"OFAC", "italian"=>"UFAC", "english"=>"FOCA"}, "name"=>{"german"=>"Bundesamt für Zivilluftfahrt", "french"=>"Office fédéral de l'aviation civile", "italian"=>"Ufficio federale dell'aviazione civile", "english"=>"Bundesamt für Zivilluftfahrt"}}, {"id"=>"10002603", "label"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}, "name"=>{"german"=>"Amtsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>"Amtsleitung"}}, {"id"=>"20009151", "label"=>{"german"=>"Direktionsgeschäfte und Dienstleistungen", "french"=>"Affaires de la direction et services", "italian"=>"Affari della direzione e servizi", "english"=>"Direktionsgeschäfte und Dienstleistungen"}, "name"=>{"german"=>"Direktionsgeschäfte und Dienstleistungen", "french"=>"Affaires de la direction et services", "italian"=>"Affari della direzione e servizi", "english"=>"Direktionsgeschäfte und Dienstleistungen"}}, {"id"=>"20009155", "label"=>{"german"=>"Logistik", "french"=>"Logistique", "italian"=>"Logistica", "english"=>"Logistik"}, "name"=>{"german"=>"Logistik", "french"=>"Logistique", "italian"=>"Logistica", "english"=>"Logistik"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20009155",
+  "name": {
+    "german": "Logistik",
+    "french": "Logistique",
+    "italian": "Logistica",
+    "english": "Logistik"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestr. 2",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5618568",
+      "surname": "Grimm",
+      "givenName": "Andreas",
+      "email": null,
+      "phone": "+41 58 46 59061",
+      "function": {
+        "german": "Stellvertreter Logistik",
+        "french": "Stellvertreter Logistik",
+        "italian": "Stellvertreter Logistik",
+        "english": "Stellvertreter Logistik"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008754",
+      "label": {
+        "german": "BAZL",
+        "french": "OFAC",
+        "italian": "UFAC",
+        "english": "FOCA"
+      },
+      "name": {
+        "german": "Bundesamt für Zivilluftfahrt",
+        "french": "Office fédéral de l'aviation civile",
+        "italian": "Ufficio federale dell'aviazione civile",
+        "english": "Bundesamt für Zivilluftfahrt"
+      }
+    },
+    {
+      "id": "10002603",
+      "label": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      },
+      "name": {
+        "german": "Amtsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": "Amtsleitung"
+      }
+    },
+    {
+      "id": "20009151",
+      "label": {
+        "german": "Direktionsgeschäfte und Dienstleistungen",
+        "french": "Affaires de la direction et services",
+        "italian": "Affari della direzione e servizi",
+        "english": "Direktionsgeschäfte und Dienstleistungen"
+      },
+      "name": {
+        "german": "Direktionsgeschäfte und Dienstleistungen",
+        "french": "Affaires de la direction et services",
+        "italian": "Affari della direzione e servizi",
+        "english": "Direktionsgeschäfte und Dienstleistungen"
+      }
+    },
+    {
+      "id": "20009155",
+      "label": {
+        "german": "Logistik",
+        "french": "Logistique",
+        "italian": "Logistica",
+        "english": "Logistik"
+      },
+      "name": {
+        "german": "Logistik",
+        "french": "Logistique",
+        "italian": "Logistica",
+        "english": "Logistik"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

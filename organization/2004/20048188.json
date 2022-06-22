@@ -1,1 +1,126 @@
-{"id"=>"20048188", "name"=>{"german"=>"Digitale Schweiz", "french"=>"Suisse numérique", "italian"=>"Svizzera digitale", "english"=>""}, "nameAbbr"=>{"german"=>"DCH", "french"=>"CHN", "italian"=>"CHD", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 91", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-8372681", "surname"=>"Tschan", "givenName"=>"Dieter", "email"=>nil, "phone"=>"+41 58 46 05064", "function"=>{"german"=>"Koordinator/in DCH II, Stv. Leiter/in", "french"=>"Koordinator/in DCH II, Stv. Leiter/in", "italian"=>"Koordinator/in DCH II, Stv. Leiter/in", "english"=>"Koordinator/in DCH II, Stv. Leiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"20048177", "label"=>{"german"=>"DTI", "french"=>"TNI", "italian"=>"TDT", "english"=>""}, "name"=>{"german"=>"Bereich Digitale Transformation und IKT-Lenkung", "french"=>"Secteur Transformation numérique et gouvernance de l’informatique", "italian"=>"Settore Trasformazione digitale e governance delle TIC", "english"=>""}}, {"id"=>"20048188", "label"=>{"german"=>"DCH", "french"=>"CHN", "italian"=>"CHD", "english"=>""}, "name"=>{"german"=>"Digitale Schweiz", "french"=>"Suisse numérique", "italian"=>"Svizzera digitale", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048188",
+  "name": {
+    "german": "Digitale Schweiz",
+    "french": "Suisse numérique",
+    "italian": "Svizzera digitale",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "DCH",
+    "french": "CHN",
+    "italian": "CHD",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 91",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-8372681",
+      "surname": "Tschan",
+      "givenName": "Dieter",
+      "email": null,
+      "phone": "+41 58 46 05064",
+      "function": {
+        "german": "Koordinator/in DCH II, Stv. Leiter/in",
+        "french": "Koordinator/in DCH II, Stv. Leiter/in",
+        "italian": "Koordinator/in DCH II, Stv. Leiter/in",
+        "english": "Koordinator/in DCH II, Stv. Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048177",
+      "label": {
+        "german": "DTI",
+        "french": "TNI",
+        "italian": "TDT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Digitale Transformation und IKT-Lenkung",
+        "french": "Secteur Transformation numérique et gouvernance de l’informatique",
+        "italian": "Settore Trasformazione digitale e governance delle TIC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048188",
+      "label": {
+        "german": "DCH",
+        "french": "CHN",
+        "italian": "CHD",
+        "english": ""
+      },
+      "name": {
+        "german": "Digitale Schweiz",
+        "french": "Suisse numérique",
+        "italian": "Svizzera digitale",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

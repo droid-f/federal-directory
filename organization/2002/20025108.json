@@ -1,1 +1,141 @@
-{"id"=>"20025108", "name"=>{"german"=>"Revisionsgruppe Zentrale", "french"=>"Groupe d'audit en charge de la Centrale", "italian"=>"Gruppo di revisione Centrale", "english"=>"Head Office Audit Team"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 27", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-4717692", "surname"=>"Bernet", "givenName"=>"Beatrice", "email"=>nil, "phone"=>"+41 58 46 33587", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000530", "label"=>{"german"=>"GS-EDA", "french"=>"SG-DFAE", "italian"=>"SG-DFAE", "english"=>"FDFA-GS"}, "name"=>{"german"=>"Generalsekretariat EDA", "french"=>"Secrétariat général DFAE", "italian"=>"Segreteria generale DFAE", "english"=>"FDFA General Secretariat"}}, {"id"=>"20011151", "label"=>{"german"=>"Interne Revision EDA", "french"=>"Audit interne DFAE", "italian"=>"Revisione interna DFAE", "english"=>"FDFA Internal Audit"}, "name"=>{"german"=>"Interne Revision EDA", "french"=>"Audit interne DFAE", "italian"=>"Revisione interna DFAE", "english"=>"FDFA Internal Audit"}}, {"id"=>"20025108", "label"=>{"german"=>"Revisionsgruppe Zentrale", "french"=>"Groupe d'audit en charge de la Centrale", "italian"=>"Gruppo di revisione Centrale", "english"=>"Head Office Audit Team"}, "name"=>{"german"=>"Revisionsgruppe Zentrale", "french"=>"Groupe d'audit en charge de la Centrale", "italian"=>"Gruppo di revisione Centrale", "english"=>"Head Office Audit Team"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025108",
+  "name": {
+    "german": "Revisionsgruppe Zentrale",
+    "french": "Groupe d'audit en charge de la Centrale",
+    "italian": "Gruppo di revisione Centrale",
+    "english": "Head Office Audit Team"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 27",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-4717692",
+      "surname": "Bernet",
+      "givenName": "Beatrice",
+      "email": null,
+      "phone": "+41 58 46 33587",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000530",
+      "label": {
+        "german": "GS-EDA",
+        "french": "SG-DFAE",
+        "italian": "SG-DFAE",
+        "english": "FDFA-GS"
+      },
+      "name": {
+        "german": "Generalsekretariat EDA",
+        "french": "Secrétariat général DFAE",
+        "italian": "Segreteria generale DFAE",
+        "english": "FDFA General Secretariat"
+      }
+    },
+    {
+      "id": "20011151",
+      "label": {
+        "german": "Interne Revision EDA",
+        "french": "Audit interne DFAE",
+        "italian": "Revisione interna DFAE",
+        "english": "FDFA Internal Audit"
+      },
+      "name": {
+        "german": "Interne Revision EDA",
+        "french": "Audit interne DFAE",
+        "italian": "Revisione interna DFAE",
+        "english": "FDFA Internal Audit"
+      }
+    },
+    {
+      "id": "20025108",
+      "label": {
+        "german": "Revisionsgruppe Zentrale",
+        "french": "Groupe d'audit en charge de la Centrale",
+        "italian": "Gruppo di revisione Centrale",
+        "english": "Head Office Audit Team"
+      },
+      "name": {
+        "german": "Revisionsgruppe Zentrale",
+        "french": "Groupe d'audit en charge de la Centrale",
+        "italian": "Gruppo di revisione Centrale",
+        "english": "Head Office Audit Team"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

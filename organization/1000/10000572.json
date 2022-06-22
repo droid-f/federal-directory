@@ -1,1 +1,260 @@
-{"id"=>"10000572", "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}, "nameAbbr"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"info.deza@eda.admin.ch", "homepage"=>{"german"=>"www.eda.admin.ch/deza", "french"=>"www.eda.admin.ch/deza", "italian"=>"www.eda.admin.ch/deza", "english"=>""}}, "children"=>[{"id"=>"20040101", "name"=>{"german"=>"Geschäftsstelle Beratende Kommission für Internationale Zusammenarbeit", "french"=>"Bureau de la Commission consultative de la coopération internationale", "italian"=>"Cancelleria della Commissione consultiva per la cooperazione internazionale", "english"=>"Office of the Advisory Committee on International Cooperation"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20020426", "name"=>{"german"=>"Direktionsstab", "french"=>"Etat-major de direction", "italian"=>"Stato maggiore di direzione", "english"=>"Directorate Staff Office"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20020427", "name"=>{"german"=>"Abteilung Institutionelle Partnerschaften", "french"=>"Division Partenariats institutionnels", "italian"=>"Divisione Partenariati istituzionali", "english"=>"Institutional Partnerships Division"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20023979", "name"=>{"german"=>"Abteilung Strategische Finanzplanung und Beratung", "french"=>"Division Planification financière stratégique et conseil", "italian"=>"Divisione Pianificazione finanziaria strategica e consulenza", "english"=>"Strategic Financial Planning and Advisory Services Division"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000712", "name"=>{"german"=>"Direktionsbereich Globale Zusammenarbeit", "french"=>"Domaine de direction Coopération globale", "italian"=>"Settore di direzione Cooperazione globale", "english"=>"Corporate Domain Global Cooperation"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000713", "name"=>{"german"=>"Direktionsbereich Südzusammenarbeit", "french"=>"Domaine de dir. Coopération Sud", "italian"=>"Settore di dir. Cooperazione Sud", "english"=>"Corporate Domain Cooperation South"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000715", "name"=>{"german"=>"Direktionsbereich Ostzusammenarbeit", "french"=>"Domaine de direction Coopération avec l'Europe de l'Est", "italian"=>"Settore di direzione Cooperazione con l'Europa dell'Est", "english"=>"Corporate Domain Cooperation with Eastern Europe"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10000714", "name"=>{"german"=>"Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe", "french"=>"Aide humanitaire et Corps suisse d'Aide humanitaire", "italian"=>"Aiuto umanitario e Corpo svizzero di Aiuto umanitario", "english"=>"Humanitarian Aid and Swiss Humanitarian Aid Unit"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6387285", "surname"=>"Danzi", "givenName"=>"Patricia", "email"=>nil, "phone"=>"+41 58 46 23401", "function"=>{"german"=>"Direktor/in", "french"=>"Direktor/in", "italian"=>"Direktor/in", "english"=>"Direktor/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6548099", "surname"=>"Bessler", "givenName"=>"Manuel", "email"=>nil, "phone"=>"+41 58 46 23561", "function"=>{"german"=>"Stv. Direktor/in", "french"=>"Stv. Direktor/in", "italian"=>"Stv. Direktor/in", "english"=>"Stv. Direktor/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-6723827", "surname"=>"Ayoubi", "givenName"=>"Semya", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Berater/in", "french"=>"Berater/in", "italian"=>"Berater/in", "english"=>"Berater/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000572", "label"=>{"german"=>"DEZA", "french"=>"DDC", "italian"=>"DSC", "english"=>"SDC"}, "name"=>{"german"=>"Direktion für Entwicklung und Zusammenarbeit", "french"=>"Direction du développement et de la coopération", "italian"=>"Direzione dello sviluppo e della cooperazione", "english"=>"Swiss Agency for Development and Cooperation"}}], "contactPoints"=>[], "userCertificates"=>[0]}
+{
+  "id": "10000572",
+  "name": {
+    "german": "Direktion für Entwicklung und Zusammenarbeit",
+    "french": "Direction du développement et de la coopération",
+    "italian": "Direzione dello sviluppo e della cooperazione",
+    "english": "Swiss Agency for Development and Cooperation"
+  },
+  "nameAbbr": {
+    "german": "DEZA",
+    "french": "DDC",
+    "italian": "DSC",
+    "english": "SDC"
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "info.deza@eda.admin.ch",
+    "homepage": {
+      "german": "www.eda.admin.ch/deza",
+      "french": "www.eda.admin.ch/deza",
+      "italian": "www.eda.admin.ch/deza",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20040101",
+      "name": {
+        "german": "Geschäftsstelle Beratende Kommission für Internationale Zusammenarbeit",
+        "french": "Bureau de la Commission consultative de la coopération internationale",
+        "italian": "Cancelleria della Commissione consultiva per la cooperazione internazionale",
+        "english": "Office of the Advisory Committee on International Cooperation"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020426",
+      "name": {
+        "german": "Direktionsstab",
+        "french": "Etat-major de direction",
+        "italian": "Stato maggiore di direzione",
+        "english": "Directorate Staff Office"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020427",
+      "name": {
+        "german": "Abteilung Institutionelle Partnerschaften",
+        "french": "Division Partenariats institutionnels",
+        "italian": "Divisione Partenariati istituzionali",
+        "english": "Institutional Partnerships Division"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20023979",
+      "name": {
+        "german": "Abteilung Strategische Finanzplanung und Beratung",
+        "french": "Division Planification financière stratégique et conseil",
+        "italian": "Divisione Pianificazione finanziaria strategica e consulenza",
+        "english": "Strategic Financial Planning and Advisory Services Division"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000712",
+      "name": {
+        "german": "Direktionsbereich Globale Zusammenarbeit",
+        "french": "Domaine de direction Coopération globale",
+        "italian": "Settore di direzione Cooperazione globale",
+        "english": "Corporate Domain Global Cooperation"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000713",
+      "name": {
+        "german": "Direktionsbereich Südzusammenarbeit",
+        "french": "Domaine de dir. Coopération Sud",
+        "italian": "Settore di dir. Cooperazione Sud",
+        "english": "Corporate Domain Cooperation South"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000715",
+      "name": {
+        "german": "Direktionsbereich Ostzusammenarbeit",
+        "french": "Domaine de direction Coopération avec l'Europe de l'Est",
+        "italian": "Settore di direzione Cooperazione con l'Europa dell'Est",
+        "english": "Corporate Domain Cooperation with Eastern Europe"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000714",
+      "name": {
+        "german": "Direktionsbereich Humanitäre Hilfe und Schweizerisches Korps für humanitäre Hilfe",
+        "french": "Aide humanitaire et Corps suisse d'Aide humanitaire",
+        "italian": "Aiuto umanitario e Corpo svizzero di Aiuto umanitario",
+        "english": "Humanitarian Aid and Swiss Humanitarian Aid Unit"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6387285",
+      "surname": "Danzi",
+      "givenName": "Patricia",
+      "email": null,
+      "phone": "+41 58 46 23401",
+      "function": {
+        "german": "Direktor/in",
+        "french": "Direktor/in",
+        "italian": "Direktor/in",
+        "english": "Direktor/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6548099",
+      "surname": "Bessler",
+      "givenName": "Manuel",
+      "email": null,
+      "phone": "+41 58 46 23561",
+      "function": {
+        "german": "Stv. Direktor/in",
+        "french": "Stv. Direktor/in",
+        "italian": "Stv. Direktor/in",
+        "english": "Stv. Direktor/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-6723827",
+      "surname": "Ayoubi",
+      "givenName": "Semya",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Berater/in",
+        "french": "Berater/in",
+        "italian": "Berater/in",
+        "english": "Berater/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000572",
+      "label": {
+        "german": "DEZA",
+        "french": "DDC",
+        "italian": "DSC",
+        "english": "SDC"
+      },
+      "name": {
+        "german": "Direktion für Entwicklung und Zusammenarbeit",
+        "french": "Direction du développement et de la coopération",
+        "italian": "Direzione dello sviluppo e della cooperazione",
+        "english": "Swiss Agency for Development and Cooperation"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+    0
+  ]
+}

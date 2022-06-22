@@ -1,1 +1,158 @@
-{"id"=>"20045552", "name"=>{"german"=>"Marktzugang", "french"=>"Réseau ferroviaire", "italian"=>"Rete ferroviaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestrasse 6", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0968896", "surname"=>"Herrmann", "givenName"=>"Regula", "email"=>nil, "phone"=>"+41 58 46 25793", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0964412", "surname"=>"Wittwer", "givenName"=>"Roland", "email"=>nil, "phone"=>"+41 58 46 25812", "function"=>{"german"=>"Stellvertreter/in Sektionschef/in Marktzugang / Fachverantwortliche/r Marktzugang", "french"=>"Stv. SC Fachverantwortliche/r mz", "italian"=>"Stv. SC Fachverantwortliche/r mz", "english"=>"Stv. SC Fachverantwortliche/r mz"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008753", "label"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}}, {"id"=>"20012765", "label"=>{"german"=>"Finanzierung", "french"=>"Financement", "italian"=>"Finanziamento", "english"=>""}, "name"=>{"german"=>"Finanzierung", "french"=>"Financement", "italian"=>"Finanziamento", "english"=>""}}, {"id"=>"20045552", "label"=>{"german"=>"Marktzugang", "french"=>"Réseau ferroviaire", "italian"=>"Rete ferroviaria", "english"=>""}, "name"=>{"german"=>"Marktzugang", "french"=>"Réseau ferroviaire", "italian"=>"Rete ferroviaria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045552",
+  "name": {
+    "german": "Marktzugang",
+    "french": "Réseau ferroviaire",
+    "italian": "Rete ferroviaria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestrasse 6",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0968896",
+      "surname": "Herrmann",
+      "givenName": "Regula",
+      "email": null,
+      "phone": "+41 58 46 25793",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0964412",
+      "surname": "Wittwer",
+      "givenName": "Roland",
+      "email": null,
+      "phone": "+41 58 46 25812",
+      "function": {
+        "german": "Stellvertreter/in Sektionschef/in Marktzugang / Fachverantwortliche/r Marktzugang",
+        "french": "Stv. SC Fachverantwortliche/r mz",
+        "italian": "Stv. SC Fachverantwortliche/r mz",
+        "english": "Stv. SC Fachverantwortliche/r mz"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "label": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012765",
+      "label": {
+        "german": "Finanzierung",
+        "french": "Financement",
+        "italian": "Finanziamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzierung",
+        "french": "Financement",
+        "italian": "Finanziamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045552",
+      "label": {
+        "german": "Marktzugang",
+        "french": "Réseau ferroviaire",
+        "italian": "Rete ferroviaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Marktzugang",
+        "french": "Réseau ferroviaire",
+        "italian": "Rete ferroviaria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

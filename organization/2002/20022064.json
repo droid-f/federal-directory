@@ -1,1 +1,277 @@
-{"id"=>"20022064", "name"=>{"german"=>"Führungs- und Aufklärungssysteme", "french"=>"Systèmes de conduite et d'exploration", "italian"=>"Sistemi di condotta e di esplorazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20004021", "name"=>{"german"=>"Stab", "french"=>"État-major", "italian"=>"Stato Maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20022066", "name"=>{"german"=>"Ressourcensteuerung", "french"=>"Pilotage des ressources", "italian"=>"Gestione delle risorse", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004023", "name"=>{"german"=>"Führungssysteme", "french"=>"Systèmes de conduite", "italian"=>"Sistemi di condotta", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004027", "name"=>{"german"=>"Kommunikationssysteme", "french"=>"Systèmes de communication", "italian"=>"Sistemi di communicazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004029", "name"=>{"german"=>"Computersysteme", "french"=>"Systèmes d'ordinateurs", "italian"=>"Sistemi di elaborazione elettronica dei dati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004024", "name"=>{"german"=>"Aufklärungs- und Überwachungssysteme", "french"=>"Systèmes d'exploration et de surveillance", "italian"=>"Sistemi di esplorazione e sorveglianza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004030", "name"=>{"german"=>"Kommerz", "french"=>"Services commerciaux", "italian"=>"Servizi commerciali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20022752", "name"=>{"german"=>"Qualitätsmanagement", "french"=>"Gestion de la qualité", "italian"=>"Gestione della qualità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6427691", "surname"=>"Knechtenhofer", "givenName"=>"Bernhard", "email"=>nil, "phone"=>"+41 58 46 50535", "function"=>{"german"=>"Leiter KB Führungs- und Aufklärungssysteme", "french"=>"Chef du domaine de compétences systèmes de conduite et d'exploration", "italian"=>"Capo SC Sistemi di condotta e di esplorazione", "english"=>"Leiter Kompetenzbereich"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1814066", "surname"=>"Scuntaro", "givenName"=>"William", "email"=>nil, "phone"=>"+41 58 46 32025", "function"=>{"german"=>"Projektleiter / Stv Leiter KB F u. A", "french"=>"Chef de projet / Remp du Chef du domaine de compétences systèmes de conduite et d'exploration", "italian"=>"Capoprogetto / vice capo SC F e A", "english"=>"Projektleiter / Stv L KB F u. A"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20022064", "label"=>{"german"=>"Führungs- und Aufklärungssysteme", "french"=>"Systèmes de conduite et d'exploration", "italian"=>"Sistemi di condotta e di esplorazione", "english"=>""}, "name"=>{"german"=>"Führungs- und Aufklärungssysteme", "french"=>"Systèmes de conduite et d'exploration", "italian"=>"Sistemi di condotta e di esplorazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20022064",
+  "name": {
+    "german": "Führungs- und Aufklärungssysteme",
+    "french": "Systèmes de conduite et d'exploration",
+    "italian": "Sistemi di condotta e di esplorazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20004021",
+      "name": {
+        "german": "Stab",
+        "french": "État-major",
+        "italian": "Stato Maggiore",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022066",
+      "name": {
+        "german": "Ressourcensteuerung",
+        "french": "Pilotage des ressources",
+        "italian": "Gestione delle risorse",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004023",
+      "name": {
+        "german": "Führungssysteme",
+        "french": "Systèmes de conduite",
+        "italian": "Sistemi di condotta",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004027",
+      "name": {
+        "german": "Kommunikationssysteme",
+        "french": "Systèmes de communication",
+        "italian": "Sistemi di communicazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004029",
+      "name": {
+        "german": "Computersysteme",
+        "french": "Systèmes d'ordinateurs",
+        "italian": "Sistemi di elaborazione elettronica dei dati",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004024",
+      "name": {
+        "german": "Aufklärungs- und Überwachungssysteme",
+        "french": "Systèmes d'exploration et de surveillance",
+        "italian": "Sistemi di esplorazione e sorveglianza",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004030",
+      "name": {
+        "german": "Kommerz",
+        "french": "Services commerciaux",
+        "italian": "Servizi commerciali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022752",
+      "name": {
+        "german": "Qualitätsmanagement",
+        "french": "Gestion de la qualité",
+        "italian": "Gestione della qualità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6427691",
+      "surname": "Knechtenhofer",
+      "givenName": "Bernhard",
+      "email": null,
+      "phone": "+41 58 46 50535",
+      "function": {
+        "german": "Leiter KB Führungs- und Aufklärungssysteme",
+        "french": "Chef du domaine de compétences systèmes de conduite et d'exploration",
+        "italian": "Capo SC Sistemi di condotta e di esplorazione",
+        "english": "Leiter Kompetenzbereich"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1814066",
+      "surname": "Scuntaro",
+      "givenName": "William",
+      "email": null,
+      "phone": "+41 58 46 32025",
+      "function": {
+        "german": "Projektleiter / Stv Leiter KB F u. A",
+        "french": "Chef de projet / Remp du Chef du domaine de compétences systèmes de conduite et d'exploration",
+        "italian": "Capoprogetto / vice capo SC F e A",
+        "english": "Projektleiter / Stv L KB F u. A"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20022064",
+      "label": {
+        "german": "Führungs- und Aufklärungssysteme",
+        "french": "Systèmes de conduite et d'exploration",
+        "italian": "Sistemi di condotta e di esplorazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungs- und Aufklärungssysteme",
+        "french": "Systèmes de conduite et d'exploration",
+        "italian": "Sistemi di condotta e di esplorazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,173 @@
-{"id"=>"20004039", "name"=>{"german"=>"Kampfflugzeuge", "french"=>"Avions de combat", "italian"=>"Aerei da combattimento", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0127041", "surname"=>"Walther", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 45623", "function"=>{"german"=>"Leiter FB Kampfflugzeuge", "french"=>"Chef du domaine spécialisé avions de combat", "italian"=>"Capo SS Aerei da combattimento", "english"=>"Leiter FB Kampfflugzeuge"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1249194", "surname"=>"Bürki", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 34160", "function"=>{"german"=>"Projektleiter III / Stv. L FB LUK", "french"=>"Chef de projet III / Remp. du chef du domaine spécialisé avions de combat", "italian"=>"Capoprogetto III / vice capo SS LUK", "english"=>"Stv L FB / Projektleiter"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"10008928", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement - armasuisse", "italian"=>"Ufficio federale dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004019", "label"=>{"german"=>"Luftfahrtsysteme", "french"=>"Systèmes aéronautiques", "italian"=>"Sistemi aeronautici", "english"=>""}, "name"=>{"german"=>"Luftfahrtsysteme", "french"=>"Systèmes aéronautiques", "italian"=>"Sistemi aeronautici", "english"=>""}}, {"id"=>"20004039", "label"=>{"german"=>"Kampfflugzeuge", "french"=>"Avions de combat", "italian"=>"Aerei da combattimento", "english"=>""}, "name"=>{"german"=>"Kampfflugzeuge", "french"=>"Avions de combat", "italian"=>"Aerei da combattimento", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20004039",
+  "name": {
+    "german": "Kampfflugzeuge",
+    "french": "Avions de combat",
+    "italian": "Aerei da combattimento",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0127041",
+      "surname": "Walther",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 45623",
+      "function": {
+        "german": "Leiter FB Kampfflugzeuge",
+        "french": "Chef du domaine spécialisé avions de combat",
+        "italian": "Capo SS Aerei da combattimento",
+        "english": "Leiter FB Kampfflugzeuge"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1249194",
+      "surname": "Bürki",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 34160",
+      "function": {
+        "german": "Projektleiter III / Stv. L FB LUK",
+        "french": "Chef de projet III / Remp. du chef du domaine spécialisé avions de combat",
+        "italian": "Capoprogetto III / vice capo SS LUK",
+        "english": "Stv L FB / Projektleiter"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008928",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement - armasuisse",
+        "italian": "Ufficio federale dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004019",
+      "label": {
+        "german": "Luftfahrtsysteme",
+        "french": "Systèmes aéronautiques",
+        "italian": "Sistemi aeronautici",
+        "english": ""
+      },
+      "name": {
+        "german": "Luftfahrtsysteme",
+        "french": "Systèmes aéronautiques",
+        "italian": "Sistemi aeronautici",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004039",
+      "label": {
+        "german": "Kampfflugzeuge",
+        "french": "Avions de combat",
+        "italian": "Aerei da combattimento",
+        "english": ""
+      },
+      "name": {
+        "german": "Kampfflugzeuge",
+        "french": "Avions de combat",
+        "italian": "Aerei da combattimento",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,153 @@
-{"id"=>"20030142", "name"=>{"german"=>"Abteilung II Kammer 2.3", "french"=>"Cour II Chambre 2.3", "italian"=>"Corte II Camera 2.3", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0758767", "surname"=>"Baechler", "givenName"=>"Jean-Luc", "email"=>nil, "phone"=>"+41 58 46 52560", "function"=>{"german"=>"Richter/in Abteilung II", "french"=>"Richter/in Abteilung II", "italian"=>"Richter/in Abteilung II", "english"=>"Richter/in Abteilung II"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-3490375", "surname"=>"Bovey", "givenName"=>"Pascal", "email"=>nil, "phone"=>"+41 58 46 52560", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung II", "french"=>"Greffier/Greffière Cour II", "italian"=>"Cancelliere/a Corte II", "english"=>"Gerichtsschreiber/in Abteilung II"}, "isVisibleInEstKa"=>true}, {"id"=>"p-1164035", "surname"=>"Masson", "givenName"=>"Fabienne", "email"=>nil, "phone"=>"+41 58 46 52560", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung II", "french"=>"Greffier/Greffière II Cour II", "italian"=>"Cancelliere/a II Corte II", "english"=>"Gerichtsschreiber/in II Abteilung II"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014817", "label"=>{"german"=>"Abteilung II - Wirtschaft, Bildung und Wettbewerb", "french"=>"Cour II - économie, formation et concurrence", "italian"=>"Corte II - economia, formazione e concorrenza", "english"=>""}, "name"=>{"german"=>"Abteilung II - Wirtschaft, Bildung und Wettbewerb", "french"=>"Cour II - économie, formation et concurrence", "italian"=>"Corte II - economia, formazione e concorrenza", "english"=>""}}, {"id"=>"20030132", "label"=>{"german"=>"Abteilung II Kammer 2", "french"=>"Cour II Chambre 2", "italian"=>"Corte II Camera 2", "english"=>""}, "name"=>{"german"=>"Abteilung II Kammer 2", "french"=>"Cour II Chambre 2", "italian"=>"Corte II Camera 2", "english"=>""}}, {"id"=>"20030142", "label"=>{"german"=>"Abteilung II Kammer 2.3", "french"=>"Cour II Chambre 2.3", "italian"=>"Corte II Camera 2.3", "english"=>""}, "name"=>{"german"=>"Abteilung II Kammer 2.3", "french"=>"Cour II Chambre 2.3", "italian"=>"Corte II Camera 2.3", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20030142",
+  "name": {
+    "german": "Abteilung II Kammer 2.3",
+    "french": "Cour II Chambre 2.3",
+    "italian": "Corte II Camera 2.3",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0758767",
+      "surname": "Baechler",
+      "givenName": "Jean-Luc",
+      "email": null,
+      "phone": "+41 58 46 52560",
+      "function": {
+        "german": "Richter/in Abteilung II",
+        "french": "Richter/in Abteilung II",
+        "italian": "Richter/in Abteilung II",
+        "english": "Richter/in Abteilung II"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-3490375",
+      "surname": "Bovey",
+      "givenName": "Pascal",
+      "email": null,
+      "phone": "+41 58 46 52560",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung II",
+        "french": "Greffier/Greffière Cour II",
+        "italian": "Cancelliere/a Corte II",
+        "english": "Gerichtsschreiber/in Abteilung II"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1164035",
+      "surname": "Masson",
+      "givenName": "Fabienne",
+      "email": null,
+      "phone": "+41 58 46 52560",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung II",
+        "french": "Greffier/Greffière II Cour II",
+        "italian": "Cancelliere/a II Corte II",
+        "english": "Gerichtsschreiber/in II Abteilung II"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014817",
+      "label": {
+        "german": "Abteilung II - Wirtschaft, Bildung und Wettbewerb",
+        "french": "Cour II - économie, formation et concurrence",
+        "italian": "Corte II - economia, formazione e concorrenza",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung II - Wirtschaft, Bildung und Wettbewerb",
+        "french": "Cour II - économie, formation et concurrence",
+        "italian": "Corte II - economia, formazione e concorrenza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030132",
+      "label": {
+        "german": "Abteilung II Kammer 2",
+        "french": "Cour II Chambre 2",
+        "italian": "Corte II Camera 2",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung II Kammer 2",
+        "french": "Cour II Chambre 2",
+        "italian": "Corte II Camera 2",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030142",
+      "label": {
+        "german": "Abteilung II Kammer 2.3",
+        "french": "Cour II Chambre 2.3",
+        "italian": "Corte II Camera 2.3",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung II Kammer 2.3",
+        "french": "Cour II Chambre 2.3",
+        "italian": "Corte II Camera 2.3",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

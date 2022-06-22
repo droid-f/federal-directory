@@ -1,1 +1,251 @@
-{"id"=>"10002658", "name"=>{"german"=>"Geschäftsverwaltung GEVER", "french"=>"Gestion des affaires", "italian"=>"Gestione degli affari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Bundeshaus Ost", "street"=>"Kochergasse 9", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-1742789", "surname"=>"Aebersold", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 48 01710", "function"=>{"german"=>"Sachbearbeiter/in Geschäfte und GEVER", "french"=>"Collaborateur/trice spéc. Chancellerie", "italian"=>"Collaboratore/trice specialista affari e GEVER", "english"=>"Sachbearbeiter/in Geschäfte und GEVER"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2489743", "surname"=>"Baumgartner", "givenName"=>"Susanne", "email"=>nil, "phone"=>"+41 58 46 22083", "function"=>{"german"=>"Sachbearbeiter/in Geschäfte und GEVER", "french"=>"Collaborateur/trice spéc. Chancellerie", "italian"=>"Collaboratore/trice specialista affari e GEVER", "english"=>"Sachbearbeiter/in Geschäfte und GEVER"}, "isVisibleInEstKa"=>true}, {"id"=>"p-5807497", "surname"=>"Brentani", "givenName"=>"Christina", "email"=>nil, "phone"=>"+41 58 46 22022", "function"=>{"german"=>"Sachbearbeiter/in parlamentarische Vorstösse", "french"=>"Collaborateur/trice spéc. Chancellerie", "italian"=>"Collaboratore/trice specialista affari e GEVER", "english"=>"Sachbearb./in parlamentarische Vorstösse"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9938239", "surname"=>"Huggenberger", "givenName"=>"Sarah", "email"=>nil, "phone"=>"+41 58 46 22402", "function"=>{"german"=>"Koord. Parlaments-/Kommissionsgeschäfte", "french"=>"Collaborateur/trice spéc. Chancellerie", "italian"=>"Collaboratore/trice specialista affari e GEVER", "english"=>"Koord. Parlaments-/ Kommissionsgeschäfte"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2038770", "surname"=>"Kubaç", "givenName"=>"Nesrin", "email"=>nil, "phone"=>"+41 58 46 42865", "function"=>{"german"=>"Verantwortliche/r Geschäfte und Geschäftsverwaltung, Sachbearbeiter/in", "french"=>"Suppl. / collab. spéc. Chancellerie", "italian"=>"Suppl./ collaboratore/trice specialista affari e GEVER", "english"=>"Verantw. Geschäfte/GEVER, Sachbearb./in"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3659055", "surname"=>"Leutwiler", "givenName"=>"Thomas", "email"=>nil, "phone"=>"+41 58 46 22028", "function"=>{"german"=>"Sachbearbeiter/in Geschäfte und GEVER", "french"=>"Collaborateur/trice spéc. Chancellerie", "italian"=>"Collaboratore/trice specialista affari e GEVER", "english"=>"Sachbearbeiter/in Geschäfte und GEVER"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2526533", "surname"=>"Pardini", "givenName"=>"Marion", "email"=>nil, "phone"=>"+41 58 46 22074", "function"=>{"german"=>"Sachbearbeiter/in Geschäfte und GEVER", "french"=>"Collaborateur/trice spécialisé/e et GEVER", "italian"=>"Collaboratore/trice specialista e GEVER", "english"=>"Sachbearbeiter/in Geschäfte und GEVER"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7078081", "surname"=>"Spycher", "givenName"=>"Doris", "email"=>nil, "phone"=>"+41 58 46 22031", "function"=>{"german"=>"Sachbearbeiter/in Dossier Bundesratsgeschäfte", "french"=>"Collaborateur/trice spéc. Chancellerie", "italian"=>"Collaboratore/trice specialista affari del Consigliere federale", "english"=>"Sachbearbeiter/in Dossier BR-Geschäfte"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10002651", "label"=>{"german"=>"GS-WBF", "french"=>"GS-WBF", "italian"=>"GS-WBF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général du DEFR", "italian"=>"Segreteria generale DEFR", "english"=>""}}, {"id"=>"10008655", "label"=>{"german"=>"GS-WBF", "french"=>"SG-DEFR", "italian"=>"SG-DEFR", "english"=>""}, "name"=>{"german"=>"Generalsekretariat WBF", "french"=>"Secrétariat général SG-DEFR", "italian"=>"Segreteria generale SG-DEFR", "english"=>""}}, {"id"=>"10002655", "label"=>{"german"=>"Stab, BfK", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}, "name"=>{"german"=>"Stab, BfK", "french"=>"Etat-major", "italian"=>"Stato maggiore", "english"=>""}}, {"id"=>"10002658", "label"=>{"german"=>"Geschäftsverwaltung GEVER", "french"=>"Gestion des affaires", "italian"=>"Gestione degli affari", "english"=>""}, "name"=>{"german"=>"Geschäftsverwaltung GEVER", "french"=>"Gestion des affaires", "italian"=>"Gestione degli affari", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002658",
+  "name": {
+    "german": "Geschäftsverwaltung GEVER",
+    "french": "Gestion des affaires",
+    "italian": "Gestione degli affari",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Bundeshaus Ost",
+    "street": "Kochergasse 9",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-1742789",
+      "surname": "Aebersold",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 48 01710",
+      "function": {
+        "german": "Sachbearbeiter/in Geschäfte und GEVER",
+        "french": "Collaborateur/trice spéc. Chancellerie",
+        "italian": "Collaboratore/trice specialista affari e GEVER",
+        "english": "Sachbearbeiter/in Geschäfte und GEVER"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2489743",
+      "surname": "Baumgartner",
+      "givenName": "Susanne",
+      "email": null,
+      "phone": "+41 58 46 22083",
+      "function": {
+        "german": "Sachbearbeiter/in Geschäfte und GEVER",
+        "french": "Collaborateur/trice spéc. Chancellerie",
+        "italian": "Collaboratore/trice specialista affari e GEVER",
+        "english": "Sachbearbeiter/in Geschäfte und GEVER"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5807497",
+      "surname": "Brentani",
+      "givenName": "Christina",
+      "email": null,
+      "phone": "+41 58 46 22022",
+      "function": {
+        "german": "Sachbearbeiter/in parlamentarische Vorstösse",
+        "french": "Collaborateur/trice spéc. Chancellerie",
+        "italian": "Collaboratore/trice specialista affari e GEVER",
+        "english": "Sachbearb./in parlamentarische Vorstösse"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9938239",
+      "surname": "Huggenberger",
+      "givenName": "Sarah",
+      "email": null,
+      "phone": "+41 58 46 22402",
+      "function": {
+        "german": "Koord. Parlaments-/Kommissionsgeschäfte",
+        "french": "Collaborateur/trice spéc. Chancellerie",
+        "italian": "Collaboratore/trice specialista affari e GEVER",
+        "english": "Koord. Parlaments-/ Kommissionsgeschäfte"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2038770",
+      "surname": "Kubaç",
+      "givenName": "Nesrin",
+      "email": null,
+      "phone": "+41 58 46 42865",
+      "function": {
+        "german": "Verantwortliche/r Geschäfte und Geschäftsverwaltung, Sachbearbeiter/in",
+        "french": "Suppl. / collab. spéc. Chancellerie",
+        "italian": "Suppl./ collaboratore/trice specialista affari e GEVER",
+        "english": "Verantw. Geschäfte/GEVER, Sachbearb./in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3659055",
+      "surname": "Leutwiler",
+      "givenName": "Thomas",
+      "email": null,
+      "phone": "+41 58 46 22028",
+      "function": {
+        "german": "Sachbearbeiter/in Geschäfte und GEVER",
+        "french": "Collaborateur/trice spéc. Chancellerie",
+        "italian": "Collaboratore/trice specialista affari e GEVER",
+        "english": "Sachbearbeiter/in Geschäfte und GEVER"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2526533",
+      "surname": "Pardini",
+      "givenName": "Marion",
+      "email": null,
+      "phone": "+41 58 46 22074",
+      "function": {
+        "german": "Sachbearbeiter/in Geschäfte und GEVER",
+        "french": "Collaborateur/trice spécialisé/e et GEVER",
+        "italian": "Collaboratore/trice specialista e GEVER",
+        "english": "Sachbearbeiter/in Geschäfte und GEVER"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7078081",
+      "surname": "Spycher",
+      "givenName": "Doris",
+      "email": null,
+      "phone": "+41 58 46 22031",
+      "function": {
+        "german": "Sachbearbeiter/in Dossier Bundesratsgeschäfte",
+        "french": "Collaborateur/trice spéc. Chancellerie",
+        "italian": "Collaboratore/trice specialista affari del Consigliere federale",
+        "english": "Sachbearbeiter/in Dossier BR-Geschäfte"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002651",
+      "label": {
+        "german": "GS-WBF",
+        "french": "GS-WBF",
+        "italian": "GS-WBF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général du DEFR",
+        "italian": "Segreteria generale DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008655",
+      "label": {
+        "german": "GS-WBF",
+        "french": "SG-DEFR",
+        "italian": "SG-DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat WBF",
+        "french": "Secrétariat général SG-DEFR",
+        "italian": "Segreteria generale SG-DEFR",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002655",
+      "label": {
+        "german": "Stab, BfK",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      },
+      "name": {
+        "german": "Stab, BfK",
+        "french": "Etat-major",
+        "italian": "Stato maggiore",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002658",
+      "label": {
+        "german": "Geschäftsverwaltung GEVER",
+        "french": "Gestion des affaires",
+        "italian": "Gestione degli affari",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsverwaltung GEVER",
+        "french": "Gestion des affaires",
+        "italian": "Gestione degli affari",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

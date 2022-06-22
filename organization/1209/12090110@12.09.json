@@ -1,1 +1,184 @@
-{"id"=>"12090110@12.09", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kirchlindachstrasse 79", "postalCode"=>"3052", "location"=>"Zollikofen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 458 27 00", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>417, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-10002069", "surname"=>"Fontanellaz", "givenName"=>"Barbara", "email"=>nil, "phone"=>"+41 58 458 28 89", "function"=>{"german"=>"Direktorin", "french"=>"Direktorin", "italian"=>"Direktorin", "english"=>nil}, "isVisibleInEstKa"=>true}, {"functionId"=>418, "isHead"=>false, "isRepresentative"=>false, "id"=>"p-10002073", "surname"=>"Perdrizat", "givenName"=>"Jean-Pierre", "email"=>nil, "phone"=>"+41 58 458 22 53", "function"=>{"german"=>"Stv. Direktor", "french"=>"Stv. Direktor", "italian"=>"Stv. Direktor", "english"=>""}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-10002098", "surname"=>"Flühmann-Chieu", "givenName"=>"Rita", "email"=>nil, "phone"=>"+41 58 458 28 05", "function"=>{"german"=>"Leiterin Human Resources", "french"=>"Leiterin Human Resources", "italian"=>"Leiterin Human Resources", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002099", "surname"=>"Jerjen", "givenName"=>"Vera", "email"=>nil, "phone"=>"+41 58 458 27 03", "function"=>{"german"=>"Leiterin Direktionsstab", "french"=>"Leiterin Direktionsstab", "italian"=>"Leiterin Direktionsstab", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-10002101", "surname"=>"Temesvari", "givenName"=>"Eva Maria", "email"=>nil, "phone"=>"+41 58 458 27 29", "function"=>{"german"=>"Leiterin Rechtsdienst", "french"=>"Leiterin Rechtsdienst", "italian"=>"Leiterin Rechtsdienst", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"12090100@12.09", "label"=>{"german"=>"EHB", "french"=>"HEFP", "italian"=>"SUFFP", "english"=>""}, "name"=>{"german"=>"Eidgenössische Hochschule für Berufsbildung", "french"=>"Haute école fédérale en formation professionnelle", "italian"=>"Scuola universitaria federale per la formazione professionale", "english"=>""}}, {"id"=>"12090110@12.09", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12090110@12.09",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kirchlindachstrasse 79",
+    "postalCode": "3052",
+    "location": "Zollikofen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 458 27 00",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": 417,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-10002069",
+      "surname": "Fontanellaz",
+      "givenName": "Barbara",
+      "email": null,
+      "phone": "+41 58 458 28 89",
+      "function": {
+        "german": "Direktorin",
+        "french": "Direktorin",
+        "italian": "Direktorin",
+        "english": null
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": 418,
+      "isHead": false,
+      "isRepresentative": false,
+      "id": "p-10002073",
+      "surname": "Perdrizat",
+      "givenName": "Jean-Pierre",
+      "email": null,
+      "phone": "+41 58 458 22 53",
+      "function": {
+        "german": "Stv. Direktor",
+        "french": "Stv. Direktor",
+        "italian": "Stv. Direktor",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-10002098",
+      "surname": "Flühmann-Chieu",
+      "givenName": "Rita",
+      "email": null,
+      "phone": "+41 58 458 28 05",
+      "function": {
+        "german": "Leiterin Human Resources",
+        "french": "Leiterin Human Resources",
+        "italian": "Leiterin Human Resources",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002099",
+      "surname": "Jerjen",
+      "givenName": "Vera",
+      "email": null,
+      "phone": "+41 58 458 27 03",
+      "function": {
+        "german": "Leiterin Direktionsstab",
+        "french": "Leiterin Direktionsstab",
+        "italian": "Leiterin Direktionsstab",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-10002101",
+      "surname": "Temesvari",
+      "givenName": "Eva Maria",
+      "email": null,
+      "phone": "+41 58 458 27 29",
+      "function": {
+        "german": "Leiterin Rechtsdienst",
+        "french": "Leiterin Rechtsdienst",
+        "italian": "Leiterin Rechtsdienst",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "12090100@12.09",
+      "label": {
+        "german": "EHB",
+        "french": "HEFP",
+        "italian": "SUFFP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Hochschule für Berufsbildung",
+        "french": "Haute école fédérale en formation professionnelle",
+        "italian": "Scuola universitaria federale per la formazione professionale",
+        "english": ""
+      }
+    },
+    {
+      "id": "12090110@12.09",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,123 @@
-{"id"=>"10008750", "name"=>{"german"=>"Schweizerisches Institut für Rechtsvergleichung", "french"=>"Institut suisse de droit comparé", "italian"=>"Istituto svizzero di diritto comparato", "english"=>""}, "nameAbbr"=>{"german"=>"SIR", "french"=>"ISDC", "italian"=>"ISDC", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Dorigny", "postalCode"=>"1015", "location"=>"Lausanne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41216924911", "fax"=>"+41216924949", "email"=>"info.isdc@unil.ch", "homepage"=>{"german"=>"www.isdc.ch", "french"=>"www.isdc.ch", "italian"=>"www.isdc.ch", "english"=>""}}, "children"=>[{"id"=>"10006250", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10008750", "label"=>{"german"=>"SIR", "french"=>"ISDC", "italian"=>"ISDC", "english"=>""}, "name"=>{"german"=>"Schweizerisches Institut für Rechtsvergleichung", "french"=>"Institut suisse de droit comparé", "italian"=>"Istituto svizzero di diritto comparato", "english"=>""}}], "contactPoints"=>[{"id"=>203, "name"=>{"german"=>"Personal und Finanzen", "french"=>"Personnel et finances", "italian"=>"Personale e finanze", "english"=>""}, "email"=>nil, "phone"=>"+41 21 692 49 27", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "10008750",
+  "name": {
+    "german": "Schweizerisches Institut für Rechtsvergleichung",
+    "french": "Institut suisse de droit comparé",
+    "italian": "Istituto svizzero di diritto comparato",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "SIR",
+    "french": "ISDC",
+    "italian": "ISDC",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Dorigny",
+    "postalCode": "1015",
+    "location": "Lausanne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41216924911",
+    "fax": "+41216924949",
+    "email": "info.isdc@unil.ch",
+    "homepage": {
+      "german": "www.isdc.ch",
+      "french": "www.isdc.ch",
+      "italian": "www.isdc.ch",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10006250",
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008750",
+      "label": {
+        "german": "SIR",
+        "french": "ISDC",
+        "italian": "ISDC",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Institut für Rechtsvergleichung",
+        "french": "Institut suisse de droit comparé",
+        "italian": "Istituto svizzero di diritto comparato",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 203,
+      "name": {
+        "german": "Personal und Finanzen",
+        "french": "Personnel et finances",
+        "italian": "Personale e finanze",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 21 692 49 27",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

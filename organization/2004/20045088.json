@@ -1,1 +1,226 @@
-{"id"=>"20045088", "name"=>{"german"=>"Simap", "french"=>"Simap", "italian"=>"Simap", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Holzikofenweg 36", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1693867", "surname"=>"Sacino", "givenName"=>"Lucio", "email"=>nil, "phone"=>"+41 58 46 40784", "function"=>{"german"=>"Applikationsverantwortliche/r SIMAP DPPU", "french"=>"Applikationsverantwortliche/r SIMAP DPPU", "italian"=>"Applikationsverantwortliche/r SIMAP DPPU", "english"=>"Applikationsverantwortliche/r SIMAP DPPU"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4016666", "surname"=>"Burkhardt", "givenName"=>"Susanna", "email"=>nil, "phone"=>"+41 58 48 39433", "function"=>{"german"=>"Projektmanager/in SIMAP DPPU", "french"=>"Projektmanager/in SIMAP DPPU", "italian"=>"Projektmanager/in SIMAP DPPU", "english"=>"Projektmanager/in SIMAP DPPU"}, "isVisibleInEstKa"=>true}, {"id"=>"p-9478227", "surname"=>"Knecht", "givenName"=>"Tobias", "email"=>nil, "phone"=>"+41 58 48 39445", "function"=>{"german"=>"Incidentmanager/in SIMAP DPPU", "french"=>"Incidentmanager/in SIMAP DPPU", "italian"=>"Incidentmanager/in SIMAP DPPU", "english"=>"Incidentmanager/in SIMAP DPPU"}, "isVisibleInEstKa"=>true}, {"id"=>"p-3141027", "surname"=>"Moser", "givenName"=>"Adriano", "email"=>nil, "phone"=>"", "function"=>{"german"=>"Externe/r Mitarbeiter/in SIMAP DPPU", "french"=>"Externe/r Mitarbeiter/in SIMAP DPPU", "italian"=>"Externe/r Mitarbeiter/in SIMAP DPPU", "english"=>"Externe/r Mitarbeiter/in SIMAP DPPU"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8870051", "surname"=>"Ryser", "givenName"=>"Christian", "email"=>nil, "phone"=>"+41 58 46 22847", "function"=>{"german"=>"Incidentmanager/in SIMAP DPPU", "french"=>"Incidentmanager/in SIMAP DPPU", "italian"=>"Incidentmanager/in SIMAP DPPU", "english"=>"Incidentmanager/in SIMAP DPPU"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000032", "label"=>{"german"=>"WBF", "french"=>"DEFR", "italian"=>"DEFR", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung", "french"=>"Département fédéral de l'économie, de la formation et de la recherche", "italian"=>"Dipartimento federale dell'economia, della formazione e della ricerca", "english"=>""}}, {"id"=>"10008856", "label"=>{"german"=>"SECO", "french"=>"SECO", "italian"=>"SECO", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Wirtschaft", "french"=>"Secrétariat d'Etat à l'économie", "italian"=>"Segreteria di Stato dell'economia", "english"=>""}}, {"id"=>"10004173", "label"=>{"german"=>"SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}, "name"=>{"german"=>"Direktion SECO", "french"=>"Direction SECO", "italian"=>"Direzione SECO", "english"=>""}}, {"id"=>"10004243", "label"=>{"german"=>"Direktion für Wirtschaftspolitik", "french"=>"Direction de la politique économique", "italian"=>"Direzione politica economica", "english"=>""}, "name"=>{"german"=>"Direktion für Wirtschaftspolitik", "french"=>"Direction de la politique économique", "italian"=>"Direzione politica economica", "english"=>""}}, {"id"=>"10004247", "label"=>{"german"=>"Publikationen", "french"=>"Publications", "italian"=>"Pubblicazioni", "english"=>""}, "name"=>{"german"=>"Publikationen", "french"=>"Publications", "italian"=>"Pubblicazioni", "english"=>""}}, {"id"=>"20045088", "label"=>{"german"=>"Simap", "french"=>"Simap", "italian"=>"Simap", "english"=>""}, "name"=>{"german"=>"Simap", "french"=>"Simap", "italian"=>"Simap", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20045088",
+  "name": {
+    "german": "Simap",
+    "french": "Simap",
+    "italian": "Simap",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Holzikofenweg 36",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1693867",
+      "surname": "Sacino",
+      "givenName": "Lucio",
+      "email": null,
+      "phone": "+41 58 46 40784",
+      "function": {
+        "german": "Applikationsverantwortliche/r SIMAP DPPU",
+        "french": "Applikationsverantwortliche/r SIMAP DPPU",
+        "italian": "Applikationsverantwortliche/r SIMAP DPPU",
+        "english": "Applikationsverantwortliche/r SIMAP DPPU"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4016666",
+      "surname": "Burkhardt",
+      "givenName": "Susanna",
+      "email": null,
+      "phone": "+41 58 48 39433",
+      "function": {
+        "german": "Projektmanager/in SIMAP DPPU",
+        "french": "Projektmanager/in SIMAP DPPU",
+        "italian": "Projektmanager/in SIMAP DPPU",
+        "english": "Projektmanager/in SIMAP DPPU"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-9478227",
+      "surname": "Knecht",
+      "givenName": "Tobias",
+      "email": null,
+      "phone": "+41 58 48 39445",
+      "function": {
+        "german": "Incidentmanager/in SIMAP DPPU",
+        "french": "Incidentmanager/in SIMAP DPPU",
+        "italian": "Incidentmanager/in SIMAP DPPU",
+        "english": "Incidentmanager/in SIMAP DPPU"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3141027",
+      "surname": "Moser",
+      "givenName": "Adriano",
+      "email": null,
+      "phone": "",
+      "function": {
+        "german": "Externe/r Mitarbeiter/in SIMAP DPPU",
+        "french": "Externe/r Mitarbeiter/in SIMAP DPPU",
+        "italian": "Externe/r Mitarbeiter/in SIMAP DPPU",
+        "english": "Externe/r Mitarbeiter/in SIMAP DPPU"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8870051",
+      "surname": "Ryser",
+      "givenName": "Christian",
+      "email": null,
+      "phone": "+41 58 46 22847",
+      "function": {
+        "german": "Incidentmanager/in SIMAP DPPU",
+        "french": "Incidentmanager/in SIMAP DPPU",
+        "italian": "Incidentmanager/in SIMAP DPPU",
+        "english": "Incidentmanager/in SIMAP DPPU"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000032",
+      "label": {
+        "german": "WBF",
+        "french": "DEFR",
+        "italian": "DEFR",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+        "french": "Département fédéral de l'économie, de la formation et de la recherche",
+        "italian": "Dipartimento federale dell'economia, della formazione e della ricerca",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008856",
+      "label": {
+        "german": "SECO",
+        "french": "SECO",
+        "italian": "SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Wirtschaft",
+        "french": "Secrétariat d'Etat à l'économie",
+        "italian": "Segreteria di Stato dell'economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004173",
+      "label": {
+        "german": "SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion SECO",
+        "french": "Direction SECO",
+        "italian": "Direzione SECO",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004243",
+      "label": {
+        "german": "Direktion für Wirtschaftspolitik",
+        "french": "Direction de la politique économique",
+        "italian": "Direzione politica economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion für Wirtschaftspolitik",
+        "french": "Direction de la politique économique",
+        "italian": "Direzione politica economica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004247",
+      "label": {
+        "german": "Publikationen",
+        "french": "Publications",
+        "italian": "Pubblicazioni",
+        "english": ""
+      },
+      "name": {
+        "german": "Publikationen",
+        "french": "Publications",
+        "italian": "Pubblicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045088",
+      "label": {
+        "german": "Simap",
+        "french": "Simap",
+        "italian": "Simap",
+        "english": ""
+      },
+      "name": {
+        "german": "Simap",
+        "french": "Simap",
+        "italian": "Simap",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

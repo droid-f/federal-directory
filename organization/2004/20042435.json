@@ -1,1 +1,199 @@
-{"id"=>"20042435", "name"=>{"german"=>"Militärische Kriminalpolizei", "french"=>"Police judiciaire militaire", "italian"=>"Polizia militare giudiziaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Pont-des-Iles 2", "postalCode"=>"1950", "location"=>"Sion", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20042441", "name"=>{"german"=>"Militärische Kriminalpolizei West", "french"=>"Police judiciaire militaire ouest", "italian"=>"Polizia militare giudiziaria ovest", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20042440", "name"=>{"german"=>"Militärische Kriminalpolizei Ost", "french"=>"Police judiciaire militaire est", "italian"=>"Polizia militare giudiziaria est", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042327", "label"=>{"german"=>"OP", "french"=>"OP", "italian"=>"OP", "english"=>""}, "name"=>{"german"=>"Kommando Operationen", "french"=>"Commandement des Opérations", "italian"=>"Comando Operazioni", "english"=>""}}, {"id"=>"10000057", "label"=>{"german"=>"MP", "french"=>"MP", "italian"=>"MP", "english"=>""}, "name"=>{"german"=>"Militärpolizei", "french"=>"Police militaire", "italian"=>"Polizia militare", "english"=>""}}, {"id"=>"20042426", "label"=>{"german"=>"Einsatzkommando Militärpolizei", "french"=>"Commandement d'engagement PM", "italian"=>"Comando d'impiego della polizia militare", "english"=>""}, "name"=>{"german"=>"Einsatzkommando Militärpolizei", "french"=>"Commandement d'engagement PM", "italian"=>"Comando d'impiego della polizia militare", "english"=>""}}, {"id"=>"20042435", "label"=>{"german"=>"Militärische Kriminalpolizei", "french"=>"Police judiciaire militaire", "italian"=>"Polizia militare giudiziaria", "english"=>""}, "name"=>{"german"=>"Militärische Kriminalpolizei", "french"=>"Police judiciaire militaire", "italian"=>"Polizia militare giudiziaria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20042435",
+  "name": {
+    "german": "Militärische Kriminalpolizei",
+    "french": "Police judiciaire militaire",
+    "italian": "Polizia militare giudiziaria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Pont-des-Iles 2",
+    "postalCode": "1950",
+    "location": "Sion",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20042441",
+      "name": {
+        "german": "Militärische Kriminalpolizei West",
+        "french": "Police judiciaire militaire ouest",
+        "italian": "Polizia militare giudiziaria ovest",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042440",
+      "name": {
+        "german": "Militärische Kriminalpolizei Ost",
+        "french": "Police judiciaire militaire est",
+        "italian": "Polizia militare giudiziaria est",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042327",
+      "label": {
+        "german": "OP",
+        "french": "OP",
+        "italian": "OP",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Operationen",
+        "french": "Commandement des Opérations",
+        "italian": "Comando Operazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000057",
+      "label": {
+        "german": "MP",
+        "french": "MP",
+        "italian": "MP",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärpolizei",
+        "french": "Police militaire",
+        "italian": "Polizia militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042426",
+      "label": {
+        "german": "Einsatzkommando Militärpolizei",
+        "french": "Commandement d'engagement PM",
+        "italian": "Comando d'impiego della polizia militare",
+        "english": ""
+      },
+      "name": {
+        "german": "Einsatzkommando Militärpolizei",
+        "french": "Commandement d'engagement PM",
+        "italian": "Comando d'impiego della polizia militare",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042435",
+      "label": {
+        "german": "Militärische Kriminalpolizei",
+        "french": "Police judiciaire militaire",
+        "italian": "Polizia militare giudiziaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärische Kriminalpolizei",
+        "french": "Police judiciaire militaire",
+        "italian": "Polizia militare giudiziaria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

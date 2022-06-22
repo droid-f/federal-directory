@@ -1,1 +1,247 @@
-{"id"=>"20012752", "name"=>{"german"=>"Abteilung Operative Polizeikooperation", "french"=>"Division Coopération policière opérationnelle", "italian"=>"Divisione Cooperazione operativa di polizia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41584631123", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20021426", "name"=>{"german"=>"Kommissariat Europol & INTERPOL", "french"=>"Commissariat Europol et Interpol", "italian"=>"Commissariato Europol e Interpol", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20015325", "name"=>{"german"=>"Kommissariat Internationale Identifizierungen", "french"=>"Commissariat Identifications internationales", "italian"=>"Commissariato Identificazioni internazionali", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045652", "name"=>{"german"=>"Kommissariat Grenzüberschreitende Kooperation und Fahrzeugkriminalität", "french"=>"Commissariat Coopération transfrontalière et criminalité liée aux véhicules", "italian"=>"Commissariato Cooperazione transfrontaliera e criminalità connessa ai veicoli", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20011402", "name"=>{"german"=>"Kommissariat CCPD GE", "french"=>"Commissariat CCPD GE", "italian"=>"Commissariato CCPD GE", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20045653", "name"=>{"german"=>"Kommissariat CCPD TI", "french"=>"Commissariat CCPD TI", "italian"=>"Commissariato CCPD TI", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-3715538", "surname"=>"Marchon", "givenName"=>"Charles", "email"=>nil, "phone"=>"+41 58 46 97960", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-5790300", "surname"=>"Drück", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 46 27095", "function"=>{"german"=>"Stv AC / Kommissariatsleiter/in", "french"=>"Stv AC / Kommissariatsleiter/in", "italian"=>"Stv AC / Kommissariatsleiter/in", "english"=>"Stv AC / Kommissariatsleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20021397", "label"=>{"german"=>"IPK", "french"=>"CPI", "italian"=>"CIP", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Internationale Polizeikooperation", "french"=>"Domaine de direction Coopération policière internationale", "italian"=>"Ambito direzionale Cooperazione internazionale di polizia", "english"=>""}}, {"id"=>"20012752", "label"=>{"german"=>"Abteilung Operative Polizeikooperation", "french"=>"Division Coopération policière opérationnelle", "italian"=>"Divisione Cooperazione operativa di polizia", "english"=>""}, "name"=>{"german"=>"Abteilung Operative Polizeikooperation", "french"=>"Division Coopération policière opérationnelle", "italian"=>"Divisione Cooperazione operativa di polizia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012752",
+  "name": {
+    "german": "Abteilung Operative Polizeikooperation",
+    "french": "Division Coopération policière opérationnelle",
+    "italian": "Divisione Cooperazione operativa di polizia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41584631123",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20021426",
+      "name": {
+        "german": "Kommissariat Europol & INTERPOL",
+        "french": "Commissariat Europol et Interpol",
+        "italian": "Commissariato Europol e Interpol",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015325",
+      "name": {
+        "german": "Kommissariat Internationale Identifizierungen",
+        "french": "Commissariat Identifications internationales",
+        "italian": "Commissariato Identificazioni internazionali",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045652",
+      "name": {
+        "german": "Kommissariat Grenzüberschreitende Kooperation und Fahrzeugkriminalität",
+        "french": "Commissariat Coopération transfrontalière et criminalité liée aux véhicules",
+        "italian": "Commissariato Cooperazione transfrontaliera e criminalità connessa ai veicoli",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011402",
+      "name": {
+        "german": "Kommissariat CCPD GE",
+        "french": "Commissariat CCPD GE",
+        "italian": "Commissariato CCPD GE",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20045653",
+      "name": {
+        "german": "Kommissariat CCPD TI",
+        "french": "Commissariat CCPD TI",
+        "italian": "Commissariato CCPD TI",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-3715538",
+      "surname": "Marchon",
+      "givenName": "Charles",
+      "email": null,
+      "phone": "+41 58 46 97960",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-5790300",
+      "surname": "Drück",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 46 27095",
+      "function": {
+        "german": "Stv AC / Kommissariatsleiter/in",
+        "french": "Stv AC / Kommissariatsleiter/in",
+        "italian": "Stv AC / Kommissariatsleiter/in",
+        "english": "Stv AC / Kommissariatsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021397",
+      "label": {
+        "german": "IPK",
+        "french": "CPI",
+        "italian": "CIP",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Internationale Polizeikooperation",
+        "french": "Domaine de direction Coopération policière internationale",
+        "italian": "Ambito direzionale Cooperazione internazionale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012752",
+      "label": {
+        "german": "Abteilung Operative Polizeikooperation",
+        "french": "Division Coopération policière opérationnelle",
+        "italian": "Divisione Cooperazione operativa di polizia",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Operative Polizeikooperation",
+        "french": "Division Coopération policière opérationnelle",
+        "italian": "Divisione Cooperazione operativa di polizia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

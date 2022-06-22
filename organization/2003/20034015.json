@@ -1,1 +1,155 @@
-{"id"=>"20034015", "name"=>{"german"=>"Ressort Personal", "french"=>"Unité Ressources humaines", "italian"=>"Unità Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Archivstrasse 24", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20028017", "name"=>{"german"=>"Ausbildung Lernende", "french"=>"Formation des apprenti(e)s", "italian"=>"Formazione degli apprendisti", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7571159", "surname"=>"Tu Leonardo", "givenName"=>"Yen", "email"=>nil, "phone"=>"+41 58 46 29682", "function"=>{"german"=>"Leiterin Ressort Personal", "french"=>"Leiterin Ressort Personal", "italian"=>"Leiterin Ressort Personal", "english"=>"Leiterin Ressort Personal"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008653", "label"=>{"german"=>"BAR", "french"=>"BAR", "italian"=>"BAR", "english"=>""}, "name"=>{"german"=>"Schweizerisches Bundesarchiv", "french"=>"Archives fédérales suisses", "italian"=>"Archivio federale svizzero", "english"=>""}}, {"id"=>"10002220", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20034015", "label"=>{"german"=>"Ressort Personal", "french"=>"Unité Ressources humaines", "italian"=>"Unità Risorse umane", "english"=>""}, "name"=>{"german"=>"Ressort Personal", "french"=>"Unité Ressources humaines", "italian"=>"Unità Risorse umane", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034015",
+  "name": {
+    "german": "Ressort Personal",
+    "french": "Unité Ressources humaines",
+    "italian": "Unità Risorse umane",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Archivstrasse 24",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20028017",
+      "name": {
+        "german": "Ausbildung Lernende",
+        "french": "Formation des apprenti(e)s",
+        "italian": "Formazione degli apprendisti",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7571159",
+      "surname": "Tu Leonardo",
+      "givenName": "Yen",
+      "email": null,
+      "phone": "+41 58 46 29682",
+      "function": {
+        "german": "Leiterin Ressort Personal",
+        "french": "Leiterin Ressort Personal",
+        "italian": "Leiterin Ressort Personal",
+        "english": "Leiterin Ressort Personal"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008653",
+      "label": {
+        "german": "BAR",
+        "french": "BAR",
+        "italian": "BAR",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Bundesarchiv",
+        "french": "Archives fédérales suisses",
+        "italian": "Archivio federale svizzero",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002220",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034015",
+      "label": {
+        "german": "Ressort Personal",
+        "french": "Unité Ressources humaines",
+        "italian": "Unità Risorse umane",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressort Personal",
+        "french": "Unité Ressources humaines",
+        "italian": "Unità Risorse umane",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

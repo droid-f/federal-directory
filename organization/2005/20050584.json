@@ -1,1 +1,155 @@
-{"id"=>"20050584", "name"=>{"german"=>"Sekretariat ESA", "french"=>"Secrétariat SFF", "italian"=>"Segreteria VFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 51A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008740", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat", "french"=>"Secrétariat général", "italian"=>"Segreteria generale", "english"=>""}}, {"id"=>"10002244", "label"=>{"german"=>"GS-EDI", "french"=>"SG-DFI", "italian"=>"SG-DFI", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EDI", "french"=>"Secrétariat général DFI", "italian"=>"Segreteria generale DFI", "english"=>""}}, {"id"=>"20035564", "label"=>{"german"=>"ESA", "french"=>"ESA", "italian"=>"ESA", "english"=>""}, "name"=>{"german"=>"Eidgenössische Stiftungsaufsicht", "french"=>"Surveillance fédérale des fondations SFF", "italian"=>"Vigilanza federale sulle fondazioni VFF", "english"=>""}}, {"id"=>"20040302", "label"=>{"german"=>"Zentrale Dienste / Kanzlei", "french"=>"Services centraux / Chancellerie", "italian"=>"Servizi centrali / cancelleria", "english"=>""}, "name"=>{"german"=>"Zentrale Dienste / Kanzlei", "french"=>"Services centraux / Chancellerie", "italian"=>"Servizi centrali / cancelleria", "english"=>""}}, {"id"=>"20050584", "label"=>{"german"=>"Sekretariat ESA", "french"=>"Secrétariat SFF", "italian"=>"Segreteria VFF", "english"=>""}, "name"=>{"german"=>"Sekretariat ESA", "french"=>"Secrétariat SFF", "italian"=>"Segreteria VFF", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20050584",
+  "name": {
+    "german": "Sekretariat ESA",
+    "french": "Secrétariat SFF",
+    "italian": "Segreteria VFF",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 51A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008740",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat",
+        "french": "Secrétariat général",
+        "italian": "Segreteria generale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002244",
+      "label": {
+        "german": "GS-EDI",
+        "french": "SG-DFI",
+        "italian": "SG-DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EDI",
+        "french": "Secrétariat général DFI",
+        "italian": "Segreteria generale DFI",
+        "english": ""
+      }
+    },
+    {
+      "id": "20035564",
+      "label": {
+        "german": "ESA",
+        "french": "ESA",
+        "italian": "ESA",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössische Stiftungsaufsicht",
+        "french": "Surveillance fédérale des fondations SFF",
+        "italian": "Vigilanza federale sulle fondazioni VFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040302",
+      "label": {
+        "german": "Zentrale Dienste / Kanzlei",
+        "french": "Services centraux / Chancellerie",
+        "italian": "Servizi centrali / cancelleria",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Dienste / Kanzlei",
+        "french": "Services centraux / Chancellerie",
+        "italian": "Servizi centrali / cancelleria",
+        "english": ""
+      }
+    },
+    {
+      "id": "20050584",
+      "label": {
+        "german": "Sekretariat ESA",
+        "french": "Secrétariat SFF",
+        "italian": "Segreteria VFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Sekretariat ESA",
+        "french": "Secrétariat SFF",
+        "italian": "Segreteria VFF",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

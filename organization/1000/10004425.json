@@ -1,1 +1,156 @@
-{"id"=>"10004425", "name"=>{"german"=>"Centre Dürrenmatt Neuchâtel", "french"=>"Centre Dürrenmatt Neuchâtel", "italian"=>"Centro Dürrenmatt Neuchâtel", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"chemin du Pertuis-du-Sault 74", "postalCode"=>"2000", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7194878", "surname"=>"Betschart", "givenName"=>"Madeleine", "email"=>nil, "phone"=>"+41 58 46 67062", "function"=>{"german"=>"Leiter/in Centre Dürrenmatt Neuchâtel", "french"=>"Chef/fe du Centre Dürrenmatt Neuchâtel", "italian"=>"Responsabile del Centre Dürrenmatt Neuchâtel", "english"=>"Leiter/in Centre Dürrenmatt Neuchâtel"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008736", "label"=>{"german"=>"BAK", "french"=>"OFC", "italian"=>"UFC", "english"=>""}, "name"=>{"german"=>"Bundesamt für Kultur", "french"=>"Office fédéral de la culture", "italian"=>"Ufficio federale della cultura", "english"=>""}}, {"id"=>"10004387", "label"=>{"german"=>"NB", "french"=>"BN", "italian"=>"BN", "english"=>""}, "name"=>{"german"=>"Schweizerische Nationalbibliothek", "french"=>"Bibliothèque nationale suisse", "italian"=>"Biblioteca nazionale svizzera", "english"=>""}}, {"id"=>"20012600", "label"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}, "name"=>{"german"=>"Direktion NB", "french"=>"Direction BN", "italian"=>"Direzione BN", "english"=>""}}, {"id"=>"10004425", "label"=>{"german"=>"Centre Dürrenmatt Neuchâtel", "french"=>"Centre Dürrenmatt Neuchâtel", "italian"=>"Centro Dürrenmatt Neuchâtel", "english"=>""}, "name"=>{"german"=>"Centre Dürrenmatt Neuchâtel", "french"=>"Centre Dürrenmatt Neuchâtel", "italian"=>"Centro Dürrenmatt Neuchâtel", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004425",
+  "name": {
+    "german": "Centre Dürrenmatt Neuchâtel",
+    "french": "Centre Dürrenmatt Neuchâtel",
+    "italian": "Centro Dürrenmatt Neuchâtel",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "chemin du Pertuis-du-Sault 74",
+    "postalCode": "2000",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7194878",
+      "surname": "Betschart",
+      "givenName": "Madeleine",
+      "email": null,
+      "phone": "+41 58 46 67062",
+      "function": {
+        "german": "Leiter/in Centre Dürrenmatt Neuchâtel",
+        "french": "Chef/fe du Centre Dürrenmatt Neuchâtel",
+        "italian": "Responsabile del Centre Dürrenmatt Neuchâtel",
+        "english": "Leiter/in Centre Dürrenmatt Neuchâtel"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008736",
+      "label": {
+        "german": "BAK",
+        "french": "OFC",
+        "italian": "UFC",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Kultur",
+        "french": "Office fédéral de la culture",
+        "italian": "Ufficio federale della cultura",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004387",
+      "label": {
+        "german": "NB",
+        "french": "BN",
+        "italian": "BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerische Nationalbibliothek",
+        "french": "Bibliothèque nationale suisse",
+        "italian": "Biblioteca nazionale svizzera",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012600",
+      "label": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion NB",
+        "french": "Direction BN",
+        "italian": "Direzione BN",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004425",
+      "label": {
+        "german": "Centre Dürrenmatt Neuchâtel",
+        "french": "Centre Dürrenmatt Neuchâtel",
+        "italian": "Centro Dürrenmatt Neuchâtel",
+        "english": ""
+      },
+      "name": {
+        "german": "Centre Dürrenmatt Neuchâtel",
+        "french": "Centre Dürrenmatt Neuchâtel",
+        "italian": "Centro Dürrenmatt Neuchâtel",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,186 @@
-{"id"=>"10010841", "name"=>{"german"=>"Zentrale Sprachdienste, Abteilung Italienisch", "french"=>"Services linguistiques centraux, Division italienne", "italian"=>"Servizi linguistici centrali, Divisione italiana", "english"=>""}, "nameAbbr"=>{"german"=>"ZSD-I", "french"=>"ZSD-I", "italian"=>"ZSD-I", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Gurtengasse 4", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20018257", "name"=>{"german"=>"Sektion Gesetzgebung und Sprache", "french"=>"Section Législation et langue", "italian"=>"Sezione Legislazione e lingua", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018260", "name"=>{"german"=>"Sektion Übersetzung und Redaktion", "french"=>"Section Traduction et rédaction", "italian"=>"Sezione Traduzione e redazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5016484", "surname"=>"Fomasi", "givenName"=>"Franco", "email"=>nil, "phone"=>"+41 58 46 41148", "function"=>{"german"=>"Leiter/in", "french"=>"Leiter/in", "italian"=>"Leiter/in", "english"=>"Leiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-0835161", "surname"=>"Egger", "givenName"=>"Jean-Luc", "email"=>nil, "phone"=>"+41 58 46 41139", "function"=>{"german"=>"Stv. Leiter/in Sektion Gesetzgebung/Spr.", "french"=>"Stv. Leiter/in Sektion Gesetzgebung/Spr.", "italian"=>"Stv. Leiter/in Sektion Gesetzgebung/Spr.", "english"=>"Stv. Leiter/in Sektion Gesetzgebung/Spr."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000025", "label"=>{"german"=>"BK", "french"=>"ChF", "italian"=>"CaF", "english"=>""}, "name"=>{"german"=>"Bundeskanzlei", "french"=>"Chancellerie fédérale", "italian"=>"Cancelleria federale", "english"=>""}}, {"id"=>"10002674", "label"=>{"german"=>"BR", "french"=>"BR", "italian"=>"BR", "english"=>""}, "name"=>{"german"=>"Bereich Bundesrat", "french"=>"Secteur Conseil fédéral", "italian"=>"Settore Consiglio federale", "english"=>""}}, {"id"=>"10010841", "label"=>{"german"=>"ZSD-I", "french"=>"ZSD-I", "italian"=>"ZSD-I", "english"=>""}, "name"=>{"german"=>"Zentrale Sprachdienste, Abteilung Italienisch", "french"=>"Services linguistiques centraux, Division italienne", "italian"=>"Servizi linguistici centrali, Divisione italiana", "english"=>""}}], "contactPoints"=>[{"id"=>86, "name"=>{"german"=>"Auskunft Bern", "french"=>"Renseignements Berne", "italian"=>"Informazioni Berna", "english"=>""}, "email"=>nil, "phone"=>"+41 58 464 11 36", "visibility"=>{"adminDir"=>true, "eStKal"=>true}}], "userCertificates"=>[]}
+{
+  "id": "10010841",
+  "name": {
+    "german": "Zentrale Sprachdienste, Abteilung Italienisch",
+    "french": "Services linguistiques centraux, Division italienne",
+    "italian": "Servizi linguistici centrali, Divisione italiana",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ZSD-I",
+    "french": "ZSD-I",
+    "italian": "ZSD-I",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Gurtengasse 4",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20018257",
+      "name": {
+        "german": "Sektion Gesetzgebung und Sprache",
+        "french": "Section Législation et langue",
+        "italian": "Sezione Legislazione e lingua",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018260",
+      "name": {
+        "german": "Sektion Übersetzung und Redaktion",
+        "french": "Section Traduction et rédaction",
+        "italian": "Sezione Traduzione e redazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5016484",
+      "surname": "Fomasi",
+      "givenName": "Franco",
+      "email": null,
+      "phone": "+41 58 46 41148",
+      "function": {
+        "german": "Leiter/in",
+        "french": "Leiter/in",
+        "italian": "Leiter/in",
+        "english": "Leiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-0835161",
+      "surname": "Egger",
+      "givenName": "Jean-Luc",
+      "email": null,
+      "phone": "+41 58 46 41139",
+      "function": {
+        "german": "Stv. Leiter/in Sektion Gesetzgebung/Spr.",
+        "french": "Stv. Leiter/in Sektion Gesetzgebung/Spr.",
+        "italian": "Stv. Leiter/in Sektion Gesetzgebung/Spr.",
+        "english": "Stv. Leiter/in Sektion Gesetzgebung/Spr."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000025",
+      "label": {
+        "german": "BK",
+        "french": "ChF",
+        "italian": "CaF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundeskanzlei",
+        "french": "Chancellerie fédérale",
+        "italian": "Cancelleria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002674",
+      "label": {
+        "german": "BR",
+        "french": "BR",
+        "italian": "BR",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Bundesrat",
+        "french": "Secteur Conseil fédéral",
+        "italian": "Settore Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10010841",
+      "label": {
+        "german": "ZSD-I",
+        "french": "ZSD-I",
+        "italian": "ZSD-I",
+        "english": ""
+      },
+      "name": {
+        "german": "Zentrale Sprachdienste, Abteilung Italienisch",
+        "french": "Services linguistiques centraux, Division italienne",
+        "italian": "Servizi linguistici centrali, Divisione italiana",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+    {
+      "id": 86,
+      "name": {
+        "german": "Auskunft Bern",
+        "french": "Renseignements Berne",
+        "italian": "Informazioni Berna",
+        "english": ""
+      },
+      "email": null,
+      "phone": "+41 58 464 11 36",
+      "visibility": {
+        "adminDir": true,
+        "eStKal": true
+      }
+    }
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,169 @@
-{"id"=>"20016876", "name"=>{"german"=>"Human Resources EFD", "french"=>"Ressources humaines DFF", "italian"=>"Risorse umane DFF", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Monbijoustrasse 118", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"personal@gs-efd.admin.ch", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0913366", "surname"=>"Herren", "givenName"=>"Walter", "email"=>nil, "phone"=>"+41 58 46 39323", "function"=>{"german"=>"Leiter Human Resources EFD", "french"=>"Chef/fe Ressources humaines DFF", "italian"=>"Caposezione Risorse umane", "english"=>"Leiter Human Resources EFD"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-4974323", "surname"=>"Gyger", "givenName"=>"Monika", "email"=>nil, "phone"=>"+41 58 46 26050", "function"=>{"german"=>"HR-Business Part. & Verant. Berufl. Gru.", "french"=>"RH-BP & resp. form. prof. initiale aupr", "italian"=>"RU-BP & resp. form. prof. di base", "english"=>"HR-Business Part. & Verant. Berufl. Gru."}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000031", "label"=>{"german"=>"EFD", "french"=>"DFF", "italian"=>"DFF", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Finanzdepartement", "french"=>"Département fédéral des finances", "italian"=>"Dipartimento federale delle finanze", "english"=>""}}, {"id"=>"10008603", "label"=>{"german"=>"GS-EFD", "french"=>"SG-DFF", "italian"=>"SG-DFF", "english"=>""}, "name"=>{"german"=>"Generalsekretariat EFD", "french"=>"Secrétariat général DFF", "italian"=>"Segreteria generale DFF", "english"=>""}}, {"id"=>"20041576", "label"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}, "name"=>{"german"=>"Leitung GS-EFD", "french"=>"Leitung GS-EFD", "italian"=>"Leitung GS-EFD", "english"=>""}}, {"id"=>"10003843", "label"=>{"german"=>"Ressourcen EFD", "french"=>"Ressources DFF", "italian"=>"Risorse DFF", "english"=>""}, "name"=>{"german"=>"Ressourcen EFD", "french"=>"Ressources DFF", "italian"=>"Risorse DFF", "english"=>""}}, {"id"=>"20016876", "label"=>{"german"=>"Human Resources EFD", "french"=>"Ressources humaines DFF", "italian"=>"Risorse umane DFF", "english"=>""}, "name"=>{"german"=>"Human Resources EFD", "french"=>"Ressources humaines DFF", "italian"=>"Risorse umane DFF", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20016876",
+  "name": {
+    "german": "Human Resources EFD",
+    "french": "Ressources humaines DFF",
+    "italian": "Risorse umane DFF",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Monbijoustrasse 118",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "personal@gs-efd.admin.ch",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0913366",
+      "surname": "Herren",
+      "givenName": "Walter",
+      "email": null,
+      "phone": "+41 58 46 39323",
+      "function": {
+        "german": "Leiter Human Resources EFD",
+        "french": "Chef/fe Ressources humaines DFF",
+        "italian": "Caposezione Risorse umane",
+        "english": "Leiter Human Resources EFD"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-4974323",
+      "surname": "Gyger",
+      "givenName": "Monika",
+      "email": null,
+      "phone": "+41 58 46 26050",
+      "function": {
+        "german": "HR-Business Part. & Verant. Berufl. Gru.",
+        "french": "RH-BP & resp. form. prof. initiale aupr",
+        "italian": "RU-BP & resp. form. prof. di base",
+        "english": "HR-Business Part. & Verant. Berufl. Gru."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000031",
+      "label": {
+        "german": "EFD",
+        "french": "DFF",
+        "italian": "DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Finanzdepartement",
+        "french": "Département fédéral des finances",
+        "italian": "Dipartimento federale delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008603",
+      "label": {
+        "german": "GS-EFD",
+        "french": "SG-DFF",
+        "italian": "SG-DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat EFD",
+        "french": "Secrétariat général DFF",
+        "italian": "Segreteria generale DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20041576",
+      "label": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      },
+      "name": {
+        "german": "Leitung GS-EFD",
+        "french": "Leitung GS-EFD",
+        "italian": "Leitung GS-EFD",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003843",
+      "label": {
+        "german": "Ressourcen EFD",
+        "french": "Ressources DFF",
+        "italian": "Risorse DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen EFD",
+        "french": "Ressources DFF",
+        "italian": "Risorse DFF",
+        "english": ""
+      }
+    },
+    {
+      "id": "20016876",
+      "label": {
+        "german": "Human Resources EFD",
+        "french": "Ressources humaines DFF",
+        "italian": "Risorse umane DFF",
+        "english": ""
+      },
+      "name": {
+        "german": "Human Resources EFD",
+        "french": "Ressources humaines DFF",
+        "italian": "Risorse umane DFF",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

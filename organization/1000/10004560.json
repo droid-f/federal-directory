@@ -1,1 +1,215 @@
-{"id"=>"10004560", "name"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 58 4638023", "fax"=>"+41 58 4644648", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10008851", "name"=>{"german"=>"Stab des Direktionsbereichs Prävention und Gesundheitsversorgung", "french"=>"État-major de l’unité de direction Prévention et soins", "italian"=>"Stato maggiore dell'unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20008703", "name"=>{"german"=>"Abteilung Gesundheitsstrategien", "french"=>"Division Stratégies de la santé", "italian"=>"Divisione strategie della sanità", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004570", "name"=>{"german"=>"Abteilung Prävention nichtübertragbarer Krankheiten", "french"=>"Division Prévention des maladies non transmissibles", "italian"=>"Divisione prevenzione delle malattie non trasmissibili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004565", "name"=>{"german"=>"Abteilung Übertragbare Krankheiten", "french"=>"Division Maladies transmissibles", "italian"=>"Divisione malattie trasmissibili", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10004562", "name"=>{"german"=>"Abteilung Gesundheitsberufe", "french"=>"Division Professions de la santé", "italian"=>"Divisione professioni sanitarie", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-10000118", "surname"=>"Nartey Stuber", "givenName"=>"Linda", "email"=>nil, "phone"=>"+41 58 46 58087", "function"=>{"german"=>"Ltg. DB PuG", "french"=>"Ltg. DB OeG", "italian"=>"Ltg. DB OeG", "english"=>"Ltg. DB PuG"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004560", "label"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004560",
+  "name": {
+    "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+    "french": "Unité de direction Prévention et soins",
+    "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 58 4638023",
+    "fax": "+41 58 4644648",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10008851",
+      "name": {
+        "german": "Stab des Direktionsbereichs Prävention und Gesundheitsversorgung",
+        "french": "État-major de l’unité de direction Prévention et soins",
+        "italian": "Stato maggiore dell'unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008703",
+      "name": {
+        "german": "Abteilung Gesundheitsstrategien",
+        "french": "Division Stratégies de la santé",
+        "italian": "Divisione strategie della sanità",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004570",
+      "name": {
+        "german": "Abteilung Prävention nichtübertragbarer Krankheiten",
+        "french": "Division Prévention des maladies non transmissibles",
+        "italian": "Divisione prevenzione delle malattie non trasmissibili",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004565",
+      "name": {
+        "german": "Abteilung Übertragbare Krankheiten",
+        "french": "Division Maladies transmissibles",
+        "italian": "Divisione malattie trasmissibili",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004562",
+      "name": {
+        "german": "Abteilung Gesundheitsberufe",
+        "french": "Division Professions de la santé",
+        "italian": "Divisione professioni sanitarie",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-10000118",
+      "surname": "Nartey Stuber",
+      "givenName": "Linda",
+      "email": null,
+      "phone": "+41 58 46 58087",
+      "function": {
+        "german": "Ltg. DB PuG",
+        "french": "Ltg. DB OeG",
+        "italian": "Ltg. DB OeG",
+        "english": "Ltg. DB PuG"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004560",
+      "label": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

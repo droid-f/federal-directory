@@ -1,1 +1,155 @@
-{"id"=>"20005056", "name"=>{"german"=>"Kommissariat WK 5 Lausanne", "french"=>"Commissariat WK 5 Lausanne", "italian"=>"Commissariato WK 5 Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Route de Chavannes 31", "postalCode"=>"1007", "location"=>"Lausanne", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009328", "label"=>{"german"=>"BKP", "french"=>"PJF", "italian"=>"PGF", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundeskriminalpolizei", "french"=>"Domaine de direction Police judiciaire fédérale", "italian"=>"Ambito direzionale Polizia giudiziaria federale", "english"=>""}}, {"id"=>"10009338", "label"=>{"german"=>"Abteilung Wirtschaftskriminalität", "french"=>"Division Criminalité économique", "italian"=>"Divisione Criminalità economica", "english"=>""}, "name"=>{"german"=>"Abteilung Wirtschaftskriminalität", "french"=>"Division Criminalité économique", "italian"=>"Divisione Criminalità economica", "english"=>""}}, {"id"=>"20005056", "label"=>{"german"=>"Kommissariat WK 5 Lausanne", "french"=>"Commissariat WK 5 Lausanne", "italian"=>"Commissariato WK 5 Losanna", "english"=>""}, "name"=>{"german"=>"Kommissariat WK 5 Lausanne", "french"=>"Commissariat WK 5 Lausanne", "italian"=>"Commissariato WK 5 Losanna", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005056",
+  "name": {
+    "german": "Kommissariat WK 5 Lausanne",
+    "french": "Commissariat WK 5 Lausanne",
+    "italian": "Commissariato WK 5 Losanna",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Route de Chavannes 31",
+    "postalCode": "1007",
+    "location": "Lausanne",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009328",
+      "label": {
+        "german": "BKP",
+        "french": "PJF",
+        "italian": "PGF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundeskriminalpolizei",
+        "french": "Domaine de direction Police judiciaire fédérale",
+        "italian": "Ambito direzionale Polizia giudiziaria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009338",
+      "label": {
+        "german": "Abteilung Wirtschaftskriminalität",
+        "french": "Division Criminalité économique",
+        "italian": "Divisione Criminalità economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Wirtschaftskriminalität",
+        "french": "Division Criminalité économique",
+        "italian": "Divisione Criminalità economica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005056",
+      "label": {
+        "german": "Kommissariat WK 5 Lausanne",
+        "french": "Commissariat WK 5 Lausanne",
+        "italian": "Commissariato WK 5 Losanna",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommissariat WK 5 Lausanne",
+        "french": "Commissariat WK 5 Lausanne",
+        "italian": "Commissariato WK 5 Losanna",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

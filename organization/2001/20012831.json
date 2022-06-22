@@ -1,1 +1,171 @@
-{"id"=>"20012831", "name"=>{"german"=>"Ressort Finanzhilfen für familienergänzende Kinderbetreuung", "french"=>"Unité Aides financières à l'accueil extra-familial pour enfants", "italian"=>"Unità Aiuti finanziari per la custodia di bambini complementare alla famiglia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7822404", "surname"=>"Louis", "givenName"=>"Cornelia", "email"=>nil, "phone"=>"+41 58 46 40741", "function"=>{"german"=>"Leiter/in Bereich", "french"=>"Responsable du secteur", "italian"=>"Capo del Settore", "english"=>"Leiter/in Bereich"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008685", "label"=>{"german"=>"BSV", "french"=>"OFAS", "italian"=>"UFAS", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sozialversicherungen", "french"=>"Office fédéral des assurances sociales", "italian"=>"Ufficio federale delle assicurazioni sociali", "english"=>""}}, {"id"=>"10003540", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10003595", "label"=>{"german"=>"Geschäftsfeld Familie, Generationen und Gesellschaft", "french"=>"Domaine Famille, générations et société", "italian"=>"Ambito Famiglia, generazioni e società", "english"=>""}, "name"=>{"german"=>"Geschäftsfeld Familie, Generationen und Gesellschaft", "french"=>"Domaine Famille, générations et société", "italian"=>"Ambito Famiglia, generazioni e società", "english"=>""}}, {"id"=>"20012826", "label"=>{"german"=>"Bereich Familienfragen", "french"=>"Secteur Questions familiales", "italian"=>"Settore Questioni familiari", "english"=>""}, "name"=>{"german"=>"Bereich Familienfragen", "french"=>"Secteur Questions familiales", "italian"=>"Settore Questioni familiari", "english"=>""}}, {"id"=>"20012831", "label"=>{"german"=>"Ressort Finanzhilfen für familienergänzende Kinderbetreuung", "french"=>"Unité Aides financières à l'accueil extra-familial pour enfants", "italian"=>"Unità Aiuti finanziari per la custodia di bambini complementare alla famiglia", "english"=>""}, "name"=>{"german"=>"Ressort Finanzhilfen für familienergänzende Kinderbetreuung", "french"=>"Unité Aides financières à l'accueil extra-familial pour enfants", "italian"=>"Unità Aiuti finanziari per la custodia di bambini complementare alla famiglia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012831",
+  "name": {
+    "german": "Ressort Finanzhilfen für familienergänzende Kinderbetreuung",
+    "french": "Unité Aides financières à l'accueil extra-familial pour enfants",
+    "italian": "Unità Aiuti finanziari per la custodia di bambini complementare alla famiglia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7822404",
+      "surname": "Louis",
+      "givenName": "Cornelia",
+      "email": null,
+      "phone": "+41 58 46 40741",
+      "function": {
+        "german": "Leiter/in Bereich",
+        "french": "Responsable du secteur",
+        "italian": "Capo del Settore",
+        "english": "Leiter/in Bereich"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008685",
+      "label": {
+        "german": "BSV",
+        "french": "OFAS",
+        "italian": "UFAS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sozialversicherungen",
+        "french": "Office fédéral des assurances sociales",
+        "italian": "Ufficio federale delle assicurazioni sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003540",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003595",
+      "label": {
+        "german": "Geschäftsfeld Familie, Generationen und Gesellschaft",
+        "french": "Domaine Famille, générations et société",
+        "italian": "Ambito Famiglia, generazioni e società",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsfeld Familie, Generationen und Gesellschaft",
+        "french": "Domaine Famille, générations et société",
+        "italian": "Ambito Famiglia, generazioni e società",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012826",
+      "label": {
+        "german": "Bereich Familienfragen",
+        "french": "Secteur Questions familiales",
+        "italian": "Settore Questioni familiari",
+        "english": ""
+      },
+      "name": {
+        "german": "Bereich Familienfragen",
+        "french": "Secteur Questions familiales",
+        "italian": "Settore Questioni familiari",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012831",
+      "label": {
+        "german": "Ressort Finanzhilfen für familienergänzende Kinderbetreuung",
+        "french": "Unité Aides financières à l'accueil extra-familial pour enfants",
+        "italian": "Unità Aiuti finanziari per la custodia di bambini complementare alla famiglia",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressort Finanzhilfen für familienergänzende Kinderbetreuung",
+        "french": "Unité Aides financières à l'accueil extra-familial pour enfants",
+        "italian": "Unità Aiuti finanziari per la custodia di bambini complementare alla famiglia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

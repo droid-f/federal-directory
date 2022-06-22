@@ -1,1 +1,135 @@
-{"id"=>"12080102@12.08", "name"=>{"german"=>"Richter", "french"=>"Juges", "italian"=>"Guidici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"", "location"=>"", "country"=>""}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-3243699", "surname"=>"Beusch", "givenName"=>"Michael", "email"=>nil, "phone"=>"+41 58 70 52533", "function"=>{"german"=>"Richter", "french"=>"Richter", "italian"=>"Richter", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-8282125", "surname"=>"Jomini", "givenName"=>"André", "email"=>nil, "phone"=>"+41 21 31 61250", "function"=>{"german"=>"Richter", "french"=>"Richter", "italian"=>"Richter", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-5715398", "surname"=>"Schneuwly", "givenName"=>"Laurent", "email"=>nil, "phone"=>"+41 26 30 56233", "function"=>{"german"=>"Richter, Stellvertreter des Präsidenten", "french"=>"Richter, Stellvertreter des Präsidenten", "italian"=>"Richter, Stellvertreter des Präsidenten", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-4563612", "surname"=>"Wehrenberg", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 44 21 36363", "function"=>{"german"=>"Richter", "french"=>"Richter", "italian"=>"Richter", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"12080100@12.08", "label"=>{"german"=>"MKG", "french"=>"TMC", "italian"=>"TMC", "english"=>""}, "name"=>{"german"=>"Militärkassationsgericht", "french"=>"Tribunal militaire de cassation", "italian"=>"Tribunale militare di cassazione", "english"=>""}}, {"id"=>"12080102@12.08", "label"=>{"german"=>"Richter", "french"=>"Juges", "italian"=>"Guidici", "english"=>""}, "name"=>{"german"=>"Richter", "french"=>"Juges", "italian"=>"Guidici", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12080102@12.08",
+  "name": {
+    "german": "Richter",
+    "french": "Juges",
+    "italian": "Guidici",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "",
+    "location": "",
+    "country": ""
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-3243699",
+      "surname": "Beusch",
+      "givenName": "Michael",
+      "email": null,
+      "phone": "+41 58 70 52533",
+      "function": {
+        "german": "Richter",
+        "french": "Richter",
+        "italian": "Richter",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8282125",
+      "surname": "Jomini",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 21 31 61250",
+      "function": {
+        "german": "Richter",
+        "french": "Richter",
+        "italian": "Richter",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5715398",
+      "surname": "Schneuwly",
+      "givenName": "Laurent",
+      "email": null,
+      "phone": "+41 26 30 56233",
+      "function": {
+        "german": "Richter, Stellvertreter des Präsidenten",
+        "french": "Richter, Stellvertreter des Präsidenten",
+        "italian": "Richter, Stellvertreter des Präsidenten",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-4563612",
+      "surname": "Wehrenberg",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 44 21 36363",
+      "function": {
+        "german": "Richter",
+        "french": "Richter",
+        "italian": "Richter",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "12080100@12.08",
+      "label": {
+        "german": "MKG",
+        "french": "TMC",
+        "italian": "TMC",
+        "english": ""
+      },
+      "name": {
+        "german": "Militärkassationsgericht",
+        "french": "Tribunal militaire de cassation",
+        "italian": "Tribunale militare di cassazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "12080102@12.08",
+      "label": {
+        "german": "Richter",
+        "french": "Juges",
+        "italian": "Guidici",
+        "english": ""
+      },
+      "name": {
+        "german": "Richter",
+        "french": "Juges",
+        "italian": "Guidici",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,140 @@
-{"id"=>"20047027", "name"=>{"german"=>"FFA Bern & Zürich Lokalverantw.", "french"=>"FFA Bern & Zürich Lokalverantw.", "italian"=>"FFA Bern & Zürich Lokalverantw.", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046826", "name"=>{"german"=>"FFA Team Möri", "french"=>"FFA Team Möri", "italian"=>"FFA Team Möri", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2920991", "surname"=>"Möri", "givenName"=>"Oliver", "email"=>nil, "phone"=>"+41 58 46 24983", "function"=>{"german"=>"Stellvertretender Leiter Forensische Finanzanalyse", "french"=>"Chef suppléant Analyse financière forensique", "italian"=>"Sostituto capo Analisi finanziaria forense", "english"=>"Stv. Leiter Forensische Finanzanalyse"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10008749", "label"=>{"german"=>"BA", "french"=>"BA", "italian"=>"BA", "english"=>""}, "name"=>{"german"=>"Bundesanwaltschaft", "french"=>"Ministère public de la Confédération", "italian"=>"Ministero pubblico della Confederazione", "english"=>""}}, {"id"=>"20027483", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20000928", "label"=>{"german"=>"Forensische Finanzanalyse", "french"=>"Analyse financière forensique", "italian"=>"Analisi finanziaria forense", "english"=>""}, "name"=>{"german"=>"Forensische Finanzanalyse", "french"=>"Analyse financière forensique", "italian"=>"Analisi finanziaria forense", "english"=>""}}, {"id"=>"20047027", "label"=>{"german"=>"FFA Bern & Zürich Lokalverantw.", "french"=>"FFA Bern & Zürich Lokalverantw.", "italian"=>"FFA Bern & Zürich Lokalverantw.", "english"=>""}, "name"=>{"german"=>"FFA Bern & Zürich Lokalverantw.", "french"=>"FFA Bern & Zürich Lokalverantw.", "italian"=>"FFA Bern & Zürich Lokalverantw.", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20047027",
+  "name": {
+    "german": "FFA Bern & Zürich Lokalverantw.",
+    "french": "FFA Bern & Zürich Lokalverantw.",
+    "italian": "FFA Bern & Zürich Lokalverantw.",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046826",
+      "name": {
+        "german": "FFA Team Möri",
+        "french": "FFA Team Möri",
+        "italian": "FFA Team Möri",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2920991",
+      "surname": "Möri",
+      "givenName": "Oliver",
+      "email": null,
+      "phone": "+41 58 46 24983",
+      "function": {
+        "german": "Stellvertretender Leiter Forensische Finanzanalyse",
+        "french": "Chef suppléant Analyse financière forensique",
+        "italian": "Sostituto capo Analisi finanziaria forense",
+        "english": "Stv. Leiter Forensische Finanzanalyse"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10008749",
+      "label": {
+        "german": "BA",
+        "french": "BA",
+        "italian": "BA",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesanwaltschaft",
+        "french": "Ministère public de la Confédération",
+        "italian": "Ministero pubblico della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027483",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20000928",
+      "label": {
+        "german": "Forensische Finanzanalyse",
+        "french": "Analyse financière forensique",
+        "italian": "Analisi finanziaria forense",
+        "english": ""
+      },
+      "name": {
+        "german": "Forensische Finanzanalyse",
+        "french": "Analyse financière forensique",
+        "italian": "Analisi finanziaria forense",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047027",
+      "label": {
+        "german": "FFA Bern & Zürich Lokalverantw.",
+        "french": "FFA Bern & Zürich Lokalverantw.",
+        "italian": "FFA Bern & Zürich Lokalverantw.",
+        "english": ""
+      },
+      "name": {
+        "german": "FFA Bern & Zürich Lokalverantw.",
+        "french": "FFA Bern & Zürich Lokalverantw.",
+        "italian": "FFA Bern & Zürich Lokalverantw.",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

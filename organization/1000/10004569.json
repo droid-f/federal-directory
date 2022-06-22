@@ -1,1 +1,171 @@
-{"id"=>"10004569", "name"=>{"german"=>"Sektion Impfempfehlungen und Bekämpfungsmassnahmen", "french"=>"Section Recommandations vaccinales et mesures de lutte", "italian"=>"Sezione raccomandazioni di vaccinazione e misure di lotta", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Schwarzenburgstr. 157", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1XJHMVLSJ", "surname"=>"Scherrer", "givenName"=>"Karin Sofia", "email"=>nil, "phone"=>"+41 58 48 08501", "function"=>{"german"=>"Wiss. Mitarbeiterin", "french"=>"Responsable de la section suppléant", "italian"=>"Caposezione supplente", "english"=>"Wiss. Mitarbeiterin"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008684", "label"=>{"german"=>"BAG", "french"=>"BAG", "italian"=>"BAG", "english"=>""}, "name"=>{"german"=>"Bundesamt für Gesundheit", "french"=>"Office fédéral de la santé publique", "italian"=>"Ufficio federale della sanità pubblica", "english"=>""}}, {"id"=>"10004550", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004560", "label"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Prävention und Gesundheitsversorgung", "french"=>"Unité de direction Prévention et soins", "italian"=>"Unità di direzione Prevenzione e assistenza sanitaria", "english"=>""}}, {"id"=>"10004565", "label"=>{"german"=>"Abteilung Übertragbare Krankheiten", "french"=>"Division Maladies transmissibles", "italian"=>"Divisione malattie trasmissibili", "english"=>""}, "name"=>{"german"=>"Abteilung Übertragbare Krankheiten", "french"=>"Division Maladies transmissibles", "italian"=>"Divisione malattie trasmissibili", "english"=>""}}, {"id"=>"10004569", "label"=>{"german"=>"Sektion Impfempfehlungen und Bekämpfungsmassnahmen", "french"=>"Section Recommandations vaccinales et mesures de lutte", "italian"=>"Sezione raccomandazioni di vaccinazione e misure di lotta", "english"=>""}, "name"=>{"german"=>"Sektion Impfempfehlungen und Bekämpfungsmassnahmen", "french"=>"Section Recommandations vaccinales et mesures de lutte", "italian"=>"Sezione raccomandazioni di vaccinazione e misure di lotta", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004569",
+  "name": {
+    "german": "Sektion Impfempfehlungen und Bekämpfungsmassnahmen",
+    "french": "Section Recommandations vaccinales et mesures de lutte",
+    "italian": "Sezione raccomandazioni di vaccinazione e misure di lotta",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Schwarzenburgstr. 157",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1XJHMVLSJ",
+      "surname": "Scherrer",
+      "givenName": "Karin Sofia",
+      "email": null,
+      "phone": "+41 58 48 08501",
+      "function": {
+        "german": "Wiss. Mitarbeiterin",
+        "french": "Responsable de la section suppléant",
+        "italian": "Caposezione supplente",
+        "english": "Wiss. Mitarbeiterin"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008684",
+      "label": {
+        "german": "BAG",
+        "french": "BAG",
+        "italian": "BAG",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Gesundheit",
+        "french": "Office fédéral de la santé publique",
+        "italian": "Ufficio federale della sanità pubblica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004550",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004560",
+      "label": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Prävention und Gesundheitsversorgung",
+        "french": "Unité de direction Prévention et soins",
+        "italian": "Unità di direzione Prevenzione e assistenza sanitaria",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004565",
+      "label": {
+        "german": "Abteilung Übertragbare Krankheiten",
+        "french": "Division Maladies transmissibles",
+        "italian": "Divisione malattie trasmissibili",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Übertragbare Krankheiten",
+        "french": "Division Maladies transmissibles",
+        "italian": "Divisione malattie trasmissibili",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004569",
+      "label": {
+        "german": "Sektion Impfempfehlungen und Bekämpfungsmassnahmen",
+        "french": "Section Recommandations vaccinales et mesures de lutte",
+        "italian": "Sezione raccomandazioni di vaccinazione e misure di lotta",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Impfempfehlungen und Bekämpfungsmassnahmen",
+        "french": "Section Recommandations vaccinales et mesures de lutte",
+        "italian": "Sezione raccomandazioni di vaccinazione e misure di lotta",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

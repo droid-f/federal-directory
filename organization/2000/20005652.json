@@ -1,1 +1,184 @@
-{"id"=>"20005652", "name"=>{"german"=>"Arbeitsmarktindikatoren", "french"=>"Indicateurs du marché du travail", "italian"=>"Indicatori del mercato del lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2161948", "surname"=>"Deplazes", "givenName"=>"Jonas", "email"=>nil, "phone"=>"+41 58 46 36402", "function"=>{"german"=>"Gruppenleiter/in", "french"=>"Gruppenleiter/in", "italian"=>"Gruppenleiter/in", "english"=>"Gruppenleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-5216469", "surname"=>"Schöbi", "givenName"=>"Nicole", "email"=>nil, "phone"=>"+41 58 46 36773", "function"=>{"german"=>"Wiss. Mitarbeiter/in", "french"=>"Wiss. Mitarbeiter/in", "italian"=>"Wiss. Mitarbeiter/in", "english"=>"Wiss. Mitarbeiter/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004662", "label"=>{"german"=>"Abteilung Bevölkerung und Bildung", "french"=>"Division Population et formation", "italian"=>"Divisione Popolazione e formazione", "english"=>""}, "name"=>{"german"=>"Abteilung Bevölkerung und Bildung", "french"=>"Division Population et formation", "italian"=>"Divisione Popolazione e formazione", "english"=>""}}, {"id"=>"20005138", "label"=>{"german"=>"Sektion Arbeit und Erwerbsleben", "french"=>"Section Travail et vie active", "italian"=>"Sezione Lavoro e occupazione", "english"=>""}, "name"=>{"german"=>"Sektion Arbeit und Erwerbsleben", "french"=>"Section Travail et vie active", "italian"=>"Sezione Lavoro e occupazione", "english"=>""}}, {"id"=>"20005652", "label"=>{"german"=>"Arbeitsmarktindikatoren", "french"=>"Indicateurs du marché du travail", "italian"=>"Indicatori del mercato del lavoro", "english"=>""}, "name"=>{"german"=>"Arbeitsmarktindikatoren", "french"=>"Indicateurs du marché du travail", "italian"=>"Indicatori del mercato del lavoro", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005652",
+  "name": {
+    "german": "Arbeitsmarktindikatoren",
+    "french": "Indicateurs du marché du travail",
+    "italian": "Indicatori del mercato del lavoro",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2161948",
+      "surname": "Deplazes",
+      "givenName": "Jonas",
+      "email": null,
+      "phone": "+41 58 46 36402",
+      "function": {
+        "german": "Gruppenleiter/in",
+        "french": "Gruppenleiter/in",
+        "italian": "Gruppenleiter/in",
+        "english": "Gruppenleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-5216469",
+      "surname": "Schöbi",
+      "givenName": "Nicole",
+      "email": null,
+      "phone": "+41 58 46 36773",
+      "function": {
+        "german": "Wiss. Mitarbeiter/in",
+        "french": "Wiss. Mitarbeiter/in",
+        "italian": "Wiss. Mitarbeiter/in",
+        "english": "Wiss. Mitarbeiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004662",
+      "label": {
+        "german": "Abteilung Bevölkerung und Bildung",
+        "french": "Division Population et formation",
+        "italian": "Divisione Popolazione e formazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Bevölkerung und Bildung",
+        "french": "Division Population et formation",
+        "italian": "Divisione Popolazione e formazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005138",
+      "label": {
+        "german": "Sektion Arbeit und Erwerbsleben",
+        "french": "Section Travail et vie active",
+        "italian": "Sezione Lavoro e occupazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Arbeit und Erwerbsleben",
+        "french": "Section Travail et vie active",
+        "italian": "Sezione Lavoro e occupazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005652",
+      "label": {
+        "german": "Arbeitsmarktindikatoren",
+        "french": "Indicateurs du marché du travail",
+        "italian": "Indicatori del mercato del lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Arbeitsmarktindikatoren",
+        "french": "Indicateurs du marché du travail",
+        "italian": "Indicatori del mercato del lavoro",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,207 @@
-{"id"=>"12010105@12.01", "name"=>{"german"=>"Führungs- und Einsatzunterstützung", "french"=>"Führungs- und Einsatzunterstützung", "italian"=>"Führungs- und Einsatzunterstützung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-0108129", "surname"=>"Achler", "givenName"=>"Karin", "email"=>nil, "phone"=>"+41 58 46 25019", "function"=>{"german"=>"Leiterin Assistenz", "french"=>"Leiterin Assistenz", "italian"=>"Leiterin Assistenz", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-8340046", "surname"=>"Brossard", "givenName"=>"Jean-Claude", "email"=>nil, "phone"=>"+41 58 46 25030", "function"=>{"german"=>"Chef Führungs- und Einsatzunterstützung", "french"=>"Chef Führungs- und Einsatzunterstützung", "italian"=>"Chef Führungs- und Einsatzunterstützung", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-5410832", "surname"=>"Bürgi", "givenName"=>"Philipp", "email"=>nil, "phone"=>"+41 58 46 33048", "function"=>{"german"=>"Stv Chefin Rechtsdienst", "french"=>"Stv Chefin Rechtsdienst", "italian"=>"Stv Chefin Rechtsdienst", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-3875071", "surname"=>"Cornut", "givenName"=>"Claudia", "email"=>nil, "phone"=>"+41 58 46 45237", "function"=>{"german"=>"Stv Leiterin Assistenz", "french"=>"Stv Leiterin Assistenz", "italian"=>"Stv Leiterin Assistenz", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-6436214", "surname"=>"Milani", "givenName"=>"Roland", "email"=>nil, "phone"=>"+41 58 46 21082", "function"=>{"german"=>"Chef Betrieb", "french"=>"Chef Betrieb", "italian"=>"Chef Betrieb", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-1753408", "surname"=>"Schaer", "givenName"=>"Andrea", "email"=>nil, "phone"=>"+41 58 46 42671", "function"=>{"german"=>"Chefin Rechtsdienst", "french"=>"Chefin Rechtsdienst", "italian"=>"Chefin Rechtsdienst", "english"=>""}, "isVisibleInEstKa"=>true}, {"id"=>"p-8126265", "surname"=>"Siegenthaler", "givenName"=>"Daniel", "email"=>nil, "phone"=>"+41 58 46 45169", "function"=>{"german"=>"Chef Ressourcen", "french"=>"Chef Ressourcen", "italian"=>"Chef Ressourcen", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20027226", "label"=>{"german"=>"NDB", "french"=>"SRC", "italian"=>"SIC", "english"=>""}, "name"=>{"german"=>"Nachrichtendienst des Bundes", "french"=>"Service de renseignement de la Confédération", "italian"=>"Servizio delle attività informative della Confederazione", "english"=>""}}, {"id"=>"12010105@12.01", "label"=>{"german"=>"Führungs- und Einsatzunterstützung", "french"=>"Führungs- und Einsatzunterstützung", "italian"=>"Führungs- und Einsatzunterstützung", "english"=>""}, "name"=>{"german"=>"Führungs- und Einsatzunterstützung", "french"=>"Führungs- und Einsatzunterstützung", "italian"=>"Führungs- und Einsatzunterstützung", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12010105@12.01",
+  "name": {
+    "german": "Führungs- und Einsatzunterstützung",
+    "french": "Führungs- und Einsatzunterstützung",
+    "italian": "Führungs- und Einsatzunterstützung",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-0108129",
+      "surname": "Achler",
+      "givenName": "Karin",
+      "email": null,
+      "phone": "+41 58 46 25019",
+      "function": {
+        "german": "Leiterin Assistenz",
+        "french": "Leiterin Assistenz",
+        "italian": "Leiterin Assistenz",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8340046",
+      "surname": "Brossard",
+      "givenName": "Jean-Claude",
+      "email": null,
+      "phone": "+41 58 46 25030",
+      "function": {
+        "german": "Chef Führungs- und Einsatzunterstützung",
+        "french": "Chef Führungs- und Einsatzunterstützung",
+        "italian": "Chef Führungs- und Einsatzunterstützung",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-5410832",
+      "surname": "Bürgi",
+      "givenName": "Philipp",
+      "email": null,
+      "phone": "+41 58 46 33048",
+      "function": {
+        "german": "Stv Chefin Rechtsdienst",
+        "french": "Stv Chefin Rechtsdienst",
+        "italian": "Stv Chefin Rechtsdienst",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-3875071",
+      "surname": "Cornut",
+      "givenName": "Claudia",
+      "email": null,
+      "phone": "+41 58 46 45237",
+      "function": {
+        "german": "Stv Leiterin Assistenz",
+        "french": "Stv Leiterin Assistenz",
+        "italian": "Stv Leiterin Assistenz",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6436214",
+      "surname": "Milani",
+      "givenName": "Roland",
+      "email": null,
+      "phone": "+41 58 46 21082",
+      "function": {
+        "german": "Chef Betrieb",
+        "french": "Chef Betrieb",
+        "italian": "Chef Betrieb",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-1753408",
+      "surname": "Schaer",
+      "givenName": "Andrea",
+      "email": null,
+      "phone": "+41 58 46 42671",
+      "function": {
+        "german": "Chefin Rechtsdienst",
+        "french": "Chefin Rechtsdienst",
+        "italian": "Chefin Rechtsdienst",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8126265",
+      "surname": "Siegenthaler",
+      "givenName": "Daniel",
+      "email": null,
+      "phone": "+41 58 46 45169",
+      "function": {
+        "german": "Chef Ressourcen",
+        "french": "Chef Ressourcen",
+        "italian": "Chef Ressourcen",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027226",
+      "label": {
+        "german": "NDB",
+        "french": "SRC",
+        "italian": "SIC",
+        "english": ""
+      },
+      "name": {
+        "german": "Nachrichtendienst des Bundes",
+        "french": "Service de renseignement de la Confédération",
+        "italian": "Servizio delle attività informative della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "12010105@12.01",
+      "label": {
+        "german": "Führungs- und Einsatzunterstützung",
+        "french": "Führungs- und Einsatzunterstützung",
+        "italian": "Führungs- und Einsatzunterstützung",
+        "english": ""
+      },
+      "name": {
+        "german": "Führungs- und Einsatzunterstützung",
+        "french": "Führungs- und Einsatzunterstützung",
+        "italian": "Führungs- und Einsatzunterstützung",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

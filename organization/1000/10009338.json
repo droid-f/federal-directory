@@ -1,1 +1,292 @@
-{"id"=>"10009338", "name"=>{"german"=>"Abteilung Wirtschaftskriminalität", "french"=>"Division Criminalité économique", "italian"=>"Divisione Criminalità economica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1A", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"10009339", "name"=>{"german"=>"Kommissariat WK 1 Bern", "french"=>"Commissariat WK 1 Berne", "italian"=>"Commissariato WK 1 Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10011211", "name"=>{"german"=>"Kommissariat WK 2 Bern", "french"=>"Commissariat WK 2 Berne", "italian"=>"Commissariato WK 2 Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10011212", "name"=>{"german"=>"Kommissariat WK 3 Bern", "french"=>"Commissariat WK 3 Berne", "italian"=>"Commissariato WK 3 Berna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005055", "name"=>{"german"=>"Kommissariat WK 4 Lausanne", "french"=>"Commissariat WK 4 Lausanne", "italian"=>"Commissariato WK 4 Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005056", "name"=>{"german"=>"Kommissariat WK 5 Lausanne", "french"=>"Commissariat WK 5 Lausanne", "italian"=>"Commissariato WK 5 Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005061", "name"=>{"german"=>"Kommissariat WK 7 Lugano", "french"=>"Commissariat WK 7 Lugano", "italian"=>"Commissariato WK 7 Lugano", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005057", "name"=>{"german"=>"Kommissariat WK 8 Zürich", "french"=>"Commissariat WK 8 Zurich", "italian"=>"Commissariato WK 8 Zurigo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005058", "name"=>{"german"=>"Kommissariat WK 9 Zürich", "french"=>"Commissariat WK 9 Zurich", "italian"=>"Commissariato WK 9 Zurigo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9882348", "surname"=>"Favre", "givenName"=>"Yanick", "email"=>nil, "phone"=>"+41 58 48 33379", "function"=>{"german"=>"Abteilungschef/in", "french"=>"Abteilungschef/in", "italian"=>"Abteilungschef/in", "english"=>"Abteilungschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-7178495", "surname"=>"Ryff", "givenName"=>"Hans Peter", "email"=>nil, "phone"=>"+41 58 46 24474", "function"=>{"german"=>"Stv AC / Standortleiter/in", "french"=>"Stv AC / Standortleiter/in", "italian"=>"Stv AC / Standortleiter/in", "english"=>"Stv AC / Standortleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"10009184", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Bundesamt für Polizei", "french"=>"Office fédéral de la Police", "italian"=>"Ufficio federale di polizia", "english"=>""}}, {"id"=>"10009268", "label"=>{"german"=>"fedpol", "french"=>"fedpol", "italian"=>"fedpol", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10009328", "label"=>{"german"=>"BKP", "french"=>"PJF", "italian"=>"PGF", "english"=>""}, "name"=>{"german"=>"Direktionsbereich Bundeskriminalpolizei", "french"=>"Domaine de direction Police judiciaire fédérale", "italian"=>"Ambito direzionale Polizia giudiziaria federale", "english"=>""}}, {"id"=>"10009338", "label"=>{"german"=>"Abteilung Wirtschaftskriminalität", "french"=>"Division Criminalité économique", "italian"=>"Divisione Criminalità economica", "english"=>""}, "name"=>{"german"=>"Abteilung Wirtschaftskriminalität", "french"=>"Division Criminalité économique", "italian"=>"Divisione Criminalità economica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10009338",
+  "name": {
+    "german": "Abteilung Wirtschaftskriminalität",
+    "french": "Division Criminalité économique",
+    "italian": "Divisione Criminalità economica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1A",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "10009339",
+      "name": {
+        "german": "Kommissariat WK 1 Bern",
+        "french": "Commissariat WK 1 Berne",
+        "italian": "Commissariato WK 1 Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011211",
+      "name": {
+        "german": "Kommissariat WK 2 Bern",
+        "french": "Commissariat WK 2 Berne",
+        "italian": "Commissariato WK 2 Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10011212",
+      "name": {
+        "german": "Kommissariat WK 3 Bern",
+        "french": "Commissariat WK 3 Berne",
+        "italian": "Commissariato WK 3 Berna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005055",
+      "name": {
+        "german": "Kommissariat WK 4 Lausanne",
+        "french": "Commissariat WK 4 Lausanne",
+        "italian": "Commissariato WK 4 Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005056",
+      "name": {
+        "german": "Kommissariat WK 5 Lausanne",
+        "french": "Commissariat WK 5 Lausanne",
+        "italian": "Commissariato WK 5 Losanna",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005061",
+      "name": {
+        "german": "Kommissariat WK 7 Lugano",
+        "french": "Commissariat WK 7 Lugano",
+        "italian": "Commissariato WK 7 Lugano",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005057",
+      "name": {
+        "german": "Kommissariat WK 8 Zürich",
+        "french": "Commissariat WK 8 Zurich",
+        "italian": "Commissariato WK 8 Zurigo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005058",
+      "name": {
+        "german": "Kommissariat WK 9 Zürich",
+        "french": "Commissariat WK 9 Zurich",
+        "italian": "Commissariato WK 9 Zurigo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9882348",
+      "surname": "Favre",
+      "givenName": "Yanick",
+      "email": null,
+      "phone": "+41 58 48 33379",
+      "function": {
+        "german": "Abteilungschef/in",
+        "french": "Abteilungschef/in",
+        "italian": "Abteilungschef/in",
+        "english": "Abteilungschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-7178495",
+      "surname": "Ryff",
+      "givenName": "Hans Peter",
+      "email": null,
+      "phone": "+41 58 46 24474",
+      "function": {
+        "german": "Stv AC / Standortleiter/in",
+        "french": "Stv AC / Standortleiter/in",
+        "italian": "Stv AC / Standortleiter/in",
+        "english": "Stv AC / Standortleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009184",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Polizei",
+        "french": "Office fédéral de la Police",
+        "italian": "Ufficio federale di polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009268",
+      "label": {
+        "german": "fedpol",
+        "french": "fedpol",
+        "italian": "fedpol",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009328",
+      "label": {
+        "german": "BKP",
+        "french": "PJF",
+        "italian": "PGF",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktionsbereich Bundeskriminalpolizei",
+        "french": "Domaine de direction Police judiciaire fédérale",
+        "italian": "Ambito direzionale Polizia giudiziaria federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009338",
+      "label": {
+        "german": "Abteilung Wirtschaftskriminalität",
+        "french": "Division Criminalité économique",
+        "italian": "Divisione Criminalità economica",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Wirtschaftskriminalität",
+        "french": "Division Criminalité économique",
+        "italian": "Divisione Criminalità economica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

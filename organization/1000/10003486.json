@@ -1,1 +1,232 @@
-{"id"=>"10003486", "name"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Seftigenstrasse 264", "postalCode"=>"3084", "location"=>"Wabern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20018705", "name"=>{"german"=>"Bilddaten und Kriseninformation", "french"=>"Données d'images et information de crise", "italian"=>"Immagini e informatione di crisi", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018713", "name"=>{"german"=>"Höhenmodelle", "french"=>"Modèles altimétriques", "italian"=>"Modelli altimetrici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018706", "name"=>{"german"=>"Topografisches Landschaftsmodell", "french"=>"Modèle topographique du paysage", "italian"=>"Modello topografico del paesaggio", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018707", "name"=>{"german"=>"Geodatenbeschaffung und abgeleitete Modelle", "french"=>"Acquisition de géodonnées et modèles dérivés", "italian"=>"Acquisizione di geodati e modelli derivati", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018708", "name"=>{"german"=>"Geodatenabgabe und analoge Sammlung", "french"=>"Distribution des géodonnées et collections analogues", "italian"=>"Distribuzione di geodati e collezione analogici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20018709", "name"=>{"german"=>"Innovation", "french"=>"Innovation", "italian"=>"Innovazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8774508", "surname"=>"Streilein", "givenName"=>"André", "email"=>nil, "phone"=>"+41 58 46 90293", "function"=>{"german"=>"Chef/in Topografie", "french"=>"Resp. de la topographie", "italian"=>"Capo della topografia", "english"=>"Chef/in Topografie"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-6245288", "surname"=>"Schmassmann", "givenName"=>"Emanuel", "email"=>nil, "phone"=>"+41 58 46 90412", "function"=>{"german"=>"PzL TLM / Stv. BL Topografie", "french"=>"Rp MTP / Rsd Topographie", "italian"=>"Rp MTP / Rsd topografia", "english"=>"PzL TLM / Stv. BL Topografie"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"10003466", "label"=>{"german"=>"swisstopo", "french"=>"swisstopo", "italian"=>"swisstopo", "english"=>""}, "name"=>{"german"=>"Bundesamt für Landestopografie swisstopo", "french"=>"Office fédéral de topographie swisstopo", "italian"=>"Ufficio federale di topografia swisstopo", "english"=>""}}, {"id"=>"10003486", "label"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}, "name"=>{"german"=>"Topografie", "french"=>"Topographie", "italian"=>"Topografia", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003486",
+  "name": {
+    "german": "Topografie",
+    "french": "Topographie",
+    "italian": "Topografia",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Seftigenstrasse 264",
+    "postalCode": "3084",
+    "location": "Wabern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20018705",
+      "name": {
+        "german": "Bilddaten und Kriseninformation",
+        "french": "Données d'images et information de crise",
+        "italian": "Immagini e informatione di crisi",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018713",
+      "name": {
+        "german": "Höhenmodelle",
+        "french": "Modèles altimétriques",
+        "italian": "Modelli altimetrici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018706",
+      "name": {
+        "german": "Topografisches Landschaftsmodell",
+        "french": "Modèle topographique du paysage",
+        "italian": "Modello topografico del paesaggio",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018707",
+      "name": {
+        "german": "Geodatenbeschaffung und abgeleitete Modelle",
+        "french": "Acquisition de géodonnées et modèles dérivés",
+        "italian": "Acquisizione di geodati e modelli derivati",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018708",
+      "name": {
+        "german": "Geodatenabgabe und analoge Sammlung",
+        "french": "Distribution des géodonnées et collections analogues",
+        "italian": "Distribuzione di geodati e collezione analogici",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20018709",
+      "name": {
+        "german": "Innovation",
+        "french": "Innovation",
+        "italian": "Innovazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8774508",
+      "surname": "Streilein",
+      "givenName": "André",
+      "email": null,
+      "phone": "+41 58 46 90293",
+      "function": {
+        "german": "Chef/in Topografie",
+        "french": "Resp. de la topographie",
+        "italian": "Capo della topografia",
+        "english": "Chef/in Topografie"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-6245288",
+      "surname": "Schmassmann",
+      "givenName": "Emanuel",
+      "email": null,
+      "phone": "+41 58 46 90412",
+      "function": {
+        "german": "PzL TLM / Stv. BL Topografie",
+        "french": "Rp MTP / Rsd Topographie",
+        "italian": "Rp MTP / Rsd topografia",
+        "english": "PzL TLM / Stv. BL Topografie"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003466",
+      "label": {
+        "german": "swisstopo",
+        "french": "swisstopo",
+        "italian": "swisstopo",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Landestopografie swisstopo",
+        "french": "Office fédéral de topographie swisstopo",
+        "italian": "Ufficio federale di topografia swisstopo",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003486",
+      "label": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      },
+      "name": {
+        "german": "Topografie",
+        "french": "Topographie",
+        "italian": "Topografia",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

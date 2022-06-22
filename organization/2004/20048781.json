@@ -1,1 +1,195 @@
-{"id"=>"20048781", "name"=>{"german"=>"Abteilung IV Kammer 2.2", "french"=>"Cour IV Chambre 2.1", "italian"=>"Corte IV Camera 2.1", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Kreuzackerstrasse 12", "postalCode"=>"9023", "location"=>"St. Gallen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-6291715", "surname"=>"Spälti Giannakitsas", "givenName"=>"Nina", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Richter/in Abteilung IV", "french"=>"Juge Cour IV", "italian"=>"Giudice Corte IV", "english"=>"Richter/in Abteilung IV"}, "isVisibleInEstKa"=>true}], "persons"=>[{"id"=>"p-7208539", "surname"=>"Hefti", "givenName"=>"Angela", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung IV", "french"=>"Greffier/Greffière Cour IV", "italian"=>"Cancelliere/a Corte IV", "english"=>"Gerichtsschreiber/in Abteilung IV"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6974051", "surname"=>"Hruschka", "givenName"=>"Constantin", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung IV", "french"=>"Greffier/Greffière Cour IV", "italian"=>"Cancelliere/a Corte IV", "english"=>"Gerichtsschreiber/in Abteilung IV"}, "isVisibleInEstKa"=>true}, {"id"=>"p-8221631", "surname"=>"Mauerhofer", "givenName"=>"Lorenz", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in Abteilung IV", "french"=>"Greffier/Greffière Cour IV", "italian"=>"Cancelliere/a Corte IV", "english"=>"Gerichtsschreiber/in Abteilung IV"}, "isVisibleInEstKa"=>true}, {"id"=>"p-7328512", "surname"=>"Sonderegger", "givenName"=>"Linus", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung IV", "french"=>"Greffier/Greffière II Cour IV", "italian"=>"Cancelliere/a II Corte IV", "english"=>"Gerichtsschreiber/in II Abteilung IV"}, "isVisibleInEstKa"=>true}, {"id"=>"p-2556296", "surname"=>"Steiner", "givenName"=>"Sara", "email"=>nil, "phone"=>"+41 58 46 52690", "function"=>{"german"=>"Gerichtsschreiber/in II Abteilung IV", "french"=>"Greffier/Greffière II Cour IV", "italian"=>"Cancelliere/a II Corte IV", "english"=>"Gerichtsschreiber/in II Abteilung IV"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20009002", "label"=>{"german"=>"BVGer", "french"=>"BVGer", "italian"=>"BVGer", "english"=>""}, "name"=>{"german"=>"Bundesverwaltungsgericht", "french"=>"Tribunal administratif fédéral", "italian"=>"Tribunale amministrativo federale", "english"=>""}}, {"id"=>"20014851", "label"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}, "name"=>{"german"=>"Abteilung IV - Asyl", "french"=>"Cour IV - asile", "italian"=>"Corte IV - asilo", "english"=>""}}, {"id"=>"20030177", "label"=>{"german"=>"Abteilung IV Kammer 2", "french"=>"Cour IV Chambre 2", "italian"=>"Cour IV Camera 2", "english"=>""}, "name"=>{"german"=>"Abteilung IV Kammer 2", "french"=>"Cour IV Chambre 2", "italian"=>"Cour IV Camera 2", "english"=>""}}, {"id"=>"20048781", "label"=>{"german"=>"Abteilung IV Kammer 2.2", "french"=>"Cour IV Chambre 2.1", "italian"=>"Corte IV Camera 2.1", "english"=>""}, "name"=>{"german"=>"Abteilung IV Kammer 2.2", "french"=>"Cour IV Chambre 2.1", "italian"=>"Corte IV Camera 2.1", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20048781",
+  "name": {
+    "german": "Abteilung IV Kammer 2.2",
+    "french": "Cour IV Chambre 2.1",
+    "italian": "Corte IV Camera 2.1",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Kreuzackerstrasse 12",
+    "postalCode": "9023",
+    "location": "St. Gallen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-6291715",
+      "surname": "Spälti Giannakitsas",
+      "givenName": "Nina",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Richter/in Abteilung IV",
+        "french": "Juge Cour IV",
+        "italian": "Giudice Corte IV",
+        "english": "Richter/in Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+    {
+      "id": "p-7208539",
+      "surname": "Hefti",
+      "givenName": "Angela",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung IV",
+        "french": "Greffier/Greffière Cour IV",
+        "italian": "Cancelliere/a Corte IV",
+        "english": "Gerichtsschreiber/in Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6974051",
+      "surname": "Hruschka",
+      "givenName": "Constantin",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung IV",
+        "french": "Greffier/Greffière Cour IV",
+        "italian": "Cancelliere/a Corte IV",
+        "english": "Gerichtsschreiber/in Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-8221631",
+      "surname": "Mauerhofer",
+      "givenName": "Lorenz",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in Abteilung IV",
+        "french": "Greffier/Greffière Cour IV",
+        "italian": "Cancelliere/a Corte IV",
+        "english": "Gerichtsschreiber/in Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-7328512",
+      "surname": "Sonderegger",
+      "givenName": "Linus",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung IV",
+        "french": "Greffier/Greffière II Cour IV",
+        "italian": "Cancelliere/a II Corte IV",
+        "english": "Gerichtsschreiber/in II Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-2556296",
+      "surname": "Steiner",
+      "givenName": "Sara",
+      "email": null,
+      "phone": "+41 58 46 52690",
+      "function": {
+        "german": "Gerichtsschreiber/in II Abteilung IV",
+        "french": "Greffier/Greffière II Cour IV",
+        "italian": "Cancelliere/a II Corte IV",
+        "english": "Gerichtsschreiber/in II Abteilung IV"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20009002",
+      "label": {
+        "german": "BVGer",
+        "french": "BVGer",
+        "italian": "BVGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesverwaltungsgericht",
+        "french": "Tribunal administratif fédéral",
+        "italian": "Tribunale amministrativo federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014851",
+      "label": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV - Asyl",
+        "french": "Cour IV - asile",
+        "italian": "Corte IV - asilo",
+        "english": ""
+      }
+    },
+    {
+      "id": "20030177",
+      "label": {
+        "german": "Abteilung IV Kammer 2",
+        "french": "Cour IV Chambre 2",
+        "italian": "Cour IV Camera 2",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV Kammer 2",
+        "french": "Cour IV Chambre 2",
+        "italian": "Cour IV Camera 2",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048781",
+      "label": {
+        "german": "Abteilung IV Kammer 2.2",
+        "french": "Cour IV Chambre 2.1",
+        "italian": "Corte IV Camera 2.1",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung IV Kammer 2.2",
+        "french": "Cour IV Chambre 2.1",
+        "italian": "Corte IV Camera 2.1",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

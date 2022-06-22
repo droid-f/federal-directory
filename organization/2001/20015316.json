@@ -1,1 +1,138 @@
-{"id"=>"20015316", "name"=>{"german"=>"Sprachdienste", "french"=>"Services linguistiques", "italian"=>"Servizi linguistici", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Mühlestrasse 6", "postalCode"=>"3063", "location"=>"Ittigen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-4362960", "surname"=>"De Giovanni", "givenName"=>"Francesca", "email"=>nil, "phone"=>"+41 58 46 05294", "function"=>{"german"=>"Übersetzer/in italienisch", "french"=>"Übersetzer/in italienisch", "italian"=>"Übersetzer/in italienisch", "english"=>"Übersetzer/in italienisch"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"10008753", "label"=>{"german"=>"BAV", "french"=>"OFT", "italian"=>"UFT", "english"=>""}, "name"=>{"german"=>"Bundesamt für Verkehr", "french"=>"Office fédéral des transports", "italian"=>"Ufficio federale dei trasporti", "english"=>""}}, {"id"=>"10005020", "label"=>{"german"=>"Betriebswirtschaft und Organisation", "french"=>"Economie d'entreprise et organisation", "italian"=>"Economia aziendale e organizazzione", "english"=>""}, "name"=>{"german"=>"Betriebswirtschaft und Organisation", "french"=>"Economie d'entreprise et organisation", "italian"=>"Economia aziendale e organizazzione", "english"=>""}}, {"id"=>"20015316", "label"=>{"german"=>"Sprachdienste", "french"=>"Services linguistiques", "italian"=>"Servizi linguistici", "english"=>""}, "name"=>{"german"=>"Sprachdienste", "french"=>"Services linguistiques", "italian"=>"Servizi linguistici", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20015316",
+  "name": {
+    "german": "Sprachdienste",
+    "french": "Services linguistiques",
+    "italian": "Servizi linguistici",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Mühlestrasse 6",
+    "postalCode": "3063",
+    "location": "Ittigen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-4362960",
+      "surname": "De Giovanni",
+      "givenName": "Francesca",
+      "email": null,
+      "phone": "+41 58 46 05294",
+      "function": {
+        "german": "Übersetzer/in italienisch",
+        "french": "Übersetzer/in italienisch",
+        "italian": "Übersetzer/in italienisch",
+        "english": "Übersetzer/in italienisch"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008753",
+      "label": {
+        "german": "BAV",
+        "french": "OFT",
+        "italian": "UFT",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Verkehr",
+        "french": "Office fédéral des transports",
+        "italian": "Ufficio federale dei trasporti",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005020",
+      "label": {
+        "german": "Betriebswirtschaft und Organisation",
+        "french": "Economie d'entreprise et organisation",
+        "italian": "Economia aziendale e organizazzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Betriebswirtschaft und Organisation",
+        "french": "Economie d'entreprise et organisation",
+        "italian": "Economia aziendale e organizazzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015316",
+      "label": {
+        "german": "Sprachdienste",
+        "french": "Services linguistiques",
+        "italian": "Servizi linguistici",
+        "english": ""
+      },
+      "name": {
+        "german": "Sprachdienste",
+        "french": "Services linguistiques",
+        "italian": "Servizi linguistici",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

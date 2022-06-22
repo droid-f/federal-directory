@@ -1,1 +1,262 @@
-{"id"=>"10004675", "name"=>{"german"=>"Sektion Löhne und Arbeitsbedingungen", "french"=>"Section Salaires et conditions de travail", "italian"=>"Sezione Salari e condizioni di lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20015502", "name"=>{"german"=>"Support - Information", "french"=>"Support - Information", "italian"=>"Supporto - Informazioni", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005927", "name"=>{"german"=>"Gesamtarbeitsverträge und Arbeitsbedingungen", "french"=>"Conventions collectives et conditions de travail", "italian"=>"Contratti collettivi e condizioni di lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20021311", "name"=>{"german"=>"Lohnindex", "french"=>"Indice des salaires", "italian"=>"Indice dei salari", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20005926", "name"=>{"german"=>"Lohnstruktur und Arbeitskosten LSE", "french"=>"Structure des salaires et coûts du travail LSE", "italian"=>"Struttura dei salari e costi del lavoro RSS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027558", "name"=>{"german"=>"Modernisierung - Entwicklung", "french"=>"Modernisation - Développement", "italian"=>"Modernizzazione - Sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048052", "name"=>{"german"=>"Pool Extern Westschweiz", "french"=>"Modernisation - Développement", "italian"=>"Modernizzazione - Sviluppo", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1031955", "surname"=>"Froidevaux", "givenName"=>"Didier", "email"=>nil, "phone"=>"+41 58 46 36756", "function"=>{"german"=>"Sektionschef/in", "french"=>"Sektionschef/in", "italian"=>"Sektionschef/in", "english"=>"Sektionschef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1170565", "surname"=>"Ignaczewska", "givenName"=>"Julia", "email"=>nil, "phone"=>"+41 58 46 36946", "function"=>{"german"=>"Bereichsleiter/in, Stv. SC", "french"=>"Bereichsleiter/in", "italian"=>"Bereichsleiter/in", "english"=>"Bereichsleiter/in, Stv. SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004672", "label"=>{"german"=>"Abteilung Wirtschaft", "french"=>"Division Economie", "italian"=>"Divisione Economia", "english"=>""}, "name"=>{"german"=>"Abteilung Wirtschaft", "french"=>"Division Economie", "italian"=>"Divisione Economia", "english"=>""}}, {"id"=>"10004675", "label"=>{"german"=>"Sektion Löhne und Arbeitsbedingungen", "french"=>"Section Salaires et conditions de travail", "italian"=>"Sezione Salari e condizioni di lavoro", "english"=>""}, "name"=>{"german"=>"Sektion Löhne und Arbeitsbedingungen", "french"=>"Section Salaires et conditions de travail", "italian"=>"Sezione Salari e condizioni di lavoro", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10004675",
+  "name": {
+    "german": "Sektion Löhne und Arbeitsbedingungen",
+    "french": "Section Salaires et conditions de travail",
+    "italian": "Sezione Salari e condizioni di lavoro",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20015502",
+      "name": {
+        "german": "Support - Information",
+        "french": "Support - Information",
+        "italian": "Supporto - Informazioni",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005927",
+      "name": {
+        "german": "Gesamtarbeitsverträge und Arbeitsbedingungen",
+        "french": "Conventions collectives et conditions de travail",
+        "italian": "Contratti collettivi e condizioni di lavoro",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021311",
+      "name": {
+        "german": "Lohnindex",
+        "french": "Indice des salaires",
+        "italian": "Indice dei salari",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005926",
+      "name": {
+        "german": "Lohnstruktur und Arbeitskosten LSE",
+        "french": "Structure des salaires et coûts du travail LSE",
+        "italian": "Struttura dei salari e costi del lavoro RSS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027558",
+      "name": {
+        "german": "Modernisierung - Entwicklung",
+        "french": "Modernisation - Développement",
+        "italian": "Modernizzazione - Sviluppo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048052",
+      "name": {
+        "german": "Pool Extern Westschweiz",
+        "french": "Modernisation - Développement",
+        "italian": "Modernizzazione - Sviluppo",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1031955",
+      "surname": "Froidevaux",
+      "givenName": "Didier",
+      "email": null,
+      "phone": "+41 58 46 36756",
+      "function": {
+        "german": "Sektionschef/in",
+        "french": "Sektionschef/in",
+        "italian": "Sektionschef/in",
+        "english": "Sektionschef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1170565",
+      "surname": "Ignaczewska",
+      "givenName": "Julia",
+      "email": null,
+      "phone": "+41 58 46 36946",
+      "function": {
+        "german": "Bereichsleiter/in, Stv. SC",
+        "french": "Bereichsleiter/in",
+        "italian": "Bereichsleiter/in",
+        "english": "Bereichsleiter/in, Stv. SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004672",
+      "label": {
+        "german": "Abteilung Wirtschaft",
+        "french": "Division Economie",
+        "italian": "Divisione Economia",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Wirtschaft",
+        "french": "Division Economie",
+        "italian": "Divisione Economia",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004675",
+      "label": {
+        "german": "Sektion Löhne und Arbeitsbedingungen",
+        "french": "Section Salaires et conditions de travail",
+        "italian": "Sezione Salari e condizioni di lavoro",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Löhne und Arbeitsbedingungen",
+        "french": "Section Salaires et conditions de travail",
+        "italian": "Sezione Salari e condizioni di lavoro",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

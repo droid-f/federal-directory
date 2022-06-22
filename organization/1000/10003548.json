@@ -1,1 +1,168 @@
-{"id"=>"10003548", "name"=>{"german"=>"Ressort Informationsstrategien", "french"=>"Unité Stratégies d'information", "italian"=>"Unità Strategie d'informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Effingerstrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-3231243", "surname"=>"Hare", "givenName"=>"Julia Mapenzi", "email"=>nil, "phone"=>"+41 58 46 40234", "function"=>{"german"=>"Fachspezialist/in", "french"=>"Spécialiste", "italian"=>"Specialista", "english"=>"Fachspezialist/in"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008685", "label"=>{"german"=>"BSV", "french"=>"OFAS", "italian"=>"UFAS", "english"=>""}, "name"=>{"german"=>"Bundesamt für Sozialversicherungen", "french"=>"Office fédéral des assurances sociales", "italian"=>"Ufficio federale delle assicurazioni sociali", "english"=>""}}, {"id"=>"10003540", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10013121", "label"=>{"german"=>"Geschäftsfeld Planung, Prozesse, Ressourcen", "french"=>"Domaine Planification, processus, ressources", "italian"=>"Ambito Pianificazione, processi, risorse", "english"=>""}, "name"=>{"german"=>"Geschäftsfeld Planung, Prozesse, Ressourcen", "french"=>"Domaine Planification, processus, ressources", "italian"=>"Ambito Pianificazione, processi, risorse", "english"=>""}}, {"id"=>"10003546", "label"=>{"german"=>"Information, Wissen, Logistik", "french"=>"Informations, connaissances, logistique", "italian"=>"Informazioni, conoscenze, logistica", "english"=>""}, "name"=>{"german"=>"Information, Wissen, Logistik", "french"=>"Informations, connaissances, logistique", "italian"=>"Informazioni, conoscenze, logistica", "english"=>""}}, {"id"=>"10003548", "label"=>{"german"=>"Ressort Informationsstrategien", "french"=>"Unité Stratégies d'information", "italian"=>"Unità Strategie d'informazione", "english"=>""}, "name"=>{"german"=>"Ressort Informationsstrategien", "french"=>"Unité Stratégies d'information", "italian"=>"Unità Strategie d'informazione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10003548",
+  "name": {
+    "german": "Ressort Informationsstrategien",
+    "french": "Unité Stratégies d'information",
+    "italian": "Unità Strategie d'informazione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Effingerstrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-3231243",
+      "surname": "Hare",
+      "givenName": "Julia Mapenzi",
+      "email": null,
+      "phone": "+41 58 46 40234",
+      "function": {
+        "german": "Fachspezialist/in",
+        "french": "Spécialiste",
+        "italian": "Specialista",
+        "english": "Fachspezialist/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008685",
+      "label": {
+        "german": "BSV",
+        "french": "OFAS",
+        "italian": "UFAS",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Sozialversicherungen",
+        "french": "Office fédéral des assurances sociales",
+        "italian": "Ufficio federale delle assicurazioni sociali",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003540",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10013121",
+      "label": {
+        "german": "Geschäftsfeld Planung, Prozesse, Ressourcen",
+        "french": "Domaine Planification, processus, ressources",
+        "italian": "Ambito Pianificazione, processi, risorse",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsfeld Planung, Prozesse, Ressourcen",
+        "french": "Domaine Planification, processus, ressources",
+        "italian": "Ambito Pianificazione, processi, risorse",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003546",
+      "label": {
+        "german": "Information, Wissen, Logistik",
+        "french": "Informations, connaissances, logistique",
+        "italian": "Informazioni, conoscenze, logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Information, Wissen, Logistik",
+        "french": "Informations, connaissances, logistique",
+        "italian": "Informazioni, conoscenze, logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10003548",
+      "label": {
+        "german": "Ressort Informationsstrategien",
+        "french": "Unité Stratégies d'information",
+        "italian": "Unità Strategie d'informazione",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressort Informationsstrategien",
+        "french": "Unité Stratégies d'information",
+        "italian": "Unità Strategie d'informazione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

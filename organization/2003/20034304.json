@@ -1,1 +1,232 @@
-{"id"=>"20034304", "name"=>{"german"=>"ICT - Informations- und Kommtechnik", "french"=>"ICT - Informations- und Kommtechnik", "italian"=>"ICT - Informations- und Kommtechnik", "english"=>""}, "nameAbbr"=>{"german"=>"ICT", "french"=>"ICT", "italian"=>"ICT", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Operation Center 1", "postalCode"=>"8058", "location"=>"Zürich-Flughafen", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20034306", "name"=>{"german"=>"ITSM - Service Management", "french"=>"IT Service Management", "italian"=>"IT Service Management", "english"=>""}, "nameAbbr"=>{"german"=>"ITSM", "french"=>"ITSM", "italian"=>"ITSM", "english"=>""}}, {"id"=>"20034307", "name"=>{"german"=>"ITSD - Service Delivery", "french"=>"IT Service Delivery", "italian"=>"IT Service Delivery", "english"=>""}, "nameAbbr"=>{"german"=>"ITSD", "french"=>"ITSD", "italian"=>"ITSD", "english"=>""}}, {"id"=>"20034308", "name"=>{"german"=>"ITAE - Application Engineering", "french"=>"IT Application Engineering", "italian"=>"IT Application Engineering", "english"=>""}, "nameAbbr"=>{"german"=>"ITAE", "french"=>"ITAE", "italian"=>"ITAE", "english"=>""}}, {"id"=>"20034309", "name"=>{"german"=>"ITDM - Data Management", "french"=>"IT Data Management", "italian"=>"IT Data Management", "english"=>""}, "nameAbbr"=>{"german"=>"ITDM", "french"=>"ITDM", "italian"=>"ITDM", "english"=>""}}, {"id"=>"20034310", "name"=>{"german"=>"ITSO - Services und Operations", "french"=>"IT Services and Operations", "italian"=>"IT Services and Operations", "english"=>""}, "nameAbbr"=>{"german"=>"ITSO", "french"=>"ITSO", "italian"=>"ITSO", "english"=>""}}, {"id"=>"20048676", "name"=>{"german"=>"ITMS - Microsoft Services und Security", "french"=>"IT Microsoft Services and Security", "italian"=>"IT Microsoft Services and Security", "english"=>""}, "nameAbbr"=>{"german"=>"ITMS", "french"=>"ITMS", "italian"=>"ITMS", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-5145350", "surname"=>"Schäfer", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 46 09321", "function"=>{"german"=>"Abteilungsleiter/in", "french"=>"Gestion Processus Informatique", "italian"=>"Gestione Processo Informatica", "english"=>"Abteilungsleiter/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9057221", "surname"=>"Widmer", "givenName"=>"Roger", "email"=>nil, "phone"=>"+41 58 46 09638", "function"=>{"german"=>"Teamleiter/in", "french"=>"Gestion Team Systèmes", "italian"=>"Gestione Team Sistemi IT", "english"=>"Teamleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20034304", "label"=>{"german"=>"ICT", "french"=>"ICT", "italian"=>"ICT", "english"=>""}, "name"=>{"german"=>"ICT - Informations- und Kommtechnik", "french"=>"ICT - Informations- und Kommtechnik", "italian"=>"ICT - Informations- und Kommtechnik", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034304",
+  "name": {
+    "german": "ICT - Informations- und Kommtechnik",
+    "french": "ICT - Informations- und Kommtechnik",
+    "italian": "ICT - Informations- und Kommtechnik",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "ICT",
+    "french": "ICT",
+    "italian": "ICT",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Operation Center 1",
+    "postalCode": "8058",
+    "location": "Zürich-Flughafen",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20034306",
+      "name": {
+        "german": "ITSM - Service Management",
+        "french": "IT Service Management",
+        "italian": "IT Service Management",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ITSM",
+        "french": "ITSM",
+        "italian": "ITSM",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034307",
+      "name": {
+        "german": "ITSD - Service Delivery",
+        "french": "IT Service Delivery",
+        "italian": "IT Service Delivery",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ITSD",
+        "french": "ITSD",
+        "italian": "ITSD",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034308",
+      "name": {
+        "german": "ITAE - Application Engineering",
+        "french": "IT Application Engineering",
+        "italian": "IT Application Engineering",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ITAE",
+        "french": "ITAE",
+        "italian": "ITAE",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034309",
+      "name": {
+        "german": "ITDM - Data Management",
+        "french": "IT Data Management",
+        "italian": "IT Data Management",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ITDM",
+        "french": "ITDM",
+        "italian": "ITDM",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034310",
+      "name": {
+        "german": "ITSO - Services und Operations",
+        "french": "IT Services and Operations",
+        "italian": "IT Services and Operations",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ITSO",
+        "french": "ITSO",
+        "italian": "ITSO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048676",
+      "name": {
+        "german": "ITMS - Microsoft Services und Security",
+        "french": "IT Microsoft Services and Security",
+        "italian": "IT Microsoft Services and Security",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "ITMS",
+        "french": "ITMS",
+        "italian": "ITMS",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-5145350",
+      "surname": "Schäfer",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 46 09321",
+      "function": {
+        "german": "Abteilungsleiter/in",
+        "french": "Gestion Processus Informatique",
+        "italian": "Gestione Processo Informatica",
+        "english": "Abteilungsleiter/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9057221",
+      "surname": "Widmer",
+      "givenName": "Roger",
+      "email": null,
+      "phone": "+41 58 46 09638",
+      "function": {
+        "german": "Teamleiter/in",
+        "french": "Gestion Team Systèmes",
+        "italian": "Gestione Team Sistemi IT",
+        "english": "Teamleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20034304",
+      "label": {
+        "german": "ICT",
+        "french": "ICT",
+        "italian": "ICT",
+        "english": ""
+      },
+      "name": {
+        "german": "ICT - Informations- und Kommtechnik",
+        "french": "ICT - Informations- und Kommtechnik",
+        "italian": "ICT - Informations- und Kommtechnik",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

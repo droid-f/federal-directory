@@ -1,1 +1,150 @@
-{"id"=>"20005184", "name"=>{"german"=>"Betrieb, Sicherheit und Logistik", "french"=>"Exploitation, sécurité et logistique", "italian"=>"Gestione, sicurezza e logistica", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Viale Stefano Franscini 7", "postalCode"=>"6500", "location"=>"Bellinzona", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-3035138", "surname"=>"Ghidossi", "givenName"=>"Raffaello", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Weibel / Mitarb. Logistik und Sicherheit", "french"=>"Huissier/Collab. logistique et sécurité", "italian"=>"Usciere/Collab. logistica e sicurezza", "english"=>"Weibel / Mitarb. Logistik und Sicherheit"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6727895", "surname"=>"Giudici", "givenName"=>"Raffaele", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Weibel / Mitarb. Logistik und Sicherheit", "french"=>"Huissier/Collab. logistique et sécurité", "italian"=>"Usciere/Collab. logistica e sicurezza", "english"=>"Weibel / Mitarb. Logistik und Sicherheit"}, "isVisibleInEstKa"=>true}, {"id"=>"p-6037095", "surname"=>"Lorenzetti", "givenName"=>"Matteo", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Weibel / Mitarb. Logistik und Sicherheit", "french"=>"Huissier/Collab. logistique et sécurité", "italian"=>"Usciere/Collab. logistica e sicurezza", "english"=>"Weibel / Mitarb. Logistik und Sicherheit"}, "isVisibleInEstKa"=>true}, {"id"=>"p-0229203", "surname"=>"Rossi", "givenName"=>"Gianluca", "email"=>nil, "phone"=>"+41 58 48 06868", "function"=>{"german"=>"Leiter/in Logistik/Sicherheit", "french"=>"Responsable logistique et sécurité", "italian"=>"Responsabile logistica e sicurezza", "english"=>"Leiter/in Logistik/Sicherheit"}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"20004851", "label"=>{"german"=>"BStGer", "french"=>"BStGer", "italian"=>"BStGer", "english"=>""}, "name"=>{"german"=>"Bundesstrafgericht", "french"=>"Tribunal pénal fédéral", "italian"=>"Tribunale penale federale", "english"=>""}}, {"id"=>"20005201", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretariato generale e servizi", "english"=>""}}, {"id"=>"20005184", "label"=>{"german"=>"Betrieb, Sicherheit und Logistik", "french"=>"Exploitation, sécurité et logistique", "italian"=>"Gestione, sicurezza e logistica", "english"=>""}, "name"=>{"german"=>"Betrieb, Sicherheit und Logistik", "french"=>"Exploitation, sécurité et logistique", "italian"=>"Gestione, sicurezza e logistica", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20005184",
+  "name": {
+    "german": "Betrieb, Sicherheit und Logistik",
+    "french": "Exploitation, sécurité et logistique",
+    "italian": "Gestione, sicurezza e logistica",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Viale Stefano Franscini 7",
+    "postalCode": "6500",
+    "location": "Bellinzona",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-3035138",
+      "surname": "Ghidossi",
+      "givenName": "Raffaello",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Weibel / Mitarb. Logistik und Sicherheit",
+        "french": "Huissier/Collab. logistique et sécurité",
+        "italian": "Usciere/Collab. logistica e sicurezza",
+        "english": "Weibel / Mitarb. Logistik und Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6727895",
+      "surname": "Giudici",
+      "givenName": "Raffaele",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Weibel / Mitarb. Logistik und Sicherheit",
+        "french": "Huissier/Collab. logistique et sécurité",
+        "italian": "Usciere/Collab. logistica e sicurezza",
+        "english": "Weibel / Mitarb. Logistik und Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-6037095",
+      "surname": "Lorenzetti",
+      "givenName": "Matteo",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Weibel / Mitarb. Logistik und Sicherheit",
+        "french": "Huissier/Collab. logistique et sécurité",
+        "italian": "Usciere/Collab. logistica e sicurezza",
+        "english": "Weibel / Mitarb. Logistik und Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "id": "p-0229203",
+      "surname": "Rossi",
+      "givenName": "Gianluca",
+      "email": null,
+      "phone": "+41 58 48 06868",
+      "function": {
+        "german": "Leiter/in Logistik/Sicherheit",
+        "french": "Responsable logistique et sécurité",
+        "italian": "Responsabile logistica e sicurezza",
+        "english": "Leiter/in Logistik/Sicherheit"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "20004851",
+      "label": {
+        "german": "BStGer",
+        "french": "BStGer",
+        "italian": "BStGer",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesstrafgericht",
+        "french": "Tribunal pénal fédéral",
+        "italian": "Tribunale penale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005201",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretariato generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005184",
+      "label": {
+        "german": "Betrieb, Sicherheit und Logistik",
+        "french": "Exploitation, sécurité et logistique",
+        "italian": "Gestione, sicurezza e logistica",
+        "english": ""
+      },
+      "name": {
+        "german": "Betrieb, Sicherheit und Logistik",
+        "french": "Exploitation, sécurité et logistique",
+        "italian": "Gestione, sicurezza e logistica",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

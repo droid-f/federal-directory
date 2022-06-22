@@ -1,1 +1,185 @@
-{"id"=>"20013456", "name"=>{"german"=>"Fachbereich Transportkompanie 4/47", "french"=>"Dom spéc compagnie de transport 4/47", "italian"=>"Sett spec compagnia di trasporto 4/47", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo VT Schule 47, Trsp Kp", "street"=>"Kaserne", "postalCode"=>"3380", "location"=>"Wangen an der Aare", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015872", "label"=>{"german"=>"LVBLOG", "french"=>"LVBLOG", "italian"=>"LVBLOG", "english"=>""}, "name"=>{"german"=>"Lehrverband Logistik", "french"=>"Formation d'application de la logistique", "italian"=>"FOA della logistica", "english"=>""}}, {"id"=>"20011166", "label"=>{"german"=>"Kdo Verkehr und Transport UOS/RS 47", "french"=>"Cdmt ER/ESO circ et trsp ER/ESO 47", "italian"=>"Cdo SSU/SR circolazione e trasporto 47", "english"=>""}, "name"=>{"german"=>"Kdo Verkehr und Transport UOS/RS 47", "french"=>"Cdmt ER/ESO circ et trsp ER/ESO 47", "italian"=>"Cdo SSU/SR circolazione e trasporto 47", "english"=>""}}, {"id"=>"20011181", "label"=>{"german"=>"Transport Kp 4 VT UOS/RS 47 Wangen aA", "french"=>"Cp transport 4 ER/ESO CT 47 Wangen aA", "italian"=>"Cp trsp 4 SSU/SR CT 47 Wangen aA", "english"=>""}, "name"=>{"german"=>"Transport Kp 4 VT UOS/RS 47 Wangen aA", "french"=>"Cp transport 4 ER/ESO CT 47 Wangen aA", "italian"=>"Cp trsp 4 SSU/SR CT 47 Wangen aA", "english"=>""}}, {"id"=>"20013456", "label"=>{"german"=>"Fachbereich Transportkompanie 4/47", "french"=>"Dom spéc compagnie de transport 4/47", "italian"=>"Sett spec compagnia di trasporto 4/47", "english"=>""}, "name"=>{"german"=>"Fachbereich Transportkompanie 4/47", "french"=>"Dom spéc compagnie de transport 4/47", "italian"=>"Sett spec compagnia di trasporto 4/47", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20013456",
+  "name": {
+    "german": "Fachbereich Transportkompanie 4/47",
+    "french": "Dom spéc compagnie de transport 4/47",
+    "italian": "Sett spec compagnia di trasporto 4/47",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo VT Schule 47, Trsp Kp",
+    "street": "Kaserne",
+    "postalCode": "3380",
+    "location": "Wangen an der Aare",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015872",
+      "label": {
+        "german": "LVBLOG",
+        "french": "LVBLOG",
+        "italian": "LVBLOG",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Logistik",
+        "french": "Formation d'application de la logistique",
+        "italian": "FOA della logistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011166",
+      "label": {
+        "german": "Kdo Verkehr und Transport UOS/RS 47",
+        "french": "Cdmt ER/ESO circ et trsp ER/ESO 47",
+        "italian": "Cdo SSU/SR circolazione e trasporto 47",
+        "english": ""
+      },
+      "name": {
+        "german": "Kdo Verkehr und Transport UOS/RS 47",
+        "french": "Cdmt ER/ESO circ et trsp ER/ESO 47",
+        "italian": "Cdo SSU/SR circolazione e trasporto 47",
+        "english": ""
+      }
+    },
+    {
+      "id": "20011181",
+      "label": {
+        "german": "Transport Kp 4 VT UOS/RS 47 Wangen aA",
+        "french": "Cp transport 4 ER/ESO CT 47 Wangen aA",
+        "italian": "Cp trsp 4 SSU/SR CT 47 Wangen aA",
+        "english": ""
+      },
+      "name": {
+        "german": "Transport Kp 4 VT UOS/RS 47 Wangen aA",
+        "french": "Cp transport 4 ER/ESO CT 47 Wangen aA",
+        "italian": "Cp trsp 4 SSU/SR CT 47 Wangen aA",
+        "english": ""
+      }
+    },
+    {
+      "id": "20013456",
+      "label": {
+        "german": "Fachbereich Transportkompanie 4/47",
+        "french": "Dom spéc compagnie de transport 4/47",
+        "italian": "Sett spec compagnia di trasporto 4/47",
+        "english": ""
+      },
+      "name": {
+        "german": "Fachbereich Transportkompanie 4/47",
+        "french": "Dom spéc compagnie de transport 4/47",
+        "italian": "Sett spec compagnia di trasporto 4/47",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

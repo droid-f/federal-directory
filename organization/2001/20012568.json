@@ -1,1 +1,230 @@
-{"id"=>"20012568", "name"=>{"german"=>"Aktualisierung und QS", "french"=>"Actualisation et QS", "italian"=>"Aggiornamento e QS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20045501", "name"=>{"german"=>"Management QS", "french"=>"BUR1 - SHAB", "italian"=>"BUR1 - SHAB", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027541", "name"=>{"german"=>"BUR1 - SHAB", "french"=>"BUR1 - SHAB", "italian"=>"BUR1 - SHAB", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027542", "name"=>{"german"=>"BUR2 - MWST", "french"=>"BUR2 - TVA", "italian"=>"BUR2 - TVA", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027543", "name"=>{"german"=>"BUR3 - Andere Dienste", "french"=>"BUR3 - QS", "italian"=>"BUR3 - QS", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0101860", "surname"=>"Dorontsova", "givenName"=>"Natalia", "email"=>nil, "phone"=>"+41 58 46 36313", "function"=>{"german"=>"Gruppenleiter/in", "french"=>"Gruppenleiter/in", "italian"=>"Gruppenleiter/in", "english"=>"Gruppenleiter/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004641", "label"=>{"german"=>"Abteilung Interoperabilität und Register", "french"=>"Division Interopérabilité et registres", "italian"=>"Divisone Interoperabilità et registri", "english"=>""}, "name"=>{"german"=>"Abteilung Interoperabilität und Register", "french"=>"Division Interopérabilité et registres", "italian"=>"Divisone Interoperabilità et registri", "english"=>""}}, {"id"=>"10004674", "label"=>{"german"=>"Sektion Betriebs- und Unternehmensregister", "french"=>"Section Registre des entreprises et des établissements", "italian"=>"Sezione Registro delle imprese e degli stabilimenti", "english"=>""}, "name"=>{"german"=>"Sektion Betriebs- und Unternehmensregister", "french"=>"Section Registre des entreprises et des établissements", "italian"=>"Sezione Registro delle imprese e degli stabilimenti", "english"=>""}}, {"id"=>"20012568", "label"=>{"german"=>"Aktualisierung und QS", "french"=>"Actualisation et QS", "italian"=>"Aggiornamento e QS", "english"=>""}, "name"=>{"german"=>"Aktualisierung und QS", "french"=>"Actualisation et QS", "italian"=>"Aggiornamento e QS", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012568",
+  "name": {
+    "german": "Aktualisierung und QS",
+    "french": "Actualisation et QS",
+    "italian": "Aggiornamento e QS",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20045501",
+      "name": {
+        "german": "Management QS",
+        "french": "BUR1 - SHAB",
+        "italian": "BUR1 - SHAB",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027541",
+      "name": {
+        "german": "BUR1 - SHAB",
+        "french": "BUR1 - SHAB",
+        "italian": "BUR1 - SHAB",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027542",
+      "name": {
+        "german": "BUR2 - MWST",
+        "french": "BUR2 - TVA",
+        "italian": "BUR2 - TVA",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027543",
+      "name": {
+        "german": "BUR3 - Andere Dienste",
+        "french": "BUR3 - QS",
+        "italian": "BUR3 - QS",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0101860",
+      "surname": "Dorontsova",
+      "givenName": "Natalia",
+      "email": null,
+      "phone": "+41 58 46 36313",
+      "function": {
+        "german": "Gruppenleiter/in",
+        "french": "Gruppenleiter/in",
+        "italian": "Gruppenleiter/in",
+        "english": "Gruppenleiter/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004641",
+      "label": {
+        "german": "Abteilung Interoperabilität und Register",
+        "french": "Division Interopérabilité et registres",
+        "italian": "Divisone Interoperabilità et registri",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Interoperabilität und Register",
+        "french": "Division Interopérabilité et registres",
+        "italian": "Divisone Interoperabilità et registri",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004674",
+      "label": {
+        "german": "Sektion Betriebs- und Unternehmensregister",
+        "french": "Section Registre des entreprises et des établissements",
+        "italian": "Sezione Registro delle imprese e degli stabilimenti",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Betriebs- und Unternehmensregister",
+        "french": "Section Registre des entreprises et des établissements",
+        "italian": "Sezione Registro delle imprese e degli stabilimenti",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012568",
+      "label": {
+        "german": "Aktualisierung und QS",
+        "french": "Actualisation et QS",
+        "italian": "Aggiornamento e QS",
+        "english": ""
+      },
+      "name": {
+        "german": "Aktualisierung und QS",
+        "french": "Actualisation et QS",
+        "italian": "Aggiornamento e QS",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

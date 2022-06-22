@@ -1,1 +1,171 @@
-{"id"=>"20034153", "name"=>{"german"=>"Informationssystem GWR", "french"=>"Système d'information RegBL", "italian"=>"Sistema d'informazione REA", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Espace de l'Europe 10", "postalCode"=>"2010", "location"=>"Neuchâtel", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2649417", "surname"=>"Reinhard", "givenName"=>"Frédéric-Laurent", "email"=>nil, "phone"=>"+41 58 46 36149", "function"=>{"german"=>"Bereichsleiter/in, Stv SC", "french"=>"Bereichsleiter/in, Stv SC", "italian"=>"Bereichsleiter/in, Stv SC", "english"=>"Bereichsleiter/in, Stv SC"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008742", "label"=>{"german"=>"BFS", "french"=>"OFS", "italian"=>"UST", "english"=>""}, "name"=>{"german"=>"Bundesamt für Statistik", "french"=>"Office fédéral de la statistique", "italian"=>"Ufficio federale di statistica", "english"=>""}}, {"id"=>"10004619", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"10004641", "label"=>{"german"=>"Abteilung Interoperabilität und Register", "french"=>"Division Interopérabilité et registres", "italian"=>"Divisone Interoperabilità et registri", "english"=>""}, "name"=>{"german"=>"Abteilung Interoperabilität und Register", "french"=>"Division Interopérabilité et registres", "italian"=>"Divisone Interoperabilità et registri", "english"=>""}}, {"id"=>"20005105", "label"=>{"german"=>"Sektion Gebäude und Wohnungen GEWO", "french"=>"Section Bâtiments et logements GEWO", "italian"=>"Sezione Edifici e abitazioni GEWO", "english"=>""}, "name"=>{"german"=>"Sektion Gebäude und Wohnungen GEWO", "french"=>"Section Bâtiments et logements GEWO", "italian"=>"Sezione Edifici e abitazioni GEWO", "english"=>""}}, {"id"=>"20034153", "label"=>{"german"=>"Informationssystem GWR", "french"=>"Système d'information RegBL", "italian"=>"Sistema d'informazione REA", "english"=>""}, "name"=>{"german"=>"Informationssystem GWR", "french"=>"Système d'information RegBL", "italian"=>"Sistema d'informazione REA", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20034153",
+  "name": {
+    "german": "Informationssystem GWR",
+    "french": "Système d'information RegBL",
+    "italian": "Sistema d'informazione REA",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Espace de l'Europe 10",
+    "postalCode": "2010",
+    "location": "Neuchâtel",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2649417",
+      "surname": "Reinhard",
+      "givenName": "Frédéric-Laurent",
+      "email": null,
+      "phone": "+41 58 46 36149",
+      "function": {
+        "german": "Bereichsleiter/in, Stv SC",
+        "french": "Bereichsleiter/in, Stv SC",
+        "italian": "Bereichsleiter/in, Stv SC",
+        "english": "Bereichsleiter/in, Stv SC"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008742",
+      "label": {
+        "german": "BFS",
+        "french": "OFS",
+        "italian": "UST",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Statistik",
+        "french": "Office fédéral de la statistique",
+        "italian": "Ufficio federale di statistica",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004619",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004641",
+      "label": {
+        "german": "Abteilung Interoperabilität und Register",
+        "french": "Division Interopérabilité et registres",
+        "italian": "Divisone Interoperabilità et registri",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Interoperabilität und Register",
+        "french": "Division Interopérabilité et registres",
+        "italian": "Divisone Interoperabilità et registri",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005105",
+      "label": {
+        "german": "Sektion Gebäude und Wohnungen GEWO",
+        "french": "Section Bâtiments et logements GEWO",
+        "italian": "Sezione Edifici e abitazioni GEWO",
+        "english": ""
+      },
+      "name": {
+        "german": "Sektion Gebäude und Wohnungen GEWO",
+        "french": "Section Bâtiments et logements GEWO",
+        "italian": "Sezione Edifici e abitazioni GEWO",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034153",
+      "label": {
+        "german": "Informationssystem GWR",
+        "french": "Système d'information RegBL",
+        "italian": "Sistema d'informazione REA",
+        "english": ""
+      },
+      "name": {
+        "german": "Informationssystem GWR",
+        "french": "Système d'information RegBL",
+        "italian": "Sistema d'informazione REA",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

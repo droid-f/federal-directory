@@ -1,1 +1,126 @@
-{"id"=>"10005107", "name"=>{"german"=>"Haus- und Sicherheitsdienst", "french"=>"Service d'immeuble et sécurité", "italian"=>"Servizio dei immobili e sicurezza", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8666713", "surname"=>"Leresche", "givenName"=>"Thierry", "email"=>nil, "phone"=>nil, "function"=>{"german"=>"Chef Haus- und Sicherheitsdienst", "french"=>"Chef du service immeuble et sécurité", "italian"=>"Resp. del servizio immobile e sicurezza", "english"=>"Chef Haus- und Sicherheitsdienst"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005095", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}}, {"id"=>"20014862", "label"=>{"german"=>"Administrative Dienste", "french"=>"Services administratives", "italian"=>"Servizi amministrativi", "english"=>""}, "name"=>{"german"=>"Administrative Dienste", "french"=>"Services administratives", "italian"=>"Servizi amministrativi", "english"=>""}}, {"id"=>"10005107", "label"=>{"german"=>"Haus- und Sicherheitsdienst", "french"=>"Service d'immeuble et sécurité", "italian"=>"Servizio dei immobili e sicurezza", "english"=>""}, "name"=>{"german"=>"Haus- und Sicherheitsdienst", "french"=>"Service d'immeuble et sécurité", "italian"=>"Servizio dei immobili e sicurezza", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005107",
+  "name": {
+    "german": "Haus- und Sicherheitsdienst",
+    "french": "Service d'immeuble et sécurité",
+    "italian": "Servizio dei immobili e sicurezza",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8666713",
+      "surname": "Leresche",
+      "givenName": "Thierry",
+      "email": null,
+      "phone": null,
+      "function": {
+        "german": "Chef Haus- und Sicherheitsdienst",
+        "french": "Chef du service immeuble et sécurité",
+        "italian": "Resp. del servizio immobile e sicurezza",
+        "english": "Chef Haus- und Sicherheitsdienst"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005095",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014862",
+      "label": {
+        "german": "Administrative Dienste",
+        "french": "Services administratives",
+        "italian": "Servizi amministrativi",
+        "english": ""
+      },
+      "name": {
+        "german": "Administrative Dienste",
+        "french": "Services administratives",
+        "italian": "Servizi amministrativi",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005107",
+      "label": {
+        "german": "Haus- und Sicherheitsdienst",
+        "french": "Service d'immeuble et sécurité",
+        "italian": "Servizio dei immobili e sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Haus- und Sicherheitsdienst",
+        "french": "Service d'immeuble et sécurité",
+        "italian": "Servizio dei immobili e sicurezza",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

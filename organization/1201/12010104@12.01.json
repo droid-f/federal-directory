@@ -1,1 +1,123 @@
-{"id"=>"12010104@12.01", "name"=>{"german"=>"Auswertung", "french"=>"Auswertung", "italian"=>"Auswertung", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Papiermühlestrasse 20", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[{"id"=>"p-7755356", "surname"=>"Noto Lhermine", "givenName"=>"Juliette", "email"=>nil, "phone"=>"+41 58 45 54242", "function"=>{"german"=>"Chefin Auswertung", "french"=>"Chefin Auswertung", "italian"=>"Chefin Auswertung", "english"=>""}, "isVisibleInEstKa"=>true}], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20027226", "label"=>{"german"=>"NDB", "french"=>"SRC", "italian"=>"SIC", "english"=>""}, "name"=>{"german"=>"Nachrichtendienst des Bundes", "french"=>"Service de renseignement de la Confédération", "italian"=>"Servizio delle attività informative della Confederazione", "english"=>""}}, {"id"=>"12010104@12.01", "label"=>{"german"=>"Auswertung", "french"=>"Auswertung", "italian"=>"Auswertung", "english"=>""}, "name"=>{"german"=>"Auswertung", "french"=>"Auswertung", "italian"=>"Auswertung", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "12010104@12.01",
+  "name": {
+    "german": "Auswertung",
+    "french": "Auswertung",
+    "italian": "Auswertung",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Papiermühlestrasse 20",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+    {
+      "id": "p-7755356",
+      "surname": "Noto Lhermine",
+      "givenName": "Juliette",
+      "email": null,
+      "phone": "+41 58 45 54242",
+      "function": {
+        "german": "Chefin Auswertung",
+        "french": "Chefin Auswertung",
+        "italian": "Chefin Auswertung",
+        "english": ""
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027226",
+      "label": {
+        "german": "NDB",
+        "french": "SRC",
+        "italian": "SIC",
+        "english": ""
+      },
+      "name": {
+        "german": "Nachrichtendienst des Bundes",
+        "french": "Service de renseignement de la Confédération",
+        "italian": "Servizio delle attività informative della Confederazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "12010104@12.01",
+      "label": {
+        "german": "Auswertung",
+        "french": "Auswertung",
+        "italian": "Auswertung",
+        "english": ""
+      },
+      "name": {
+        "german": "Auswertung",
+        "french": "Auswertung",
+        "italian": "Auswertung",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

@@ -1,1 +1,200 @@
-{"id"=>"20008386", "name"=>{"german"=>"Informatik LBA", "french"=>"Informatique de la BLA", "italian"=>"Informatica BLEs", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Viktoriastrasse 85", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20008388", "name"=>{"german"=>"IKT Projekte / Arbeitsplatzsysteme", "french"=>"Projets infm / systèmes place de travail", "italian"=>"Progetti TIC / Postazioni di lavoro", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20008390", "name"=>{"german"=>"Enterprise und Resourceplanning", "french"=>"Enterprise Resource Planning", "italian"=>"Enterprise Resource Planning", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0693415", "surname"=>"Zenhäusern", "givenName"=>"Mario", "email"=>nil, "phone"=>"+41 58 46 31461", "function"=>{"german"=>"Chef/in Informatik", "french"=>"Chef Informatique", "italian"=>"Capo Informatica", "english"=>"Chef/in Informatik"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20008277", "label"=>{"german"=>"LBA", "french"=>"BLA", "italian"=>"BLE", "english"=>""}, "name"=>{"german"=>"Logistikbasis der Armee", "french"=>"Base logistique de l'armée", "italian"=>"Base logistica dell'esercito", "english"=>""}}, {"id"=>"20021526", "label"=>{"german"=>"Stv Chef LBA", "french"=>"Suppléant du chef BLA", "italian"=>"Sost capo BLEs", "english"=>""}, "name"=>{"german"=>"Stv Chef LBA", "french"=>"Suppléant du chef BLA", "italian"=>"Sost capo BLEs", "english"=>""}}, {"id"=>"20008386", "label"=>{"german"=>"Informatik LBA", "french"=>"Informatique de la BLA", "italian"=>"Informatica BLEs", "english"=>""}, "name"=>{"german"=>"Informatik LBA", "french"=>"Informatique de la BLA", "italian"=>"Informatica BLEs", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20008386",
+  "name": {
+    "german": "Informatik LBA",
+    "french": "Informatique de la BLA",
+    "italian": "Informatica BLEs",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Viktoriastrasse 85",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20008388",
+      "name": {
+        "german": "IKT Projekte / Arbeitsplatzsysteme",
+        "french": "Projets infm / systèmes place de travail",
+        "italian": "Progetti TIC / Postazioni di lavoro",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008390",
+      "name": {
+        "german": "Enterprise und Resourceplanning",
+        "french": "Enterprise Resource Planning",
+        "italian": "Enterprise Resource Planning",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0693415",
+      "surname": "Zenhäusern",
+      "givenName": "Mario",
+      "email": null,
+      "phone": "+41 58 46 31461",
+      "function": {
+        "german": "Chef/in Informatik",
+        "french": "Chef Informatique",
+        "italian": "Capo Informatica",
+        "english": "Chef/in Informatik"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008277",
+      "label": {
+        "german": "LBA",
+        "french": "BLA",
+        "italian": "BLE",
+        "english": ""
+      },
+      "name": {
+        "german": "Logistikbasis der Armee",
+        "french": "Base logistique de l'armée",
+        "italian": "Base logistica dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20021526",
+      "label": {
+        "german": "Stv Chef LBA",
+        "french": "Suppléant du chef BLA",
+        "italian": "Sost capo BLEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Stv Chef LBA",
+        "french": "Suppléant du chef BLA",
+        "italian": "Sost capo BLEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008386",
+      "label": {
+        "german": "Informatik LBA",
+        "french": "Informatique de la BLA",
+        "italian": "Informatica BLEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Informatik LBA",
+        "french": "Informatique de la BLA",
+        "italian": "Informatica BLEs",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

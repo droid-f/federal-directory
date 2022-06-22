@@ -1,1 +1,156 @@
-{"id"=>"20014729", "name"=>{"german"=>"Sekretariat Eidgenössische Kommission für nukleare Sicherheit", "french"=>"Secrétariat de la Commission fédérale de sécurité nucléaire", "italian"=>"Segreteria della Commissione federale per la sicurezza nucleare", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Gaswerkstrasse 5", "postalCode"=>"5200", "location"=>"Brugg AG", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9024216", "surname"=>"Holocher", "givenName"=>"Johannes", "email"=>nil, "phone"=>"+41 58 48 18681", "function"=>{"german"=>"Leiter/in KNS", "french"=>"Leiter/in KNS", "italian"=>"Leiter/in KNS", "english"=>"Leiter/in KNS"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000033", "label"=>{"german"=>"UVEK", "french"=>"DETEC", "italian"=>"DATEC", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation", "french"=>"Département fédéral de l'environnement, des transports, de l'énergie et de la communication", "italian"=>"Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni", "english"=>""}}, {"id"=>"20004794", "label"=>{"german"=>"BFE", "french"=>"OFEN", "italian"=>"UFE", "english"=>"SFOE"}, "name"=>{"german"=>"Bundesamt für Energie", "french"=>"Office fédéral de l'énergie", "italian"=>"Ufficio federale dell'energia", "english"=>"Bundesamt für Energie"}}, {"id"=>"10002556", "label"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Geschäftsleitung", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20034529", "label"=>{"german"=>"Abteilung Aufsicht und Sicherheit", "french"=>"Division Surveillance et sécurité", "italian"=>"Divisione Vigilanza e sicurezza", "english"=>""}, "name"=>{"german"=>"Abteilung Aufsicht und Sicherheit", "french"=>"Division Surveillance et sécurité", "italian"=>"Divisione Vigilanza e sicurezza", "english"=>""}}, {"id"=>"20014729", "label"=>{"german"=>"Sekretariat Eidgenössische Kommission für nukleare Sicherheit", "french"=>"Secrétariat de la Commission fédérale de sécurité nucléaire", "italian"=>"Segreteria della Commissione federale per la sicurezza nucleare", "english"=>""}, "name"=>{"german"=>"Sekretariat Eidgenössische Kommission für nukleare Sicherheit", "french"=>"Secrétariat de la Commission fédérale de sécurité nucléaire", "italian"=>"Segreteria della Commissione federale per la sicurezza nucleare", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20014729",
+  "name": {
+    "german": "Sekretariat Eidgenössische Kommission für nukleare Sicherheit",
+    "french": "Secrétariat de la Commission fédérale de sécurité nucléaire",
+    "italian": "Segreteria della Commissione federale per la sicurezza nucleare",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Gaswerkstrasse 5",
+    "postalCode": "5200",
+    "location": "Brugg AG",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9024216",
+      "surname": "Holocher",
+      "givenName": "Johannes",
+      "email": null,
+      "phone": "+41 58 48 18681",
+      "function": {
+        "german": "Leiter/in KNS",
+        "french": "Leiter/in KNS",
+        "italian": "Leiter/in KNS",
+        "english": "Leiter/in KNS"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000033",
+      "label": {
+        "german": "UVEK",
+        "french": "DETEC",
+        "italian": "DATEC",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation",
+        "french": "Département fédéral de l'environnement, des transports, de l'énergie et de la communication",
+        "italian": "Dipartimento federale dell'ambiente, dei trasporti, dell'energia e delle comunicazioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004794",
+      "label": {
+        "german": "BFE",
+        "french": "OFEN",
+        "italian": "UFE",
+        "english": "SFOE"
+      },
+      "name": {
+        "german": "Bundesamt für Energie",
+        "french": "Office fédéral de l'énergie",
+        "italian": "Ufficio federale dell'energia",
+        "english": "Bundesamt für Energie"
+      }
+    },
+    {
+      "id": "10002556",
+      "label": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Geschäftsleitung",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034529",
+      "label": {
+        "german": "Abteilung Aufsicht und Sicherheit",
+        "french": "Division Surveillance et sécurité",
+        "italian": "Divisione Vigilanza e sicurezza",
+        "english": ""
+      },
+      "name": {
+        "german": "Abteilung Aufsicht und Sicherheit",
+        "french": "Division Surveillance et sécurité",
+        "italian": "Divisione Vigilanza e sicurezza",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014729",
+      "label": {
+        "german": "Sekretariat Eidgenössische Kommission für nukleare Sicherheit",
+        "french": "Secrétariat de la Commission fédérale de sécurité nucléaire",
+        "italian": "Segreteria della Commissione federale per la sicurezza nucleare",
+        "english": ""
+      },
+      "name": {
+        "german": "Sekretariat Eidgenössische Kommission für nukleare Sicherheit",
+        "french": "Secrétariat de la Commission fédérale de sécurité nucléaire",
+        "italian": "Segreteria della Commissione federale per la sicurezza nucleare",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

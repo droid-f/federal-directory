@@ -1,1 +1,156 @@
-{"id"=>"20012306", "name"=>{"german"=>"Umweltmanagement, Normen und Standards", "french"=>"Gestion de l'environnement, normes et standards", "italian"=>"Gestione ambientale, norme e standard", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Guisanplatz 1", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-8962114", "surname"=>"Jauslin", "givenName"=>"Markus", "email"=>nil, "phone"=>"+41 58 46 55584", "function"=>{"german"=>"Leiter FB Umweltmanagement, Normen und Standards", "french"=>"Chef du DS gestion de l'environnement, normes et standards", "italian"=>"Capo SS Gestione ambientale, norme e standard", "english"=>"Leiter FB Umweltmgmt, Normen und Stand."}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20005536", "label"=>{"german"=>"ar", "french"=>"ar", "italian"=>"ar", "english"=>""}, "name"=>{"german"=>"Bundesamt für Rüstung - armasuisse", "french"=>"Office fédéral de l'armement-armasuisse", "italian"=>"Ufficio fed. dell'armamento - armasuisse", "english"=>""}}, {"id"=>"20004155", "label"=>{"german"=>"ar IMMO", "french"=>"ar IMMO", "italian"=>"ar IMMO", "english"=>""}, "name"=>{"german"=>"armasuisse Immobilien", "french"=>"armasuisse Immobilier", "italian"=>"armasuisse Immobili", "english"=>""}}, {"id"=>"20012303", "label"=>{"german"=>"Portfolio- und Umweltmanagement", "french"=>"Gestion du portefeuille et de l'environnement", "italian"=>"Gestione del portafoglio e delle questioni ambientali", "english"=>""}, "name"=>{"german"=>"Portfolio- und Umweltmanagement", "french"=>"Gestion du portefeuille et de l'environnement", "italian"=>"Gestione del portafoglio e delle questioni ambientali", "english"=>""}}, {"id"=>"20012306", "label"=>{"german"=>"Umweltmanagement, Normen und Standards", "french"=>"Gestion de l'environnement, normes et standards", "italian"=>"Gestione ambientale, norme e standard", "english"=>""}, "name"=>{"german"=>"Umweltmanagement, Normen und Standards", "french"=>"Gestion de l'environnement, normes et standards", "italian"=>"Gestione ambientale, norme e standard", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20012306",
+  "name": {
+    "german": "Umweltmanagement, Normen und Standards",
+    "french": "Gestion de l'environnement, normes et standards",
+    "italian": "Gestione ambientale, norme e standard",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Guisanplatz 1",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-8962114",
+      "surname": "Jauslin",
+      "givenName": "Markus",
+      "email": null,
+      "phone": "+41 58 46 55584",
+      "function": {
+        "german": "Leiter FB Umweltmanagement, Normen und Standards",
+        "french": "Chef du DS gestion de l'environnement, normes et standards",
+        "italian": "Capo SS Gestione ambientale, norme e standard",
+        "english": "Leiter FB Umweltmgmt, Normen und Stand."
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20005536",
+      "label": {
+        "german": "ar",
+        "french": "ar",
+        "italian": "ar",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesamt für Rüstung - armasuisse",
+        "french": "Office fédéral de l'armement-armasuisse",
+        "italian": "Ufficio fed. dell'armamento - armasuisse",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004155",
+      "label": {
+        "german": "ar IMMO",
+        "french": "ar IMMO",
+        "italian": "ar IMMO",
+        "english": ""
+      },
+      "name": {
+        "german": "armasuisse Immobilien",
+        "french": "armasuisse Immobilier",
+        "italian": "armasuisse Immobili",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012303",
+      "label": {
+        "german": "Portfolio- und Umweltmanagement",
+        "french": "Gestion du portefeuille et de l'environnement",
+        "italian": "Gestione del portafoglio e delle questioni ambientali",
+        "english": ""
+      },
+      "name": {
+        "german": "Portfolio- und Umweltmanagement",
+        "french": "Gestion du portefeuille et de l'environnement",
+        "italian": "Gestione del portafoglio e delle questioni ambientali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20012306",
+      "label": {
+        "german": "Umweltmanagement, Normen und Standards",
+        "french": "Gestion de l'environnement, normes et standards",
+        "italian": "Gestione ambientale, norme e standard",
+        "english": ""
+      },
+      "name": {
+        "german": "Umweltmanagement, Normen und Standards",
+        "french": "Gestion de l'environnement, normes et standards",
+        "italian": "Gestione ambientale, norme e standard",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

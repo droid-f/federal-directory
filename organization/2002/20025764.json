@@ -1,1 +1,247 @@
-{"id"=>"20025764", "name"=>{"german"=>"HR-Beratung", "french"=>"Conseil RH", "italian"=>"Consulenza RU", "english"=>"HR Advisory Services"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Freiburgstrasse 130", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20037479", "name"=>{"german"=>"HR-Beratung STS/DV", "french"=>"Conseil RH STS/DV", "italian"=>"Consulenza RU STS/DV", "english"=>"HR Advisory Service STS/DV"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20025767", "name"=>{"german"=>"HR-Beratung DR/GS/KD", "french"=>"Conseil RH DR/GS/KD", "italian"=>"Consulenza RU DR/GS/KD", "english"=>"HR Advisory Service DR/GS/KD"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040682", "name"=>{"german"=>"HR-Beratung DEZA", "french"=>"Conseil RH DEZA", "italian"=>"Consulenza RU DEZA", "english"=>"HR Advisory Service DEZA"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20047202", "name"=>{"german"=>"HR-Beratung Topkader/Detachierungen", "french"=>"Conseil RH Topkader/Detachierungen", "italian"=>"Consulenza RU Topkader/Detachierungen", "english"=>"HR Advisory Service Topkader/Detachierungen"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20004651", "name"=>{"german"=>"HR-Beratung Lokal- und Honorarpersonal", "french"=>"Conseil RH Personnel local et personnel honoraire", "italian"=>"Consulenza RU Personale locale e personale onorario", "english"=>"HR Advisory Service Local and Honorary Personnel"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20040683", "name"=>{"german"=>"HR-Administration", "french"=>"Administration RH", "italian"=>"Amministrazione RU", "english"=>"HR Administration"}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2825652", "surname"=>"Schneider", "givenName"=>"Daniela", "email"=>nil, "phone"=>"+41 58 46 46266", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-1552863", "surname"=>"Jacobi", "givenName"=>"Martin", "email"=>nil, "phone"=>"+41 58 48 39914", "function"=>{"german"=>"Chef/in", "french"=>"Chef/in", "italian"=>"Chef/in", "english"=>"Chef/in"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000028", "label"=>{"german"=>"EDA", "french"=>"DFAE", "italian"=>"DFAE", "english"=>"FDFA"}, "name"=>{"german"=>"Eidgenössisches Departement für auswärtige Angelegenheiten", "french"=>"Département fédéral des affaires étrangères", "italian"=>"Dipartimento federale degli affari esteri", "english"=>"Federal Department of Foreign Affairs"}}, {"id"=>"10000544", "label"=>{"german"=>"DR", "french"=>"DR", "italian"=>"DR", "english"=>"DR"}, "name"=>{"german"=>"Direktion für Ressourcen", "french"=>"Direction des ressources", "italian"=>"Direzione delle risorse", "english"=>"Directorate for Resources"}}, {"id"=>"10000584", "label"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}, "name"=>{"german"=>"Personal EDA", "french"=>"Personnel DFAE", "italian"=>"Personale DFAE", "english"=>"FDFA Human Resources"}}, {"id"=>"20025764", "label"=>{"german"=>"HR-Beratung", "french"=>"Conseil RH", "italian"=>"Consulenza RU", "english"=>"HR Advisory Services"}, "name"=>{"german"=>"HR-Beratung", "french"=>"Conseil RH", "italian"=>"Consulenza RU", "english"=>"HR Advisory Services"}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20025764",
+  "name": {
+    "german": "HR-Beratung",
+    "french": "Conseil RH",
+    "italian": "Consulenza RU",
+    "english": "HR Advisory Services"
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Freiburgstrasse 130",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20037479",
+      "name": {
+        "german": "HR-Beratung STS/DV",
+        "french": "Conseil RH STS/DV",
+        "italian": "Consulenza RU STS/DV",
+        "english": "HR Advisory Service STS/DV"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20025767",
+      "name": {
+        "german": "HR-Beratung DR/GS/KD",
+        "french": "Conseil RH DR/GS/KD",
+        "italian": "Consulenza RU DR/GS/KD",
+        "english": "HR Advisory Service DR/GS/KD"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040682",
+      "name": {
+        "german": "HR-Beratung DEZA",
+        "french": "Conseil RH DEZA",
+        "italian": "Consulenza RU DEZA",
+        "english": "HR Advisory Service DEZA"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20047202",
+      "name": {
+        "german": "HR-Beratung Topkader/Detachierungen",
+        "french": "Conseil RH Topkader/Detachierungen",
+        "italian": "Consulenza RU Topkader/Detachierungen",
+        "english": "HR Advisory Service Topkader/Detachierungen"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004651",
+      "name": {
+        "german": "HR-Beratung Lokal- und Honorarpersonal",
+        "french": "Conseil RH Personnel local et personnel honoraire",
+        "italian": "Consulenza RU Personale locale e personale onorario",
+        "english": "HR Advisory Service Local and Honorary Personnel"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20040683",
+      "name": {
+        "german": "HR-Administration",
+        "french": "Administration RH",
+        "italian": "Amministrazione RU",
+        "english": "HR Administration"
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2825652",
+      "surname": "Schneider",
+      "givenName": "Daniela",
+      "email": null,
+      "phone": "+41 58 46 46266",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-1552863",
+      "surname": "Jacobi",
+      "givenName": "Martin",
+      "email": null,
+      "phone": "+41 58 48 39914",
+      "function": {
+        "german": "Chef/in",
+        "french": "Chef/in",
+        "italian": "Chef/in",
+        "english": "Chef/in"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000028",
+      "label": {
+        "german": "EDA",
+        "french": "DFAE",
+        "italian": "DFAE",
+        "english": "FDFA"
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für auswärtige Angelegenheiten",
+        "french": "Département fédéral des affaires étrangères",
+        "italian": "Dipartimento federale degli affari esteri",
+        "english": "Federal Department of Foreign Affairs"
+      }
+    },
+    {
+      "id": "10000544",
+      "label": {
+        "german": "DR",
+        "french": "DR",
+        "italian": "DR",
+        "english": "DR"
+      },
+      "name": {
+        "german": "Direktion für Ressourcen",
+        "french": "Direction des ressources",
+        "italian": "Direzione delle risorse",
+        "english": "Directorate for Resources"
+      }
+    },
+    {
+      "id": "10000584",
+      "label": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      },
+      "name": {
+        "german": "Personal EDA",
+        "french": "Personnel DFAE",
+        "italian": "Personale DFAE",
+        "english": "FDFA Human Resources"
+      }
+    },
+    {
+      "id": "20025764",
+      "label": {
+        "german": "HR-Beratung",
+        "french": "Conseil RH",
+        "italian": "Consulenza RU",
+        "english": "HR Advisory Services"
+      },
+      "name": {
+        "german": "HR-Beratung",
+        "french": "Conseil RH",
+        "italian": "Consulenza RU",
+        "english": "HR Advisory Services"
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

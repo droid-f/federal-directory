@@ -1,1 +1,217 @@
-{"id"=>"10002220", "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Archivstrasse 24", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20010301", "name"=>{"german"=>"Ressort Stab", "french"=>"Unité Etat-major", "italian"=>"Unità Stato maggiore", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20034015", "name"=>{"german"=>"Ressort Personal", "french"=>"Unité Ressources humaines", "italian"=>"Unità Risorse umane", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20027532", "name"=>{"german"=>"Ressort Informationstechnik", "french"=>"Unité des techniques de l'information", "italian"=>"Unità Tecnica dell'informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"10009613", "name"=>{"german"=>"Abteilung Informationsüberlieferung", "french"=>"Division de la pérennisation de l'information", "italian"=>"Divisione preservazione dell'informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017928", "name"=>{"german"=>"Abteilung Informationszugang", "french"=>"Division de l'accès à l'information", "italian"=>"Divisione accesso all'informazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-2633480", "surname"=>"Künzler", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 23757", "function"=>{"german"=>"Direktor Schweiz. Bundesarchiv", "french"=>"Direktor Schweiz. Bundesarchiv", "italian"=>"Direktor Schweiz. Bundesarchiv", "english"=>"Direktor Schweiz. Bundesarchiv"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-4784201", "surname"=>"Kwasnitza", "givenName"=>"Stefan", "email"=>nil, "phone"=>"+41 58 46 28649", "function"=>{"german"=>"Stellvertretender Direktor / Leiter AIU", "french"=>"Stellvertretender Direktor / Leiter AIU", "italian"=>"Stellvertretender Direktor / Leiter AIU", "english"=>"Stellvertretender Direktor / Leiter AIU"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008653", "label"=>{"german"=>"BAR", "french"=>"BAR", "italian"=>"BAR", "english"=>""}, "name"=>{"german"=>"Schweizerisches Bundesarchiv", "french"=>"Archives fédérales suisses", "italian"=>"Archivio federale svizzero", "english"=>""}}, {"id"=>"10002220", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10002220",
+  "name": {
+    "german": "Direktion",
+    "french": "Direction",
+    "italian": "Direzione",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Archivstrasse 24",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20010301",
+      "name": {
+        "german": "Ressort Stab",
+        "french": "Unité Etat-major",
+        "italian": "Unità Stato maggiore",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034015",
+      "name": {
+        "german": "Ressort Personal",
+        "french": "Unité Ressources humaines",
+        "italian": "Unità Risorse umane",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20027532",
+      "name": {
+        "german": "Ressort Informationstechnik",
+        "french": "Unité des techniques de l'information",
+        "italian": "Unità Tecnica dell'informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "10009613",
+      "name": {
+        "german": "Abteilung Informationsüberlieferung",
+        "french": "Division de la pérennisation de l'information",
+        "italian": "Divisione preservazione dell'informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017928",
+      "name": {
+        "german": "Abteilung Informationszugang",
+        "french": "Division de l'accès à l'information",
+        "italian": "Divisione accesso all'informazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-2633480",
+      "surname": "Künzler",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 23757",
+      "function": {
+        "german": "Direktor Schweiz. Bundesarchiv",
+        "french": "Direktor Schweiz. Bundesarchiv",
+        "italian": "Direktor Schweiz. Bundesarchiv",
+        "english": "Direktor Schweiz. Bundesarchiv"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-4784201",
+      "surname": "Kwasnitza",
+      "givenName": "Stefan",
+      "email": null,
+      "phone": "+41 58 46 28649",
+      "function": {
+        "german": "Stellvertretender Direktor / Leiter AIU",
+        "french": "Stellvertretender Direktor / Leiter AIU",
+        "italian": "Stellvertretender Direktor / Leiter AIU",
+        "english": "Stellvertretender Direktor / Leiter AIU"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008653",
+      "label": {
+        "german": "BAR",
+        "french": "BAR",
+        "italian": "BAR",
+        "english": ""
+      },
+      "name": {
+        "german": "Schweizerisches Bundesarchiv",
+        "french": "Archives fédérales suisses",
+        "italian": "Archivio federale svizzero",
+        "english": ""
+      }
+    },
+    {
+      "id": "10002220",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

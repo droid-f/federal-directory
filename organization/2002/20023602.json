@@ -1,1 +1,170 @@
-{"id"=>"20023602", "name"=>{"german"=>"Vorruhestand LBA", "french"=>"Congé de préretraite BLA", "italian"=>"Congedo di prepensionamento BLEs", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Bolligenstrasse 56", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20003026", "label"=>{"german"=>"ASTAB", "french"=>"EMA", "italian"=>"SMEs", "english"=>""}, "name"=>{"german"=>"Armeestab", "french"=>"Etat-major de l'armée", "italian"=>"Stato maggiore dell'esercito", "english"=>""}}, {"id"=>"20003029", "label"=>{"german"=>"Personal V", "french"=>"Personnel D", "italian"=>"Personale D", "english"=>""}, "name"=>{"german"=>"Personal V", "french"=>"Personnel D", "italian"=>"Personale D", "english"=>""}}, {"id"=>"20020026", "label"=>{"german"=>"Vorruhestand", "french"=>"Congé de préretraite", "italian"=>"Congedo di prepensionamento", "english"=>""}, "name"=>{"german"=>"Vorruhestand", "french"=>"Congé de préretraite", "italian"=>"Congedo di prepensionamento", "english"=>""}}, {"id"=>"20023602", "label"=>{"german"=>"Vorruhestand LBA", "french"=>"Congé de préretraite BLA", "italian"=>"Congedo di prepensionamento BLEs", "english"=>""}, "name"=>{"german"=>"Vorruhestand LBA", "french"=>"Congé de préretraite BLA", "italian"=>"Congedo di prepensionamento BLEs", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20023602",
+  "name": {
+    "german": "Vorruhestand LBA",
+    "french": "Congé de préretraite BLA",
+    "italian": "Congedo di prepensionamento BLEs",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Bolligenstrasse 56",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003026",
+      "label": {
+        "german": "ASTAB",
+        "french": "EMA",
+        "italian": "SMEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Armeestab",
+        "french": "Etat-major de l'armée",
+        "italian": "Stato maggiore dell'esercito",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003029",
+      "label": {
+        "german": "Personal V",
+        "french": "Personnel D",
+        "italian": "Personale D",
+        "english": ""
+      },
+      "name": {
+        "german": "Personal V",
+        "french": "Personnel D",
+        "italian": "Personale D",
+        "english": ""
+      }
+    },
+    {
+      "id": "20020026",
+      "label": {
+        "german": "Vorruhestand",
+        "french": "Congé de préretraite",
+        "italian": "Congedo di prepensionamento",
+        "english": ""
+      },
+      "name": {
+        "german": "Vorruhestand",
+        "french": "Congé de préretraite",
+        "italian": "Congedo di prepensionamento",
+        "english": ""
+      }
+    },
+    {
+      "id": "20023602",
+      "label": {
+        "german": "Vorruhestand LBA",
+        "french": "Congé de préretraite BLA",
+        "italian": "Congedo di prepensionamento BLEs",
+        "english": ""
+      },
+      "name": {
+        "german": "Vorruhestand LBA",
+        "french": "Congé de préretraite BLA",
+        "italian": "Congedo di prepensionamento BLEs",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

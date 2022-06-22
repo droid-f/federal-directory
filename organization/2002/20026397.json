@@ -1,1 +1,217 @@
-{"id"=>"20026397", "name"=>{"german"=>"Rückkehrgrundlagen und Rückkehrhilfe", "french"=>"Bases du retour et aide au retour", "italian"=>"Basi del ritorno e aiuto al ritorno", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"Quellenweg 6", "postalCode"=>"3003", "location"=>"Bern", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20048634", "name"=>{"german"=>"Rückkehrgrundlagen", "french"=>"Bases du retour et aide au retour", "italian"=>"Basi del ritorno e aiuto al ritorno", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20048635", "name"=>{"german"=>"Rückkehrhilfe", "french"=>"Bases du retour et aide au retour", "italian"=>"Basi del ritorno e aiuto al ritorno", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-9136459", "surname"=>"Coban", "givenName"=>"Diana", "email"=>nil, "phone"=>"+41 58 46 39502", "function"=>{"german"=>"Chef/in Sektion im Job Sharing", "french"=>"Chef/in Sektion im Job Sharing", "italian"=>"Chef/in Sektion im Job Sharing", "english"=>"Chef/in Sektion im Job Sharing"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0795893", "surname"=>"Feliser", "givenName"=>"Philippe", "email"=>nil, "phone"=>"+41 58 46 51067", "function"=>{"german"=>"Chef/in Sektion im Job Sharing", "french"=>"Chef/in Sektion im Job Sharing", "italian"=>"Chef/in Sektion im Job Sharing", "english"=>"Chef/in Sektion im Job Sharing"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000030", "label"=>{"german"=>"EJPD", "french"=>"DFJP", "italian"=>"DFGP", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Justiz- und Polizeidepartement", "french"=>"Département fédéral de justice et police", "italian"=>"Dipartimento federale di giustizia e polizia", "english"=>""}}, {"id"=>"20008576", "label"=>{"german"=>"SEM", "french"=>"SEM", "italian"=>"SEM", "english"=>""}, "name"=>{"german"=>"Staatssekretariat für Migration", "french"=>"Secrétariat d'Etat aux migrations", "italian"=>"Segreteria di Stato della migrazione", "english"=>""}}, {"id"=>"20026303", "label"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}, "name"=>{"german"=>"Direktion", "french"=>"Direction", "italian"=>"Direzione", "english"=>""}}, {"id"=>"20026308", "label"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>""}, "name"=>{"german"=>"Internationales", "french"=>"Affaires internationales", "italian"=>"Affari internazionali", "english"=>""}}, {"id"=>"20034957", "label"=>{"german"=>"Rückkehr", "french"=>"Retour", "italian"=>"Ritorno", "english"=>""}, "name"=>{"german"=>"Rückkehr", "french"=>"Retour", "italian"=>"Ritorno", "english"=>""}}, {"id"=>"20026397", "label"=>{"german"=>"Rückkehrgrundlagen und Rückkehrhilfe", "french"=>"Bases du retour et aide au retour", "italian"=>"Basi del ritorno e aiuto al ritorno", "english"=>""}, "name"=>{"german"=>"Rückkehrgrundlagen und Rückkehrhilfe", "french"=>"Bases du retour et aide au retour", "italian"=>"Basi del ritorno e aiuto al ritorno", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20026397",
+  "name": {
+    "german": "Rückkehrgrundlagen und Rückkehrhilfe",
+    "french": "Bases du retour et aide au retour",
+    "italian": "Basi del ritorno e aiuto al ritorno",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "Quellenweg 6",
+    "postalCode": "3003",
+    "location": "Bern",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20048634",
+      "name": {
+        "german": "Rückkehrgrundlagen",
+        "french": "Bases du retour et aide au retour",
+        "italian": "Basi del ritorno e aiuto al ritorno",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048635",
+      "name": {
+        "german": "Rückkehrhilfe",
+        "french": "Bases du retour et aide au retour",
+        "italian": "Basi del ritorno e aiuto al ritorno",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-9136459",
+      "surname": "Coban",
+      "givenName": "Diana",
+      "email": null,
+      "phone": "+41 58 46 39502",
+      "function": {
+        "german": "Chef/in Sektion im Job Sharing",
+        "french": "Chef/in Sektion im Job Sharing",
+        "italian": "Chef/in Sektion im Job Sharing",
+        "english": "Chef/in Sektion im Job Sharing"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0795893",
+      "surname": "Feliser",
+      "givenName": "Philippe",
+      "email": null,
+      "phone": "+41 58 46 51067",
+      "function": {
+        "german": "Chef/in Sektion im Job Sharing",
+        "french": "Chef/in Sektion im Job Sharing",
+        "italian": "Chef/in Sektion im Job Sharing",
+        "english": "Chef/in Sektion im Job Sharing"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000030",
+      "label": {
+        "german": "EJPD",
+        "french": "DFJP",
+        "italian": "DFGP",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Justiz- und Polizeidepartement",
+        "french": "Département fédéral de justice et police",
+        "italian": "Dipartimento federale di giustizia e polizia",
+        "english": ""
+      }
+    },
+    {
+      "id": "20008576",
+      "label": {
+        "german": "SEM",
+        "french": "SEM",
+        "italian": "SEM",
+        "english": ""
+      },
+      "name": {
+        "german": "Staatssekretariat für Migration",
+        "french": "Secrétariat d'Etat aux migrations",
+        "italian": "Segreteria di Stato della migrazione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026303",
+      "label": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      },
+      "name": {
+        "german": "Direktion",
+        "french": "Direction",
+        "italian": "Direzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026308",
+      "label": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": ""
+      },
+      "name": {
+        "german": "Internationales",
+        "french": "Affaires internationales",
+        "italian": "Affari internazionali",
+        "english": ""
+      }
+    },
+    {
+      "id": "20034957",
+      "label": {
+        "german": "Rückkehr",
+        "french": "Retour",
+        "italian": "Ritorno",
+        "english": ""
+      },
+      "name": {
+        "german": "Rückkehr",
+        "french": "Retour",
+        "italian": "Ritorno",
+        "english": ""
+      }
+    },
+    {
+      "id": "20026397",
+      "label": {
+        "german": "Rückkehrgrundlagen und Rückkehrhilfe",
+        "french": "Bases du retour et aide au retour",
+        "italian": "Basi del ritorno e aiuto al ritorno",
+        "english": ""
+      },
+      "name": {
+        "german": "Rückkehrgrundlagen und Rückkehrhilfe",
+        "french": "Bases du retour et aide au retour",
+        "italian": "Basi del ritorno e aiuto al ritorno",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

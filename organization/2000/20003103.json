@@ -1,1 +1,260 @@
-{"id"=>"20003103", "name"=>{"german"=>"ABC Abwehrschule 77", "french"=>"Ecole de défense NBC 77", "italian"=>"Scuola di difesa NBC 77", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"Kdo ABC Abwehrschule 77", "street"=>"ABC Zentrum", "postalCode"=>"3700", "location"=>"Spiez", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20046759", "name"=>{"german"=>"Führungsunterstützung 77", "french"=>"Aide au commandement 77", "italian"=>"Ajuto alla condotta 77", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017163", "name"=>{"german"=>"Dekontamination", "french"=>"Décontamination", "italian"=>"Decontaminazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017164", "name"=>{"german"=>"Mobiler ABC Nachweis / Aufklärung", "french"=>"Détection mobile NBC / exploration", "italian"=>"Rilevamento NBC mobile / Esplorazione", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017156", "name"=>{"german"=>"Kdt Stv / Planung 77", "french"=>"Rempl cdt / planification 77", "italian"=>"Sost cdt / Pianificazione 77", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, {"id"=>"20017160", "name"=>{"german"=>"Lehrgänge / Kurse ABC Abw aller Truppen", "french"=>"SF / cours déf NBC toutes les trp", "italian"=>"Cfo / corsi dif NBC di tutte le truppe", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-1117203", "surname"=>"Chollet", "givenName"=>"Christophe", "email"=>nil, "phone"=>"+41 58 46 81678", "function"=>{"german"=>"Kommandant ABC Abwehr Schule", "french"=>"Commandant école défense NBC", "italian"=>"Comandante scuola di difesa NBC", "english"=>"Kommandant ABC Abwehr Schule"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000001", "label"=>{"german"=>"VBS", "french"=>"DDPS", "italian"=>"DDPS", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport", "french"=>"Département fédéral de la défense, de la protection de la population et des sports", "italian"=>"Dipartimento federale della difesa, della protezione della popolazione e dello sport", "english"=>""}}, {"id"=>"20004643", "label"=>{"german"=>"Vtg", "french"=>"Def", "italian"=>"Dif", "english"=>""}, "name"=>{"german"=>"Verteidigung", "french"=>"Défense", "italian"=>"Difesa", "english"=>""}}, {"id"=>"10004715", "label"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}, "name"=>{"german"=>"HQ CdA", "french"=>"QG CdA", "italian"=>"QG CEs", "english"=>""}}, {"id"=>"20042328", "label"=>{"german"=>"AUSB", "french"=>"INSTR", "italian"=>"ISTR", "english"=>""}, "name"=>{"german"=>"Kommando Ausbildung", "french"=>"Commandement de l'Instruction", "italian"=>"Comando Istruzione", "english"=>""}}, {"id"=>"20015871", "label"=>{"german"=>"LVBGRABC", "french"=>"LVBGRABC", "italian"=>"LVBGRABC", "english"=>""}, "name"=>{"german"=>"Lehrverband Genie/Rettung/ABC", "french"=>"FOAP génie/sauvetage/NBC", "italian"=>"FOA G/salv/NBC", "english"=>""}}, {"id"=>"20003086", "label"=>{"german"=>"Kompetenzzentrum ABC KAMIR", "french"=>"Centre de compétences NBC DEMUNEX", "italian"=>"Centro di competenza NBC KAMIR", "english"=>""}, "name"=>{"german"=>"Kompetenzzentrum ABC KAMIR", "french"=>"Centre de compétences NBC DEMUNEX", "italian"=>"Centro di competenza NBC KAMIR", "english"=>""}}, {"id"=>"20003103", "label"=>{"german"=>"ABC Abwehrschule 77", "french"=>"Ecole de défense NBC 77", "italian"=>"Scuola di difesa NBC 77", "english"=>""}, "name"=>{"german"=>"ABC Abwehrschule 77", "french"=>"Ecole de défense NBC 77", "italian"=>"Scuola di difesa NBC 77", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20003103",
+  "name": {
+    "german": "ABC Abwehrschule 77",
+    "french": "Ecole de défense NBC 77",
+    "italian": "Scuola di difesa NBC 77",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "Kdo ABC Abwehrschule 77",
+    "street": "ABC Zentrum",
+    "postalCode": "3700",
+    "location": "Spiez",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20046759",
+      "name": {
+        "german": "Führungsunterstützung 77",
+        "french": "Aide au commandement 77",
+        "italian": "Ajuto alla condotta 77",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017163",
+      "name": {
+        "german": "Dekontamination",
+        "french": "Décontamination",
+        "italian": "Decontaminazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017164",
+      "name": {
+        "german": "Mobiler ABC Nachweis / Aufklärung",
+        "french": "Détection mobile NBC / exploration",
+        "italian": "Rilevamento NBC mobile / Esplorazione",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017156",
+      "name": {
+        "german": "Kdt Stv / Planung 77",
+        "french": "Rempl cdt / planification 77",
+        "italian": "Sost cdt / Pianificazione 77",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    },
+    {
+      "id": "20017160",
+      "name": {
+        "german": "Lehrgänge / Kurse ABC Abw aller Truppen",
+        "french": "SF / cours déf NBC toutes les trp",
+        "italian": "Cfo / corsi dif NBC di tutte le truppe",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "",
+        "french": "",
+        "italian": "",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-1117203",
+      "surname": "Chollet",
+      "givenName": "Christophe",
+      "email": null,
+      "phone": "+41 58 46 81678",
+      "function": {
+        "german": "Kommandant ABC Abwehr Schule",
+        "french": "Commandant école défense NBC",
+        "italian": "Comandante scuola di difesa NBC",
+        "english": "Kommandant ABC Abwehr Schule"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000001",
+      "label": {
+        "german": "VBS",
+        "french": "DDPS",
+        "italian": "DDPS",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",
+        "french": "Département fédéral de la défense, de la protection de la population et des sports",
+        "italian": "Dipartimento federale della difesa, della protezione della popolazione e dello sport",
+        "english": ""
+      }
+    },
+    {
+      "id": "20004643",
+      "label": {
+        "german": "Vtg",
+        "french": "Def",
+        "italian": "Dif",
+        "english": ""
+      },
+      "name": {
+        "german": "Verteidigung",
+        "french": "Défense",
+        "italian": "Difesa",
+        "english": ""
+      }
+    },
+    {
+      "id": "10004715",
+      "label": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      },
+      "name": {
+        "german": "HQ CdA",
+        "french": "QG CdA",
+        "italian": "QG CEs",
+        "english": ""
+      }
+    },
+    {
+      "id": "20042328",
+      "label": {
+        "german": "AUSB",
+        "french": "INSTR",
+        "italian": "ISTR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kommando Ausbildung",
+        "french": "Commandement de l'Instruction",
+        "italian": "Comando Istruzione",
+        "english": ""
+      }
+    },
+    {
+      "id": "20015871",
+      "label": {
+        "german": "LVBGRABC",
+        "french": "LVBGRABC",
+        "italian": "LVBGRABC",
+        "english": ""
+      },
+      "name": {
+        "german": "Lehrverband Genie/Rettung/ABC",
+        "french": "FOAP génie/sauvetage/NBC",
+        "italian": "FOA G/salv/NBC",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003086",
+      "label": {
+        "german": "Kompetenzzentrum ABC KAMIR",
+        "french": "Centre de compétences NBC DEMUNEX",
+        "italian": "Centro di competenza NBC KAMIR",
+        "english": ""
+      },
+      "name": {
+        "german": "Kompetenzzentrum ABC KAMIR",
+        "french": "Centre de compétences NBC DEMUNEX",
+        "italian": "Centro di competenza NBC KAMIR",
+        "english": ""
+      }
+    },
+    {
+      "id": "20003103",
+      "label": {
+        "german": "ABC Abwehrschule 77",
+        "french": "Ecole de défense NBC 77",
+        "italian": "Scuola di difesa NBC 77",
+        "english": ""
+      },
+      "name": {
+        "german": "ABC Abwehrschule 77",
+        "french": "Ecole de défense NBC 77",
+        "italian": "Scuola di difesa NBC 77",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

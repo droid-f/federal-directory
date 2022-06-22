@@ -1,1 +1,219 @@
-{"id"=>"20031394", "name"=>{"german"=>"APW - Regionalzentrale West", "french"=>"Centre régional Ouest", "italian"=>"Centro regionale Ovest", "english"=>""}, "nameAbbr"=>{"german"=>"APW", "french"=>"APW", "italian"=>"APW", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"7bis, av. de la Paix", "postalCode"=>"1211", "location"=>"Genève 2", "country"=>"CH"}, "contactInformation"=>{"phone"=>"+41 22 716 28 28", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[{"id"=>"20031396", "name"=>{"german"=>"APWB - Beobachtung und Beratung West", "french"=>"Observation et Conseil Ouest", "italian"=>"Osservazione e Consulenza Ovest", "english"=>""}, "nameAbbr"=>{"german"=>"APWB", "french"=>"APWB", "italian"=>"APWB", "english"=>""}}, {"id"=>"20031395", "name"=>{"german"=>"APW1 - Regionalzentrale West Prognose 1", "french"=>"Centre Régional Ouest, Prévision 1", "italian"=>"Centro Regionale Ovest, Previsioni 1", "english"=>""}, "nameAbbr"=>{"german"=>"APW1", "french"=>"APW1", "italian"=>"APW1", "english"=>""}}, {"id"=>"20048680", "name"=>{"german"=>"APW2 - Regionalzentrale West Prognose 2", "french"=>"Centre Régionale Ouest, Prévision 2", "italian"=>"Centro Regionale Ovest, Previsioni 2", "english"=>""}, "nameAbbr"=>{"german"=>"APW2", "french"=>"APW2", "italian"=>"APW2", "english"=>""}}], "overview"=>[{"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-7316745", "surname"=>"Bey", "givenName"=>"Isabelle", "email"=>nil, "phone"=>"+41 58 46 09299", "function"=>{"german"=>"Cheffe de division", "french"=>"Cheffe de division", "italian"=>"Cheffe de division", "english"=>"Cheffe de division"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>true, "isRepresentative"=>false, "id"=>"p-0087979", "surname"=>"Salamin", "givenName"=>"Christophe", "email"=>nil, "phone"=>"+41 58 46 09815", "function"=>{"german"=>"Chef d'équipe", "french"=>"2020-133 PL Weather4UN", "italian"=>"2020-133 PL Weather4UN", "english"=>"Chef d'équipe"}, "isVisibleInEstKa"=>true}, {"functionId"=>nil, "isHead"=>false, "isRepresentative"=>true, "id"=>"p-9628953", "surname"=>"Giroud Gaillard", "givenName"=>"Marianne", "email"=>nil, "phone"=>"+41 58 46 09826", "function"=>{"german"=>"Cheffe de division suppléante", "french"=>"Collaboration Prévisions Météo Genève", "italian"=>"Collaborazione Previsioni Meteo Ginevra", "english"=>"Cheffe de division suppléante"}, "isVisibleInEstKa"=>true}], "persons"=>[], "hierarchy"=>[{"id"=>"10000000", "label"=>{"german"=>"BR", "french"=>"CF", "italian"=>"CF", "english"=>""}, "name"=>{"german"=>"Bundesrat", "french"=>"Conseil fédéral", "italian"=>"Consiglio federale", "english"=>""}}, {"id"=>"10000029", "label"=>{"german"=>"EDI", "french"=>"DFI", "italian"=>"DFI", "english"=>""}, "name"=>{"german"=>"Eidgenössisches Departement des Innern", "french"=>"Département fédéral de l'intérieur", "italian"=>"Dipartimento federale dell'interno", "english"=>""}}, {"id"=>"10008683", "label"=>{"german"=>"MeteoSchweiz", "french"=>"MétéoSuisse", "italian"=>"MeteoSvizzera", "english"=>"MeteoSwiss"}, "name"=>{"german"=>"Bundesamt für Meteorologie und Klimatologie MeteoSchweiz", "french"=>"Office fédéral de météorologie et de climatologie MétéoSuisse", "italian"=>"Ufficio federale di meteorologia e climatologia", "english"=>"MeteoSchweiz"}}, {"id"=>"20031384", "label"=>{"german"=>"AP", "french"=>"AP", "italian"=>"AP", "english"=>""}, "name"=>{"german"=>"AP - Analyse und Prognose", "french"=>"Analyse et prévision", "italian"=>"Analisi e previsioni", "english"=>""}}, {"id"=>"20031394", "label"=>{"german"=>"APW", "french"=>"APW", "italian"=>"APW", "english"=>""}, "name"=>{"german"=>"APW - Regionalzentrale West", "french"=>"Centre régional Ouest", "italian"=>"Centro regionale Ovest", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "20031394",
+  "name": {
+    "german": "APW - Regionalzentrale West",
+    "french": "Centre régional Ouest",
+    "italian": "Centro regionale Ovest",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "APW",
+    "french": "APW",
+    "italian": "APW",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "7bis, av. de la Paix",
+    "postalCode": "1211",
+    "location": "Genève 2",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "+41 22 716 28 28",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+    {
+      "id": "20031396",
+      "name": {
+        "german": "APWB - Beobachtung und Beratung West",
+        "french": "Observation et Conseil Ouest",
+        "italian": "Osservazione e Consulenza Ovest",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "APWB",
+        "french": "APWB",
+        "italian": "APWB",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031395",
+      "name": {
+        "german": "APW1 - Regionalzentrale West Prognose 1",
+        "french": "Centre Régional Ouest, Prévision 1",
+        "italian": "Centro Regionale Ovest, Previsioni 1",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "APW1",
+        "french": "APW1",
+        "italian": "APW1",
+        "english": ""
+      }
+    },
+    {
+      "id": "20048680",
+      "name": {
+        "german": "APW2 - Regionalzentrale West Prognose 2",
+        "french": "Centre Régionale Ouest, Prévision 2",
+        "italian": "Centro Regionale Ovest, Previsioni 2",
+        "english": ""
+      },
+      "nameAbbr": {
+        "german": "APW2",
+        "french": "APW2",
+        "italian": "APW2",
+        "english": ""
+      }
+    }
+  ],
+  "overview": [
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-7316745",
+      "surname": "Bey",
+      "givenName": "Isabelle",
+      "email": null,
+      "phone": "+41 58 46 09299",
+      "function": {
+        "german": "Cheffe de division",
+        "french": "Cheffe de division",
+        "italian": "Cheffe de division",
+        "english": "Cheffe de division"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": true,
+      "isRepresentative": false,
+      "id": "p-0087979",
+      "surname": "Salamin",
+      "givenName": "Christophe",
+      "email": null,
+      "phone": "+41 58 46 09815",
+      "function": {
+        "german": "Chef d'équipe",
+        "french": "2020-133 PL Weather4UN",
+        "italian": "2020-133 PL Weather4UN",
+        "english": "Chef d'équipe"
+      },
+      "isVisibleInEstKa": true
+    },
+    {
+      "functionId": null,
+      "isHead": false,
+      "isRepresentative": true,
+      "id": "p-9628953",
+      "surname": "Giroud Gaillard",
+      "givenName": "Marianne",
+      "email": null,
+      "phone": "+41 58 46 09826",
+      "function": {
+        "german": "Cheffe de division suppléante",
+        "french": "Collaboration Prévisions Météo Genève",
+        "italian": "Collaborazione Previsioni Meteo Ginevra",
+        "english": "Cheffe de division suppléante"
+      },
+      "isVisibleInEstKa": true
+    }
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000000",
+      "label": {
+        "german": "BR",
+        "french": "CF",
+        "italian": "CF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesrat",
+        "french": "Conseil fédéral",
+        "italian": "Consiglio federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10000029",
+      "label": {
+        "german": "EDI",
+        "french": "DFI",
+        "italian": "DFI",
+        "english": ""
+      },
+      "name": {
+        "german": "Eidgenössisches Departement des Innern",
+        "french": "Département fédéral de l'intérieur",
+        "italian": "Dipartimento federale dell'interno",
+        "english": ""
+      }
+    },
+    {
+      "id": "10008683",
+      "label": {
+        "german": "MeteoSchweiz",
+        "french": "MétéoSuisse",
+        "italian": "MeteoSvizzera",
+        "english": "MeteoSwiss"
+      },
+      "name": {
+        "german": "Bundesamt für Meteorologie und Klimatologie MeteoSchweiz",
+        "french": "Office fédéral de météorologie et de climatologie MétéoSuisse",
+        "italian": "Ufficio federale di meteorologia e climatologia",
+        "english": "MeteoSchweiz"
+      }
+    },
+    {
+      "id": "20031384",
+      "label": {
+        "german": "AP",
+        "french": "AP",
+        "italian": "AP",
+        "english": ""
+      },
+      "name": {
+        "german": "AP - Analyse und Prognose",
+        "french": "Analyse et prévision",
+        "italian": "Analisi e previsioni",
+        "english": ""
+      }
+    },
+    {
+      "id": "20031394",
+      "label": {
+        "german": "APW",
+        "french": "APW",
+        "italian": "APW",
+        "english": ""
+      },
+      "name": {
+        "german": "APW - Regionalzentrale West",
+        "french": "Centre régional Ouest",
+        "italian": "Centro regionale Ovest",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}

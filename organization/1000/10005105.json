@@ -1,1 +1,125 @@
-{"id"=>"10005105", "name"=>{"german"=>"Cafeteria Lausanne", "french"=>"Cafétéria Lausanne", "italian"=>"Cafeteria Losanna", "english"=>""}, "nameAbbr"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}, "address"=>{"addressLine2"=>"", "street"=>"", "postalCode"=>"1000", "location"=>"Lausanne 14", "country"=>"CH"}, "contactInformation"=>{"phone"=>"", "fax"=>"", "email"=>"", "homepage"=>{"german"=>"", "french"=>"", "italian"=>"", "english"=>""}}, "children"=>[], "overview"=>[], "persons"=>[], "hierarchy"=>[{"id"=>"10000026", "label"=>{"german"=>"BGer", "french"=>"TF", "italian"=>"TF", "english"=>""}, "name"=>{"german"=>"Bundesgericht", "french"=>"Tribunal fédéral", "italian"=>"Tribunale federale", "english"=>""}}, {"id"=>"10005095", "label"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}, "name"=>{"german"=>"Generalsekretariat und Dienste", "french"=>"Secrétariat général et services", "italian"=>"Segretario generale e servizi", "english"=>""}}, {"id"=>"20014861", "label"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}, "name"=>{"german"=>"Ressourcen", "french"=>"Ressources", "italian"=>"Rissorce", "english"=>""}}, {"id"=>"20014863", "label"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}, "name"=>{"german"=>"Finanzdienst", "french"=>"Service des finances", "italian"=>"Servizio delle finanze", "english"=>""}}, {"id"=>"10005105", "label"=>{"german"=>"Cafeteria Lausanne", "french"=>"Cafétéria Lausanne", "italian"=>"Cafeteria Losanna", "english"=>""}, "name"=>{"german"=>"Cafeteria Lausanne", "french"=>"Cafétéria Lausanne", "italian"=>"Cafeteria Losanna", "english"=>""}}], "contactPoints"=>[], "userCertificates"=>[]}
+{
+  "id": "10005105",
+  "name": {
+    "german": "Cafeteria Lausanne",
+    "french": "Cafétéria Lausanne",
+    "italian": "Cafeteria Losanna",
+    "english": ""
+  },
+  "nameAbbr": {
+    "german": "",
+    "french": "",
+    "italian": "",
+    "english": ""
+  },
+  "address": {
+    "addressLine2": "",
+    "street": "",
+    "postalCode": "1000",
+    "location": "Lausanne 14",
+    "country": "CH"
+  },
+  "contactInformation": {
+    "phone": "",
+    "fax": "",
+    "email": "",
+    "homepage": {
+      "german": "",
+      "french": "",
+      "italian": "",
+      "english": ""
+    }
+  },
+  "children": [
+
+  ],
+  "overview": [
+
+  ],
+  "persons": [
+
+  ],
+  "hierarchy": [
+    {
+      "id": "10000026",
+      "label": {
+        "german": "BGer",
+        "french": "TF",
+        "italian": "TF",
+        "english": ""
+      },
+      "name": {
+        "german": "Bundesgericht",
+        "french": "Tribunal fédéral",
+        "italian": "Tribunale federale",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005095",
+      "label": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      },
+      "name": {
+        "german": "Generalsekretariat und Dienste",
+        "french": "Secrétariat général et services",
+        "italian": "Segretario generale e servizi",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014861",
+      "label": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      },
+      "name": {
+        "german": "Ressourcen",
+        "french": "Ressources",
+        "italian": "Rissorce",
+        "english": ""
+      }
+    },
+    {
+      "id": "20014863",
+      "label": {
+        "german": "Finanzdienst",
+        "french": "Service des finances",
+        "italian": "Servizio delle finanze",
+        "english": ""
+      },
+      "name": {
+        "german": "Finanzdienst",
+        "french": "Service des finances",
+        "italian": "Servizio delle finanze",
+        "english": ""
+      }
+    },
+    {
+      "id": "10005105",
+      "label": {
+        "german": "Cafeteria Lausanne",
+        "french": "Cafétéria Lausanne",
+        "italian": "Cafeteria Losanna",
+        "english": ""
+      },
+      "name": {
+        "german": "Cafeteria Lausanne",
+        "french": "Cafétéria Lausanne",
+        "italian": "Cafeteria Losanna",
+        "english": ""
+      }
+    }
+  ],
+  "contactPoints": [
+
+  ],
+  "userCertificates": [
+
+  ]
+}
