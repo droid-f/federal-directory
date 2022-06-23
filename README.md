@@ -16,7 +16,11 @@ The site allows one to explore most of the organisation chart of the Swiss Confe
 - ``JSON`` objects are prettified in order to take advantage of git to track changes.
 
 ## Additional files
-_there are no additional files at this time_
+CSV files are automatically generated with identifiers, names, abbreviations in the three official languages and English: 
+- (depth 2) departments: ```government_depth2_departments.csv```
+- (depth 3) departments and offices ```government_depth3_offices.csv```
+- (detph 4) departments, offices and main units ```government_depth4_main_units.csv```
+- (depth 13) all published structure ```government_depth13_all_units.csv```
 
 ## Feedbacks
 Feedbacks are welcome. For suggestions, missing or incorrect data open an issue.
